@@ -1,0 +1,14 @@
+Das Rhabdoid-Prädispositions-Syndrom ist ein seltenes Syndrom, bei dem es zu einer familiären Häufung bösartiger Tumoren in Gehirn, Niere und anderen Geweben kommt, die als atypischer teratoider/rhabdoider Tumor und maligne rhabdoide Tumoren bezeichnet werden. 
+
+
+== Genetik ==
+Genetisch liegen in der überwiegenden Zahl der Familien genetische Veränderungen des SMARCB1 (hSNF5/INI1) Gens, einer Unterheit des SWI/SNF Chromatin-Remodeling-Complex zugrunde, die zu einer verminderten nukleären Expression des INI1-Proteins führen (RTPS1).
+Seltener kommt das Rhabdoid-Prädispositions-Syndrom auch in Zusammenhang mit genetischen Veränderungen von SMARCA4 (BRG1), einem Gen, das für eine weitere Unterheit des SWI/SNF Chromatin-Remodeling-Complex kodiert, vor (RTPS2).
+
+
+== Weblink ==
+Rhabdoid-Prädispositions-Syndrom 1. In: Online Mendelian Inheritance in Man. (englisch)
+Rhabdoid-Prädispositions-Syndrom 2. In: Online Mendelian Inheritance in Man. (englisch)
+
+
+== Einzelnachweise ==

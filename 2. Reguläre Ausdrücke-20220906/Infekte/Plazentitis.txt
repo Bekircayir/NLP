@@ -1,0 +1,27 @@
+Eine Plazentitis ist eine Infektion der Plazenta.
+
+
+== Ätiologie ==
+Die eine Plazentitis auslösenden Infektionen werden meist vaginal bei verfrühter Ruptur des Amnions übertragen. Selten findet die Infektion über das Blut statt, also bei intakten fetalen Membranen. Eine häufige Ursache für die Plazentitis war früher die Syphilis. Dabei wurde die Plazenta über das Blut infiziert.Die Plazentits wird meist durch bakterielle Erreger ausgelöst. In der Regel sind dies β-hämolysierende Streptokokken der Gruppe B, Staphylokokken, Enterokokken, Listerien oder Colibakterien (Escherichia coli).
+Listerien können im Gegensatz zu fast allen anderen Bakterien über die Plazenta hinweg in den Foetus gelangen. Dabei entwickelt sich dann eine Placentitis. Von der Plazenta aus können die Keime den Foetus befallen. Dieser ist aufgrund fehlender Abwehrmechanismen besonders stark gefährdet. Je nach Stadium der Schwangerschaft kann es zum Abort oder zu Infektionen unterschiedlicher Organe (beispielsweise Leber, Lunge, Gehirn oder Haut) des Kindes kommen. Das Kind wird dann entweder tot geboren oder mit der Infektion. Auch infizierte Kinder haben nur eine geringe Überlebenschance.Auch Bakterien aus der Familie der Chlamydien können eine Plazentitis hervorrufen. Es sind auch Fälle mit dem das Q-Fieber auslösenden, gramnegativen Bakterium Coxiella burnetii beschrieben.Neben bakteriellen Erregern kommen auch Viren (beispielsweise das Humane-Zytomegalie-Virus (HZMV)) und Pilze (beispielsweise Aspergillus fumigatus oder Candida albicans) als Erreger einer Plazentitis in Betracht.
+
+
+== Plazentitis in der Veterinärmedizin ==
+Während die Plazentitis in der Humanmedizin eine eher untergeordnete Rolle spielt, ist sie in der Veterinärmedizin sehr weit verbreitet. Bei Pferden beispielsweise ist Plazentitis die Hauptursache für den fetalen und neonatalen Tod. In einer Studie mit über 3.500 Stuten konnte in 1/3 der Fälle Plazentitis als Ursache festgestellt werden.Die primäre Ursache für die Plazentitis bei Pferden ist die Infektion der Plazenta mit Streptococcus equi subspecies zooepidemicus.Eine Plazentitis kann das Absterben der Frucht bedeuten. Die Häufigkeit von Aborten beträgt 10 bis 20 %. Mit großer Wahrscheinlichkeit überträgt das Muttertier die Infektion auf den weiterlebenden Fetus.
+
+
+== Therapie ==
+Die Behandlung der Plazentitis ist abhängig vom Erregertyp und dem klinischen Beschwerdebild. Der Erregertyp wird in Laboruntersuchungen festgestellt. Die Therapie ist bei einer bestehenden Schwangerschaft naturgemäß besonders heikel. Ist der CRP-Wert erhöht und die Körpertemperatur normal, muss die Gabe von Antibiotika diskutiert werden. Bei Fieber und Anzeichen einer schweren Entzündung, kann die Geburt des Kindes dringend erforderlich werden. Auch wenn dabei ein hohes Risiko einer Frühgeburt eingegangen werden muss. Auch in diesen Fällen ist die Gabe von Antibiotika notwendig.Als Antibiotika kommen beispielsweise Ampicillin, Amoxicillin zum Einsatz. Das Antibiotikum wird aber im Einzelfall auf den Erregertyp abgestimmt.
+
+
+== Literatur ==
+S. M. Landwehr: Die klinische Bedeutung der unspezifischen chronischen Plazentitis im Vergleich mit der Chorioamnionitis. Dissertation, 1997, Universität Bonn
+C. B. Hong, J. M. Donahue, R. C. Giles, M. B. Petrites-Murphy, K. B. Poonacha, A. W. Roberts, B. J. Smith, R. R. Tramontin, P. A. Tuttle, T. W. Swerczek: Etiology and pathology of equine placentitis. In: Journal of Veterinary Diagnostic Investigation. Official Publication of the American Association of Veterinary Laboratory Diagnosticians, Inc. Band 5, Nr. 1, 1993, ISSN 1040-6387, S. 56–63, PMID 8466982 (vdi.sagepub.com [PDF; abgerufen am 5. Juni 2016]). 
+G. Altshuler: Placental infection and inflammation. In: Pathology of the placenta. 1984, S. 141–163.
+P. B. Juliano, M. H. S. L. Blotta, A. M. A. Altemani: ICAM-1 is Overexpressed by Villous Trophoblasts in Placentitis. In: Placenta. Band 27, Nr. 6–7, Juni 2006, S. 750–757, doi:10.1016/j.placenta.2005.07.008. 
+W. A. Blanc: Pathways of fetal and early neonatal infection, viral placentitis, bacterial and fungal chorioamnionitis. In: Pediat. 59, 1961, S. 473–496.
+A. Chatterjee, S. A. Chartrand, C. J. Harrison, A. Felty-Duckworth, C. Bewtra: Severe intrauterine herpes simplex disease with placentitis in a newborn of a mother with recurrent genital infection at delivery. In: Journal of Perinatology. Official Journal of the California Perinatal Association. Band 21, Nr. 8, 2. Dezember 2001, S. 559–564, doi:10.1038/sj.jp.7210573, PMID 11774021. 
+J. Kopp: Untersuchungen über Zusammenhänge von Coxiella burnetii- und Chlamydien-Infektionen in Rinderbeständen und der in diesen Betrieben tätigen Personen. Dissertation, FU Berlin, 2000 (diss.fu-berlin.de).
+
+
+== Einzelnachweise ==

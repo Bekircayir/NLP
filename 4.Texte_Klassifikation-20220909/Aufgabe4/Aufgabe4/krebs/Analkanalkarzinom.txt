@@ -1,0 +1,49 @@
+Das Analkanalkarzinom ist ein bösartiger Tumor im Analkanal, dem Übergang des Enddarms in den Anus.
+Er kann aus durch Humane Papillomviren (HPV 16) ausgelöste warzenartige Wucherungen (Kondylome) bzw. infolge von sexuell übertragbaren Erkrankungen wie AIDS entstehen. Oftmals wird ein Analkanalkarzinom vom Betroffenen irrtümlich als ‚Hämorrhoiden‘ wahrgenommen, weswegen viele Patienten erst sehr spät einen Proktologen aufsuchen und so ihre Heilungschancen deutlich verringern. Auch andere proktologische Erkrankungen, wie beispielsweise Analfissuren, können ähnliche Symptome verursachen. Risikofaktoren für ein Analkanalkarzinom sind chronisch-entzündliche Darmerkrankungen wie Morbus Crohn oder Colitis ulcerosa, sowie Nikotinabusus und häufiger Analverkehr.Das Analkanalkarzinom gehört zusammen mit dem Analrandkarzinom zu den Analkarzinomen. Während Analkanalkarzinome definitionsgemäß zwischen der Linea dentata und der Linea anocutanea auftreten, spricht man von einem Analrandkarzinom im Fall von malignen Tumoren, die unterhalb (distal) der Linea anocutanea und 5 cm in deren Umkreis liegen.
+Im klinischen Sprachgebrauch wird sprachlich meist nicht zwischen Analkanal- und Analrandkarzinom unterschieden, sondern nur von Analkarzinom gesprochen. In der Regel ist mit der Bezeichnung “Analkarzinom” ein Analkanalkarzinom gemeint.
+
+
+== Häufigkeit ==
+Das Analkanalkarzinom macht etwa 1 % aller Kolorektalen Karzinome aus. Die Inzidenz beträgt 0,5 bis 1,5 auf 100.000 Einwohner pro Jahr. Die Krebserkrankung hat zwei Hauptrisikogruppen: homosexuelle Männer, und Frauen über 70.
+
+
+== Symptome und Diagnose ==
+Blutauflagerungen auf dem Stuhl und Schmerzen beim Stuhlgang verbunden mit vergrößerten Leistenlymphknoten, sowie Stuhlinkontinenz und Gewichtsverlust sind meistens die Spätfolgen eines Analkanalkarzinoms.
+Bei begründetem Verdacht wird durch den Arzt eine Tastuntersuchung mit dem Finger und gegebenenfalls eine Spiegelung (Endoskopie) des Enddarms (Rektoskopie), in der Regel in Narkose vorgenommen. Weitere Diagnosemöglichkeiten sind die Entnahme von Biopsien, endoanaler Ultraschall (Sonografie), Computertomographie des Bauches, sowie ein Röntgen-Thorax zur Suche möglicher Lungenmetastasen.
+Eine FDG-PET-CT Untersuchung gehört zwar nicht zu den Standarduntersuchungen, kann aber bei unklaren Lymphknotenvergrößerungen (reaktive oder physiologische Vergrößerung der Lymphknoten) oder bei Verdacht auf Fernmetastasierung eingesetzt werden.
+
+
+== Ausbreitungsmuster ==
+Analkanalkarzinome zeigen ein lokales Wachstum zum Mastdarm und Damm mit Infiltration der Nachbarorgane. Sie neigen zu frühzeitiger lymphogener Metastasierung entlang der großen Gefäße und später über den Blutkreislauf (hämatogen) in Leber und Lunge.
+
+
+== Stadieneinteilung und Histologie ==
+Histologisch sind Analkanalkarzinome meist Plattenepithelkarzinome (in 75–90 % der Fälle). Adenokarzinome im Analkanal sind eher selten (etwa 15 %) und meist handelt es sich dabei um Rektumkarzinome, die sekundär in den Analkanal eingewachsen sind. Sie werden wie Rektumkarzinome behandelt. Andere seltene Malignome im Analkanal sind Maligne Melanome, Maligne Lymphome und Metastasen anderer Karzinome. Die TNM-Stadieneinteilung ist in der nebenstehenden Tabelle aufgeführt.
+
+
+== Behandlung ==
+Im Jahr 1974 konnten Norman Nigro und Mitarbeiter an der Wayne State University in Detroit (Michigan) erstmals im Rahmen einer kleinen Studie zeigen, dass (Plattenepithel-)Analkanalkarzinome mittels Radiochemotherapie geheilt werden können. Ihre Studie war ursprünglich so angelegt, dass die verabreichte Radiochemotherapie als neoadjuvante Therapie gegeben werden, d. h. zur Tumorverkleinerung vor einer geplanten Operation dienen sollte. Letztlich erwies sich die Radiochemotherapie als ungeahnt effektiv und bei den ersten 6 Patienten, die wie geplant operiert wurden, war überhaupt kein Resttumor mehr im Operationspräparat nachweisbar. Daher wurde bei den anderen Patienten der Studie im Falle einer kompletten Remission auf die Operation verzichtet. Nachfolgende Therapiestudien bestätigten die Effektivität und Gleichwertigkeit der Radiochemotherapie gegenüber der Operation in der Behandlung des Analkanalkarzinoms.
+Heute ist die simultane Radiochemotherapie die Standardtherapie des Plattenepithel-Analkanalkarzinoms. Eine Operation ist nur dann noch nötig, wenn nach erfolgter Radiochemotherapie immer noch ein Tumorrest nachweisbar ist. Der Vorteil der Radiochemotherapie gegenüber der früheren operativen Therapie liegt vor allem in der Erhaltung des natürlichen Darmausgangs und dessen Funktion. Bei der operativen Therapie wird grundsätzlich ein künstlicher Darmausgang (Colostoma) angelegt.
+Mit der Strahlentherapie werden sowohl das Tumorgebiet als auch die Lymphknoten in Becken und Leiste bestrahlt. Die Bestrahlung durch die Haut (transkutan) erfolgt mit einer Gesamtdosis von 45–50,4 Gy, die in Einzeldosen von 1,8 Gy täglich wochentags verabreicht wird. Dies ergibt eine Gesamt-Bestrahlungszeit von 5 Wochen. Bei größeren Tumoren (≥T2-Stadium) wird üblicherweise eine kleinvolumige Dosisaufsättigung (Boost) der Tumorregion oder ggf. von pathologischen Lymphknoten von weiteren 5,4–9 Gy empfohlen, was weitere 3 bis 5 Bestrahlungstage ergibt. Die gesamte Bestrahlung dauert damit 5 bis 6 Wochen.Simultan zur Bestrahlung erfolgt die Chemotherapie, die herkömmlich aus 5-Fluorouracil (5-FU) und Mitomycin C besteht. Kombinationen von Cisplatin und 5-FU ergaben schlechtere Ergebnisse. Ein gängiges Therapieschema ist:
+Da 5-FU als Dauerinfusion über zweimal 4 Tage (96 Stunden) verabreicht wird, muss dem Patienten zuvor ein Portkatheter implantiert werden. Aus diesem Grund ist es eine relativ gängige Praxis, nicht 5-FU, sondern dessen oral zu verabreichende Prodrug Capecitabin zu geben (in Analogie zur Situation beim Rektumkarzinom) und damit die Portkatheter-Implantation zu umgehen:
+
+Strenggenommen gibt es hierfür keine größeren Therapiestudien, die die Äquivalenz beider Verfahren gezeigt hätten.
+Die Remissionskontrolle nach der Radiochemotherapie soll frühestens 6 bis 12 Wochen nach deren Ende erfolgen, da die Tumorrückbildung beim Analkarzinom häufig verzögert auftritt. Die Untersuchung erfolgt mittels Proktorektoskopie. Eine routinemäßige Biopsie wird nicht empfohlen, sondern sollte nur erfolgen, wenn der Befund suspekt ist.
+
+
+== Prognose ==
+Nach der Etablierung der kombinierten Radiochemotherapie als Standardverfahren konnten 5-Jahres-Überlebensraten von 80–90 % gegenüber 47–71 % nach radikaler Chirurgie erzielt werden. Wie bei den meisten Krebsarten sind die Heilungschancen desto höher, je früher die Krankheit erkannt wird. Die 5-Jahresüberlebensrate liegt bei distalen, gut differenzierten Tumoren, die kleiner als 5 cm sind, bei bis zu 85 %. Bei lokal entfernbaren Tumoren im proximalen Analkanal beträgt sie etwa 50 %. Nach durchgeführter Radiochemotherapie sind die durchschnittlichen 5-Jahres-Überlebensrate für Stadium I: 77%-90%, Stadium II: 67%-75%, Stadium IIIA: 58%-64%, Stadium IIIB: 51-58 % und Stadium IV 5–15 %.
+
+
+== Literatur ==
+P. N.  Khalil u. a.: Die Hämorrhoidensalbe war hier zwecklos! In: MMWonline. 4. Februar 2010.
+Rolf Sauer: Strahlentherapie und Onkologie.  Urban & Fischer bei Elsevier, 2009, ISBN 978-3-437-47501-6 (Lehrbuch)
+M. W. Trammer: Analkanalkarzinome. Dissertation. Universität Bonn, 2007. urn:nbn:de:hbz:5M-11936.
+
+
+== Weblinks ==
+Analkrebs. (Memento vom 23. April 2013 im Internet Archive) (Universität Bonn)
+National Comprehensive Cancer Network → Guidelines
+
+
+== Einzelnachweise ==

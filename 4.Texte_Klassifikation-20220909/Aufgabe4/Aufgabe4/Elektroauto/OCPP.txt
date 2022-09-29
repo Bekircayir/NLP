@@ -1,0 +1,26 @@
+OCPP (Open Charge Point Protocol) (deutsch: Freier Ladepunkt Kommunikationsstandard) ist ein universelles Anwendungsprotokoll, das die Kommunikation zwischen Ladestationen für Elektroautos (EV) und einem zentralen Managementsystem standardisiert. Vergleichbar ist es mit dem Kommunikationsprotokoll von Mobilfunknetzen.OCPP ist auf Initiative der E-Laad-Stiftung in den Niederlanden entstanden. OCPP hat den Zweck, per offenem Anwendungsprotokoll eine herstellerunabhängige Kommunikation zwischen Elektroauto-Ladestationen und diversen Verrechnungs- sowie Management-Systemen von Ladeinfrastrukturen zu ermöglichen. OCPP ist heute weltweit als universelles Kommunikationsprotokoll im Bereich der Ladeinfrastrukturen im Einsatz.
+
+
+== Vorteile von OCPP ==
+Ladestation-Betreiber sind durch ein universelles Kommunikations-Protokoll weniger abhängig von einzelnen Systemlieferanten. Beispielsweise können, wenn ein einzelner Hersteller von Ladestation-Infrastruktur seine Tätigkeit einstellt, dessen bereits installierte Komponenten über das universelle OCPP-Protokoll in die Infrastruktur eines anderen Lieferanten integriert werden.OCPP ermöglicht es durch das herstellerunabhängige Protokoll, bei der Fusion kleiner Ladenetze zu einem größeren Ladenetz die bereits installierte Infrastruktur weiterzubetreiben. Das verbessert die Investitions-Sicherheit von Infrastruktur-Errichtern.
+
+
+== Versionen von OCPP ==
+Vom OCPP-Protokoll gibt es verschiedene Versionen:
+
+
+== OCPP weltweit ==
+Der OCPP hat sich bisher nur in Europa und Asien etabliert. In den Vereinigten Staaten hingegen war das Department of Energy (DOE) bisher der Ansicht, dass die verschiedenen Energie-Netzwerke eine für unterschiedliche Ladeinfrastrukturen ausreichende Größe aufwiesen. Daher hat man dort Netzbetreibern, die oft gleichzeitig Hersteller von Ladeinfrastrukturen sind, eine freie Protokollwahl ermöglicht.
+Das US Department of Energy hat aber seit 2013 seine Bemühungen zur Interoperabilität von Ladestation Netzwerken gesteigert. Das soll künftig sicherstellen, dass Fahrzeuge, Ladestationen, Kommunikations- und Netzwerksysteme im Einklang mit dem Stromnetz arbeiten. Ein Elektrofahrzeug-Smart-Grid-Interoperabilität-Center, etwas außerhalb von Chicago, betreibt Forschungen zur Harmonisierung von Smart-Grid-Technologien.
+
+
+== Kritik ==
+Im Rahmen der Einführung batterieelektrischer Fahrzeuge (Elektroautos) in ihrem Fuhrpark beschäftigten sich Mitarbeiter der Fraunhofer-Gesellschaft mit der Sicherheit von OCPP (Version 1.5 und 1.6). Dabei wurde festgestellt, dass die Abrechnungsdaten ungeschützt zum zentralen Abrechnungsserver übertragen werden.
+
+
+== Weblinks ==
+Open Charge Alliance (OCA)
+ElaadNL
+
+
+== Einzelnachweise ==

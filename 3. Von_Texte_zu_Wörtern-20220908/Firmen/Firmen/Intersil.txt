@@ -1,0 +1,19 @@
+Die Intersil Corporation ist ein international tätiger Halbleiterhersteller mit Firmensitz in Milpitas, Kalifornien. Eine Wafer-Fab wird in Palm Bay, Florida betrieben. Die deutsche Niederlassung befindet sich in Ismaning bei München.
+
+
+== Geschichte ==
+Intersil wurde im Jahr 1967 von Jean Hoerni gegründet, um Integrierte Schaltungen für Digitaluhren herzustellen. Als in den 1970er Jahren die ersten kommerziellen Mikroprozessoren erschienen, brachte Intersil 1975 den IM6100 heraus, der die ungewöhnliche Wortbreite von 12 Bit hatte und als erster Mikroprozessor in CMOS-Technologie gefertigt wurde. Er konnte den Befehlssatz des DEC Minirechners PDP-8 verarbeiten. Neben digitalen Schaltungen wie Mikroprozessoren und Speichern, wie z. B. 1k-×-1-Bit-CMOS-RAM IM6508 und CMOS-EPROMS IM6604/IM6654, brachte Intersil erfolgreiche analoge ICs heraus wie den Signalgenerator ICL8038. Viele Schaltungen von Mitbewerbern setzte Intersil nach CMOS um, so wurde z. B. Signetics populärer bipolarer Timerbaustein NE555 als ICM7555 und General Instruments PMOS UART-Baustein AY-5-1013A (TMS6011 bei Texas Instruments) als IM6402 herausgegeben.
+1988 wurde Intersil von der Harris Corporation übernommen, die zu der Zeit selbst Halbleiter herstellte und u. a. den IM6100 als Second source hergestellt hatte. Harris kombinierte diese Aktivitäten mit den übernommenen Halbleitersparten von Radiation Incorporated, General Electric und RCA. 1999 gliederte Harris die Halbleitersparte wieder unter dem Namen Intersil aus. Die Produktpalette wechselte daraufhin in Richtung der analogen Halbleiter; digitale Produkte wurden weitgehend eingestellt.
+Im Februar 2008 folgte Dave Bell dem bisherigen CEO Rich Beyer; dabei wurden auch die bisher fünf Geschäftsbereiche auf zwei reduziert. Am 22. März 2010 erwarb Intersil den Halbleiterentwickler Techwell für 370 Mio. US-Dollar.
+Im September 2016 gab Renesas bekannt, dass man sich geeinigt hätte, Intersil für 3,2 Mrd. USD zu übernehmen. Damit wolle Renesas sich mehr auf den Automotive-Bereich mit dem zunehmenden Trend zum selbstfahrenden Auto fokussieren.
+
+
+== Produkte ==
+In der Produktpalette befinden sich hauptsächlich analoge ICs. Deren Hauptanwendungsgebiete sind Desktop- und Notebook-PCs, Mobiltelefone, tragbare Media-Player, Flachbildschirme, Feuerleitsysteme sowie Steuergeräte in der Raumfahrttechnik. Intersils 47 Produktfamilien umfassen Bauteile und -gruppen für Verstärker, Analog-Frontends, Kommunikationsschnittstellen, Datenkonverter, digitale Potentiometer, Displaysteuerungen, DSL-Lösungen, optische Netzwerkprodukte und Stromversorgungstechnik. Die digitale Sparte umfasst vorwiegend Prozessoren und Analog-Digital-Wandler, deren Designs aus früheren Firmenübernahmen stammen. Einige der ICs sind auch in strahlengeschützter Ausführung erhältlich, womit sie sich für das Einsatzfeld der Luft- und Raumfahrt anbieten.
+
+
+== Weblinks ==
+Homepage (englisch)
+
+
+== Einzelnachweise ==

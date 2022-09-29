@@ -1,0 +1,36 @@
+Das pleomorphe Xanthoastrozytom (abgekürzt PXA, ICD-O Code: 9424/3) ist ein seltener glialer Hirntumor. Es wird nach der WHO-Klassifikation der Tumoren des zentralen Nervensystems als Grad II eingeteilt. Ganz überwiegend sind Kinder, Jugendliche und junge Erwachsene betroffen. Ein Zusammenhang mit einer erblichen Erkrankung ist in den allermeisten Fällen nicht erkennbar. In Einzelfällen wurde ein Auftreten von pleomorphen Xanthoastrozytomen bei Patienten mit Neurofibromatose Typ 1 beschrieben.
+
+
+== Klinische Manifestationen ==
+Aufgrund ihrer oberflächlichen Lage im Bereich der Großhirnrinde, häufig im Bereich des Temporallappens, manifestieren sich pleomorphe Xanthoastrozytome klinisch ganz überwiegend durch das Neuauftreten von Anfallsereignissen. In der Bildgebung stellen sich pleomorphe Xanthoastrozytome als kontrastmittelaufnehmende kortexnahe teils zystische Raumforderungen dar.
+
+
+== Pathologie ==
+
+Histologisch ist dieser Tumor durch die außergewöhnliche Pleomorphie, d. h. eine Vielgestaltigkeit der glialen Tumorzellen charakterisiert. Mitosefiguren kommen vor, Nekrosen werden jedoch (im Gegensatz zum Glioblastom) gewöhnlich nicht beobachtet. Die Tumorzellen können Lipideinlagerungen enthalten (xanthomatöse Umwandlung) und sind von Retikulinfasern umgeben. Die immunhistochemische Färbung für GFAP belegt den glialen Charakter des Tumors. Obwohl aufgrund des charakteristischen histologischen Bildes die diagnostische Abgrenzung gegenüber anderen Hirntumoren gewöhnlich keine Schwierigkeiten bereitet, kann die ausgeprägte Pleomorphie des Tumors insbesondere in der intraoperativen Schnellschnittuntersuchung zur Fehldiagnose eines Glioblastoms verleiten.
+
+
+== Pathogenese ==
+Über an der Pathogenese pleomorpher Xanthoastrozytome beteiligte Mechanismen ist nur wenig bekannt. Diese unterscheiden sich aber wahrscheinlich von den an der Entstehung anderer glialer Tumoren beteiligten Prozessen. Verluste genetischen Materials im Bereich des Chromosoms 9 scheinen häufig aufzutreten. In bis zu 65 % der Tumoren lassen sich BRAF-V600E-Mutationen nachweisen.
+
+
+== Differentialdiagnostik ==
+Abzugrenzen ist u. a. ein Rosettenbildender glioneuronaler Tumor (RGNT).
+
+
+== Therapie ==
+Der Tumor wird gewöhnlich operativ entfernt.
+
+
+== Prognose ==
+Nach operativer Entfernung ist die Prognose von pleomorphen Xanthoastrozytomen überwiegend günstig, eine maligne Progression kann jedoch auftreten. Die prognostische Wertigkeit von Zeichen der Anaplasie (erhöhte mitotische Aktivität, Nekrosen) in pleomorphen Xanthoastrozytomen ("pleomorphic xanthoastrocytoma with anaplastic features") ist nicht abschließend geklärt.
+
+
+== Literatur ==
+Kepes JJ, Louis DN, Giannini C., Paulus W. "Pleomorphic xanthoastrocytoma." In: Kleihues P., Cavenee WK, eds. "World Health Organization Classification of Tumors: Pathology and Genetics of Tumors of the Nervous System". Lyon, France: IARC Press; 2000
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==

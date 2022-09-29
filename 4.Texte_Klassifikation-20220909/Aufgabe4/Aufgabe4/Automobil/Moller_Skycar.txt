@@ -1,0 +1,45 @@
+Das Moller Skycar ist ein „fliegendes Auto“ des Entwicklers Paul Moller, das nach dem Wunsch seines Entwicklers eines Tages den Pkw als Mittel des Individualverkehrs ablösen soll.
+Paul Moller arbeitet seit den 1960er Jahren an VTOL-Flugzeugen (Vertical take-off and landing) und baute mehrere Funktionsprototypen. Die ersten Schwebeflüge mit dem zweisitzigen M200 Neuera fanden 2003 statt. Keiner der Prototypen kann außerhalb der Wirkkraft des Bodeneffekts fliegen.
+
+
+== Varianten ==
+
+
+=== Neuera ===
+
+Das Moller Neuera (auch M200X Neuera genannt) ist ein fliegendes Auto in Form einer Flugscheibe. Der Durchmesser der Scheibe beträgt 10 ft (3,05 m). Auf- und Vortrieb werden durch acht Mantelpropeller sichergestellt. Die Höchstgeschwindigkeit wird mit 100 mph (161 km/h) angegeben.Die Technologie des Neuera bildet die Grundlage für das Skycar.
+
+
+=== Skycar 100 LS ===
+Das Skycar 100 LS ist eine einsitzige Version des Skycar. Es wird von zwei Mantelpropellern bewegt, die von je einem Rotapower Wankelmotor und einem Elektromotor angetrieben werden. Die Gesamtleistung der Motoren wird mit 170 PS (125 kW) angegeben. Es soll eine Höchstgeschwindigkeit von 280 mph (451 km/h) erreichen.
+
+
+=== Skycar 200 LS ===
+
+Das Skycar 200 LS ist eine zweisitzige Version des Skycar. Es wird von zwei Mantelpropellern, die von je einem Rotapower Wankelmotor und einem Elektromotor angetrieben werden und einer weiteren Auftriebsdüse, angetrieben von zwei Elektromotoren, bewegt. Die Gesamtleistung der Motoren wird mit 170 PS (125 kW) angegeben. Es soll eine Höchstgeschwindigkeit von 242 mph (389 km/h) erreichen.
+
+
+=== Skycar 400 ===
+
+Das viersitzige Modell M400 befand sich 2013 noch in der Entwicklungsphase. Eine von der FAA abgenommene Version bis 2017 angestrebt.Ziel war ein Transportmittel, das ohne Zutun der Insassen senkrecht startet und landet und vollautomatisch zu jedem gewünschten in den Bordcomputer einprogrammierten Ort fliegt, so dass keine Privatpilotenlizenz und kein Führerschein notwendig wäre. Das Problem einer Zulassung als selbstfliegendes Fluggerät war 2013 noch ungelöst, so dass noch ein Pilotenschein benötigt wird.Angestrebt war, dass die M400 in eine Garage passen, über ein Gesamtrettungssystem verfügen und zum vertiport genannten Startplatz rollen können soll. Acht Wankelmotoren sollten bei einer Reiseflughöhe von knapp 11.000 m eine Reisegeschwindigkeit von 496 km/h und eine Höchstgeschwindigkeit von 533 km/h ermöglichen. Unter 3000 m darf nach geltenden Luftfahrtbestimmungen allerdings nicht schneller als 450 km/h geflogen werden. Als Benzinverbrauch wurde mit etwa 10 bis 14 l / 100 km, ein Wert im Bereich normaler Autos angestrebt. Der Verkaufspreis sollte zur Markteinführung 2017 bei etwa 500.000 US-Dollar (600.480 Euro; 478.983 Schweizer Franken) liegen, mittelfristig mit höheren Stückzahlen aber auf einen Preis vergleichbar mit normalen Autos, 60.000 bis 80.000 US-Dollar (60.048 bis 80.064 Euro; 57.478 bis 76.637 Schweizer Franken) sinken.
+
+
+=== Autovolantor ===
+Neben dem M400 arbeitet Moller unter dem Titel Autovolantor an einem Fluggerät, welches auf Basis eines Ferrari 599 GTB im Prinzip ein Pkw mit Flügeln ist. Neben den Flügeln sorgen auch beim Autovolantor acht Mantelpropeller für Auf- und Vortrieb.
+
+
+== Motorisierung ==
+Moller stellt mit der Firma Freedom Motors unter dem Namen Rotapower selbstentwickelte preisgünstige Wankelmotoren her. Sie erfüllen allerdings momentan noch nicht alle Anforderungen des Projekts M400. Die Hauptprobleme liegen im Benzinverbrauch und in der Geräuschentwicklung.
+
+
+== Kritik ==
+In den USA wurden zuletzt zunehmend Stimmen laut, welche die Seriosität des Unternehmens in Frage stellen, das u. a. eine Verurteilung wegen Anlagebetrugs nur durch einen Vergleich über 50.000 US-Dollar (50.040 Euro; 47.898,3 Schweizer Franken) vermeiden konnte.
+
+
+== Weblinks ==
+Offizielle Internetpräsenz von Moller International, dem Hersteller des Skycars (englisch)
+Datenblatt zum M400 Skycar. Internetpräsenz des Herstellers Moller International (englisch)
+Oft gestellte Fragen und Antworten zum Skycar. Internetpräsenz des Herstellers Moller International (englisch)
+
+
+== Einzelnachweise ==

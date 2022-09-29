@@ -1,0 +1,44 @@
+Die Sporotrichose oder Sporothrix-Mykose (auch Schenk-Krankheit bzw. Morbus Schenk oder Rosengärtner-Krankheit) ist eine Pilzerkrankung, welche die tiefen Hautschichten, das Lymphsystem oder den ganzen Körper befallen kann. Sie tritt beim Menschen, aber auch Hunden, Katzen, Pferden, Rindern, Schimpansen und Ratten auf und ist als vom Mensch auf das Tier und umgekehrt übertragbare Erkrankung als Zoonose einzustufen. Der Erreger der Infektionskrankheit ist Sporothrix schenckii. Die Sporotrichose kommt vor allem in tropischen und subtropischen Gebieten vor, gehäuft in Nordamerika, Afrika und Japan, während sie in Mitteleuropa sehr selten ist. Die Erkrankung zeigt sich vor allem in der Bildung von Knoten in der Unterhaut, die aufbrechen können und dann ein schmieriges Exsudat absondern. Zur Behandlung werden Iodverbindungen oder Antimykotika eingesetzt.
+
+
+== Ursache, Verbreitung und Krankheitsentstehung ==
+Die Infektion erfolgt durch direktem Kontakt mit dem Erreger, vor allem durch Hautwunden. Sporothrix schenckii ist ein überall vorkommender (ubiquitärer) Pilz, der besonders zahlreich in Böden mit sich zersetzendem organischen Material (Humus, Kompost) als Fäulniskeim (Saprophyt) vorkommt. Sporothrix schenckii ist ein dimopher Pilz: Bei Temperaturen unter 30 °C wächst er in Mycel-Form, bei Körpertemperatur in Hefe-Form.Stichverletzungen durch kontaminierte Splitter, durch Einbringen von Erde oder Pflanzenteile in Wunden und durch Katzen verursachte Kratz- und Bisswunden sind häufigere Auslöser einer Sporotrichose. Der Erreger kann auch in der Maulhöhle gesunder Katzen vorkommen. Beim Menschen sind vor allem Mitarbeiter in Baumschulen, Gärtner und Landwirte gefährdet.
+Ein direktes Einbringen in Wunden scheint aber nicht in jedem Fall zwingend notwendig zu sein. Eventuell reicht der bloße Kontakt von Menschen mit dem Exsudat von Katzen zu einer Infektion aus. Darüber hinaus scheiden infizierte Katzen große Mengen des Erregers auch mit dem Kot aus.
+Die Sporotrichose ist vor allem eine Einzelerkrankung. 1988 traten 84 Sporotrichosefälle in den USA auf, die auf Torfmullverpackungen von Baumsetzlingen zurückgeführt werden konnte.
+In den Jahren 1998 bis 2004 gab es in Rio de Janeiro eine starke Häufung der Erkrankung, wobei 1503 Katzen, 759 Menschen und 64 Hunde betroffen waren. In der Mehrzahl der Fälle bei Menschen und Hunden war ein direkter Kontakt mit Katzen nachzuweisen.
+
+
+== Klinische Erscheinungen ==
+
+Die Hautform äußert sich in Hautveränderungen, die sich zumeist in der Nähe von Hautverletzungen befinden und nicht schmerzhaft sind. Gegenüber einer antibakteriellen Behandlung sind sie unempfindlich. Diese Form kommt beim Menschen seltener vor, in solchen Fällen dann als „ulzerativ-verruköse“ Läsionen der Haut. Beim Hund treten zahlreiche Knötchen (Granulome) in der Unterhaut auf, die geschwürig zerfallen und ein rotbräunliches Exsudat absondern können. Katzen zeigen häufiger Eiterbeulen (Abszesse) oder nicht abgegrenzte Eiterherde (Phlegmone), die ebenfalls geschwürig zerfallen und keine Abheilungstendenz zeigen. Durch den ausgeprägten Putztrieb der Katze können die Erreger weiter über den Körper verteilt werden und sich auch jenseits des ursprünglichen Herds ansiedeln.
+Die Haut-Lymph-Form (lympohokutane Form) entsteht durch Verbreitung des Erregers aus den Hautwunden über die Lymphgefäße und ist somit eine Komplikation der Hautform. Diese Manifestation ist typisch für die Sporotrichose beim Menschen. An der Eintrittstelle entstehen Furunkel-ähnliche Knoten, die einschmelzen können, und zusätzlich „Satellitenläsionen“, die sich kettenähnlich entlang der abfließenden Lymphgefäße befinden. Typisch ist eine Lymphknotenschwellung der betroffenen Region.
+Die generalisierte Form tritt am seltensten und zumeist nur bei immuninkompetenten Patienten auf, beim Menschen vor allem Patienten mit AIDS oder nach Organtransplantationen, bei Katzen Tiere mit Leukämie oder Immundefizienzsyndrom. Sie ist durch allgemeine und unspezifische Krankheitszeichen wie Schwäche und Fieber gekennzeichnet. Hierbei kommt es zu einer Absiedlung des Erregers in andere Organe und Gewebe. Die Verbreitung erfolgt zumeist aus befallenen Lymphknoten.
+Ein primärer Lungenbefall (Lungenform) durch Einatmen der Konidien ist möglich. Die Prognose ist in solchen Fällen schlecht.
+
+
+== Untersuchungsmethoden ==
+
+Bei der Untersuchung ist darauf zu achten, dass die Erkrankung ansteckend ist, selbst wenn die Granulome noch nicht eröffnet sind. Die Diagnose wird durch eine mikroskopische Untersuchung des Exsudats aus den Knötchen gestellt. Die Erreger stellen sich als etwa 2–10 µm große, zigarrenförmige oder runde Gebilde dar, die sowohl innerhalb von Zellen als auch frei in der Flüssigkeit des Exsudats vorkommen können. Bakterielle Sekundärinfektionen sind häufig. Spezielle Färbemethoden wie die PAS-Färbung erleichtern die Diagnose. Ein negativer Nachweis in einer Probe schließt die Erkrankung noch nicht aus, insbesondere beim Hund finden sich zumeist nur wenige Pilze in den Hautknötchen.
+Die Anzüchtung des Erregers gelingt zumeist nur aus Proben, die chirurgisch aus der Tiefe der Knötchen gewonnen werden.
+Am verlässlichsten ist der Nachweis über einen Immunfluoreszenztest, der selbst bei negativer Pilzkultur das eventuelle Vorkommen des Erregers noch sicher anzeigt.
+Differentialdiagnostisch sind bakterielle und andere Pilzerkrankungen der Haut (Botryomykose, Nocardiose, Aktinomykose, Lepra und andere Mykobakteriosen), Pockenerkrankungen wie Katzenpocken, Tumore und Parasiten (Demodikose) auszuschließen.
+
+
+== Behandlung ==
+
+
+=== Behandlung des Menschen ===
+Die Behandlung der lymphokutanen und kutanen Form des Menschen wird nach den neuesten Richtlinien zunächst die tägliche Gabe Itraconazol bis 2–4 Wochen nach Abheilung der Läsionen empfohlen, wobei mit einer Behandlungsdauer von 3–6 Monaten zu rechnen ist. Bei fehlendem Ansprechen sollte die Dosis zweimal verabreicht werden. Alternativ können Terbinafin oder gesättigte Kaliumiodidlösung eingesetzt werden. Erst bei schlechter Verträglichkeit dieser Medikamente soll auf Fluconazol zurückgegriffen werden. Für schwangere und stillende Frauen kann bei der Hautform eine lokale Hyperthermie empfohlen werden.
+Die Behandlung einer Sporotrichose mit Knochen- und Gelenksbeteiligung erfolgt mit Itraconazol für mindestens 12 Monate. Nach zweiwöchiger Behandlung soll der Serumspiegel des Medikaments bestimmt werden, um eine ausreichende Serumkonzentration zu gewährleisten. Weniger abgesichert ist eine sofortige Behandlung mit Amphotericin B, das nicht von allen Patienten vertragen wird, und einem späteren Wechsel auf Itraconazol.
+Die Therapie bei ausgeprägtem und lebensbedrohlichem Lungenbefall erfolgt ebenso mit einer anfänglichen Gabe von Amphotericin B und dem späteren Wechsel auf Itraconazol, wobei auch hier die Gesamtdauer der Therapie mindestens 12 Monate betragen soll. Bei weniger ausgeprägter Lungenbeteiligung kann auch Itraconazol für mindestens 12 Monate verabreicht werden. Eine chirurgische Entfernung der Herde in Verbindung mit Amphtericin B wird bei lokalisiertem Lungenbefall empfohlen.
+Bei der generalisierten Form gelten ähnliche Richtlinien. Bei AIDS-Patienten kann eine lebenslange Therapie notwendig sein.
+
+
+=== Behandlung von Tieren ===
+Bei Tieren ist die perorale Gabe von gesättigter Kaliumiodidlösung auch aus Kostengründen das Mittel der Wahl. Die perorale Gabe von Antimykotika wie Ketoconazol oder Itraconazol ist ebenfalls möglich. Eine Behandlung mit Kaliumiodid sollte noch 30 Tage über das Verschwinden der Granulome hinaus fortgesetzt werden. Allerdings ist Iod in höheren Dosen giftig (→ Iodunverträglichkeit). Bei Auftreten von Vergiftungserscheinungen (Nasen- und Augenausfluss, starke Schuppenbildung beim Hund; Erbrechen, Fressunlust, gestörtes Allgemeinbefinden oder gar Herz-Kreislaufversagen bei der Katze) muss die Behandlung ab- oder zumindest unterbrochen werden.
+
+
+== Literatur und Quellen ==
+Chiara Noli, Fabia Scarampella: Sporotrichose. In: Praktische Dermatologie bei Hund und Katze. 2. Auflage. Schlütersche Verlagsanstalt, 2005, ISBN 3-87706-713-1, S. 216–217.
+D. W. Scott u. a.: Small animal dermatology. 5. Auflage. WB Saunders, Philadelphia 1995, S. 364–368.
+P. Fritsch: Dermatologie und Venerologie. 2., überarb. Auflage. Springer-Verlag, 2004, ISBN 3-540-00332-0.Einzelnachweise

@@ -1,0 +1,31 @@
+Die ambulant erworbene Pneumonie (engl. community-acquired pneumonia (CAP)) bezeichnet solche Lungenentzündungen, deren auslösende Erreger außerhalb des Krankenhauses aufgenommen wurden.
+Die angewandte Klassifikation teilt Lungenentzündungen nach klinisch praktischen Gesichtspunkten ein. Sie fand ihre Etablierung nach einer Publikation von M. Woodhead im Jahr 1997. Danach gibt es neben der ambulant erworbenen Pneumonie (CAP) die nosokomiale Lungenentzündung (engl. hospital-acquired pneumonia (HAP)), die Lungenentzündung eines beatmeten Patienten (engl. ventilator-associated pneumonia (VAP)) und die Lungenentzündung des immunsupprimierten Patienten. Es kann eine Prognose für den Krankheitsverlauf abgegeben werden.
+
+
+== Eigenschaften ==
+Nach obiger Einteilung kann das mutmaßliche Erregerspektrum der Lungenentzündung eingeschätzt werden und die kalkulierte Antibiotikatherapie kann danach ausgerichtet werden. Die häufigsten Erreger (Stand 3/2013) sind Streptococcus pneumoniae und Haemophilus influenzae.
+
+
+== Bedeutung ==
+Als bedeutende Volksseuche (Inzidenz 2 bis 5 pro 1000) ist die ambulant erworbene Pneumonie Gegenstand von Untersuchungen durch das Kompetenznetz ambulant erworbene Pneumonie (CAPNETZ), das durch das Bundesministerium für Bildung und Forschung gefördert wird.
+Seit dem Jahr 2005 gehört die ambulant erworbene Pneumonie gemäß Beschluss des Gemeinsamen Bundesausschusses zu den dokumentationspflichtigen Leistungen für die externe Qualitätssicherung der Krankenhäuser, die von der Bundesgeschäftsstelle Qualitätssicherung fachlich betreut wird.
+Der Auftrag der BQS hierfür endete 2010 und wurde von der AQUA-Institut GmbH übernommen.
+
+
+== Weiterführende Literatur ==
+J. A. Ramirez, A. R. Anzueto: Changing needs of community-acquired pneumonia. In: Journal of Antimicrobial Chemotherapy. Band 66 Suppl 3, April 2011, S. iii3–iii9, ISSN 1460-2091. doi:10.1093/jac/dkr094. PMID 21482567. PMC 3143426 (freier Volltext). (Review).
+M. W. Pletz, G. Rohde u. a.: Ätiologie und Management der CAP für den klinischen Alltag. In: Deutsche Medizinische Wochenschrift. Band 136, Nummer 15, April 2011, S. 775–780, ISSN 1439-4413. doi:10.1055/s-0031-1275806. PMID 21469047. (Review).
+J. G. Bartlett: Diagnostic tests for agents of community-acquired pneumonia. In: Clinical Infectious Diseases. Band 52 Suppl 4, Mai 2011, S. S296–S304, ISSN 1537-6591. doi:10.1093/cid/cir045. PMID 21460288. (Review).
+S. Butt, E. Swiatlo: Treatment of community-acquired pneumonia in an ambulatory setting. In: The American journal of medicine. Band 124, Nummer 4, April 2011, S. 297–300, ISSN 1555-7162. doi:10.1016/j.amjmed.2010.06.027. PMID 21435417. (Review).
+E. Polverino, A. Torres Marti: Community-acquired pneumonia. In: Minerva anestesiologica. Band 77, Nummer 2, Februar 2011, S. 196–211, ISSN 1827-1596. PMID 21242952. (Review).
+N. K. Brar, M. S. Niederman: Management of community-acquired pneumonia: a review and update. In: Therapeutic advances in respiratory disease. Band 5, Nummer 1, Februar 2011, S. 61–78, ISSN 1753-4666. doi:10.1177/1753465810381518. PMID 20935033. (Review).
+M. Christ-Crain, S. M. Opal: Clinical review: the role of biomarkers in the diagnosis and management of community-acquired pneumonia. In: Critical care. Band 14, Nummer 1, 2010, S. 203, ISSN 1466-609X. doi:10.1186/cc8155. PMID 20236471. PMC 2875480 (freier Volltext). (Review).
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+BQS-Qualitätsindikatoren: ambulant erworbene Pneumonie
+BQS-Qualitätsindikatoren: Übersicht
+SQG-Qualitätsindikatoren: ambulant erworbene Pneumonie

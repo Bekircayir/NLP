@@ -1,0 +1,24 @@
+Ein Hämatopneumothorax tritt auf bei Thoraxtraumen oder iatrogenen Lungenverletzungen. Hierbei kommt es zu einer Kombination aus einem Hämatothorax und einem Pneumothorax.
+
+
+== Ursachen ==
+Ein Hämatopneumothorax tritt als Folge eines Thoraxtraumas oder iatrogen, z. B. nach Punktionen oder postoperativ, auf. Ursache ist eine Verletzung der Lungen, der Atemwege oder seltener des Oesophagus und von Blutgefäßen, so dass Luft und Blut in den Pleuraspalt gelangen und die betroffene Lunge kollabiert. Zusätzlich kommt es durch die Einblutung in den Thorax zu einer mechanischen Kompression der betroffenen Lungenseite. Bei einem Spannungshämatopneumothorax kommt es durch Ausbildung eines Ventilmechanismus zu einer fortschreitenden intrathorakalen  Druckerhöhung auf der betroffenen Seite mit daraus folgender Kompression und Verlagerung des Mediastinums. Bei einem beidseitigen Spannungshämatopneumothorax bleibt eine Verschiebung des Mediastinums aus, die Schocksymptomatik kommt durch die Kompression des Mediastinums sowie durch die behinderte Atemmechanik zustande.
+
+
+== Symptome ==
+Kleine Hämatopneumothoraces, z. B. nach Punktionen, können symptomlos bleiben. Bei Verletzungen die zu einem Kollabieren der betroffenen Lunge führen kann es zu Luftnot, erhöhter Atemfrequenz, abgeschwächtem Atemgeräusch und Schmerzen kommen. Je nach Ausdehnung von Pneumothorax und Hämatothorax kommt es zu hypersonorem oder abgeschwächtem Klopfschall. Kommt es durch einen Ventilmechanismus zu einem Fortschreiten des Pneumothorax kann sich ein Hämatospannungspneumothorax ausbilden, der akut lebensbedrohlich ist. Hierbei kommt es zu akuter Luftnot und Zyanose. Durch die Verdrängung des Mediastinums kommt es zu einer venösen Stauung, die sich durch gestaute Halsvenen bemerkbar macht. Bei Fortschreiten der Kompression kommt es zu Hypotonie, Tachykardie und Schocksymptomatik bis hin zum Herz-Kreislauf-Stillstand. Je nach Ursprung der Blutung kann es auch zu einem hämodynamisch wirksamen Blutverlust kommen, der sich ebenfalls mit Schocksymptomen bemerkbar macht.
+
+
+== Diagnostik ==
+Nach der Inspektion des Thorax auf äußere Verletzungszeichen ist die Auskultation zunächst das erste diagnostische Mittel. Eine Röntgen-Thorax-Aufnahme kann eine kollabierte Lunge oder Flüssigkeitsansammlung im Brustkorb zeigen. Während Flüssigkeiten im Röntgen-Thorax ab 200 ml erkennbar sind, zeigt eine Ultraschalluntersuchung schon intrathorakale Flüssigkeitsmengen ab 50 ml. Ein Thorax-CT zeigt mit einer Genauigkeit intrathorakale Verletzungen und Flüssigkeits- oder Luftansammlungen. Als diagnostisches Mittel zur Erkennung von Gefäßverletzungen eignet sich die Digitale Subtraktionsangiographie.
+
+
+== Therapie ==
+Kleine Hämathopneumothoraces bedürfen oft keiner speziellen Therapie. Eine Beobachtung und Verlaufskontrolle ist hier ausreichend. Kommt es zu einem kollabieren der Lunge, ist eine Entlastung mittels Thoraxdrainage notwendig. Ein Spannungshämatopneumothorax muss sofort entlastet werden, ggf. mittels einer Punktion. Bei einem initialen Blutverlust aus der Drainage zwischen 1000 und 2000 ml oder einem fortgesetzten Blutverlust von mehr als 150–300 ml pro Stunde ist eine Thorakotomie und operative Blutstillung angezeigt.
+
+
+== Literatur und Quellen ==
+Ralf H. Gahr (Hrsg.): Handbuch der Thorax-Traumatologie. Band 1–2. Einhorn-Presse, Hamburg 2007, ISBN 978-3-88756-812-2.
+
+
+== Einzelnachweise ==

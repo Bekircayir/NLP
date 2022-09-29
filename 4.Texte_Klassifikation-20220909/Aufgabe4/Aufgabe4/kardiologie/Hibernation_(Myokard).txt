@@ -1,0 +1,18 @@
+Unter myokardialer Hibernation (englisch wörtlich für „Winterschlaf“) versteht man einen pathophysiologischen Zustand des Herzmuskels, der bei stark herabgesetzter Durchblutung des Herzmuskels auftreten kann – zum Beispiel bei koronarer Herzkrankheit. Er ist vor allem durch eine herabgesetzte Pumpfunktion der schlecht durchbluteten Muskelanteile gekennzeichnet. Sobald die Blutversorgung wiederhergestellt ist, erholt sich die Pumpfunktion des Herzmuskelgewebes rasch.
+
+
+== Abgrenzung ==
+Der Unterschied zum Stunning des Herzmuskels ist, dass sich bei diesem die Pumpfunktion erst nach einer längeren Phase wieder erholt, während dies bei der Hibernation sofort geschieht. In beiden Fällen ist das Herzminutenvolumen reduziert.
+Beim Myokardinfarkt (Herzinfarkt) ist im Gegensatz zum Stunning und zur Hibernation der Funktionsverlust der betroffenen Herzmuskelanteile irreversibel (unumkehrbar). Diese Anteile werden durch Narbengewebe ersetzt, auch nach Wiederherstellung der Durchblutung tritt keine Wiederherstellung der Funktion ein.
+Im Gegensatz zum Winterschlaf oder zur Kältestarre, die physiologische Prozesse darstellen und alle Lebensprozesse des jeweiligen Tieres betreffen, sind beim Stunning und bei der myokardialen Hibernation nur die von der Minderdurchblutung betroffenen Anteile des Herzmuskels beeinträchtigt. Stunning und Hibernation sind dennoch natürliche Vorgänge, im Gegensatz zum künstlich herbeigeführten Herzstillstand (Kardioplegie).
+
+
+== Mechanismus ==
+Als möglicher Mechanismus der Hibernation wird die herabgesetzte Empfindlichkeit gegenüber Calcium in der Herzmuskelzelle diskutiert. Bei länger andauernder Hibernation zeigen sich mikroskopisch gehäuft eine Fibrose und ein Myofibrillenschwund im Sinne einer Entdifferenzierung der Muskelzellen.
+
+
+== Diagnose ==
+Da bezüglich der Mortalität (Sterblichkeit) nur die Patienten mit gestörter Pumpfunktion des Herzens infolge einer Durchblutungsstörung von einer Wiederherstellung der Durchblutung (Revaskularisation: Koronararterien-Bypass oder PTCA) profitieren, ist die Unterscheidung von abgestorbenem und hibernierendem Herzmuskelgewebe von herausragender Bedeutung. Hierzu kommen vor allem die Myokardszintigrafie in SPECT-Technik mit 201Tl-Thallium(I)-chlorid und die Positronen-Emissions-Tomographie (PET) mit 18F-2-deoxy-2-fluoro-D-glucose (FDG) zum Einsatz.
+
+
+== Einzelnachweise ==

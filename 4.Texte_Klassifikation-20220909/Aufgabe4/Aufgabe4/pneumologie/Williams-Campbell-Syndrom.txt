@@ -1,0 +1,54 @@
+Das Williams-Campbell-Syndrom (WCS) ist eine sehr seltene angeborene Fehlbildung der Lunge, die durch eine generalisierte Aplasie, Hypoplasie oder Dysplasie der Knorpelspangen der Segment- und Subsegmentbronchien gekennzeichnet ist. Das Syndrom kann als Variante der Bronchomalazie angesehen werden.Die Namensbezeichnung (Eponym) bezieht sich auf die Autoren der Erstbeschreibung aus dem Jahre 1960, die australischen Pädiater Howard Williams und Peter Campbell.
+
+
+== Verbreitung ==
+Die Häufigkeit (Inzidenz und Prävalenz) ist nicht bekannt. Ebenso fehlen Angaben zur Prognose. Es handelt sich um eine Orphan Disease.
+
+
+== Ursache ==
+Es ist bislang nicht geklärt, ob es sich um eine vererbte Fehlbildung oder um die Folge einer Virusinfektion handelt. Eventuell ist auch eine Kombination beider Faktoren, also eine genetische Disposition in Zusammenwirken mit einer Virusinfektion, die Ursache.
+
+
+== Pathophysiologie ==
+Nach dem Euler-Liljestrand-Mechanismus führt ein Rückgang der Lungenbelüftung (Ventilation) zu einem Rückgang der Lungendurchblutung (Perfusion). Dadurch sinken das Herzzeitvolumen und die glomeruläre Filtrationsrate. Zusätzlich zur Lungeninsuffizienz kommt es so auch zur Herzinsuffizienz und zur Niereninsuffizienz.
+
+
+== Klinische Erscheinungen ==
+Klinische Kriterien sind:
+meist bereits im frühen Kindesalter einsetzende chronische  Bronchitis mit chronischem Husten, keuchender Atmung, Auswurf mit  rezidivierender Pneumonie und Atemnot (Dyspnoe)
+Auslöser ist oft eine Masern- oder Adenovirusinfektion
+Im Verlauf können sich eine Zyanose, generalisierte sackförmige Bronchiektasien, Trommelschlegelfinger, ein Kleinwuchs, ein Emphysem, eine Lungenfibrose, ein Cor pulmonale sowie eine Kielbrust, eine Trichterbrust oder ein Fassthorax entwickeln.
+
+
+== Diagnose ==
+Im Röntgenbild zeigt sich eine Überblähung der Lunge mit Kollaps der Bronchien bei der Ausatmung. Bei der Bronchografie bzw. Bronchoskopie sind Kaliberschwankungen der Bronchien 3. und 4. Ordnung während der Ein- und Ausatmung auffällig.Zur Verlaufskontrolle eignen sich beim Lungenfacharzt die Lungenfunktionsprüfung, beim Kardiologen das Herzzeitvolumen (HZV) und bei der hausärztlichen Labordiagnostik die glomeruläre Filtrationsrate (GFR).
+
+
+== Differenzialdiagnose ==
+Differenzialdiagnostisch abzugrenzen sind:
+Akute interstitielle Pneumonie (Hamman-Rich-Syndrom)
+Allergische bronchopulmonale Aspergillose
+Asthma bronchiale
+Bronchoektasien anderer Genese
+Bronchusstenose-Syndrom
+Kartagener-Syndrom
+Mukoviszidose
+Mykose der Lunge
+Wilson-Mikity-Syndrom (Blasenlungen-Syndrom)
+
+
+== Therapie ==
+Eine kausale Behandlung ist nicht möglich. Die Therapie erfolgt symptomatisch mit β2-Sympathomimetika, Antibiotika, Physiotherapie, Massage und Lagerungsdrainage. In schweren Fällen kann über eine Sauerstoff-Langzeittherapie sowie über eine Lungentransplantation nachgedacht werden.Allgemein empfohlen werden eine Pneumokokkenimpfung, eine Corona-Impfung sowie jährliche Grippeschutzimpfungen.
+
+
+== Literatur ==
+D. Pauleit, B. Kreft, C. Rothert, H. Schild: Lungenveränderungen im hochauflösenden Spiral-CT beim Williams-Campbell-Syndrom. In: RöFo: Fortschritte auf dem Gebiete der Röntgenstrahlen und der Nuklearmedizin. Band 165, Nummer 6, Dezember 1996, S. 589–591, doi:10.1055/s-2007-1015818, PMID 9026105.
+Werner Schuster, D. Färber (Herausgeber): Kinderradiologie. Bildgebende Diagnostik. 2. Auflage, Band 2, S. 60, Springer-Verlag, Berlin und andere 1996, ISBN 3-540-60224-0.
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+BRONCHOMALACIA. In: Online Mendelian Inheritance in Man. (englisch)
+Radiopaedia

@@ -1,0 +1,79 @@
+TomTom N.V. ist ein niederländischer Hersteller von Navigationssystemen und ein Anbieter von Geodaten sowie Telemetrie- und Flottenlösungen.
+
+
+== Geschichte ==
+
+Das 1991 von Peter-Frans Pauwels und Pieter Geelen in Amsterdam unter der Firma Palmtop gegründete Unternehmen hat seit seinem Bestehen verschiedene Anwendungen für PDAs entwickelt. 1994 wurde die Geschäftsleitung durch Corinne Goddijn-Vigreux verstärkt, die zuvor beim PDA-Hersteller Psion gearbeitet hatte. 2001 folgte noch Harold Goddijn, zuvor CEO von Psion, und die Firma wurde in TomTom umbenannt. Mit TomTom Navigator fertigte man 2001 das erste mobile Navigationssystem für Kraftfahrzeuge. Heute zählt TomTom zu den weltweit maßgebenden Entwicklern von Navigationssystemen und ist in diesem Bereich Marktführer in Europa. TomTom bedient dazu ebenfalls den nord- und mittelamerikanischen Markt, so dass das Unternehmen seine Produkte in insgesamt 30 Ländern vermarktet und hierfür über 20 verschiedene Sprachversionen bereithält.
+TomTom ist seit Sommer 2005 an der NYSE Euronext-Börse in Amsterdam notiert. Niederlassungen bestehen in Amsterdam, London, Frankfurt/Main, Mailand, Massachusetts und Taiwan. Das Unternehmen hat seit September 2005 die Aktienmehrheit bei der Leipziger datafactory AG – heute TomTom Telematics, die Komponenten für die Flottenkommunikation entwickelt hatte.
+
+Im Januar 2006 wurde das schottische Unternehmen Applied Generics übernommen, das ein Verfahren zur Ermittlung der Verkehrsdichte aus Mobilfunksignalen entwickelt hatte. Seit Anfang 2007 gibt es TomTom Berlin. Hier versucht man, die Verkehrslage anhand von Floating Car Data zu erfassen. Dadurch soll eine verkehrslagenabhängige Navigation ermöglicht werden. Am 16. November 2007 gab TomTom die Übernahme von Tele Atlas für 2,9 Milliarden Euro bekannt.
+
+
+== Aktie ==
+Die Aktie wird börslich gehandelt und war vorübergehend Bestandteil des AEX index. Aktionäre mit Anteilen über 3 % waren Ende 2014:
+Harold Goddijn: 11,7 %
+Corinne Goddijn-Vigreux: 11,7 %
+Pieter Geelen / Stichting Beheer Moerbei: 11,7 %
+Peter-Frans Pauwels / Stichting Beheer Pillar Arc: 11,7 %
+Flevo Deelnemingen IV BV (Cyrte/Janivo): 10,1 %
+
+
+== Produkte ==
+
+TomTom verkauft derzeit sechs Gruppen von Waren:
+Mobile Navigationsgeräte, unter anderem die neue TomTom GO-Reihe seit 2013, TomTom Rider, TomTom ONE seit 2006, TomTom XL und TomTom Vio. TomTom Rider sind speziell für den Motorradeinsatz konzipiert, wasserdicht und ohne Lautsprecher, dafür Anbindung über Bluetooth zu diversen Headsets. Das Vio ist 2016 speziell für Motorroller entwickelt worden.
+Navigationsgeräte für Festeinbau, diese werden an die Automobilindustrie geliefert und dort unter anderem Namen verbaut, zum Beispiel mit dem Namen Carminat.
+Navigationssoftware zur Installation auf Smartphones. Derzeit gibt es die App TomTom GO Mobile für Android und iOS
+GPS -Uhren für diverse Sportarten wie Golf, Laufen, Outdoor und Fitness
+die Action-Cam Bandit
+Den TomTom Curfer zur Auswertung von Fahrzeugdaten des PKW über die OBD Schnittstelle an das Smartphone. 
+Die TomTom-Produkte sind teilweise modular aufgebaut und decken Aufgaben ab, die von der Orientierungshilfe für einzelne Fahrer bis hin zur Verwaltung und Steuerung großer Fuhrparkflotten reichen. TomTom Business Solutions bietet telematische Dienste für das Flottenmanagement und zielt auf den Geschäftskundenbereich.
+Als Betriebssystem läuft auf den TomTom-Navigationsgeräten Linux. Bei vielen Einschränkungen des Funktionsumfangs der billigeren Geräte handelt es sich um Software-Restriktionen, so dass es Möglichkeiten geben kann, Geräte im unteren Preissegment (wie ONE XL oder GO 510) durch rein softwaremäßige Änderungen in Geräte mit Funktionsmerkmalen ähnlich einem Top-Modell wie GO 940 zu verbessern.
+
+
+== iPhone ==
+Am 8. Juni 2009 kündigte TomTom auf der WWDC die Veröffentlichung einer iPhone-Version seiner Software an. Dazu wird im iPhone mindestens OS 3.0 benötigt. Die Software und das Kartenmaterial werden über den AppStore vertrieben, Anfang Dezember 2009 in der Version 1.2, unterteilt in verschiedene Apps mit unterschiedlichem Kartenumfang bzw. -gebiet. Separat erhältlich ist ein spezielles Carkit mit Ladeschale, Lautsprecher und eigenem GPS-Modul zur Saugmontage an der Windschutzscheibe, welches auch eine Navigation mit dem ursprünglichen iPhone und dem iPod Touch, die keine eingebauten GPS-Empfänger enthalten, ermöglicht und den Empfang bei späteren Generationen des iPhones gegenüber dem eingebauten GPS-Empfänger verbessern soll. Seit Frühjahr 2015 ist die neue App Version 1.20 verfügbar, Voraussetzung dafür ist iOS 7 und sie ist kompatibel mit iPhone, iPad und iPod touch.
+
+
+== Android ==
+Im September 2012 stellte TomTom erstmals während der Internationalen Funkausstellung eine App für Android vor, die ab dem 4. Oktober 2012 im Google Play Store heruntergeladen werden konnte. Jedoch war die App unter anderem wegen der Restriktionen der Bildschirmgröße der verwendeten Smartphones nur auf wenigen Geräten nutzbar. Die änderte sich im Dezember 2012 mit der Version 1.1, die auf fast allen damaligen Android-Geräten lauffähig war. Zudem wurden nun die oft mehrere Gigabyte großen Karten auf eine SD-Karte auslagerbar. Seit Anfang 2015 ist die neu entwickelte TomTom GO Mobile-App mit der Version 1.5 im Google Play Store verfügbar. Erstmals braucht man sie nicht zu kaufen, sondern kann die App für 75 km pro Monat kostenlos nutzen. Will man mehr, kann man per In-App-Kauf ein Abonnement abschließen. Die Karten werden viermal im Jahr aktualisiert und den Käufern – solange TomTom die Android-App anbietet – kostenlos zur Verfügung gestellt. Sogenannte Premiumdienste wie beispielsweise Echtzeit-Verkehrsdaten ("TomTom HD Traffic") brauchen mit der neuen App nicht mehr separat gekauft zu werden. Beim Kauf eines Navigationsabos sind Radardienste sowie HD-Traffic inklusive.
+
+
+== Liste von TomTom-Navigationsgeräten ==
+SD — Secure Digital (max. 2 GB)
+SDHC — Secure Digital High Capacity (4–32 GB)
+MicroSD — Micro Secure Digital High Capacity (max. 32 GB)
+Nicht alle Modelle sind in jedem Land verfügbar, die Ausstattung kann sich lokal unterscheiden.
+
+
+== Datenschutz ==
+Im April 2011 wurde bekannt, dass TomTom in den Niederlanden Geschwindigkeitsdaten der Nutzer unter anderem an die niederländische Polizei verkauft hatte. Diese Daten wurden im Rahmen der PC-Synchronisation des Navigationsgerätes an TomTom übertragen und anonymisiert weiter vertrieben. Die Polizei der Niederlande soll mit den Daten geplant haben, an entsprechenden Punkten Radarkontrollen zu installieren. TomTom sagte aufgrund des negativen Medienechos zu, diese Art der Datennutzung künftig zu verhindern.
+
+
+== Automotive ==
+TomTom hat mit dem Volkswagenkonzern einen Vertrag abgeschlossen, durch den ab dem zweiten Quartal 2015 die Neuwagen des Konzerns mit TomTom-Lösungen ausgestattet werden. VW ersetzt damit den Verkehrsdienst Inrix durch TomTom-Echtzeitverkehrsdaten.
+
+
+== Kunden ==
+Zu den Kunden von TomTom-Geodaten gehören unter anderem:
+Apple
+Blaupunkt
+BMW
+Ericsson
+Google Maps
+MapChart
+MapQuest
+Mercedes-Benz
+Microsoft
+NaviFlash
+RIM
+Volkswagen AG
+Die größten Konkurrenten von TomTom sind das amerikanische Unternehmen Navteq, das von Nokia aufgekauft wurde, das schweizerische Unternehmen Garmin sowie das freie Projekt OpenStreetMap.
+
+
+== Weblinks ==
+
+Offizielle Webseite der TomTom N.V.
+
+
+== Einzelnachweise ==

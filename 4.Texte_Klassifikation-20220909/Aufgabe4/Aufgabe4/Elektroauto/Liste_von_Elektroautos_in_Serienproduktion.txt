@@ -1,0 +1,62 @@
+Die Liste von Elektroautos in Serienproduktion soll alle batterieelektrischen Elektroautos aufführen, die in Serienproduktion gingen und zugleich entweder im Eigenvertrieb des Herstellers oder im Handel für Endkunden käuflich zugänglich sind oder dies zwischen etwa 1980 und heute waren.
+
+Meistverkaufte Elektroautos
+		
+		
+		
+
+
+== Elektroautos in Großserienproduktion ==
+Diese Tabelle führt Elektroautos auf, die gegen 2018/2019 in Großserie gefertigt werden bzw. wurden, nach derzeitiger Definition also „über 1000 Stück pro Monat“ bzw. über 12.000 Stück pro Jahr (Angabe in Tabelle meist Anzahl der real verkauften Fahrzeuge pro Jahr, selten Anzahl der real produzierten Fahrzeuge pro Jahr). Planstückzahlen oder Planverkaufszahlen der Hersteller zu bestimmten Modellen sollten nicht in die Liste eingetragen werden, da die Absatzhoffnunungen der Hersteller und die Realität des Modellverkaufs am Markt zuweilen drastisch auseinanderklaffen.
+Bei den Reichweitenangaben ist zu bedenken, dass die Herstellerangaben nach dem bis August 2017 in der EU gültigen Neuen Europäischen Fahrzyklus (NEFZ) etwa 40 % zu hoch angesetzt sind, beim China specific drive cycle for emissions and fuel consumption test v1 (CDC) nur eine Maximalgeschwindigkeit von 60 km/h während des Prüfvorgangs gefahren wird. Die weitaus realistischeren Werte nach dem seit September 2017 in der EU gültigen Worldwide harmonized Light vehicles Test Procedure (WLTP) und dem  amerikanischen Environmental Protection Agency (EPA)-Prüfzyklus berücksichtigen Geschwindigkeiten bis ca. 130km/h, sind aber je nach Fahrweise und Umweltbedingungen immer noch von der Realität entfernt.
+Bei den Kapazitätsangaben zur Batterie handelt es sich üblicherweise um Bruttoangaben. In der Praxis wird die Batterie aber niemals voll geladen bzw. entladen um ihre Lebensdauer zu verlängern.
+
+
+== Elektroautos in Mittel- und Kleinserienproduktion ==
+Folgende Personenkraftwagen wurden im Zeitraum von etwa 2018/2019 in Mittel- und Kleinserien produziert und sind auf einigen Märkten der Welt eingeführt. Die produzierten Stückzahlen belaufen sich aber auf unter 1000 Stück pro Monat:
+
+
+=== Fahrzeugmodelle mit Autobahnzulassung ===
+Auf den meisten Autobahnen der Welt muss ein Kraftfahrzeug eine bauartbedingte Höchstgeschwindigkeit von über 60 km/h erreichen, um diese Straßenart befahren zu dürfen.
+
+
+=== Fahrzeugmodelle für die Stadt ===
+Bis 60 km/h Höchstgeschwindigkeit
+
+
+=== Anmerkungen zu den vorangehenden Pkw-Auflistungen ===
+
+
+== Liste batterieelektrisch angetriebener Gebrauchtwagenmodelle ==
+
+Weltweit sind oder waren folgende nicht mehr gebauten Elektrofahrzeuge erhältlich:
+
+
+== Allgemeine Hinweise zu den Tabellen ==
+Versuchsträger, Prototypen, Demonstrationsfahrzeuge, Rekordfahrzeuge und Entwicklungsvorhaben, soweit sie sich auf komplette Autos beziehen, finden sich in der Liste von Elektroauto-Prototypen. Hierzu gehören auch Vorserienautos. Elektro-Rennwagen werden in einem Extra-Abschnitt in dieser Liste geführt.
+Die Liste historischer in Serie produzierter Elektroautos und Prototypen soll sämtliche historische Elektroautos aufführen, welche in die Kategorie Oldtimer gehören, also älter als dreißig Jahre alt sind und entweder in Serie produziert oder als Prototypen gebaut worden sind.
+In Serie produzierte Nutzfahrzeuge, die mit Elektroantrieb ausgestattet sind, aber auch Versuchsträger, Prototypen, Demonstrationsfahrzeuge, Rekordfahrzeuge und Entwicklungsvorhaben bei Elektro-Nutzfahrzeugen sind in der Liste von Elektro-Nutzfahrzeugen und Elektro-Nutzfahrzeug-Prototypen zu finden.
+Brennstoffzellenfahrzeugmodelle und Hybridfahrzeugmodelle werden in den untenstehenden Tabellen nicht geführt. Was Hybridfahrzeugmodelle anbelangt, so möge auf die Liste der Hybridautomobile in Serienfertigung Bezug genommen werden. Für Brennstoffzellenfahrzeugmodelle besteht die Liste von Brennstoffzellenautos in Serienproduktion und für die als Prototypen oder Konzeptfahrzeuge bereits gebaut wurden sei auf Brennstoffzellen-Konzeptfahrzeuge als Bezugspunkt für eine Auflistung verwiesen.
+Solarmobile, darunter Solarautos, welche für den Straßenverkehr bestimmt sind, bilden eine Sonderkategorie; sie werden nicht hier, sondern in der Liste von Solarfahrzeugen aufgeführt. Straßentaugliche batterieelektrische Autos, an deren Außenflächen Photovoltaik-Systeme angebracht sind, werden den Solarautos zugerechnet.
+Elektro-Dreiräder werden, sofern sie wie Autos, nicht wie Motorräder gelenkt werden, ausnahmsweise in dieser Liste geführt, obwohl sie per definitionem keine „Autos“ sind.
+Um sowohl die Liste übersichtlich und pflegbar (Aktualität) als auch die angegebenen Werte überprüfbar zu halten, sollte zu jedem Fahrzeug ein separates Lemma angelegt werden, in dem Belege und Einzelnachweise eingepflegt werden. Fahrzeuge ohne Nachweis einer kommerziellen Serienfertigung für Verkauf /Leasing sollten nicht angeführt werden. Als Orientierungsbeispiel für Mitautoren kann die neuere Liste der Hybridautomobile in Serienfertigung dienen.
+Die Werte in den Tabellen sind teilweise vereinfacht dargestellt. Gibt es beispielsweise verschiedene Höchstgeschwindigkeiten (Vmax) für verschiedene „Fahrstufen“, so ist die Höchstgeschwindigkeit für den normalen Dauerbetrieb angegeben. Angaben „von … bis“ (z. B. Aufladedauer 6–8 Stunden) sind teilweise mit dem Durchschnittswert angegeben, Ladezeiten mit verschiedener Ladeleistung 10 kW/20 kW dann auch mit Schrägstrich zur Trennung. Meilen sind in Kilometer umgerechnet und auf ganze Kilometer gerundet.
+Das Leergewicht wird beim Elektroauto immer mit eingebauter Traktionsbatterie angegeben. Hier ist es wichtig, zwischen der oft von den Herstellern angegebenen Nennkapazität und der (zur Erhöhung von Lebensdauer und Zuverlässigkeit durch das BMS begrenzten) tatsächlich nutzbaren Kapazität zu unterscheiden, denn diese ist für die erreichbare Reichweite und Ladezeit maßgeblich.
+
+
+=== Hinweise zu den Ladezeiten und Ladeverfahren ===
+
+Da die Ladezeiten nicht nur von der Größe (Kapazität) der Traktionsbatterie abhängen, sondern auch von der Ladetechnik und der Leistungsfähigkeit des Stromanschlusses, wurden die entsprechenden Angaben in drei verschiedene Spalten eingeteilt:
+
+Standardladung: Derzeit unterstützen alle Elektroautos in Europa mit ihren eingebauten Bordladegeräten das Laden an einer herkömmlichen Schuko-Steckdose mit 230 V (Haushaltsspannung). Da diese Steckdosen allerdings nur kurzzeitig mit dem Maximalstrom 16 A belastet werden dürfen, ist die Ladeleistung an diesem Anschluss auf 2,3 kW (230 V und 10 A) begrenzt. Bei modernen Elektroautos wird dabei ein ICCB-Ladekabel eingesetzt, das neben der Begrenzung der Stromstärke auch zusätzliche Sicherheitsfunktionen realisiert. Die Ladezeiten sind bei dieser geringen Ladeleistung dementsprechend lang. Für die Ladung mit bis zu 3,6 kW kann ein „Camping-“ oder „Caravanstecker“ oder ein Ladekabel mit Mennekes Typ-2-Stecker (einphasig) genutzt werden. Aufgrund der für die internationale Verwendung meist eingesetzten Multispannungsbordlader (vor allem für den amerikanischen Markt) sind Abweichungen möglich. So unterstützt der BMW i3 in Europa einphasiges Laden an 230 V mit bis zu 20 A (4,6 kW), was allerdings in der Vorinstallation eine Wandladestation mit 400 V/20 A (i. d. R. 32 A) voraussetzt, die dann nur einphasig belastet wird.
+Laden mit Drehstrom: Zum Übertragen größerer Leistungen, und damit zum Erzielen kürzerer Ladezeiten, steht in Europa das 400-Volt-Netz mit Dreiphasenwechselstrom (Kraft- oder Drehstrom) zur Verfügung. Für die verschiedenen Ströme (16 A, 32 A, 63 A, 125 A) und Leistungen (11 kW, 22 kW, 43 kW, 85 kW) hat sich der fünfpolige CEE-Stecker durchgesetzt. Viele ältere Ladestationen bieten Anschlüsse nach dieser Norm. Viele ältere oder zum Elektroauto umgebaute Fahrzeuge nutzen (optionale) Zusatzladegeräte zum beschleunigten Aufladen. Da aber die Stecker je nach Stromstärke eine unterschiedliche Größe haben (Unverwechselbarkeit) und relativ unhandlich sind, wurde zur Ladung von Elektroautos von der Firma Mennekes ein neuer Einheitsstecker „Typ 2“ entworfen, der elektronisch kodiert die zulässige Ladeleistung von einphasig 3,6 kW bis dreiphasig 43 kW freigibt. Mit diesem 2013 von der EU zur Norm erklärten Steckersystem werden derzeit alle kommerziellen neuen Stromtankstellen (z. B. von RWE oder E.ON) ausgerüstet. Alle Elektroautos in Europa können mit einem Typ-2-Ladekabel (teilweise über Adapter) aufgeladen werden, da er letztlich nur ein elektrisch anpassbarer Einheitsstecker für die verschiedenen Netze ist. Um die Vorteile der leistungsstarken Drehstromanschlüsse nutzen zu können, muss allerdings im Fahrzeug auch ein entsprechend leistungsstarkes Ladegerät eingebaut sein. Um die beschleunigte Ladung auch in der Privatgarage nutzen zu können, wird oft eine sogenannte Wandladestation mit Typ-2-Anschluss angeboten. Diese Boxen gibt es derzeit (2013) in einfachen Versionen für 400 V 16 A (11 kW), sowie 32 A (22 kW) und 63 A (44 kW). Sie sind Adapter zwischen dem 400-V-Drehstromanschluss (IEC 60309) und Mennekes Typ-2-Ladestecker (IEC 62196) und ermöglichen neben zusätzlichen Sicherheitsfunktionen auch die Kommunikation mit der Fahrzeugelektronik moderner Elektroautos. Bei diesen Wandladestationen ist so (ebenso wie bei Stromtankstellen) während des Ladens eine stetige Kommunikation zwischen Fahrzeug und Ladeanschluss möglich. Dies ermöglicht beispielsweise eine stetige Anpassung der Ladeleistung bei stark ausgelasteten Stromtankstellen oder die geregelte Ladung von eigenerzeugtem Solarstrom.
+Gleichstrom-Schnellladung mittels Combined Charging System (CCS) oder CHAdeMO kann vom Hersteller im Fahrzeug implementiert werden und wird mit 80 % Aufladung in 20 bis 30 Minuten beworben. Die Voraussetzung dafür ist ein entsprechender Ladeanschluss und der Datenaustausch zwischen Fahrzeug und Stromtankstelle. Deutsche Elektroautos setzen auf CCS, der EU-weit – in Deutschland über die Ladesäulenverordnung – eingeführt wird, einen Kombinationsanschluss vom Stecker Typ 2 und zusätzlicher Option auf Gleichstromladung. Die in Japan entwickelte CHAdeMO-Technik ist als zusätzlicher Ladeanschluss beispielsweise im iMiEV (und den baugleichen Citroën C-ZERO und Peugeot iOn) und beim Nissan Leaf integriert. Die Gleichstromladetechnik bietet den Vorteil einer Schnellladung, ohne in jedes Fahrzeug teure Ladetechnik integrieren zu müssen. Außerdem ist kein zusätzliches Ladekabel notwendig, da die aufgrund der Leistungen schwereren und dickeren Anschlusskabel fest an den Ladesäulen montiert sind. Da sich CHAdeMo und CCS-Gleichstromladung nur geringfügig unterscheiden, wird es kombinierte Ladesäulen geben.
+Schnellladung mit CCS bis 800 V und bis 350 kW wird aufgebaut. Treiber sind Porsche und Ionity.
+Der chinesische GB/T-Ladestandard spielt in der Europäischen Union allenfalls eine untergeordnete Rolle.Generell wird bei allen Ladetechniken für moderne Lithium-Ionen-Akkumulatoren ab etwa 80 % Ladezustand der Ladestrom abgesenkt. Daher geben die Hersteller oft die Ladedauer bis zur 80-prozentigen Aufladung an. Die Ladung der restlichen 20 % dauert auf Grund der geringeren Ladeströme entsprechend länger.
+
+
+== Siehe auch ==
+Liste von Elektroautos bei EnBW. 6. Oktober 2020.
+
+
+== Einzelnachweise ==

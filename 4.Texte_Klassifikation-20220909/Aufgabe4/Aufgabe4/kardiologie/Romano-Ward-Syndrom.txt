@@ -1,0 +1,55 @@
+Das Romano-Ward-Syndrom (RWS) ist eine sehr seltene angeborene Erkrankung mit einer Kombination von QT-Zeit-Verlängerung und ventrikuläre Tachyarrhythmie ohne angeborene Innenohrschwerhörigkeit aufgrund einer Störung der Erregungsleitung.Die Erkrankung gilt (mit etwa 70 %) als häufigste Variante des Familiären Long-QT-Syndroms.
+Die Bezeichnung „RWS“ steht für die LQTS-Varianten mit bekannten Genen „LQT1“ bis „LQT6“ und „LQT9 bis LQT12“ oder nur für „LQT1“ (Typ I).Synonyme sind: Romano-Ward Long-QT-Syndrom; Syndrom der QT-Verlängerung ohne Taubheit, erbliches; familiäres QT-Syndrom; Pseudo-Hypokaliämie-Syndrom; Ward-Romano-Syndrom
+Die Bezeichnung bezieht sich auf den Autoren der Erstbeschreibung aus dem Jahre 1963 durch den italienischen Pädiater Cesarino Romano (1924–2008) sowie auf eine Beschreibung aus dem Jahre 1964 durch den irischen Pädiater Owen Conor Ward (* 1923).
+
+
+== Verbreitung ==
+Die Häufigkeit wird mit 1 bis 5 zu 10.000 angegeben, die Vererbung erfolgt autosomal-dominant. Männliche und weibliche Familienmitglieder sind mit gleicher Häufigkeit betroffen.
+
+
+== Ursache ==
+Der Erkrankung liegen mindestens sechs molekulargenetisch unterscheidbare Genmutationen zugrunde, die unterschiedliche Ionenkanäle betreffen und den betroffenen Patienten mehr oder weniger stark gefährden.
+Je nach zugrunde liegender Mutation können folgende Typen unterschieden werden:
+
+LQT1, Mutationen im KCNQ1-Gen auf Chromosom 11 Genort p15.5-p15.4
+LQT2, Mutationen im KCNH2-Gen auf Chromosom 7 Genort q36.1
+LQT3, Mutationen im SCN5A-Gen auf Chromosom 3 Genort p22.2
+LQT4, Mutationen im ANK2-Gen auf Chromosom 4 Genort q25-q26
+LQT5, Mutationen im KCNE1-Gen auf Chromosom 21 Genort q22.12
+LQT6, Mutationen im KCNE2-Gen auf Chromosom 21 Genort 22.11
+LQT9, Mutationen im CAV3-Gen auf Chromosom 3 Genort p25.3
+LQT10, Mutationen im SCN4B-Gen auf Chromosom 11 Genort q23.3
+LQT11, Mutationen im AKAP9-Gen auf Chromosom 7 Genort q21.2
+LQT12, Mutationen im SNTA1-Gen auf Chromosom 20 Genort q11.21
+
+
+== Klinische Erscheinungen ==
+Klinische Kriterien sind:
+synkopale Anfälle bei Stress, Anstrengung oder Kälte
+mitunter nur unter Belastung QT-Verlängerung (>500 ms) mit Tachyarrhythmien (ventrikuläre Tachykardie, Torsades de pointes und Kammerflimmern) bis zu Herzstillstand
+keine Taubheit
+
+
+== Differentialdiagnose ==
+Abzugrenzen sind:
+Jervell-Lange-Nielsen-Syndrom
+Morgagni-Adams-Stokes Anfälle
+andere Formen des QT-Syndroms
+Hypertrophe Kardiomyopathie
+Orthostatische Dysregulation
+Brugada-Syndrom
+vasovagale Synkope
+
+
+== Literatur ==
+E. C. Hodkinson, A. P. Hill, J. I. Vandenberg: The Romano-Ward syndrome–1964-2014: 50 years of progress. In: Irish medical journal. Band 107, Nr. 4, April 2014, S. 122–124. PMID 24834591.
+R. Bloise, C. Napolitano, S. G. Priori: Romano-Ward and other congenital long QT syndromes. In: Cardiovascular drugs and therapy. Band 16, Nr. 1, Januar 2002, S. 19–23. PMID 12085973 (Review).
+J. A. Towbin: Molecular genetic aspects of the Romano-Ward long QT syndrome. In: Texas Heart Institute journal. Band 21, Nr. 1, 1994, S. 42–47. PMID 8180509, PMC 325130 (freier Volltext) (Review).
+H. Heidegger, R. von Hugo, J. Plötz: Hereditär verlängertes QT-Intervall (Romano Ward Syndrom) im geburtshilflichen Management. In: Geburtshilfe und Frauenheilkunde. Band 53, Nr. 3, März 1993, S. 201–203, doi:10.1055/s-2007-1023666. PMID 8467990.
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+Genetics Home Reference

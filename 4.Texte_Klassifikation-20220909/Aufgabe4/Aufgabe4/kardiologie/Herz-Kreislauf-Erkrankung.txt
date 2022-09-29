@@ -1,0 +1,76 @@
+Unter Herz-Kreislauf-Erkrankungen oder kardiovaskulären Erkrankungen werden Erkrankungen des Herzens und der Blutgefäße zusammengefasst. Herz-Kreislauf-Erkrankungen machen einen Großteil der weltweiten Todesfälle aus. Über die Hälfte dieser Todesfälle kann auf falsche Ernährung zurückgeführt werden. Herz-Kreislauf-Erkrankungen können bei rechtzeitiger Diagnose meist gut behandelt werden.
+
+
+== Vorkommen ==
+Mit 17,8 Millionen Todesfällen stellten Herz-Kreislauf-Erkrankungen im Jahr 2017 weltweit die häufigste Todesursache dar. Somit sind im globalen Durchschnitt 32 % aller Todesfälle auf Herz-Kreislauf-Erkrankungen zurückzuführen. Auch in Europa und Deutschland führen Herz-Kreislauf-Erkrankungen die Sterbestatistik an. In Europa sterben jedes Jahr mehr als vier Millionen Menschen an Herz-Kreislauf-Erkrankungen; davon sind 1,4 Millionen jünger als 75 Jahre.In Deutschland sind im Jahr 2016 ca. 339.000 Menschen an kardiovaskulären Erkrankungen verstorben; dies entspricht 37 % der Gesamtmortalität. Vor allem in östlichen Bundesländern (insbesondere in Sachsen-Anhalt, Brandenburg und Thüringen), aber auch in Schleswig-Holstein und Nordrhein-Westfalen sind die kardiovaskulären, altersstandardisierten Sterbeziffern überdurchschnittlich hoch.
+
+
+== Risikofaktoren ==
+Die Ursachen von Herz-Kreislauf-Erkrankungen sind vielfältig und können in beeinflussbare und nicht beeinflussbare Risikofaktoren unterteilt werden. Zu den nicht beeinflussbaren Risikofaktoren zählen: Alter, Geschlecht und genetische Veranlagung. Zu den beeinflussbaren Risikofaktoren gehören (in absteigender Relevanz nach GBD): Bluthochdruck, Ernährung, Dyslipidämie (oftmals Hypercholesterolämie), Diabetes, Übergewicht, Rauchen, Luftverschmutzung, Bewegungsmangel und übermäßiger Alkoholkonsum. Daneben sind weitere beeinflussbare Risikofaktoren bekannt: nicht diagnostizierte Zöliakie, rheumatoide Arthritis, psychosoziale Faktoren, Armut und niedriger Bildungsstand.Beeinflussbare Risikofaktoren in Deutschland (in absteigender Relevanz nach GBD):
+
+
+=== Bluthochdruck ===
+Eine Hauptursache für Herz-Kreislauf-Erkrankungen stellt ein unbehandelter, arterieller Bluthochdruck dar. Nach Definition der WHO gilt ein systolischer Blutdruck von mehr als 140 mmHg und/oder ein diastolischer Blutdruck von mehr als 90 mmHg als Hypertonie. Eine Senkung des Blutdrucks um 10 mmHg reduziert das Erkrankungsrisiko um ca. 20 %. Die Senkung des Blutdrucks ist laut Studien auch bei normalen Blutdruckbereichen eine effektive Präventionsmaßnahme.
+
+
+=== Ernährung ===
+Obwohl kontrollierte, randomisierte Interventionsstudien zu ernährungsspezifischen Fragestellungen aufgrund des hohen Aufwands in der Vergangenheit eher selten durchgeführt wurden, zeigen aktuelle Interventionsstudien, dass die Ernährungsweise eine zentrale Rolle für die Prävention von Herz-Kreislauf-Erkrankungen spielt. Von insgesamt 4,3 Millionen kardiovaskulär bedingten Todesfällen im Jahr 2016 in Europa (WHO Europaregion) gehen 2,1 Millionen auf eine unausgewogene Ernährung zurück. Auf die EU entfallen davon rund 900.000 kardiovaskulär bedingte Todesfälle. Männer sind von ernährungsbedingten Herz-Kreislauf-Erkrankungen häufiger und tendenziell bereits in jüngeren Jahren betroffen, Frauen dagegen erst ab dem 50. Lebensjahr. Rund 601.000 Menschen unter 70 Jahren starben im Jahr 2016 in Europa an den Folgen einer ernährungsbedingten Herz-Kreislauf-Erkrankung; davon 420.000 Männer und 181.000 Frauen. Während in der Schweiz und in Österreich rund 10.000 und 15.000 Menschen an ernährungsbedingten Herzkreislauf-Erkrankungen im Jahr 2016 verstarben, sind in Deutschland rund 165.000 vorzeitige Todesfälle auf eine unausgewogene Ernährung zurückzuführen.Auf Ebene von Lebensmittelgruppen sieht ein systematisches Review aus dem Jahr 2021 folgendes Ernährungsmuster als schützend an: niedriger Konsum von tierischen Lebensmitteln, niedriger Salzkonsum, erhöhter Konsum von pflanzlichen Lebensmitteln (Vollkornprodukte, Obst, Gemüse, Hülsenfrüchte, Nüsse), Ersetzen von Butter mit Ölen, die reich an ungesättigten Fetten sind.Zuvor zeigten bereits andere Einzelstudien und Systematische Reviews, dass ein Austausch von gesättigten Fettsäuren durch komplexe Kohlenhydrate, mehrfach ungesättigte oder einfach ungesättigte Fettsäuren kardiovaskuläre Risikofaktoren reduziert und die kardiovaskuläre Sterblichkeit senkt.Zudem hat eine hohe Zufuhr von trans-Fettsäuren negative Auswirkungen auf die Blutlipide und zirkulierende Entzündungsmarker. Daher wird die Eliminierung von trans-Fettsäuren aus der Ernährung empfohlen. Im Jahr 2018 schätzte die WHO, dass global mehr als eine halbe Million Todesfälle pro Jahr durch eine zu hohe Aufnahme von trans-Fettsäuren bedingt wurden.Die Studienlage zeigt zudem, dass ein hoher Zuckerkonsum neben einem erhöhten Risiko für Diabetes auch Bluthochdruck und Dyslipidämien begünstigt. Zudem steht ein übermäßiger Konsum von Lebensmitteln mit einem hohen Anteil an Salz und gesättigten Fettsäuren mit einem erhöhten Risiko für Herz-Kreislauf-Erkrankungen in Verbindung.
+
+
+=== Dyslipidämie ===
+Unter Dyslipidämie werden pathologisch erhöhte Konzentrationen der Blutlipide, inklusive des Gesamtcholesterins, der Triglyzeride sowie der LDL-Cholesterin- bzw. der VLDL-Cholesterinfraktion verstanden. Primäre Dyslipidämien stellen eine eigene, meist genetisch bedingte Erkrankung dar, während sekundäre Dyslipidämien Folgeerscheinungen anderer Ursachen sind.
+
+
+=== Diabetes ===
+Menschen mit Diabetes mellitus weisen im Vergleich zur Allgemeinbevölkerung ein höheres Risiko auf, an Herz-Kreislauf-Erkrankungen zu erkranken. Bei Diabetikern treten Herzinfarkte häufiger auf und nehmen einen ungünstigeren Verlauf als bei Menschen ohne Diabetes. Durch die in vielen Fällen zusätzlich bestehende diabetische Schädigung des autonomen Nervensystems kann es zu Störungen innerhalb der Schmerzleitung und zu Herzrhythmusstörungen kommen. Insbesondere beim Diabetes Typ 2 liegen neben den erhöhten Blutzuckerspiegeln häufig Störungen vor, die sich negativ auf die Blutgefäße auswirken. Ein erhöhter Blutdruck (Hypertonie) und Dyslipidämien schädigen zusätzlich die Gefäßwände und verursachen Verengungen (Stenosen) und Verstopfungen (Thrombosen) der Arterien. Auch beim Diabetes mellitus Typ 1 können Dyslipidämien auftreten.
+
+
+=== Übergewicht und Adipositas ===
+Mit zunehmenden Body-Mass-Index (Übergewicht: BMI 25–29, Adipositas: BMI>30) steigt das Risiko für Herz-Kreislauf-Erkrankungen. Im Organismus kommt es hierbei zur vermehrten Produktion pro-inflammatorischer Stoffwechselprodukte und zu einer Entgleisung des Fettstoffwechsels, wodurch die Bildung atherosklerotischer Plaques in den Arterien begünstigt wird. Eine Studie aus dem Jahr 2016 zeigte, dass das kardiovaskulär bedingte Sterberisiko bei Übergewichtigen mit einem BMI von 25 bis 27,5 um 11 % und bei Übergewichtigen mit einem BMI von 27,5 bis 30 um 35 % gegenüber Normalgewichtigen erhöht ist. Die Framingham-Herz-Studie ergab, dass Übergewicht im Alter von 40 Jahren die Lebenserwartung im Durchschnitt um drei Jahre reduziert. Adipositas im Alter von 40 Jahren führte in der Studienpopulation sogar zu einer statistisch reduzierten Lebenszeit von sechseinhalb Jahren.
+
+
+=== Rauchen ===
+Weltweit werden etwa 10 % der Herz-Kreislauf-Erkrankungen dem Rauchen zugeschrieben. Bei Menschen, die mit 30 Jahren mit dem Rauchen aufhören, sinkt das Risiko für kardiovaskuläre Erkrankungen auf das Niveau von Nichtrauchern. Neben dem Aktivrauchen fördert auch Passivrauchen die Entstehung von Herz-Kreislauf-Erkrankungen. Hiervon sind besonders Kinder betroffen.
+
+
+=== Luftverschmutzung ===
+Berechnungen aus dem Jahr 2017 zeigen, dass die Verschmutzung der Luft durch Abgase und das Kochen an offenem Feuer weltweit für circa 12 % Prozent aller Herz-Kreislauf-Erkrankungen verantwortlich sein könnte. In Deutschland lag dieser Anteil bei 5,5 %.
+
+
+=== Körperliche Inaktivität (Bewegungsmangel) ===
+Unzureichende körperliche Aktivität (definiert als weniger als fünfmal 30 Minuten mäßige Aktivität pro Woche oder weniger als dreimal 20 Minuten starke Aktivität pro Woche) gilt als ein weiterer wesentlicher Risikofaktor für Herz-Kreislauf-Erkrankungen. Das Risiko für ischämische Herzerkrankungen und Diabetes mellitus wird bei Erwachsenen, die jede Woche regelmäßig Ausdauersport betreiben (in der Summe mindestens 150 Minuten), um fast ein Drittel reduziert. Darüber hinaus unterstützt körperliche Aktivität den Gewichtsverlust und verbessert die Blutzuckereinstellung, den Blutdruck, das Lipidprofil und die Insulinsensitivität.
+
+
+=== Alkohol ===
+Ein direkter Zusammenhang zwischen Alkoholkonsum und der Entstehung von Herz-Kreislauf-Erkrankungen ist bei hohen Alkoholmengen belegt. In niedrigen Dosen wirkt Alkohol eher protektiv. Eine internationale Studie kam im Jahr 2018 zu dem Ergebnis, dass erst ab einem täglichen Konsum von sechs Standard-Drinks das Risiko für Herz-Kreislauf-Erkrankungen zunimmt (ein Standard-Drink entsprach in dieser Studie 10 Gramm Alkohol). In Bezug auf andere Erkrankungen (Krebserkrankungen, Verletzungen durch Verkehrsunfälle, Tuberkulose etc.) wurde jedoch beobachtet, dass bereits ab einem Standard-Drink täglich ein steigendes Risiko eintritt. In Bezug auf die Gesamtsterblichkeit sollte demnach nicht mehr als ein Standard-Drink pro Tag getrunken werden, was einem Glas Wein bzw. 0,5 Liter Bier pro Person entspricht.
+
+
+=== Zöliakie ===
+Unbehandelte Zöliakie kann zur Entstehung vieler Arten von Herz-Kreislauf-Erkrankungen beitragen. Die Einhaltung einer glutenfreien Ernährung mit resultierender Darmheilung senkt das Risiko. Verzögerungen bei der Erkennung (Diagnose) können irreversible Herzschäden verursachen.
+
+
+== Klassifizierung nach der ICD ==
+
+Im Rahmen von Kapitel IX der International Statistical Classification of Diseases and Related Health Problems (ICD) werden „Krankheiten des Kreislaufsystems“ folgendermaßen klassifiziert (Codes I00 bis I99)
+akutes rheumatisches Fieber,
+chronische rheumatische Herzkrankheiten (z. B. rheumatische Mitralklappenstenose),
+Bluthochdruck (Hypertonie),
+ischämische Herzkrankheiten (z. B. koronare Herzkrankheit und Herzinfarkt),
+das Cor pulmonale und Krankheiten des Lungenkreislaufes (z. B. pulmonale Hypertonie),
+sonstige Herzkrankheiten (z. B. Perikarditis, Endokarditis, nichtrheumatische Herzklappenfehler),
+zerebrovaskuläre Krankheiten (z. B. Hirnblutung und Hirninfarkt),
+Krankheiten der Arterien, Arteriolen und Kapillaren (z. B. arterielle Verschlusskrankheit),
+anderenorts nicht klassifizierte Krankheiten der Venen (z. B. Thrombose, Krampfadern), der Lymphgefäße und der Lymphknoten und
+sonstige Krankheiten des Kreislaufsystems (z. B. Hypotonie, Ösophagusvarizen).Nicht enthalten sind beispielsweise angeborene Herzfehler wie der Vorhofseptumdefekt, angeborene Gefäßmissbildungen wie die Aortenisthmusstenose, Tumoren des Herzens oder der Gefäße, entzündliche und nekrotisierende Gefäßerkrankungen wie die Panarteriitis nodosa und das Takayasu-Syndrom, Herz- und Gefäßverletzungen und transitorische ischämische Attacken.
+
+
+== Klassifizierung in der Humanmedizin ==
+Innerhalb der Medizin wird der Begriff Herz-Kreislauf-Erkrankung nicht einheitlich verwendet. Häufig werden die meisten Krankheiten des Herzens und der Arterien, nicht jedoch der Venen und Lymphgefäße einbezogen. Entzündliche Gefäßerkrankungen werden oft ausgeklammert, entzündliche Herzerkrankungen hingegen nicht. Angeborene Herzfehler werden meist hinzugerechnet.
+Gelegentlich wird der Begriff Herz-Kreislauf-Erkrankung auch nur für die mit Arteriosklerose und den Risikofaktoren Diabetes Mellitus, Rauchen, Bewegungsmangel, genetische Veranlagung usw. assoziierten Herz- und Gefäßkrankheiten, wie sie in der Monica-Studie der WHO seit den 1980er Jahren beobachtet werden, benutzt.
+
+
+== Ältere Literatur ==
+Herbert Reindell, Helmut Klepzig: Krankheiten des Herzens und der Gefäße. In: Ludwig Heilmeyer (Hrsg.): Lehrbuch der Inneren Medizin. Springer-Verlag, Berlin/Göttingen/Heidelberg 1955; 2. Auflage ebenda 1961, S. 450–598.
+
+
+== Einzelnachweise ==

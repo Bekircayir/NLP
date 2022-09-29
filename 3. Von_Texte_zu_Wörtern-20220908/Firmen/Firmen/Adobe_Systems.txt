@@ -1,0 +1,39 @@
+Adobe Systems Incorporated [əˈdoʊbiːˈsɪstəmz] ist ein US-amerikanisches Softwareunternehmen, registriert im Bundesstaat Delaware. Es wurde 1982 von John Warnock und Charles Geschke, den Erfindern der Seitenbeschreibungssprache PostScript, gegründet. Der Name Adobe (span. und engl. „Lehmziegel“) leitet sich von einem Fluss namens Adobe Creek ab, der hinter Warnocks Haus im kalifornischen Los Altos verlief.
+
+
+== Geschichte ==
+
+John Warnock war forschender Angestellter bei Xerox PARC und erfand dort die Seitenbeschreibungssprache Interpress. Da Xerox nicht gewillt war, diese zu vermarkten, wurde später Adobe gegründet und InterPress mit kleineren Änderungen unter dem Namen PostScript vermarktet. PostScript erlaubt es, mit verhältnismäßig geringem Datenaufkommen Dokumente für die Druckvorstufe exakt und reproduzierbar zu beschreiben. Die Dateien sind im Gegensatz zu Druckersprachen hardwareunabhängig, können in andere Dokumente eingebunden werden (EPS), sind jedoch als letzte Stufe der Produktionskette nur bedingt bearbeitbar.
+2009 beschäftigte Adobe etwa 8.660 Angestellte und hatte einen Jahresumsatz von ungefähr 2,9 Milliarden US-Dollar. Im selben Jahr legte Adobe ein öffentliches Übernahmeangebot für den Internetanalyse-Spezialisten Omniture im Volumen von 1,8 Mrd. US-Dollar vor.
+Unbekannte Täter haben einer Mitteilung von Adobe Systems am 3. Oktober 2013 zufolge den Sourcecode von Adobe Acrobat, Adobe ColdFusion, möglichen anderen Programmen und Kreditkartendaten von 2,9 Mio. Kunden gestohlen.
+
+
+== Produkte ==
+Zu den weiteren Produkten gehört seit dem 3. Dezember 2005 die ganze Programmpalette des Unternehmens Macromedia (Flash, Shockwave, Dreamweaver, Director). Adobe kaufte am 18. April 2005 das Unternehmen Macromedia für 3,4 Milliarden Dollar.
+Nach der Übernahme von Aldus PageMaker durch Adobe wurde nach einiger Zeit Adobe PageMaker durch Adobe InDesign ersetzt. Um auch im Privatbereich Programme anbieten zu können, erstellt Adobe seit geraumer Zeit von vielen Programmen abgespeckte Varianten, die den Namenszusatz Elements tragen.
+Im November 2016 präsentierte Adobe das Voice Conversion (VC)-Programm Voco (Eigenschreibweise: „VoCo“). Voco ist ein Bearbeitungsprogramm für Tonaufzeichnungen, so können Mitschnitte von Reden im Nachgang bearbeitet werden. In Massenmedien wird Voco auch das „Photoshop für Sprachdateien“ genannt.
+
+
+=== Creative-Cloud-Produkte ===
+
+
+=== Sortierung nach Funktion ===
+
+
+=== Weitere Produkte ===
+
+
+== Kritik ==
+Das Softwareunternehmen Adobe Systems Incorporated wurde kritisiert, da es, insbesondere nach der Übernahme von Macromedia, in vielen Bereichen ein Quasimonopol innehat, so z. B. bei der Bildbearbeitung durch Photoshop oder der Illustration mittels Illustrator oder dem übernommenen Freehand.
+Ein weiterer Kritikpunkt ist die Preisgestaltung für den europäischen Markt. So war beispielsweise der Preis für die Adobe Creative Suite CS3 Design Premium in Europa um 65 Prozent höher als in den USA. Als Reaktion darauf wurde 2007 die Petition Fair Pricing for European Software lanciert, die über 10.000 Unterschriften erzielte.
+In der Branche existieren viele Spekulationen über Marktanteile des Produkts InDesign gegenüber QuarkXPress.
+Im Januar 2013 wurde Adobe heftig kritisiert, nachdem es die Creative Suite 2 zunächst kostenfrei zum Download angeboten hatte. Laut einer Stellungnahme des Unternehmens handelte es sich dabei aber lediglich um eine Version, die als Ersatz für eine ausgefallene Produktaktivierung vorgesehen war. Auf das große öffentliche Interesse an einer kostenfreien – wenn auch veralteten – Version der CS reagierte Adobe nicht.
+
+
+== Weblinks ==
+
+Adobe (englisch)
+Regionale Adobe-Websites: Deutschland, Österreich, Deutschschweiz
+
+
+== Einzelnachweise ==

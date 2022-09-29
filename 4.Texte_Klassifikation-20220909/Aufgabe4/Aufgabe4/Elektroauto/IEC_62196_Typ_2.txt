@@ -1,0 +1,70 @@
+EN 62196 Typ 2 (auch IEC Typ 2 genannt) ist die Bezeichnung für einen Steckertyp, der in Europa für die Ladung von Elektrofahrzeugen an Ladestationen im Januar 2013 von der Europäischen Kommission als Standard festgelegt wurde. Der Typ-2-Stecker sowie -Kupplung wird in der Norm IEC 62196-1 beschrieben. Entwickelt wurde das Typ-2-Stecker-Ladesystem vom Steckerhersteller Mennekes zusammen mit dem Stromversorger RWE und dem Automobilhersteller Daimler AG (heute Mercedes-Benz Group); daher wurde er in der Normungsphase als Mennekes-Stecker bekannt.Parallel zur europäischen Normung entwickelte Tesla für seine ab 2013 nach Europa gelieferten Elektrofahrzeuge sowie die europäischen Tesla-Supercharger-Ladestationen eine leicht modifizierte Form der Typ-2-Stecker-Verbindung, um Gleichstrom mit hoher Leistung übertragen zu können (siehe Spannung und Strom).Auch die Steckdosen in einer Ladestation sind nach dem Typ-2-Standard gestaltet. Ein Elektrofahrzeug wird daran mit einem Kabel angeschlossen, das in der Norm als „Mode-3-Kabel“ bezeichnet wird, und mit einer Widerstandskennung ausgestattet ist, welche die maximale Stromstärke für den Ladevorgang signalisiert. Bei den Elektrofahrzeugen kommen neben Ladesteckern vom Typ 2 auch solche des IEC Typ 1 vor. Je nach der Ausformung der Kupplung für die Fahrzeugseite werden die angebotenen Kabel als „Typ-2-Ladekabel“ und „Typ-1-Ladekabel“ bezeichnet. Eine Verlängerung oder Adaptierung der Typ-2-Kupplung ist gemäß der Norm IEC 61851 nicht zulässig und ist durch den kürzeren Pin für den Pilotkontakt CP im Typ-2-Stecker technisch unterbunden.
+
+
+== Aufbau ==
+Der runde Stecker-Typ 2 ist an einer Seite stark abgeflacht, sodass verdrehtes Ansetzen des Steckers mechanisch ausgeschlossen ist und sich die korrekte Einsteck-Richtung intuitiv erschließt. Er hat sieben runde Kontaktstifte – zwei Kontaktstifte für die Kommunikation zum Elektroauto und fünf weitere für die Energieübertragung. Die Kontaktstifte sind unterschiedlich lang, sodass sich der Schutzkontakt zuerst verbindet und die Signalkontakte zur Leistungsfreigabe zuletzt.
+Der Typ 2 hat – anders als der Typ 1 – keine Klinke und kann somit nicht in der Buchse einrasten. Doch hat der Stecker zwei Schlossfallen, mit denen die Ladesäule ein ungewolltes Abziehen des Steckers oder eine mögliche Manipulation (Vandalismus oder Stromdiebstahl) durch elektromechanisches Verriegeln verhindert. Dadurch kann die Leistungsabgabe nicht durch Abziehen des Steckers selbst unterbrochen werden, sondern nur über einen Schalter in der Ladesäule. Das schont die elektrischen Kontakte, weil kein elektrischer Schaltfunke auftritt. Der Stecker ist, im Gegensatz zu den CEE-Steckern, nicht mit einem sich selbst schließenden Schutzklappdeckel ausgerüstet. Meist ist daher bei Ladestationen mit fix befestigtem Kabel die Fahrzeugkupplung in einem Holster abgelegt oder in eine Buchse einsteckbar. Alternativ verwendet der Elektroautobesitzer sein eigenes Ladekabel, das er im Fahrzeug geschützt mit sich führt.
+
+
+== Anschluss ==
+
+Der Stecker-Typ 2 hat die drei Außenleiterkontakte L1, L2 und L3, einen Kontakt für den Neutralleiter und einen Kontakt für den Schutzkontakt (PE). Weiterhin gibt es den PP-(Proximity-Pilot, auch Plug Present)-Kontakt, um die Anwesenheit des Steckers festzustellen und den CP (Control Pilot), um die Steuersignale zwischen Elektrofahrzeug und Ladestation auszutauschen. Der Typ 2 ist Teil des Ladekabels.
+
+
+== Ladebereiche ==
+In der Norm IEC 62196-1 werden die drei Ladebereiche Level 1, Level 2 und Level 3 unterschieden. Dabei dient „Level 1“ dem Anschluss an einfache Haushaltssteckdosen mit 230 Volt mit maximal 16 Ampere (IEC 61851 Mode 1), bei denen über den Neutralleiter geerdet werden kann. „Level 2“ erlaubt die Nutzung der Geräteanschlüsse mit 230 Volt mit maximal 32 Ampere (IEC 61851 Mode 2) einphasig (gegen Neutralleiter) oder mehrphasig (zwischen Außenleitern). „Level 3“ bezeichnet die Schnellladung mit Gleichstrom mit bis zu 400 Ampere (61851 Mode 4). Um Schieflasten zu vermeiden ist einphasiges Laden in Deutschland mit maximal 20 A / 4,6 kW und in Österreich und der Schweiz mit maximal 16 A / 3,7 kW erlaubt.
+
+
+== Signalisierung ==
+Die Funktion der Signalkontakte wurde erstmals 2001 beschrieben (sowohl in SAE J1772 als auch in IEC 61851). Das Protokoll ist geeignet, auf Digitalelektronik zu verzichten (im Gegensatz zum CAN-Bus bei CHAdeMO und EnergyBus) – die SAE J1772 geht von einem Betriebsbereich von mindestens −40 °C bis +85 °C aus.
+Zwischen Pilotkontakt CP und dem Schutzleiter PE legt die Ladestation zunächst eine Spannung von 12 V an. Bei angeschlossenem Fahrzeug wird über einen 1-kΩ-Widerstand (R0) eine 1-kHz-Rechteckspannung angelegt (Signalbereich ±12 V ±0,4 V). Auf der Seite des Elektrofahrzeugs wird der Stromkreis zwischen CP und PE durch einen Widerstand (R), der mit einer Diode in Serie geschaltet ist, geschlossen. Die Ladestation meldet an das Fahrzeug mittels Pulsweitenmodulation der Rechteckspannung den maximalen Strom, der von der Ladesäule zur Verfügung gestellt werden kann: Bei 16 % PWM maximal 10 A, bei 25 % PWM maximal 16 A, bei 50 % PWM maximal 32 A und mit 90 % PWM eine Schnellladung. Das Elektrofahrzeug kann seinerseits über die Wahl des Widerstands R – und einer damit verbundenen Änderung des Spannungsabfalls an R0 – mit der Ladestation kommunizieren: Mit R=2700 Ω wird ein Mode-3-kompatibles Fahrzeug gemeldet („vehicle detected“), das noch keine Ladung abfordert. Bei R=880 Ω ist das Fahrzeug bereit für einen Ladestrom („ready“) und bei R=240 Ω wird zusätzlich eine Lüftung angefordert („with ventilation“), was im Außenbereich keinen Unterschied macht, in Innenräumen aber bei fehlender Belüftung den Ladestrom kappt.
+Öffentliche Ladestationen sind bei offenem Stromkreis grundsätzlich spannungsfrei, auch wenn der Standard eine Leistungsabgabe nach Mode 1 (maximal 16 Ampere) erlaubt. Bei geschlossenem Stromkreis kann die Ladestation darüber hinaus die Funktionsfähigkeit des Schutzleiters testen.
+In Anschlussbeispielen in SAE J1772:2001 wird gezeigt, dass der Stromkreis CP-PE dauerhaft auf 2740 Ω geschaltet ist (Spannungsabfall von +12 V auf +9 V bei gestecktem Kabel, wodurch der Signalgenerator der Ladestation aktiviert wird) und bei fahrzeugseitiger Aktivierung der Ladung (per Schalter) ein Widerstand mit 1300 Ω parallel geschaltet wird (Spannungsabfall auf +6 V) beziehungsweise 270 Ω mit Ventilator (Spannungsabfall auf +3 V), sodass der Detektor der Ladestation allein auf die Spannung CP-PE reagiert. Durch die Diode wird nur die Plusspannung gesenkt, die Messung der Minusspannung zeigt weiter −12 V; eine Minusspannung auf CP (nur bei aktivem Signalgenerator vorhanden) ist ein Fehlerwert, der den Ladestrom abschaltet.
+
+Der Proximity-Kontakt PP meldet den maximal möglichen Ladestrom des Fahrzeugs (bzw. des Kabels) an die Ladestation. Hierzu wird im Kabel ein Widerstand zwischen PP und PE gesetzt. Die Kodierung des zulässigen Stroms zum Widerstandswert ist in IEC 61851-1 geregelt:
+Die Pulsweite auf dem 1 kHz CP-Signal zeigt die maximale Leistung an, die ladeseitig zur Verfügung gestellt werden kann. In der US-Definition wird die „ampacity“ (ampere capacity) doppelt angegeben, für Dauerlast und für kurzzeitige Anwendung, während die IEC die gleichen Abstufungen mit nur einem nominellen Stromwert angibt. Die SAE hat die maximale Stromlast auf der Basis einer Formel definiert, welche die 1000 µs Zykluslänge der Trägerfrequenz (das 1 kHz Signal) nimmt und je 10 µs Pulsweite mit 0,6 A multipliziert, um die Dauerlast des Anschlusses zu definieren (mit minimal 100 µs = 6 A und maximal 800 µs = 48 A). In der Norm IEC 61851-1 definiert der Bereich von 8 % bis kleiner 10 % Duty cycle die maximal verfügbare Leistung als 6 A, der Bereich von 10 % bis 85 % Duty cycle die maximal verfügbare Leistung als (% Duty cycle) multipliziert mit 0,6 A, der Bereich von größer als 85 % bis 96 % Duty cycle die maximal verfügbare Leistung als (% Duty cycle – 64) multipliziert mit 2,5 A, der Bereich größer als 96 % bis 97 % Duty cycle als 80 A. Zwischen 0 % bis 3 % Duty cycle, 7 % bis 8% Duty cycle und 97 % bis 100 % Duty Cycle ist Laden nicht erlaubt. Zwischen 3 % bis 7 % Duty Cycle wird signalisiert, dass eine digitale Kommunikation (in Europa PLC) das Laden regelt.
+
+Die nach IEC 61851-1 spezifizierte, im Adressumfang sehr bescheidene, analoge Signalisierung wird zurzeit im Hinblick auf die geplante Smart Grid Integration der Elektro- und Hybrid-Fahrzeug-Ladeinfrastruktur ergänzt um einen auf IPv6 basierenden bidirektionalen Kommunikationskanal. Die Kommunikation und zugehörige Test- und Konformitätsanforderungen werden im Standard ISO 15118 beschrieben. Die Datenübertragung kann leitungsgebunden mit Hilfe von Powerline Communications (PLC) oder (ab ISO 15118 Edition 2) nicht-leitungsgebunden erfolgen.
+
+
+== Spannung und Strom ==
+Die Nutzung des Typs 2 kann entweder einphasig mit einer netzüblichen Wechselspannung von 220 V bis 240 V oder dreiphasig mit einer Spannung von 400 V erfolgen. Der Stecker ist in der Regel für einen Strom von bis zu 63 A ausgelegt.
+Als einziger Anbieter ermöglichte Tesla basierend auf der IEC-62196-Typ-2-Spezifikation sowohl das Aufladen mit Wechselstrom als auch mit Gleichstrom an Model S und Model X bis Baujahr 2020. Die übertragene Ladeleistung wurde mit 120 kW angegeben, ab 2019 noch höher. Für sein Model 3, das seit 2019 in Europa ausgeliefert wird, sowie für Model Y und auch Model S und Model X ab Herbst 2021 wählte Tesla für die Ladung mit Gleichstrom den IEC 62196-3 Combined Charging System (CCS) Standard, der eine gegenüber der proprietären Tesla-Lösung höhere maximale Ladeleistung ermöglicht.
+
+
+== Kompatibilität ==
+Das Steckbild der Typ-2-Fahrzeugkupplung ist nur mit dem zugehörigen Fahrzeugstecker bzw. mit einem Combo2-Fahrzeugstecker (CCS) kompatibel, der Wechselstrom- und Gleichstrom-Ladung vereint.
+Das Typ-2-Steckersystem wird in leicht modifizierter Form bei den europäischen Varianten der Elektroautos Tesla Model S und Tesla Model X sowie bei den europäischen Tesla Superchargern bis Version 2 verwendet. Ab Tesla Superchargern V3 wurde dieser Sonderweg aufgegeben und es sind nur noch CCS-Kupplungen verfügbar.
+
+
+== Sicherheit ==
+Die Spannung wird erst zugeschaltet, wenn der Stecker gesteckt ist und der PP erkannt wird.
+
+
+=== Verpolungssicherheit ===
+Der ansonsten runde Ladestecker ist im oberen Drittel stark abgeflacht. Setzt man den Stecker zur Buchse verdreht an, so gelingt es nicht ansatzweise mit den Kontakten in die Buchse zu gelangen. Das Griffstück ist nach hinten abfallend geknickt, sodass sich der Stecker, wenn man ihn in die Hand nimmt, durch den Zug des Kabels nach unten von selbst in die richtige Position dreht.
+
+
+=== Verriegelung ===
+Während des Ladevorgangs wird der Stecker an der Ladesäule verriegelt, so dass er nicht unter Last gezogen werden kann. Die Steuerung der Verriegelung übernehmen Fahrzeug und Ladesäule. Die Ansprüche an die Verriegelung sind hoch und gehen über die einer eigentlichen Verriegelung hinaus. Eine Verriegelung erfolgt normalerweise kraftlos; weil jedoch eine Klinke fehlt und somit Dose und Stecker nicht automatisch richtig zueinander stehen, erhält der Benutzer zusätzlich die Aufgabe, den Stecker in die richtige Lage zu bringen. Die dazu notwendige Kraft ist auch zur Entriegelung nötig, denn jeder Zug am Stecker lässt die Kraft direkt am Verriegelungsstift wirken und kann ihn dadurch einklemmen.
+
+Fingersicherheit (mit den Fingern sind keine Kontakte erreichbar)
+vorauseilender Schutz- und CP-Steuerkontakt
+gute mechanische Beanspruchbarkeit
+Unmöglichkeit der Nutzung von Adaptern
+starke stromführende Kontakte
+Fähigkeit zum Entriegeln auch bei einem Stromausfall
+
+
+=== Fehlerstromschutz ===
+IEC-62196-Steckdosen sollen in der Hausanschlussinstallation mit einem Typ-B-Fehlerstrom-Schutzschalter abgesichert sein, wenn nicht sichergestellt ist (etwa durch galvanische Trennung), dass keine speziellen Gleichstromfehlerströme auftreten. Bei einphasiger Ladung ist dies der Fall und es wird nur ein preiswerter Fehlerstrom-Schutzschalter Typ A benötigt. Bei dreiphasiger Ladung hängt es von der technischen Umsetzung der Ladetechnik ab. Die Renault Zoe nutzt einen Teil des Fahrumrichters als Ladegerät und besitzt daher keine galvanische Trennung. Die Sicherheit wird durch umfangreiche interne Schutzprüfungen sichergestellt.
+Fehlerstrom-Schutzschalter Typ B sind allstromsensitiv und speziell für Stromkreise mit Wechselrichter und Frequenzumrichter konstruiert. Herkömmliche Typ-A-Fehlerstrom-Schutzschalter verlieren bei einem Erdschluss im Elektroautostromkreis hinter der Gleichrichterbrücke durch den dann entstehenden Gleichfehlerstrom im sekundären Wechselstromkreis ihre volle Funktionsfähigkeit.
+
+
+== Weblinks ==
+
+Typ 2 für Deutschland und Europa (Mennekes)
+Kabelsysteme für die Mobilität von morgen (Lapp)
+
+
+== Einzelnachweise ==

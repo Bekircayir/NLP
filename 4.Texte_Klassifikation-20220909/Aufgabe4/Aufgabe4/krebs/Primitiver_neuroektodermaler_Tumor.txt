@@ -1,0 +1,30 @@
+Als Primitiver neuroektodermaler Tumor (Abkürzung: PNET; englisch: primitive neuroectodermal tumor) wird ein Tumor des Nervengewebes aus der Gruppe der embryonalen Tumoren bezeichnet. PNET treten vorwiegend bei Kindern und Jugendlichen auf. Es wird zwischen einer im Zentralnervensystem (Gehirn oder Rückenmark) und einer außerhalb davon vorkommenden, sogenannten peripheren Variante unterschieden. Als bösartige Tumoren werden PNET des Gehirns nach der WHO-Klassifikation der Tumoren des zentralen Nervensystems als Grad IV eingeordnet.
+
+
+== Varianten ==
+PNET des Zentralnervensystems (ZNS-PNET). Die Erstbeschreibung eines PNET des Zentralnervensystems erfolgte 1973 durch Hart und Earle. Gegenstand ihrer Untersuchungen waren undifferenzierte Tumoren der Großhirnhälften (Hemisphären) oberhalb des Kleinhirndachs (Tentorium cerebelli): diese Beobachtung führte zu der gebräuchlichen Bezeichnung supratentorielle PNET (ST-PNET). Die PNET des Zentralnervensystems weisen auf feingeweblicher (histologischer) Basis deutliche Ähnlichkeiten zu Medulloblastomen, Pinealoblastomen und anderen Tumorarten auf. Einige Untersucher haben diese Ähnlichkeit zum Anlass genommen, die PNET als zusammenfassende Gruppe von embryonalen Tumoren des Zentralnervensystems zu definieren: diese Auffassung ist aber umstritten.
+2,5–6 % aller Hirntumoren im Kindes- und Jugendalter werden zu den PNET des Zentralnervensystems gerechnet. Werden die Medulloblastome mit den PNET zu einer Gruppe zusammengefasst (wie vorbeschrieben umstritten), so stellt diese kombinierte Gruppe 20 % der Hirntumoren im Kindes- und Jugendalter dar.
+Periphere PNET (pPNET). Periphere PNET sind Tumoren, die ihren Ursprung aus ektodermal abgeleiteten Körperteilen nehmen. Hierzu gehören vor allem das autonome Nervensystem (Sympathikus und Parasympathikus). Periphere PNET kommen typischerweise im Bereich der Brustwand (Thoraxwand) vor: sie werden dann als Askin-Tumoren bezeichnet. Auch andere Lokalisationen sind bekannt: Nieren, Lunge, Gebärmutter, Eierstock, Hoden, Bauchspeicheldrüse, Harnblase, Ohrspeicheldrüse, Haut und Unterhautfettgewebe sind im Zusammenhang mit peripheren PNET als Lokalisation beschrieben worden.
+Die Abgrenzung von peripheren PNET zu Ewing-Sarkomen ist nicht leicht: einige Untersucher sehen das Ewing-Sarkom als Untergruppe des peripheren PNET.
+
+
+== Symptome ==
+Die Symptome leiten sich vor allem aus der Lage (Lokalisation) des PNET her. PNET des Zentralnervensystems werden durch Symptome wie Übelkeit und Erbrechen (vor allem nüchtern und morgens) auffällig. Zudem können Verluste von Fertigkeiten auftreten (Lähmungen, Sehstörungen, Persönlichkeitsveränderungen), die durch neurologische Ausfälle (Verlust von Nervenfunktionen) erklärt werden. Periphere PNET können je nach Lage zunächst nur als Schwellung auffallen. Bei einer Lage im Inneren des Körpers (beispielsweise Lunge) treten Atemnot oder Bluthusten auf. Periphere PNET der Eierstöcke, der Bauchspeicheldrüse und der Gebärmutter werden zunächst durch Bauchschmerzen bemerkbar.
+
+
+== Diagnostik ==
+
+Die richtungsweisende Diagnostik erfolgt zumeist über eine feingewebliche (histologische) Untersuchung nach Probeentnahme (Biopsie) oder Entfernung des PNET (Resektion durch Operation). Letztere kann insbesondere bei PNET im Zentralnervensystem nur teilweise oder gar nicht möglich sein.
+Vor der Probeentnahme oder Operation erfolgt der Einsatz bildgebender Verfahren wie Ultraschall (Sonographie), Computertomographie und Magnetresonanztomographie. All diesen Verfahren ist gemein, dass sie Auskunft über die Ausdehnung und Ausbreitung des PNET geben können. Eine sichere Diagnose eines PNET allein über bildgebende Verfahren ist nicht möglich.
+
+
+== Therapie ==
+Zunächst sollte – wenn möglich – eine operative Entfernung oder mindestens eine Probeentnahme zur Diagnosesicherung versucht werden. Dies ist insbesondere bei den peripheren PNET der Fall. Im Anschluss an die Probeentnahme oder Operation erfolgt im Kindes- und Jugendalter immer eine Polychemotherapie unter Kombination verschiedener Zytostatika. Auch die Strahlentherapie kommt zum Einsatz.
+Bei PNET, welche als Hochrisiko-PNET klassifiziert werden oder die nur unzureichend auf die primäre Behandlung ansprechen, wird zumeist eine Hochdosis-Chemotherapie mit anschließender autologer Stammzelltransplantation vorgenommen.
+
+
+== Prognose ==
+Die Prognose der PNET ist in Abhängigkeit von ihrer Lage, der Operabilität und des Alters der Patienten sehr unterschiedlich. Im Mittel über alle Betroffenen ist die Prognose eines PNET mit einem 5-Jahres-Überleben von 53 % als durchschnittlich einzuordnen.
+
+
+== Einzelnachweise ==

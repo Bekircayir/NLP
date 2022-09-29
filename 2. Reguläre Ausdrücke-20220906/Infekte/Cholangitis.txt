@@ -1,0 +1,25 @@
+Cholangitis, auch Cholangiitis, ist eine Entzündung der Gallengänge. Diese kann durch verschiedene Ursachen ausgelöst werden, unter anderem durch Verstopfungen der Gallenwege durch Gallensteine, Stenosen, Tumore oder Parasitenbefall. Man unterscheidet dabei die akute eitrige Cholangitis, die nichteitrige destruierende Cholangitis sowie die chronisch sklerosierende Cholangitis.
+
+
+== Akute eitrige Cholangitis ==
+Die akute Cholangitis entsteht meist durch eine Infektion bei einer Besiedlung durch Bakterien, meist Escherichia coli, Enterococcus- oder Klebsiella-Arten, seltener durch bewegliche, mesophile Aeromonaden. Als Symptome treten ein einseitiger Schmerz des rechten Oberbauches, Fieber mit Schüttelfrost und eine Gelbsucht (Ikterus) auf. Die Kombination dieser drei Krankheitszeichen wird als Charcot-Trias II bezeichnet und gilt als beweisend (pathognomonisch) für eine akute Cholangitis. Bei einer schweren eitrigen Cholangitis kommt es außerdem zu Schockzuständen, Störungen  des Zentralnervensystems sowie Nierenfunktionsstörungen. Die Behandlung beinhaltet endoskopische Interventionen an den Gallenwegen wie die ERCP oder PTCD, die den Gallefluss wiederherstellen, und in aller Regel eine antibiotische Behandlung, wobei unterschieden wird zwischen der antibiotischen Therapie akuter Cholangitiden und der einer sekundären Cholangitis.
+
+
+== Primär biliäre Cholangitis (PBC) ==
+Die primär biliäre Cholangitis wird auch als nicht eitrige destruierende Cholangitis bezeichnet. 95 % der Betroffenen sind Frauen, wobei der Häufigkeitsgipfel zwischen dem 40. und 60. Lebensjahr liegt. Diagnostisch findet man bei den meisten Patienten antimitochondriale Antikörper (AMA-M2) im Blut, weswegen eine autoimmunologische Genese angenommen wird. Die Patienten sind klinisch durch Juckreiz, Ikterus und Hypercholesterinämie gekennzeichnet. Die Standardtherapie wird mit Ursodeoxycholsäure durchgeführt. Im späteren Verlauf kann den Patienten nur noch mittels Lebertransplantation geholfen werden.
+
+
+== Primär sklerosierende Cholangitis (PSC) ==
+
+Die primär sklerosierende Cholangitis ist eine seltene Gallenwegserkrankung. Die Ursache ist ungeklärt. Es wurde eine Assoziation mit dem Antigen HLA-B8 festgestellt. Die Erkrankung betrifft Männer doppelt so häufig wie Frauen. In bis 70 % der Fälle findet man labordiagnostisch p-ANCA. Häufig ist sie auch mit chronisch entzündlichen Darmerkrankungen wie z. B. Colitis ulcerosa assoziiert. Die Standardtherapie wird medikamentös mit Ursodeoxycholsäure und therapeutisch mittels ERCP (Gallengangstents) durchgeführt. Wie bei der destruierenden Cholangitis ist auch hier im Endstadium eine Lebertransplantation nötig. Es besteht ein erhöhtes Risiko für cholangiozelluläre Karzinome sowie bei Vorhandensein einer Colitis ulcerosa auch für Dickdarmkrebs.
+
+
+== Siehe auch ==
+Cholangitis-Cholangiohepatitis-Komplex
+
+
+== Literatur ==
+J. Worthington, R. Chapman: Primary sclerosing cholangitis. In: Orphanet J Rare Dis. 2006 Oct 24;1, S. 41. PMID 17062136, PMC 1636629 (freier Volltext).
+
+
+== Einzelnachweis ==

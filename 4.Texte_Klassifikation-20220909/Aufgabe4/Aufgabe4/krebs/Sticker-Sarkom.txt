@@ -1,0 +1,39 @@
+Das Sticker-Sarkom (auch  venerischer Hunde-Tumor, englisch Canine transmissible venereal tumor (CTVT), transmissible venereal tumor (TVT), Sticker tumor oder infectious sarcoma) ist ein infektiöser Tumor der äußeren Geschlechtsorgane der Hunde. Die Krankheit kommt weltweit vor, in Deutschland aber nicht endemisch. In den tropischen und subtropischen Regionen (Afrika, Mittelmeerraum, Südamerika) ist sie am häufigsten und tritt dort vor allem bei streunenden Hunden auf. Das Sticker-Sarkom wurde 1876 von dem russischen Tierarzt M. A. Nowinski (1841–1914) entdeckt, der auch feststellte, dass dieser Tumor sich von Tier zu Tier übertragen lässt. Der Tumor lässt sich mittels Chemotherapie oder Bestrahlung gut behandeln.
+
+
+== Pathogenese ==
+Die Übertragung kann einerseits durch den Deckakt, durch direkten Kontakt oder durch Lecken an den betroffenen Stellen von Tier zu Tier erfolgen. Während eine Zeit lang auch ein Virus als Ursache der Tumorbildung angenommen wurde, geht man heute davon aus, dass die Übertragung über abschilfernde Tumorzellen erfolgt, die sich über kleinste Epitheldefekte in die Schleimhaut einnisten.
+Der Tumor wirkt immunogen, löst also eine Immunantwort aus. Ob es zu einer spontanen Rückbildung (Remission) oder im anderen Extrem zu einer Metastasierung kommt, scheint stark vom Immunstatus des betroffenen Tieres abzuhängen. Bei jüngeren Tieren ist die Metastasierungsrate höher.
+Eine Arbeitsgruppe aus England hat im Jahr 2006 den klonalen Ursprung des Sticker-Sarkoms nachgewiesen. Dabei wurden Marker von Histokompatibilitätsantigenen, Mikrosatelliten-DNA und mitochondrialer DNA verwendet. Man fand heraus, dass alle untersuchten Tumoren sich genetisch vom Wirt unterschieden. Es zeigte sich auch, dass Tumoren von 40 verschiedenen Hunden aus allen Kontinenten einen gemeinsamen klonalen Ursprung haben. Der ursprüngliche Tumor entstand vor circa 200 bis 11.000 Jahren – die Zahlen variieren je nach Berechnungsmethode der molekularen Uhr und besitzen eine hohe Standardabweichung – bei einem sibirischen Wolf oder einer Hunderasse und verbreitete sich seitdem als übertragbarer Tumor weltweit. Seit seiner Entstehung hat das Sticker-Sarkom etwa 1,9 Millionen Mutationen angesammelt, 646 Gene wurden deletiert. Vor etwa 500 Jahren hat es sich global in Hundepopulationen ausgebreitet.
+
+
+== Symptomatik ==
+Diese Krankheit betrifft bei Rüden hauptsächlich Penis und Präputium, bei Hündinnen Vagina und Schamlippen. Es zeigen sich rötliche, knotige, schnell blutende Geschwülste an den Genitalschleimhäuten, auch mit eitrigem oder blutigem Ausfluss aus den Geschlechtsorganen. Mit dem weiteren Wachstum nehmen die Tumoren eine blumenkohlartige Form an und können über 5 cm groß werden. Primärherde können auch an anderen Hautstellen wie der Maul- oder Analschleimhaut auftreten.
+Dieser Tumor metastasiert eher selten, die Angaben in der Literatur schwanken zwischen 5 und 17 %. Metastasen können in den Leistenlymphknoten, im Damm und am Hodensack auftreten, vor allem wenn der Tumor länger als einen Monat bestehen bleibt. Sehr selten können auch entferntere Organe (Lunge, Zentralnervensystem, Auge) betroffen sein.
+
+
+== Diagnose ==
+
+Die Diagnose erfolgt durch eine pathologische Untersuchung einer Biopsie. Es handelt sich um einen Rundzelltumor mesenchymaler Herkunft. Die Zellen des Sticker-Sarkoms zeigen Anzeichen einer Chromosomenanomalie. Sie besitzen weniger Chromosomen (57 bis 62) als gesunde Zellen (78).
+
+
+== Therapie ==
+In einigen Fällen kommt es zu einer Abheilung (spontane Remission) ohne Behandlung. 
+Der Tumor spricht gut auf eine Chemotherapie an, wobei sich Vincristin als gut wirksam erwiesen hat. Es wird einmal wöchentlich über vier bis sechs Wochen verabreicht. Auch auf eine Bestrahlung spricht der Tumor gut an. Nach chirurgischer Entfernung kann es zu Rezidiven kommen. Insgesamt gesehen ist die Prognose jedoch gut.
+
+
+== Siehe auch ==
+Devil Facial Tumour Disease des Beutelteufels
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+C. Donatti; C.V.S. Brandão; J.J.T. Ranzani; M.G. Sereno; N. Vieira; G.T. Angelico : Primary Ocular Transmissible Venereal Tumor in a Dog , in: World Small Animal Veterinary Association World Congress Proceedings, 2009, UNESP Botucatu, São Paulo, Brazil; IVIS
+Andréia Vitor Couto de Amaral, Francine Mucha, Igor Borges de Oliveira, Camila Franco de Carvalho, Wanessa Ferreira de Ataide, Klaus Casaro Saturnino: Primary Ocular Transmissible Venereal Tumor in a Prepubescent Female Dog, in: Acta Scientiae Veterinariae, Bamd 48, 2020/Dezember 2019, PDF, doi:10.22456/1679-9216.98489
+Transmissable veneral Tumor, Schwerer Fall aus der Pathologie der Cornell University, Stand: 2013/2014
+A. Gürel, B. Kuscu, E. G. Gulanber, S. S. Arun: Transmissible venereal tumors detected in the extragenital organs of dogs. (MS Word; 253 kB) Israel J Vet Med 57 (1): 23–27 (in englischer Sprache)
+Newscientist-Artikel über übertragbare Tumoren bei Tieren (Memento vom 5. Februar 2008 im Internet Archive) (englisch)
+Contagious Cancer In Dogs Confirmed; Origins Traced To Wolves Centuries Ago, auf: ScienceDaily vom 10. August 2006, Quelle: University College London. Artikel über die Herkunft des infektiösen Tumors (englisch)
+Infektiöser Hunde-Krebs geht auf ein einzelnes Tier zurück, auf: Spektrum.de vom 10. August 2006

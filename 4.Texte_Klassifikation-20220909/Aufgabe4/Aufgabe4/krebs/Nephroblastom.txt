@@ -1,0 +1,66 @@
+Das Nephroblastom (auch Wilms-Tumor, nach Max Wilms, deutscher Chirurg, 1867–1918) ist der am häufigsten auftretende bösartige Nierentumor im Kindesalter. Er geht von embryonalen Geweberesten der Niere, dem sogenannten metanephrogenen Blastem, aus. Im Normalfall verschwindet dieses Gewebe spätestens bis zur 36. Schwangerschaftswoche.
+
+
+== Epidemiologie ==
+Die Inzidenz der Erkrankung beträgt 1 von 100.000 Kindern mit einem Alter unter 15 Lebensjahren. Der Häufigkeitsgipfel befindet sich zwischen dem zweiten und dritten Lebensjahr, das mediale Erkrankungsalter liegt bei 3,5 Jahren. Je nach Quelle sind Mädchen häufiger betroffen, oder beide Geschlechter in etwa gleich häufig betroffen.
+Von Bedeutung sind unter anderem das Wilms-Tumor-Gen WT-1 auf Chromosom 11p13, WT-2 auf 11p15 sowie der Wnt-Signalweg. Zudem kann die Mutation des p53-Gens zur Entstehung beitragen.
+Das WT-1-Genprodukt reguliert die Expression verschiedener Gene in der embryonalen Nierenentwicklung und spielt vermutlich auch bei der Entwicklung des Herzens eine Rolle.
+Ein beidseitiges Tumorauftreten wird in 5 % der Fälle beobachtet und kann auf eine familiäre Tumorerkrankung zurückzuführen sein. Es wird vermutet, dass dabei v. a. ein Ausfall von Tumorsuppressorgenen zur Tumorentstehung führt. Aufgrund des diploiden Chromosomensatzes müssen somit beide Genkopien betroffen sein. Bei familiärer Häufung erfolgt die Vererbung einer Mutation, wodurch dann bereits eine weitere Mutation des zweiten Chromosoms zum kompletten Funktionsverlust des Genproduktes führen kann.
+
+
+=== Auftreten im Rahmen von Syndromen und anderen Erkrankungen ===
+Bei einigen Syndromen kommt es vermehrt zu Nephroblastomen, z. B. bei Folgenden:
+
+WAGR-Syndrom (50% Auftretenswahrscheinlichkeit eines Wilms Tumors, WT1-Mutation)
+Fanconi-Anämie D1 (20% Auftretenswahrscheinlichkeit eines Wilms Tumors)
+Beckwith-Wiedemann Syndrom (4-10% Auftretenswahrscheinlichkeit eines Wilms Tumors, WT2-Mutation)
+Hufeisenniere (2-7 fach erhöhtes Risiko)
+Perlman-Syndrom
+Denys-Drash Syndrom (WT1-Mutation)
+
+
+== Tumorstadien nach SIOP (Société Internationale d'Oncologie Pédiatrique) ==
+
+
+== Symptome ==
+Das Hauptsymptom stellt eine schmerzlose Schwellung dar. Selten können auch Hämaturie (blutiger Urin), Schmerzen oder ein Hypertonus auftreten. 10% der betroffenen Kinder sind bei Diagnosestellung symptomlos (Zufallsbefund). Mit dem Nephroblastom assoziierte Anomalien sind des Weiteren die Aniridie (eine Hypoplasie der Regenbogenhaut), eine Hemihypertrophie (Vergrößerung einer Körperhälfte) und urogenitale Fehlbildungen. Hämaturie wird nur in 5–10 % der Fälle beobachtet.
+
+
+== Diagnostik ==
+
+Es sind keine spezifischen Tumormarker bekannt. Eine Bestimmung des WT-1-Keimbahnstatus kann erfolgen.Es wird die primäre Diagnostik mittels Sonografie empfohlen. Je nach Situation kann u. a. weiterhin erfolgen: MR-Angiografie, CT zur Detektion von Lungenmetastasen, Dopplersonografie abführender Venen, Echokardiografie.
+
+
+=== Differenzialdiagnosen ===
+Neuroblastom
+
+
+== Histopathologie ==
+In der Regel bestehen Nephroblastome aus weichem Tumorgewebe, welches bis zur Entdeckung schon 500 Gramm bis ein Kilogramm wiegen kann. Nicht selten wächst der Tumor zapfenförmig innerhalb der Nierenvenen. Metastasen finden sich vorwiegend in den regionalen Lymphknoten und in der Lunge. Unter dem Mikroskop finden sich kleine blastäre Zellen mit geringem Anteil von Zytoplasma. Daneben können aber auch epitheliale und stromale Ausdifferenzierungen auftreten.
+
+
+== Therapie ==
+Die Therapie besteht aus kombinierter chirurgischer Entfernung des Tumors, Chemotherapie und Bestrahlung. Das genaue Therapieschema ist vom Tumorstadium (Staging) und der Tumorhistologie (Grading) abhängig. Die Deutsche Krebsgesellschaft und die Deutsche Gesellschaft für Pädiatrische Onkologie und Hämatologie geben zu den aktuellen diagnostischen und therapeutischen Maßnahmen eine Leitlinie entsprechend dem allgemein anerkannten Stand der Wissenschaft heraus.
+
+
+== Prognose ==
+Die Prognose der Erkrankung ist bei leitliniengerechter Therapie gut. Sie ist abhängig vom Stadium der Erkrankung und der histologischen Subtypisierung, 90 % der Patienten werden langfristig geheilt. Es sollte sowohl eine Verlaufsdiagnostik, als auch eine strukturierte Nachsorge erfolgen.
+
+
+== Siehe auch ==
+Nephroblastomatose, eine Präkanzerose, aus der sich in 50 % ein Nephroblastom entwickeln kann.
+S1-Leitlinie zum Nephroblastom von 06/2016
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+Leitlinie Nephroblastom (Wilms-Tumor) der Deutschen Gesellschaft für Pädiatrische Onkologie und Hämatologie. In: AWMF online (Stand 01/2008)
+Jeffrey S. Dome, Vicki Huff: Wilms Tumor Overview. GeneReviews, University of Washington, Seattle 2006.
+M. L. Metzger, J. S. Dome: Current therapy for Wilms' tumor. In: Oncologist. 2005 Nov-Dec;10(10), S. 815–826. Review. PMID 16314292
+Cours d'embryologie en ligne à l'usage des étudiants et étudiantes en médecine - Développé par les Universités de Fribourg, Lausanne et Berne (Suisse) sous l'égide du Campus Virtuel Suisse: 20.3 Die oberen Harnwege: Entwicklung des Metanephros. Ureterknospe und metanephrogenes Blastem: Reziproke Induktion
+
+
+== Weblinks ==
+Histologisches Präparat mit allen tumorspezifischen Anteilen auf PathoPic

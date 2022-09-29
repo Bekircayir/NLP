@@ -1,0 +1,58 @@
+Chronischer refraktärer Husten, auch CRC (für chronic refractory cough) wird derjenige unbeeinflussbare Husten genannt, an dem Patienten weiterhin leiden – trotz einer sorgfältigen Diagnostik und konsequenten Behandlung möglicher Ursachen. Ein ungeklärter Husten besteht, wenn definitiv keine Ursache für einen Husten gefunden wird. Als refraktär wird ein Husten bezeichnet, wenn die Behandlung einer Hustenursache keine Besserung gebracht hat. 
+Anhaltender Husten beeinträchtigt die Lebensqualität enorm. Patienten stehen unter großem Leidensdruck, denn er kann Konzert- und Theaterbesuche verhindern, Stressinkontinenz oder auch Kopfschmerzen verursachen. Er stört Konferenzen oder Besprechungen und häufig auch den Schlaf. Früher wurde bei einem refraktären Husten häufig eine psychische Ursache diskutiert. Heute wird eher ein Hypersensitivitätssyndrom mit einer peripheren und zentralen Sensibilisierung analog zu einem chronischen Schmerzsyndrom angenommen.
+
+
+== Begriffsklärungen ==
+Von einem chronischen Husten spricht man, wenn der Husten über mehr als acht Wochen anhält. Man unterscheidet nach Abklärung der zugrunde liegenden Ursache in zwei unterschiedliche Typen: 
+
+chronisch refraktärer Husten, wenn der Husten trotz adäquater Therapie der Grunderkrankung fortbesteht.
+chronisch idiopathischer Husten, wenn ein diagnostischer Ausschluss möglicher Ursachen erfolgte (Ausschluss-Diagnose).
+
+
+== Abklärung des chronischen Hustens ==
+Die symptombezogene Anamnese und körperliche Untersuchung sind sehr bedeutsam für die Abklärung eines ungeklärten Hustens. Bei den meisten Patienten ermöglichen sie eine erste diagnostische Einordnung. 
+Mögliche Grunderkrankungen beim chronisch refraktären Husten sind: Rhinosinusitis (Upper Airway Cough Syndrom), Gastroösophageale Refluxerkrankung (GERD), Asthma, Allergie und/oder COPD.
+Als Diagnostik zur Abklärung möglicher Grunderkrankungen kommen in Betracht: Lungenfunktionsprüfung, Thorax-Röntgen, HNO-Untersuchung, Elektrokardiogramm, Neurologie, Medikamente als Ursache (z. B. ACE-Hemmer; eine häufige unerwünschte Nebenwirkung), Diagnostik auf gastroösophageale Refluxerkrankung, ggf. Thorax CT und/oder Bronchoskopie.
+Da zu den gängigen Abklärungsuntersuchungen probatorische, d. h. versuchsweise Therapien, gehören, ist eine klare Trennung oftmals schwierig.
+
+
+== Probatorische Therapien ==
+
+
+=== Bronchiale Hyperreagibilität ===
+Die bronchiale Hyperreagibilität ist durch einen – oft auf einen Atemwegsinfekt folgenden – trockenen und quälenden Dauerhusten gekennzeichnet; im Gegensatz zu einem Asthma bestehen jedoch keine Atemnotsanfälle, und es findet sich eine normale Lungenfunktion. Ein inhalatives Kortikosteroid kann schon in der ersten Woche zu einer Besserung führen und ist halbwegs nebenwirkungsarm. Wenn sich der Husten aber nach vier bis sechs Wochen unter dieser probatorischen Therapie nicht verbessert, ist eine bronchiale Hyperreagibilität eher unwahrscheinlich, und es muss eine weitere Abklärung erfolgen.
+
+
+=== Refluxösophagitis ===
+Eine Refluxösophagitis (gastroösophagealer Reflux) kann mit einer Gastroskopie oder einer 24-Stunden-pH-Wert-Messung nachgewiesen werden. Der Nachweis, dass der gastroösophageale Reflux auch die Ursache des Hustens ist, kann aber mit keiner technischen Untersuchung erbracht werden. Daher wird bei bekanntem Reflux und Husten eine probatorische Therapie mit einem Protonenpumpenhemmer durchgeführt. Hier kann die doppelte Standarddosierung – über zwei bis drei Monate – erforderlich sein.
+
+
+=== Rhinitis und/oder Sinusitis ===
+Bei Symptomen einer Rhinitis oder Sinusitis besteht möglicherweise ein Upper Airway Cough Syndrome (UACS). Das UACS umfasst alle Erkrankungen der oberen Atemwege, die Husten verursachen: die chronische Sinusitis, die chronische (allergische) Rhinitis und nasale Polypen. Sekrete und Entzündungsreize aus dem Nasenrachenraum sind dann die Trigger eines chronischen Hustens. Bei differenzialdiagnostischer Unsicherheit ist eine CT- bzw. MRT-Untersuchung der Nasennebenhöhlen der Goldstandard. Eine probatorische Therapie mit oralen Antihistaminika ist möglich, abschwellende Nasentropfen oder -sprays können alternativ zum Einsatz kommen. Da diese aber nicht länger als sieben Tage eingesetzt werden sollen, sind sie therapeutisch nur begrenzt hilfreich. Bei Verdacht auf eine chronische Sinusitis sollte ein kortikosteroidhaltiges Nasenspray verordnet werden.
+
+
+== Nichtmedikamentöse Behandlungen ==
+Als nichtmedikamentöse Therapieansätze wurden physiotherapeutische und logopädische Behandlungskonzepte untersucht, die den vermehrten Hustenreiz reduzieren sollen.
+
+
+== Medikamentöse Behandlungen ==
+Diverse Substanzen, wie z. B. Gabapentin, Pregabalin, Morphin und Amitriptylin, wurden in randomisierten Studien untersucht. Zu Baclofen und Ipratropiumbromid existieren Fallberichte. Doch eine Zulassung in dieser Indikation existiert für keines der Präparate. Für die Anwendung bedeutet dies Off-Label-Use (Verordnung ohne Zulassung). 
+Adenosintriphosphat kann zu einer Hypersensibilität der Atemwege und dadurch zu einem chronischen Husten führen. Ein Subtyp des ATP-Rezeptors könnte ein Angriffspunkt sein, um den Hustenreflex zu blockieren: P2X-Rezeptor. Ein erster Arzneistoff, Gefapixant (MK-7264), von Merck Sharp & Dohme Corp. (MSD) wirkt als P2X3-Rezeptor-Antagonist und wird derzeit im Rahmen von klinischen Studien (Phase III) zur Behandlung von chronischem refraktären Husten untersucht. Das Medikament ist noch nicht zugelassen. Ein zweiter Wirkstoff aus dieser Klasse, Eliapixant von Bayer verringerte signifikant die Hustenhäufigkeit in einer klinischen Studie (Phase-IIb-Studie) bei Patienten mit refraktärem chronischem Husten.
+
+
+== Leitlinien ==
+Im März 2019 wurde auf dem 60. Kongress der Deutschen Gesellschaft für Pneumologie und Beatmungsmedizin (DGP-Jahrestagung) eine neue S2k-Leitlinie für Pneumologen vorgestellt, die 48 im Konsensusverfahren abgestimmte Empfehlungen und 16 Statements enthält, die im Hintergrundtext in neun Kapiteln erläutert werden. Dem chronischen idiopathischen (CIC; chronic idiopathic cough) und chronischen refraktärem Husten (CRC) wurde neu ein Extra-Kapitel gewidmet: Leitlinie der Deutschen Gesellschaft für Pneumologie und Beat-mungsmedizin zur Diagnostik und Therapie von erwachsenenPatienten mit Husten
+Für Allgemeinärzte liegt eine S3 Leitlinie der Deutschen Gesellschaft für Allgemeinmedizin aus dem Jahre 2014 vor: Leitlinie – Chronischer Husten, Deutsche Gesellschaft für Allgemeinmedizin und Familienmedizin (DEGAM)
+
+
+== Literatur ==
+Peter G Gibson et al., Treatment of Unexplained Chronic Cough – CHEST Guideline and Expert Panel Report, CHEST Journal, January 2016, Volume 149, Issue 1, Pages 27–44, doi:10.1378/chest.15-1496
+Jaclyn A. Smith et al., Chronic Cough, N Engl J Med 2016; October 20, 2016 375:1544–1551 doi:10.1056/NEJMcp1414215
+
+
+== Weblinks ==
+Chronischer Husten – gibt es bald ein erstes Arzneimittel?, Deutsche Apotheker Zeitung (DAZ) vom 31. Mai 2018, abgerufen 18. April 2019
+Aktualisierte Husten Leitlinie der DGP veröffentlicht - Wenn der Husten einfach nicht aufhört, PM der DGP vom 9. April 2019, abgerufen 22. April 2019
+
+
+== Einzelnachweise ==

@@ -1,0 +1,15 @@
+Die Zentralverriegelung erlaubt das gleichzeitige Ver- und Entriegeln aller Türen und zumeist auch der Klappen (Heckklappe, Tankklappe) eines Fahrzeugs mittels Betätigung eines der Schlösser oder per Fernbedienung.
+Die ersten verbreiteten Systeme setzten auf einen pneumatischen Antrieb per Unterdruck-Speicher aus dem Motor-Ansaugsystem (Mercedes-Benz), später auch mit separatem Verdichter. Die heute gängige Bauart aber ist elektrisch betätigt, meist kombiniert mit einer Funk-Fernsteuerung am Schlüssel, so dass eine Auslösung aus der Ferne ohne direkten Kontakt zum Fahrzeug möglich ist. In Verbindung mit einer Fernbedienung ist bei den meisten neueren Fahrzeugen aus Kostengründen nur noch in der Fahrertür ein Schloss vorhanden. Auch sind kombinierte Systeme im Einsatz (Mercedes-Benz), die sowohl Funk- als auch Infrarottechnik verwenden. Das Fahrzeug lässt sich so aus der Ferne mittels Funk ver- und entriegeln; aus der Nähe – mit direktem Blickkontakt zum Infrarot-Empfänger an der Fahrertür – lassen sich Fenster und/oder Schiebedach automatisiert öffnen und schließen.
+Von innen kann die Bedienung der Zentralverriegelung durch das Hereindrücken bzw. Herausziehen des Türverriegelers, Öffnen der Fahrertür oder durch Betätigung eines separaten Schalters erfolgen. Aktuell werden jedoch viele Fahrzeuge gar nicht mehr mit sichtbaren Türverrieglern ausgestattet; die Zentralverriegelung ist dann von innen nur noch durch einen Schalter zu betätigen. Außerdem werden viele moderne Fahrzeuge beim Überschreiten einer bestimmten Geschwindigkeit (z. B. 8 km/h) automatisch verriegelt. Dadurch soll verhindert werden, dass Unbefugte beispielsweise beim Ampelstopp von außen die Tür öffnen können, um die Insassen zur Herausgabe von Wertgegenständen oder gar des Fahrzeuges zu nötigen (siehe auch Räuberischer Angriff auf Kraftfahrer). Die Türen werden wieder entriegelt, sobald der Zündschlüssel aus dem Zündschloss gezogen wird (z. B. Seat Ibiza), wenn eine der Türen von innen geöffnet wird (z. B. Renault Clio, Mercedes-Benz) oder im Falle eines Unfalls, der von den Crash-Sensoren registriert wird.
+Die sogenannte Deadlock- oder Safesicherung-Funktion verriegelt alle Türen und Fenster auch von innen und soll das Aufbrechen erschweren.
+
+
+== Literatur ==
+Peter A. Wellers, Hermann Strobel, Erich Auch-Schwelk: Fachkunde Fahrzeugtechnik. 5. Auflage. Holland+Josenhans Verlag, Stuttgart 1997, ISBN 3-7782-3520-6.
+Kurt-Jürgen Berger, Michael Braunheim, Eckhard Brennecke: Technologie Kraftfahrzeugtechnik. 1. Auflage. Verlag Gehlen, Bad Homburg vor der Höhe 2000, ISBN 3-441-92250-6.
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==

@@ -1,0 +1,32 @@
+Das Wilson-Mikity-Syndrom (Abk.: WMS; Syn.: Blasenlungen-Syndrom, Mikity-Wilson-Komplex; Mikity-Wilson-Syndrom, Pneumonie - interstitielle mononukleäre, herdförmige fibrosierende) ist eine sehr seltene chronische Lungenerkrankung bei Frühgeborenen mit Ateminsuffizienz bei Geburt oder nach einem freien Intervall mit zystischem interstitiellem Emphysem (PIE) ohne vorausgegangene maschinelle Beatmung.
+Die Eigenständigkeit als Krankheitsbild gegenüber der Bronchopulmonalen Dysplasie ist umstritten.Lange Zeit war die Bezeichnung verlassen zugunsten der Bronchopulmonalen Dysplasie (BPD). Erst in diesem Jahrtausend erfolgt wieder eine Verwendung in der Fachliteratur.Die Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme (ICD10) von 2020 führt das Syndrom zusammen mit der Bronchopulmonalen Dysplasie als „P27.- Chronische Atemwegskrankheit mit Ursprung in der Perinatalperiode“. Die ICD-11 wird es unter „KB29.Y“ als „Other specified chronic respiratory disease originating in the perinatal period“ führen.
+Die Bezeichnung bezieht sich auf die Autoren der Erstbeschreibung aus dem Jahre 1960, die US-amerikanische Kinderärztin Miriam G. Wilson und den Radiologen Victor G. Mikity.
+
+
+== Ursache ==
+Als mögliche Ursache werden intrauterine Infektionen diskutiert.
+
+
+== Klinische Erscheinungen ==
+Klinische Kriterien sind:
+Dyspnoe und Respiratorische Insuffizienz seit Geburt, oder nach freiem Intervall, häufig beatmungs- und sauerstoffbedürftig
+langsam fortschreitende Verschlechterung mit häufiger Apnoe in der 1. bis 6. Lebenswoche
+selten Husten, Auskultation der Lunge negativ oder nur geringe BefundeBei einem Teil der Betroffenen kommt es zu einer langsamen Besserung der Atemfunktion.
+Die Letalität liegt bei 25–70 %.
+
+
+== Diagnose ==
+Im zunächst unauffälligen Röntgenbild lässt sich eine hilifugale netzförmige verstärkte Lungenzeichnung symmetrisch in den Oberfeldern erkennen, die im Verlauf deutlicher netzförmig wird und an Honigwaben erinnert. Zusätzlich entwickelt sich basal und hinter dem Sternum das Bild eines Lungenemphysems.
+
+
+== Therapie ==
+Die Behandlung der Atemstörung erfolgt durch Sauerstoffgabe. Die Erkrankung kann meist nach Wochen bis Monaten vollständig abheilen.
+
+
+== Literatur ==
+F. Namba, M. Fujimura, M. Tamura: Bubbly and cystic appearance in chronic lung disease: Is this diagnosed as Wilson-Mikity syndrome? In: Pediatrics international : official journal of the Japan Pediatric Society. Band 58, Nummer 4, April 2016, S. 251–253, doi:10.1111/ped.12901, PMID 26717558 (Review).
+A. Hoepker, M. Seear, A. Petrocheilou, D. Hayes, A. Nair, J. Deodhar, S. Kadam, J. O'Toole: Wilson-Mikity syndrome: updated diagnostic criteria based on nine cases and a review of the literature. In: Pediatric pulmonology. Band 43, Nummer 10, Oktober 2008, S. 1004–1012, doi:10.1002/ppul.20900, PMID 18781642 (Review).
+P. Reittner, R. Fotter, M. Tillich, H. Popper, F. Lindbichler, F. Reiterer: High-resolution CT findings in Wilson-Mikity syndrome: a case report. In: Pediatric radiology. Band 28, Nummer 9, September 1998, S. 691–693, doi:10.1007/s002470050441, PMID 9732495.
+
+
+== Einzelnachweise ==

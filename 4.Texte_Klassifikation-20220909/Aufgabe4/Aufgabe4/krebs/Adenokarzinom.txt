@@ -1,0 +1,48 @@
+Als Adenokarzinom bezeichnet man einen bösartigen (malignen) von der Deckzellschicht (Epithel) ausgehenden Tumor, der aus Drüsengewebe hervorgegangen ist. Die gutartige (benigne) Zellveränderung von Drüsengewebe nennt man dagegen Adenom.
+Adenokarzinome kommen vor allem im Bereich der Verdauungsorgane, Lunge, Niere und Genitalorgane vor. Die Therapie richtet sich nach dem Ursprung des Tumors (Primärtumor) und der Ausbreitung (TNM-Stadium). Mikroskopisch spielt der Differenzierungsgrad (Ähnlichkeit mit dem Normalgewebe) eine große Rolle, welcher als „Grading“ in das TNM einfließt.
+Wichtige Differentialdiagnosen sind z. B. bei Karzinomen das Plattenepithelkarzinom, ferner das Urothelkarzinom und das Mesotheliom. Bei den nicht-epithelialen Tumoren z. B. Sarkome, Lymphome und Melanome.
+
+
+== Pathologie ==
+
+Adenokarzinome lassen sich im Rahmen der pathologischen Aufarbeitung aufgrund ihrer Gestalt (Morphologie), ggf. Schleimsekretion (Muzingehalt) und Proteinausstattung typisieren sowie teilweise auch dem Ursprungsorgan zuordnen, was insbesondere bei Metastasen wichtig ist, um den Ausgangstumor (Primärtumor) aufzuspüren (vgl. CUP-Syndrom). Zusammengefasst:
+
+Epitheliale Natur (immunhistochemisch Zytokeratin-positiv)
+Wachstumsmuster:
+Morphologisch besser differenzierte Adenokarzinome zeigen ein „drüsiges“ Wachstum, z. B. in Röhren (tubulär, azinär, duktal) oder siebförmig (kribriform). Andere Wuchsformen sind z. B. papillär (fingerförmig) und mikropapillär (knospenartig).
+Schlechter differenzierte Adenokarzinome wachsen oft „am Stück“ (solide) oder einzelzellig (diffus) und können ggf. nur mittels Zusatzuntersuchungen von anderen Karzinomen wie z. B. einem schlecht differenzierten Plattenepithelkarzinom unterschieden werden. Mischform: adenosquamöses Karzinom.
+Schleimbildung: Extra- oder intrazelluläre Schleimansammlung, am HE-Schnitt oder mittels PAS-Diastase-Färbung darstellbar. Extremfälle sind das muzinöse Adenokarzinom (Tumorzellen schwimmen in Schleimseen) und das Siegelringzellkarzinom (die Tumorzellen sind prall mit Muzin gefüllt).
+Immunhistochemie (Mittels Antikörper und Farbreaktion wird die Proteinausstattung farblich dargestellt):
+p40 und p63 meist negativ (wenn positiv wäre Plattenepithelkarzinom wahrscheinlicher)
+Zytokeratine 7, 18, 20 variabel positiv, CK 5/6, 14 meist negativ
+Organspezifische Immunmarkerkonstellationen, z. B.:
+Lunge: CK7 +, CK20 -, TTF1 +
+Gallenwege, Pankreas: CK7 +/-, CK20 +/-, CA19-9 +
+Kolon: CK7 +/-, CK20 +, CDX2 +
+Prostata: PSA +, SPP +, AMACR +
+Mamma, weibliches Genitale: CK7 +, ER und PR oft +
+Niere: RCC +, PAX8 +, CD10 +, Vimentin +Adenokarzinome weisen organabhängig ätiopathogenetische, morphologische und immunhistochemische Unterschiede auf und die Nomenklatur ist teilweise uneinheitlich und zeitlichen Veränderungen unterworfen. Häufige Lokalisationen und Subtypen sind z. B.:
+
+Speiseröhrenkrebs – intestinal (tubulär, kribriform) oder diffus (siegelringzellig), Risikofaktor: Barrett-Ösophagus
+Magenkrebs – dito. Risikofaktor: Helicobacter pylori.
+Darmkrebs – überwiegend tubulär und kribriform. Risikofaktor: Adenome, FAP, HNPCC
+Leberkrebs – hepatozelluläres Karzinom (HCC) von den Leberzellen ausgehend, cholangiozelluläres Karzinom (CCC) von den Gallengängen ausgehend. Risikofaktor: Leberzirrhose, chronische Hepatitis
+Gallengangskarzinom – tubulär, kribriform
+Pankreaskarzinom – duktal
+Lungenkrebs – azinär, kribriform, papillär, mikropapillär, solide… Risikofaktor: Rauchen
+Brustkrebs – duktal (neue Nomenklatur: NST), lobulär. Risikofaktor: BRCA
+Ovarialkarzinom – serös/papillär, muzinös. Risikofaktor: BRCA
+Endometriumkarzinom – endometrioid, serös
+Prostatakarzinom – azinär, kribriform, solide, diffus. Risikofaktor: Lebensalter
+Nierenzellkarzinom – klarzellig, papillär, chromophob
+
+
+== Literatur ==
+Ursus-Nikolaus Riede, Hans-Eckart Schaefer: Allgemeine und spezielle Pathologie. Thieme, Stuttgart 1999. ISBN 3-13-683304-X.
+
+
+== Weblinks ==
+Pathologie-Online
+
+
+== Einzelnachweise ==

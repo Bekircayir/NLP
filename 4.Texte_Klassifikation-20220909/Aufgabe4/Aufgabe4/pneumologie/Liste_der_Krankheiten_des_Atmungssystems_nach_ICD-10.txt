@@ -1,0 +1,36 @@
+Die Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme (ICD-10) klassifiziert im Kapitel X die Krankheiten des Atmungssystems nach untenstehendem Schlüssel.
+
+
+== J00–J06 Akute Infektionen der oberen Atemwege ==
+
+
+== J09–J18 Grippe und Pneumonie ==
+
+
+== J20–J22 Sonstige akute Infektionen der unteren Atemwege ==
+
+
+== J30–J39 Sonstige Krankheiten der oberen Atemwege ==
+
+
+== J40–J47 Chronische Krankheiten der unteren Atemwege ==
+
+
+== J60–J70 Lungenkrankheiten durch exogene Substanzen ==
+
+
+== J80–J84 Sonstige Krankheiten der Atmungsorgane, die hauptsächlich das Interstitium betreffen ==
+
+
+== J85–J86 Purulente und nekrotisierende Krankheitszustände der unteren Atemwege ==
+
+
+== J90–J94 Sonstige Krankheiten der Pleura ==
+
+
+== J95–J99 Sonstige Krankheiten des Atmungssystems ==
+
+
+== Weblinks ==
+
+Liste der ICD-Codes der Krankheiten des Atmungssystems ICD-10-WHO Version 2019

@@ -1,0 +1,65 @@
+Die Liste von Elektroauto-Prototypen soll alle batterieelektrisch angetriebenenen Elektroauto-Versuchsträger, -Prototypen, -Demonstrationsfahrzeuge, -Rekordfahrzeuge und -Entwicklungsvorhaben auflisten, soweit sie sich auf komplette Autos beziehen. Hierzu gehören auch Vorserienautos, wobei hier die Namen der Modelle, Angaben zum Produktionsanlauf und Stückzahlen der Vorserienproduktion sowie der vorgeplanten endgültigen Serienproduktion interessieren. Elektro-Rennwagen werden mittlerweile in einer separaten Liste von Elektro-Rennwagen geführt.
+Hingegen in endgültiger Serie bereits produzierte Elektroautos, die entweder in den Hersteller-Eigenvertrieb oder in den regulären Handel gelangen, sind in der Liste von Elektroautos in Serienproduktion zusammengetragen.
+Ferner soll die Liste historischer in Serie produzierter Elektroautos und Prototypen sämtliche Elektroautos aufführen, die historisch sind, das heißt in die Kategorie Oldtimer gehören, also älter als 30 Jahre alt sind, und entweder in Serie produziert oder als Prototypen gebaut worden sind.
+In Serie produzierte Nutzfahrzeuge, die mit Elektroantrieb ausgestattet sind, aber auch Versuchsträger, Prototypen, Demonstrationsfahrzeuge, Rekordfahrzeuge und Entwicklungsvorhaben bei Elektro-Nutzfahrzeugen sind in der Liste von Elektro-Nutzfahrzeugen und Elektro-Nutzfahrzeug-Prototypen zu finden.
+Brennstoffzellenfahrzeugmodelle und Hybridfahrzeugmodelle werden in den untenstehenden Tabellen nicht geführt. Was Hybridfahrzeugmodelle anbelangt, so möge auf die Liste der Hybridautomobile in Serienfertigung Bezug genommen werden. Für Brennstoffzellenfahrzeugmodelle, die als Prototypen oder Konzeptfahrzeuge bereits gebaut wurden, sei auf Brennstoffzellenfahrzeug#Erhältliche Brennstoffzellen-Fahrzeuge und Konzeptfahrzeuge als Bezugspunkt für eine Auflistung verwiesen.
+Flusszellenelektroautos, sprich Elektroautos, jeweils mit umgestalteter Redox-Flow-Batterie und Elektroantrieb ausgestattet, werden in einem Sonderabschnitt in dieser Liste geführt. Sie bilden eine Spezialkategorie und werden hier nur behelfsmäßig aufgelistet, bis sie Platz in einem separaten Wikipedia-Artikel erhalten.
+Solarmobile, darunter Solarautos, welche für den Straßenverkehr bestimmt sind, bilden eine Sonderkategorie; sie werden nicht hier, sondern in der Liste von Solarfahrzeugen aufgeführt. Straßentaugliche batterieelektrische Autos, an deren Außenflächen Photovoltaik-Systeme angebracht sind, werden den Solarautos zugerechnet, falls die aus den Solarzellen gewonnene elektrische Energie der Traktionsbatterie des batterieelektrischen Antriebs zugeführt wird.
+Elektro-Dreiräder werden, sofern sie wie Autos, nicht wie Motorräder gelenkt werden, ausnahmsweise in dieser Liste geführt, obwohl sie per definitionem keine „Autos“ sind.
+
+
+== Modelle in Entwicklung oder mit anlaufender Produktion ==
+Folgende Modelle befinden sich gegenwärtig in der Entwicklung, oder deren Produktion ist zurzeit im Anlaufen begriffen:
+
+
+== Prototypen, Testfahrzeuge, Konzeptautos ==
+Folgende Autos existieren nur als Konzeptautos, Prototypen oder Testfahrzeuge.
+
+
+== Flotten-Elektroautomodelle ==
+Carsharingflottenmodelle, Dienstwagenflottenmodelle von Behörden, Universitätscampusflottenmodelle, Mietfahrzeugmodelle ohne Kaufoption und dergleichen, die allesamt nicht für den Handel bestimmt sind:
+
+BMW ActiveE (BMW-E87-Umbau)
+Chang’an E30 (vormals auch als Chang’an CX30 EV bezeichnet) (Faceliftversion des Hafei Saibao III HFJ 7001)
+FAW-Toyota Ranz E50 EV
+Foton Midi EV
+GAC-Toyota Leahead i1 BEV
+Haima Freema EV
+Honda Clarity Electric
+Kandi JL7001 BEV (Geely EK2 „Electric Panda“-Umbau)
+Kandi JNJ6290 BEV
+Kandi SMA7000BEV
+Kandi SMA7001BEV (Geely EK2 „Electric Panda“-Umbau)
+Kandi SMA7002BEV05
+Kia Venga EV
+Lada EL Lada (basierend auf dem Lada Kalina sedan)
+Luxgen 7 MPV EV+
+Mazda Demio subcompact EV
+Mercedes-Benz A-Klasse E-Cell
+Mini E
+NEVS 9-3 (vormals Saab 9-3 Electric)
+Óbvio! 828E
+Scion iQ EV.
+SEAT Altea XL Electric Ecomotive
+SEAT eMii
+Tata Tigor BEV
+Yema C30 EV
+
+
+=== Flotten-Elektroautomodelle in Entwicklung oder mit anlaufender Produktion ===
+Folgende Modelle befinden sich im Stadium der Entwicklung oder anlaufender Produktion:
+
+
+== Prototypen, Testfahrzeuge, Konzeptautos von Flusszellenelektroautos ==
+
+nanoFlowcell Quant 48V
+nanoFlowcell Quant e
+nanoFlowcell Quant F
+nanoFlowcell Quantino
+
+
+== Weblinks ==
+Electric Conversion Wiki
+
+
+== Einzelnachweise ==

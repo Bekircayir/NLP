@@ -1,0 +1,49 @@
+Alveolitis (von lateinisch alveolus und dem Suffix -itis) bezeichnet eine Lungenerkrankung, die in zwei Formen auftreten kann:
+
+als diffus-fibrosierende Alveolitis – eine Erkrankung des Lungengewebes und der Lungenbläschen unbekannter Ursache, die sich langsam entwickelt,
+oder als exogen-allergische Alveolitis (EAA, Syn. Hypersensitivitätspneumonitis, im Folgenden kurz Alveolitis genannt), bei der es durch das Einatmen von organischen Stäuben zu einer entzündlichen Veränderung der Lungenbläschen kommt (z. B. Käsewäscherlunge). Die EAA kann eine meldepflichtige Berufskrankheit sein, wenn die Erkrankung durch Stoffe ausgelöst wird, die im Berufsumfeld eingeatmet werden (BK Nr. 4201).
+
+
+== Begriffsabgrenzung ==
+Die Bezeichnung „diffus-fibrosierende Alveolitis“ (Syn. idiopathische pulmonale Fibrose), die man, wenn sie akut verläuft, auch als Hamman- oder Hamman-Rich-Syndrom bezeichnet, gilt als wichtige Ursache der interstitiellen Lungenfibrose. Ihre Ursache ist unbekannt.Bei der „exogen-allergischen Alveolitis“, die sich häufig auch unter dem Begriff „Hypersensitivitätspneumonitis“ in der Literatur findet, führen eingeatmete, organische Staubpartikel zu allergischen Reaktionen des Lungengewebes. Verläuft sie akut, wird sie auch als Montagsfieber bezeichnet.
+
+
+== Ätiologie ==
+Die Ursache der Erkrankung ist eine meist berufliche Exposition gegen Substanzen in der Atemluft. Dabei handelt es sich in der Regel um Pilz- und Bakterienbestandteile, aber auch Exkremente, Mehle oder Chemikalien, die als Staub oder Aerosole am Arbeitsplatz eingeatmet werden. Bei der sogenannten Farmerlunge sind es Aktinomyzeten aus schimmeligem Heu. Die sogenannte „Malz- und Papierarbeiterlunge“ wird durch das Einatmen von Pilzsporen aus schimmeliger Gerste oder Malz verursacht. Vogelhalter können durch Stäube aus Vogelexkrementen eine Alveolitis erleiden. Auch Fischmehl, Sägemehl, Staub aus Pelzen, aber auch Chemikalien wie zum Beispiel Kühlschmierstoffe sind als Verursacher der Alveolitis bekannt. Eine weitere seltene Ursache sind Pilze, die in nicht sachgerecht gereinigten Blasinstrumenten wachsen.
+
+
+== Pathogenese ==
+Beim Einatmen der oben beschriebenen Substanzen kann es zu einer Entzündungsreaktion im Lungengewebe, vor allem den Lungenbläschen, kommen. Dabei handelt es sich um eine komplexe Immunreaktion vom Typ III (Präzipitation von IgG-Antikörpern) und eine zelluläre Immunreaktion (Typ IV).
+
+
+== Klinisches Bild ==
+Es gibt zwei Verlaufsformen. Bei der akuten Alveolitis kommt es innerhalb von Stunden zu Husten, Atemnot und Fieber. Bei der chronischen Form nehmen die Beschwerden langsam zu.
+
+
+== Diagnostik ==
+Neben der charakteristischen Vorgeschichte und den Symptomen der Patienten findet man bei der Untersuchung typische Atemgeräusche. Eine Röntgenuntersuchung der Lunge kann Zeichen einer Entzündung zeigen. Insbesondere eine Bronchoskopie mit Ausspülung der Atemwege und Lungenbläschen (bronchoalveoläre Lavage) zeigt eine Entzündung in Form einer akuten Alveolitis. Dabei ist innerhalb der ersten 48 Stunden zunächst eine Vermehrung der neutrophilen Granulozyten, später der Lymphozyten typisch. Mit Hilfe eines Provokationstestes (kontrolliertes Einatmen der vermuteten Antigene) kann man die Ursache der Erkrankung näher bestimmen. Der Nachweis präzipitierender Antikörper durch Laboruntersuchungen ist ein wichtiger Hinweis für das Vorliegen einer Alveolitis. Der klassische Präzipitin-Nachweis nach Ouchterlony wurde zugunsten besserer Laborverfahren (ELISA und IFT) weitgehend verlassen. Die wichtigste Differentialdiagnose ist die Unterscheidung von Alveolitis und Asthma bronchiale:
+
+Asthmatiker haben oft eine positive Familienanamnese. Es findet sich eine wechselnde Verengung der Atemwege (Obstruktion). Sie erleiden Beschwerden sofort (wenige Minuten) nach Antigenkontakt, die Lunge ist überbläht; es können evtl. Antikörper vom IgE-Typ nachgewiesen werden.Patienten mit einer Alveolitis haben keine betroffenen Familienangehörigen, es sei denn, diese sind ebenfalls exponiert. Die Erkrankung ist im Lungengewebe lokalisiert, die Reaktion auf den Reiz ist verzögert (wenige Stunden), die Lunge zeigt Verdichtungen und es werden evtl. IgG-Antikörper nachgewiesen.
+
+
+== Verlauf ==
+Wenn die Ursache gefunden wird und gemieden werden kann, ist die Prognose der akuten exogen-allergischen Alveolitis sehr gut. Es kommt in aller Regel zu einer vollständigen Wiederherstellung, ggf. nach Cortison-Behandlung.
+Wenn die Erkrankung nicht erkannt wird, die Ursache nicht gefunden wird oder nicht zu meiden ist, können bei chronischem Verlauf Lungenfibrose oder Cor pulmonale auftreten, die letztlich zum Tode führen.
+
+
+== Therapie ==
+Die wichtigste Behandlung der Alveolitis ist die Vermeidung des Kontaktes mit den auslösenden Faktoren. Falls die Erkrankung rechtzeitig erkannt wird, ist die Prognose günstig. Bei schweren Erkrankungen ist häufig eine medikamentöse Behandlung mit Cortison-Tabletten für mehrere Monate notwendig.
+
+
+== Sonstiges ==
+Stellt sich laut Berufskrankheitenverordnung ein Zusammenhang mit beruflichen Einflüssen heraus (wie dies bei der exogen-allergischen Alveolitis oftmals der Fall ist), sind Fachärzte verpflichtet, die zuständige Berufsgenossenschaft zu informieren. Diese prüft, ob innerhalb eines Betriebes die gesetzlichen Vorschriften beachtet werden und gegebenenfalls entsprechende Arbeitsschutzmaßnahmen (wie zum Beispiel besondere Hygiene am Arbeitsplatz oder Lüftungsanlage) realisiert werden müssen. In einigen Fällen wird bei entsprechender Exposition dringend zu einem Berufswechsel geraten. Falls eine Berufskrankheit vorliegt, übernimmt die Berufsgenossenschaft gegebenenfalls die Kosten für nötige Rehamaßnahmen oder eine Umschulung.
+
+
+== Siehe auch ==
+Idiopathische Lungenhämosiderose
+Alveolarproteinose
+
+
+== Quellen ==
+Gerd Herold: Innere Medizin. Eigenverlag, Köln 1992 ff.
+Pschyrembel: Klinisches Wörterbuch. de Gruyter, Berlin 1990 ff.Einzelnachweise

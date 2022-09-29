@@ -1,0 +1,45 @@
+Als Atemwegsinfektion bezeichnet man eine Infektion des Atemtraktes durch pathogene Erreger.
+
+
+== Einteilung ==
+Atemwegsinfektionen können grob in zwei Klassen eingeteilt werden:
+
+Oberer Atemwegsinfekt: Infektion der oberen Atemwege, z. B. der Schleimhaut der Nase oder Nasennebenhöhlen. (engl. Upper Respiratory Tract Infection (URTI)); siehe auch Erkältung
+Unterer Atemwegsinfekt: Infektion der unteren Atemwege, z. B. der Trachea und der Bronchien (engl. Lower Respiratory Tract Infection (LRTI))Atemwegsinfektionen können auch systematisch nach dem genauen Sitz der durch die Infektion ausgelösten Entzündung benannt werden. Damit ist allerdings in der Regel kein streng isolierter Befall des betreffenden Abschnitts verbunden, dieser ist klinisch die Ausnahme. Hier wird ausgedrückt, welcher Abschnitt der Atemwege hauptsächlich für die Symptomatik verantwortlich ist.
+Schnupfen (Rhinitis)
+Nasennebenhöhlen-Entzündung (Sinusitis)
+Mittelohrentzündung (Otitis media)
+Kehlkopfentzündung (Laryngitis)
+Luftröhrenentzündung (Tracheitis)
+Bronchitis
+Bronchiolitis
+Rachenentzündung (Pharyngitis)
+Mandelentzündung (Tonsillitis)
+AlveolitisDaneben gibt es zahlreiche Mischformen, bei denen zwei oder mehr Abschnitte der Atemwege befallen sind, wie Rhinosinusitis, Tracheobronchitis, Laryngotracheitis usw. Die Entzündung des gesamten Lungengewebes bezeichnet man als Lungenentzündung (Pneumonie).
+Das Adjektiv „infektiös“ sollte immer mitgeführt werden, um die Entzündung von anderen Ursachen (z. B. Allergien oder Giften) abzugrenzen.
+
+
+== Diagnostik ==
+Anhand der Symptome lassen sich die jeweiligen Erreger nicht voneinander unterscheiden. Moderne Multiplex-PCR-Verfahren zur Labordiagnostik decken zahlreiche Erreger ab. Zudem haben sie eine sehr hohe Sensitivität und Spezifität. Hiermit lassen sich Viren, die etwa 80 % der Atemwegsinfektionen hervorrufen, aber auch schlecht anzüchtbare bakterielle Erreger nachweisen. Der Einsatz von Antibiotika, die bei viralen Erregern nicht indiziert sind, kann so durch ein effizientes Screening reduziert werden.
+
+
+== Monitoring in Deutschland ==
+In Deutschland beteiligen sich seit 1994 rund 500 bis 600 Arztpraxen unentgeltlich am Praxisindex, einem Meldesystem, bei dem wöchentlich Beobachtungsdaten über akute respiratorische Erkrankungen (ARE) gemeldet werden. Der Praxisindex stellt die über alle Praxen gemittelte relative Abweichung der beobachteten Fälle von ARE einem für jede Praxis ermittelten „Normalniveau“ gegenüber, wobei sowohl die Praxisspezialisierung berücksichtigt als auch eine gewisse Hintergrund-ARE-Aktivität angenommen wird. Veröffentlicht wird der Praxisindex sowohl für die Bundesebene als auch Bundeslandsebene auf einer Website des Robert Koch-Instituts.
+Seit 2011 nutzt das Grippeweb des Robert Koch-Institut Symptome eines Atemwegsinfektes bei den registrierten Einwohnern Deutschlands für Vorhersagen über die Aktivität akuter Atemwegserkrankungen. Dieses konnte zur Mitte des Jahres 2020 einen deutlichen Rückgang der Rate an Atemwegsinfekten zeigen. Deren Ursache wurde in den Maßnahmen gegenüber der COVID-19-Pandemie gesehen.
+
+
+== Siehe auch ==
+Liste der Krankheiten des Atmungssystems nach ICD-10
+
+
+== Literatur ==
+Marianne Abele-Horn: Antimikrobielle Therapie. Entscheidungshilfen zur Behandlung und Prophylaxe von Infektionskrankheiten. Unter Mitarbeit von Werner Heinz, Hartwig Klinker, Johann Schurz und August Stich, 2., überarbeitete und erweiterte Auflage. Peter Wiehl, Marburg 2009, ISBN 978-3-927219-14-4, S. 77–100 (Infektionen der Atemwege).
+
+
+== Weblinks ==
+Website des Robert Koch-Instituts
+Praxisindex zu akuten respiratorischen Erkrankungen in Deutschland
+Grippeweb des Robert Koch-Instituts
+
+
+== Einzelnachweise ==

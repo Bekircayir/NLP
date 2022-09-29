@@ -1,0 +1,53 @@
+Die Arthritis (griechisch ἀρθρῖτις arthrítis, Plural Arthritiden; von arthron „Gelenk, Glied“ und Endung -itis zur Bezeichnung einer Entzündung) oder Gelenkentzündung ist eine entzündliche Gelenk­erkrankung.
+Klar abzugrenzen ist dieser Begriff von degenerativen Veränderungen (Arthrose). Während es sich bei den Arthrosen um ein „kaltes“ Geschehen durch „Gelenkverschleiß“ handelt, sind die Entzündungen typischerweise mit Überwärmung, Gelenkergussbildung, Schwellung und Rötung verbunden.
+Hinweis: In der englischsprachigen Literatur wird der Begriff Arthritis anders verwendet. Er bezeichnet dort auch allgemein Gelenkschmerzen unabhängig von deren Ursache.
+
+
+== Einteilung ==
+Prinzipiell unterteilt wird die Arthritis nach der Ursache. Eine akute und bedrohliche Infektionskrankheit ist die eitrige, bakterielle Arthritis (genannt auch septische Arthritis), bei der Keime im Gelenk für die Entstehung verantwortlich und z. T. auch nachweisbar sind. Synonym mit der eitrigen Arthritis werden auch die Begriffe Pyarthros und Gelenkempyem gebraucht.
+Von der eitrigen Arthritis unterschieden wird die (nichtbakterielle) Arthritis bei rheumatischen Erkrankungen, die postinfektiöse Arthritis (z. B. bei der Coxitis fugax), die Arthritis bei Stoffwechselerkrankungen (z. B. Gicht). Auch die „aktivierte Arthrose“, bei der es infolge von immunologischen Reaktionen auf den mechanischen Abrieb bei Verschleißgelenken ebenfalls zu einer Gelenkentzündung kommt, gehört in diese Kategorie – hier passt dann auch der englische Begriff der „Osteoarthritis“ wieder. Darüber hinaus existieren weitere seltenere Ursachen einer Arthritis.
+Nach der Verteilung über den Körper wird zwischen einer Monarthritis (nur ein Gelenk ist entzündet), einer „Oligoarthritis“ (einige/wenige Gelenke sind erkrankt) und einer „Polyarthritis“ (viele Gelenke sind erkrankt) unterschieden.Eine Gelenkentzündung, die im Rahmen einer ursprünglich nicht den Bewegungsapparat betreffenden Krankheit auftritt wird als symptomatische Arthritis bezeichnet.
+
+
+== Bakterielle Arthritis ==
+Grob unterscheiden lassen sich bei der eitrigen bakteriellen Arthritis zwei Ursachen. Die Keime gelangen entweder durch Verletzungen (posttraumatisch), die den Gelenkinnenraum eröffnen, oder auf dem Blutweg („hämatogen“) in das Gelenk. Eine der häufigeren Ursachen des direkten Keimeintritts sind neben den Verletzungen ärztliche Eingriffe („iatrogen“). Bei Operationen, aber auch bei Injektionen in ein Gelenk können Bakterien eingeschleppt werden. Auch eine gelenknahe, meist hämatogene Osteomyelitis kann in ein Gelenk einbrechen und zu einer eitrigen Arthritis führen.
+Bei erwachsenen immunkompetenten Patienten findet sich als Erreger in der Hälfte der Fälle Staphylococcus aureus, in etwa 25 % Staphylococcus epidermidis und in knapp 15 % Streptococcus pyogenes. Bei Kindern und immungeschwächten Patienten lassen sich häufiger seltenere Keime und auch Shigellen nachweisen, entsprechend muss die antibiotische Therapie dann anders gestaltet werden. Arthritis bzw. reaktive Arthritis (meist Männer) kann aber auch durch Mycoplasma genitalium bedingt sein.
+
+
+=== Symptome und Diagnostik ===
+
+Bei der eitrigen Arthritis kommt es zu einer ausgeprägten Entzündungsreaktion mit Rötung, Schwellung und Überwärmung, wenn die Gelenke oberflächlich liegen (Knie, Ellenbogen, Sprunggelenk). Hinzu treten erhebliche Schmerzen, die durch Bewegung intensiviert werden. Belastung und Bewegung im betroffenen Gelenk sind eingeschränkt. Bei Kindern besteht eine Spielunlust. Das betroffene Gelenk wird spontan nicht mehr belastet oder bewegt. Meist kommt es auch zu einer allgemeinen Krankheitssymptomatik. Diagnostisch zeigt sich ein Gelenkerguss, der z. B. an Knie und Ellenbogen tastbar, an den anderen Gelenken, z. B. an der Hüfte, sonografisch darstellbar ist. Bei der Blutuntersuchung finden sich erhöhte Entzündungswerte (C-reaktives Protein, Leukozytenzahl, Blutsenkungsgeschwindigkeit). Bei klinischem Verdacht auf eine eitrige Arthritis sollte eine umgehende Gelenkpunktion erfolgen. Das Aussehen des Gelenkergusses dient der weiteren Differenzierung. Auch kann ein Abstrich entnommen werden und daraus ein Erregernachweis erfolgen.
+
+
+=== Behandlung ===
+Eine eitrige Arthritis stellt eine sehr schwere Schädigung eines Gelenkes dar. Einerseits kommt es innerhalb von Stunden bis Tagen zur Zerstörung des Gelenkknorpels, andererseits können sich die Keime ausbreiten und zu einer allgemeinen Entzündungsreaktion bis hin zur Sepsis, zum akuten Nierenversagen und zum Tod führen. Die erforderliche Behandlung umfasst in der Regel eine umgehende chirurgische Intervention, in erster Linie die Gelenkeröffnung (Arthrotomie), bei fast allen großen Gelenken (Knie, Hüfte, Sprunggelenk, Ellenbogen, Schulter) auch die Gelenkspiegelung (Arthroskopie). Diese wird mit einer ausführlichen Spülung und einem sorgfältigen Débridement, der teilweisen oder vollständigen Entfernung des infizierten Materials und vollständigen oder teilweisen Resektion der Schleimhaut durchgeführt. Eine früher durchgeführte Saug-Spül-Drainage wird inzwischen selten eingesetzt, stattdessen wird eine sogenannte Intervall-Arthroskopie durchgeführt: Regelmäßige arthroskopische Spülung an jedem 2. Tag bis zum Verschwinden der Entzündungszeichen und bis zum fehlenden Bakteriennachweis. Parallel muss eine Antibiotikatherapie durchgeführt werden, die zunächst ungerichtet breit wirken muss, und nach Erhalt des Erregernachweises gezielt verändert werden kann. Die Antibiose sollte zunächst intravenös erfolgen, nach einigen Tagen ist eine Umstellung auf eine orale Therapie möglich. Wichtig ist wegen der Gefahr eines Rezidivs die regelmäßige Kontrolle des Lokalbefundes und der Entzündungsparameter im Blut.
+Bei einer chronischen Arthritis erfolgt die antibiotische Behandlung nach Antibiogramm über sechs bis zwölf Monate.
+
+
+=== Sonderformen ===
+Bei der Gelenktuberkulose stellt das für die Spül-Saug-Drainage operativ eröffnete Gelenk ein hohes Ansteckungsrisiko für die Pflegekräfte und Ärzte dar, die sich um die Versorgung des Patienten kümmern. Die notwendige tuberkulostatische Behandlung dauert wesentlich länger als bei anderen eingedrungenen Keimen.Tabische Arthropathie: Sie ist eine Spätfolge der Syphilis und tritt im dritten, „tertiären“ Stadium der Syphilis auf. Vermutet wird hier eine Auswirkung der Syphilis auf die das Gelenk versorgenden Nerven. Ein direkter Zusammenhang mit den örtlichen Wirkungen der Infektionserreger besteht nicht.Lyme-Arthritis: Eitrige Gelenkentzündung im Stadium 3 einer Lyme-BorreliosePAPA-Syndrom: Kombination von Pyogener Arthritis, Pyoderma gangraenosum und Akne
+
+
+== Nicht-infektionsbedingte Arthritiden ==
+Sie werden zu den Erkrankungen des rheumatischen Formenkreises gezählt. Es handelt sich hierbei um Autoimmunprozesse, bei denen körpereigene Substanzen fälschlich als „fremd“ eingestuft und vom Abwehrsystem des Körpers angegriffen werden.
+Die Folge ist zuerst eine Schwellung und Wucherung der Synovialis, der Schleimhautschicht, die für die Ernährung des Gelenkknorpels und die Produktion der Synovialflüssigkeit zuständig ist. Diese wuchernde Schleimhaut überwächst allmählich, von den Rändern ausgehend, den Knorpel und zerstört ihn. Die Bezeichnung für diese aggressive, nicht mehr regelrecht funktionierende Synovialis ist „Pannus“. Je nach Typ und Verlaufsform der Arthritis kann das bis zur kompletten Entblößung der knöchernen Gelenkoberfläche reichen, dann reibt Knochen auf Knochen. Dieser Abrieb bewirkt, dass die das Gelenk bildenden Knochen sich verkürzen. Das Gelenk wird sehr instabil, der Bandapparat verliert durch den starken Knochenabrieb seine Funktion. Diese sehr schwere Verlaufsform wird als „mutilierend“ (abfressend) bezeichnet.
+
+Die rheumatoide Arthritis (syn. chronische Polyarthritis, cP, oder (veraltet) primär chronische Polyarthritis, pcP) kann schon in jungen Jahren auftreten. Die Diagnosestellung erfolgt zunächst mit Blutuntersuchungen, im Laborbefund finden sich dann die sogenannten „Rheumafaktoren“. Allerdings kann es sein, dass auch bei schweren Krankheitsbildern die Laborbefunde keine eindeutige Aussage zulassen. Laboruntersuchungen der Synovialflüssigkeit bringen eventuell zusätzliche Informationen. Die feingewebliche (histologische) Untersuchung der Synovia kann ebenso Aufschluss bringen. Das Röntgenbild zeigt charakteristische Veränderungen der gelenknahen Knochen, die „arthritische Randsaumbildung“ genannt werden. Ein weiteres diagnostisches Hilfsmittel ist die Skelettszintigrafie, die einen Überblick über die entzündlichen Aktivitäten liefert und zeigt, welche Gelenke, die von außen oft noch unauffällig sein können, an dem Krankheitsgeschehen beteiligt sind. Bleibt über den Verlauf der Erkrankung der laborchemische Nachweis von „Rheumafaktoren“ negativ, spricht man von einer „seronegativen Arthritis“.Die Psoriasis-Arthritis tritt im Rahmen einer Psoriasis (Schuppenflechte) auf. Die Diagnosestellung kann dadurch erschwert werden, dass die Gelenkbeteiligung in einigen Fällen Monate oder Jahre vor den typischen Hauterscheinungen der Psoriasis auftritt. Typisch ist hier asymmetrische Verteilung der befallenen Gelenke auf beide Körperhälften. Auch Strahlbefall, z. B. aller Gelenke eines Fingers, distaler Befall aller Fingerendgelenke oder Daktylitis (Entzündung aller Strukturen des Fingers) sprechen für diese Form der Arthritis.Die Gicht-Arthritis ist Folge einer Störung des Harnsäurestoffwechsels. Charakteristisch sind im Röntgenbild runde, sogenannte „Stanzdefekte“ in den gelenknahen Anteilen des Knochens.
+
+
+== Literatur ==
+Gerd Horneff: Juvenile idiopathische Arthritis. UNI-MED Verlag, 2009, ISBN 978-3-8374-1086-0.
+Gerhard Leibold: Arthritis und Arthrose. Jopp-Oesch Verlag, Zürich 2003, ISBN 3-0350-5037-6.
+Wolfgang Miehle: Arthritis psoriatica. Rheumamed-Verlag, 2003, ISBN 3-9806607-5-3.
+
+
+== Weblinks ==
+
+Inzidenz und Erregerspektrum
+Rheumatoide Arthritis – Bücherliste
+Rheuma – Rheumatoide Arthritis
+Moderne Rheumatherapie
+The effects of microbacterial mycolic acids on rodent tuberculosis and adjuvant arthritis (englisch)
+
+
+== Einzelnachweise ==

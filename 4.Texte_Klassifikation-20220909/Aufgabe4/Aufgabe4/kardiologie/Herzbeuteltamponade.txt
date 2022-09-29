@@ -1,0 +1,69 @@
+Unter einer Herzbeuteltamponade oder Perikardtamponade, auch Herztamponade genannt, versteht man die Komplikation einer Flüssigkeitsansammlung (siehe Tamponade) im Herzbeutel, eines sogenannten Perikardergusses, oder selten die Komplikation einer Luftansammlung im Herzbeutel, eines sogenannten Pneumoperikards. Bereits geringe Mengen an Flüssigkeit können zu einer Behinderung der Ventrikelfüllung, einem verminderten Schlagvolumen und somit zu einer lebensbedrohlichen Funktionsstörung des Herzens führen. Außerdem wird der Blutfluss in den Koronararterien vermindert und der Herzmuskel nur noch ungenügend mit Sauerstoff versorgt (Hypoxie). Eine Herzinsuffizienz entsteht. Bei der Flüssigkeit (Herzbeutelerguss) kann es sich um Blut (Hämoperikard), seröse Flüssigkeit (Hydroperikard), Eiter (Pyoperikard) oder Chylus (Chyloperikard) handeln. Das Herz wird von außen zusammengedrückt und so in seiner Funktion behindert. Vor allem die diastolische Füllung des Herzens ist dabei beeinträchtigt.
+
+
+== Pathogenese ==
+Zwischen Epikard und Perikard des Herzbeutels befindet sich ein mit 20–50 ml Gleitflüssigkeit (Liquor pericardii) gefüllter Spaltraum, der das Herz umgibt und die reibungsarme Beweglichkeit des Herzmuskels bei Kontraktion und Erschlaffung gewährleistet. Da das Perikard infolge seiner sehr geringen Elastizität keine Möglichkeit zur Ausdehnung hat, kommt es bei einer schnellen Flüssigkeitsvermehrung in diesem Spaltraum zu einer Kompression des Herzens, in deren Folge es sich nicht mehr ausreichend mit Blut füllen lässt und folglich auch nicht mehr pumpen kann: Es kommt zum Pumpversagen.
+Bei einer raschen Ansammlung von Flüssigkeit im Perikard reichen 150–200 ml für eine Tamponade aus (z. B. bei Einblutung), während bei einer langsamen Ansammlung 1000–2000 ml für eine Tamponade notwendig sind, da sich das Perikard langsam dehnen kann.
+
+
+== Ursachen ==
+Trauma
+Stich- oder Schussverletzung, Thoraxtrauma
+Zerreißung Koronararterie
+ausgedehnte Myokardverletzung, Herzruptur
+Läsionen von Lunge und Pleura
+(Spannungs-) Pneumoperikard v. a. bei Pneumothorax li. oder bds. und PEEP-Beatmung
+neoplastische Erkrankungen
+iatrogenes Trauma
+Nachblutung, Erguss nach OP
+bei Anlage eines zentralen VenenkathetersMyokardperforation bei ZVK-Anlage bei Früh- und Neugeborenen
+Fehllage ZVK linke Vena jugularis interna in linke Vena pericardiophrenica
+Perforation bei PTCA oder durch Schrittmachersonde
+bakteriell
+idiopathisch, autoreaktiv
+viral
+urämisch
+akuter Myokardinfarkt mit Herzwandruptur
+nach Bestrahlung
+Postperikardiotomiesyndrom
+Vaskulitiden, Kollagenosen
+Aortendissektion
+Pleuraerguss (ausgeprägt)
+
+
+== Symptomatik ==
+Im 17. Jahrhundert beschrieb William Harvey einen durch eine Herzkammerruptur als Hämoperikard zu klassifizierende Herztamponade. Die Leitsymptome einer (auch 1761 von dem Chirurgen Morgagni beschriebenen) Herzbeuteltamponade setzen sich aus einer oberen Einflussstauung mit gestauten Halsvenen (nicht bei Hypovolämie), der Beck’schen Trias, wozu ein erniedrigter arterieller (Hypotonie) und ein erhöhter venöser Blutdruck sowie leise Herztöne gehören, einer Atemnot (Dyspnoe), einem reflektorisch beschleunigten Herzschlag (Tachykardie), einem Pulsus paradoxus bis zu einem kardiogenen Schock mit einem Herz-Kreislauf-Stillstand zusammen. Weitere Symptome sind Lufthunger, Tachypnoe, eine stagnierende Urinausscheidung, ein Oppressionsgefühl, Schwitzen, kalte Extremitäten, Schwindel, Unruhe und eine akute Herzinsuffizienz mit einem „low-cardiac-output“.
+
+
+== Diagnostik ==
+Inspektion: vermehrte Jugularvenenfüllung, Blässe, Kaltschweißigkeit
+Auskultation: leise Herztöne, Tachykardie
+Palpation: Herzspitzenstoß kaum/nicht tastbar, pulsus paradoxus (Abfall des syst. BD > 10 mmHg bei Inspiration)
+EKG: Niedervoltage, elektrischer Alternans, ggf. ST-Strecken- und T-Wellen-Veränderungen
+Echokardiografie: Nachweis, Lokalisation, Ausmaß eines Perikardergusses
+Röntgen Thorax: Verbreiterung der Herzsilhouette und des oberen Mediastinums, Bocksbeutelform des Herzens
+CT, MRT: Perikardergüsse bzw. -tamponaden gut darstellbar und nachweisbar, Methode zu aufwendig für kritisch KrankeDie Methode der Wahl und ein sicheres und schnelles Verfahren zur Diagnostik ist die Echokardiografie. In der Regel besteht bei Vorliegen einer Herzbeuteltamponade nicht sehr viel Zeit. Das Herz muss zuerst entlastet werden.
+
+
+== Therapie ==
+symptomatisch:
+hämodynamische Stabilisierung, Verlegung auf eine Intensivstation
+Vermeidung einer Bradykardie
+Vermeidung von PEEP-Beatmung, wenn möglich
+kausal (Dekompression):
+Entlastung durch Perikardpunktion, also Abziehen der Flüssigkeit aus dem Herzbeutel, unter Ultraschallsicht; wobei geronnenes Blut allerdings nicht abpunktiert werden kann
+Perikardiotomie oder Perikardiozentese (Eröffnen des Perikards) mit Anlage einer (erstmals 1810 von Larrey durchgeführten) Perikarddrainage
+Perikardfensterung (Öffnung am Herzbeutel) oder Perikardektomie (dessen vollständige Entfernung) zur Ableitung von Perikarderguss über den Bauchraum
+Thorakotomie (Eröffnen des Brustkorbs) mit Anlage einer Perikarddrainage und partieller oder kompletter Perikardektomie
+bei postoperativen herzchirurgischen Patienten (z. B. nach Klappen- oder Koronarbypass-Operationen) ist häufig ein retrosternaler Drain vorhanden, der in der Akutsituation evtl. mit einem Sauger angelupft bzw. entlastet werden kann.
+
+
+== Siehe auch ==
+Perikarditis
+
+
+== Literatur ==
+H. Barth, A. Böhle et al.: Chirurgie (= Duale Reihe). 2. Auflage. Georg Thieme Verlag, Stuttgart 2003, ISBN 3-13-125292-8, S. 995–996.
+
+
+== Einzelnachweise ==

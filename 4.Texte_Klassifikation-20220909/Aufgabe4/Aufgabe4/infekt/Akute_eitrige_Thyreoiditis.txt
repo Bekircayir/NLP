@@ -1,0 +1,27 @@
+Bei der akuten eitrigen Thyreoiditis (auch eitrige Thyreoiditis) handelt es sich um eine seltene schmerzhafte Entzündung der Schilddrüse (Thyreoiditis), die meist auf eine Infektion mit Bakterien zurückzuführen ist (siehe auch infektiöse Thyreoiditis).
+
+
+== Ursache und Krankheitsentstehung ==
+Die häufigsten Erreger einer akuten eitrigen Thyreoiditis sind die grampositiven Bakterien Streptococcus pyogenes, Streptococcus pneumoniae und Staphylococcus aureus. Sie gelangen in der Regel über die Blut- oder Lymphgefäße in das Schilddrüsengewebe (hämatogener oder lymphogener Infektionsweg). Ausgangspunkt sind vor allem bakterielle Infektionen im Kopf- und Halsbereich (z. B. Mandelentzündungen, Mittelohrentzündungen und Entzündungen des Rachens) Darüber hinaus können Verletzungen angrenzender Strukturen,  beispielsweise der Speiseröhre, zu einer Infektion der Schilddrüse führen. Im Rahmen der Infektion kann es zur Bildung von Abszessen kommen.
+
+
+== Klinisches Erscheinungsbild ==
+Charakteristisch für eine akute eitrige Thyreoiditis sind starke Halsschmerzen, die häufig seitenbetont sind, und Fieber. Die Halsregion über der Schilddrüse ist durch eine erhebliche Druckschmerzhaftigkeit gekennzeichnet. Durch die Entzündungsreaktion kann es zu einer Schwellung der Schilddrüse und einer Rötung im Halsbereich kommen.
+
+
+== Komplikationen ==
+Die akute eitrige Thyreoiditis kann zu schweren Komplikationen wie eine Blutvergiftung (Sepsis) und eine Entzündung des Mediastinums (Mediastinitis) führen. Mit Einführung der Antibiotikatherapie sind diese Komplikationen allerdings sehr selten geworden.
+
+
+== Diagnose ==
+Die Diagnose „akut eitrige Thyreoiditis“ kann anhand klinischer Merkmale (Anamnese und körperliche Untersuchung), Laborparameter, Ultraschall der Schilddrüse und mikrobiologischer Untersuchung des in einer Feinnadelaspiration gewonnenen Materials relativ sicher gestellt werden.
+Bei der Blutuntersuchung sind typische Veränderungen einer bakteriellen Infektion typisch: Erhöhung der Entzündungsparameter, das heißt vor allem der Blutsenkungsgeschwindigkeit (BSG) und des C-reaktives Proteins (CRP) sowie eine Erhöhung der Zahl der weißen Blutkörperchen (Leukozytose) mit Linksverschiebung. Die Schilddrüsenparameter (TSH und freie Schilddrüsenhormone) können im Sinne einer milden Hypo- oder Hyperthyreose verändert sein. Im Ultraschall zeigt sich ein inhomogenes Bild, echoarme wechseln sich mit echofreien Arealen ab. Des Weiteren können durch die Ultraschalluntersuchung eventuelle Abszesse nachgewiesen werden. Die Feinnadelaspiration dient dem Erregernachweis und der Anfertigung eines Antibiogramms, damit eine sinnvolle Auswahl von Antibiotika erfolgen kann.
+
+
+== Therapie ==
+Die akute eitrige Thyreoiditis wird aufgrund der Gefahr von schwerwiegenden Komplikationen sofort behandelt. Die Therapie erfolgt mittels eines Breitbandantibiotikums. Diese Antibiose wird nach Eintreffen des Antibiogramms dem Untersuchungsergebnis angepasst. Bei Abszessbildung kann ein chirurgischer Eingriff zur Ausräumung des Abszesses erfolgen.
+
+
+== Quellen ==
+A. E. Heufelder u. a.: Die Thyreoiditiden: Aktueller Stand der Pathogenese, Diagnostik und Therapie. Dtsch Arztebl 1998; 95(9), S. A-466 / B-394 / C-368. Online-Version
+H. Mönig, B. Harbeck: Thyreoiditis. In: DMW – Deutsche Medizinische Wochenschrift. 133, 2008, S. 301–304, doi:10.1055/s-2008-1046710.

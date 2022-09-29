@@ -1,0 +1,233 @@
+Der Schadstoffschlüssel, oft auch als Emissionsschlüsselnummer bezeichnet, ist der in den Zulassungspapieren eingetragene Schlüssel für die Abgasnorm eines Kraftfahrzeugs. Der Schadstoffschlüssel wird angegeben
+
+im Fahrzeugschein (bis 1. Oktober 2005) durch die beiden letzten Ziffern der Zahl im Feld Schlüsselnummer zu 1,in der Zulassungsbescheinigung Teil 1 durch die beiden letzten Ziffern der Zahl im Feld 14.1. Abweichend gelten für die Schadstoffklasse Euro 5 die Schlüssel 35A0-35M0 und für die Schadstoffklasse Euro 6 die Schlüssel 36N0-36Y0.
+
+
+== Wirksame Beschränkungen der Emissionen ==
+Der Gesetzgeber versucht durch eine Vielfalt von Maßnahmen, die Emissionen von Verbrennung und von anderen technischen Prozessen zu reduzieren. Seit den 1970er Jahren wurden die Emissionen der Industrie erkennbar reduziert. Jeder Vergleich der Verhältnisse in Industrieregionen beispielsweise heute in China mit denen heute in Europa zeigt, was erreicht wurde. Dabei muss erkannt werden, dass viele der Verbesserungen nicht nur Geld kosten, sondern auch Geld sparen, indem die entsprechenden Prozesse effizienter sind, als ohne technische Emissionsregelung.
+Beliebtes Thema neuer Eingriffe ist nach der Einführung von Abgasregelung und Abgasfilterung bei Kraftfahrzeugen heute die Regulierung der bisher weitgehend unbeschränkten Benutzung dieser Kraftfahrzeuge.
+
+
+=== Beschränkungen der Abgasemission von Kraftfahrzeugen ===
+Die von Kraftfahrzeugen abgegebenen Abgasmengen nach Kohlenstoffdioxid (CO2) sind zunächst der verbrannten Energiemenge weitgehend proportional. Zusätzlich werden Gase der Umgebungsluft verändert. Insbesondere entstehen Ozon und Stickoxide sowie Kohlenstoffmonoxid.
+Die Menge dieser Gasanteile ist abhängig von der Art der Verbrennung und von deren präziser Führung. Die Führung erfolgt mit Hilfe von Regeleinrichtungen, die jedoch beim Starten des kalten Motors und beim Beschleunigen des Fahrzeugs eher schlecht wirksam sind.
+
+
+== Beschränkungen der Staubemission ==
+Die Europäische Union hat Grenzwerte für den Staubgehalt der Umgebungsluft definiert. In vielen Großstädten wird dieser Grenzwert anhaltend überschritten. Infolge der gewählten Definitionen kann zunächst je Bewertungsperiode recht viel Staub auftreten, ohne die Regeln zu verletzen. Durch Kumulation des Staubaufkommens wird die danach noch zulässige Restmenge für den weiteren Zeitabschnitt der Bewertungsperiode überproportional reduziert. Formal wäre jeweils gegen Ende der Bewertungsperiode überhaupt kein Betrieb Staub emittierender Anlagen und Geräte mehr zulässig.
+Gegenüber dem Staubausstoß früherer Schwerindustrie-Kombinate ist heute das Aufkommen an Staub in der Atmosphäre erheblich reduziert. Dabei sind jedoch einzelne Quellen der Staubemission auch heute erheblich für die Gesundheit. Besonders kritisch ist für die Atmung die Emission von feinem Ruß aus Automobilen, wie auch von Asche aus ungeregelter Holzverbrennung.
+Eine geregelte Verbrennung im Sinne der Technik ist eine Verbrennung, die mit einem durch steuernde Eingriffe minimierten Ausstoß von Staub betrieben wird. Dies erfordert entsprechende technische Einrichtungen, die den Wirkungsgrad der Verbrennung nachhaltig beeinträchtigt: Der Aufwand an Brennstoffen steigt, um die Eingriffe in den Brennprozess zu regeln.
+
+
+=== Beschränkungen der Ofenheizung ===
+Für die Ofenheizung wurden bisher keine Schadstoffschlüssel definiert. Diskussionen die Schadstoffbegrenzung der Ofenheizungen werden geführt, es gibt allerdings bisher keine gesetzlichen Regelungen dazu.
+
+
+=== Beschränkungen der Fahrzeugnutzung ===
+Die Kommunen versuchen, durch Beschränkungen des Fahrzeugverkehrs das Staubaufkommen zu mindern. Das erscheint als einziger Ausweg, um die heute üblichen Verstöße gegen die Grenzwerte der Abgas- und der Staubbelastung zu vermeiden. Die Verordnung zur Kennzeichnung der Kraftfahrzeuge mit geringem Beitrag zur Schadstoffbelastung schafft dafür eine Grundlage. Dabei wurden den Emissionsschlüsseln und Partikelminderungsstufen eine Plakettenfarbe zugeordnet.
+
+
+== Kraftfahrzeugsteuer nach Schadstoffausstoß ==
+Die Schlüsselnummer ist für jedes Fahrzeug in der Zulassungsbescheinigung Teil I eingetragen (letzte beiden Ziffern im Feld 14.1 bzw. – im alten Kfz.-Schein – im Feld „Schlüsselnummer zu 1“; Abweichungen für EURO 5 und EURO 6 siehe oben). Sie ist Grundlage der Bemessung der Kfz-Steuer in Deutschland. Der Steuersatz für die Kraftfahrzeugsteuer gilt je angefangene 100 cm³ in Euro und richtet sich nach der Einstufung des Fahrzeuges in der Europäischen Abgasnorm. Mit dem 1. April 2007 zahlen alle Dieselfahrzeuge, die nicht die Euro-4-Norm erfüllen (30-33, 36-48, 53-70, 72-75), 1,20 Euro mehr pro 100 Kubikzentimeter Hubraum.
+
+
+== Schlüsselnummern ==
+
+
+=== Bis EURO 4 ===
+00 Übrige (Fahrverbot bei Ozonalarm)
+01 Schadstoffarm (= EURO 1)
+02 Bedingt schadstoffarm C/XXIII (= EURO 1)
+03 Schadstoffarm E (Pkw mit Hubraum über 1700 cm³ und mit Zulassung vor 26. Juli 1995 uneingeschränkt) Fahrverbot bei Ozonalarm (Umschlüsselung auf EURO 1 möglich)
+04 Schadstoffarm, wenn in Kfz-Schein testiert Fahrverbot bei Ozonalarm (Umschlüsselung auf EURO 1 möglich)
+05 Übrige (Fahrverbot bei Ozonalarm)
+06 Übrige (Fahrverbot bei Ozonalarm)
+07 Elektroantrieb (befreit)
+08 Übrige (Fahrverbot bei Ozonalarm)
+09 Schadstoffarm, wenn in Kfz-Schein testiert Fahrverbot bei Ozonalarm (Umschlüsselung auf EURO 1 möglich)
+10 SKL: S1 wenn das Fahrzeug nachweislich vor dem 26. Juli 1995 mit Katalysator und geregelter Gemischaufbereitung (GKAT) ausgerüstet worden ist
+11 Schadstoffarm E1 (SKL: S1, GKL G1)(= EURO 1)
+12 Besonders Schadstoffarm. 0,08 (SKL: S1, GKL G1 OEST)
+13 Besonders Schadstoffarm E1 0,08
+14 Schadstoffarm E2 (= EURO 1)
+15 Schadstoffarm, wenn in Kfz-Schein testiert
+16 Schadstoffarm E2, 8.1 (= EURO 1)
+17 93/59/EWG, ANH. I.8.3
+18 S-ARM: 93/59/EWG I (= EURO 1)
+19 S: 93/59/EWG II
+20 S: 93/59/EWG III (SKL : S2)
+21 Schadstoffarm E 2, (SKL : S2,GKL : G1) (= EURO 1)
+22 S-ARM. 93/59/I, G: 92/97 (= EURO 1)
+23 S 93 / 59/II, G: 92/97 /EWG
+24 S 93 / 59/III, G: 92/97 /EWG
+25 Schadstoffarm EURO 2
+26 Schadstoffarm EURO 2, G: 92/97
+27 EURO 2 I EG 1, besteuert wie EURO 2
+28 EURO 2 II, besteuert wie EURO 1
+29 EURO 2 III, besteuert wie EURO 1
+30 D3 (93/59/EWG I)
+31 D3 I (93/59/I, GKL: G1)
+32 D4 (93/59/I, GKL: G1 OEST)
+33 D4 I
+34 E2, 5L
+35 EURO 2, 5L
+36 D3, 5L
+37 D3 I, 5L
+38 D4, 5L
+39 D4 I, 5L
+40 (93/59/EWG II), E2, 3L
+41 (93/59/II, GKL: G1) EURO 2, 3L
+42 (93/59/II, GKL: G1 OEST), D3, 3L
+43 D4, 3L
+44 EURO 3
+45 EURO 3, 5L
+46 EURO 3, 3L
+47 EURO 3 I
+48 EURO 3 I, 5L
+49 EURO 3 II
+50 (93/59/EWG III), EURO 3 II, 5L
+51 (98/69/EG III; A), EURO 3 III
+52 (93/59/III, GKL: G1 OEST), EURO 3 III, 5L
+53 EURO 3 + D4
+54 EURO 3 + D4, 5L
+55 EURO 3 + D4, 3L
+56 EURO 3 I + D4 I
+57 EURO 3 I + D4 I, 5L
+58 EURO 3 II + D4 I
+59 EURO 3 II + D4 I, 5L
+60 (94/12/EG(W)) EURO 3 III + D4 I
+61 (94/12/EG (W), GKL: G1) EURO 3 III + D4 I, 5L
+62 EURO 4
+63 EURO 4, 5L
+64 EURO 4, 3L
+65 EURO 4 I
+66 EURO 4 I, 5L
+67 EURO 4 II
+68 EURO 4 II, 5L
+69 EURO 4 III
+70 EURO 4 III, 5L
+71 EURO 2
+72
+73 (= EURO 4)
+74 (= EURO 4)
+75 (= EURO 4)
+77 (= EURO 1, nachgerüstet)
+88 Übrige
+98 Oldtimer – erhalten unabhängig von der bisherigen Emissionsklasse anstelle einer Schlüsselnummer den Wert 0098 und in Feld 14 den Eintrag „Oldtimer“.
+
+
+=== EURO 5 ===
+35A0 EURO5;A;PI/CI; M, N1 I
+35B0 EURO5;N;CI;M1 sozE ohne M1G
+35C0 EURO5;C;CI;M1G sozE
+35D0 EURO5;D;PI/CI; N1 II
+35E0 EURO5;E;PI/CI; N1 III, N235F0 EURO5;F;PI/CI; M, N1 I
+35G0 EURO5;G;CI;M1 sozE ohne M1G
+35H0 EURO5;H;PI/CI; N1 II
+35I0 EURO5;I;PI/CI; N1 III, N235J0 EURO5;J;PI/CI; M, N1 I
+35K0 EURO5;K;CI;M1 sozE ohne M1G
+35L0 EURO5;L;PI/CI; N1 II
+35M0 EURO5;M;PI/CI; N1 III, N2
+
+
+=== EURO 6 ===
+
+
+==== EURO 6-Normen, gemessen nach NEFZ ====
+Frühe EURO 6-Normen, noch parallel zu EURO 5
+
+36N0 EURO6;N;CI; M, N1 I -- Erstzulassungen bis 31. Dezember 2012
+36O0 EURO6;O;CI; N1 II   -- Erstzulassungen bis 31. Dezember 2012
+36P0 EURO6;P;CI; N1 III, N2 -- Erstzulassungen bis 31. Dezember 201236Q0 EURO6;Q;CI; M, N1 I -- Erstzulassungen bis 31. Dezember 2013
+36R0 EURO6;R;CI; N1 II   -- Erstzulassungen bis 31. Dezember 2013
+36S0 EURO6;S;CI; N1 III, N2 -- Erstzulassungen bis 31. Dezember 201336T0 EURO6;T;CI; M, N1 I -- Erstzulassungen bis 31. August 2015
+36U0 EURO6;U;CI; N1 II -- Erstzulassungen bis 31. August 2016
+36V0 EURO6;V;CI; N1 III, N2 -- Erstzulassungen bis 31. August 2016EURO 6b – im RDE ohne Limit, gemessen nach NEFZ, Erstzulassungen ab 1. September 2015 (außer Ausnahmegenehmigungen)
+
+36W0 EURO6;W;PI/CI; M, N1 I -- Erstzulassungen bis 31. August 2018
+36X0 EURO6;X;PI/CI; N1 II -- Erstzulassungen bis 31. August 2019
+36Y0 EURO6;Y;PI/CI; N1 III, N2 Erstzulassungen bis 31. August 2019EURO 6c OBD=6-1 – NOx im RDE ohne Limit, gemessen nach NEFZ
+
+36ZA EURO6;ZA;PI/CI;M, N1 I -- Erstzulassungen bis 31. August 2018
+36ZB EURO6;ZB;PI/CI;N1 II  -- Erstzulassungen bis 31. August 2019
+36ZC EURO6;ZC;PI/CI;N1 III, N2  -- Erstzulassungen bis 31. August 2019EURO 6c OBD=6-2 – NOx im RDE ohne Limit, gemessen nach NEFZ
+
+36ZD	EURO6;ZD;PI/CI; M, N1 I; KBA-Nr. 018, Juli 2017	-- Erstzulassungen bis 31. August 2018
+36ZE	EURO6;ZE;PI/CI; N1 II; KBA-Nr. 018, Juli 2017	-- Erstzulassungen bis 31. August 2019
+36ZF	EURO6;ZF;PI/CI;N1 III, N2; KBA-Nr. 018, Juli 2017	-- Erstzulassungen bis 31. August 2019EURO 6d-TEMP – gemessen nach NEFZ
+
+36ZG	EURO6;ZG;PI/CI; M, N1 I	KBA-Nr. 018, Juli 2017	-- Erstzulassungen bis 31. August 2018
+36ZH	EURO6;ZH;PI/CI; N1 II	KBA-Nr. 018, Juli 2017	-- Erstzulassungen bis 31. August 2019
+36ZI	EURO6;ZI;PI/CI; N1 III, N2	KBA-Nr. 018, Juli 2017	-- Erstzulassungen bis 31. August 2019EURO 6d – gemessen nach NEFZ
+
+36ZJ	EURO6;ZJ;PI/CI; M, N1 I	KBA-Nr. 018, Juli 2017	-- Erstzulassungen bis 31. August 2018
+36ZK	EURO6;ZK;PI/CI; N1 II	KBA-Nr. 018, Juli 2017	-- Erstzulassungen bis 31. August 2019
+36ZL	EURO6;ZL;PI/CI/; N1 III, N2	KBA-Nr. 018, Juli 2017	-- Erstzulassungen bis 31. August 2019
+
+
+==== EURO 6-Normen, gemessen nach WLTP ====
+EURO 6b	- im RDE ohne Limit, gemessen nach WLTP
+
+36BA EURO6;WLTP;BA;PI/CI; M, N1 I; KBA-Nr. 018; Juli 2017  -- Erstzulassungen bis 31. August 2018
+36BB EURO6;WLTP;BB;PI/CI; N1 II; KBA-Nr. 018; Juli 2017 -- Erstzulassungen bis 31. August 2019
+36BC EURO6;WLTP;BC;PI/CI;N1 III, N2; KBA-Nr. 018; Juli 2017 -- Erstzulassungen bis 31. August 2019EURO 6c OBD=6-1 – NOx im RDE ohne Limit, gemessen nach WLTP
+
+36AA EURO6;WLTP;AA;PI/CI; M, N1 I; KBA-Nr. 018; Juli 2017 -- Erstzulassungen bis 31. August 2018
+36AB EURO6;WLTP;AB;PI/CI; N1 II; KBA-Nr. 018; Juli 2017   -- Erstzulassungen bis 31. August 2019
+36AC EURO6;WLTP;AC;PI/CI;N1 III, N2; KBA-Nr. 018; Juli 2017 -- Erstzulassungen bis 31. August 2019EURO 6c OBD=6-2 – NOx im RDE ohne Limit, gemessen nach WLTP	, alle Erstzulassungen ab 1. September 2018
+
+36AD EURO6;WLTP;AD;PI/CI; M, N1 I; KBA-Nr. 018; Juli 2017 -- Erstzulassungen bis 31. August 2019
+36AE EURO6;WLTP;AE;PI/CI; N1 II; KBA-Nr. 018; Juli 2017   -- Erstzulassungen bis 31. August 2020
+36AF EURO6;WLTP;AF;PI/CI;N1 III, N2; KBA-Nr. 018; Juli 2017 -- Erstzulassungen bis 31. August 2020EURO 6d-TEMP – NOx im RDE-Faktor 2,1, gemessen nach WLTP, neue Typzulassungen ab 1. September 2017
+
+36AG EURO6;WLTP;AG;PI/CI; M, N1 I; KBA-Nr. 018; Juli 2017 -- Erstzulassungen bis 31. August 2019
+36AH EURO6;WLTP;AH;PI/CI; N1 II; KBA-Nr. 018; Juli 2017   -- Erstzulassungen bis 31. August 2019
+36AI EURO6;WLTP;AI;PI/CI;N1 III, N2; KBA-Nr. 018; Juli 2017 -- Erstzulassungen bis 31. August 2019EURO 6d-TEMP-ISC OBD=6-2, gemessen nach WLTP
+
+36CG	EURO6;WLTP;CG;PI/CI; M, N1 I	KBA-Nr. 021, Dez. 2018	-- Erstzulassungen bis 31. August 2019EURO 6d-TEMP-EVAP – NOx im RDE-Faktor 2,1, gemessen nach WLTP, neue Typzulassungen ab 1. September 2019, alle Erstzulassungen ab 1. September 2019
+
+36BG EURO6;WLTP;BG;PI/CI; M, N1 I;  KBA-Nr. 021; Dezember 2018 -- Erstzulassungen bis 31. August 2019
+36BH EURO6;WLTP;BH;PI/CI; N1 II; KBA-Nr. 021; Dezember 2018   -- Erstzulassungen bis 31. August 2020
+36BI EURO6;WLTP;BI;PI/CI;N1 III, N2; KBA-Nr. 021; Dezember 2018 -- Erstzulassungen bis 31. August 2020EURO 6d – NOx im RDE-Faktor 1,5, gemessen nach WLTP,
+
+36AJ EURO6;WLTP;AJ;PI/CI; M, N1 I; KBA-Nr. 021; Dezember 2018 -- Erstzulassungen bis 31. August 2019
+36AK EURO6;WLTP;AK;PI/CI; N1 II; KBA-Nr. 021; Dezember 2018 -- Erstzulassungen bis 31. August 2020
+36AL EURO6;WLTP;AL;PI/CI;N1 III, N2; KBA-Nr. 021; Dezember 2018 -- Erstzulassungen bis 31. August 2020EURO 6d-TEMP-EVAP-ISC  OBD=6-2, gemessen nach WLTP
+
+36DG	EURO6;WLTP;DG;PI/CI; M, N1 I;	KBA-Nr. 021, Dez. 2018	-- Erstzulassungen bis 31. Dezember 2020
+36CH	EURO6;WLTP;CH;PI/CI; N1 II;	KBA-Nr. 021, Dez. 2018	-- Erstzulassungen bis 31. Dezember 2021
+36CI	EURO6;WLTP;CI;PI/CI;N1 III, N2;	KBA-Nr. 021, Dez. 2018	-- Erstzulassungen bis 31. Dezember 2021EURO 6d-ISC, gemessen nach WLTP
+
+36AM EURO6;WLTP;AM;PI/CI; M,N1 GruppeI I; KBA-Nr. 021; Dezember 2018 -- Erstzulassungen bis 31. Dezember 2020
+36AN EURO6;WLTP;AN;PI/CI; N1 Gruppe II; KBA-Nr. 021; Dezember 2018 -- Erstzulassungen bis 31. Dezember 2021
+36AO EURO6;WLTP;AO;PI/CI; N1 III, N2; KBA-Nr. 021; Dezember 2018 -- Erstzulassungen bis 31. Dezember 2021EURO 6d–ISC-FCM, gemessen nach WLTP
+
+36AP EURO6;WLTP;AP;PI/CI; M, N1 I  KBA-Nr. 021; Dezember 2018 neue Typzulassungen ab 1. Januar 2020, alle Erstzulassungen ab  1. Januar 2021
+36AQ EURO6;WLTP;AQ;PI/CI; N1 II KBA-Nr. 021; Dezember 2018 neue Typzulassungen ab 1. Januar 2021, alle Erstzulassungen ab 1. Januar 2022
+36AR EURO6;WLTP;AR;PI/CI; N1 III, N2 KBA-Nr. 021; Dezember 2018 neue Typzulassungen ab 1. Januar 2021, alle Erstzulassungen ab 1. Januar 2022Geprüft nach NEFZ -- Erstzulassungen bis 31. August 2019
+
+30ZX 459/2012;reine Elektrofahrzeuge, - Anwendung nur bei Kraftstoffcode „0004“ im Feld (10) der Zulassungsbescheinigung Teil I
+30ZY 459/2012;Wasserstoff;Brennstoffzelle/Wasserstoff;PHEV - Anwendung nur bei Kraftstoffcodes „0011“, „0015“ oder „0028“ im Feld (10) der Zulassungsbescheinigung Teil I
+30ZZ 459/2012;US-Zertifikat - Anwendung nur in Verbindung mit dem Zertifikat gem. Anhang I Abs. 2.1.1 der VO (EG) Nr. 692/2008 (zusätzl. technische Vorschriften f. Kleinserienhersteller)Geprüft nach WLTP -- Erstzulassungen seit 1. September 2019
+
+30AX 2017/1151;WLTP;reine Elektrofahrzeuge KBA-Nr. 018; Juli 2017; Anwendung nur i. V. m. Kraftstoffcode "0004" im Feld (10) der ZB I
+30AY 2017/1151;WLTP;Wasserstoff;Brennstoffzelle/Wasserstoff;PHEV KBA-Nr. 018; Juli 2017; Anwendung nur i. V. m. Kraftstoffcodes "0011", "0015", "0028", "0035" oder "0036" im Feld (10) der ZB I
+30AZ 2017/1151;WLTP;US-Zertifikat KBA-Nr. 018; Juli 2017; Anwendung nur i. V. m. dem Zertifikat gem. Anh. I Abs. 2.1.1 der VO (EG) Nr. 692/2008 (zusätzl. technische Vorschriften f. Kleinserienhersteller)
+
+
+== Abkürzungen ==
+EVAP – Evaporative Emission, es geht also um Verdunstungsemissionen. Hier wird getestet, wie viele Kohlenwasserstoffe ein Auto im Zeitraum von 48 Stunden aus seinem Kraftstoffsystem ausdünstet.
+ISC – In-Service-Conformity-Tests und bedeutet, dass auch bereits im Verkehr befindliche Fahrzeuge nachweisen müssen, dass sie weiterhin die Abgasregularien erfüllen.
+FCM – Fuel Consumption Monitoring heißt: Ein Pkw muss künftig seinen realen Kraftstoffmenge (in Litern oder kg) und Energieverbrauch (in kWh) im gesamten Fahrbetrieb sowie die damit zurückgelegte Strecke (in km) speichern. Die Werte können über die Diagnose-Schnittstelle ausgelesen und bewertet werden, womit die Lücke zwischen Prüfstandsmessung in einem Normverbrauchszyklus und Realemissionen bzw. -verbrauch zunächst auswertbar werden soll.
+
+
+== Siehe auch ==
+Schadstoffplakette
+
+
+== Weblinks ==
+KfZ-Steuerberechnung durch BehördeADAC Fahrzeugtechnik, Steuersätze nach Schadstoff-Schlüsselnummern - Das Steuersystem für Fahrzeuge mit Erstzulassung vor dem 1. Juli 2009
+Online Kfz-Steuer Rechner für Fahrzeuge in Deutschland
+KBA 21. Bekanntmachung SV 1 (PDF, 253 kB, Datei ist nicht barrierefrei)
+ADAC: Informationen zu den Emissions-Schlüsselnummern
+KBA: Informationen zu den Emissions-Schlüsselnummern

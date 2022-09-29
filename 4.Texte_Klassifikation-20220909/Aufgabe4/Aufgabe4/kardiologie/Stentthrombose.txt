@@ -1,0 +1,33 @@
+Eine Stentthrombose ist ein akuter thrombotischer Verschluss einer Arterie innerhalb eines implantierten Stents. Sie führt zu einer plötzlichen  Durchblutungsstörung und stellt daher ein potentiell lebensbedrohliches Ereignis dar.
+
+
+== Pathogenese ==
+Bei der Behandlung arterieller Stenosen und Verschlüsse werden Stents verwendet, um nach der Dilatation mit einem Ballon die behandelte Stelle dauerhaft offen zu halten. Nach der Implantation wird der Stent von Endothelzellen überwachsen. Bis dies geschehen ist, liegt er frei im Blutgefäß. Durch den Kontakt des Bluts mit dem Fremdkörper können Gerinnungsprozesse ablaufen, die typischerweise mit der Anlagerung und Aggregation von Thrombozyten beginnen.
+Es bildet sich ein Thrombus. Dieser kann den Stent verlegen oder durch den Blutstrom fortgetragen werden (Embolie). Folge sind häufig eine Unterbrechung des Blutstroms und eine Ischämie des durch die Arterie versorgten Gewebes. Anders als bei der Stentstenose passiert dies sehr schnell, was zu einer ausgeprägteren Gewebeschädigung führt.
+Zeitliche Klassifikation der (koronaren) Stentthrombose:
+Frühe Stentthrombose (0–30 Tage nach der Stentimplantation)
+akute Stentthrombose (innerhalb der ersten 24 Stunden nach Stentimplantation)
+subakute Stentthrombose (Tag 1–30 nach Stentimplantation)
+Späte Stentthrombose (>30 Tage nach Stentimplantation)
+Sehr späte Stentthrombose (>12 Monate nach Stentimplantation)
+
+
+== Folgen ==
+Die Konsequenzen einer Stentthrombose hängen vor allem davon ab, welches Organ die betroffene Arterie vorsorgt:
+
+Das Ausmaß der Schädigung hängt u. a. von der Größe des betroffenen Gewebsbereichs, der Empfindlichkeit des Gewebes und von evtl. vorhandenen Kollateralen ab.
+
+
+== Therapie ==
+Die Therapie besteht in erster Linie darin, das verschlossene Gefäß wieder zu eröffnen (Revaskularisation). Die Zeit zwischen Beginn des Verschlusses und der Revaskularisation (Ischämiezeit) ist entscheidend für die Frage, wie viel Gewebsschädigung vermieden werden kann.
+
+
+== Situation bei medikamentenbeschichteten Stents ==
+Medikamentenbeschichtete Stents (auch Drug Eluting Stents oder DES) geben aktive Substanzen ab, die verhindern sollen, dass der Stent nach der Implantation durch Proliferationsprozesse wieder verschlossen wird. Es hat sich gezeigt, dass Patienten, die einen solchen Stent erhalten haben, häufiger eine Stentthrombose erleiden als Patienten mit einem unbeschichteten Stent (Bare Metal Stents, BMS). Dies liegt wahrscheinlich vor allem daran, dass die vom Stent freigesetzten Medikamente den Heilungsprozess (überwachsendes Endothel) verzögern. Ferner spielen Entzündungsprozesse mit Anlagerung von Fibrin eine Rolle.
+
+
+== Prophylaxe ==
+Zur Vorbeugung gegen Stentthrombose werden zwei verschiedene Medikamente zur Thrombozytenaggregationshemmung gegeben ("duale Plättchenhemmung"). Die Deutsche Gesellschaft für Kardiologie empfiehlt in Anlehnung an die European Society of Cardiology eine dauerhafte Therapie mit Acetylsalicylsäure (ASS). Dazu wird ein zweites Medikament wie Clopidogrel, Ticagrelor oder Prasugrel gegeben. Die Dauer der kombinierten Prophylaxe ist abhängig von der Art des Stents und der Indikation der Stentimplantation. Für Medikamenten-beschichtete Stents werden mindestens 12 Monate, für unbeschichtete Stents 1 Monat empfohlen. Nach Stentimplantation im Rahmen eines Akuten Koronarsyndroms sollte in jedem Fall eine kombinierte Prophylaxe von mindestens 12 Monaten erfolgen.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,46 @@
+Das Oropharynxkarzinom (deutsche, kaum gebräuchliche Übersetzung: Mundrachenkrebs) ist eine Krebserkrankung im Mundrachen (Pars oralis pharyngis, Oropharynx oder auch Mesopharynx genannt). Zusammen mit dem Hypopharynxkarzinom und dem Nasopharynxkarzinom gehört das Oropharynxkarzinom zu der Gruppe der Rachenkrebse (Pharynxkarzinome), die wiederum zur Klasse der Kopf-Hals-Tumoren gehören. Es handelt sich meist um Plattenepithelkarzinome. Daneben treten noch maligne Lymphome, adenoid-zystische und Adenokarzinome, sowie Mukodermoidkarzinome auf.
+
+
+== Oropharynx ==
+Zum Oropharynx zählen die Bereiche ab dem weichen Teil des Gaumens, die Mandeln und der Zungengrund (der Bereich an dem die Zunge angewachsen ist). Am häufigsten sind die Mandeln von der Krebsentstehung betroffen (Tonsillenkarzinom).
+
+
+== Epidemiologie ==
+Die Inzidenz für Oropharynxkarzinome liegt zwischen 0,5 und 2 pro 100.000 Einwohner und Jahr. Dabei erkranken Männer etwa drei- bis viermal so häufig wie Frauen. Die Erkrankung bricht meist zwischen dem sechzigsten und siebzigsten Lebensjahr aus.
+
+
+== Ätiologie ==
+Bei der Entwicklung eines Oropharynxkarzinom spielen der Lebensstil sowie umwelt- und genetische Faktoren eine große Rolle.
+Die meisten Patienten mit einem Oropharynxkarzinom waren viele Jahre kanzerogenen, das heißt krebserzeugenden Stoffen ausgesetzt (exponiert). Für Tabakkonsum in Form von Zigaretten, Pfeifentabak und Zigarren besteht eine unmittelbare Dosis-Wirkung-Beziehung. Sie lässt das Risiko für eine Krebserkrankung im Hals- und Rachenraum erheblich ansteigen. So konnte bei 85 Prozent der an Kopf-Hals-Krebs erkrankten Patienten ein erhöhter Konsum von Alkohol und Tabak festgestellt werden.Speziell Alkoholmissbrauch stellt einen Kofaktor bei der Ausbildung eines Oropharynxkarzinoms dar. Der Wirkungsmechanismus des Alkohols ist dabei noch nicht vollständig geklärt. Verschiedene Modelle werden zurzeit diskutiert: eine Ansammlung der Karzinogene an den Schleimhäuten und systemische Effekte des Alkoholmissbrauchs, wie allgemeine Immunschwäche und Schädigung der Leber. Außerhalb Europas spielt noch der Konsum von Kautabak eine erhebliche Rolle bei der Entstehung von Oropharynxkarzinomen.Ob eine schlechte Mundhygiene oder schlecht sitzende Zahnprothesen bei der Entwicklung eines Oropharynxkarzinoms einen Einfluss haben, konnte bisher nicht nachgewiesen werden.Offensichtlich besteht auch ein Zusammenhang mit Infektionen mit dem HP-Virus. Eine Fall-Kontroll-Studie fand bei Patienten, die an einem Oropharynxkarzinom erkrankt waren, signifikant gehäuft eine vorausgegangene Infektion mit einem HP-Virus (Typ 16 und andere) im Vergleich zur nicht erkrankten Kontrollgruppe. Der Zusammenhang war unabhängig vom Alkohol- oder Tabakkonsum. Die Studie kommt zu dem Schluss, dass eine HPV-Infektion «hochgradig mit dem Auftreten eines Oropharynxkarzinoms bei Patienten mit oder ohne die bekannten Risikofaktoren von Tabak- oder Alkoholkonsum assoziiert.»
+
+
+== Diagnose ==
+Oropharynxkarzinome können häufig schon durch eine Spiegeluntersuchung diagnostiziert werden. In aller Regel erfolgt zusätzlich eine Panendoskopie des gesamten Rachenraums mit Intubationsnarkose. Dem Patienten werden dabei per Biopsie kleine Gewebeproben entnommen, die zur Absicherung der Diagnose feingeweblich untersucht werden.
+Für das Tumorstaging und die Therapieplanung werden bildgebende Verfahren, wie Sonographie (Ultraschall), Computertomographie (CT) oder Magnetresonanztomographie (MRT), eingesetzt. Während die Sonographie einen guten Überblick über einen eventuellen Befall der Lymphknoten verschafft, können mit den beiden anderen bildgebenden Verfahren auch die Tumorausdehnung in die Tiefe bestimmt und eine Infiltration weiterer Strukturen wie z. B. der Halsgefäße beurteilt werden.
+Zur Untersuchung auf Fernmetastasen wird in der Regel eine Röntgen- oder CT-Aufnahme der Lunge sowie eine Ultraschalluntersuchung der Leber erfolgen. Zum Ausschluss von Tochtergeschwülsten im Knochen kann eine Szintigraphie erfolgen.Ein Oropharynxkarzinom wird nach dem Tumordurchmesser in seiner größten Ausbreitung wie folgt klassifiziert:
+T1 Tumor 2 cm oder kleiner
+T2 Tumor größer als 2 cm, aber nicht größer als 4 cm
+T3 Tumor größer als 4 cm in seiner größten Ausdehnung
+T4 Tumorinfiltration in umliegende Strukturen, wie beispielsweise Knochen, Halsweichteile oder tiefe Zungenmuskulatur, unabhängig von der TumorgrößeWeder Diagnosestellung noch -ausschluss sind über eine Blutuntersuchung möglich.
+
+
+== Therapie ==
+Für die Therapie eines Oropharynxkarzinoms ist die Lage des Tumors ausschlaggebend. So werden Karzinome der Tonsillen (Mandeln) in erster Linie operiert. Bei größeren Tumoren erfolgt meist noch eine Strahlentherapie. Bei Gaumen- oder Zungenkarzinomen ist eine hochdosierte Strahlentherapie oft das Mittel der Wahl. Sie erfolgt meist fünfmal pro Woche über einen Zeitraum von sieben Wochen. Die Wirksamkeit der Therapie wird durch eine zusätzliche Chemotherapie noch deutlich gesteigert.Für die Behandlung der regionären Lymphknoten werden verschiedene chirurgische Formen der Dissektion und En-bloc-Resektion angewendet.
+
+
+== Prognose ==
+Die Prognose wird im Wesentlichen vom Metastasierungsverhalten des Tumors bestimmt. Mit entsprechender Behandlung werden folgende durchschnittliche Fünf-Jahre-Überlebensraten erreicht:
+Stadium I: 90 %
+Stadium II: 75 %
+Stadium III: 45 bis 75 %
+Stadium IV: < 35 %Patienten über 70 Jahre haben meist eine schlechtere Überlebensrate als junge Patienten.Patienten, bei denen HPV im Tumor nachgewiesen wurde, haben nach Operation und Strahlentherapie (zum Teil gleichzeitig Chemotherapie) eine bessere Prognose als ohne HPV-Nachweis im Tumor. Anstelle des Nachweises einer high-risk HPV-DNA kann auch p16 als Surrogatparameter verwendet werden.
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+I. Baumann u. a.: Lebensqualität bei Patienten mit Oropharynxkarzinom. In: HNO. 54/2006, S. 376–381, ISSN 0017-6192.
+M. C. L. Seibolt: Retrospektive Studie zur gesundheitsbezogenen Lebensqualität nach primär operiertem und adjuvant bestrahltem Oropharynxkarzinom. Dissertation. Universität Tübingen, 2005.
+P. Koivunen u. a.: Incidence and survival in patients with pharyngeal cancer in northern Finland. In: Eur Arch Otorhinolaryngol. 259/2002, S. 543–546.
+M. D. Mignogna u. a.: Costs and effectiveness in the care of patients with oral and pharyngeal cancer: analysis of a paradox. In: Eur J Cancer Prev. 11/2002, S. 205–208.

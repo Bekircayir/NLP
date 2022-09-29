@@ -1,0 +1,45 @@
+SunEdison ist ein US-amerikanisches Halbleiterunternehmen mit Sitz in St. Peters, Missouri. SunEdison notiert an der New York Stock Exchange und ist Teil des S&P MidCap 400 Indizes. Das Unternehmen wurde 1959 als Monsanto Electronic Materials Company (MEMC) gegründet und war Teil der Monsanto-Gruppe. Seit 30. Mai 2013 firmiert MEMC unter dem Namen SunEdison.
+
+
+== Geschichte ==
+
+
+=== Gründung ===
+MEMC wurde am 6. August 1959 vom US-Chemiekonzern Monsanto gegründet. Noch 1959 begann MEMC die Produktion von 19-mm-Silicium-Wafern in St. Charles County, Missouri. Als eines der ersten Unternehmen im Bereich der Produktion von Halbleiterscheiben wurde MEMC zum Pionier und führte Innovationen ein, die über Jahre hinaus zum Industriestandard wurden. So nutzte MEMC den Czochralski-Prozess, führte das chemisch-mechanische Polieren (CMP) ein und begann die Produktion von 1,5-Zoll-Wafern. 1966 wurden auch die ersten Reaktoren zur Produktion von EPI-Scheiben installiert sowie die Zero-Dislocation-Silicium-Kristalle durch den MEMC-Forscher Horst Kramer entdeckt.
+
+
+=== Expansion ===
+In den 1970er-Jahren eröffnete MEMC eine Produktionsanlage in Kuala Lumpur (Malaysia). Schrittweise wurden die Wafer-Durchmesser bis auf 5 Zoll erhöht. 1981 errichtete MEMC als erstes nicht-japanisches Unternehmen eine Produktions- und Entwicklungsstätte in Japan, namentlich in Utsunomiya. Drei Jahre später wurde die Produktion von 200-mm-Wafern aufgenommen, MEMC gelang dies als erstes Unternehmen auf kommerzieller Basis.
+
+
+=== Eigentümerwechsel ===
+Der hohe Preisdruck durch japanische Unternehmen brachte MEMC in den späten 1980er-Jahren zunehmend unter Druck. Trotz steigender Umsatzzahlen konnte MEMC keine Gewinne erzielen und wurde von Monsanto verschiedenen Firmen zum Kauf angeboten. 1989 wurde MEMC von Dynamit Nobel Silicons (DNS), einer Tochter der Hüls AG, gekauft, die wiederum zum VEBA Konzern gehörte. DNS betrieb zu diesem Zeitpunkt Silicium-Wafer-Werke in Meran und Novara, Italien. Diese wurden in die neue MEMC Electronic Materials, Inc. eingebracht. Hüls unterstützte die neue Tochter mit 50 Mio. USD, die zum Teil in Forschung und Entwicklung flossen. MEMC gelang es 1991 als erstem Unternehmen 300-mm-Wafer kommerziell zu produzieren und granulares Polysilicium zu erzeugen. 1995 erwarb MEMC Produktionskapazitäten für granulares Polysilicium in Pasadena, Texas.
+Mit einem IPO im Jahr 1995 wurde MEMC zur öffentlich an der New York Stock Exchange gehandelten Aktiengesellschaft. Im Rahmen des IPO wurden mehr als 440 Mio. USD erzielt. VEBA gab dabei einen Teil seiner Anteile an MEMC ab, behielt jedoch die Mehrheit. 1998 wurde MEMC von einem Abschwung im zyklischen Halbleitermarkt hart getroffen und musste bei 759 Mio. USD Umsatz einen Verlust von 316 Mio. USD verzeichnen. Auch die folgenden Jahre zeigten keine Umsatz- oder Ergebnisverbesserung.
+Im Juni 2000 ging die VEBA AG, die immer noch 72 % an MEMC hielt, zusammen mit der VIAG in der neu gegründeten E.ON AG auf. E.ON wollte sich auf das Kerngeschäft der Stromgewinnung konzentrieren und beauftragte Merrill Lynch mit dem Verkauf von MEMC. Käufer wurden nicht gefunden und zudem kündigte MEMC Mitte des Jahres an kurz vor dem Konkurs zu stehen. Schlussendlich konnte E.ON einen Verkauf seiner Anteile an die Private-Equity-Firma Texas Pacific Group (TPG) aushandeln – zum symbolischen Kaufpreis von 1 USD, sowie der Zusicherung von Kreditlinien über 150 Mio. USD.
+Im Rahmen einer Restrukturierung der Schulden von MEMC konnte TPG seinen Anteil an MEMC aufstocken. Neben Maßnahmen zur Kostenreduktion – so wurde die Mitarbeiterzahl von 7.000 auf 4.700 reduziert – konnte TPG Kunden davon überzeugen, dass MEMC überleben wird; der Marktanteil von MEMC stieg wieder. 2002 konnte MEMC wieder Gewinne schreiben.
+Nach einer wesentlichen Verbesserung der Unternehmenskennzahlen konnte TPG 2005 ihren Aktienanteil durch ein secondary offering auf 34 % reduzieren und dabei mehr als 750 Mio. USD erlösen. Einnahmen aus dem Verkauf kamen MEMC nicht zugute.
+
+
+=== Einstieg in den Solarmarkt ===
+Mit dem Boom der Photovoltaikindustrie konnte MEMC ab 2006 zahlreiche langfristige Lieferverträge für Solarwafer mit mehreren Mrd. USD Volumen abschließen, so etwa mit Suntech Power Tainergy Tech, Gintech Energy, oder Conergy. Basierend auf hohen Spotpreisen wurden in diesen Verträgen nicht nur Abnahmevolumina zu Festpreisen vereinbart, sondern MEMC konnte auch Vorauszahlungen vereinnahmen. Bereits Mitte 2008 kam es aber durch den Preisverfall für Solarwafer zu Unstimmigkeiten mit den Vertragspartnern. MEMC musste auf die Halbierung des Liefervertrages über 8 Mrd. USD mit Conergy eingehen. Trotzdem klagte Conergy die Unwirksamkeit des Vertrages Anfang 2009 ein. Eine außergerichtliche Einigung erfolgte 2010, in der MEMC der weiteren Reduzierung des Vertragsvolumens auf weniger als eine Mrd. USD zustimmte. 
+
+
+=== Jüngste Vergangenheit ===
+2009 gründete MEMC ein Joint Venture mit Q-Cells, das auf die Errichtung und den Betrieb von Photovoltaik-Kraftwerken spezialisiert ist. MEMC investierte als 50-Prozent-Partner 100 Mio. USD in das gemeinsame Unternehmen zur Errichtung des 54 MWp Solarfelds Gänsdorf in Straßkirchen, Bayern. Wie geplant wurde die Anlage 2010 nach Inbetriebnahme an die Nordcapital Fondsgesellschaft verkauft.
+Ende 2009 kaufte MEMC SunEdison, ein nordamerikanisches Unternehmen, das Solargroßprojekte plant, finanziert und errichtet und der größte Betreiber von Solaranlagen in Nordamerika ist. Die Übernahme erfolgte für 200 Mio. USD, davon 70 % in MEMC-Aktien und 30 % in bar. Weitere 90 Mio. USD waren als erfolgsabhängige Prämie vereinbart, die beim Erreichen bestimmter Ziele 2010 fällig wurden.
+Mitte 2010 erwarb MEMC für 76 Mio. USD die in Kalifornien beheimatete Firma Solaicx, deren kontinuierliche Kristallziehtechnologie die kostengünstige Herstellung von monokristallinen Solarwafern ermöglicht.
+Anfang 2011 kündigten Samsung Fine Chemicals und MEMC an, ein 50/50-Joint Venture in Ulsan, Südkorea zu gründen. Dieses soll hochreines Polysilicium mit einer Startkapazität von 10.000 Tonnen pro Jahr produzieren.
+Im Dezember 2011 wurden weitreichende Restrukturierungsmaßnahmen verkündet, im Zuge dessen 1300 Mitarbeiter (18 % der Belegschaft) weltweit abgebaut und die Kapazitäten für die Polysiliciumproduktion und die Produktion von Solar-Wafern deutlich reduziert werden sollen. MEMC will sich verstärkt auf das Projektgeschäft im Bereich PV-Energie sowie den Halbleiter-Bereich fokussieren. Die Produktion von Solarmodulen und Vorstufen soll stark reduziert werden.
+Am 30. Mai 2013 wurde verkündet, dass das Unternehmen zukünftig als SunEdison firmiert. Die Umbenennung an der Börse erfolgte am 3. Juni 2013.
+Der Bereich Erneuerbare Stromerzeugung wurde in eine YieldCo umgewandelt und Mitte 2014 unter dem Namen TerraForm an die Börse gebracht.
+Am 21. April 2016 erfolgte ein Insolvenz-Antrag gemäß Chapter 11.
+
+
+== Geschäftstätigkeit ==
+Seit der Akquisition von SunEdison gliedert MEMC seine Geschäfte in drei Segmente.
+Semiconductor Wafers beliefert die Elektronikindustrie mit Halbleitern. Die Produktpalette von MEMC umfasst Wafer bis zu einem Durchmesser von 300 mm. Produktionskapazitäten von rund 2 Mio. Wafern pro Monat sind vorhanden. Neben den asiatischen Produktionsstandorten in Utsunomiya, Japan, Chonan (Südkorea), Hsinchu (Taiwan, Taisil), Kuala Lumpur und Ipoh (beide Malaysia) betreibt MEMC auch noch einen Standort in Meran und Novara (Italien). Die Produktionsanlagen in den USA (St. Peters (Missouri), Sherman (Texas)) sollen nach Asien verlagert werden. Neben polierten und epitaxierten Wafern bietet MEMC High-Resistivity- (hoher elektrischer Widerstand) und SOI-Wafer an. MEMC konkurriert in diesem Segment mit SUMCO, Shin-Etsu, Siltronic und Siltron. MEMCs Marktanteil liegt bei rund 12 %.
+Solar Materials: MEMC stellt Polysilicium in Solar- und Halbleiter-Qualität in Pasadena, (Texas) her. Die Produktionskapazitäten betragen 10.000 Tonnen, ein Ausbau auf 12.500 t ist angekündigt. Das Material wird hauptsächlich selbst verwendet, Verkäufe erfolgten jedoch in 2006–2009. Neben dem opportunistischen Verkauf von Silanen werden vor allem Solarwafer vertrieben. Diese werden teils selbst hergestellt, da die eigenen Kapazitäten von 600 MW nicht ausreichen jedoch auch über Lohnfertigungsverträge von Partnern erstellt. Der Bereich Poly in Meran, Südtirol wurde geschlossen, die monokristalline Produktion läuft weiter.
+Das Geschäftsmodell von SunEdison erlaubt es Kunden ohne Vorfinanzierung Solarstrom zu beziehen. SunEdison sammelt dabei Gelder von Kapitalanlegern ein und verwendet diese, um Solaranlagen – teils mit MEMC-Solar-Wafern – zu errichten. Die Anlagen werden nach Errichtung von SunEdision im Rahmen von Service-Verträgen betrieben. Die Kapitalanleger erhalten Rückflüsse aus produzierten Strommengen einschließlich staatlicher Förderungen. Der Solarstrom wird an Stromerzeuger oder andere Unternehmer abgegeben; das Modell ist insbesondere in den USA relevant, wo zahlreiche Bundesstaaten Mindestquoten für „grünen“ Strom für die nächsten Jahre festschreiben.
+
+
+== Einzelnachweise ==

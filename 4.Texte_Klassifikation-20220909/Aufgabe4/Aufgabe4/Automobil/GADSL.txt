@@ -1,0 +1,16 @@
+Die Global Automotive Declarable Substance List (GADSL) ist eine Liste von möglicherweise verwendeten Reinstoffen in Autoteilen.
+Sie ist das Resultat des jahrelangen weltweiten Bestrebens von Vertretern der Automobilindustrie zur Vereinfachung der Kommunikation und des Informationsaustausches bezüglich der Verwendung bestimmter chemischer Reinstoffe in Autoteilen.
+Die GADSL enthält Stoffverbote sowie Deklarationspflichten und ist ein Hilfsmittel zur Umsetzung von weiteren Maßnahmen z. B. für die spätere stoffliche Verwertung von Altautos in der EU einschließlich der Richtlinie 2000/53/EG über Altfahrzeuge.
+Sie wird von der Global Automotive Stakeholder Group (GASG) gepflegt und erscheint mindestens einmal jährlich neu überarbeitet (im Allgemeinen im Februar). Die notwendigen Arbeiten werden über drei regionale Gruppen (Amerika, Europa/Afrika/Naher Osten und Asien-Pazifik) koordiniert. In allen drei Gruppen sind Automobilhersteller, Zulieferer und Rohstofflieferanten vertreten.
+Die Deklaration in IMDS erfolgt auf der Basis der GADSL.
+
+
+== Siehe auch ==
+Altfahrzeugverordnung
+IMDS
+HC-Emissionen
+REACH
+
+
+== Weblinks ==
+www.gadsl.org

@@ -1,0 +1,33 @@
+Intelsat ist ein 1964 gegründetes Technologieunternehmen mit Sitz in Luxemburg. Es bietet die Übertragungskapazität für nationale und internationale Kommunikation, wie Sprach-, Datenübertragung, Internetanbindung und Fernsehübertragung mittels geostationärer Kommunikationssatelliten gegen Entgelt an. Seit dem Start des bahnbrechenden Intelsat I wurden diese Satelliten ständig weiterentwickelt und in der Übertragungskapazität gesteigert. Intelsat-Satelliten senden in den C-Band- und Ku-Band-Frequenzen.
+Die Aktien des Unternehmens werden an der New York Stock Exchange gehandelt.
+
+
+== Geschichte ==
+
+Intelsat I war der erste kommerzielle Nachrichtensatellit auf einer geostationären Umlaufbahn. Er wurde am 6. April 1965 auf der Spitze einer Delta-D-Rakete in den Weltraum gebracht.
+Der Satellit wurde von der New York Times mangels eines griffigen Namens Early Bird (Frühaufsteher) getauft. Er wurde von der US-Nachrichtengesellschaft Comsat erworben und Jahre später an die weltweit tätige Nachrichtensatellitenorganisation Intelsat weiter veräußert. Early Bird übertrug von seiner Position 35.800 km über dem Äquator am 28° westlichen Längengrad am 2. Mai 1965 die Fernsehunterhaltungssendung „Premiere im Weltraum“ auf beide Seiten des Atlantiks.
+Early Bird konnte 240 Telefongespräche oder eine Fernsehsendung übertragen. Ohne Antrieb wog er nur 38 Kilogramm. Die Sendeleistung betrug 40 Watt und die Lebensdauer 1,5 Jahre. Er hatte einen Durchmesser von 72 Zentimetern und war 59 Zentimeter lang.
+Die Betreiberorganisation wurde am 20. August 1964 von elf teilnehmenden Ländern als International Telecommunications Satellite Consortium gegründet. 1973 mit 80 teilnehmenden Staaten wurde der Name auf International Telecommunications Satellite Organization (ITSO) geändert. Am 18. Juli 2001 wurde Intelsat nach 37 Jahren als zwischenstaatliche Organisation privatisiert, und der Name wird seitdem als Intelsat geschrieben. Im August 2004 wurde das Unternehmen für 3,1 Milliarden US-Dollar an vier US-amerikanische und britische Private-Equity-Firmen verkauft: Madison Dearborn Partners, Apax Partners, Permira and Apollo Global Management. Eine Fusion mit PanAmSat wurde eingeleitet.
+2004 kaufte Intelsat eine Reihe von Satelliten für den amerikanischen Markt (Telstar 5, 6, 7, 8 und 13) von dem kanadischen Unternehmen Loral Skynet. Diese wurden unter dem Namen Intelsat Americas in die Flotte eingereiht.
+Im Juni 2007 kaufte der Finanzinvestor BC Partners für 5 Milliarden Dollar 76 Prozent an dem Unternehmen. Intelsat hatte bis Dezember 2010 seinen Firmensitz auf Bermuda, danach wurde er nach Luxemburg verlegt. Die operative Hauptzentrale ist jedoch in McLean, Virginia (USA) stationiert.
+
+
+== Intelsat Satellitengenerationen ==
+Seit dem Start von Intelsat-1 wurde die Leistung der einzelnen Generationen der Intelsat Satelliten stets weiter gesteigert. Einen Überblick der Leistungsentwicklung bietet die folgende Liste:
+Laut Medienberichten von 2005 gibt Intelsat für den Start eines Satelliten und seinen Betrieb im ersten Jahr etwa 200 Millionen US-Dollar aus, hinzu kommen Versicherungskosten.
+
+
+== Siehe auch ==
+Liste der geostationären Satelliten
+Erdfunkstelle Fuchsstadt
+Intersputnik
+
+
+== Weblinks ==
+
+Intelsat-Website (englisch)
+Intelsat-Starts bis Intelsat 10-02 (2004)
+Intelsat (mit Leistungsangabe der Transponderkanäle bis zur INTELSAT 5A Generation)
+
+
+== Quellen ==

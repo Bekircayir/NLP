@@ -1,0 +1,121 @@
+Die biologische Sicherheitsstufe ist eine Gefährlichkeitseinstufung für gentechnische Arbeiten in gentechnischen Anlagen. Diese wird in Deutschland durch das Gentechnikgesetz (GenTG) festgelegt und durch die Gentechnik-Sicherheitsverordnung (GenTSV) näher ausgeführt. Durch die gentechnischen Arbeiten werden gentechnisch veränderte Organismen (GVO) hergestellt. Bei den gentechnischen Anlagen kann es sich um ein Labor, aber auch um andere Bereiche handeln. In diesen gentechnischen Anlagen müssen bestimmte Sicherheitsmaßnahmen beachtet werden. Dementsprechend werden die gentechnischen Arbeiten nach § 7 Gentechnikgesetz in vier definierte Sicherheitsstufen eingeteilt, wobei Sicherheitsstufe 4 die höchsten Anforderungen aufweist. Die Sicherheitsstufen bauen aufeinander auf, so dass die Regelungen der niedrigeren Sicherheitsstufe auch für die höheren Stufen gelten. Falls die gentechnischen Arbeiten in Laboratorien stattfinden, werden diese im Laborjargon als S1-Labor bis S4-Labor bezeichnet.
+Für Arbeiten mit biologischen Arbeitsstoffen, insbesondere mit Mikroorganismen, gilt nach der Biostoffverordnung eine ähnliche Einstufung in vier biologische Schutzstufen.
+
+
+== Rechtliche Grundlagen in Deutschland ==
+Das Gesetz zur Regelung der Gentechnik (Gentechnikgesetz, GenTG) regelt gentechnische Arbeiten in gentechnischen Anlagen. Durch die gentechnischen Arbeiten werden gentechnisch veränderte Organismen (GVO) hergestellt. Auch Tätigkeiten mit GVO, wie z. B. ihre Vermehrung, Lagerung oder Zerstörung gelten nach § 3 Gentechnikgesetz als gentechnische Arbeiten. Folglich kann es sich bei den gentechnischen Anlagen um ein Labor, einen Produktionsbereich, ein Gewächshaus oder einen Tierhaltungsraum handeln. Ein Zweck des Gesetzes ist, „unter Berücksichtigung ethischer Werte, Leben und Gesundheit von Menschen, die Umwelt in ihrem Wirkungsgefüge, Tiere, Pflanzen und Sachgüter vor schädlichen Auswirkungen gentechnischer Verfahren und Produkte zu schützen und Vorsorge gegen das Entstehen solcher Gefahren zu treffen“ (§ 1 Gentechnikgesetz). Dementsprechend werden die gentechnischen Arbeiten nach § 7 GenTG in vier definierte Sicherheitsstufen eingeteilt.
+Die Verordnung über die Sicherheitsstufen und Sicherheitsmaßnahmen bei gentechnischen Arbeiten in gentechnischen Anlagen (Gentechnik-Sicherheitsverordnung, GenTSV) ist eine Verordnung aufgrund einer Ermächtigung im Gentechnikgesetz. Das Ziel ist es, „gentechnische Arbeiten in gentechnischen Anlagen […] nach Maßgabe der §§ 4 bis 7 den in § 7 Abs. 1 Gentechnikgesetz genannten Sicherheitsstufen zuzuordnen“ (§ 2 Gentechnik-Sicherheitsverordnung). In § 1 GenTSV wird darauf hingewiesen, dass nach anderen Vorschriften erforderliche Sicherheitsmaßnahmen „unberührt bleiben“, also weiterhin gelten. Dies gilt unter anderem für die Vorschriften der Biostoffverordnung mit den darin vorgeschriebenen biologischen Schutzstufen oder für die Vorschriften der Gefahrstoffverordnung. § 4 GenTSV regelt die Grundlagen der Risikobewertung und der Sicherheitseinstufung. Dementsprechend muss nach § 5 GenTSV eine Risikobewertung von Organismen erfolgen, das Gefährdungspotential von Spender- und Empfängerorganismus ergibt sich aus der Zuordnung der Organismen zu den Risikogruppen 1 bis 4. In § 6 und Anhang II GenTSV sind biologische Sicherheitsmaßnahmen aufgeführt, die für die Gesamtrisikobewertung zu berücksichtigen sind. § 7 GenTSV schließlich regelt die Sicherheitseinstufung, d. h. die Einordnung der gentechnischen Arbeiten in die vier Sicherheitsstufen. Die Sicherheitsstufen umfassen Sicherheitsmaßnahmen, die in §§ 8–13 und in den Anhängen II–V GenTSV weiter beschrieben sind.
+
+
+== Risikogruppen ==
+
+Durch § 5 Gentechnik-Sicherheitsverordnung (GenTSV) erfolgt die Risikobewertung von Organismen. Das Gefährdungspotential von Spender- und Empfängerorganismus ergibt sich aus der Zuordnung der Organismen zu den Risikogruppen 1 bis 4. Diese Risikogruppen im Sinne der Gentechnik-Sicherheitsverordnung können identisch mit den Risikogruppen im Sinne der Biostoffverordnung sein, sie können aber auch einer davon abweichenden Risikogruppe zugeordnet werden.
+Nach § 4 Gentechnikgesetz ist eine Zentrale Kommission für die Biologische Sicherheit (Kommission) eingerichtet worden. Diese berät die Bundesregierung und die Länder in sicherheitsrelevanten Fragen zur Gentechnik. Nach § 5 Abs. 6 GenTSV veröffentlicht das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz nach Anhörung der Kommission „eine Liste mit Legaleinstufungen von Mikroorganismen nach dem geltenden EG-Arbeitsschutzrecht sowie von Organismen, die den Risikogruppen nach den allgemeinen Kriterien gemäß Absatz 1 Satz 1 zugeordnet wurden“ (§ 5 Gentechnik-Sicherheitsverordnung), die als sogenannte „Organismenliste – Liste risikobewerteter Spender- und Empfängerorganismen“ auch im Internet abrufbar ist. Sie ist die geeignete Literaturquelle für die konkrete Einstufung in eine Risikogruppe. Falls die für die geplanten gentechnischen Arbeiten vorgesehenen Organismen nicht in dieser Liste aufgeführt sind, müssen sie anhand der in Anhang I GenTSV aufgeführten Kriterien eingestuft werden.
+
+
+== Sicherheitsstufen ==
+Nach dem Gentechnikgesetz werden die gentechnischen Arbeiten in vier definierte Sicherheitsstufen eingeteilt. Die Vorschriften werden als Stufen bezeichnet, da die Regelungen der niedrigeren Sicherheitsstufe auch für die höheren Stufen gelten. Die Sicherheitsstufen mit den dazugehörenden biologischen Sicherheitsmaßnahmen werden durch die Gentechnik-Sicherheitsverordnung näher ausgeführt. Dort sind in Anhang III Teil A die Sicherheitsmaßnahmen für den Laborbereich, in Anhang III Teil B die Sicherheitsmaßnahmen für den Produktionsbereich, in Anhang IV die Sicherheitsmaßnahmen für Gewächshäuser und in Anhang V die Sicherheitsmaßnahmen für Tierhaltungsräume aufgeführt und den jeweiligen Sicherheitsstufen 1 bis 4 zugeordnet. Die Sicherheitsstufen werden im Laborjargon auch abgekürzt und die Labore, in denen gentechnische Arbeiten durchgeführt werden, entsprechend als S1-Labor bis S4-Labor bezeichnet. Falls in den Gewächshäusern bzw. in den Tierhaltungsräumen auch mit gentechnisch veränderten Mikroorganismen gearbeitet wird, müssen sinngemäß auch die Anforderungen des Anhangs III für Laboratorien der entsprechenden Sicherheitsstufe beachtet werden. Die folgenden Beispiele für Maßnahmen der Sicherheitsstufen geben einen Überblick, sind jedoch nicht vollständig.
+
+
+=== Sicherheitsstufe 1 ===
+„Der Sicherheitsstufe 1 sind gentechnische Arbeiten zuzuordnen, bei denen nach dem Stand der Wissenschaft nicht von einem Risiko für die menschliche Gesundheit und die Umwelt auszugehen ist.“ (§ 7 Gentechnikgesetz)
+Eine Anlage, in der gentechnische Arbeiten der Sicherheitsstufe 1 durchgeführt werden sollen, muss nach §§ 8 und 12 GenTG angezeigt werden. In Deutschland gibt es 4696 gentechnische Anlagen der Sicherheitsstufe 1 (Stand Dezember 2017).
+
+
+==== Laborbereich S1 ====
+
+Die Sicherheitsstufe 1 für den Laborbereich umfasst nach Anhang III Teil A GenTSV Sicherheitsmaßnahmen, die denen der Schutzstufe 1 nach der BioStoffV und den Technischen Regeln für Biologische Arbeitsstoffe, insbesondere der TRBA 100 und TRBA 500, weitgehend entsprechen. Dies betrifft beispielsweise Waschgelegenheiten, Händedesinfektion, Umkleidemöglichkeiten, Tragen von Schutzkleidung, Reinigung von Arbeitsplätzen und Arbeitsmitteln, die Schädlingsbekämpfung oder die technische Ausstattung von Raum, Türen und Oberflächen. Auch für die Verwendung von scharfen oder spitzen Gegenständen (wie Kanülen), Pipettierhilfen und die Vermeidung von Bioaerosolen sind die Maßnahmen ähnlich.
+Es gibt jedoch auch darüber hinausgehende Forderungen, diese sind beispielsweise, dass der Gentechnik-Arbeitsbereich mit Angabe der zugelassenen Sicherheitsstufe zu kennzeichnen ist. Die GVO müssen sachgerecht aufbewahrt werden. Innerhalb des Betriebsgeländes muss ein Autoklav vorhanden sein. Wenn sich ein Mitarbeiter verletzt, muss er dies unverzüglich dem Projektleiter melden. Wie in der Schutzstufe 1 gilt auch hier, dass im Labor Essen und Trinken verboten ist, weiterhin ist ausgeführt, dass Nahrungs- und Genussmittel sowie Kosmetika nicht im Arbeitsbereich gelagert oder verwendet werden dürfen. Stattdessen müssen für die Mitarbeiter Bereiche eingerichtet werden, „in denen sie ohne Beeinträchtigung ihrer Gesundheit durch gentechnisch veränderte Organismen essen, trinken, rauchen, schnupfen oder sich schminken können.“ (Anhang III Teil A GenTSV)
+
+
+==== Produktionsbereich S1 ====
+Für die Produktion gelten die Maßnahmen der Sicherheitsstufe 1 für den Laborbereich sinngemäß. Darüber hinaus werden noch Sicherheitsmaßnahmen aufgeführt, die die in der Produktion verwendete Apparatur, den Fermenter, betreffen. Beispielsweise muss sichergestellt werden, dass nicht versehentlich größere Mengen an Kultursuspension austreten, die noch lebensfähige Mikroorganismen oder Zellkulturen enthalten.
+
+
+==== Gewächshäuser S1 ====
+Für Gewächshäuser, in denen gentechnisch veränderte Pflanzen kultiviert werden, müssen zum Teil ähnliche Sicherheitsmaßnahmen wie im Labor eingehalten werden. Dies betrifft die Kennzeichnung als Gentechnik-Arbeitsbereich, die Bereitstellung einer ausreichenden Arbeitsfläche für jeden Mitarbeiter und die Meldung von Verletzungen. Auch für Essen, Trinken usw. gelten die bereits genannten Regeln.
+Weitere Maßnahmen betreffen beispielsweise den Boden des Gewächshauses, hier sollen die Gehwege befestigt sein. Das versehentliche Freisetzen der GVO aus dem Gewächshaus ist auf das geringstmögliche Maß zu reduzieren. Allerdings dürfen Fenster oder andere Öffnungen des Gewächshauses zu Belüftungszwecken geöffnet werden. Es muss ein Programm zur Bekämpfung von Pflanzenkrankheiten, Unkräutern, Insektenbefall und Nagetieren erstellt werden. Die bei den gentechnischen Arbeiten verwendeten Pflanzen werden auf dem Gelände, jedoch außerhalb des Gewächshauses, entsorgt. Hierbei ist es üblich, die Vermehrungsorgane (siehe Gametangium) abzuschneiden, um sie vermehrungsunfähig zu machen.
+
+
+==== Tierhaltungsräume S1 ====
+Der Tierhaltungsraum ist ein Raum oder eine Einrichtung, in der Vieh-, Zucht- oder Versuchstiere gehalten werden und auch kleinere operative Eingriffe durchgeführt werden. Wie bereits bei den anderen Bereichen genannt, erfolgt auch hier die Kennzeichnung als Gentechnik-Arbeitsbereich, die Bereitstellung einer ausreichenden Arbeitsfläche für jeden Mitarbeiter und die Meldung von Verletzungen. Für Essen, Trinken usw. gelten die bereits genannten Regeln. Die Mitarbeiter sollen geeignete Schutzkleidung und geeignetes Schuhwerk tragen, beim Verlassen des Bereiches sind diese abzulegen oder zu säubern. Nach dem Umgang mit den Tieren oder Tierabfällen müssen sie sich die Hände desinfizieren oder waschen, dies gilt auch, wenn der Verdacht auf eine Kontamination besteht.
+Der Tierhaltungsraum muss leicht zu reinigen und zu desinfizieren und ausreichend belüftet sein. Weiterhin müssen die Tierhaltungsräume so beschaffen sein, dass keine Flucht der Tiere möglich ist und die Wildformen der entsprechenden Tierarten nicht eindringen können. Die Fortpflanzung der Tiere muss verhindert werden, sofern die Reproduktion nicht Teil des Versuchs ist. Die Tiere müssen für den Versuch zu identifizieren sein.
+
+
+=== Sicherheitsstufe 2 ===
+„Der Sicherheitsstufe 2 sind gentechnische Arbeiten zuzuordnen, bei denen nach dem Stand der Wissenschaft von einem geringen Risiko für die menschliche Gesundheit oder die Umwelt auszugehen ist.“ (§ 7 Gentechnikgesetz)
+Eine Anlage, in der gentechnische Arbeiten der Sicherheitsstufe 2 durchgeführt werden sollen, muss nach §§ 8 und 12 GenTG angemeldet werden. In Deutschland gibt es 1708 gentechnische Anlagen der Sicherheitsstufe 2 (Stand Dezember 2017).
+
+
+==== Laborbereich S2 ====
+
+Die Sicherheitsstufe 2 für den Laborbereich umfasst nach Anhang III Teil A GenTSV Sicherheitsmaßnahmen, die denen der Schutzstufe 2 nach der BioStoffV und den Technischen Regeln für Biologische Arbeitsstoffe, insbesondere der TRBA 100, weitgehend entsprechen. Dies betrifft beispielsweise die Kennzeichnung mit dem Symbol für Biogefährdung, Zutrittsbeschränkung zum Labor, Verwendung einer Sicherheitswerkbank für Tätigkeiten mit Aerosolbildung oder die technische Ausstattung von Raum, Türen und Oberflächen sowie Umgang mit der Prozessabluft. Für den innerbetrieblichen Transport von Abfällen, die GVO enthalten, müssen geeignete Behälter verwendet werden.
+Es gibt jedoch auch darüber hinausgehende Forderungen, diese sind beispielsweise, dass bei einer versehentlichen Kontamination mit GVO der betroffene Bereich sofort gesperrt und desinfiziert werden muss. Ein Autoklav muss im Labor oder im selben Gebäude vorhanden sein. Schädlinge, die auch Überträger der GVO sein können (z. B. Nagetiere und Arthropoden) müssen bekämpft werden.
+
+
+==== Produktionsbereich S2 ====
+Viele Regeln entsprechen denen des Laborbereiches. Der Produktionsbereich muss gekennzeichnet sein, Desinfektionsmöglichkeiten für die Mitarbeiter müssen vorhanden sein. Der Zutritt ist zu beschränken. Bei den technischen Apparaturen, in denen mit den GVO gearbeitet wird, müssen die Bildung von Aerosolen und Undichtigkeiten vermieden werden. Dies betrifft neben dem Fermenter u. a. Zentrifugen, Separatoren oder Homogenisatoren. Alle Arbeiten, bei denen dennoch Aerosole freigesetzt werden können, müssen in einer Sicherheitswerkbank oder einer vergleichbaren Einrichtung durchgeführt werden. Vor dem Abernten des Produkts müssen die GVO inaktiviert werden oder in geschlossene Apparaturen überführt werden, um mit ihnen weiter arbeiten zu können.
+
+
+==== Gewächshäuser S2 ====
+Auch für die Arbeiten in Gewächshäusern müssen zum Teil ähnliche Sicherheitsmaßnahmen eingehalten werden. Dies betrifft u. a. Kennzeichnung, Desinfektionsmöglichkeiten, Zutrittsbeschränkung, innerbetrieblichen Transport von Abfällen, die GVO enthalten oder Desinfektion und Reinigung von Arbeitsmitteln. Weitere Maßnahmen betreffen beispielsweise das Gewächshaus selber. Es muss sich dabei um ein festes Bauwerk handeln, bei dem das Eindringen von Oberflächenwasser vermieden wird, ebenso das Austreten von Ablaufwasser. Die Türen müssen von selbst schließen. Fenster oder andere Öffnungen des Gewächshauses dürfen zu Belüftungszwecken geöffnet werden, es müssen aber Insektenschutzgitter vorhanden sein.
+
+
+==== Tierhaltungsräume S2 ====
+Für die Arbeiten in den Tierhaltungsräumen gelten ähnliche Regeln wie für den Laborbereich. Dies betrifft u. a. Kennzeichnung, Desinfektionsmöglichkeiten, Zutrittsbeschränkung, innerbetrieblicher Transport von Abfällen, die GVO enthalten oder Desinfektion und Reinigung von Arbeitsmitteln und Arbeitsflächen. Ebenso müssen Tierkäfige nach dem Gebrauch desinfiziert werden. Auch der Tierhaltungsraum muss regelmäßig gereinigt und desinfiziert werden. Arbeiten, bei denen mit der Bildung von Aerosolen zu rechnen ist, müssen in einer Sicherheitswerkbank oder einer vergleichbaren Einrichtung durchgeführt werden. Die Tiere sind in abschließbaren Räumen zu halten, um zu verhindern, dass sie fliehen oder gestohlen werden. Der Tierhaltungsraum muss ein eigenes Gebäude oder zumindest ein räumlich abgetrennter Bereich sein. Es muss eine Einrichtung vorhanden sein, in der die Tiere so festgehalten werden, dass eine gefahrlose Handhabung bei ihrer Infizierung möglich ist.
+
+
+=== Sicherheitsstufe 3 ===
+„Der Sicherheitsstufe 3 sind gentechnische Arbeiten zuzuordnen, bei denen nach dem Stand der Wissenschaft von einem mäßigen Risiko für die menschliche Gesundheit oder die Umwelt auszugehen ist.“ (§ 7 Gentechnikgesetz)
+Eine Anlage, in der gentechnische Arbeiten der Sicherheitsstufe 3 durchgeführt werden sollen, muss nach §§ 8 und 10 GenTG genehmigt werden. In Deutschland gibt es 101 gentechnische Anlagen der Sicherheitsstufe 3 (Stand Dezember 2017).
+
+
+==== Laborbereich S3 ====
+
+Die Sicherheitsstufe 3 für den Laborbereich umfasst nach Anhang III Teil A GenTSV Sicherheitsmaßnahmen, die denen der Schutzstufe 3 nach der BioStoffV und den Technischen Regeln für Biologische Arbeitsstoffe, insbesondere der TRBA 100, weitgehend entsprechen. Dies betrifft beispielsweise die Zutrittsbeschränkung mit Kontrolle, die Verwendung einer Schleuse, die bauliche Abtrennung des Bereiches für eine mögliche Begasung, die Notstromversorgung sowie die Schutzkleidung und die persönliche Schutzausrüstung. Ebenso muss im Labor eine eigene Ausrüstung und ein Autoklav vorhanden sein. Arbeiten, bei denen Aerosole entstehen können, müssen an Sicherheitswerkbänken durchgeführt werden.
+Im S3-Labor wird eine Schleuse als Regelfall angesehen, nur in begründeten Einzelfällen kann auf sie verzichtet werden. Wenn mit pathogenen Organismen gearbeitet wird, die über die Luft übertragen werden können, muss mit Unterdruck gearbeitet und die Abluft gefiltert werden. Die im Arbeitsbereich anfallenden Abwässer werden sterilisiert.
+
+
+==== Produktionsbereich S3 ====
+Viele Regeln entsprechen denen des Laborbereiches. Dies betrifft u. a. bauliche Abtrennung, Zugangskontrolle, Schleuse, Unterdruck im Produktionsbereich, Filterung der Abluft, Sterilisation der Abfälle und Abwässer, sowie Schutzkleidung. Darüber hinaus müssen die verwendeten Apparaturen ein geschlossenes System darstellen, um die versehentliche Freisetzung der GVO zu verhindern. Die Abluft des Fermenters muss filtriert oder durch Erhitzen sterilisiert werden.
+
+
+==== Gewächshäuser S3 ====
+In den Gewächshäusern müssen zum Teil vergleichbare Sicherheitsmaßnahmen eingehalten werden. So gibt es Regelungen zur Zugangskontrolle, Schleuse, Unterdruck, Filterung der Abluft, Schutzkleidung, Sterilisation der Abfälle und Abwässer. Weiterhin muss das Gewächshaus ein abgetrenntes Gebäude mit durchgehendem Dach sein. Der Fußboden muss wasserundurchlässig sein und das anfallende Abwasser gesammelt werden. Die Fenster und sonstigen Öffnungen müssen aus bruchsicherem Glas sein und dürfen nicht geöffnet werden.
+
+
+==== Tierhaltungsräume S3 ====
+Auch das Betreten der Tierhaltungsräume erfolgt über eine Schleuse. Es gibt Regelungen zur Zugangskontrolle, Schutzkleidung und Sterilisation der Abwässer, die den bereits genannten entsprechen. Falls mit pathogenen Organismen gearbeitet wird, die über die Luft übertragen werden können, muss auch hier mit Unterdruck gearbeitet werden. Die Fenster dürfen nicht zu öffnen sein, außerdem muss verhindert werden, dass Insekten, Nagetiere und Vögel eindringen können. Die Entsorgung betrifft in diesem Bereich Tierkadaver und Tiermaterial, sie müssen sterilisiert werden. Falls dies nicht direkt im Tierhaltungsraum erfolgt, müssen sie in geschlossenen, sicheren und von außen desinfizierten Behältern innerbetrieblich transportiert werden. Das Sterilisieren erfolgt im Allgemeinen durch Verbrennen.
+
+
+=== Sicherheitsstufe 4 ===
+„Der Sicherheitsstufe 4 sind gentechnische Arbeiten zuzuordnen, bei denen nach dem Stand der Wissenschaft von einem hohen Risiko oder dem begründeten Verdacht eines solchen Risikos für die menschliche Gesundheit oder die Umwelt auszugehen ist.“ (§ 7 Gentechnikgesetz)
+Eine Anlage, in der gentechnische Arbeiten der Sicherheitsstufe 4 durchgeführt werden sollen, muss nach §§ 8 und 10 GenTG genehmigt werden. In Deutschland gibt es vier gentechnische Anlagen der Sicherheitsstufe 4 (Stand Dezember 2017). Von den vier Anlagen sind zwei in Betrieb, bei zwei Anlagen wurde deren Errichtung genehmigt.
+
+
+==== Laborbereich S4 ====
+
+Die Sicherheitsstufe 4 für den Laborbereich umfasst nach Anhang III Teil A GenTSV Sicherheitsmaßnahmen, die denen der Schutzstufe 4 nach der BioStoffV und den Technischen Regeln für Biologische Arbeitsstoffe, insbesondere der TRBA 100, weitgehend entsprechen. Dies betrifft u. a. die Abschirmung des Bereiches, Verwendung einer Schleuse mit Druckkaskade, Unterdruck im Labor, Filterung von Zu- und Abluft und Verwendung eines Durchreicheautoklaven.
+Es gibt jedoch auch davon leicht abweichende Forderungen, beispielsweise ist ein Schleusensystem mit drei Kammern vorgeschrieben. Die Regelungen zum Belüftungssystem sind detailliert aufgeführt. Falls mit humanpathogenen Organismen gearbeitet wird, darf dies nur in geschlossenen, gasdichten Sicherheitswerkbänken erfolgen. Dabei sind die Öffnungen mit armlangen, luftdicht angebrachten Schutzhandschuhen versehen, in die der Labormitarbeiter hineingreift. Das Material wird über Schleusen in die Sicherheitswerkbank eingebracht. Sie kann über eine von außen zu bedienende Begasungsanlage desinfiziert werden. Als Alternative ist die Benutzung von fremdbelüfteten Vollschutzanzügen (wie bei der Schutzstufe 4) vorgesehen, dann ist eine Werkbank, wie sie bei der Sicherheitsstufe 2 vorgesehen ist, ausreichend.
+
+
+==== Produktionsbereich S4 ====
+In der Produktion gelten ähnliche Sicherheitsmaßnahmen, z. B. im Hinblick auf Abschirmung des Bereiches, Zugang über ein Schleusensystem mit drei Kammern und Filterung von Zu- und Abluft. Innerhalb der Produktionsanlage muss das Abwasser aus dem Fermenter und Abflüssen aufgefangen und sterilisiert werden. Es müssen Vorkehrungen getroffen werden, damit bei einem Brand das Löschwasser nicht in die Kanalisation gelangt. Für die Probenahme müssen geschlossene Systeme verwendet werden. Falls es durch Verschütten von Kultursuspension zu einer möglichen Kontamination des Bereiches kommt, müssen die Mitarbeiter fremdbelüftete Vollschutzanzüge tragen.
+
+
+==== Gewächshäuser S4 ====
+Auch das Gewächshaus muss abgeschirmt sein, um es gegebenenfalls begasen zu können. Es gibt ähnliche Regelungen wie bei den bereits genannten Bereichen, z. B. Zugang über ein Schleusensystem und Filterung von Zu- und Abluft. Organismen, die im lebensfähigen Zustand in das Gewächshaus hinein- oder herausgebracht werden, müssen in unzerbrechlichen Behältern aufbewahrt werden, die in einen desinfizierten, versiegelten Transportbehälter überführt werden. Die Schutzkleidung der Mitarbeiter umfasst Unterwäsche, Hosen und Hemden oder Overalls, Schuhe und Kopfbedeckungen, es kann sich dabei um Einwegkleidung handeln.
+
+
+==== Tierhaltungsräume S4 ====
+Die Sicherheitsmaßnahmen müssen denen des Laborbereiches der Sicherheitsstufe 4 entsprechen, dies gilt z. B. im Hinblick auf Abschirmung des Bereiches, Zugang über ein Schleusensystem mit drei Kammern, Filterung von Zu- und Abluft oder die Schutzkleidung. Alle Materialien, Gegenstände und Tiere müssen über Schleusen, Begasungskammern oder Durchreicheautoklaven in den Bereich eingebracht werden. Die GVO oder damit kontaminiertes Material, dass außerhalb der Tierhaltungsräume noch verwendet werden soll, müssen in einen unzerbrechlichen, verschlossenen Behälter gegeben werden, der von außen zu desinfizieren ist. Dieser wird dann zum Transport in einem zweiten, ebenso sicheren Behälter gepackt. Alle weiteren Materialien müssen vor dem Verlassen des Bereiches sterilisiert werden. Falls dies nicht möglich ist, müssen sie in einem unzerbrechlichen, verschlossenen Behältnis, das wiederum in einem ebenso sicheren, versiegelten Transportbehälter gegeben wird, zur Entsorgung gebracht werden.
+
+
+== Rechtsquellen ==
+Gentechnikgesetz (Deutschland) (Text des Gentechnikgesetzes – GenTG bei juris. Abgerufen am 17. Mai 2014.)
+Gentechnik-Sicherheitsverordnung (Text der Gentechnik-Sicherheitsverordnung – GenTSV bei juris. Abgerufen am 17. Mai 2014.)
+Organismenliste – Liste risikobewerteter Spender- und Empfängerorganismen. In: Webseite des Bundesamt für Verbraucherschutz und Lebensmittelsicherheit (BVL). Abgerufen am 17. Mai 2014. 
+Biostoffverordnung (Text der Biostoffverordnung – BioStoffV (2013) bei juris. Abgerufen am 13. Mai 2014.)
+
+
+== Einzelnachweise ==

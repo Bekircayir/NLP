@@ -1,0 +1,21 @@
+Asystolie (von a- „ohne“ und Systole „Herzkontraktion“) ist ein Fachausdruck aus der Medizin. Man versteht darunter einen Stillstand der elektrischen und mechanischen Herzaktion, der unbehandelt innerhalb weniger Minuten zum Tod führt.
+Die Asystolie erkennt man an einer Nulllinie im EKG. Andere Symptome wie fehlende mechanische Herzaktion in der Echokardiografie und Pulslosigkeit des Betroffenen treten ebenfalls bei jeder Asystolie auf, können aber auch andere Ursachen haben.
+
+
+== Ursachen ==
+In den meisten Fällen geht der Asystolie ein Kammerflimmern voraus, das etwa durch einen Herzinfarkt ausgelöst werden kann. Eine solche sekundäre Asystolie ist also nicht Ursache, sondern Auswirkung eines Problems.
+Auch ein Stromunfall kann auslösend sein.Nur bei circa 20 Prozent der Fälle liegt eine sogenannte primäre Asystolie vor. Sie beruht in der Regel auf einem Stillstand des Sinusknotens und der darunterliegenden untergeordneten Erregungszentren des Herzens.
+Ein totaler AV-Block ohne elektrische und mechanische Kammeraktion ist selten und meist nur passager (vorübergehend) nachweisbar. Man erkennt ihn im EKG daran, dass der QRS-Komplex fehlt und nur noch Vorhofwellen (P-Wellen) vorhanden sind. Die Vorhöfe kontrahieren noch, aber die Ventrikel nicht mehr. Diese Art der Rhythmusstörung ist daher auch als Asystolie einzuordnen.
+
+
+== Therapie ==
+Bis zur weiterführenden Therapie durch Notarzt und Rettungsdienst müssen vom Ersthelfer Wiederbelebungsmaßnahmen (Herzdruckmassage und Beatmung) vorgenommen werden. Der Einsatz eines Herzschrittmachers kann im Weiteren notwendig werden.
+Eine Asystolie kann – entgegen dem, was teilweise medial durch Arztserien verbreitet wird – nicht durch Defibrillation therapiert werden, da für deren Funktionieren noch eine irreguläre Herztätigkeit vorhanden sein muss, die im Idealfall wieder gleichgerichtet werden kann. Die medikamentöse Therapie erfolgt mit Adrenalin.
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+
+ANR-Eintrag zu Asystolie (Memento vom 3. Mai 2003 im Internet Archive)

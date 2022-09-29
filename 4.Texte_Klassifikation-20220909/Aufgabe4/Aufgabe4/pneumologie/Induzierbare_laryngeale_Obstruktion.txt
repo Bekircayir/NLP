@@ -1,0 +1,77 @@
+Als Induzierbare laryngeale Obstruktion, englisch: inducible laryngeal obstruction (ILO), wird eine Funktionsstörung des Kehlkopfes bezeichnet, bei der sich Anteile des Kehlkopfes und/oder die Stimmlippen plötzlich eng stellen und sich sogar für eine kurze Zeit verschließen können. Dieser Vorgang führt zu einer anfallsartigen Atemnot.
+Eine Unterform stellt die Atemnot im Zusammenhang mit körperlicher Anstrengung dar, sie wird als EILO (englisch, für exercise induced laryngeal obstruction) bezeichnet.
+
+
+== Geschichte und Terminologie ==
+Eine Erstbeschreibung wird Dunglison 1842 zugeschrieben, der sie als "hysterischen Croup" bei hysterischen Frauen beschrieb. In der Hals-Nasen-Ohren-Heilkunde werden diese Krankheitsbilder seit dem 19. Jahrhundert unter – je nach Ausprägung der Symptomatik und auslösender Ursache – mehr oder weniger unterschiedlichen Namen beschrieben: paroxysmal (oder paradoxical) vocal cord movement/motion (PVCM), paroxysmal (oder paradoxical) vocal cord dysfunction (PVCD), episodic paroxysmal laryngospasm (EPL) und irritable larynx syndrome (ILS).
+Insbesondere das als „inspiratorischer Stimmritzenkrampf“ beschriebene Krankheitsbild ist wohl der ILO gleichzusetzen. Besonders krasse Fälle, bei denen die Atemnot zur Bewusstlosigkeit führt, wurden als Ictus laryngis (Kehlkopfschlag, Kehlkopfohnmacht) bezeichnet. Johann Schnitzler beschreibt den inspiratorischen Stimmritzenkrampf 1895 so: „Während beim phonischen Stimmritzenkrampf die Coordinationsstörung sich darin äussert, dass der Grad der motorischen Innervation viel intensiver als der Grad der intendirten Innervation ausfällt, also es sich nur um einen graduellen Unterschied handelt, haben wir es bei dem inspiratorischen Stimmritzenkrampf mit einer Coordinationsstörung qualitativer Art zu thun, indem statt der Abduction der Stimmbänder eine Annäherung derselben während der Inspiration erfolgt. Die Phonation geht normal von Statten, die Inspiration ist mit Dyspnoe verbunden, da während der Inspiration auch die Adductoren stärker innervirt werden. Im Schlafe verschwindet die Dyspnoe und der Stridor.“Der früher gebräuchliche (englische) Ausdruck Vocal Cord Dysfunction (VCD) tauchte in den letzten beiden Jahrzehnten des 20. Jahrhunderts in der pulmologischen Literatur als differentialdiagnostisch relevantes Krankheitsbild bei therapieresistentem Asthma auf. Die Bezeichnung VCD ist jedoch falsch, da es sich nicht um eine Erkrankung der Stimmlippen selber handelt, 2013 wurde daher auf einer Konsensuskonferenz der European Society of Laryngology der übergeordnete Begriff "ILO" festgelegt.
+
+
+== Häufigkeit, Alters- und Geschlechtsverteilung ==
+Zur Häufigkeit gibt es typischerweise keine verlässlichen Angaben, da die Krankheit häufig verkannt (z.B in der Form eines chronischen Hustens), oder oft als Asthma fehlgedeutet wird. In einer deutschen Pilotstudie wurden 2014 in einer Fragebogenerhebung der Bevölkerung bei 4 % ILO-ähnliche Symptome erhoben bzw. bei 8 % asthmaähnliche. Bei 2 % fanden sich Symptome für beide Erkrankungen. Die Geschlechtsverteilung ist zu Ungunsten der Frauen, reicht von 3:1 bis zu 2:1. Eine ILO kann in jedem Lebensalter, auch bei Säuglingen auftreten, in einer Literaturübersichtsarbeit von 2006 waren 71 % der 1161 Patienten im Erwachsenenalter, 29 % unter 18 Jahren, meist als Heranwachsende mit einem Median von 14 Jahren.
+
+
+== Auslöser einer ILO ==
+Die Auslöser bei ILO können ähnlich wie beim Asthma bronchiale sein, welches sich auch oft als anfallsartige Atemnot zeigt:
+Stress, psychische Belastung
+körperliche Belastung (EILO)
+kalte oder warme Luft
+Düfte, Zigarettenrauch, Parfüms
+allergene Einflüsse
+Infekte der oberen Atemnwege
+reizende Speisen, wie z. B. Essig
+Reflux von Magensäure
+
+
+== Anzeichen für eine ILO ==
+Folgende Anzeichen erhärten den Verdacht auf ILO:
+
+plötzliches Auftreten heftiger, teils lebensbedrohlich erlebter Atemnot
+Atemnot oft nach Hustenanfällen
+spontanes Nachlassen der Atemnot
+Kratzen im Hals, Kloßgefühl, Engegefühl im Hals, häufiges Räuspern, Heiserkeit
+auffällig gute Lungenfunktionsbefunde
+Asthmamedikamente helfen kaum oder gar nicht
+
+
+== Abgrenzung zu Asthma ==
+Da die Symptome wie Luftnot (73 %), pfeifendes Atemgeräusch (36 %), Stridor (28 %) und Husten (25 %) (Häufigkeitsangaben zu Symptomen bei ILO nach Morris) auch bei Asthma auftreten, ist die Differenzierung schwierig und führt häufig zur Fehldiagnose Asthma. Andererseits scheint ein zusammenhängendes Auftreten auch nicht selten: Die Quote der Patienten mit Asthma und zusätzlicher ILO wird in den Studien sehr variabel angegeben, in einer Untersuchung von 1995 fanden sich bei 95 Patienten mit endoskopischer gesicherter ILO bei 56 % auch ein Asthma. Bei einer jüngeren Untersuchung von Asthmapatienten wurden umgekehrt bei 38,3 % eine zusätzliche ILO diagnostiziert. Die durchschnittliche Zeit der als Asthma fehlgedeuteten ILO-Symptome mit konsekutiver (nicht sinnvoller) Asthmamedikation lag in einer retrospektiven Studie bei 4,8 Jahren bis zur richtigen Diagnose ILO. Asthma führt typischerweise zu Schwierigkeiten bei der Ausatmung, während bei ILO die Inspiration behindert ist und anamnestisch erfragt werden sollte. Dazu gibt es verschiedene Fragebogeninventare, die eine Abgrenzung erleichtern, eine Übersicht von Tests findet sich bei Hull. Bei einer Lungenfunktionsprüfung lassen sich daher auch entsprechend typische Kurven finden. Leider lassen sich die veränderten Kurven einer ILO nur im akuten Anfall finden, bei EILO allerdings reproduzierbar unter Belastung (Ergometer, Laufband). Meist führen Beta-2-Sympathomimetika zu einer Verbesserung beim Asthma, bei ILO typischerweise nicht. Darüber hinaus gibt es weitere (experimentelle) Versuche der Differenzierung über ein funktionelles Larynx-CT, oder eine Soundanalyse von Atemgeräuschen.
+
+
+== Medizinischer Hintergrund ==
+ILO ist eine pathologische Reaktion des Kehlkopfes. Die Ursachen können physischer und/oder psychischer Natur sein. Zurzeit ist die Pathogenese nicht abschließend geklärt. Eine ILO kann als paradoxer Schutzreflex gedeutet werden.
+Kommt es zu einer Atemnot durch eine ILO, sind meist mehrere Faktoren auszumachen:
+
+Organische Gründe: Der Rückfluss der Magenflüssigkeit (Reflux) oder eine chronische Nasennebenhöhlenentzündung (Sinusitis). Der Säurerückfluss aus dem Magen oder das Sekret aus der Nasennebenhöhle führt zu einer Reizung des Kehlkopfes.
+Neurologische Ursachen: Ein hypersensibler Kehlkopfbereich oder eine krankhafte Veränderung der Großhirnrinde (Cortex).
+Psychische Ursachen: Emotionaler Stress ausgelöst durch Verlust, einschneidende Veränderung, verbale und körperliche Verletzungen und hohes Leistungs- und Anspruchsdenken sowie Krankheitsgewinn.Die Atemnotanfälle können oft "ohne erkennbaren Grund" in unregelmäßigen Abständen auftreten, im Gegensatz zur EILO, die reproduzierbar bei körperlicher Belastung auftritt.
+
+
+== Diagnostik ==
+Die direkte Diagnostik einer klassischen ILO ist oftmals problematisch, weil die Attacken meist unvorhergesehen auftreten und es dann nur selten gelingt, im Anfall eine Laryngoskopie durchzuführen. Es gibt ILO-Formen, die nicht zu einer ausgeprägten Atemnot durch krampfartigen Glottisschluss führen, sich in einem Globusgefühl, Husten, Beklemmung u. a. äußern, dafür aber häufiger im Tagesverlauf aufzutreten scheinen. In solchen Fällen gelingt es leichter, mit einer flexiblen Laryngoskopie eine paradoxe Stimmlippenbewegung zu erkennen: Es kommt bei Inspiration zu einer Adduktionsbewegung, wie zur Phonation, und bei Exspiration zur Glottiserweiterung. Dabei ist meist ein inspiratorisches Atemgeräusch zu hören. In einer CT-Studie konnten bei Patienten mit "schwer behandelbarem Asthma" in 69 % pathologische Stimmlippenbewegungen mit z. T. massiver Engstellung bei In- und Exspiration gefunden werden. Ein Teil der Befunde lasse sich einer ILO zuordnen, bei vielen Patienten sei die Diagnose Asthma jedoch vielfältig gesichert gewesen.Grundsätzlich müssen eine Reihe von anderen Ursachen für die Symptomatik differentialdiagnostisch abgeklärt werden: Lokal im Kehlkopfbereich z. B. ein Stimmlippenstillstand, eine Laryngomalazie, Tumore, Entzündungen, Allergien (z. B. Angioödem), darüber hinaus rheumatische Erkrankungen, neurologische Ursachen (z. B. Parkinson, Motoneuron-Krankheiten), Lungen-/Bronchialerkrankungen (u. a. Asthma).
+
+
+== Behandlung ==
+Unter sorgfältiger medizinischer Diagnostik sollte gleichzeitig die Angst vor einem Anfall abgebaut werden. Das Bedrohungsgefühl ist weit größer als die wirkliche Bedrohung, da der typische ILO-Anfall von selbst aufhört. Sind Gründe eingegrenzt oder erkannt, kann ein individuelles Therapiekonzept erstellt werden, insbesondere Beseitigung bzw. Meidung von auslösenden Faktoren.In einigen Fällen kann eine Atem-/Stimmtherapie, Biofeedback und deren konsequente Umsetzung im Alltag Anfällen vorbeugen.In schweren Fällen mit Panikattacken werden diese mit sedierenden Medikamenten unterbrochen. Versuchsweise wird auch eine Heliox-Behandlung durchgeführt, diese ist schon Jahrzehnte beim Tauchsport, auch in der Behandlung bei Obstruktionen der oberen Atemwege im Kindes- und Jugendalter, aber auch bei Erwachsenen im Einsatz.Für viele Betroffene ist jedoch die Therapie schwierig, da eine somatische Ursache nicht gefunden wird, Begleiterkrankungen erschwerend dazu kommen und der Patient trotz Hilfe die Aufarbeitung der psychischen Faktoren nicht schafft.
+
+
+== EILO ==
+Eine durch körperliche Belastung induzierte laryngeale Obstruktion ist eine Sonderform der ILO. Betroffen sind vor allem jüngere Menschen, der Beginn der Symptome liegt oft schon im Alter zwischen 10 und 16 Jahren, auch hierbei gibt es überwiegend weibliche Betroffene. Die Prävalenz wird auf 5,7 % bis 7,5 % geschätzt, liegt bei Sportlern mit 15 % bis 28 % deutlich höher. Vor allem Teilnehmer an Ausdauersportarten, wie Skilanglauf/Biathlon, Rennradfahren, Schwimmen und Laufen sind häufig betroffen. Aber auch andere körperliche Arbeit kann zu ILO-Symptomen führen. Zwei jüngere Untersuchungen in Schweden widmeten sich Sportlern: 2016 und 2017 wurden alle Erstsemester (Altersmittel 15,8 Jahre) eines Sportgymnasiums zu Symptomen befragt und anschließend auch untersucht. 20,4 % der Teilnehmer gaben an, schon früher Luftnotattacken erlebt zu haben, aus dieser Gruppe waren 14,7 % positiv auf EILO getestet worden, aus der Gruppe ohne bekannte Attacken waren 7,3 % im Test auffällig. Eine andere Studie untersuchte Leistungssportler im Skilanglauf. Bei 27 % der untersuchten Sportler fand sich eine EILO (davon 83 % Frauen), bei 38 % ein Asthma, in dieser Gruppe hatten 10 % auch eine EILO.
+Dieses Phänomen ist in der Veterinärmedizin bei Pferden schon lange bekannt und gut untersucht, das Kehlkopfpfeifen galt lange als ein Gewährsmangel.
+
+
+=== Diagnostik ===
+Bei einer EILO ist die Diagnostik etabliert und zuverlässig. Unter körperlicher Belastung auf einem Fahrradergometer/Laufband wird laryngoskopisch untersucht und eine Lungenfunktionsprüfung durchgeführt. Durch die Laryngoskopie lässt sich Ort und Ausmaß der Obstruktion nachweisen, in der Spirometrie zeigt sich eine typische, reversible Abflachung der Flussvolumenkurve bei der Inspiration während des Anfalls.
+
+
+=== Behandlung ===
+Die Behandlungsansätze sind ähnlich der ILO, beinhalten Atemtherapie, Biofeedback oder psychologisches Coaching. Bei therapierefraktären Attacken können operative Eingriffe zur Weitstellung der einengenden Larynxstrukturen helfen. In einem Fallbericht einer Radsportlerin mit glottaler Engstellung sistierten die Beschwerden nach einer Botox-Injektion in beide Mm. thyroarytenoideae.
+
+
+== Literatur ==
+Klaus Kenn: Differentialdiagnosen des therapieresistenten Asthma bronchiale. In: Internistische Praxis. Hans Marseille Verlag, München 2001, DNB 011209097, S. 253–265. 
+Klaus Kenn, Markus M. Hess: Vocal cord Dysfunction: Eine wichtige Differenzialdiagnose zum Asthma bronchiale. In: Deutsches Ärzteblatt. Band 105, Nr. 41, 2008, S. 699–704 (aerzteblatt.de [abgerufen am 28. Januar 2022]). 
+Klaus Kenn, Ron Balkissoon: Vocal Cord Dysfunction - what do we know. In: European Respiratory Journal. Band 37, 2011, S. 194–200, doi:10.1183/09031936.00192809. 
+
+
+== Einzelnachweise ==

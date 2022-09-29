@@ -1,0 +1,52 @@
+Ein Trachom (gr.: τράχωμα, „Raues Auge“), auch Conjunctivitis (granulosa) trachomatosa, ägyptische Körnerkrankheit, Ägyptische Augenentzündung oder trachomatöse Einschlusskonjunktivitis genannt, ist eine bakterielle Entzündung des Auges mit Chlamydia trachomatis (Serotyp A bis C), die mit Erblindung enden kann.
+
+
+== Häufigkeit und Ursache ==
+Das Trachom ist in Industriestaaten sehr selten, jedoch in tropischen (Entwicklungs)ländern mit mangelnden hygienischen Verhältnissen die häufigste Augenerkrankung. Etwa 500 Millionen Menschen leiden daran, etwa sechs Millionen sind deswegen erblindet.
+Die Erkrankung wird durch eine Infektion mit Chlamydia trachomatis (Serotypen A, B und C) über direkten Kontakt zwischen Schleimhäuten der Augen, Nase und des Mundes hervorgerufen. Sie kann durch gemeinsame Benutzung von Waschlappen oder Handtüchern oder durch Fliegen übertragen werden.
+
+
+== Symptome ==
+Die meisten Betroffenen erkranken im frühen Kindesalter am Trachom. Die Erkrankung gliedert sich in vier Stadien. Nach fünf bis zwölf Tagen Inkubationszeit treten als erstes Stadium die Symptome einer beidseitigen Konjunktivitis mit Fremdkörpergefühl, tränenden Augen und Ausfluss von serösem Sekret aus dem Auge auf.
+Im zweiten Stadium zeigen sich an der Bindehaut des Oberlides nicht mit Blutgefäßen versorgte, gelbweißliche, wenig erhabene Lymphfollikel. Durch diese Lymphfollikel wirkt die Oberfläche der Bindehaut des Oberlides rau, woher auch die Bezeichnung Trachom stammt. Außerdem führen diese entzündlichen Veränderungen dazu, dass das Oberlid anschwillt, schwerer wird und in der Folge herabhängt. Es wird von einer Ptosis trachomatosa gesprochen. Daneben können Blutgefäße der Augenbindehaut am oberen Rand der Hornhaut in die Hornhaut, die normalerweise keine eigenen Blutgefäße aufweist, einsprossen und einen sogenannten Pannus trachomatosus bilden.
+Im dritten Stadium schmelzen die Lymphfollikel an der Bindehaut des Oberlides ein und platzen. An ihrer Stelle entstehen nun Narben.
+Im vierten Stadium ziehen sich die im dritten Stadium entstandenen Narben an der Bindehaut des Oberlides zusammen. Dadurch ziehen sie den Lidrand des Oberlids mit seinen Wimpern nach innen zum Augapfel, ein sogenanntes Narbenentropium entsteht. Nun scheuern die Wimpern bei jedem Lidschlag und jeder Augenbewegung an der Hornhaut des Auges. Es wird von einer Trichiasis gesprochen. Dieses stetige Scheuern führt zu Verletzungen der Hornhaut, die sich infizieren und unter Bildung von Narben abheilen. Je mehr Narben an der Hornhaut entstehen, desto mehr nimmt die Beeinträchtigung des Sehens zu. Ohne Behandlung erblinden die Betroffenen.
+
+
+== Diagnose und Therapie ==
+Die Diagnose des Trachoms wird anhand des Beschwerdebildes gestellt. Zur Behandlung der Infektion werden lokale oder systemische Antibiotika (nur intrazellulär wirkende Antibiotika, z. B. Makrolide oder Tetracycline) eingesetzt. Derzeitiges Mittel erster Wahl zur Monotherapie ist Sulfamethoxazol. Ist bereits eine Lidfehlstellung aufgetreten, muss die Lage des Oberlids mittels einer Operation normalisiert werden. Ist die Hornhaut schon stark vernarbt und das Sehen deutlich eingeschränkt, kann eine Keratoplastik mit Ersatz der Hornhaut durchgeführt werden.
+
+
+== Differentialdiagnose ==
+Paratrachom
+Conjunctivitis follicularis
+Conjunctivitis vernalis
+
+
+== Prophylaxe ==
+Insbesondere eine Verbesserung der hygienischen und sozioökonomischen Lebensumstände zusammen mit einem ausreichenden Trinkwasserangebot würde zur Verminderung der Häufigkeit der Erkrankung beitragen.
+
+
+== Prognose ==
+Die Prognose hängt vom Krankheitsstadium ab. Bei Behandlungsbeginn in frühen Stadien ist die Prognose gut. Eine Erblindung tritt vor allem dann auf, wenn die Erkrankung über Jahre nicht behandelt wird und es häufig zu erneuten Infektionen kommt.
+
+
+== Global Programme for the Elimination of Trachoma ==
+Therapie und Prophylaxe des Trachoms sind in der SAFE-Strategie des Global Programme for the Elimination of Trachoma der WHO zusammengefasst:
+
+S = Surgery, Chirurgie der Lider, um das Scheuern der Wimpern zu beseitigen
+A = Antibiotika
+F = Facial Cleanliness, Sauberkeit des Gesichts zur Vermeidung von Schmierinfektionen
+E = Environmental Improvement, Verbesserung der Hygiene, sauberes Wasser.
+
+
+== Siehe auch ==
+Weitere durch Chlamydia trachomatis verursachte Erkrankungen sind die weit verbreitete, aber deutlich unterschätzte (Okulo-)genitale Chlamydieninfektion (Hauptursache der eileiterbedingten Sterilität der Frau), diese wird durch die Serotypen D-K verursacht, sowie das durch die Serotypen L1-L3 verursachte Lymphogranuloma venereum (Lymphogranuloma inguinale).
+
+
+== Quellen ==
+Joseph A. Cook: Eliminating Blinding Trachoma. In: N Engl J Med. Nr. 358, 2008, S. 1777–1779 (Abstract). Klaus Jacob: Transversale Tarsotomie beim trachomatösen Entropium des Oberlides. In: Klin. Monatsblätter für Augenheilkunde. 153. Band, 6. Heft, Enke Verlag, Stuttgart 1968.
+
+
+== Literatur ==
+M. Sachsenweger: Augenheilkunde. (= Duale Reihe). 2. Auflage. Georg Thieme Verlag, Stuttgart 2003, ISBN 3-13-128312-2, S. 81–83.

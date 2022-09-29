@@ -1,0 +1,89 @@
+Der Atriumseptumdefekt (ASD), Vorhofseptumdefekt (unübliche Abkürzung VSD) oder Vorhofscheidewanddefekt ist ein Loch in der Herzscheidewand zwischen den beiden Vorhöfen des Herzens (Septum interatriale). Er ist mit ca. 7,5 % aller angeborenen Herzfehler die dritthäufigste angeborene Herzfehlbildung. Ein Atriumseptumdefekt tritt auch, außer den hier beschriebenen singulären Formen, im Zusammenhang mit anderen Herzfehlern auf und ist dann in seiner Auswirkung anders zu bewerten.
+Die Behandlungsbedürftigkeit (Intervention) ist abhängig von den Symptomen, von der Lage, von der Öffnungsfläche (Defektgröße), vom Shunt-Minutenvolumen (Shuntvolumen, Durchflussrate, Volumenstrom, Volumenfluss, Shuntzeitvolumen, Volumen pro Zeiteinheit, oft angegeben als Prozentanteil vom Schlagvolumen, vom Herzzeitvolumen oder vom Kleinkreislaufminutenvolumen [=Lungenzeitvolumen]), von der Strömungsrichtung (Rechts-links-Shunt oder Links-rechts-Shunt) und von den Begleiterkrankungen. Die Übergänge zwischen Operationsindikation und abwartendem Verhalten sind fließend. Es gilt die grundlegende Formel Herzzeitvolumen plus Links-rechts-Shunt-Volumenfluss gleich Lungenzeitvolumen plus Rechts-links-Shunt-Volumenfluss.Ein Atriumseptumdefekt ist ein Loch in der Herzscheidewand auf Vorhofebene. Ein entsprechendes Loch auf Kammerebene heißt Kammerseptumdefekt oder Ventrikelseptumdefekt mit der Abkürzung VSD (nicht zu verwechseln mit der Abkürzung VSD für den Vorhofseptumdefekt).
+Möglicherweise sind beide Septumdefekte auch Risikofaktoren für Hirnblutungen.Alle Septumdefekte vergrößern die Wahrscheinlichkeit für zerebrale Embolien aller Art, weil sie gekreuzte (= paradoxe) Embolien ermöglichen. Ohne Septumdefekt werden alle venösen Emboli in den Lungenarterien abgefangen. Das gilt nicht nur für Blutembolien, sondern auch zum Beispiel für Luftembolien, Fettembolien und Fruchtwasserembolien.
+
+
+== Formen ==
+
+Der ASD tritt in fünf Varianten auf:
+
+
+=== Offenes oder persistierendes Foramen ovale ===
+
+Die einfachste Form eines Atriumseptumdefektes ist das persistierende Foramen ovale (PFO; englisch: patent [lateinisch patens ‚offen‘] foramen ovale, Abkürzung ebenfalls PFO). Das Foramen ovale ist eine türartige Verbindung zwischen den Herzvorhöfen, die im fetalen (vorgeburtlichen) Kreislauf den Blutübertritt von rechts (Lungenkreislauf, kleiner Kreislauf) nach links (Körperkreislauf, großer Kreislauf) zulässt. Da die Lunge noch nicht belüftet ist und somit auch noch nicht relevant durchblutet wird, fließt das Blut durch das Foramen ovale in den linken Vorhof und durch den Ductus arteriosus (oder auch Ductus arteriosus Botalli) aus der Lungenschlagader in die Aorta.
+Das Foramen ovale verschließt sich normalerweise in den ersten Lebenstagen oder Lebenswochen vollständig. Geschieht dies nicht, spricht man von einem persistierenden (anhaltenden, andauernden) Foramen ovale (PFO). Kinder sind meistens nicht beeinträchtigt; manchmal wurde eine Schreizyanose bei Neugeborenen beschrieben. Eine Behandlung ist auch im Erwachsenenalter meistens nicht erforderlich. Selten kommt es allerdings zu einer paradoxen Embolie, bei der ein venöses Blutgerinnsel aus den Beinen das Loch passiert und z. B. einen Schlaganfall (Apoplex) auslösen kann. Zusätzlich kann sich im Bereich des Septumdefektes ein Thrombus bilden, welcher ebenfalls einen Hirninfarkt verursachen kann. Zur PFO-Prävalenz gibt es in der Literatur verschiedene Angaben (bis zu 30 %).
+Dieses offene Foramen ovale sei eine Normvariante. Es ist kein Septumdefekt im engeren Sinne.Drei deutsche Fachgesellschaften empfehlen aktuell (Stand September 2018) in einer gemeinsamen Leitlinie bei Patienten mit einem offenen Foramen ovale mit einem moderaten oder einem ausgeprägten Rechts-links-Shunt nach einem kryptogenen Apoplex (englisch: embolic stroke of undetermined source, ESUS) zur Rezidivprophylaxe den interventionellen Verschluss des PFO. Als Alternative zur endovaskulären Okkluder-Implantation wird eine Thrombozytenaggregationshemmung oder eventuell auch eine orale Antikoagulation zur Sekundärprävention empfohlen.Nach ersten Hinweisen im Jahr 1996 haben mittlerweile mehrere Untersuchungen einen Zusammenhang zwischen persistierendem Foramen ovale und Migräne ergeben. Bei 60–80 Prozent der Migränepatienten mit einer Aura findet man diese Herzfehlbildung. Ein künstlicher Verschluss des Foramen ovale durch ein mittels Herzkathetertechnik eingesetztes Schirmchen (Okkluder) lässt in einem von zwei Fällen die Migräne verschwinden.Bei Tauchern besteht zusätzlich eine erhöhte Gefahr von zerebralen Gasembolien (arterielle Gasblasenembolie). Auch ohne Septumdefekt zählt die Gasembolie zu den häufigen Tauchunfällen. Es ist eine Luftembolie durch Gasbläschenbildung. Siehe dazu auch Dekompressionskrankheit und Barotrauma.
+
+
+==== Vorhofseptumaneurysma ====
+Manchmal tritt ein offenes Foramen ovale zusammen mit einem Vorhofseptumaneurysma (atriales Septumaneurysma, Abkürzung ASA) auf. In der aktuellen ICD-10 wird das ASA noch nicht klassifiziert; in der neuen ICD-11 wird es den Schlüssel LA8E.Y bekommen (Aneurysma of the atrial septum). Es handelt sich dabei um eine ausgeprägte Mobilität des Septums (hypermobiles Septum) oder um druckbedingte (interatriale Druckdifferenz) Aussackungen oder Vorwölbungen der Herzscheidewand in das rechte Atrium (Lateraldeviation). In dieser Ausbuchtung (Aneurysma) kann es zur Bildung von Thromben (Blutgerinnseln) kommen. Dadurch wird die Wahrscheinlichkeit für einen embolischen Schlaganfall zusätzlich erhöht. Der Thrombus fließt dann mit dem Blut vom linken Vorhof ins Gehirn und verstopft dort eine Schlagader. Bei bis zu 90 Prozent der Betroffenen besteht ein interatrialer Shunt. Die Prävalenz beträgt etwa ein Prozent der Bevölkerung. Sogar im Aneurysma kommt es gelegentlich (nach einer Perforation) zum Rechts-links-Shunt oder zum Links-rechts-Shunt. Oft besteht bei einem Vorhofseptumaneurysma gleichzeitig ein Vorhofflimmern als zusätzliche doppelte (gekreuzt oder ungekreuzt, paradox oder orthodox) ursächliche Möglichkeit von anderweitig nicht erklärbaren Insulten. Zur Behandlung wird manchmal eine Schirmprothese (Schirmchen; englisch: occluder, deutsch: Okkluder, von lateinisch occludere ‚verschließen‘) implantiert.In der pädiatrischen Kardiologie werden diese Aneurysmata in Abhängigkeit von der Shuntgröße in vier Schweregrade (Typen A bis D) eingeteilt.
+Pathophysiologisch müssen also Menschen mit einem Vorhofseptumaneurysma mit sechs verschiedenen Möglichkeiten für einen kryptogenen (also für einen ätiologisch ungeklärten) embolischen (=ischämischen) Apoplex rechnen:
+
+Bei einer tiefen Beinvenenthrombose kann das Blutgerinnsel durch ein fast immer vorhandenes offenes (persistierendes) Foramen ovale ins Gehirn schwimmen.
+Ein solcher Thrombus findet in seltenen Fällen seinen Weg ins Gehirn durch eine kleine Perforation direkt im Vorhofseptumaneurysma.
+Bei einem Vorhofflimmern oder Vorhofflattern kann ein Blutgerinnsel vom rechten Vorhof durch ein offenes Foramen ovale ins Gehirn gelangen.
+Ein Blutgerinnsel bildet sich im Vorhofseptumaneurysma und gelangt von dort über den linken Vorhof durch die Mitralklappe und die Aorta ascendens ins Gehirn.
+In seltenen Fällen gelingt einem kleinen Thrombus beim Vorhofflimmern der Weg vom rechten Atrium durch eine eventuell vorhandene Perforation im Aneurysma bis ins Gehirn.
+Bei einer solchen absoluten Arrhythmie kann ein Gerinnsel aus dem linken Vorhof (Vorhofohr, auriculum atrii, Herzohr) ungekreuzt durch die linke Kammer ins Gehirn schwimmen.
+
+
+=== Sekundum-Typ (Ostium-secundum-Defekt) ===
+
+Die häufigste Form (etwa 7 % aller kongenitalen Herzfehler) ist der Vorhofseptumdefekt vom Sekundumtyp, auch ASD II genannt. Das Loch liegt in der Mitte und je nach Größe fließt wegen des Druckunterschiedes in den Herzvorhöfen eine mehr oder weniger große Blutmenge von links nach rechts, also wieder in den Lungenkreislauf.
+Dieser Defekt (Shunt) kann in vielen Fällen durch das Einsetzen eines Verschlusssystems mit dem Herzkatheter verschlossen werden: Ein 'Doppelschirmchen' oder ein selbstzentrierendes Metallgerüst aus Nitinol (Amplatzer-System) wird durch den Katheter in das Loch eingeführt und dort entfaltet. Nach Überwachsen mit Herzinnenhaut (Endokard) ist das Loch dauerhaft verschlossen. Voraussetzung dafür ist, dass das Loch nicht zu groß ist, mittig liegt und glatte Ränder hat. Sind diese Voraussetzungen nicht gegeben, muss das Loch chirurgisch verschlossen werden.
+Eine Endokarditisprophylaxe wird beim ASD II nicht empfohlen. Eine pulmonale Hypertonie (Lungenhochdruck) durch den Shunt ist in den ersten Lebensjahrzehnten nicht zu erwarten, da der Druckunterschied in den Vorhöfen nicht sehr bedeutsam ist.
+Dieser Herzfehler wird manchmal auch erst im Jugendlichen- oder im fortgeschrittenen Erwachsenenalter diagnostiziert. Es hat sich gezeigt, dass die Patienten ab einer gewissen Shuntgröße mit ansteigendem Alter oft zunehmende Beschwerden (Herzinsuffizienz) bekommen. Deshalb werden bedeutsame ASD II heute meist verschlossen, auch wenn die Patienten sich wohlfühlen.
+Ein aufgrund weiterer Fehlbildungen nachgeburtlich unverschlossen gebliebenes Foramen ovale wird bei hämodynamischer Relevanz als ein ASD II eingestuft.
+
+
+=== Ostium-primum-Typ ===
+Die nächst häufige Form ist der Ostium-primum-Defekt, auch ASD I genannt. Das Loch liegt im unteren Anteil der Vorhofscheidewand, reicht bis an die Klappenebene heran und ist oft mit einer Fehlfunktion der Mitralklappe (zwischen linkem Vorhof und linkem Ventrikel = Herzkammer) verbunden, seltener mit einer Fehlfunktion der Trikuspidalklappe (zwischen rechtem Vorhof und rechter Herzkammer). Zugrunde liegt diesem Herzfehler eine Hemmung der Endokardkissenbildung. Eine Herzkatheteruntersuchung oder eine transösophageale Echokardiographie („Schluckecho“) vor der Operation ist nur selten notwendig. Dieser Defekt wird immer chirurgisch mit einem Patch aus Kunststoff oder körpereigenem Gewebe verschlossen. Wird nach der Operation eine oft auftretende geringgradige Mitralklappenfehlfunktion festgestellt, muss weiter ein erhöhtes Endokarditisrisiko beachtet werden.
+
+
+=== Sinus-venosus-Typ (Sinus-venosus-Defekt) ===
+Eine sehr seltene Form des ASD ist der Sinus-venosus-Defekt. Er liegt im oberen Anteil der Vorhofscheidewand und in ca. 90 % der Fälle werden eine oder mehrere in den rechten Vorhof oder in die obere Hohlvene (Vena cava superior) fehleinmündende Lungenvenen nachgewiesen. Daher ist hier fast immer eine transösophageale Echokardiografie oder ein Herzkatheter vor einer Operation notwendig.
+Auch dieser Defekt wird chirurgisch mit einem Patch verschlossen und die Lungenvenen werden so umgesetzt, dass der normale Blutfluss in den linken Vorhof gewährleistet ist. Wie bei vielen Defekten im Vorhofbereich kommt es im Langzeitverlauf häufiger zu Herzrhythmusstörungen.
+
+
+=== Sinus-coronarius-Defekt ===
+Am Sinus coronarius münden die Koronarvenen in den rechten Vorhof ein. Durch eine fehlende Überdachung am Sinus coronarius kommt es zu einer freien Verbindung zwischen beiden Vorhöfen. Auch hier besteht ein Shunt mit der Möglichkeit paradoxer Embolien. Auch dieser Defekt kann operativ verschlossen werden.
+
+
+== Diagnostik ==
+
+
+=== Auskultation ===
+Bei der körperlichen Untersuchung fällt im Rahmen der Auskultation eine Spaltung des zweiten Herztones auf, welche fixiert ist, also sich während der Ein- und Ausatmung nicht ändert. Des Weiteren findet man ein leises Systolikum im 2. ICR links (Zwischenrippenraum), welches durch die relative Verengung der Pulmonalklappe zustande kommt; durch die relative Enge der Trikuspidalklappe kann es auch zu einem am unteren Sternum betonten Diastolikum kommen.
+
+
+=== Ultraschall ===
+Goldstandard zur Detektion ist die transösophagale Ultraschalluntersuchung mit einem nicht lungengängigen Kontrastmittel. Manchmal kann auch mit der Farbdopplerechokardiographie ein geringer Blutfluss durch diese Öffnung nachgewiesen werden.
+
+
+== Therapie ==
+Bei kleinen Defekten kann eine spontane Verkleinerung oder der selbständige Verschluss abgewartet werden. Wenn jedoch bereits eine Vergrößerung der rechten Herzhälfte vorliegt, sollte ein Verschluss des Defektes im Kleinkindalter (3. oder 4. Lebensjahr) erfolgen. Auch im Kindesalter kann die Operation heutzutage minimal-invasiv durch eine seitliche Eröffnung des Brustkorbes erfolgen. Besonders bei jungen Mädchen hat sich dieser Zugang als kosmetisch günstig und sehr gut akzeptiert erwiesen.
+Liegt der Defekt in der Mitte der Vorhofscheidewand, kann heute bei 70 % der Patienten ein Verschluss mit einem Doppelschirmchen durchgeführt werden. Dieses wird im Rahmen eines Herzkathetereingriffes eingesetzt. Die Durchführung kann in der Mehrzahl der Fälle unter transösophagealer echokardiografischer Kontrolle erfolgen. In Einzelfällen ist eine angiografische Darstellung erforderlich.
+Bei sehr großen oder ungünstig gelegenen Defekten muss eine Operation mit Hilfe der Herz-Lungen-Maschine durchgeführt werden. Je nach Größe wird der Defekt durch direkte Naht oder mit einem Flicken aus patienteneigenem Herzbeutelgewebe verschlossen.
+
+
+== Risiken ==
+Obwohl heutzutage ein diagnostizierter Atriumseptumdefekt in der Regel verschlossen wird, stellt diese Fehlbildung ein grundsätzliches Risiko für die Betroffenen dar. Da kleinere Atriumseptumdefekte (auch bei normalen Ultraschalluntersuchungen) teilweise unbemerkt bleiben, treten beispielsweise bei vermeintlich gesunden Tauchern trotz Einhaltung aller Vorsichtsmaßnahmen Tauchunfälle auf, da die Filterfunktion der Lunge durch den Atriumseptumdefekt unvollständig bleibt, die sonst eine Embolie im Körperkreislauf verhindert. Zusätzlich muss an paradoxe zerebrale Embolien (Apoplexie) gedacht werden (siehe oben).
+
+
+== Geschichte ==
+Zumindest seit Galenos von Pergamon erkannte man das Herz als Pumpe. Man musste also erklären, wie das Blut von der rechten Herzhälfte in die linke Herzhälfte gelangt. Man behauptete die Existenz unsichtbarer Poren, durch die das Blut die Herzscheidewand durchquert. „Die schwächste Stelle im Galenischen System war zweifelsohne die Lehre von den Poren im Herzseptum.“ Solche Poren konnten nie gesehen oder beschrieben werden. Trotzdem wurde die Poren-Theorie noch gelehrt als „Realdo Colombo schon klar den Durchtritt des Blutes über die Lungen in den andern Teil des Herzens postuliert hatte.“ So wurde der Lungenkreislauf schon lange vor William Harvey (1578–1657) von Colombo (1516–1559) beschrieben: „Die Herzscheidewand ist nicht durchlässig. Alle, die das behaupten, sind auf dem Irrweg. Das Blut gelangt durch die Lunge von der rechten in die linke Herzkammer.“ Oder durch einen Septumdefekt nach Shuntumkehr. – Analog konnten der große Kreislauf und damit der Blutkreislauf (Circulus sanguinis minor et maior) wegen der damals ebenfalls nicht sichtbaren Kapillaren bis zur Verbreitung des Mikroskops auch von William Harvey nicht schlüssig nachgewiesen werden. Galens ‚Poren‘ befinden sich also nicht im Septum, sondern im Kapillarnetz beider Kreisläufe.
+Schon Erasistratos unterschied den kleinen Lungenkreislauf vom großen Körperkreislauf und beschrieb die Herzklappen. Im 13. Jahrhundert entdeckte Ibn an-Nafis, ein arabischer Arzt und Anatom, wahrscheinlich als Erster, dass das Blut in einem Kreislauf durch die Lunge fließt. Seine Erkenntnisse, die als Zeichnungen bis in die heutige Zeit überliefert sind, gelangten jedoch nicht bis in den europäischen Raum.
+Im Jahr 1952 erfolgte durch Lewis der erste Vorhofseptumdefektverschluss in Hypothermie.
+
+
+== Literatur ==
+S2k-Leitlinie Vorhofseptumdefekt der Deutschen Gesellschaft für Pädiatrische Kardiologie (DGPK). In: AWMF online (Stand 2013)
+Klaus Holldack, Klaus Gahl: Auskultation und Perkussion. Inspektion und Palpation. Thieme, Stuttgart 1955; 10., neubearbeitete Auflage ebenda 1986, ISBN 3-13-352410-0, S. 193–197.
+Franz Grosse-Brockhoff, Franz Loogen, Adalbert Schaede: Angeborene Herz- und Gefäßmißbildungen. In: Handbuch der inneren Medizin. 4. Auflage. 9. Band, 3. Teil, Springer-Verlag, Berlin / Göttingen / Heidelberg 1960, ISBN 3-540-02538-3, Spezieller Teil, Kapitel VI: Vorhofseptumdefekt, S. 249–291.
+
+
+== Weblinks ==
+Beschreibung des ASD mit Grafiken
+
+
+== Einzelnachweise ==

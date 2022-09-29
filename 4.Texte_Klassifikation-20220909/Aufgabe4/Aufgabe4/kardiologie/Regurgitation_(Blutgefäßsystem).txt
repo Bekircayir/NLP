@@ -1,0 +1,27 @@
+Im Blutgefäßsystem wird mit Regurgitation ein Blutfluss bezeichnet, der im Herz oder herznahen Gefäßen in entgegengesetzter Richtung zur üblichen Fließrichtung erfolgt. Ursächlich dafür ist ein unvollständiger Verschluss einer der vier Herzklappen.   
+
+
+== Formen ==
+Aortenregurgitation: Rückfluss von Blut aus der Aorta in den linken Ventrikel bei Aortenklappeninsuffizienz
+Mitralregurgitation: Rückfluss aus dem linken Ventrikel in den linken Vorhof bei Mitralklappeninsuffizienz oder Mitralklappenprolaps
+Pulmonalregurgitation: Rückfluss von Blut aus der Arteria pulmonalis in den rechten Ventrikel bei Pulmonalklappeninsuffizienz
+Trikuspidalregurgitation: Rückfluss aus dem rechten Ventrikel in den rechten Vorhof bei Trikuspidalinsuffizienz
+
+
+== Regurgitationsfraktion ==
+Zur Quantifizierung einer Herzklappeninsuffizienz nutzt man den Quotienten aus Regurgitationsvolumen und Schlagvolumen.Bei Aorten- und Mitralinsuffizienz bezeichnet man eine Regurgitationsfraktion von
+
+< 30 % als geringgradige Insuffizienz
+30–50 % als mittelgradige Insuffizienz
+> 50 % als hochgradige Insuffizienz
+
+
+== Siehe auch ==
+Herzklappenfehler
+
+
+== Literatur ==
+Erland Erdmann, Hrsg., Klinische Kardiologie, Krankheiten des Herzens, des Kreislaufs und der herznahen Gefäße, 2011, 8. Auflage, Springer-Verlag, ISBN 978-3-642-16481-1
+
+
+== Einzelnachweise ==

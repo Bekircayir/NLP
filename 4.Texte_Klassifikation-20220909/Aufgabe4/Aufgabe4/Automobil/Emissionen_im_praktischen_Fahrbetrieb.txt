@@ -1,0 +1,49 @@
+Der Begriff Emissionen im praktischen Fahrbetrieb, auch im Deutschen weit verbreitet unter dem englischen Begriff Real Driving Emissions (RDE), beschreibt das reale Abgas-Emissionsverhalten von Autos, Lastwagen und Bussen im alltäglichen Gebrauch. Im weiteren Sinne ist hiermit auch das RDE-Prüfverfahren gemeint.
+
+
+== Historie ==
+Der zuständige Fachausschuss der Europäischen Union beschloss im Mai 2015 (Pkws emittierten weit mehr Abgase als bei Typgenehmigung-Abgastests gemessen) unter anderem, dass das seit 1992 durchgeführte Testverfahren NEFZ (Neuer Europäischer Fahrzyklus) durch eine Messung der Emissionen im praktischen Fahrbetrieb ergänzt werden soll.Bislang sind bei PKW Abgasmessungen zur Typgenehmigung ausschließlich auf klimatisierten Abgas-Rollenprüfständen vorgeschrieben. Unter diesen günstigen Bedingungen emittieren sie weniger als im realen Fahrbetrieb auf der Straße, u. a. weil eine konstante Umgebungstemperatur von bis zu 30 °C herrscht und weil im NE-Fahrzyklus nur vergleichsweise moderate Beschleunigungen gefordert werden. Dies betrifft sowohl Fahrzeuge mit Ottomotor (Benziner) als auch Dieselfahrzeuge. Grenzwerte für den realen Fahrbetrieb sind bei PKW bisher nicht vorgeschrieben. Für Dieselfahrzeuge zeigte eine Untersuchung des International Council of Clean Transportation (ICCT), dass diese im realen Fahrbetrieb bis zu sieben Mal so viele Stickoxide emittierten wie bei der Typprüfung auf dem Rollenprüfstand vorgeschrieben.Rollenprüfstandstests konnten durch eine Software im Fahrzeug manipuliert werden, indem sie erkennt, dass sich das Fahrzeug auf einem Prüfstand befindet. Die Software veranlasste eine maximale Abgasreinigung auf dem Prüfstand und (zwecks Reduktion des Harnstoffverbrauchs) reduzierte Abgasreinigung außerhalb des Prüfstands. Nach Bekanntwerden des VW-Abgasskandals im Herbst 2015 wurde dies öffentlich bekannt. Die EU-Politik hat für die Zukunft verbindliche Grenzwerte auch für PKW im realen Fahrbetrieb vorgeschrieben; diese dürfen um bis zu Faktor 2,1 über den Grenzwerten für das Labor liegen („Konformitätsfaktor“). Die Messung der Real Driving Emissions (RDE) von PKW wird in Zukunft laborgestützte Testverfahren ergänzen, so wie es bei LKW schon seit längerem der Fall ist.
+
+
+== RDE-Prüfverfahren in der Europäischen Union ==
+Das RDE-Prüfverfahren soll mehr Auskunft über das tatsächliche Emissionsverhalten von Fahrzeugen im Betrieb auf der Straße geben und gilt in der Europäischen Union seit September 2017 parallel. Unter Laborbedingungen werden im Vergleich zum realen Betrieb ca. 25 % geringere Emissionen gemessen. Eine Testerkennung durch das Fahrzeug ist somit nicht mehr möglich. Das Fahrzeug wird im Freien auf einer Strecke gefahren und dort beschleunigt und abgebremst. Ein mitgeführtes mobiles Abgasmessgerät (Portable Emission Measurement System, kurz PEMS) ermittelt unter anderem die Partikelzahl und die Konzentration von Stickoxiden.
+
+
+=== Einführung des RDE-Verfahrens für Pkw ===
+In der Verordnung 715/2007/EG sind unterschiedliche Emissionsgrenzwerte festgelegt. Die Varianten der Norm Euro 6 verlangen bei NOx ein Nichtüberschreiten eines Grenzwertes von 80 mg/km für Diesel-Pkw bzw. 60 mg/km für Otto-Pkw.
+Abweichend von ihrer Verordnung vereinbarten die EU-Mitgliedstaaten im Oktober 2015 sogenannte Konformitätsfaktoren, die Euro-6b-Grenzwerte dahingehend relativieren, dass die Stickoxid-Emissionen im praktischen Fahrbetrieb die Grenzwerte um den betreffenden Faktor überschreiten dürfen. Als Konformitätsfaktoren für die Typenzulassung neuer Modelle sind folgende Faktoren vorgesehen: 2,1 ab September 2017 (das heißt, der Grenzwert durfte um 110 % überschritten werden) und 1,5 seit Januar 2020 (das heißt, der Grenzwert darf um 50 % überschritten werden). Für die gesamte Neuwagenflotte, also auch die älteren Modelle, galten die Faktoren etwas später: der Faktor 2,1 ab September 2019 und der Faktor 1,5 seit Januar 2021.Mit Veröffentlichung des entsprechenden Vorschlags für eine Verordnung im Oktober 2015 betonte die Europäische Kommission, dass die neue Regelung einen deutlichen Fortschritt gegenüber der derzeitigen Überschreitung der Grenzwerte um durchschnittlich 400 % darstelle. Viele Stimmen aus der Automobilindustrie, aus der Europäischen Kommission und aus den nationalen Regierungen sprachen sich deutlich für eine Annahme der neuen Regeln aus, während andere ihn als eine unzulässige Aufweichung der Normen kritisierten. Der Umweltausschuss rief die Mitglieder des EU-Parlaments zu einem Veto auf, und der Rechtsausschuss (JURI) kam kurz vor der Abstimmung über das Veto mit nur knapper Mehrheit zum Schluss, dass die Neuregelung unzulässig sei, da sie gegen die Verordnung 715/2007/EG verstoße. Das Veto erhielt aber nicht die erforderliche Mehrheit, und der Entwurf wurde am 3. Februar 2016 vom EU-Parlament mit 323 zu 317 Stimmen beschlossen.Der Konformitätsfaktor für die Partikelanzahl beträgt 1,5 und wird seit September 2017 schrittweise eingeführt. Eine Unterscheidung in einen vorläufigen und endgültigen Konformitätsfaktor wie bei Stickodxiden gibt es nicht.Am 13. Dezember 2018 entschied das Gericht der Europäischen Union, dass die RDE-Konformitätsfaktoren über Faktor 1 für Pkw und Lkw nicht rechtmäßig sind, weil sie die Grenzwerte erhöhen und damit der 715/2007/EG widersprechen. Die Europäische Kommission prüft nun das Urteil und das Einlegen einer Berufung.
+Kritisch ist weiterhin, dass auch die sogenannten RDE-Messungen einen Teil der in der Realität vorkommenden Fahrtsituationen ausklammern, z. B. werden im Autobahn-Zyklus CADC MW150 Autobahnfahrten lediglich bis 150 km/h berücksichtigt.
+Jeder Hersteller ist verpflichtet, innerhalb von 30 Tagen die RDE-Messungen eines Fahrzeugtyps (zum Beispiel Gewicht, Aerodynamik, Getriebe, Motor) kostenlos zugänglich zu machen. Viele Daten werden über die European Automobile Manufacturers Association bereitgestellt.
+
+
+=== Ablauf und Regeln des RDE-Verfahrens für Pkw ===
+Das RDE-Testverfahren wird nur unter bestimmten Umweltbedingungen durchgeführt. Dabei wird zwischen gemäßigten und erweiterten Bedingungen unterschieden. Wenn die Prüfung unter erweiterten Bedingungen stattfindet sind die erlaubten Schadstoff-Grenzwerte um 60 % erhöht (nicht CO2).Für eine Übergangszeit von September 2017 bis Januar 2020 gelten etwas eingeschränktere Bereiche:
+Während des RDE-Testverfahrens dürfen die Klimaanlage sowie sonstige Nebenverbraucher normal benutzt werden.
+
+
+==== Fahrtstreckenanforderungen ====
+Die Strecke, die während des RDE-Testes gefahren wird, besteht aus drei Teilen: Stadtanteil, Landstraßenanteil und Autobahnanteil.
+Der RDE-Test muss immer mit dem Stadtanteil beginnen. Zudem muss das Fahrzeug mindestens 30 Minuten eingefahren werden sowie zwischen 6 und 56 Stunden mit geschlossenen Türen und geschlossener Motorhaube bei ausgeschaltetem Motor, und bei mittleren bis erweiterten Höhen- und Temperaturwerten abgestellt werden.
+
+
+=== RDE-Verfahren für Lkw ===
+Bei Lastkraftwagen, für die eine Zulassung nach Euro VI beantragt wird, ist das RDE-Prüfverfahren seit 2011 Bestandteil der Typzulassungsprüfung.
+
+
+== Messungen im Kanton Zürich und in den USA ==
+In der Gockhauserstrasse in Dübendorf bei Zürich werden vom Amt für Abfall, Wasser, Energie und Luft des Kantons Zürich (AWEL) seit dem Jahr 2000 Messungen bezüglich der realen Abgaswerte von Fahrzeugen durchgeführt. Hierbei werden die Emissionen der Fahrzeuge gemessen und mit Hilfe der Kontrollschilder ausschließlich die Typen der Fahrzeuge ermittelt. Die Messreihe erfasste hierbei bis heute bis zu 500.000 Fahrzeuge. Hierbei stellte sich heraus, dass die Fahrzeuge vieler Hersteller die Abgasnorm im täglichen Verkehr nicht einhalten – trotz bestandener Abgastests. Dies macht nach Meinung von Experten ein neues Testverfahren notwendig. Ein solches wird in den USA bereits seit zwei Jahrzehnten erfolgreich in mehreren Bundesstaaten mit Geräten desselben Herstellers, nämlich portablen, am Straßenrand aufbaubaren Abgasmessgeräten des schwedisch-amerikanischen Prüfkonzerns Opus Inspection eingesetzt, die pro Tag bis zu 5.000 vorbeifahrende Fahrzeuge messen können. Dies führt teils zur Identifizierung von „High Emittern“, die repariert oder aus dem Verkehr gezogen werden müssen, und wird in manchen Bundesstaaten sogar als Ersatz für eine stationäre Abgasuntersuchung eingesetzt, so dass den Fahrzeughaltern die Vorführung des Fahrzeugs zur stationären Abgasprüfung erspart bleibt („Clean Screening“). Mit Blick auf die Typzulassung am wirksamsten ist der Einsatz der millionenfach vorhandenen Messungen zur Analyse von systembedingt jenseits der Zulassungswerte liegenden Fahrzeugtypen. Der Einsatz dieser Technik ist in der US-Umweltgesetzgebung seit zwei Jahrzehnten durch Handbücher der US Environmental Protection Agency (US-EPA) verwurzelt (High Emitter Guidance, Clean Screen Guidance) und auch als Methode zur Überprüfung der Zuverlässigkeit der Arbeit stationärer Prüfstellen vorgesehen.
+
+
+== Siehe auch ==
+Abgasreinigung
+Abgasfilter
+
+
+== Weblinks ==
+Wissenschaftlicher Artikel zu den Zürcher Messungen
+Offizielle Dokumente der Kommission
+Artikel zu der Verwendung eines Remote Sensing Detector (RDS) zur kontaktfreien Abgasmessung
+Bericht über einen Abgastest im realen Verkehr (www.auto-motor-und-sport.de vom 1. Dezember 2015: Sieben Euro-6-Diesel, ein EA-189-Motor und ein Ottomotor)
+
+
+== Einzelnachweise ==

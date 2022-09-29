@@ -1,0 +1,35 @@
+Das Arboleda-Tham-Syndrom ist eine sehr seltene angeborene Erkrankung mit den Hauptmerkmalen Entwicklungsverzögerung, Intelligenzminderung, Kraniofaziale Fehlbildung und Herzfehler.Synonym: Autosomal-dominante Intelligenzminderung-kraniofaziale Anomalien-Herzfehler-Syndrom
+Die Bezeichnung bezieht sich auf Beschreibungen aus dem Jahre 2015 durch die US-amerikanischen Ärzte Valerie A. Arboleda, Hane Lee, Naghmeh Dorrani und Mitarbeiter sowie durch die schwedischen Ärzte Emma Tham, Anna Lindstrand, Avni Santani und Mitarbeiter.
+
+
+== Verbreitung ==
+Die Häufigkeit wird mit unter 1 zu 1.000.000 angegeben, bislang sind wenige Hundert Betroffene bekannt. Die Vererbung erfolgt autosomal-dominant.
+
+
+== Ursache ==
+Der Erkrankung liegen Mutationen im KAT6A-Gen auf Chromosom 8 Genort p11.21 zugrunde, welches für eine Lysin Acetyltransferase kodiert.
+
+
+== Klinische Erscheinungen ==
+Klinische Kriterien sind:
+Manifestation im Neugeborenenalter
+Trinkschwäche
+Muskuläre Hypotonie
+unterschiedlich ausgeprägte Entwicklungsverzögerung und geistige Beeinträchtigung, meist Sprachschwierigkeit
+Herzfehler bei etwa 50 % wie Atriumseptumdefekt, Ventrikelseptumdefekt, offenes Foramen ovale oder Persistierender Ductus arteriosusHinzu kommen häufig Gastroösophagealer Reflux, Obstipation und Augenveränderungen wie Strabismus, Amblyopie, seltener Mikrozephalie.
+
+
+== Diagnose ==
+Die Diagnose erfordert eine Humangenetische Untersuchung.
+
+
+== Therapie ==
+Eine Behandlung kann nur symptomatisch erfolgen, regelmäßige kardiologische Kontrollen  sowie Untersuchungen auf Gastroösophagealen Reflux sind erforderlich.
+
+
+== Literatur ==
+Y. F. Lin, T. C. Lin, R. Kirby et al: Diagnosis of Arboleda-Tham syndrome by whole genome sequencing in an Asian boy with severe developmental delay. In: Molecular genetics and metabolism reports. Band 25, Dezember 2020, S. 100686, doi:10.1016/j.ymgmr.2020.100686, PMID 33318932, PMC 7723794 (freier Volltext).
+J. Kennedy, D. Goudie, E. Blair et al.: KAT6A Syndrome: genotype-phenotype correlation in 76 patients with pathogenic KAT6A variants. In: Genetics in medicine : official journal of the American College of Medical Genetics. Band 21, Nummer 4, 04 2019, S. 850–860, doi:10.1038/s41436-018-0259-2, PMID 30245513, PMC 6634310 (freier Volltext).
+
+
+== Einzelnachweise ==

@@ -1,0 +1,35 @@
+Das bronchioloalveoläre Karzinom (BAK) ist ein Tumor der Lunge. Das bronchioloalveoläre Karzinom wird innerhalb der Bronchialkarzinome zu den Adenokarzinomen gerechnet. Dieses Karzinom unterscheidet sich von den übrigen Bronchialkarzinomen dadurch, dass es häufig relativ langsam wächst, kein invasives Wachstum zeigt und nur selten Metastasen außerhalb der Lunge bildet. Es hat insgesamt eine bessere Prognose als die anderen Bronchialkarzinome. Veraltete Begriffe für das BAK sind Alveolarzellkarzinom oder maligne Lungenadenomatose. Gelegentlich finden sich auch verschiedene Varianten des Namens, wie bronchoalveoläres Karzinom oder bronchio-alveoläres Karzinom.
+
+
+== Pathologie ==
+Beim bronchioloalveolären Karzinom finden sich in der Regel gut differenzierte Tumorzellen, die einschichtig die Alveolarwände tapetenartig auskleiden. Der Tumor wächst nicht-invasiv und das Lungengerüst bleibt erhalten. Neben diesen reinen BAK gibt es auch Adenokarzinome, die teilweise invasiv wachsen und teilweise ein bronchioloalveoläres Wachstumsmuster aufweisen (gemischtes Adenokarzinom mit BAK-Anteil). Einige Studien deuten darauf hin, dass die Prognose dieser gemischten Adenokarzinome umso ungünstiger wird, je größer der invasive, solide Anteil im Verhältnis zum BAK-Anteil ist.
+Weiterhin unterscheidet man ein muzinöses (schleimbildendes) BAK von einem nicht-muzinösen BAK. In der Regel wird der muzinösen Form eine etwas schlechtere Prognose zugeordnet.
+In den vergangenen Jahren gab es verstärkt Bemühungen, die Gesamtheit der Lungentumoren neu zu klassifizieren. Dabei wurde vorgeschlagen, auf den Begriff „Bronchioloalveoläres Karzinom“ ganz zu verzichten und stattdessen nach einer Neueinteilung Bezeichnungen wie „Adenokarzinom in situ“ (AIS) oder „minimal invasives Adenokarzinom“ (MIA) zu benutzen (Stand Juni 2012).
+
+
+== Epidemiologie ==
+Ca. 5 % aller Bronchialkarzinome entfallen auf das bronchioloalveoläre Karzinom. Auffallend ist, dass im Vergleich zu den übrigen Lungenkrebsformen relativ viele Nichtraucher und Frauen an diesem Tumor erkranken. Die meisten Patienten sind über 60 Jahre alt. Das Durchschnittsalter beträgt ca. 66 Jahre, ungefähr 6 % sind jünger als 50 Jahre. Die Häufigkeit in Ostasien scheint erhöht zu sein.
+
+
+== Diagnose ==
+In den meisten Fällen findet sich bei Erst-Diagnose ein einzelner (solitärer) Lungenrundherd im Röntgenbild. Manchmal ähnelt das Röntgenbild einer Pneumonie (diffuses Wachstum) oder es finden sich bereits zu Beginn mehrere Herde über die Lunge verteilt (multilokulär oder multifokal). Als Miliarform bezeichnet man eine Sonderform des multilokulären BAK, bei der sich unzählig viele kleine Herde über beide Lungenflügel verteilen. Im Computertomographie-Bild erkennt man häufig eine „milchglasartige Läsion“, teilweise ist auch das so genannte „Cheerio-Zeichen“ zu sehen. Eine histologische Untersuchung ist möglich, wenn zum Beispiel durch eine transthorakale Biopsie Tumormaterial gewonnen wurde. In vielen Fällen wird der Tumor zufällig bei asymptomatischen Patienten entdeckt. In fortgeschrittenen Fällen können Husten, Auswurf (muzinöse Form), Gewichtsabnahme (Kachexie) und eine zunehmende Atemnot auftreten.
+
+
+== Therapie ==
+Wie bei den übrigen nicht-kleinzelligen Bronchialkarzinomen wird man in den Anfangsstadien eine operative Entfernung des Tumors anstreben. Fraglich ist, ob bei sehr kleinen Tumoren eine begrenzte Operation (Keil- oder Segmentresektion) der Lappenentfernung (Standard-Lobektomie) vorgezogen werden kann. Hierzu laufen mehrere klinische Studien (Stand Mai 2008).
+Bei der Diskussion über den Nutzen eines Lungenkrebs-Screenings mittels CT tauchte in den vergangenen Jahren wiederholt die Frage auf, ob manche zufällig gefundenen Lungentumoren vielleicht derart langsam wachsen, dass ein Patient von einer Therapie kaum profitiert. Es wird kontrovers diskutiert, ob ein Teil der sehr kleinen (5 mm Durchmesser) bronchioloalveolären Karzinome solche „indolenten Lungenkrebse“ darstellen könnte (indolenter Tumor).
+In fortgeschrittenen Stadien bietet sich eine Chemotherapie, eine (wiederholte) Resektion (teilweise mit Laser) mehrerer Herde durch Keilresektionen (umstritten), eine Bestrahlung oder als Ultima Ratio eine Lungentransplantation an.
+Zurzeit werden auch Studien zum Einsatz von Erlotinib und Gefitinib als Erstmedikation und in der Kombinationstherapie durchgeführt. Es gibt Hinweise darauf, dass diese Medikamente (Tyrosinkinase-Inhibitoren) bei Vorliegen einer Mutation im Bereich des EGFR-Rezeptors eine relativ hohe Ansprechrate (Symptom-Verbesserung, Rückbildung der radiologischen Befunde) haben. Die Wahrscheinlichkeit einer solchen Mutation scheint für bronchioloalveoläre Karzinome und gemischte Adenokarzinome im Vergleich zu anderen Lungenkrebsformen erhöht zu sein.
+
+
+== Prognose ==
+Fünf Jahre nach der Diagnose leben noch ca. 40–50 % der Patienten. Nach operativer Entfernung im Anfangsstadium beträgt die Fünfjahresüberlebensrate sogar teilweise über 80 %. In fortgeschrittenen Stadien, wenn sich der Tumor auf mehrere Lungenlappen ausgebreitet hat und Beschwerden verursacht, ist die Prognose hingegen schlecht.
+
+
+== Literatur ==
+S. A. Yousem, M. B. Beasley: Bronchioloalveolar carcinoma: a review of current concepts and evolving issues. In: Arch Pathol Lab Med. Band 131, Nr. 7, Jul 2007, S. 1027–1032. PMID 17616987
+K. S. Lee, Y. Kim, J. Han, E. J. Ko, C. K. Park, S. L. Primack: Bronchioloalveolar carcinoma: clinical, histopathologic, and radiologic findings. In: Radiographics. Band 17, Nr. 6, Nov-Dez 1997, S. 1345–1357. PMID 9397450
+V. W. Rusch, R. Tsuchiya, M. Tsuboi, H. I. Pass, D. Grunenwald, P. Goldstraw: Surgery for bronchioloalveolar carcinoma and “very early” adenocarcinoma: an evolving standard of care? In: J Thorac Oncol. Band 1, Nr. 9 Suppl, Nov 2006, S. 27–31. PMID 17409998
+
+
+== Einzelnachweise ==

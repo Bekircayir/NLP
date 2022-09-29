@@ -1,0 +1,59 @@
+Der Begriff Myxom bezeichnet einen seltenen, gutartigen Tumor, der eine nur spärliche Gefäßversorgung aufweist und spindelförmige, fibroblastäre Zellen enthält. Grundsätzlich unterscheidet man zwei Arten von Myxomen: das intramuskuläre und das juxtaartikuläre.Am bekanntesten ist das Myxom des Herzens, das meist im linken Herzvorhof (atriales Myxom) zu finden ist und zu Herzrhythmusstörungen und Blutgerinnseln (Embolie) führt. Eine erbliche Form der Myxome liegt beim Carney-Komplex vor. Charakteristisch ist hier das Auftreten von Myxomen nicht nur im Herzen, sondern auch in Haut, Brust, Nervengewebe und Schilddrüse.
+
+
+== Intramuskuläres Myxom ==
+Das intramuskuläre Myxom tritt bevorzugt im Erwachsenenalter (Gipfel 40 und 70 Jahre) bei Frauen in den großen Skelettmuskeln nahe dem Körperstamm auf und imponiert dort als klar umschriebene Tumormasse.
+
+
+== Juxtaartikuläres Myxom ==
+Das juxtaartikuläre Myxom tritt bevorzugt im mittleren Lebensalter nahe den großen Gelenken auf. Seine Ursache ist unbekannt. Es verursacht meist keine klinischen Beschwerden und findet sich so meist als Zufallsbefund bei der histologischen Aufarbeitung nach Synovektomie.
+
+
+== Myxom des Herzens ==
+
+
+=== Vorkommen ===
+In Autopsieserien ist bei bis zu 0,3 % ein Myxom zu finden. Frauen sind etwa dreimal so häufig betroffen wie Männer. Der Altersgipfel liegt zwischen dem 40. und 60. Lebensjahr.
+
+
+=== Lokalisation ===
+Der Tumor kann in allen vier Herzhöhlen vorkommen, findet sich aber zu 85 % im linken Vorhof.
+
+
+=== Symptome ===
+Wenn sich das Myxom im linken Vorhof befindet kann es, je nachdem ob es die Klappe obstruiert oder destruiert, Zeichen der Mitralstenose bzw. Mitralinsuffizienz verursachen. Wenn ein gestielter Tumor nur gelegentlich die Mitralklappe verlegt, kann dies zu kurzdauernden Kollapszuständen führen.
+Zudem das Erscheinungsbild einer konsumierenden Systemerkrankung: Fieber, Gewichtsverlust, Kachexie, Müdigkeit, Anämie.
+Herzrhythmusstörungen können sich dem Patienten als Palpitationen (Herzstolpern) zeigen. Ansonsten macht sich das Myxom oft erst durch Embolien (s. u.) bemerkbar.
+
+
+=== Pathologie ===
+Makroskopisch handelt es sich um eine kugelförmige polypöse oder zottige Geschwulst mit weicher gallertartiger Konsistenz. Obwohl der Tumor histologisch mit einem Thrombus in Organisation verwechselt werden kann, leitet er sich pathogenetisch von einer echten Neoplasie undifferenzierter endokardialer Mesenchymzellen ab. Die Tumoren werden im Durchschnitt 5–6 cm groß und haften dem Endokard in der Regel gestielt an (selten breitbasig).
+
+
+=== Komplikationen ===
+Am häufigsten treten Herzrhythmusstörungen auf (> 50 %). Gefährlich sind auch Blutgerinnsel (Thrombus), die sich am Myxom bilden und lösen können. Das Blutgerinnsel wird mit dem Blut ausgeschwemmt (Embolie bei 25 % der Patienten) und kann im Gehirn zu Durchblutungsstörungen (Schlaganfall) oder zu Gefäßverschlüssen in den Beinen führen. Ein akutes Lungenödem infolge Linksherzversagen sowie plötzlicher Herztod können bei Lungenembolie auftreten.
+Durch ein Myxom kann zudem der Abfluss aus den Lungenvenen behindert sein und sich infolgedessen eine pulmonale Hypertonie entwickeln.
+
+
+=== Behandlung ===
+Die Behandlung lebensbedrohlicher Komplikationen wie Herzrhythmusstörungen und Embolien steht im Vordergrund. Um das Entstehen weiterer Blutgerinnsel (Thromben) zu verhindern, wird die Blutgerinnung medikamentös gebremst (Antikoagulation).
+Das Myxom wird meist im Rahmen einer Herzoperation entfernt. Dabei ist ein vorübergehender Herzstillstand und der Einsatz einer Herz-Lungen-Maschine notwendig. Bei der Operation wird das Myxom und ein Teil der Herzwand herausgeschnitten. Das Loch in der Herzwand wird mittels einer sogenannten Patchplastik verschlossen.
+
+
+== Siehe auch ==
+Nervenscheidenmyxom
+
+
+== Literatur ==
+Riede/Schäfer: Pathologie. ISBN 3-13-683303-1.
+J. Puntila et al.: Positive genetic test led to an early diagnosis of myxoma in a 4-year-old boy. In: Interact Cardiovasc Thorac Surg. 2006 Oct;5(5), S. 662–663. PMID 17670676
+Harrisons Innere Medizin. 16. Auflage. Band 1, S. 1523.
+Artikel zur radiologischen Unterscheidung Myxom vs. Thrombus
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+
+T. Bossert, Diagnostische und therapeutische Strategien bei Herztumoren., Friedrich-Schiller-Universität Jena (PDF-Datei; 2,89 MB)

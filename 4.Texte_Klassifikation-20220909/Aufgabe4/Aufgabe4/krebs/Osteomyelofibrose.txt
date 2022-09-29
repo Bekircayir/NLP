@@ -1,0 +1,85 @@
+Die Osteomyelofibrose (OMF), auch primäre Myelofibrose (PMF), chronische idiopathische Myelofibrose (CIMF), idiopathische Myelofibrose (IMF) oder Osteomyelosklerose (OMS) genannt, gehört zur Gruppe der Myeloproliferativen Neoplasien und stellt eine fortschreitende maligne (bösartige) Erkrankung des blutbildenden Knochenmarks dar. Sie ist durch einen zunehmenden bindegewebigen Umbau („Fibrose“) des Knochenmarks gekennzeichnet.
+Von der OMF abzugrenzen sind andere Formen der Knochenmarkfibrose, die „sekundären“ Myelofibrosen, die als Folge einer anderen Erkrankung entstehen und nicht notwendigerweise maligne Erkrankungen sind.
+
+
+== Häufigkeit ==
+Die Osteomyelofibrose ist eine seltene Erkrankung, von der Frauen häufiger betroffen sind. Der Manifestationsgipfel liegt zwischen dem 50. und 60. Lebensjahr. Die Inzidenz beträgt ca. 1,5:100.000/Jahr oder ca. 1200 Fälle pro Jahr in Deutschland.
+
+
+== Ursachen ==
+Mögliche Ursachen für die OMF sind:
+
+Primäre OMF: „zufällig“ erworbene Gendefekte
+Sekundäre OMF:Reaktion auf Einwirkungen von chemischen oder physikalischen Noxen, z. B. ionisierende Strahlen
+Sekundärerkrankung infolge einer anderen Krankheit, die das Knochenmark verändert, z. B. bei der Polycythaemia vera und bei der essentiellen Thrombozythämie
+weitere unbekannte UrsachenAuch bei den sekundären Formen geht man zum Teil davon aus, dass diese durch erworbene Gendefekte verursacht sind (alle bösartigen, d. h. Tumorerkrankungen sind genetisch bedingte Erkrankungen), jedoch sind diese Gendefekte nicht quasi „sporadisch“ aufgetreten, sondern aufgrund einer klar definierbaren vorangegangenen Schädigung.
+
+
+== Wortherkunft ==
+Das Wort Osteomyelofibrose wird aus folgenden Bestandteilen gebildet:  os (altgriechisch ὀστέον ostéon, der „Knochen“), myelon (altgriechisch μύελος myelos), das „Mark“ und fibrös (neulateinisch fibrosus, „faserreich“) mit dem Suffix -ose (altgriechisch -ωσις, „-heit“, „-keit“; in der Medizin als Endung für meist nicht-entzündliche Erkrankungen und Zustände).
+
+
+== Pathogenese ==
+Bei der OMF kommt es zu einer progredienten Fibrosierung (Verödung) des blutbildenden Knochenmarkgewebes.
+Die Blutbildung ist gestört. Vermutlich setzen die veränderten Blutzellen und ihre Vorstufen Substanzen frei, die eine vermehrte Faserbildung im Knochenmarksgewebe hervorrufen. Die Blutbildung wird daher gewissermaßen aus dem Knochenmark verdrängt und findet immer mehr in der Leber und Milz statt. Folge sind eine vergrößerte Milz und eventuell auch Leber.
+Bei der Mehrzahl der Patienten wurden spezifische Gendefekte als wesentliche Ursache für die Entstehung der Erkrankung identifiziert. Am häufigsten (in etwa 50 %) findet sich eine Punktmutation im Gen JAK2 („Januskinase 2“), die zu einem Aminosäureaustausch V617F (Austausch der Aminosäure Valin an Position 617 gegen Phenylalanin) führt. Am zweithäufigsten (in etwa 25 %) werden Mutationen im Gen CALR (Calreticulin) beobachtet und in etwa 5 % der Fälle liegt eine Mutation in MPL, dem Gen für den Thrombopoetin-Rezeptor vor (fast immer ist hier W515 mutiert, d. h. Tryptophan an Position 515). Da sich diese Mutationen jedoch auch bei anderen, verwandten Erkrankungen finden (alle bei Essentieller Thrombozythämie, die JAK2-Mutation bei Polyzythämia vera) wird davon ausgegangen, dass noch weitere, bisher noch nicht sehr gut charakterisierte Mutationen hinzukommen, um den klinischen Phänotyp einer Osteomyelofibrose zu verursachen. Diese Gendefekte sind erworben, also nicht ererbt und auch nicht vererbbar, da die Keimbahnzellen nicht betroffen sind (die Gendefekte finden sich nur in den Zellen des blutbildenden Systems).
+
+
+== Klinik/Symptome ==
+
+Am Anfang der Krankheit bleiben die Patienten symptomlos, erst nach längerer Zeit wird die Erkrankung diagnostiziert.
+Symptome können sein:
+
+Anämie
+Thrombozytopenie, eventuell verbunden mit Blutungsneigung
+Leukozytose mit Linksverschiebung des Blutbildes (Auftreten von unreifen Vorstufen der Blutzellen im peripheren Blut)
+erhöhte alkalische Leukozytenphosphatase
+Erythrozyten mit „Tränentropfenform“ (=Dakryocyten, teardrop-Poikilozytose) im Blutausstrich
+Verdrängungssymptome im Bauchraum bei großer Milzvergrößerung: Inappetenz, unregelmäßiger Stuhlgang, Bauchschmerzen, Durchfall, Spannungsgefühl
+Nachtschweiß, Gewichtsverlust, unerklärtes Fieber (sogenannte „B-Symptome“)
+Allgemeinsymptome: Schwächegefühl, Leistungsknick, Müdigkeit
+
+
+== Diagnostik ==
+Anamnese: Müdigkeit und Gewichtsverlust (siehe Symptome)
+Blutbild zeigt Leukozytose und Linksverschiebung (Auftreten von unreifen Vorstufen der Blutzellen im peripheren Blut; siehe auch Erythrozytenverteilungsbreite)
+Klinische Untersuchung, sowie Ultraschalluntersuchung der Milz und Leber, ggf. Computertomografie oder MRT des Bauchraums
+Diagnosesicherung durch Knochenmarkpunktion (KMP) mit histologischer und zytologischer Aufarbeitung und Abgrenzung von anderen myeloproliferativen Neoplasien. Bei der Knochenmarkpunktion lässt sich häufig aufgrund der Fibrosierung kein flüssiges Knochenmark aspirieren (Punctio sicca, „trockene Punktion“).
+Knochenmark- bzw. Blutuntersuchung auf das Vorliegen einer JAK2 V617F-Mutation bzw. von Calreticulin (CALR)- und MPL-Mutationen. Diese genetischen Untersuchungen sollten idealerweise aus (EDTA-)Knochenmark-Aspirat durchgeführt werden. Wenn das nicht möglich ist, kann auch (EDTA-)Blut verwendet werden.
+
+
+== Differentialdiagnosen ==
+andere myeloproliferative Erkrankungen, insbesondere eine chronische myeloische Leukämie (CML) sollte nicht übersehen werden
+Myelodysplasien
+Knochenmarkkarzinose
+toxische Schädigung des Knochenmarks
+
+
+== Therapie ==
+Die OMF ist eine chronische und anspruchsvolle Erkrankung und sollte von Hämatologen behandelt werden. Bei der OMF kann eine Kombination aus symptomatischen Behandlungen zur Linderung der Symptome, sowie medikamentösen und ggf. auch strahlentherapeutischen Maßnahmen erfolgen:
+
+bei ausgeprägter Leukozytose: medikamentöse Therapie mit Hydroxyurea; Nachteile: die Leukozytose kann zwar verringert werden, aber auch die übrige Blutbildung (Erythropoese, Thrombopoese) wird gedämpft, was unerwünscht ist; die Behandlung mit Hydroxyurea hat keinen Einfluss auf den Krankheitsverlauf, sie verhindert nicht das Fortschreiten der Erkrankung.
+bei ausgeprägter Anämie: Transfusion von Erythrozytenkonzentraten („Bluttransfusion“)
+bei ausgeprägter Thrombozytopenie oder Blutungsneigung: Transfusion von Thrombozytenkonzentraten
+bei ausgeprägter Splenomegalie mit zugehörigen Beschwerden: entweder medikamentöse Therapie oder lokale Milzbestrahlung (resultiert in einer vorübergehenden Verkleinerung der Milz, der Effekt hält allerdings meistens nur kurze Zeit an, heute selten durchgeführt)
+Interferon alpha: IFNa ist ein Zytokin, was subcutan verabreicht werden muss und bei einigen Fällen von Myelofibrose Wirksamkeit zeigt; IFNa ist zwar kein Zytostatikum, zeigt aber trotzdem einige Nebenwirkungen, die seine Einsatzmöglichkeiten begrenzen.
+Ruxolitinib: Seit dem Jahr 2012 ist ein relativ spezifisches Medikament zur Behandlung der OMF zugelassen: Ruxolitinib, ein JAK2-Tyrosinkinase-Inhibitor, der als Tablette eingenommen wird. Ruxolitinib wird sowohl bei Patienten mit als auch bei solchen ohne JAK2 V617F-Mutation verabreicht, da auch bei der letzteren Patientengruppe der JAK2-Signaltransduktionsweg gesteigert ist. Die Ziel-Dosis sind 2 × 20 mg täglich. Bei niedrigen Thrombozytenzahlen muss mit einer geringeren Dosierung begonnen werden.Die einzige kurative Behandlungsform ist die allogene Blutstammzell- oder Knochenmarktransplantation. Diese kann jedoch vielfach bei OMF-Patienten nicht durchgeführt werden, da diese ein zu hohes Alter haben und nicht mehr körperlich „fit“ genug sind für eine so beanspruchende Behandlung. Die Mortalität der allogenen Transplantation ist erheblich und liegt bei etwa 20–30 %.
+
+
+== Prognose ==
+Da die Prognose von vielen Faktoren abhängig ist (Primär- oder Sekundärerkrankung, andere Erkrankungen), ergeben sich keine generalisiert darstellbaren Ergebnisse. Das mediane Überleben nach Diagnosestellung betrifft je nach Studie zwischen 4 und 7 Jahren, obwohl auch Langzeitüberlebende bis 20 Jahre beschrieben worden sind. Die wichtigsten Todesursachen sind schwere Infekte (aufgrund der Knochenmarksschwäche) und die Umwandlung in eine aggressive Form der akuten Leukämie.
+
+
+== Weblinks ==
+Expertengruppe CMPE Informationen zur Idiopathischen Myelofibrose / Osteomyelofibrose
+Internet-Seiten der Deutschen Leukämie- & Lymphom-Hilfe (DLH)
+Neue Leitlinien der DGHO (Deutsche Gesellschaft für Hämatologie und Onkologie)
+Informationen über Myelofibrose Auf der Webseite des MPN Selbsthilfeforums
+
+
+== Siehe auch ==
+Myeloproliferative Neoplasie
+Chronische myeloische Leukämie
+
+
+== Einzelnachweise ==

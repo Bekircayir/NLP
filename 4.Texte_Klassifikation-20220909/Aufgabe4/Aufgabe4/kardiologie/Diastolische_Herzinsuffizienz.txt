@@ -1,0 +1,55 @@
+Die diastolische Herzinsuffizienz, auch Herzinsuffizienz bei erhaltener systolischer Pumpfunktion (HFpEF von engl. heart failure with preserved ejection fraction) oder Herzinsuffizienz mit erhaltener systolischer linksventrikulärer Funktion, ist eine Form der Linksherzinsuffizienz. Wenn die diastolische Herzinsuffizienz zusammen mit oder als Folge von einer arteriellen Hypertonie (Bluthochdruck) auftritt, wird sie auch als Hypertensive Herzkrankheit bezeichnet.
+Bei der diastolischen Herzinsuffizienz liegt eine Funktionsstörung in der Entspannungsphase des Herzens (Diastole) vor, dementsprechend wird der zugrundeliegende Pathomechanismus als "Diastolische Dysfunktion" bezeichnet. Die Pumpfunktion des Herzens in der Kontraktionsphase (Systole) ist nicht oder nur wenig beeinträchtigt.
+
+
+== Verbreitung ==
+Zwischen 22 und 73 % aller Patienten, die Symptome einer Herzinsuffizienz aufweisen, leiden an einer isolierten diastolischen Funktionsstörung.
+
+
+== Ursache ==
+
+Die diastolische Herzinsuffizienz ist definiert als erhöhter Füllungswiderstand vorwiegend der linken Herzkammer bei normaler systolischer Pumpfunktion.
+Die Herzkammer hat entweder eine eingeschränkte aktive Entspannungsfähigkeit (Relaxation) u. a. infolge von
+
+Durchblutungsstörung (Ischämie),
+Wanddickenzunahme (Hypertrophie durch Bluthochdruck, Druckbelastung bei Herzklappenerkrankungen, hypertrophe Kardiomyopathie) oder
+Alterungoder eine verminderte passive Dehnbarkeit (Compliance) z. B. aufgrund
+
+einer Narbe infolge eines zurückliegenden Herzinfarktes oder
+einer restriktiven Kardiomyopathie (wie sie etwa bei einer Amyloidose auftreten kann)In seltenen Fällen kann eine Destabilisierung des Transthyretin-Proteins eine Transthyretin-Amyloidose mit Kardiomyopathie (ATTR-CM) mit diastolischer Herzinsuffizienz verursachen.
+
+
+== Symptome ==
+Allein anhand der Symptome ist eine diastolische Herzinsuffizienz nicht von der systolischen Herzinsuffizienz zu unterscheiden. Wenn aber deutliche Zeichen einer Herzinsuffizienz vorliegen, die Pumpfähigkeit des Herzens aber nicht verringert ist (Auswurfleistung EF > 50 %), macht das eine diastolische Herzinsuffizienz wahrscheinlich.Die Symptome der diastolischen Herzinsuffizienz sind in erster Linie durch das niedrige Herzzeitvolumen bei eingeschränkter Füllung des versteiften, linken Ventrikels (linke Kammer) bedingt.
+
+
+== Diagnose ==
+Die Diagnose der diastolischen Herzinsuffizienz ist manchmal komplex und erfordert einige ergänzende Verfahren. Zentralen Stellenwert bei der Diagnose der diastolischen Herzinsuffizienz hat die Echokardiographie.Bei der diastolischen Herzinsuffizienz ist der linksventrikuläre enddiastolische Druck (LVEDP) erhöht. Das linksventrikuläre enddiastolische Volumen (LVEDV) ist normal oder erniedrigt. Die Herzfrequenz bleibt unverändert oder ist erniedrigt. Die Blutauswurfmenge (Ejektionsfraktion) ist normal  oder erhöht (EF > 50 %).Zur Diagnose ist die diastolische Dysfunktion, zu deren Diagnose und Schweregradeinteilung werden in der Echokardiographie verschiedene Messwerte verwendet. Dazu zählen folgende:
+
+Bewegung des Mitralklappenanulus im Gewebe-Doppler (E/E')
+Größe des linken Vorhofs
+Dezelerationszeit von MV-E
+E/A-Verhältnis im Pulsed-Wave-DopplerWährend die NYHA-Klassifikation eine Gradeinteilung der Schwere der klinischen Symptome vornimmt, wird die Schwere der diastolischen Dysfunktion nach Befunden der Echokardiographie in folgende Grade eingeteilt:
+
+I Normal
+II Relaxationsstörung
+III Pseudonormalisierung
+IV Restriktiv
+IVa: reversibel
+IVb: irreversibel.
+In der Druck-Volumen-Kurve des linken Ventrikels (siehe Bild) verursacht die diastolische Herzinsuffizienz  im Krankheitsverlauf eine Verschiebung nach oben und nach links, in Abhängigkeit von der zunehmend verminderten ventrikulären Compliance.
+
+
+== Prognose ==
+Wenn durch den erhöhten linksventrikulären enddiastolischen Druck (LVEDP) ein Rückstau über den linken Vorhof und die Pulmonalvenen entsteht, kann dies zu einer kardialen Dekompensation mit Atemnot und peripheren Ödemen bis hin zum Lungenödem führen.
+
+
+== Behandlung ==
+Die in der Therapie der systolischen Herzinsuffizienz wirksamen Medikamente (ACE-Hemmer, AT1-Rezeptorblocker, Beta-Blocker) sind bei der diastolischen Herzinsuffizienz wirkungslos. Das Medikament Spironolacton zeigte in einer Studie eine Verbesserung der diastolischen Herzmuskelfunktion, eine Abnahme der Hypertrophie und der laborchemischen Marker für Herzinsuffizienz (NTproBNP), jedoch ohne Besserung der Symptome oder der  Leistungsfähigkeit. Vor allem Menschen mit einer diastolischen Herzinsuffizienz im fortgeschrittenen Stadium haben aber in Hinblick auf Hospitalisierung und Prognose von Spironolacton profitieren können.
+
+
+== Siehe auch ==
+systolische Herzinsuffizienz
+
+
+== Einzelnachweise ==

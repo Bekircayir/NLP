@@ -1,0 +1,100 @@
+Trikuspidalklappeninsuffizienz, auch Trikuspidalinsuffizienz genannt, ist in der Medizin die Bezeichnung für eine Undichtigkeit der Trikuspidalklappe des Herzens, die während der Auswurfphase (Systole) zu einem Rückfluss von Blut aus der rechten Herzkammer in den rechten Vorhof und die Hohlvenen (→ Aufbau des Herzens) führt.
+Leichte Formen der Trikuspidalinsuffizienz werden bei Ultraschalluntersuchungen des Herzens (Echokardiografie) recht häufig entdeckt und sind in der Regel harmlos. Schwere Formen erfordern eine genaue Abklärung.
+Meist ist die Trikuspidalinsuffizienz Folge einer Überdehnung des Halteringes (Anulus fibrosus) der Trikuspidalklappe oder eines zu hohen Drucks in der rechten Herzkammer, die Klappe selbst wäre noch ausreichend funktionstüchtig. Dies bezeichnet man als sekundäre Klappeninsuffizienz. Eine Trikuspidalinsuffizienz kommt darüber hinaus als einzelner angeborener Herzfehler vor oder tritt in Begleitung anderer angeborener Herzfehler oder als Folge von anderen angeborenen Krankheiten des Bindegewebes auf.
+Zu unterscheiden ist zwischen einer akuten Trikuspidalinsuffizienz (zum Beispiel im Rahmen einer Lungenembolie) und einer chronischen Insuffizienz (zum Beispiel im Rahmen einer primären pulmonalen Hypertonie).
+
+
+== Epidemiologie ==
+Obgleich sie zu den häufigen Klappenfehlern beim Menschen zählt, sind genaue Häufigkeitsangaben nicht verfügbar, da die Diagnose sehr von der Genauigkeit der Herzuntersuchung abhängt beziehungsweise die Klappenerkrankung nur eine Folge anderer Erkrankungen ist und dann nicht mehr explizit genannt wird.
+Bei Sportlern und jungen Personen kann häufig eine gering ausgeprägte Trikuspidalinsuffizienz ohne Krankheitswert nachgewiesen werden. Diese beruht vermutlich auf einer Vergrößerung des Herzens im Rahmen des Trainings und auf einer Aufdehnung des Trikuspidalklappenrings. Durch ein Auseinanderziehen der Segel im Rahmen dieser Aufdehnung ist der Klappenschluss nicht mehr vollständig.
+
+
+== Pathophysiologie ==
+Die Trikuspidalklappe funktioniert wie ein Ventil zwischen dem rechten Vorhof und dem rechten Ventrikel des Herzens. Sie öffnet sich in der Füllungsphase des Ventrikels (Diastole) und ermöglicht so den Einstrom von Blut aus dem Vorhof. Zu Beginn der Auswurfphase (Systole) führt der plötzlich ansteigende Druck im Ventrikel zum Schluss der Klappe und damit zur „Abdichtung“ des Vorhofs. Auf diese Weise herrscht im Vorhof nur ein Druck von etwa 4 mmHg, während gleichzeitig im Ventrikel der systolische Druck von etwa 25 mmHg das Blut auf seinem üblichen Weg in die Lungenschlagader (Pulmonalarterie) treibt.
+Bei einer leichten Trikuspidalinsuffizienz sind diese physiologischen Vorgänge nur geringfügig verändert. Weder die Größe der Undichtigkeit (Regurgitationsöffnung) noch die Menge zurückströmenden Blutes (Regurgitationsvolumen, Pendelvolumen, Rückstromvolumen) erreichen bedeutsame Ausmaße, so dass die Drücke im rechten Vorhof und in den Hohlvenen ebenso normal bleiben wie die Förderleistung des Herzens.
+Bei der schweren Trikuspidalinsuffizienz hingegen betragen die Regurgitationsöffnung (also die Klappenöffnungsfläche KÖF) mehr als 40 mm² und das Regurgitationsvolumen mehr als 60 ml, was zu schwerwiegenden und zum Teil lebensbedrohlichen Veränderungen führen kann.
+Im akuten Stadium, bei normaler Größe von rechtem Ventrikel und rechten Vorhof, kommt es zu einem erheblichen Anstieg des Drucks im Vorhof und damit auch in den Hohlvenen. Dieser kann bis zu 50 mmHg betragen, was bei einer normalen Beschaffenheit der Hohlvenen zum sofortigen Leberstau und zum venösen Stau in die Halsvenen führt. Darüber hinaus kann der dann überwiegende Blutrückstrom eine mangelhafte Auswurfleistung in die Lungenschlagader und damit eine Mangeldurchblutung aller Organe nach sich ziehen.
+Ist das Akutstadium überstanden oder entwickelt sich die Trikuspidalklappeninsuffizienz über einen längeren Zeitraum, so kommt es chronisch zu einer Reihe von Anpassungsvorgängen (Kompensationsmechanismen) am Herzen und an den vorgeschalteten Venen. Zunächst führt die anhaltende Druck- und Volumenbelastung des Vorhofes zu dessen Vergrößerung (Dilatation, Dilatatio cordis), wobei das Vorhofvolumen innerhalb von Monaten und Jahren oft auf das Drei- bis Vierfache zunehmen kann. Diese Dilatation mindert im Laufe der Zeit auch den drucksteigernden Effekt des Regurgitationsvolumens in den Hohlvenen und in der Leber. Zusätzlich bewirkt die Volumenbelastung auch eine Vergrößerung des rechten Ventrikels, der jetzt mit jedem Herzschlag zusätzlich zur eigentlich benötigten Blutmenge auch das Regurgitationsvolumen fördern muss. Diese Dilatation kann zwar einerseits über den Frank-Starling-Mechanismus auch das Schlagvolumen erhöhen, leitet aber andererseits in einen Teufelskreis, wenn mit der Erweiterung des Ventrikels auch die Geometrie der Klappe gestört und deren Insuffizienz auf diesem Weg noch verstärkt wird.
+
+
+== Einteilung und Nomenklatur ==
+Die Klassifikation der Trikuspidalinsuffizienzen wird nicht einheitlich vorgenommen:
+Als organisch (oder valvulär) wird die Insuffizienz dann bezeichnet, wenn Veränderungen der Klappe selbst als Ursache identifiziert wurden. Eine funktionelle (sekundäre) Insuffizienz hingegen ist Folge von Veränderungen der umgebenden Strukturen, hauptsächlich des rechten Ventrikels und rechten Vorhofes.
+Eine geringe Undichtigkeit der Klappe, die keinen Krankheitswert hat, kann mit Hilfe empfindlicher Untersuchungsverfahren bei bis zu 90 % aller herzgesunden Erwachsenen festgestellt werden. Sie wird oft als physiologische Trikuspidalinsuffizienz oder minimale Trikuspidalregurgitation bezeichnet.
+„Echte“ Trikuspidalinsuffizienzen werden üblicherweise in Schweregrade eingeteilt, wobei heutzutage meist drei (leicht, mittelschwer und schwer), gelegentlich auch noch vier (Grad I bis Grad IV) Ausprägungen unterschieden werden.
+
+
+== Ursachen ==
+Die solitäre angeborene Trikuspidalinsuffizienz ist selten. Meist liegt eine Trikuspidalinsuffizienz im Rahmen kombinierter anderer Herzfehler vor.
+Häufiger ist die sekundäre 
+
+Trikuspidalinsuffizienz nach Lungenembolie,
+Trikuspidalinsuffizienz bei pulmonalem HochdruckJede Volumen- oder Druckbelastung des rechten Herzens kann über kurz oder lang zu einer Trikuspidalinsuffizienz führen.
+Eine bakterielle und auch eine nicht-bakterielle Endokarditis können zu einer Zerstörung oder narbigen Schrumpfung von Klappengewebe und so zu einer Trikuspidalinsuffizienz führen. Im Gegensatz zur Endokarditis der Klappen des linken Herzens sind vor allem Menschen mit gehäufter Bakteriämie und Abwehrschwäche anfällig für eine bakterielle Besiedelung der Trikuspidalklappe (beispielsweise Drogenabhängige mit intravenöser Drogenzufuhr, Dialysepatienten, Alkoholiker).
+Ein Sonderfall ist das Auftreten einer geringen Trikuspidalinsuffizienz nach Einführung einer Elektrode vom rechten Vorhof in den rechten Ventrikel im Rahmen einer Herzschrittmacherimplantation.
+
+
+== Krankheitsbild ==
+
+
+=== Symptome und klinische Zeichen ===
+Leichtere Formen werden vom Betroffenen nicht bemerkt. Die typischen Symptome der schweren Trikuspidalinsuffizienz sind Beinödeme, Leber- und Halsvenenstauung. Herzrhythmusstörungen, die bei der Trikuspidalinsuffizienz häufiger auftreten, können sich in Form von Herzstolpern oder Herzrasen bemerkbar machen.
+Der wichtigste und wegweisende Befund bei der körperlichen Untersuchung ist ein hochfrequentes bandförmiges systolisches Herzgeräusch, das durch Auskultation meist über dem epigastrischen Winkel am lautesten zu vernehmen ist. Die Lautstärke des Geräusches ändert sich oft mit der Ein- und Ausatmung (Das Lauterwerden bei tiefer Einatmung wird Rivero-Carvallo-Zeichen genannt). Daneben können eine Halsvenenstauung und Ödeme festgestellt werden. Nicht selten tastet man eine vergrößerte Leber und teilweise auch einen Aszites (Wasser im Bauch). Typisch sind bei der Inspektion sichtbare und tastbare Pulsationen der Halsvenen und auch die im Epigastrium zu sehenden und bei der Palpation tastbaren Leberpulsationen.
+Bei der Perkussion können die Vergrößerung des rechten Vorhofs durch eine Verbreiterung der Herzdämpfung nach rechts und die Vergrößerung der rechten Herzkammer durch eine Verbreiterung der Dämpfung nach links oben festgestellt werden.
+Bei Kindern und Jugendlichen unterscheiden sich die Symptome der Erkrankung nicht von den Symptomen im Erwachsenenalter. Bei kleinen Kindern und Neugeborenen sind die Symptome Entwicklungsverzögerung bzw. Wachstumsstillstand hervorzuheben: Trotz ausreichender Nahrungsaufnahme steigt bei Kindern mit bedeutsamer Trikuspidalinsuffizienz das Gewicht nicht an, auch die erwartete Größenzunahme bleibt aus. Ansonsten korreliert auch bei Kindern der Schweregrad der Klappeninsuffizienz mit dem Schweregrad der Symptomatik.
+
+
+=== Technische Befunde ===
+Neben der körperlichen Untersuchung wird heute für die Beurteilung einer Trikuspidalinsuffizienz in der Regel nur noch eine Ultraschalluntersuchung des Herzens (Echokardiografie, Abk. TTE) benötigt. Weitere Untersuchungsverfahren sind nur in speziellen Fällen oder vor einer geplanten Operation zum Ausschluss von Begleiterkrankungen erforderlich. Die Diagnostik der Trikuspidalinsuffizienz unterscheidet sich bei Kindern nicht von der des Erwachsenenalters. In der TEE (Schluckecho) ist eine Trikuspidalklappenschwäche meist weniger gut erkennbar.
+
+
+==== Echokardiografie ====
+Die Echokardiografie ist als Standardverfahren unverzichtbar: Sie erlaubt eine Bestätigung der Diagnose und eine Feststellung des Schweregrades sowie eine Beurteilung des Verlaufs. Die Farbdoppler-Echokardiografie zeigt eine vorhandene Trikuspidalinsuffizienz als (meist blaue) Farbwolke im rechten Vorhof, die als Insuffizienzjet bezeichnet wird. Breite und Ausdehnung dieser Farbwolke erlauben bereits eine grobe Abschätzung des Schweregrades der Insuffizienz. Darüber hinaus können manchmal bereits der zugrundeliegende Mechanismus (Ringdilatation, inkompletter Klappenschluss, Endokarditis) und die Lokalisation eventueller Klappenveränderungen dokumentiert werden. Kriterien für eine hochgradige Trikuspidalklappeninsuffizienz sind, nach den Leitlinien der europäischen Gesellschaft für Kardiologie ESC, unter anderem: die Breite des Insuffizienzjets (Vena contracta) ≥ 7 mm, eine EROA ("effective regurgitant orifice area") ≥ 40 mm², Dilatationen des rechten Ventrikel, des rechten Vorhofs und der Vena cava inferior sowie dilatierte Lebervenen.Aus der maximalen Geschwindigkeit des Regurgitationsjets lassen sich der Druckgradient über der Klappe und damit der systolische pulmonalarterielle Druck abschätzen, was zur Beurteilung eines Hochdruckes in der Lungenschlagader wertvoll sein kann.
+Auch die Größe und Pumpfunktion des rechten und linken Ventrikels können mit Hilfe der Echokardiografie zuverlässig ermittelt werden. Diese wichtigen Kenngrößen der Herzfunktion sind für die Beurteilung einer schweren Trikuspidalinsuffizienz wichtig.
+
+
+==== Andere Verfahren ====
+Andere Untersuchungsverfahren sind zur Erkennung etwaiger Ursachen und Komplikationen oder zur unmittelbaren Operationsvorbereitung erforderlich. So können EKG und ggf. Langzeit-EKG zur Diagnostik von begleitenden Herzrhythmusstörungen und die Röntgenaufnahme der Thoraxorgane zur Frage einer möglichen Lungenstauung hilfreich sein.
+Bei der Rechtsherzkatheteruntersuchung werden die Druckverhältnisse in der rechten Herzhälfte und in der Lungenschlagader diagnostiziert und quantifiziert, notwendig ist die Untersuchung aber nur bei speziellen Fragestellungen.
+Die sonografische Untersuchung des Bauchraumes zeigt eine etwaige Leberstauung, eine Regurgitation in die Lebervenen und eine Aszitesbildung als Folge der Klappenerkrankung.
+
+
+=== Verlauf ===
+Der Verlauf einer Trikuspidalinsuffizienz ist außerordentlich variabel und nur selten vorhersehbar. So kann selbst eine schwere Trikuspidalinsuffizienz über viele Jahre vollkommen „stabil“ (unverändert) bleiben, bei leichten Insuffizienzen ist dies sogar die Regel. Regelmäßige Kontrolluntersuchungen, beispielsweise in jährlichen Intervallen, können über den individuellen Verlauf Aufschluss geben. Dabei wird besonders auf den Schweregrad der Insuffizienz, die Größe und Pumpfunktion des rechten Ventrikels und andere Zeichen einer drohenden Überlastung des Herzens geachtet, um eine bevorstehende Verschlechterung frühzeitig zu erkennen. Diese „Verlaufsparameter“ sind wichtige Anhaltspunkte für eine optimale Planung der Therapie.
+
+
+== Therapie ==
+Grundsätzlich gilt, dass alle Patienten mit einer „echten“ (nicht nur „physiologischen“) Trikuspidalinsuffizienz ein erhöhtes Risiko tragen, an einer bakteriellen Endokarditis zu erkranken. Die Indikation zur Durchführung einer Endokarditisprophylaxe bei Patienten mit Trikuspidalklappeninsuffizienz wurde in den ESC Leitlinien zur Therapie und Prophylaxe der Endokarditis von 2015 zurückgenommen.Bei einer leichten Trikuspidalinsuffizienz ist keine Therapie erforderlich.
+Im Kindesalter sind regelmäßige Kontrolluntersuchungen mittels Echokardiografie im Abstand von 6 bis 12 Monaten angezeigt.
+
+
+=== Medikamentöse Therapie ===
+Bei einer schweren Trikuspidalinsuffizienz mit Zeichen einer Herzinsuffizienz richtet sich die Therapie nach den Prinzipien der Herzinsuffizienztherapie. Ob eine medikamentöse Langzeittherapie mit ACE-Hemmern die Prognose auch bei beschwerdefreien Patienten ohne Herzinsuffizienz verbessert, ist noch umstritten. Bei gleichzeitig vorhandenen Herzrhythmusstörungen kann der Einsatz von Antiarrhythmika notwendig sein.
+In Abhängigkeit von der Größe des rechten Vorhofes kann der Einsatz von Gerinnungshemmern wie Phenprocoumon oder Warfarin zur Prophylaxe einer Thrombus-Bildung innerhalb des (erweiterten) rechten Vorhofes und der meist gestauten Beinvenen erforderlich sein.
+Bei der akuten schweren Trikuspidalinsuffizienz muss die Behandlung meist auf der Intensivstation erfolgen.
+Bei Kindern werden die leichten Verlaufsformen der Trikuspidalinsuffizienz ebenfalls medikamentös behandelt. Der Beginn der medikamentösen Therapie hängt dabei vom Schweregrad selbst bzw. dem Verlauf der echokardiografischen Kontrollen ab. Primäres therapeutisches Ziel ist die Senkung der Nachlast (afterload). Wie beim Erwachsenen werden hauptsächlich ACE-Hemmer eingesetzt; zusätzlich werden Diuretika verwendet.
+
+
+=== Operative Therapie ===
+Eine operative Therapie der Trikuspidalinsuffizienz wird nur selten durchgeführt. Dabei wird entweder
+
+eine Rekonstruktion der Klappe vorgenommen oder
+eine künstliche Herzklappe eingesetzt.
+
+
+== Prognose ==
+Aufgrund des individuell sehr unterschiedlichen Verlaufs der Trikuspidalinsuffizienz ist auch die Prognose der Patienten sehr verschieden. Man geht heute davon aus, dass Menschen mit einer leichten Insuffizienz ohne sonstige Herzerkrankung eine normale Lebenserwartung haben.
+Bei schwerer chronischer Trikuspidalinsuffizienz kann es im Rahmen der ständigen Leberstauung zu einer Leberzirrhose kommen. (Cirrhose cardiaque)
+Plötzliche Todesfälle sind bei Patienten mit Trikuspidalinsuffizienz selten. Als Ursache können manchmal sekundäre Lungenembolien nachgewiesen werden.
+
+
+== Siehe auch ==
+Ebstein-Anomalie
+
+
+== Literatur ==
+Reinhard Larsen: Anästhesie und Intensivmedizin in Herz-, Thorax- und Gefäßchirurgie. (1. Auflage 1986) 5. Auflage. Springer, Berlin/Heidelberg/New York u. a. 1999, ISBN 3-540-65024-5, S. 268–270 (Trikuspidalinsuffizienz).
+Klaus Holldack, Klaus Gahl: Auskultation und Perkussion. Inspektion und Palpation. Thieme, Stuttgart 1955; 10., neubearbeitete Auflage ebenda 1986, ISBN 3-13-352410-0, S. 173–175.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,6 @@
+Die ESI Group stellt Software für virtuelle Prototypen her, das heißt, es wird CAD- und CAE-Software eingesetzt, um die Funktion und das physische Verhalten von technischen Produkten (beispielsweise Automobile oder Flugzeuge) numerisch zu simulieren. Die Software wird von Unternehmen aus der Automobilindustrie, Luftfahrt und Energieversorgung im Rahmen der Entwicklung und Konstruktion eingesetzt.
+Das Unternehmen begann 1973 als ingenieurtechnisches Beratungsunternehmen für Luftfahrt-, Wehrtechnik- und Energieversorgungsunternehmen. 1985 entwickelte ESI zusammen mit einem deutschen Konsortium, geführt von Volkswagen, die Crashtest-Simulations Software PAM-CRASH  Am 6. Juli 2000 erfolgte der Börsengang am Pariser "Nouveau Marché" Aktienmarkt der NYSE Euronext. Im Februar 2004 kamen durch die Unternehmensübernahme der CFD Research Corp die Simulationsprogramme CFD-ACE+, CFD-FASTRAN, CFD-VISCART und CFD-CADalyzer für numerische Strömungsmechanik zum Softwareprogrammpaket hinzu. Am 12. September 2012 akquirierte ESI das Unternehmen OpenCFD Ltd, welches die CFD-Software OpenFOAM unter der GPL-Lizenz entwickelt.
+Die ESI Group ist im Aktienindex CAC Small der Pariser Börse gelistet.
+
+
+== Einzelnachweise ==

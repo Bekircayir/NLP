@@ -1,0 +1,126 @@
+Unter einem Herzfehler (auch Herzfehlbildung, Herzvitium, Vitium cordis) versteht man eine angeborene oder erworbene Strukturbesonderheit des Herzens oder angrenzender Gefäße, die zu Funktionseinschränkungen des Herz-Kreislauf-Systems oder des Herz-Lungen-Systems führt. Diese Funktionseinschränkungen werden allgemein als Herzschwäche oder Herzinsuffizienz bezeichnet. Maße für die Schwere einer solchen Herzinsuffizienz sind das Herzzeitvolumen und die Ejektionsfraktion.
+
+
+== Häufigkeit und Ursachen ==
+In Deutschland kommen im Jahr durchschnittlich 6.000 Kinder mit einem angeborenen Herzfehler zur Welt. Das entspricht 0,7 bis 0,8 % aller Neugeborenen.
+Die Ursache der meisten Herzfehler ist derzeit noch ungeklärt. Ursache eines Herzfehlers können strukturelle chromosomale Genomdefekte sein, wie Trisomie 21 (Down-Syndrom), Trisomie 13 (Pätau-Syndrom) oder Trisomie 18 (Edwards-Syndrom). Einige syndromale Erkrankungen beinhalten Fehlbildungen des Herzens, wie das Marfan-Syndrom, das DiGeorge-Syndrom (Deletion 22q11), das Noonan-Syndrom, das Cornelia-de-Lange-Syndrom, das Ellis-van-Creveld-Syndrom, das Holt-Oram-Syndrom, die Pierre-Robin-Sequenz oder das Williams-Beuren-Syndrom. Auch Giftstoffe (Noxen) und starker Alkoholkonsum in der Schwangerschaft (siehe: Fetales Alkoholsyndrom) werden mit dem Auftreten angeborener Herzfehler in Verbindung gebracht.
+Außerdem können einige Arzneimittel (Phenytoin, 4-Hydroxycumarine, Lithium, Neuroleptika, Thalidomid, Folsäure-Antagonisten) oder Infektionen (Röteln) Herzfehlbildungen verursachen.
+Herzfehler treten im Zusammenhang mit anderen Fehlbildungen beispielsweise im Bereich des Urogenital- oder Darmtrakts auf.
+
+
+== Überlebenschancen der Betroffenen ==
+Aufgrund vielfältiger medizinisch-technischer Neuerungen und guter medikamentöser Behandlungsmöglichkeiten (s. u.) erreichen mittlerweile in Ländern mit entsprechenden Interventionsmöglichkeiten 90 % aller Menschen mit einem angeborenen Herzfehler das Erwachsenenalter.
+Jedoch ist immer noch die Kinderkardiologie, ein Teilgebiet der Pädiatrie, vorwiegend die Fachrichtung der Medizin, die sich mit angeborenen Herzfehlbildungen beschäftigt, während die Kardiologie als Teilgebiet der Inneren Medizin sich vor allem mit den im Erwachsenenalter auftretenden Erkrankungen des Herzens beschäftigt.
+Das Zuständigkeitsproblem, das sich dadurch für Erwachsene mit angeborenem Herzfehler (EMAH) ergibt, wird durch interdisziplinäre Angebote angegangen. Mittlerweile existieren für diese Patientengruppe eigene Selbsthilfeorganisationen.
+Die Möglichkeiten der Fehlbildungen sind vielfältig. 85 % aller Herzfehler gehen auf acht verschiedene Variationen zurück. Die Herzfehler werden nach hämodynamischen, also den Blutstrom im Herzen betreffende, Kriterien unterschieden: Fehlbildungen ohne Shunt (hier: Kurzschluss im seriell geschalteten Blutstrom), Fehlbildungen mit Rechts-links-Shunt oder mit Links-rechts-Shunt. Die Ausprägung von Herzfehlern lässt sich anhand der Embryologie des Herzens (s. Weblinks) einfacher nachvollziehen.
+
+
+== Einteilung ==
+
+
+=== Angeborene Fehlbildungen des Herzens und herznaher Gefäße ===
+Herz allgemein:
+Atrio-ventrikulärer Septumdefekt (= AVSD – AV-Kanal) – Fehlbildung der Herzscheidewand auf Vorhof- und Kammerebene + Fehlbildung von Trikuspidalklappe und Mitralklappe
+Ventrikelseptumdefekt (= VSD), genannt auch Morbus Roger (ohne Zyanose)
+Atriumseptumdefekt (= ASD) oder Vorhofseptumdefekt – Vorhofscheidewanddefekt ohne Zyanose mit den Ausprägungen persistierendes Foramen ovale (= PFO), ASD II, ASD I, Sinus-venosus-Defekt und Sinus-coronarius-Defekt (Loch in der Herzscheidewand zwischen den beiden Vorhöfen)
+Ebstein-Anomalie – Fehlbildung der Trikuspidalklappe zwischen rechten Vorhof und rechter Kammer mit Verlagerung der Klappenebene nach unten
+Fallotsche Tetralogie – komplexe Herzfehlbildung mit Zyanose, bestehend aus einer Verengung der Pulmonalklappe (Pulmonalstenose), einem Ventrikelseptumdefekt, der „reitenden Aorta“ und einer Vermehrung der Herzmuskelmasse des rechten Herzens
+Eisenmenger-Syndrom – Ventrikelseptumdedefekt mit einer über diesem „reitenden“ Aorta, im Gegensatz zur Fallotschen Tetralogie ohne Pulmonalstenose, aber wie diese mit Zyanose
+Fallot-Pentalogie – Fallotsche Tetralogie mit offenem Foramen ovale oder Vorhofscheidewanddefekt
+Fallot-Trilogie – Herzfehlbildung mit Vorhofseptumdefekt, Pulmonalstenose und Rechtshypertrophie sowie wechselnder Zyanose
+Persistierendes Foramen ovale (= PFO) (siehe auch ASD II) – verbliebene fetale Verbindung in der Vorkammerscheidewand
+Lungenvenenfehlmündung
+Shone-Komplex – komplexe Fehlbildung des linken Herzens
+Single Ventricle:
+mit funktionell wirksamem linkem Ventrikel. Die rechte Herzkammer (Lungenkreislauf) ist nicht ausreichend ausgebildet.
+Pulmonalatresie – Verschluss/Nichtanlage der Pulmonalklappe
+Trikuspidalatresie – Verschluss/Nichtanlage der Trikuspidalklappe
+mit funktionell wirksamem rechtem Ventrikel. Die linke Herzkammer (Körperkreislauf) ist nicht ausreichend ausgebildet.
+Double outlet right ventricle (= DORV) – Fehlabgang der Aorta aus der rechten Kammer
+Hypoplastisches Linksherz-Syndrom (= HLHS) – komplexe Herzfehlbildung mit Atresie (Nichtanlage/Verschluss) der Mitral- und Aortenklappe und der Aorta
+Transposition der großen Arterien (= TGA) – Lungenschlagader (Pulmonalis) und Aorta sind vertauscht an der jeweils falschen Herzkammer angeschlossen. Damit sind die normalerweise in Reihe geschalteten Kreisläufe parallel geschaltet und der Körper erhält ungesättigtes Blut. Ohne zusätzliche Fehlbildungen (Shunts) oder rasche Intervention nicht überlebensfähig.
+korrigierte Transposition der großen Arterien (= CTGA oder ccTGA) – die Ventrikel (Herzkammern) sind vertauscht, aber es ist im Gegensatz zur TGA ein funktionierender Kreislauf vorhanden.
+Truncus arteriosus communis (= TAC) – Aorta und Lungenarterie sind nicht vollständig getrennt, Aortenklappe fehlgebildet als „Truncusklappe“, Ventrikelseptumdefekt
+Ventrikelseptumdefekt (= VSD) – Loch in der HauptkammerscheidewandGefäß- und Klappenfehlbildungen:
+Aortenisthmusstenose (= ISTA) – Verengung im Aortenbogen und absteigenden Anteil der Aorta, ohne Zyanose
+Aortenstenose – Verengung/ Missbildung der Aortenklappe zwischen linker Kammer und Aorta
+Subaortenstenose
+Zweizipfligkeit der Aorta – mit Auskultationsbefund wie bei einer erworbenen Aortenklappeninsuffizienz
+Aorto-pulmonales Fenster – Aorta und Lungenschlagader sind in ihrem Anfangsteil nicht getrennt
+Offener oder persistierender Ductus arteriosus Botalli (= PDA) – offen gebliebene fetale Verbindung zwischen Lungen- und Körperschlagader, Herzfehler ohne Zyanose
+Marfan-Syndrom – Bindegewebsschwäche mit Aortenwurzelerweiterung oder Aortenaneurysma
+Mitralklappenfehlbildungen
+Lutembacher-Syndrom, auskultatorisch (und phonokardiografisch) mit allen Zeichen der Mitralstenose
+Mitralklappenprolaps – Fehlbildung/-funktion der Mitralklappe zwischen linkem Vorhof und linker Herzkammer
+Pulmonalstenose – Verengung/Missbildung der Pulmonalklappe zwischen rechter Herzkammer und Lungenschlagader, Herzfehlbildung ohne Zyanose
+Unterbrochener Aortenbogen
+Pulmonalklappeninsuffizienz, Pulmonalatresie, Pulmonalklappenaplasie, Pulmonalklappenagenesie, absent pulmonary valve syndromeEine andere Möglichkeit der Einteilung angeborener (kongenitaler) Herzfehler besteht in der Unterscheidung von zyanotischen Fehlern (mit Zyanose und Rechts-Links-Shunt) und azyanotischen Fehlern (ohne Zyanose und unterteilt in solche mit Links-Rechts-Shunt und solche ohne Shunt).
+
+
+=== Erkrankungen des Erregungsleitungssystems ===
+QT-Syndrom (LQTS)
+Sick-Sinus-Syndrom
+Wolff-Parkinson-White-Syndrom (= WPW-Syndrom)
+
+
+=== Erworbene Herz- und Herz-Lungen-Erkrankungen ===
+Herzklappenfehler
+Endokarditis – Herzinnenhautentzündung
+Herzrhythmusstörungen, u. a. nach Operationen im Bereich des rechten Vorhofes
+Kardiomyopathie – Herzmuskelerkrankungen
+Kawasaki-Syndrom
+Myokarditis – umschriebene Herzmuskelentzündung
+Eiweißverlustsyndrom – bei Fontan-Kreisläufen auftretende Erkrankung. Eiweißverlust über die Lunge oder den Darm.
+Lungenkrankheiten und pulmonale Folgeerkrankungen:Pulmonale Hypertonie – Lungenhochdruck als Folge eines angeborenen Herzfehlers mit Links-rechts-Shunt
+Eisenmenger-Reaktion – Shunt-Umkehr als Folge fixierter pulmonaler Hypertonie bei einem angeborenen HerzfehlerBeeinträchtigung der Herzfunktion durch Trichterbrust
+
+
+== Therapien ==
+interventionelle Herzkatheter: aufgeführt sind hier Verfahren, die unabhängig vom Krankheitsbild eingesetzt werden können:
+Coils – in der Regel Drahtgebilde, mit denen Gefäße mittels Herzkatheter verschlossen werden können.
+Ballondilatation einer Herzklappe/ eines Gefäßes: die stenotische (verengte) Herzklappe/das Gefäß wird mit Hilfe eines Ballonkatheters aufgedehnt
+Rashkind-Manöver = Ballonatrioseptostomie – Aufreißen des Vorhofseptums mittels Ballonkatheter, z. B. bei der TGA (Transposition der großen Arterien, hypoplastisches Linksherzsyndrom)
+Stent-Implantation – Stents sind kleine Röhrchen aus Kunststoff oder Metall, die in ein verengtes Gefäß mittels Herzkatheter eingeführt werden. Sie halten das Gefäß offen und können z. T. mit dem Wachstum des Kindes „nachdilatiert“ (aufgedehnt) werden.Operationen: Chirurgisches Vorgehen unabhängig vom Herzfehler. Die Operationsverfahren sind in der Regel bei den einzelnen Herzfehlerbeschreibungen angeführt:
+Blalock-Taussig-Anastomose – Verbindung zwischen großer Arterie (Halsschlagader) und Lungenschlagader zur Verbesserung der Lungendurchblutung bei Rechtsherzproblemen
+Glenn-Anastomose – Verbindung der oberen Hohlvene mit den Lungenschlagadern, erster Schritt zum Fontankreislauf
+Fontan-Operation – OP-Technik zur Kreislauftrennung, meistens in 2 Schritten: partielle cavopulmonale Anastomose (PCPC, Glenn-Anastomose) + TCPC
+Pulmonales Banding – Verengung der Lungenarterie durch ein Bändchen bei Links-rechts-Shunt-Herzfehlern
+TCPC – Totale Cavo-Pulmonale Connection; vollständige Venen-Lungenarterienverbindung, nach Anschluss der unteren Hohlvene an die Lungenschlagadern. Vervollständigung des Fontankreislaufs.
+Operation nach Ross – Ersatz einer Aortenklappe durch die patienteneigene gesunde Pulmonalklappe
+
+
+== Blutgerinnungshemmung (Antikoagulation) ==
+Bei manchen Herzfehlern und insbesondere nach der Korrektur mancher Herzfehler erhalten die Patienten eine dauerhafte Gabe von blutgerinnungshemmenden Medikamenten, um das Risiko von Thrombosen zu verringern.
+Neben der schwach wirkenden Acetylsalicylsäure (ASS) gibt es die stark wirkenden Cumarine (Marcumar, Warfarin). Diese Medikamente müssen vor Operationen rechtzeitig abgesetzt werden, da sie die Gerinnung bis zu zwei Wochen beeinflussen können. Als dritten Wirkstoff gibt es Heparin, das vor allem in der Klinik und intravenös gegeben wird. Es wirkt sofort mit kurzer Halbwertzeit.
+Die Dauereinnahme von Cumarinen (Marcumar oder Warfarin) bedarf einer regelmäßigen Blut-Kontrolle, die der Patient oder beim Kind die Eltern in der Regel selber durchführen können. Der Blutgerinnungsstatus, der nach dem vermehrten Verzehr von Vitamin-K-haltigen Nahrungsmitteln oder möglicherweise infolge von Infekten schwanken kann, muss dann durch eine Anpassung der Medikamentendosis ausgeglichen werden. Diese Einschränkung besteht bei der Gabe von ASS und Heparin nicht.
+
+
+== Prognose ==
+Die Fortschritte der Medizin haben zu einer deutlichen Zunahme der Lebenserwartung betroffener Patienten geführt. So entstand in der jüngeren Vergangenheit eine zahlenmäßig für 2004 auf über 250.000 geschätzte Gruppe von jugendlichen und erwachsenen Patienten mit korrigierten, teilkorrigierten oder palliativ behandelten Herzfehlern (Erwachsene mit angeborenen Herzfehlern, EMAH). Ihre gezielte Betreuung führte zu neuen Fragestellungen und Anforderungen, so dass die ärztlichen Fachgesellschaften im deutschsprachigen Raum 2008 eine entsprechende Leitlinie veröffentlichten.
+
+
+== Literatur ==
+Thomas Borth-Bruhns, Andrea Eichler: Pädiatrische Kardiologie. Springer, Berlin u. a. 2004, ISBN 3-540-40616-6.
+Andreas Barankay (Hrsg.): Interdisziplinäre Versorgung angeborener Herzfehler. Spitta, 2002, ISBN 3-934211-29-1.
+G. Schumacher u. a.: Klinische Kinderkardiologie. mit CD-ROM. 4., überarb. und erw. Auflage. Springer, 2008, ISBN 978-3-540-71900-7.
+G. Hausdorf u. a.: Intensivtherapie angeborener Herzfehler. Seinkopf, 2000, ISBN 3-7985-0842-9.
+Catherina A. Neill, Edward B. Clark, Carleen Clark: Unser Kind hat einen Herzfehler – Informationen und Rat für Eltern. TRIAS, 1997, ISBN 3-89373-406-6.
+Thierry Carrel, Katalin Vereb, Karl-Heinz Hug: Ein kleines Herz wird stark – Die Herzoperation der vierjährigen Celina. Erfahrungsbericht. Werd-Verlag, Zürich 2003, ISBN 3-85932-457-8.
+Clemens Bollinger: Ein Herz für Nicole – Die Geschichte einer Transplantation. Erfahrungsbericht. Krüger, Frankfurt am Main 2004, ISBN 3-8105-0460-2.
+BVHK e.V.: Pränatale Diagnostik angeborener Herzfehler. Aachen 2002, DNB 965814416. Bezugsadresse.
+HERZKIND e. V.: „Gezeiten“ – Herzkinder und ihre Eltern erzählen über ihr Leben mit dem angeborenen Herzfehler. Bezugsadresse.
+Klaus Holldack, Klaus Gahl: Auskultation und Perkussion. Inspektion und Palpation. Thieme, Stuttgart 1955; 10., neubearbeitete Auflage ebenda 1986, ISBN 3-13-352410-0, S. 181–197.
+Herbert Reindell, Helmut Klepzig: Krankheiten des Herzens und der Gefäße. In: Ludwig Heilmeyer (Hrsg.): Lehrbuch der Inneren Medizin. Springer-Verlag, Berlin/Göttingen/Heidelberg 1955; 2. Auflage ebenda 1961, S. 450–598, hier: S. 534–544 (Angeborene Mißbildungen des Herzens und der großen Gefäße).
+
+
+== Weblinks ==
+
+Bundesverband Herzkranke Kinder e.V.
+Bundesverein JEMAH e.V. (Jugendliche und Erwachsene mit angeborenen Herzfehlern)
+Unabhängige Informationen zu angeborenen Herzfehlern
+In-utero-Diagnose und -Therapie angeborener Herzfehler: Grenzen und Möglichkeiten
+Herzembyrologie
+Informationen zu dem Thema Eiweißverlustsyndrom beim Fontankreislauf
+
+
+== Einzelnachweise ==

@@ -1,0 +1,28 @@
+Der Lochkreis (kurz LK) gibt Anzahl und Abstand der Gewindelöcher für Räder an Automobilen an. Die Zahl der Löcher bestimmt die Zahl der Radschrauben, durch die der Reifen mit der Felge an der Radnabe montiert werden kann. Je nach Autohersteller und Fahrzeuggröße sind unterschiedliche Lochkreise und verschiedene Schraubenanzahlen zu berücksichtigen.
+
+
+== Typen ==
+
+Eine Lochkreisangabe besteht aus der Angabe der Lochanzahl sowie dem Durchmesser in mm. Dabei liegt die Mitte der Bohrung oder des Stehbolzens an der Radnaufnahme des Fahrzeuges stets auf dem Lochkreis. Somit besteht z. B. ein Lochkreis 4/100 aus vier Radschrauben, deren Abstand diagonal 100 mm beträgt. Der Lochkreisdurchmesser kann für jede beliebige Lochanzahl bestimmt werden, indem man von Lochmitte zur Radmitte bzw. Nabenmitte am Fahrzeug misst und den Abstand verdoppelt. Bei gerader Lochanzahl kann man zudem von einer Lochmitte zu der gegenüberliegenden Lochmitte messen. Gebräuchlich sind bei ungerader Lochanzahl nur 3 und 5, alle weiteren Typen bestehen aus einer geraden Anzahl an Radschrauben bzw. Stehbolzen. Die Verwendung einer Zentralmutter zieht keine Lochkreisangabe nach sich.
+
+
+== Radzentrierung ==
+Des Weiteren spielt die Radzentrierung oder Fahrzeugmittenloch (Nabe) eine entscheidende Rolle bei der Auswahl geeigneter Anbauteile wie Felge oder Distanzscheiben. Die Nabe ist der runde abstehende Bolzen, auf den das Rad bei der Montage gedrückt wird. Er dient zusammen mit den Radschrauben als Haltepunkt des Rades und verhindert durch seine zentrierende Wirkung einen unrunden Lauf während des Betriebs. Um diesen zu bestimmen, wird der Durchmesser gemessen. Sein Durchmesser ist herstellerabhängig und wird zusammen mit dem Lochkreis angegeben, z. B. LK 4/108 65,1 oder LK 4x108 65,1.
+
+
+== Hersteller-Kritik ==
+Durch leicht unterschiedliche Nabendurchmesser verhindern die Hersteller, dass Felgen anderer Hersteller montiert werden können. (Lock-in-Effekt)
+
+
+== Felgenauswahl ==
+Zur Auswahl passender Felgen für ein Fahrzeug müssen zusätzlich zum Lochkreis die Einpresstiefe und die erlaubten Größen des Autoreifens mit zum Fahrzeug passenden Tragfähigkeits- sowie Geschwindigkeitsindex bekannt sein. Diese Daten können den Fahrzeugpapieren entnommen oder beim Fahrzeughersteller erfragt werden.
+
+
+== Siehe auch ==
+Allgemein für den Durchmesser, auf dem die Mittelpunkte von Bohrungen liegen, siehe Lochbild
+Für die Verschraubung bei Autofelgen, siehe Autofelge
+Für die Verschraubung von Kettenblättern bei Kurbeln am Fahrrad, siehe Kettenblatt
+
+
+== Quellen ==
+Felgenabc.de - Alles über den Lochkreis

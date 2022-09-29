@@ -1,0 +1,177 @@
+Eine Infektionskrankheit (auch Infekt oder ansteckende Krankheit) ist eine durch Erreger (Bakterien, Pilze oder Viren) hervorgerufene Erkrankung bei Menschen, Tieren oder Pflanzen. Sie ist aber nicht einer Infektion gleichzusetzen, da nicht jede Infektion zwangsläufig zu einer Erkrankung führt.
+Infektionskrankheiten zeigen ein breites Spektrum von zeitlichen Verläufen und Symptomen. Diese sind für den Erreger oftmals spezifisch. Sie können hochakut in wenigen Tagen entstehen oder sich über Wochen, Monate und manchmal Jahre hinweg langsam entwickeln. Es gibt lokalisierte – also auf konkrete Körpergebiete beschränkte – und generalisierte Infektionskrankheiten. Einige laufen bei einer nicht immungeschwächten Person nahezu unbemerkt (inapparent) ab oder äußern sich nur in leichten, unspezifischen Störungen des Allgemeinbefindens. Andere Krankheiten entwickeln ein hochdramatisches Krankheitsbild. Auf diese meist schwer verlaufenden, septischen Infektionskrankheiten reagiert der Körper mit einem als systemisches inflammatorisches Response-Syndrom bezeichneten Reaktionsmuster, zu dem Fieber, beschleunigter Puls, erhöhte Atemfrequenz, auch Durst und Ruhebedürfnis gehören.
+Ausschlaggebend für den Verlauf und die Prognose einer Infektionskrankheit ist die Fähigkeit des Immunsystems, den Erreger zu eliminieren. Die Medizin hält für viele erregerbedingte Krankheiten spezifische Gegenmittel bereit (Antibiotika gegen Bakterien, Antimykotika gegen Pilze und Virostatika gegen Viren). Gegen einige Erreger gibt es die Möglichkeit der vorbeugenden Impfung. Aber auch heute können manche Infektionskrankheiten nicht definitiv geheilt werden.
+Mit den grundsätzlichen Mechanismen von Infektionen und Infektionskrankheiten befassen sich die Infektiologie, die Infektionsbiologie und die Immunologie. Behandelt werden Infektionskrankheiten von der klinischen Infektiologie.
+
+
+== Geschichte ==
+Äußerlich sichtbare Verletzungen werden schon seit der Jungsteinzeit erkannt und behandelt. Bei inneren Erkrankungen oder Seuchen ohne erkennbare Ursache suchte man übernatürliche Quellen und betrachtete sie als Werk erzürnter Götter. Die Heilungsversuche konzentrierten sich daher auf Beschwörungen, Gebete und Opfergaben.
+Durch die Paläopathologie konnten Knochenveränderungen durch die Infektionskrankheiten Tuberkulose (bei ägyptischen Mumien) und Lepra (bei mittelalterlichen Relikten) festgestellt werden. An der Mumie von Ramses II. (13. Jh. v. Chr.) konnten Pockennarben diagnostiziert werden.Hippokrates von Kos (460–377 v. Chr.) gilt als Begründer der Lehre von den Miasmen, den giftigen Ausdünstungen des Bodens, die mit der Luft fortgetragen und so zur Weiterverbreitung von Krankheiten beitragen sollten. Gemeinsam mit der Miasmentheorie wuchs auch das Wissen um die Kontagiosität. Die Übertragung eines unbelebten Stoffes von einem kranken auf einen gesunden Menschen sollte die Krankheit zum Ausbruch bringen.
+Die Idee von lebenden Krankheitserregern taucht erstmals im 1. Jahrhundert v. Chr. auf. Marcus Terentius Varro (geb. 116 v. Chr.) meinte, dass die Luft der Sümpfe verderblich sei, weil sie von winzigen Tierchen geschwängert wäre, die in die Nase, in den ganzen Körper eindrängen. Erst durch die Erfindung des Mikroskops gelang der direkte Nachweis. Antoni van Leeuwenhoek (1632–1723) fand, dass die Puppen der Flöhe von winzigen Milben angegriffen werden. Der Jesuit Athanasius Kircher (1601–1680) veröffentlichte die Entdeckung massenhaft kleinster Würmer, die er in der Luft, im Wasser, im Boden, in Milch, Käse, faulen Pflanzenteilen sowie im Blut und im Eiter Pestkranker gefunden hatte. Die Bedeutung der Mikroorganismen als Krankheitsverursacher blieb jedoch noch verborgen. Diese Rolle wurde erstmals im 19. Jahrhundert bei einer durch das Bacterium prodigiosum (Serratia marcescens) hervorgerufenen „Speisekrankheit“ erkannt.
+Gegen Ende des 18. Jahrhunderts befand sich der Disput zwischen den zwei medizinischen Schulen in einer Hochphase. Auf der einen Seite standen die Kontagionisten, die die Auffassung vertraten, Krankheiten könnten durch kleine lebende Erreger übertragen werden, auf der anderen Seite die Anhänger der Miasmatologie, die weiterhin Verunreinigungen bzw. Gifte, die dem Erdreich entstiegen, als Ursache von Seuchen ansahen. Durch die Forschungen von Robert Koch und Louis Pasteur konnten die Kontagionisten diese Auseinandersetzung mit der Bestätigung ihrer Annahmen beenden. Pasteur entdeckte die bakteriologischen Ursachen von Gärung und Fäulnis. Zudem konnte er experimentell nachweisen, dass es keine Spontanzeugung gibt.
+
+In den Industrieländern haben Infektionskrankheiten stark an Bedeutung verloren. Hauptgrund dafür sind ein verändertes Gesundheitsbewusstsein, Hygiene, Reihenimpfungen und ein Repertoire von potenten Gegenmitteln. Weltweit stellen sie aber trotzdem noch die häufigste Todesursache dar. Während die Pocken in den 70er Jahren ausgerottet werden konnten und die Eliminierung der Kinderlähmung in den nächsten Jahren erwartet wird, sind Infektionskrankheiten wie Aids und Tuberkulose weltweit weiter auf dem Vormarsch.
+Seit 1972 wurden folgende Erreger von Infektionskrankheiten neu erkannt:
+
+1972 „Small round structured viruses“ (SRSVs) jetzt: Caliciviren, (Durchfall)
+1973 Humane Rotaviren – Durchfall (weltweit)
+1975 Astroviren – Durchfall
+1975 Parvovirus B19 – Erythema infectiosum; aplastische Krise bei chronischer hämolytischer Anämie
+1976 Cryptosporidium parvum – Akute Enterokolitis
+1977 Ebola-Virus – Ebola-hämorrhagisches-Fieber
+1977 Legionella pneumophila – Legionellose
+1977 Hantaan-Virus – Hämorrhagisches Fieber mit renalem Syndrom
+1977 Campylobacter spp. – Durchfall
+1980 Humanes T-lymphotropes Virus 1 (HTLV-1) – Adulte T-Zell-Leukämie/Lymphom; Tropische Spastische Paraparese
+1982 Humanes T-lymphotropes Virus 2 (HTLV-2) – neurologische Erkrankungen?
+1982 Borrelia burgdorferi Lyme-Krankheit
+1983 Humanes Immundefizienz-Virus Typ I (HIV-1) – Erworbenes Immundefizienzsyndrom (AIDS)
+1983 Escherichia coli O157 (EHEC) – Diarrhoe; hämorrhagische Kolitis; Hämolytisches urämisches Syndrom
+1983 Helicobacter pylori – Gastritis; gastrische Ulcera; erhöhtes Risiko des gastrischen Karzinoms
+1988 Humanes Herpesvirus 6 (HHV-6) – Drei-Tage-Fieber (= Exanthema subitum, Roseola infantum)
+1989 Ehrlichia spp. – Humane monozytäre Ehrlichiose
+1989 Hepatitis-C-Virus (HCV) – Hepatitis C
+1989 Guanarito-Virus – Venezolanisches hämorrhagisches Fieber
+1990 Humanes Herpesvirus 7 – Exanthema subitum; Pityriasis rosea
+1990 Hepatitis-E-Virus (HEV) – Hepatitis E
+1992 Vibrio cholerae O139:H7 – neue Variante assoziiert mit epidemischer Cholera
+1992 Bartonella henselae – Katzenkratzkrankheit; Bazilläre Angiomatose
+1993 Sin-Nombre-Virus – Hantavirus Lungensyndrom („Four corners disease“)
+1993 sog. Hepatitis-G-Virus (HGV) jetzt GB-Virus C – kein Krankheitswert
+1994 Sabia-Virus – Brasilianisches hämorrhagisches Fieber
+1994 Humanes Herpesvirus 8 (HHV-8) – Kaposi-Sarkom; primäres Lymphom der Körperhöhlen; Castleman-Krankheit
+1994 Hendra-Virus, (früher Equines Morbillivirus) – Pneumonie; Enzephalitis
+1996 Prionprotein – Transmissible spongiforme Enzephalopathien (TSE)
+1997 Influenza-A-Virus (H5N1) – neue aviäre Variante (Hongkong)
+1997 sog. Transfusion-transmitted virus (TTV) jetzt: Torqeno-Teno-Virus – keine Erkrankung
+1998 Nipah-Virus – Enzephalitis
+2003 SARS-assoziiertes-Corona-Virus (SARS-CoV) – Schweres Akutes Respiratorisches Syndrom (SARS)
+
+
+== Auslöser von Infektionskrankheiten ==
+
+Das die Krankheit auslösende Agens, der Krankheitserreger, ist bei den Infektionskrankheiten in der Regel ein parasitärer Mikroorganismus. Demzufolge wird der Erkrankte auch als Wirt bezeichnet.
+
+Am weitaus häufigsten sind einzellige kernlose Bakterien der unterschiedlichsten Gruppen. Mit ihnen befasst sich die Bakteriologie. Bakterielle Erkrankungen sind zum Beispiel die typische Lungenentzündung, Hirnhautentzündung, Lyme-Borreliose, Tuberkulose, Cholera, Pest und etliche andere.
+Einzeller mit Kern werden als Protozoen bezeichnet und in der Parasitologie erfasst. Zu den von ihnen hervorgerufenen Krankheitsbildern gehören Malaria, Toxoplasmose und die tropische Schlafkrankheit.
+Pathogene Pilze sind der Gegenstand der klinischen Mykologie, diese können als einzellige Hefen oder als Mehrzeller auftreten. Aspergillose und Kandidose sind Beispiele für Pilzerkrankungen.
+Mit den höher entwickelten krankheitsverursachenden Gewebetieren wie Würmern oder Arthropoden beschäftigt sich ebenfalls die Parasitologie.
+Einige wenige einzellige Algen können ebenfalls Infektionen auslösen. Am bedeutendsten darunter sind die Prototheken, die Erreger der Protothekose.
+Viren sind ein Sonderfall, da sie nur einige Merkmale von Lebewesen aufweisen, sie werden daher anders klassifiziert. Mit ihnen befasst sich die Virologie. Viruserkrankungen sind die klassischen Kinderkrankheiten ebenso wie der Schnupfen, Grippe, Hepatitis B und AIDS.
+Schließlich gibt es auch Krankheitserreger, die keine Erbinformationen in Form von DNA oder RNA besitzen: die früher als slow virus infections bezeichneten Prionenerkrankungen werden durch entartete Proteine, sogenannte Prione, hervorgerufen. Prionenerkrankungen sind unter anderem die Creutzfeldt-Jakob-Krankheit und die möglicherweise auf den Menschen übertragbare Rinderkrankheit BSE.Die Gefährlichkeit einer Infektionskrankheit ist abhängig von der so genannten Virulenz des Erregers. Ob und in welcher Schwere eine Infektion auch zu einer Infektionskrankheit führt, hängt neben vielen anderen Faktoren von der Zahl der aufgenommenen Erreger (minimale Infektionsdosis) ab.
+
+
+== Infektionsmöglichkeiten und Übertragungswege ==
+Grundsätzlich unterscheidet man Primärinfektionen, also Erstinfektionen, bei denen der Organismus den ersten Kontakt mit einem Krankheitserreger hat, von Sekundärinfektionen: hier wird der bereits infizierte Körper zusätzlich mit einem anderen Keim infiziert. Es liegt dann also eine Doppelinfektion vor. Eine solche zusätzliche Infektion kann das Immunsystem vor erhebliche Probleme und auch an Therapie und Medikation besondere Anforderungen stellen. Bildet ein viraler Infekt die Grundlage für einen weiteren nun bakteriellen Infekt des gleichen Organsystems, bezeichnet man dies in der Medizin und Bakteriologie auch als Superinfektion. Im engeren Sinn versteht man in der Virologie unter Superinfektion eine erneute Infektion mit demselben Erreger bei noch bestehender Primärinfektion und unvollständiger Immunität.
+
+
+=== Unterscheidung nach Infektionsverlauf ===
+transiente Infektion
+siehe Artikel Hit and Run.
+persistente Infektion
+siehe Artikel Infect and persist.
+
+
+=== Unterscheidung nach Herkunft der Erreger ===
+Eine endogene Infektion ist eine Infektion bei geschwächtem Immunsystem durch die körpereigene, normalerweise völlig harmlose Flora in Form eines Erregereinbruchs z. B. auf der Haut oder aus Magen, Darm und Lunge in den eigenen Körper (wie eine Wundinfektion durch eigene Kolibakterien). Diese Erreger sind fakultativ pathogen (d. h., dass sie nur unter solchen Bedingungen Krankheitszeichen hervorrufen). Die exogene Infektion ist eine Infektion durch Infektionserreger aus der Umgebung. Ein Sonderfall der exogenen Infektion ist die nosokomiale Infektion, die im Krankenhaus, in einer Arztpraxis oder einer anderen medizinischen Einrichtung mit einem vergleichbaren Keimspektrum erworben wurde. Derartige Infektionen zeichnen sich dadurch aus, dass die typischen bakteriellen Erreger aus dem Bereich Arztpraxis oder Krankenhaus – wie beispielsweise Pseudomonaden – häufig eine hohe Resistenz gegenüber gebräuchlichen Antibiotika zeigen. Als iatrogene Infektion wird die durch unbeabsichtigtes Einbringen von Krankheitserregern bei der Durchführung medizinischer Eingriffe, sei es durch einen Arzt oder anderes medizinisches Fachpersonal, beim Personal selbst oder dem Patienten verursachte Infektion bezeichnet.
+Vier bedeutende Infektionswege werden bei der exogenen Infektion unterschieden: Tröpfcheninfektion über Aerosole in der Luft, Kontakt- oder Schmierinfektionen (zum Beispiel fäkal-oral), parenterale Infektionen durch Geschlechtsverkehr, Blutkonserven oder verunreinigte Injektionskanülen und schließlich durch sogenannte Vektoren (Überträger, beispielsweise blutsaugende Insekten) verbreitete Infektionen.
+Direkte Infektionen geschehen von Mensch zu Mensch ohne Zwischenschritte, indirekte Infektionen benötigen einen Überträger zwischen den Wirten, das können die genannten Insekten, Trinkwasser, Nahrung oder gemeinsam benutzte Gegenstände sein. Zoonosen sind Infektionskrankheiten, die auch oder sogar hauptsächlich bei Tieren vorkommen und von diesen direkt (Kontakt) oder indirekt (z. B. über Kuhmilch) auf den Menschen übertragen werden.
+
+
+=== Unterscheidung nach Eintrittspforte der Erreger ===
+
+
+==== Enterale Infektion ====
+Eine enterale Infektion ist eine Infektion, bei der die Krankheitserreger über den Darm als Eintrittspforte in den Organismus eingedrungen sind. Der gesamte Verdauungstrakt (Mund, Rachen, Speiseröhre, Magen und der gesamte Darm) wird als das Innere eines Tunnels betrachtet, das selbst nicht zum Körperinneren gezählt wird. Der exakte Ort, an dem die Infektionserreger in das eigentliche Körperinnere eindringen, gilt als Eintrittspforte.
+
+fäkal-orale Infektion
+Erreger aus dem Darm oder aus Fäkalien gelangen durch den Mund in den Organismus, z. B. durch verunreinigtes Trinkwasser
+
+
+==== Parenterale Infektion ====
+Bei dieser Infektionsart handelt es sich im ursprünglichen Sinn um eine Infektion, bei der die Krankheitserreger nicht über den Darm in den Organismus eingefallen sind. Im medizinischen Sprachgebrauch wird parenteral gleichbedeutend mit „direkt ins Blut“ verwendet. Es werden hierbei noch folgende weitere Infektionswege abgegrenzt:
+
+perkutane Infektion
+Die Erreger gelangen über die Haut in den Organismus.
+permuköse Infektion
+Die Erreger gelangen über die Schleimhäute in den Organismus.
+Inhalationsinfektion
+Die Erreger gelangen über die Atemwege in den Organismus.
+urogenitale Infektion
+Die Erreger gelangen über den Harntrakt in den Organismus.
+genitale Infektion
+Die Erreger gelangen über die Geschlechtsorgane in den Organismus.
+intrauterine Infektion
+Die Erreger gelangen während der Schwangerschaft in den Körper des ungeborenen Kindes.
+
+
+=== Unterscheidung nach Ausdehnung der Infektion ===
+
+Bei einer Lokalinfektion verbleiben die Erreger dort, wo sie den Körper zuerst infiziert haben (Eintrittspforte). Sie verursachen nur an dieser Stelle Symptome, ohne sich im Organismus weiter zu verteilen. Unter einer generalisierten Infektion versteht man eine Infektionskrankheit, bei der die Erreger sich zuerst an einer Eintrittspforte (z. B. im Darm) vermehren und dann über das Blut zu ihren eigentlichen Manifestationsorganen gelangen. Das sind oft die Leber, Milz, lymphatische Organe, die Haut oder das Nervensystem. An der Eintrittspforte sind die Erreger dann nicht mehr nachweisbar. Bei einer fokalen Infektion (Herdinfektion) tritt nach einer räumlich begrenzten Erregerübertragung durch Bakterien, besonders durch Streptokokken, nachfolgend eine (sekundäre) Erkrankung auf. Die Erreger gelangen von dem Ausgangsherd, der durch die lokale Infektion im Körper entstanden ist, mit Verzögerung durch septische Metastasierung oder schubweise Ausschüttung aus diesem Ausgangsherd über den Blutkreislauf in entferntere Körperregionen oder Organe und verursachen dort entzündliche oder auch allergische Krankheitsabläufe. Eine systemische Infektion ist eine Infektion, bei der sich die Erreger durch Einschwämmung per Blutbahn über ein gesamtes Organsystem (beispielsweise das Zentralnervensystem) oder den ganzen Organismus ausbreiten.
+
+
+=== Unterscheidung nach anderen systematischen Gesichtspunkten ===
+Die vertikale Infektion ist eine Infektion von einem Wirt zu seinen Nachkommen. Dabei werden pränatale oder intrauterine Übertragungen vor der Geburt von perinatalen Infektionen während der Geburt und postnatalen Infektionen unmittelbar nach der Geburt unterschieden. Unter einer horizontalen Infektion versteht man in Abgrenzung zur vertikalen Infektion die Übertragung auf andere Populationsmitglieder.
+
+
+== Epidemiologie ==
+Am weitaus häufigsten sind Virusinfektionen und bakterielle Infektionen, aber auch Pilzinfektionen, Infektionen durch Protozoen oder Wurminfektionen kommen weltweit millionenfach vor. Prionenkrankheiten sind beim Menschen sehr viel seltener. Einige Krankheiten sind nur in bestimmten Regionen endemisch, so kommen Tropenkrankheiten in der Regel nur in wärmeren Klimazonen vor. Bei ihnen ist oftmals auch die Verbreitung des übertragenden Vektors entscheidend. Infektionskrankheiten wie die Grippe (Influenza) häufen sich saisonal. Im Abstand von Jahren oder Jahrzehnten treten dabei größere Epidemien auf. Eine großangelegte Studie aus dem Jahr 2019 belegte, dass Frauen mit Kindern im Vergleich zu kinderlosen Frauen eine um fast 2/3 reduzierte Wahrscheinlichkeit, an einer Infektion zu sterben, aufwiesen. Männer mit Kindern wiesen eine ähnliche, wenn auch etwas geringere Reduktion der Sterbewahrscheinlichkeit auf.Auch von historischen Krankheiten wie der schwarzen Pest sind Epidemien überliefert. Eine Epidemie, die länderübergreifend oder sogar weltweit auftritt, heißt Pandemie.
+
+
+=== Schätzung der Häufigkeit von tödlichen Infektionen im Jahr 2002 laut WHO ===
+Dies sind grobe Schätzungen, die auch genau in ihrer Definition hinterfragt werden müssen. An der akuten Hepatitis stirbt man eher selten. Die Folgen einer chronischen Hepatitis C (Leberzirrhose, Leberkrebs) sind in Asien aber eine recht häufige Todesursache.
+
+
+== Symptome ==
+Typische Symptome einer Infektionskrankheit sind Entzündungen, also Rötungen, Schwellungen, evtl. mit Juckreiz oder Schmerz und lokaler oder allgemeiner Erwärmung (Fieber). Dazu kommen organspezifische Abwehrerscheinungen oder Funktionsstörungen. Häufig sind Atemwegsinfektionen mit Husten, Heiserkeit (bei Kehlkopfentzündung), Schnupfen, Schluckbeschwerden bei Mandelentzündung, bei Lungenentzündung evtl. Auswurf. Am zweithäufigsten sind Darminfektionen mit Durchfall, evtl. Krämpfen und Schmerzen, sie können sich auf die Leber ausweiten und eine Gelbsucht verursachen. Andere Beispiele wären Infektionen an der Haut oder an den Harnwegen. Auch Karies ist eine Infektionskrankheit.
+Die Symptomatik einer Infektionskrankheit hängt also zum einen mit der Schadwirkung des Erregers zusammen, zum anderen aber auch mit der Reaktion des Immunsystems. Entsprechend sind Infektionen bei Menschen mit schwachem Immunsystem oft gefährlich unauffällig und schwer zu diagnostizieren, weil Fieber, Krankheitsgefühl und Entzündungsparameter im Blut fehlen.
+Typische Notfälle sind eine Hirnhautentzündung, eine schwere Sepsis (z. B. Waterhouse-Friderichsen-Syndrom), eine Nierenbeckenentzündung bei Säuglingen. Schleichend, aber auch gefährlich ist eine Herzklappenentzündung oder eine Herzmuskelentzündung. Vor allem bei geschwächtem Immunsystem (Immunsuppression, AIDS, Alter) kann auch eine Lungenentzündung oder jede andere Infektion lebensbedrohend sein.
+
+
+== Diagnostik ==
+Eine wichtige Voraussetzung zur Bekämpfung einer Infektionskrankheit ist eine genaue Diagnose, d. h. das Erkennen des Erregers und seiner Eigenschaften. In Fällen mit bedrohlichem Krankheitsverlauf kann eine genaue Diagnose bei einer schweren Infektionserkrankung allerdings nicht abgewartet werden, sondern es wird mit Antibiotika oder Antimykotika eine Therapie begonnen, die alle wahrscheinlichen Erreger, wie z. B. zunächst Bakterien und Pilze, treffen soll (kalkulierte Therapie). Deuten jedoch alle Anzeichen auf Viren als Erreger, ist ggf. der sofortige Einsatz von Virostatika erforderlich.
+Viele Bakterien und auch Pilze lassen sich auf Blutagar oder ähnlichen Nährmedien anzüchten. Außerdem kann man sie nach Färbung (z. B. Gramfärbung) unter dem Lichtmikroskop betrachten. Bei Viren oder intrazellulären Bakterien wäre dazu eine Zellkultur bzw. ein Elektronenmikroskop nötig. Für den klinischen Einsatz praktikabler sind oft modernere Methoden, die in Labors durchgeführt werden. Bei molekularbiologischen Methoden weist man Erbinformation des Erregers z. B. mittels der Polymerase-Kettenreaktion nach. Bei immunologischen Methoden weist man Antikörper nach, die das Immunsystem gegen spezifische Oberflächenstrukturen, sog. Antigene bildet, oder man benutzt umgekehrt Antikörper, um Antigene des Erregers nachzuweisen. Es gibt auch andere charakteristische Bestandteile bestimmter Erreger, die man nachweisen kann (z. B. Hämagglutinin). Tierversuche sind heute nur noch in Ausnahmefällen erforderlich, z. B. bei Tetanus. Tuberkulose wird auch durch Hauttests diagnostiziert (Tine-Test, Mendel-Mantoux-Test).
+
+
+== Prävention und Therapie ==
+Hygiene und Impfungen haben maßgeblich zur Verringerung von Infektionskrankheiten beigetragen. Im medizinischen Bereich sind routinemäßig Maßnahmen der Basishygiene, wie zum Beispiel Händedesinfektion, und die Verwendung von keimarmem bzw. sterilem Material vorgesehen.
+Auf der anderen Seite beachtet man heute die Widerstandsfähigkeit des Organismus und seines Immunsystems stärker. Die Infektanfälligkeit lässt sich durch gesunde Ernährung, ausreichenden Schlaf, regelmäßige Bewegung, rechtzeitige ärztliche Behandlung und Vermeidung von Stress (siehe Cortisol) mindern.
+Die ambulante und klinische Versorgung von Patienten mit Infektionskrankheiten erfolgt in der medizinischen Infektiologie. Bei Infektionen mit hochansteckenden Erregern werden die Patienten in speziellen Isolierstationen behandelt.
+
+Eine der ältesten infektiologischen Abteilungen ist die Medizinische Klinik mit Schwerpunkt Infektiologie und Pneumologie der Charité in Berlin: Die Klinik wurde 1891 von Robert Koch gegründet. Hier ist der einzige deutsche Lehrstuhl für klinische Infektiologie und die größte deutsche Sonderisolierstation für hochansteckende Krankheiten angesiedelt. 1900 wurden das Bernhard-Nocht-Institut und die dazugehörige Klinik in Hamburg speziell zur Behandlung von Tropenkrankheiten gegründet.
+Wenn notwendig und möglich, werden Infektionskrankheiten mit Antibiotika, Virostatika, Antimykotika oder Antihelminthika bekämpft. Schwere Infektionsherde müssen manchmal chirurgisch saniert werden. In der evidenzbasierten Medizin gilt die Wirkung pflanzlicher Heilmittel als begrenzt und in ernsthaften Erkrankungsverläufen als nicht ausreichend.
+
+
+== Siehe auch ==
+Henle-Koch-Postulate
+Parasiten des Menschen
+Infektionsschutzgesetz
+
+
+== Literatur ==
+M. Exner: Die infektionsepidemiologische Bedeutung von Helicobacter pylori mit besonderer Berücksichtigung von unbehandelten Brunnenwasser als Infektionsreservoir. In: Hygiene und Medizin. Band 29, Nr. 11, 2004, S. 418–422, ISSN 0172-3790.
+Christian Conrad: Krankenhaushygiene damals und heute – was hat sich geändert? In: Hygiene und Medizin, Band 29, Nr. 6, 2004, S. 204 ff., ISSN 0172-3790
+Michael K. Faulde: Ratten und Mäuse – unterschätzte Überträger und Reservoire gefährlicher Infektionskrankheiten? In: Hygiene und Medizin. Band 29, Nr. 6, 2004, S. 206–216.
+Stefan H. E. Kaufmann: Wächst die Seuchengefahr?: Globale Epidemien und Armut; Strategien zur Seucheneindämmung in einer vernetzten Welt. Unter Mitarbeit von Susan Schädlich. Hrsg. von Klaus Wiegandt. [Forum für Verantwortung]. Fischer-Taschenbuch, Frankfurt a. M. 2008, ISBN 978-3-596-17664-9.
+M. Klude, U. Seebacher, M. Jaros: Potenzielle Gefährdung von Mensch und Umwelt durch Desinfektionsmittel in der Krankenhaushygiene: Eine vergleichende Bewertung. In: Krankenhaus Hygiene und Infektionsverhütung. Band 24, Nr. 1, 2002, ISSN 0720-3373, S. 9–15.
+Helge Kampen: Vektor-übertragene Infektionskrankheiten auf dem Vormarsch? Wie Umweltveränderungen Krankheitsüberträgern und -erregern den Weg bereiten. In: Naturwissenschaftliche Rundschau. Band 58, Nr. 4, 2005, ISSN 0028-1050, S. 181–189.
+Werner Köhler: Infektionskrankheiten. In: Werner E. Gerabek, Bernhard D. Haage, Gundolf Keil, Wolfgang Wegner (Hrsg.): Enzyklopädie Medizingeschichte. De Gruyter, Berlin / New York 2005, ISBN 3-11-015714-4, S. 667–671.
+Kurt-Martin Mayer: Parade der Keime. Deutschlands Seuchenexperten reihen erstmals Infektionserreger nach deren Gefährlichkeit. In: FOCUS. Heft 10/2007, S. 44 (betr. vom Robert-Koch-Institut in Berlin erarbeitete Rangfolge von 85 Infektionserregern)
+Kurt-Martin Mayer: Neues in der Luft. Wärme liebende Krankheitserreger wandern nach Deutschland ein. Eine Malaria-Katastrophe ist nicht zu befürchten, aber sonst …. In: FOCUS. Heft 14/2007, S. 42/43 (Fälle von Borreliose, FSME, Hanta-Fieber, Q-Fieber, Malaria, Dengue-Fieber, West-Nil-Fieber, Babesiose, Vibrio vulnificus)
+Max Micoud: Die ansteckenden Krankheiten. In: Jean-Charles Sournia, Jacques Poulet, Marcel Martiny, Richard Toellner, Peter Hucklenbroich et al.: Illustrierte Geschichte der Medizin. Band I–IX, Andreas, Salzburg 1980–1982; Sonderauflage in sechs Bänden, Andreas, Salzburg 1986, Band IV, S. 2184–2235.
+Clark Donald Russell: Eradicating Infectious Disease: Can We and Should We?. In: Frontiers in Immunology. Nr. 2, 2011, doi:10.3389/fimmu.2011.00053.
+Karl Sudhoff: Elf ansteckende Krankheiten vor 1300. In: Mitteilungen zur Geschichte der Medizin und der Naturwissenschaften. Band 16, 1917, S. 132–134
+Karl Sudhoff: Die acht ansteckenden Krankheiten einer angeblichen Baseler Ratsverordnung vom Jahre 1400. In: Sudhoffs Archiv. Band 21, 1929, S. 219–227.
+
+
+== Weblinks ==
+
+Infektionskrankheiten. Berlin-Institut
+Zusammenfassungen über verschiedene Infektionskrankheiten durch das RKI
+Durch Impfen vermeidbare Infektionskrankheiten – Informationen der Bundeszentrale für gesundheitliche Aufklärung über Infektionen bei Kindern im Alter von 0–6 Jahren
+SurvStat@RKI – Aktuelle Statistiken zu meldepflichtigen Infektionskrankheiten in Deutschland
+repetitorium-infektiologie.de Skript zum Thema „Infektionskrankheiten“
+BURDEN of Resistance and Disease in European Nations – Die Bestimmung der finanziellen Bürde von Antibiotikaresistenz in Europa
+
+
+== Einzelnachweise ==

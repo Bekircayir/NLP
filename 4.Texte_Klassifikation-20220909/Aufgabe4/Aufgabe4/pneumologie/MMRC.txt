@@ -1,0 +1,9 @@
+Der Modified Medical Research Council (mMRC) Questionnaire for Assessing the Severity of Breathlessness ist eine Einteilung der Luftnot (Dyspnoe) von COPD-Patienten auf dem Boden subjektiver Patientenangaben. Je höher der Grad ist, desto stärker ist die Atemnot.mMRC-Grad 0:	Luftnot bei schweren Anstrengungen.
+mMRC Grad I:	Luftnot bei schnellem Gehen in der Ebene oder bei leichtem Anstieg.
+mMRC-Grad II:	Langsameres Gehen in der Ebene als Gleichaltrige aufgrund von Luftnot oder Notwendigkeit von Pausen zu Atemholen.
+mMRC Grad III:	Luftnot bei Gehstrecke um 100 m oder nach einigen Minuten.
+mMRC-Grad IV:	Luftnot, die verhindert das Haus zu verlassen oder Luftnot beim An-/Ausziehen.
+Der mMRC findet bei der aktuellen GOLD-Leitlinie 2011 Berücksichtigung und ist hier eine alternative Bewertung der Symptomatik zum CAT. Die Grade II bis IV stehen dabei für eine verstärkte Symptomatik und bedingen die Schweregrade B (bei niedrigem Risiko für Exazerbationen) beziehungsweise D (bei hohem Risiko).
+
+
+== Einzelnachweise ==

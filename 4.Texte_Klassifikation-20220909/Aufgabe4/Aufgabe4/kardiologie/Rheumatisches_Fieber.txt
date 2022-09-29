@@ -1,0 +1,46 @@
+„Das rheumatische Fieber [auch akutes rheumatisches Fieber genannt] ist eine durch β-hämolysierende Streptokokken (Typ A [der Lancefield-Einteilung]) verursachte entzündliche Allgemeinerkrankung mit Fieber, Befall der Gelenke (akute rheumatische Polyarthritis) und des Herzens (rheumatische Karditis). Seltener betroffen sind andere Organe wie die Haut (Erythema marginatum, subkutane Knoten), das zentrale Nervensystem (Chorea minor), Gastrointestinaltrakt (abdominale Schmerzen), Leber, Lunge, Pleura und Niere.“Sie tritt als Folgeerkrankung nach einer Infektion meist der oberen Luftwege mit A-Streptokokken auf, die selbst oft mit nur milden Symptomen einhergeht.  Nach einer Tonsillitis oder Pharyngitis mit Streptokokken (v. a. Streptococcus pyogenes) erkranken dann hauptsächlich Kinder und Jugendliche am rheumatischen Fieber. Nach Streptokokkenerkrankungen anderer Lokalisation (Pyodermie, Erysipel) oder bei anderen Erregergruppen (Streptococcus viridans, Enterokokken) tritt die Folgeerkrankung nicht auf.Bei älteren Erwachsenen ist das Krankheitsbild aufgrund häufig untypischer Verläufe schwer zu diagnostizieren. Die Zahl der Herzklappen-Erkrankungen, deren Zusammenhang mit dem rheumatischen Fieber erstmals von David Pitcairn 1788 am St. Bartholomew’s Hospital in London gelehrt wurde, bei Erwachsenen in Europa liegt aber weiterhin bei 3–4 %. Die Mehrzahl dieser Klappenerkrankungen ist bakterieller Natur oder arteriosklerotisch bedingt. Eine rheumatische Reaktion ist schwer auszuschließen.
+Dass die Krankheit in den Industrieländern selten geworden ist, führt man auf die Penicillintherapie der akuten Streptokokkeninfektionen und die mehrjährige Rezidivprophylaxe des rheumatischen Fiebers mit Penicillin zurück.
+
+
+== Pathogenese ==
+Im Serum von Patienten mit rheumatischem Fieber wurden Antikörper gegen Polysaccharide der A-Streptokokken nachgewiesen, die mit „Glykoproteinen des Herzmuskelgewebes (Myofibrillen, Endokard, glatte Muskelzellen der Gefäße)“ kreuzreagieren, „was eine immunologisch vermittelte Schädigung von Herz, Gelenken und Gehirn vermuten“ lässt, „wobei vor allem die Bildung und Ablagerung von Immunkomplexen als pathogenetisch wichtigster Schritt angesehen wird.“ Da solche Antikörper jedoch ebenfalls nach vorausgegangenen Schädigungen des Herzmuskels (Herzinfarkt, Herzoperation) gesehen werden, könnte deren Nachweis auch ein Sekundärphänomen darstellen.Alternativ wird deshalb auch eine Erregerpersistenz im entzündlichen Gewebe (Herzklappen) diskutiert, die im zweiten Schritt zu überschießender Immunreaktion führt. Der Erregernachweis ist jedoch nur in Einzelfällen gelungen.Andere Hypothesen werden bis in die neueste Zeit (November 2020) präsentiert.
+
+
+== Diagnose ==
+1–3 Wochen nach einer  vorausgegangenen Streptokokkeninfektion sind charakteristische Symptome und Befunde festzustellen, die als Major-Kriterien und Minor-Kriterien zur Diagnosestellung des rheumatischen Fiebers dienen. Die erste Aufstellung dieser Kriterien geht auf die Kardiologen T.  Duckett Jones und Edward Franklin Bland 1944 zurück; sie wurden 1992 von der American Heart Association verfeinert und spezifiziert:
+Major-Kriterien:
+Karditis (Herzentzündung), speziell:
+Endokarditis (Herzinnenhautentzündung)
+Perikarditis (Herzbeutelentzündung)
+Myokarditis (Herzmuskelentzündung)
+Polyarthritis, eine akute Entzündung insbesondere der großen Gelenke, mit charakteristischem Wandern der oft flüchtigen Symptome (bei Kindern und Jugendlichen die häufigste Majorsymptomatik).
+Chorea minor (Sydenham) mit Befall des Corpus striatum, eines Teils der basalen Stammganglien des Gehirns – fast nur bei Kindern, siehe auch PANDAS. Eine Chorea minor kann auch noch Monate nach der Infektion auftreten und bedarf deshalb bei Auftreten keiner weiteren diagnostischen Kriterien, sondern des Ausschlusses anderer Ursachen.
+typisches Erythem („Erythema marginatum“: Ausschlag, bestehend aus ringelförmigen Hautrötungen)
+Auftreten von kleinen Knoten unter der Haut an den Streckseiten der Extremitäten (sogenannte „Rheuma-Knötchen“, wie sie auch von der rheumatoiden Arthritis her bekannt sind)
+Minor-Kriterien:
+Fieber
+Gelenkschmerzen (Arthralgien)
+erhöhte unspezifische Entzündungsparameter im Blut: Blutsenkungsgeschwindigkeit (BSG)  ↑, CRP ↑
+bereits durchgemachtes rheumatisches Fieber oder rheumatischer Herzklappenfehler
+Verlängerte PQ-Zeit oder PR-Zeit im EKGDie Diagnose gilt als gesichert bei Nachweis des vorangegangenen Streptokokkeninfektes (Rachenabstrich/erhöhter, bzw. ansteigender Antistreptolysintitertiter) und wenn zwei Major-Kriterien oder ein Major-Kriterium und zwei Minor-Kriterien vorliegen.
+Eine erneute Revision der Jones-Kriterien im Jahr 2015 enthielt zusätzlich doppler-echokardiographische Kriterien für eine subklinische Endokarditis in Gestalt kleiner Rückflüsse (Regurgitationen) über Mitral- und Aortenklappe sowie in Form eines Mitralklappenprolapses lediglich der Mitralklappenränder in den linken Vorhof. Für die Diagnose eines wiederkehrenden rheumatischen Fiebers sollten drei Minor-Kriterien allein ausreichen, falls eine bereits durchgemachte rheumatische Herzerkrankung feststeht. Anstelle des Major-Kriteriums „Polyarthritis“ sollten eine Monarthritis oder eine Polyarthralgie in Populationen mit mittlerem oder hohem Risiko für ein rheumatisches Fieber als Diagnosekriterium ausreichen. Für diese Population sollte auch schon der Befund eines mäßigen Fiebers als Minor-Kriterium gelten.
+
+
+== Therapie ==
+Die Therapie des Streptokokkeninfekts erfolgt mit Penicillin, bei Penicillinallergie mit einem Makrolid-Antibiotikum. Bei nachgewiesenem rheumatischem Fieber mit Herzbeteiligung ist eine entzündungshemmende Behandlung mit Acetylsalicylsäure angezeigt. Sollte diese nicht hinreichend wirksam sein, muss sie mit Kortison durchgeführt werden. Bei Verdacht auf einen Streuungsherd kann eine operative Sanierung dieses Fokus erfolgen (z. B. Tonsillektomie). Die Rezidivprophylaxe nach Ausheilen des Streptokokkeninfektes erfolgt mit Penicillin, bei Penicillinallergie wird auch hier mit einem Makrolid-Antibiotikum therapiert. Nach einer Karditis mit bleibendem Herzklappenfehler erfolgt die Prophylaxe mindestens während zehn Jahren und mindestens bis zum Erreichen des 40. Lebensjahres, nach einer Karditis ohne Klappenfehler ist sie bis zum Erreichen des Erwachsenenalters und mindestens zehn Jahre lang notwendig, ohne vorangegangene Karditis soll sie bis zum Erreichen des 21. Lebensjahres und mindestens fünf Jahre lang durchgeführt werden.
+
+
+== Prognose ==
+Die Prognose wird vor allem durch die Erkrankung des Herzens (Karditis) und deren Folgen (Rezidivneigung und rheumatischer Herzklappenfehler) bestimmt. Die Letalität wird mit 2 bis 5 % angegeben. Alle anderen Symptome heilen meist folgenlos ab. Es wurde eine erhöhte Prävalenz von psychischen Störungen nach Chorea minor beobachtet, insbesondere Zwangsstörungen und Depressionen.Etwa 50 % der Patienten mit akutem rheumatischen Fieber entwickeln eine chronische rheumatische Herzerkrankung.
+
+
+== Geschichte ==
+Bereits Hippokrates beschrieb das rheumatische Fieber und unterschied somit zwischen Gicht und akutem Gelenkrheumatismus. Die dabei auftretenden Knoten unter der Haut erkannte 1810 William Charles Wells und beschreibt diese in einer Arbeit über Rheumatismus und Herz. Den Zusammenhang von fieberhaftem Gelenkrheumatismus und rheumatischen, serofibrösen Veränderungen des Herzgewebes publizierte 1835 der französische Kliniker Jean-Baptiste Bouillaud, der erkannt hatte, dass das rheumatische Fieber nicht nur die Gelenke, sondern auch die inneren Organe befallen kann. Der Franzose Ernest-Charles Lasègue soll gesagt haben „Der akute Rheumatismus leckt die Gelenke, aber er beißt das Herz“.Der amerikanische Kardiologe T. Duckett Jones etablierte das rheumatische Fieber als komplexes Krankheitsbild und stellte 1944 für seine Diagnose erstmals die nach ihm benannten Kriterien auf, die später verfeinert und ergänzt wurden.
+
+
+== Literatur ==
+S2k-Leitlinie Rheumatisches Fieber – Poststreptokokkenarthritis der Deutschen Gesellschaft für Pädiatrische Kardiologie (DGPK). In: AWMF online (Stand 2013)
+George Edward Murphy: The evolution of our knowledge of rheumatic fever. An historical survey with particular emphasis on rheumatic heartdisease. In: Bulletin of the History of Medicine 14, 1943, S. 123–147.
+
+
+== Einzelnachweise ==

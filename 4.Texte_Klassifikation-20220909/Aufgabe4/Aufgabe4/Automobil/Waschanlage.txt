@@ -1,0 +1,112 @@
+Als Waschanlage wird eine Einrichtung bezeichnet, in der die äußerliche Reinigung von vorzugsweise motorisierten Fahrzeugen, wie PKW, LKW, Bussen oder Zügen durchgeführt wird. Seltener sind Waschanlagen für Fahrräder, wie in der Radstation Münster. Man unterscheidet in der Regel zwischen Portalwaschanlagen und Waschstraßen. Eine besondere Variante ist die meist für den Baustelleneinsatz vorgesehene Reifenwaschanlage. Waschanlagen sind aufgrund der geschlossenen Kreisläufe und der angepassten Reinigungstechnik grundsätzlich umweltfreundlicher und sparsamer im Verbrauch von Ressourcen als eine ad hoc und von Hand durchgeführte Fahrzeugreinigung.
+
+
+== Geschichte ==
+1961 entwickelten Gebhard Weigele und Johann Sulzberger (die Gründer von WESUMAT Autowaschanlagen GmbH) die erste Waschanlage, die mit nur zwei Bürsten um das stehende, zu waschende Auto fuhr und in eine normale Tankstellen-Waschhalle passte. Das Patent Selbsttätige Waschanlage für Kraftfahrzeuge hierzu wurde am 8. August 1962 angemeldet.
+Die erste vollautomatische Waschstraße mit Münzautomat wurde von Weigele und Sulzberger am 9. April 1964 zum Patent DE 1294248 angemeldet. Der Kunde konnte erstmals während der Wäsche im Auto bleiben.
+1963 baute Franz Christ (Otto Christ AG) die erste vollautomatische Autowaschanlage. Grundlage für die Portalwaschanlage ist ein Patent von Christ.
+
+
+== Vorgaben für Waschanlagen ==
+
+
+=== Waschwirkungen auf Pkw ===
+Aufgrund von Schäden durch Reinigungsmittel und durch zu hohe Drücke bei der Fahrzeugwäsche hat sich im Verband der Automobilindustrie 2007 ein Arbeitskreis gebildet, der eine unverbindliche Normenempfehlung erarbeitet hat.
+Die wesentlichen Inhalte der Normenempfehlung sind:
+
+Einteilung der Waschchemie (Reinigungsmittel) nach Klassen für manuelle und automatische Wäsche
+Definition von Referenzoberflächen und Prüfbedingungen für Waschchemie
+Mindestmaße für Waschanlagen
+Kennzeichnung der Maße für den Fahrer, um die Eignung der Waschanlage zu erkennen
+Zulässige Kräfte durch den Wasserdruck (hydrodynamische Belastung), um Beulen und Beschädigungen zu vermeidenDie Normenempfehlung richtet sich an Hersteller von Fahrzeugen, Waschchemie und Waschanlagen, damit einerseits die Auslegung des Fahrzeugs und andererseits die Waschmethoden der Fahrzeuge auf einer gemeinsamen Basis entwickelt werden kann.
+Der VDA empfiehlt beispielsweise einen maximalen Druck von 0,5 N/mm² Flächenbelastung für geschlossene Fahrzeuge, um Undichtigkeiten zu vermeiden und max. 5 N auf max. 1 mm² Fläche als Punktbelastung, um Schäden zu vermeiden. Für Cabrios und Coupes wird wegen der rahmenlosen Fenster und anderer bauartbedingter Eigenheiten 0,25 N/mm² Flächenbelastung oder alternativ ein Anstellwinkel für Düsen zur Druckreduzierung empfohlen.
+Große Flächen sollen mit nicht mehr als 400 N/m² belastet werden.
+Der VDA bietet für Waschanlagen ein Prüfsiegel, welches bei Einhaltung der Normenempfehlung vergeben werden kann.
+
+
+=== Arbeitsschutz ===
+Die Deutsche Gesetzliche Unfallversicherung (DGUV) stellt weitere Anforderungen an eine Waschanlage, die zwar dem Schutz der Mitarbeiter dienen, aber auch für den Kunden ein erhöhtes Sicherheitsniveau bewirken. Hier ist beispielsweise die Rutschsicherheit der Verkehrswege, Abstände zu Fahrzeugunterboden, Absturzsicherheit von senkrecht schließenden Toren, aber auch eine Vorgabe für Handzeichen, die dem Kunden zeigen sollen, wie er sein Fahrzeug in die Waschstraße einfahren soll.
+
+
+== Automatische Waschanlagen ==
+Die wesentlichen Typen sind die Portalwaschanlagen und die Waschstraßen, die sich in verschiedenen Merkmalen unterscheiden.
+
+
+=== Portalwaschanlage ===
+Die besonderen Merkmale einer Portalwaschanlage sind:
+
+Geringerer Flächenbedarf, Länge des Verfahrweges des Waschportals begrenzt jedoch die maximal zulässige Länge der Fahrzeuge
+Waschdauer vom Programm abhängig, eher langsam
+Zusätzliche Reinigungsschritte leicht integrierbar, verlängert die Waschzeit
+Fahrzeug steht während der Reinigung
+Für Selbstbedienung durch den Kunden geeignet, Anwesenheit von Bedienpersonal nicht erforderlichIn eine Portalwaschanlage fährt der Kunde mit dem Fahrzeug ein. Zumindest eine Person muss außerhalb des Fahrzeugs den Waschvorgang starten. Die Reinigungsbürsten bewegen sich selbständig um und über das Fahrzeug. Der Kunde kann oft nach dem Einstecken von Lochkarten, Magnetkarten, Chipkarten oder Wertmünzen im Selbstbedienungsbetrieb das gewünschte Reinigungsprogramm auswählen. Alternativ ist das Waschprogramm bei anderen Anlagen bereits auf der Karte gespeichert, oder es muss eine zuvor käuflich erworbene, einmalig gültige Ziffernkombination zur Aktivierung der Waschanlage eingetippt werden. Moderne Portalwaschanlagen kommen vor allem beim Reinigen von Transportern oder LKW zum Einsatz.
+
+
+=== Waschstraße ===
+Die besonderen Merkmale einer Waschstraße sind:
+
+Konstante Durchlaufzeit je Fahrzeug
+Geeignet für hohen Fahrzeugdurchsatz bzw. mehrere Fahrzeuge gleichzeitig in der Waschstraße
+Maximale Anzahl von Reinigungsschritten durch die Länge der Waschstraße festgelegt
+Fahrzeug rollt während der Reinigung, daher sind Betriebsstörungen durch Fahrzeuginsassen möglich (bremsen, Gang einlegen)
+Bedienpersonal steuert den Zugang, überwacht Funktion und behebt Betriebsstörungen, führt meist eine Vorreinigung am Fahrzeug durch
+Waschwasser kann aus verschiedenen Reinigungszonen getrennt abgeleitet und geeignet behandelt werdenIn einer Waschstraße wird das Fahrzeug mit Hilfe eines Förderbandes durch eine Art Tunnel gezogen. Die Waschstriemen sind ortsfest und bewegen sich nur vertikal oder horizontal. In neueren Anlagen gibt es lineare Bürstenportale, welche dem Fahrzeug bis zu 1,5 Meter folgen, um eine gründliche Front- bzw. Heckreinigung zu gewährleisten. Eine Waschstraße hat eine wesentlich höhere Kapazität als eine Portalwaschanlage. Ein Vorteil von Waschstraßen ist, dass das Fahrzeug meist vom Kunden nicht verlassen werden muss und die Wäsche unabhängig vom gewählten Programm immer gleich lange dauert.
+
+
+== Waschvorgang ==
+
+Durch Sensoren werden zunächst die Fahrzeugabmessungen ermittelt, auf Wunsch wird das Fahrzeug zur Vorwäsche mittels eines Hochdruckbogens, der dem Fahrzeug folgt, vorgewaschen; dies ist bei textilem Waschmaterial notwendig. Bei älteren Anlagen bewegen sich bei der Hauptwäsche rotierende Bürsten um oder über das Fahrzeug. Der Transport durch die Waschhalle erfolgt durch ein Förderband mit einer am linken Vorderrad angreifenden Förderrolle. Nach Patent DE 3732542 kann das Fahrzeug nicht aus der Spur kommen. In moderneren Anlagen kommen bewegliche Textilstreifen und neuerdings PE-Schaumstoffstreifen zum Einsatz. Spezielle rotierende Bürsten reinigen oftmals zusätzlich die Felgen des Fahrzeugs. Je nach Waschprogramm kann das Fahrzeug nun mit einer Wachsbehandlung oder Unterbodenkonservierung versehen werden, welche vor Umwelteinflüssen schützt. Der letzte Arbeitsschritt ist das Trocknen. Ein Gebläse bewegt sich über das Fahrzeug und trocknet die Karosserie. Moderne Waschstraßen verfügen im Anschluss an die Gebläsetrocknung noch über einen Textilmitter, der die restlichen Wassertropfen wegwischt und deutlich mehr Glanz bewirkt.
+Eine weniger verbreitete Möglichkeit, das Fahrzeug vollautomatisch reinigen zu lassen, sind bürstenlose Waschportale, die das Fahrzeug nur mit extremem Druck (bis 90 bar) und extrem aggressiven Reinigungsmitteln sauber spülen. Die Betriebskosten solcher Waschanlagen sind jedoch vergleichsweise hoch, da bis zu sechs Hochdruckpumpen verwendet werden. Diese Anlagen findet man hauptsächlich in den skandinavischen Ländern, da dort im Winter anstelle von Salz mit Splitt, dem Bitumen beigemengt ist, gestreut wird. Durch dieses Gemisch an Fahrzeugen würden Bürsten stark verschlissen bzw. verschmutzt werden. Daher wird in den Wintermonaten fast ausschließlich mit Hochdruck bzw. bürstenlos gereinigt.
+
+
+=== Bürsten oder Lappen ===
+In vielen neuen Waschanlagen kommen statt Bürsten vor allem Lappen zur Reinigung zum Einsatz um den Lack zu schonen. Diese reinigen jedoch im Vergleich zu Nylonbürsten schlechter und hinterlassen in der Regel einen feinen Schmutzfilm aufgrund der geringen mechanischen Einwirkung. Nylonbürsten hingegen schädigen den Lack in der Regel nur, wenn sie nicht regelmäßig gereinigt werden.
+Seit dem Jahr 2000 kommt anstelle von Nylon- bzw. Polyethylenborsten oder Textillappen immer öfter Waschmaterial aus geschlossenzelligem Polyethylen-Schaumstoff zum Einsatz. Bei gleicher Drehzahl wie Polyethylenborsten ergibt sich ebenfalls ein gutes Waschergebnis. Dieses Waschmaterial hinterlässt weniger Abrieb auf dem Lack und verursacht auch kaum Schleifspuren durch eingeschlossene Partikel. Lackschäden sind damit seltener der Fall.
+
+
+=== Waschprogramme ===
+
+Die gebräuchlichsten Waschprogramme sind:
+
+Hochdruckvorwäsche – Ein Hochdruckstrahl (bis 90 bar) wäscht das Auto vor, um extreme Verschmutzungen und Sand, die im Bürstenwaschgang zu Kratzern führen können, vom Auto zu spülen.
+Aktiv-Schaum – Das Auto wird mit einem hochaktiven Reinigungsschaum eingesprüht, der festhaftende Verschmutzungen löst, um den Lack für die Bürstenwäsche vorzubereiten.
+Bürstenwäsche – Das Fahrzeug wird von drei Bürsten (zwei vertikalen, einer horizontalen) mittels Sensoren und Druckfühlern abgetastet und dabei der Lack gereinigt.
+Wachsauftrag – Heiß-, Kalt- und Schaumwachs werden nach dem Waschvorgang aufgesprüht.
+Sonderwachs – Ein Spezialwachs wird nach einer Zwischentrocknung auf den trockenen Lack aufgesprüht und dann von den Bürsten fixiert.
+Schaumpolitur – Ein Spezialwachs wird ohne Zwischentrocknung auf den Lack als Schaum aufgetragen und dann von den Bürsten fixiert.
+Glanztrockner/Trocknungshilfe – Ein Mittel wird vor dem Trockenvorgang aufgesprüht und bewirkt, dass der Wasserfilm schnellstmöglich abrinnt.
+Trocknung – Ein horizontales Gebläse (optional auch seitliches Gebläse) folgt der Fahrzeugkontur und bläst so die verbliebenen Wassertropfen ab.
+Unterbodenwäsche – Der Unterboden und die Radläufe werden durch Hochdruckdüsen mit bis zu 90 bar gereinigt.
+Unterbodenkonservierung – Der Unterboden wird mit einem speziellen Wachs besprüht, um ihn vor Steinchen und Salz zu schützen.
+Felgenreinigung – Die Felgen werden durch Tellerbürsten oder Hochdruckdüsen gereinigt.
+
+
+=== Umweltschutz ===
+Je nach Waschanlagentyp werden zur Fahrzeugwäsche zwischen ca. 120 l (Portalwaschanlagen) und 600 l (Waschstraßen) Wasser verbraucht. Um Frischwasser einzusparen, wird daher in den meisten Waschanlagen das Waschwasser aufgefangen und nach Klärung und Filterung wieder zur Wäsche verwendet. Dies ist gesetzliche Vorgabe für Anlagen, die seit 2005 errichtet wurden. Wachse und Trocknungshilfen werden jedoch grundsätzlich mit Frischwasser aufgebracht. Dem Waschwasser sind Reinigungszusätze beigemischt, um hartnäckigen Schmutz zu entfernen. Außerdem ist das Waschwasser leicht basisch (pH 7,5 bis 8,0). An den Fahrzeugen austretende Öle oder Betriebsstoffe werden über einen Ölabscheider herausgefiltert. In den Wintermonaten wird zudem Streusalz durch die Fahrzeuge in das Waschwasser eingebracht, das zu einer Aufsalzung des Waschwassers führt. Daher wird im Winter periodisch Frischwasser zusätzlich zugegeben, um die Salzkonzentration auf geringerem Niveau zu stabilisieren.
+
+
+== SB-Waschbox ==
+
+Neben den automatisierten Varianten existieren auch Waschanlagen, in denen der Kunde sein Auto selbst reinigen kann. Diese Anlagen sind meist in abgetrennte Waschboxen eingeteilt, in denen jeweils ein Fahrzeug mit Standardmaßen Platz findet. Manche Einrichtungen bieten auch offene Waschplätze für größere Fahrzeuge wie Transporter oder LKW. Die Anlagen sind nur periodisch mit Personal besetzt, der Kunde erwirbt an einem Automaten spezielle Waschmünzen oder wirft direkt Bargeld in den am Waschplatz angebrachten Automaten. Nach der Wahl eines Reinigungsprogramms kann das Fahrzeug für eine bestimmte Zeit mit einem fest angebrachten Hochdruckreiniger oder einer Schaumbürste gereinigt werden. Die Trocknung des Fahrzeuges erfolgt an der Luft oder durch manuelles Abledern.
+
+
+== Waschanlagen für militärische Großfahrzeuge ==
+Ein besonderer Aufwand ist mit automatischen Wasch- und Dekontaminationsanlagen für Panzer und andere militärische Fahrzeuge verbunden. Er ist bedingt durch das enorme Gewicht der Fahrzeuge, die umfangreichen und unter Umständen kontaminierten Schmutzrückstände, wie auch vom Fahrzeug ausgehende Verschmutzungen, etwa durch Ölaustritt.
+Panzerwaschanlagen sind wichtige Einrichtungen auf Übungsplätzen und größeren Militärstandorten. Sie ermöglichen, nach Manövern und Kampfeinsätzen die gesamte Fahrzeugtechnik vergleichsweise umweltfreundlich rasch und intensiv vom Grobschmutz zu befreien, um die Fahrzeuge wieder einsatzbereit zu machen und die Transportfähigkeit auf öffentlichen Straßen und Eisenbahnen wiederherzustellen. Hersteller sind unter anderem die Schweizer Firma Frutiger sowie Kärcher Futuretech.
+Panzerwaschanlagen selbst sind unter anderem wegen der Ölaustritte mögliche Quelle von Umweltverschmutzungen. Noch umweltschädlicher war die von der Gruppe der Sowjetischen Streitkräfte in Deutschland angewandte Reinigungsmethode, Panzer schlicht an Flüssen grob abzuspritzen und das Öl einfach in den Boden abzulassen. Bei Renaturierungsmaßnahmen an ehemaligen Truppenübungsplätzen bieten sich die Auffangbecken als geeignete Biotope für Amphibien an.
+
+
+== Rechtsprechung (Deutschland) zu Autowaschanlagen ==
+Der BGH hat 2004 einen Fall um die Wirksamkeit zweier AGB-Klauseln eines Betreibers von Waschanlagen entschieden. Demnach wurden folgende Klauseln „…wegen unangemessener Benachteiligung der Kunden…“ als unwirksam beurteilt:
+
+„Eine Haftung für die Beschädigung der außen an der Karosserie angebrachten Teile, wie z.B. Zierleisten, Spiegel, Antennen, sowie dadurch verursachte Lack- und Schrammschäden, bleibt ausgeschlossen, es sei denn, daß den Waschanlagenunternehmer eine Haftung aus grobem Verschulden trifft.“
+„Folgeschäden werden nicht ersetzt, es sei denn, daß den Waschanlagenunternehmer eine Haftung aus grobem Verschulden trifft.“Der BGH meint "... halten die Freizeichnungsklauseln der Inhaltskontrolle nach § 9 Abs. 1 AGBG (jetzt: § 307 Abs. 1 BGB) nicht stand. Sie sind daher unwirksam.". Für den Betreiber bedeutet dies, dass er bei Schäden einen Entlastungsbeweis vorbringen muss, wenn Fahrlässigkeit vermutet werden kann.
+Ob Waschanlagen oder SB-Waschboxen an Sonn- und Feiertagen öffnen dürfen, ist abhängig von den Feiertagsgesetzen der Bundesländer und Genehmigungen der Gewerbeaufsicht, in deren Gebiet die Waschanlage liegt. Daher gibt es zu dieser Frage zahlreiche ähnliche Urteile in jedem Bundesland. Im Allgemeinen ist danach der Betrieb an Sonn- und Feiertagen nicht zulässig, auch wenn die Waschanlage in einem Gewerbegebiet liegt oder die SB-Waschboxen nur von den Autobesitzern in ihrer Freizeit bedient werden. Ausnahmen können beispielsweise für allgemein verkaufsoffene Sonntage erteilt werden.
+
+
+== Weblinks ==
+
+Exemplarische Gefährdungsbeurteilung (Ergänzung) und Maßnahmen zur Eingrenzung der Gefährdung der Mitarbeiter, der Kunden und der Umgebung einer Autowaschanlage nach Biostoffverordnung. (PDF) Gewerbeaufsicht des Landes Baden-Württemberg, 30. Oktober 2014, abgerufen am 22. Januar 2022. Patente zur Fahrzeugreinigung: Vehicle cleaning apparatus not integral with vehicles. Patentklasse B60S3/04. Europäisches Patentamt, abgerufen am 22. Januar 2022 (englisch). 
+
+
+== Einzelnachweise ==

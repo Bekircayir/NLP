@@ -1,0 +1,83 @@
+Lattelecom (ehemals Lattelekom) ist ein Telekommunikationsunternehmen und Internetdienstanbieter aus Lettland.
+Die Lattelecom-Gruppe bietet Informationstechnik, Telekommunikation und ausgelagerte Geschäftsprozesslösungen durch alle Unternehmen der Gruppe. Die Lattelecom-Gruppe setzt sich aus fünf Unternehmen zusammen: SIA Lattelecom, Lattelecom BPO, Citrus Solutions und Lattelecom Technology mit seinem Tochterunternehmen Baltic Computer Academy. Die Lattelecom-Gruppe ist ein führender Anbieter von elektronischen Kommunikationsdiensten in Lettland und bietet elektronische Kommunikationslösungen für private Nutzer, kleinere und mittlere Unternehmen, Behörden und kommunale Einrichtungen sowie Großbetriebe an. 51 % der Anteile an Lattelecom sind in staatlicher Hand, die verbleibenden 49 % werden vom skandinavischen Unternehmen TeliaSonera AB gehalten. Lattelecom hält ihrerseits 23 % der Anteile an dem lettischen Mobilfunkbetreiber Latvijas mobilais telefons.
+
+
+== Geschichte ==
+Das lettische staatliche Telekommunikationsunternehmen Lattelecom (ehemals Lattelekom) wurde am 9. Januar 1992 im Unternehmensregister eingetragen. Knapp zwei Jahre später, am 22. Dezember 1993, bestätigte das Ministerkabinett der Republik Lettland die Entscheidung der Kommission, das britisch-finnische Konsortium TILTS Communications zum Gewinner der Ausschreibung „Modernisierung des lettischen Telekommunikationsnetzwerks“ zu erklären. Damit wurde das Unternehmen zu einem strategischen Investor der Lattelekom. Am 14. Januar 1994 wurde der Vertrag mit TILTS Communications abgeschlossen und SIA Lattelekom ins Leben gerufen. Als Ergebnis der Privatisierung wurden 49 % der Unternehmensanteile von zwei ausländischen Investoren übernommen – Cable and Wireless und Telecom Finland, die später Teil des schwedischen Telekommunikationsunternehmens TeliaSonera AB wurden.
+Cable and Wireless verkaufte seine Anteile später an TeliaSonera, wodurch heute 51 % des Unternehmens in staatlicher lettischer Hand liegen und 49 % TeliaSonera gehören. Bis zum 1. Januar 2003 hatte das Unternehmen ein Monopol bei Festnetz-Sprachkommunikationsdiensten, wodurch es sich zum führenden Festnetzbetreiber entwickelte.
+
+
+== Lattelecom-gruppe ==
+Die Lattelecom-Gruppe setzt sich aus fünf Unternehmen zusammen:
+Lattelecom: auf das Angebot von Internet-, Sprach- und TV-Diensten spezialisiert.
+Lattelecom BPO: Kundendienst-Lösungen, Geschäftsprozess-Outsourcing (BPO) und 1188 Fernsprechverzeichnisdienste.
+Citrus Solutions: als Produkt der Abspaltung der ehemaligen Netzwerk-Wartungsabteilung von der Muttergesellschaft Lattelecom integrierte Netzwerkinfrastrukturaufbau- und Sicherheitssystemlösungen bietet.
+Lattelecom Technology: integrierte IT-Lösungen und Dienste. Tochterunternehmen SIA Baltijas Datoru Akadēmija bietet als Weiterbildungs- und Zertifizierungs-Center Leistungen für Informations- und Kommunikationstechnologie-(ICT)-Profis und -Benutzer.
+
+
+== Lattelecom Internet ==
+Lattelecom ist der größte Internetdienstanbieter in Lettland. Lattelecom bietet verschiedene Arten von Internetverbindungen an – Breitband-DSL-Internet, Glasfaser-Internet sowie Drahtloslösungen – Wi-Fi.
+
+
+=== Internet über Glasfaser ===
+Im Jahr 2009 begann Lattelecom, stationäre Glasfaserdienste mit bis zu 100 Mbit/s Internet-Bandbreite anzubieten. Im September 2009 wurde verkündet, dass Lattelecom seine Glasfaser-Bandbreite auf bis zu 500 Mbit/s aufgerüstet hatte.
+Zolitūde war der erste Wohnbezirk in Riga, in welchem der Glasfaser-Internetdienst von Lattelecom im Januar 2009 zur Verfügung stand, später gefolgt von Kengarags, Purvciems, Plavnieki, Ziepniekkalns und anderen Standorten. Jelgava war die erste Stadt außerhalb Rigas, in der Glasfaser-Internet zur Verfügung stand, jedoch bereits gegen Ende 2009 hatten auch andere Städte Zugang zum Lattelecom Glasfaserdienst, wie beispielsweise Daugavpils, Salaspils und andere. Zunächst fand die Glasfaser-Netzwerkerweiterung in den Neubaugebieten in Riga und anderen Großstädten des Landes statt; der Grund hierfür war, dass der Kapitalertrag bei der Entwicklung des Netzwerks nur erreicht werden konnte, wenn neu angeschlossene Gebäude wenigstens 30 Wohneinheiten hatten.
+Der Dienst wird mit GPON-Technologie angeboten, womit 100 Mbit/s von jedem Anschlusspunkt (Apartment) möglich sind. Mitte 2012 stand das Lattelecom Glasfaser-Internet 425.000 Haushalten in Lettland zur Verfügung, was der Hälfte aller lettischen Haushalte entspricht. Die Infrastruktur deckt mehr als 45 Städte und Wohnbezirke ab.
+
+
+=== Baltischer Highway ===
+Als bedeutende Datenübertragungsroute wurde im Jahr 2012 der Baltische Highway (Baltic Highway) eröffnet. Er gewährleistet die hochwertigste Datenübertragung durch die Baltischen Staaten, Polen und Deutschland mit einer Erweiterung zur Russischen Föderation. Das Projekt zum Bau einer vereinigten Glasfaser-Infrastruktur wurde von Lattelecom in Zusammenarbeit mit der Deutschen Telekom und MegaFon umgesetzt. Der Baltische Highway gewährleistet eine Datenübertragungsrate von n*10 Gbit/s (die Anfangskapazität des Systems beträgt 40x10 Gbit/s) und wird die geografisch kürzeste Streckenführung zwischen Deutschland und Russland sein. Die Baltische Highway-Infrastruktur ist eine alternative Transferroute für die Netzwerke der früheren Nordland-Route (Russland-Schweden-Deutschland) sowie der Süd-Route (Russland-Ukraine-Deutschland).
+
+
+=== Wi-Fi ===
+Lattelecom gewährleistet die Möglichkeit der Nutzung einer schnellen und stabilen Internetverbindung im Freien durch öffentliches Wi-Fi. Derzeit stehen in Lettland mehr als 2.700 Wi-Fi Zugangspunkte zur Verfügung.
+
+
+== Lattelecom TV ==
+Im Jahr 2011 wurde Lattelecom der größte TV-Dienstanbieter der Baltischen Staaten und erreichte 230.000 Bezahl-TV-Kunden über Abonnements eines der drei TV-Dienste des Unternehmens – DVB-T, Interaktives Fernsehen und Internetfernsehen.
+Seit dem 1. März 2011 bietet das Unternehmen Internetfernsehen für Mobilgeräte an, beispielsweise Smartphones und Tablet-Computers, und wurde damit zum ersten Anbieter in den Baltischen Staaten, der Fernsehen auf vier verschiedenen Bildschirmarten anbot – nicht nur auf herkömmlichen Fernsehern, sondern auch auf Computern, Tablet-PCs und Mobiltelefonen.
+
+
+=== Interaktives Fernsehen ===
+Eine neue Fernsehgeneration, die Interaktivität ermöglicht, überlässt dem Kunden die Wahl, was er wann sehen möchte. Lattelecom Interaktives TV ist ein HDTV-Dienst, der verschiedene Funktionen bietet, wie beispielsweise virtuellen Videoverleih, Timeshift, Aufzeichnung von Programmen und Filmen usw. Das Interaktive TV-Signal wird über eine Breitband-Internetverbindung übertragen, welche den Zugang sowohl zum Internet wie auch TV über ein einziges Kabel (Telefonkabel) ermöglicht. Aus Kundensicht bedeutet dies, dass keine zusätzlichen Kabel oder eine Satellitenantenne installiert werden müssen.
+
+
+=== Digitales terrestrisches TV ===
+Seit Anfang 2009 und nach dem Zuschlag für die Ausschreibung des Transportministeriums der Republik Lettland, setzt Lattelecom gemeinsam mit dem öffentlich-rechtlichen Radio- und Fernsehzentrum (LVRTC) den Übergang vom analogen zum digitalen TV-Übertragungssystem um.
+Lattelecom Terrestrisches TV ermöglicht die digitale Ausstrahlung von TV-Signalen, die mit einer Zimmer- oder Hausantenne empfangen werden können. Bestehende Analogkunden, die Fernsehen über eine Zimmer- oder Hausantenne empfangen, müssen einen TV-Decoder erwerben, um weiterhin fernsehen zu können. Entsprechend der Planung bietet Terrestrisches TV freien Zugang zu allen nationalen Kanälen des Landes – LTV1, LTV7, LNT, TV3 und TV5.
+
+
+=== Internetfernsehen ===
+Internetfernsehen ist seit 2010 verfügbar und wurde zunächst testweise ausgestrahlt. Derzeit kann Internetfernsehen nur in Lettland empfangen werden. Internetfernsehen auf Mobilgeräten ist seit März 2012 verfügbar. Es ist der erste TV-Dienst in Lettland, der Fernsehen nicht nur zu beliebiger Zeit an einem beliebigen Ort, sondern auch auf verschiedenen Geräten ermöglicht – PC, Tablet-Computer und Smartphone.
+
+
+== Privatisierung ==
+Lattelecom war zuvor als Telekommunikationsunternehmen in staatlicher Hand. 1994 wurden 49 % der Anteile an zwei ausländische Investoren verkauft, Cable and Wireless und Telecom Finland, das heute Teil von TeliaSonera ist. Cable and Wireless verkaufte später seinen Anteil an TeliaSonera, das heute 49 % der Unternehmensanteile hält. Die verbleibenden 51 % des Unternehmens sind weiterhin in staatlicher lettischer Hand.
+
+
+== Monopol ==
+Bis vor kurzem hatte Lattelecom Monopolrechte an der Festnetz-Sprachkommunikation in Lettland; dies endete jedoch am 1. Januar 2003. Der Festnetz-Telekommunikationsmarkt in Lettland ist heute für den Wettbewerb geöffnet, aber Lattelecom hat weiterhin den überwältigenden Marktanteil und das Unternehmen ist ebenfalls einer der führenden Internetdienstanbieter in Lettland sowie einer der Anteilseigner von Latvijas Mobilais Telefons, Lettlands größtem Mobilfunkanbieter.
+
+
+== Die Marke Lattelecom ==
+Am 18. Mai 2006 implementierte Lattelecom das sogenannte Rebranding, die Änderung des Firmenimage, und tauschte den bestehenden Firmennamen gegen einen neuen Firmenschriftzug aus. Bis 2006 hatte das Unternehmen bereits eine Umstrukturierung durchlaufen, während derer auch ein neues Unternehmen übernommen wurde (SIA Lattelecom Technology) und wobei die Änderung des Firmenimage den Abschluss besagter Reorganisation markierte – der neue Firmenname schloss alle Unternehmen der Gruppe zu einem großen Ganzen zusammen, das direkt auf das Angebot von Kundendienstleistungen, Geschäftsprozess-Outsourcing für Kunden und IT&T- sowie und Anwendungsdienste ausgerichtet war.
+
+
+== Gewinne und Wertentwicklung ==
+Der Umsatz von Lattelecom erreichte 2011 LVL 135,8 Millionen, was einem Rückgang von LVL 3,8 Millionen gegenüber dem Vorjahr entspricht. TV- und Internetdienste waren für die höchste Umsatzsteigerung verantwortlich, da die Anzahl der Abonnenten rapide anstieg. Der Umsatz bei Datendiensten stieg ebenfalls, während die Umsätze aus Sprachanrufen weiter zurückgehen.[34] Der bereinigte Gewinn von Lattelecom vor Steuern betrug 2011 LVL 47,5 Millionen (LVL 45,6 Millionen 2010), eine EBITDA-Gewinnspanne von 35 %. Der Gewinn von Lattelecom betrug 2011 LVL 20,8 Millionen, was einem Anstieg von 8 % gegenüber 2010 (LVL 19,3 Millionen) entspricht.
+
+
+== Mitarbeiterzahl ==
+Ende 2011 arbeiteten 2.174 Mitarbeiter für die Lattelecom-Gruppe. In verschiedenen Studien wurde Lattelecom im Jahr 2011 als eines der besten Kundendienstleistungsunternehmen im Lettland dargestellt und in einer Umfrage der Personalagentur WorkingDay Latvija wurde Lattelecom auf Platz 3 der attraktivsten Arbeitgeber aufgeführt.
+
+
+== Soziale Verantwortlichkeit ==
+Lattelecom implementiert soziale Unterstützungs- und Wohltätigkeitsprojekte. Die wichtigsten Bereiche der Unterstützung umfassen Kultur, Bildung und Sport. Die wichtigsten derzeit unterstützten Projekte sind Iespējamā misija (Mission Possible) und Pieslēdzies, Latvija! (Connect, Latvia!).
+
+
+=== Connect, Latvia! ===
+Connect, Latvia! ist ein einzigartiges Projekt in Lettland, das Menschen über 50 die Möglichkeit gibt, grundlegende PC-Kenntnisse zu erwerben und damit die Anzahl der Menschen verringert, die nicht mit einem PC oder dem Internet arbeiten können. 150 Gruppen mit mehr als 1.500 Personen wurden 2011 in ganz Lettland organisiert, um theoretische und praktische Grundlagen für PC-Kenntnisse zu erwerben. Im Jahr 2012 wurden Informatik-Lehrer für die Weiterbildung von älteren Mitbürgern gewonnen, wodurch sich die Anzahl der Teilnehmer auf 6.000 erhöhte.
+Die Weiterbildung für Senioren wird in kleinen Gruppen organisiert – etwa 14 Teilnehmer je Gruppe. Die Weiterbildung in den Gruppen dauert drei Tage mit jeweils vier Unterrichtsstunden (je 45 Minuten).
+
+
+== Einzelnachweise ==

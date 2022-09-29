@@ -1,0 +1,43 @@
+Das Andersen-Tawil-Syndrom (ATS) ist eine seltene angeborene Erkrankung mit einer Kombination von wiederholt auftretender Muskellähmung, Herzrhythmusstörungen mit verändertem EKG (verlängertem QT-Intervall), Kleinwuchs, Skelettveränderungen und Gesichtsdysmorphie. Es wird als Form des QT-Syndromes angesehen.
+Synonyme sind: Andersen-Syndrom; LQT7; Long-QT-Syndrom Typ 7; veraltet: englisch Andersen cardiodysrhythmic periodic paralysis; Periodic paralysis, potassium-sensitive cardiodysrhythmic type
+Die Erstbeschreibung stammt aus dem Jahre 1971 durch die dänischen Ärzte Ellen Damgaard Andersen, Peter A. Krasilnikoff und Hans Overvad.Die Namensbezeichnung bezieht sich auf Rabi Tawil und Mitarbeiter.Die Krankheit ist nicht zu verwechseln mit dem Morbus Andersen, einer Glykogenspeicherkrankheit.
+
+
+== Verbreitung ==
+Die Häufigkeit wird auf 1 zu 1.000.000 geschätzt, die Vererbung erfolgt autosomal-dominant.
+
+
+== Ursache ==
+Der Erkrankung liegen bei etwa 60 % Mutationen im KCNJ2-Gen auf Chromosom 17 Genort q24.3 zugrunde, welches für die Alpha-Untereinheit des Kaliumkanals Kir2.1  kodiert.Mutationen in diesem Gen sind auch anzutreffen beim Familiären Vorhofflimmern und beim Short-QT-Syndrom.
+
+
+== Klinische Erscheinungen ==
+Klinische Kriterien sind:
+Rhythmusstörungen mit Neigung zum plötzlichen Herztod
+Kleinwuchs
+Skoliose
+Gesichtsdysmorphie wie tiefsitzende Ohren, Hypertelorismus, breite Nasenwurzel, Mikrognathie
+weitere Skelettveränderungen wie Klinodaktylie, Brachydaktylie und Syndaktylie
+wiederholt auftretende Muskellähmung
+
+
+== Diagnose ==
+Die Diagnose ergibt sich aus der Kombination klinischer und kardiologischer Befunde.
+
+
+== Therapie ==
+Die medikamentöse Behandlung muss individuell eingestellt werden, eventuell ist ein Herzschrittmacher notwendig.
+
+
+== Literatur ==
+A. Gupta, S. Iyadurai, J. Roggenbuck, S. LoRusso: Marked reduction in paralytic attacks in a patient with Andersen-Tawil syndrome switched from acetazolamide to dichlorphenamide. In: Neuromuscular disorders : NMD. Band 31, Nummer 7, 07 2021, S. 656–659, doi:10.1016/j.nmd.2021.04.001, PMID 34078557.
+D. R. Barrón-Díaz, A. Totomoch-Serra, R. E. Escobar-Cedillo, A. García-Gutierrez,.. Reyes-Quintero, S. E. Villegas Davirán, C. B. Ibarra-Miramón, M. F. Már: Andersen-Tawil Syndrome with High Risk of Sudden Cardiac Death in Four Mexican Patients. Cardiac and Extra-Cardiac Phenotypes. In: Revista de investigacion clinica; organo del Hospital de Enfermedades de la Nutricion. [elektronische Veröffentlichung vor dem Druck] Nummer 5, Mai 2020, doi:10.24875/RIC.20000310, PMID 33057326.
+P. Rujirachun, A. Junyavoraluk, M. Pithukpakorn, B. Suktitipat, A. Winijkul: Successful treatment of arrhythmia with β-blocker and flecainide combination in pregnant patients with Andersen-Tawil syndrome: A case report and literature review. In: Annals of noninvasive electrocardiology : the official journal of the International Society for Holter and Noninvasive Electrocardiology, Inc. Band 26, Nummer 3, 05 2021, S. e12798, doi:10.1111/anec.12798, PMID 32959505, PMC 8164140 (freier Volltext).
+J. Schneider, K. Klimes, J.I. Stein, U. Schweigmann: Andersen-Tawil-Syndrom (Long-QT-Syndrom Typ 7): Therapieerfahrungen mit Flecainid. In: The Thoracic and Cardiovascular Surgeon. 63, 2015, doi:10.1055/s-0035-1556018.
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+Aravindhan Veerapandiyan, Jeffrey M Statland und Rabi Tawil: Andersen-Tawil Syndrome. Synonym: Long QT Syndrome Type 7 (LQTS Type 7). In: GeneReviews®

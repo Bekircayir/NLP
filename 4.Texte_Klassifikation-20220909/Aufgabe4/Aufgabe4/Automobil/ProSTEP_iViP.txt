@@ -1,0 +1,44 @@
+prostep ivip ist ein Verein mit Sitz in Darmstadt. Er versteht sich als weltweit tätiges, unabhängiges Netzwerk aus Industrie, IT und Forschung. Der Fokus seiner Arbeit liegt auf der digitalen Transformation in Produktentstehung und Produktion. Er formuliert und bündelt dazu die Anforderungen von Herstellern und Zulieferern der Fertigungsindustrie, definiert Standards und Schnittstellen, bietet IT-Anbietern Foren für mehr Interoperabilität und führt neutrale Benchmarks durch. Der Verein wurde 1993 als ProSTEP-Verein zur Förderung internationaler Produktdatennormen e. V. gegründet, 2002 in ProSTEP iViP e.V. umbenannt und schreibt sich seit Mai 2017 "prostep ivip".
+
+
+== Geschichte ==
+Die Gründung des Vereins erfolgte 1993 aus der Einsicht von namhaften IT-Managern von BMW, Bosch, Continental, Daimler, Delphi, Opel, Siemens, Volkswagen und 30 weiteren, dass die Wettbewerbsfähigkeit ihrer Unternehmen maßgeblich von der Entwicklung moderner Verfahren für effizientes PLM bestimmt sein wird.
+Ausgangspunkt war das vom BMWi geförderte ProSTEP-Projekt und die daraus resultierende Entscheidung zur gemeinsamen Entwicklung des Datenformats STEP (ISO 10303). 2002 wurden die Themen des Vereins um die des erfolgreich abgeschlossenen BMBF-Leitprojekts iViP (iViP steht für „integrierte virtuelle Produktentstehung“) erweitert. Bis heute ist es ein wesentliches Anliegen des prostep ivip Vereins für seine Mitglieder neue Ansätze der durchgängigen Prozess-, System- und Datenintegration zu entwickeln und alle Produktentstehungsphasen digital zu unterstützen.
+
+
+== Organisation ==
+40 % der heute 180 Mitgliedsfirmen in prostep ivip sind Unternehmen der Fertigungsindustrie, 40 % sind IT-Unternehmen und 20 % sind Forschungseinrichtungen und anderes Gremien. Die Dreigliedrigkeit spiegelt sich auch in der Besetzung des Vorstands wider: ein Vertreter der Hersteller, einer der Zulieferer, einer für die IT und einer für die Forschung. Das Technische Programm des Vereins mit seinen über 20 Projekten wird vom Technical Steering Committee (TSC) gelenkt.
+
+
+== Kooperationen ==
+prostep ivip pflegt ein Netzwerk mit gleichgesinnten Organisationen und baut die stetig aus. Zu diesen Organisationen gehören die ISO, die OMG, der DIN, die AIA, der ASD-STAN oder die OASIS, genauso wie Vereinigung wie etwa AutomationML, die GALIA, die GfSE, die GPM, der JAMA, die PDES, der VDA oder der VDMA.
+
+
+== Veröffentlichungen ==
+prostep ivip veröffentlicht Standards, Empfehlungen, White Paper und Best Practices zusammen mit Partnerorganisationen wie auch eigenständig. Unter anderem:
+
+ISO 10303-242:2014: Managed model-based 3D engineering
+ISO 14306:2012: JT file format specification for 3D visualization
+OMG Requirements Interchange Format (ReqIF)
+ASD-STAN EN 9300 / AIA NAS 9300 Long-term Archiving and Retrieval (LOTAR)
+VDA 4965 – Engineering Change Management (ECM)
+VDA 4968 – Vehicle Electric Container (VEC)
+PSI 11 – Smart Systems Engineering (SmartSE)
+PSI 12 – Manufacturing Change Management (MCM)
+PSI 13 – OEM-OEM and OEM-Joint Venture Collaboration (PDM to PDM)
+PSI 14 – JT Industrial Application Package, Format and Use Cases (JTIAP)
+PSI 15 – Enterprise Rights Management (ERM)
+PSI 16 – Code of Openness (CPO)
+DIN SPEC 91383 – JT Industriel Application Package (JTIAP)
+DIN SPEC 91372 – Code of PLM Openness (CPO) - IT Offenheitskriterien (CPO)
+
+
+== Veranstaltungen ==
+Alljährlich im Frühjahr veranstaltet der Verein eine der weltweit größten neutralen PLM-Kongresse, das prostep ivip Symposium. Daneben lädt er aber auch zu kleineren, themenspezifischen Konferenzen und Webinaren ein.
+
+
+== Weblinks ==
+Homepage
+
+
+== Einzelnachweise ==

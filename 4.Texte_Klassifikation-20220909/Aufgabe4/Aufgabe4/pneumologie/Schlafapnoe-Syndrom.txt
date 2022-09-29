@@ -1,0 +1,164 @@
+Das Schlafapnoe-Syndrom (SAS) ist ein Beschwerdebild, bei dem während des Schlafes wiederholt Atemregulationsstörungen mit Hypopnoe (Minderbelüftung der Lunge bzw. alveoläre Hypoventilation) und/oder Apnoe (kurzfristiger Atemstillstand) auftreten. Neben den hierdurch bedingten Schlafstörungen und einer damit einhergehenden Tagesmüdigkeit bis hin zum Einschlafzwang (Sekundenschlaf) kann die Schlafapnoe mit weiteren Symptomen und Begleiterkrankungen verbunden sein.
+Die kurzfristigen Atemstillstände wiederholter Apnoe führen zu einer verringerten Sauerstoffversorgung bei gleichzeitigem Anstieg des Kohlendioxidgehalts des Blutes und in deren Folge zu wiederholten Weckreaktionen. Diese Alarmreaktionen des Körpers führen jedoch meistens nicht zu einem bewussten Aufwachen, sondern lediglich zu erhöhten Körperfunktionen, beispielsweise beschleunigtem Puls und wiederholter Ausschüttung von Stresshormonen. Hierdurch wird die normale Schlafphasenabfolge gestört, sodass die Erholungs- und Regenerationsfunktion des Nachtschlafes teils erheblich gemindert wird. Da diese Reaktionen noch im Schlafzustand ablaufen, werden sie von den Betroffenen meist nicht bewusst wahrgenommen und nicht erinnert.
+In der Schlafmedizin zählen die verschiedenen Formen des Schlafapnoe-Syndroms nach dem Klassifikationssystem für Schlafstörungen (International Classification of Sleep Disorders (ICSD)) zu den „Schlafbezogenen Atmungsstörungen“.
+
+
+== Aussprache ==
+Die korrekte Aussprache ist dreisilbig „A-pno-e“ ([aˈpnoːə]) aufgrund der Herkunft von altgriechisch ἄπνοια apnoia „Nicht-Atmung“, vergleiche ebenso bei Apnoetauchen.
+
+
+== Formen und Ursachen ==
+Die Atmung ist gewöhnlich ein unwillkürlich regulierter Vorgang im Wechsel von Einatmen (Inspiration) und Ausatmen (Exspiration), insbesondere während des Schlafes. Hierbei stellt normalerweise nicht ein sinkender Sauerstoffgehalt des Blutes den wesentlichen Atemreiz dar, sondern ein steigender Kohlendioxidgehalt im Blut und im Hirngewebe ist der stärkste Atemstimulus für die inspiratorische Phase. Während eines vorübergehenden Stillstands der Atmung, einer Apnoe, steigt der Partialdruck des Kohlendioxids (CO2) soweit an, dass durch diesen Atemreiz bald eine (schlafstörende) Weckreaktion mit kräftigem Einatmen ausgelöst wird, bevor wegen des abfallenden Partialdrucks des Sauerstoffs (O2) (Hypoxämie) eine Ohnmacht eintreten kann.
+Nach der Ursache unterscheidet man bei den während der Schlafphase mit kurzzeitigem Atemstillstand wiederholt auftretenden Apnoen zwischen der obstruktiven Form durch ein Verlegen der Atemwege und der zentralen Form infolge einer gestörten Atemregulation im Gehirn. Kommt bei einem Patienten beides vor, spricht man von gemischter Form.
+
+Weitaus am häufigsten ist das Obstruktive Schlafapnoe-Syndrom (OSAS). Dessen unmittelbare Ursache ist die Verengung der Atemwege wegen einer im Schlaf stark ausgeprägten Erschlaffung der ringförmig um die oberen Atemwege gelegenen Muskulatur. Beim Einatmen werden daher mit dem Sog eingeatmeter Luft auch die weichen seitlichen Begrenzungen des Nasen- und Rachenraums angesaugt, wenn der Muskeltonus nicht hinreicht, während der Einatmenphase bei Unterdruck in den Atemwegen deren Formstabilität zu gewährleisten. Der nicht durch Knorpel gestützte Teil der oberen Atemwege mit dem Zungenmuskel verengt sich infolgedessen und es kommt zu einer Behinderung der Einatmung mit reduziertem Atemvolumen, einer Hypopnoe, oder zur kompletten Verlegung, einer Apnoe. Dauern die durch eine Obstruktion entstandenen Unterbrechungen der Atmung länger als etwa zehn Sekunden, führt der anwachsende Atemreiz zu inspiratorischen Atembewegungen. Hierfür bildet weniger die abgesunkene arterielle Sauerstoffsättigung als vielmehr der angestiegene Kohlendioxid-Gehalt in Blut und Gewebe bzw. Liquor den wesentlichen Atemantrieb. Infolge der obstruktiven Behinderung sind stärkere Einatmungsbewegungen erforderlich und es kommt bei erhöhtem CO2-Gehalt (Hyperkapnie) zu einer kurzen Weckreaktion des Körpers (englisch micro-arousal), mit der die Atmung dann wieder einsetzt. Meist erinnert der Patient sich an diese Ereignisse nicht. Doch wird dadurch die physiologische Schlafstruktur gestört und damit die Erholungsfunktion beeinträchtigt.
+Die Anzahl der Apnoen und Hypopnoen pro Stunde wird als Apnoe-Hypopnoe-Index (AHI) angegeben. Bei Verengung bzw. Verschluss der oberen Atemwege entstehen bei vielen Betroffenen Schnarchgeräusche, weshalb viele der OSAS-Patienten starke Schnarcher sind. Bei Schnarchern mit starker Tagesmüdigkeit besteht daher der begründete Verdacht auf OSAS. Schnarchen (Rhonchopathie) allein und auch gelegentliche, kurze Atmungsaussetzer sind nicht gesundheitsschädlich. Anhand der Daten einer Kohortenstudie wurde 1993 geschätzt, dass 1–2 % der Frauen und 2–4 % der Männer im mittleren Lebensalter vom OSAS betroffen sind. Die Häufigkeit (Prävalenz) des Schlafapnoe-Syndroms mit einem AHI von mehr als 15 beträgt nach neueren Studien 9 % bei Männern und 4 % bei Frauen. Da eine OSAS oft auch zusammen mit zentralen Atemregulationsstörungen auftritt, ist die gemischte Form ebenfalls nicht selten.
+Eine Unterform der schlafbezogenen Atmungsstörungen ist der vorrangig durch einen erhöhten Strömungswiderstand in den oberen Atemwegen gekennzeichnete Symptomenkomplex (englisch Upper Airway Resistance Syndrom, UARS), bei dem der Muskeltonus noch ausreichend hoch ist, um einen Teil des Lumens der Atemwege offen zu halten. Hierbei kommt es aufgrund einer vermehrten Atemanstrengung auch ohne signifikanten Sauerstoff-Abfall ebenfalls zu vermehrten Weckreaktionen (Arousals).Das reine Zentrale Schlafapnoe-Syndrom (ZSAS) ist selten. Durch Schäden im zentralen Nervensystem (ZNS), besonders im Atemzentrum, wird die Atemmuskulatur unzureichend gesteuert – das Gehirn „vergisst“ zu atmen. Die zentrale Apnoe ist meist erblich bedingt, kann aber auch aus neurologischen Schädigungen resultieren. Man unterteilt die zentrale Schlafapnoe in fünf Typen: idiopathische zentrale Apnoe, Cheyne-Stokes-Atmung, reduzierte Atmung durch eine Höhenkrankheit, krankheitsbedingte und medikamentös bedingte Apnoe.
+
+
+== Risikofaktoren ==
+Das OSAS hat keine spezifische einzelne Ursache. Folgende Risikofaktoren können ein OSAS begünstigen:
+
+Adipositas (Übergewicht)
+eventuell zusätzlich auch eine Behinderung der Nasenatmung durch Polypen oder Nasenscheidewandverkrümmung oder Rhinitis vasomotorica
+vergrößerte Rachenmandeln (v. a. bei Kindern)
+konstitutionelle Erschlaffung der Rachenmuskulatur, Veranlagung
+Alkoholkonsum, Schlafmittel, Nikotin, Ecstasy
+dolichofazialer Gesichtstyp: im Fernröntgenseitenbild eines Erwachsenen ist ein großer Unterkieferwinkel erkennbar – dadurch liegt die pharyngeale Muskulatur weit an der Rachenhinterwand, das Lumen ist verengt
+angeborene Fehlbildungen und Fehlstellungen des Unterkiefers (Pierre-Robin-Sequenz, Goldenhar-Syndrom, Kraniometaphysäre Dysplasie)
+Vergrößerung der Weichteile (z. B. Zunge), hervorgerufen durch Akromegalie
+Bindegewebskrankheiten wie z. B. Marfan-SyndromDas ZSAS kann zusätzlich noch durch folgende Faktoren begünstigt werden:
+
+Herzprobleme: Herzinsuffizienz, Schlaganfall oder Vorhofflimmern
+Hirntumor
+Leben in großen Höhen
+Medikamente für die Atemwege
+
+
+== Schlafapnoe bei Kindern ==
+Das Schlafapnoe-Syndrom tritt bei Säuglingen und Kleinkindern nur selten auf, kann aber schon bei einmaligem Auftreten zu einer lebensbedrohlichen Situation führen. Bei Frühchen oder Neun-Monats-Babys, die unter erschwerten Bedingungen geboren wurden, tritt eine Schlafapnoe am ehesten auf. Vermutet wird, dass das Gehirn die Signale noch nicht vollständig an die Lunge überträgt. Unterschieden werden muss bei Säuglingen zwischen dem sogenannten periodischen Atmen, einem normalen Phänomen, und der Schlafapnoe. Bei dem periodischen Atmen kann die Atmung für etwa zehn Sekunden aussetzen, um dann wieder regelmäßig fortzufahren. Bei Babys wird die Atmung mit einem Apnoemonitor aufgezeichnet. Dabei werden alle Atemaussetzer, die zu lange dauern, aufgezeichnet und ein Alarm ausgelöst.
+Eine unregelmäßige Atmung tritt bei vielen älteren Kindern auf, häufig sind sie kurz und nicht lebensbedrohlich. Meist sind Polypen oder vergrößerte Rachenmandeln verantwortlich für apnoeähnliche Schlafzustände bei älteren Kindern.
+
+
+== Symptome ==
+Die Angehörigen von OSAS-Patienten berichten meist über lautes Schnarchen, unterbrochen durch Atempausen, die mit einem heftigen, seufzenden Atemzug oder einem Schnarchlaut beendet werden. Längst nicht jeder Schnarcher aber leidet an OSAS, und nicht jeder OSAS-Patient fällt tatsächlich durch Schnarchen auf. Die beschriebene Verengung in den oberen Atemwegen kann in Einzelfällen zu einem sofortigen Verschluss führen, so dass keine Schnarchgeräusche mehr entstehen können.
+Weitere Symptome des obstruktiven Schlafapnoe-Syndroms sind:
+Apnoe von mindestens zehn Sekunden- bis Minutendauer
+Durchschlafstörungen
+Tagesmüdigkeit, Einschlafneigung am Tag
+Kopfschmerzen beim Erwachen, vermehrte Migräneattacken
+Schwindel, vor allem nach dem Aufstehen
+Mundtrockenheit beim Erwachen
+nächtliches Schwitzen
+Nykturie (vermehrter Harndrang während des Schlafs/nächtliches Wasserlassen)
+Sekundenschlafattacken/imperativer Schlafdrang, teils ohne Warnsignale
+Konzentrationsstörungen bis hin zu Gedächtnisstörungen
+depressive Verstimmung
+Persönlichkeitsveränderungen
+erektile Dysfunktion
+unruhiger Schlaf
+Bluthochdruck
+Zittern, Angstzustände, Kreislaufschwankungen, Ohrensausen
+ggf. weitere sekundäre Symptome wie Wundheilungsstörungen, Haarausfall, Hautprobleme, neurologische Störungen  (z. B. Sexualkopfschmerz)
+
+
+== Folgen ==
+Als Folge eines unbehandelten OSAS treten meistens weitere chronische Gesundheitsstörungen auf, und zwar Herz-Kreislauferkrankungen wie Bluthochdruck, Rechtsherzinsuffizienz, Herzinfarkte sowie Schlaganfälle. Ein plötzlicher Herztod kann bei unbehandeltem OSAS mit erhöhter Wahrscheinlichkeit auftreten. Beschrieben sind auch Depressionen, Hirnschäden und das gehäufte Auftreten von Stress-Erkrankungen wie Magengeschwür, Tinnitus und Hörsturz.
+Diabetes mellitus, Typ 2, wird seit Anfang 2002 immer häufiger in Zusammenhang mit dem OSAS gebracht.
+Es besteht ein linearer Zusammenhang zwischen dem Apnoe-Hypopnoe-Index (AHI) und der Insulin-Resistenz. Der Blutzucker ist also umso höher, je mehr Atempausen pro Stunde Schlaf auftreten. Nach einer eingeleiteten nCPAP-Therapie kann die nächtliche Zuckerneubildung (Gluconeogenese) deutlich vermindert werden und die morgendlichen Blutzuckerwerte können sinken.
+Patienten, deren OSAS durch Behandlung gebessert wurde, berichten von reduzierten Migräneanfällen.
+Einer aktuellen Studie zufolge ist das SAS stark mit dem Auftreten von Herzkrankheiten, die einen Herzschrittmacher erforderlich machen, assoziiert.In letzter Zeit wird zunehmend darauf hingewiesen, dass ein Schlafapnoepatient, der müde oder krankhaft unkonzentriert ist, kein Fahrzeug, insbesondere mit Personenbeförderung, führen darf. Je nach Rechtslage kann sogar Strafbarkeit bestehen. Rechtsnormen sind in Deutschland z. B. die Fahrerlaubnisverordnung, der berufsgenossenschaftliche Untersuchungsgrundsatz G25 und die Richtlinien des Verbandes Deutscher Verkehrsunternehmen. Wahrscheinlich sind viele schwere Verkehrsunfälle auf eine unbehandelte Schlafapnoe zurückzuführen. Deswegen werden Früherkennungsuntersuchungen für Berufskraftfahrer gefordert. Zwei bis vier Wochen nach Beginn einer regelmäßigen nCPAP-Therapie ist die Fahrtauglichkeit in der Regel vollständig wiederhergestellt. Regelmäßige Nachuntersuchungen – auch der Therapieakzeptanz – sind notwendig. Derzeit untersuchen nur wenige arbeitsmedizinische Dienste von Verkehrsunternehmen wie den Wuppertaler Stadtwerken ihre Beschäftigten auf das Vorliegen schlafbezogener Atemstörungen wie der Schlafapnoe.
+Bei Notwendigkeit müssen die nCPAP-Atemtherapiegeräte auch im Auto oder LKW bei Standzeiten mittels Bordnetz betrieben werden.
+In Deutschland wird das Schlafapnoe-Syndrom auch von den Versorgungsämtern als Behinderung anerkannt:
+
+ohne die Notwendigkeit einer Beatmungstherapie (nCPAP, BiPAP) 0–10 Grad der Behinderung (GdB)
+mit der Notwendigkeit einer Beatmungstherapie (nCPAP, BiPAP) 20 GdB
+bei nicht durchführbarer Therapie/Beatmungstherapie mindestens 50 GdB
+
+
+== Forschung ==
+Im Rahmen einer vorläufigen Studie der American Academy of Neurology im Jahr 2019 stellten Forscher der Mayo Clinic in Rochester, Minnesota, fest, dass Schlafapnoe mit höheren Anhäufungen des Tau-Proteins korreliert sein kann, eines Biomarkers im Gehirn, der mit der Alzheimer-Krankheit in Verbindung gebracht wird. Die Forscher rekrutierten 288 ältere Teilnehmer ab 65 Jahren für die Studie.
+
+
+== Diagnose ==
+Wichtig für die Diagnose sind die oft typische Vorgeschichte (obstruktives Schnarchen, Atemaussetzer und fehlende Erholsamkeit des Nachtschlafes) sowie Angaben zur Schlafhygiene. Die Diagnostik wird durch ein Schlafdiagnostik-Screening (sogenanntes Nicht-Labor-Monitoring) eingeleitet, welches nach entsprechender Weiterbildung und Zulassung überwiegend durch Fachärzte für HNO bzw. Pneumologie durchgeführt wird.
+Die Untersuchung mit solchen Nicht-Labor-Monitoring-Systemen (NLMS) erfolgt durch Aufzeichnung von Atemströmung (nasal flow), Atemgeräuschen, Sauerstoffsättigung im Blut mittels Pulsoxymeter, Herzfrequenz, Atembewegung des Brustkorbes und des Abdomens sowie Körperlage (Kardiorespiratorische Polygraphie) während des Schlafes zu Hause beim Patienten. Es sind verschiedene kompakte Geräte hierfür am Markt verfügbar.
+Eine Schlafapnoe ist wahrscheinlich, wenn neben der klinischen Symptomatik in der Polysomnographie bei einer Aufzeichnungszeit von mindestens sechs Stunden im Durchschnitt pro Stunde mehr als fünf Apnoe-/Hypopnoe-Phasen über 10 Sekunden Dauer (pathologischer Apnoe-/Hypopnoe-Index AHI: >5) mit dem charakteristischen episodischen Abfall der Sauerstoffsättigung des Blutes nachgewiesen werden. Als leichte/milde Schlafapnoe wird ein AHI von 6 bis 14 gewertet, als mittlere Schlafapnoe ein AHI von 15 bis 30 und als schwere Schlafapnoe ein AHI von über 30.
+In Fällen eines auffälligen Screenings wird der Patient in ein Schlaflabor eingewiesen. Dort wird mit einer Polysomnographie die Notwendigkeit einer Behandlung weiter abgeklärt bzw. eine Behandlung eingeleitet und hinsichtlich der Effektivität kontrolliert. Bei der Polysomnographie werden zusätzlich zu den Parametern der Polygraphie ein Elektroenzephalogramm (EEG), eine Elektrookulographie (EOG), eine Elektromyographie (EMG) im Bereich der Kinn- und Beinmuskulatur sowie ein EKG aufgezeichnet und der Blutdruckverlauf, in einigen Fällen auch intrathorakale Druckschwankungen, fortlaufend registriert. Während der nächtlichen Untersuchung wird das Schlafverhalten mit einer Videoaufzeichnung dokumentiert.
+In der Polysomnographie zeigt sich der Einfluss der verminderten Sauerstoffversorgung, die sich im EEG als „Schlaffragmentierung“ manifestiert. Bedingt durch den Sauerstoffmangel, der sich infolge der Atempausen wiederholt, kommt es zu ständigen Weckreaktionen (Arousals), so dass durch die Fraktionierung des Schlafes (im Vergleich zur normalen „Schlafarchitektur“) eine pathologische Reduktion der Tiefschlaf- und Traumschlafphasen resultiert.
+Bei der vollständigen Polysomnographie kann zusätzlich zum AHI auch der RDI bestimmt werden. Der RDI, Respiratory Disturbance Index, bezieht die respiratorischen Ereignisse auf die im EEG belegte Schlafzeit und nicht nur auf die „Bettzeit“.
+
+
+== Behandlung ==
+
+
+=== Konservative Therapie ===
+Als Behandlung werden je nach Schwere und Ursache verschiedene Methoden empfohlen, wie Gewichtsreduktion, Verzicht auf Alkohol und Nikotin sowie eventuell eine operative Behandlung von Atemwegsbehinderungen. Auch eine Stärkung der Muskulatur des Mundes und des Halses kann eine Verbesserung bewirken; es gibt positive Berichte über den Effekt von regelmäßigem Musizieren mit Blasinstrumenten, insbesondere mit einem Didgeridoo. Neuere Studien zeigen, dass auch Doppelrohrblattinstrumente die Symptome lindern, während andere Musikinstrumente wirkungslos bleiben.
+
+Eine Therapie des OSAS ist die CPAP-Therapie mittels CPAP-Atemtherapiegeräten (Continuous Positive Airway Pressure). Diese Geräte haben ein Gebläse, welches über einen Schlauch mit einer nCPAP-Maske verbunden ist, die mittels Kopfbändern um die Nase (oder um Mund und Nase) auf das Gesicht gedrückt wird. Mit Hilfe dieser Masken wird während der Schlafzeit in den Atemwegen ein leichter Überdruck von 5 bis 20 Millibar erzeugt. Dieser verhindert das Zusammenfallen der Atemwege und verhindert damit Apnoen und Hypopnoen. Dabei wird gleichzeitig das Schnarchen verhindert. Man spricht bei dieser Therapie auch von der „pneumatischen Schienung“ der oberen Atemwege. Es gibt verschiedene Arten solcher Masken. Man unterscheidet zwischen „Direkt-Nasal-“, „Oral-“, „Nasal-“ und „Vollgesichts-Masken“. Nach einer Eingewöhnungsphase berichten die meisten Anwender über eine deutlich bessere Schlafqualität und Rückgang bzw. Verschwinden der OSAS-Symptome. Neben der Linderung der OSAS-Symptomatik kann die CPAP-Therapie auch dabei helfen, eine medikamentenresistente Hypertonie zu lindern, welche oft im Zusammenhang mit dem OSAS auftritt.
+Erscheint die CPAP-Therapie dem Patienten zu anstrengend, etwa wegen des Gegendrucks beim Ausatmen, weicht man meist auf die BIPAP-Beatmung aus. In der Regel muss die Therapie lebenslang angewendet werden. Das Absetzen der Therapie kann zur Folge haben, dass die Symptome wieder auftreten. Der Schlaf wird erholsam, wenn man die Therapie regelmäßig und konstant durchführt. Manchmal ist bei Austrocknen der Nasenschleimhaut die Verordnung eines Warmbefeuchters für die Atemluft erforderlich. Die CPAP-Geräte werden im Schlaflabor auf den individuell notwendigen Beatmungsdruck eingestellt. Der Druck kann in Schlaflaboren überprüft und angepasst werden, da dieser sich im Laufe der Therapie verändern kann. Ein anderer Druck kann zum Beispiel erforderlich sein, wenn der Patient Gewicht verloren oder zugenommen hat. Auch ambulante Einstellungen und Überprüfungen sind möglich. Die Krankenkassen verlangen in letzter Zeit häufig einen Nutzungsnachweis von mehr als vier Stunden pro Nacht, wenn sie die Behandlung weiter bezahlen sollen. Hierzu zeichnet das Atemtherapiegerät auf einer Speicherkarte die Nutzungsdauer auf.
+Bei unter CPAP-Beatmung weiter bestehender Tagesschläfrigkeit ist das vigilanzsteigernde Medikament Modafinil einsetzbar, welches mittlerweile in Deutschland aber nicht mehr für diese Indikation zugelassen ist (nur noch bei Narkolepsie), da es sehr häufig starke Nebenwirkungen wie Kopfschmerzen, Übelkeit, Schwindel und Durchfall verursacht. Der Einsatz von Theophyllin, welches zentral den Atemantrieb steigert, ist u. a. wegen kardialer Nebenwirkungen obsolet.
+
+
+=== Unterkieferprotrusionsschiene ===
+
+Bei Patienten mit einem leichten bis mittelgradigen obstruktiven Schlafapnoe-Syndrom hat die intra-orale Unterkieferprotrusionsschiene ihre Wirksamkeit nachweisen können. Dabei handelt es sich um individuell nach Abformung der Zähne gefertigte, labortechnisch hergestellte, einstellbare Schienensysteme. Durch das Tragen wird die Einengung des Rachenraums verringert, die Atemwege werden im Schlaf mechanisch offen gehalten und der Atemwegswiderstand nimmt ab. Das Verfahren kommt auch statt CPAP bei Intoleranz oder mangelnder Therapiecompliance zur Anwendung. Metaanalysen haben gezeigt, dass Protrusionsschienen den Blutdruck ähnlich stark senken wie die CPAP-Beatmung und ebenfalls die Tagesmüdigkeit effektiv therapieren.
+
+
+=== Operative Therapie ===
+CPAP ist die am weitesten verbreitete Therapie des Schlafapnoe-Syndroms und der international anerkannte „Goldstandard“, sie ist allerdings eine nicht für alle Patienten durchführbare Dauertherapie. Insbesondere bei Unverträglichkeiten konservativer Therapien gibt es für die obstruktive Schlafapnoe deshalb operative Behandlungsmöglichkeiten. Ein sinnvolles Ziel von chirurgischen Eingriffen kann die Verbesserung der Nasenluftpassage zur Verbesserung der CPAP-Compliance sein, ein anderer Ansatzpunkt sind ungewöhnlich große Gaumentonsillen und Adenoiden. Chirurgische Alternativen mit Eingriffen im Halsbereich haben sich nicht durchgesetzt.
+
+
+==== Uvulopalatopharyngoplastik ====
+Die Uvulopalatopharyngoplastik (UPPP) ist eine Operation zur Reduktion und Straffung des weichen Gaumens. Bei dieser Operation wird Fett- und Bindegewebe im Rachenbereich entfernt, das die Atemwege im Schlaf verschließen könnte. Dazu gehören Teile der weichen Gaumenmuskulatur, der Uvula (Zäpfchen) und des Pharynx. Meist wird die Uvulopalatopharyngoplastik mit einer Tonsillektomie kombiniert. Die Erfolgsrate dieser Operation liegt bei 40–60 % nach sechs Monaten. Durch die Entfernung großer Rachenmandeln kann die Erfolgsrate gesteigert werden.
+
+
+==== Maxillomandibuläre Operation ====
+Bei der bimaxillären Operation (englisch Maxillomandibular Advancement) werden die physischen Ursachen der obstruktiven Schlafapnoe, die zu kleinen oder zu weit zurückliegenden Kiefer und der damit verbundene Zungengrund, welcher die oberen Atemwege verengt, behandelt. Bei diesem Eingriff werden durch das Vorverlagern des Ober- und Unterkiefers die oberen Atemwege dauerhaft erweitert. Laut Leitlinien zur Behandlung atembezogener Schlafstörungen ist eine Vorverlagerung beider Kiefer von mindestens 10 mm notwendig, um die Erfolgsquote einer Heilung der Schlafapnoe (AHI ≤ 5) mit einer Wahrscheinlichkeit von über 90 % zu erreichen. Man unterscheidet zwischen dem gewöhnlichen bimaxillären Advancement und dem bimaxillären Advancement mit CounterClockwise Rotation. Bei der Operation mit gleichzeitiger Rotation (gegen den Uhrzeigersinn) werden die Atemwege deutlich mehr erweitert als bei dem reinen bimaxillären Advancement. Ziel der bimaxillären Operation ist eine Erhöhung der Sauerstoffkonzentration im arteriellen Blut sowie eine Verbesserung der Schlafqualität.Bimaxilläre Operationen werden von spezialisierten Mund-, Kiefer- und Gesichtschirurgen oder von Oralchirurgen durchgeführt. Generell sind bei einem solchen Eingriff die Risiken wie bei jedem operativen Eingriff von der Erfahrung des Operateurs mit diesem Eingriff abhängig, ebenso sind Risiken wie Wundheilungsstörungen, Infektion, Gefäß- und vor allem Nervenverletzungen (insbesondere des im Unterkiefer verlaufenden Nervus mandibularis) und Blutungen zu beachten, über die jeder Patient individuell aufgeklärt werden muss. Speziell zu erwähnen ist das meist reversible Taubheitsgefühl im Bereich der Unterlippe und das Vorkommen von Störungen der Zahnstellung. Unmittelbar postoperativ kann es zu einer ausgedehnten Schwellung kommen, die nach circa ein bis zwei Wochen verschwindet. Operationsbedingte Schmerzen sind gering. Nach dem Eingriff sollte der Patient für circa drei bis vier Wochen nicht kauen und nur flüssige und pürierte Kost zu sich nehmen.
+Mit der Vorverlagerung der Kiefer geht eine Veränderung der Gesichtsform einher. Daher ist im Vorfeld eine umfangreiche Aufklärung und Beratung durch einen erfahrenen Spezialisten empfehlenswert, um zusätzlich zum medizinisch erfolgreichen auch ein ästhetisch ansprechendes Ergebnis zu erzielen. Auch haben gerade übergewichtige Patienten, Patienten mit Herzerkrankungen oder Diabetes ein erhöhtes Operationsrisiko, was viele Patienten mit Schlafapnoe betrifft. Daher ist nach den in Deutschland gültigen Leitlinien immer erst einmal eine ungefährliche Therapie mit Luft (CPAP) mit ausreichendem Zeitfenster zur Gewöhnung und durch Unterstützung erfahrener Schlafmediziner zu versuchen, was dann auch in den meisten Fällen gelingt.
+
+
+==== Stanford-Protokoll ====
+Eine Operation gemäß dem Stanford-Protokoll ist wesentlich umfangreicher und besteht aus zwei getrennten Operationen. Bei der ersten Operation handelt es sich um eine Operation des Weichgewebes, das eine Tonsillektomie und die Uvulopalatopharyngoplastik umfasst. Ist danach noch eine restliche Schlafapnoe vorhanden, erfolgt die zweite Operation, die aus einer maxillomandibulären Dysgnathieoperation besteht.
+
+
+=== Hypoglossus-Stimulation ===
+Einen weiteren Ansatzpunkt stellt die Stimulationstherapie dar. Durch Stimulation des Nervus hypoglossus können über Tonussteigerung der Zungenmuskulatur nächtliche Apnoen verhindert werden. Die Stimulation kann dabei atmungssynchron die gesamte rechtsseitige Zungenmuskulatur bei der Einatmung oder kontinuierlich alternierend unterschiedliche Anteile der rechtsseitigen Zungenmuskulatur während Ein- und Ausatmung erfolgen. Nachdem beide Systeme in Europa schon seit 2013 zur Anwendung kommen können, wird die atmungssynchrone Stimulation seit der Freigabe durch die FDA im April 2014 auch in den USA angewendet.
+Operative Eingriffe werden von entsprechend spezialisierten Kieferchirurgen und/oder HNO-Ärzten durchgeführt.
+In lebensbedrohlichen Situationen oder wenn alle anderen Behandlungsmethoden versagen, wird auch eine Tracheotomie (Luftröhrenschnitt) durchgeführt. Dieser drastische Eingriff wirkt immer, da die Obstruktion der oberen Atemwege umgangen wird. In seltenen Fällen wird dem Patienten ein permanenter Tubus in die Luftröhre eingesetzt, durch den im Schlaf geatmet werden kann.
+
+
+=== Alternative Therapien ===
+Zahlreiche Firmen bieten auch „Anti-Schnarch-Masken“, Nasenklammern, elektrische Warngeräte, Meditationskurse, Magnetfeldmatten, ätherische Öle usw. zur Eigenbehandlung an. Diese Produkte und Methoden haben bisher keine nachgewiesene Wirksamkeit, stören in manchen Fällen den Nachtschlaf sogar zusätzlich. Außerdem verhindern oder verzögern sie den Beginn einer wirksamen Behandlung der Schlafapnoe.
+Eine weitere Alternative ist die transkutane Elektrostimulation der suprahyoidalen Muskulatur, welche zu einer Vergrößerung des Lumens im Pharynx führt. Diese Methode muss während zweier Monate zweimal täglich durchgeführt werden,  bietet aber nur begrenzte Erfolge, zudem auch nur bei mildem Schlafapnoesyndrom und kann daher nicht generell als Alternative zur CPAP-Therapie betrachtet werden.
+Aktuell sind keine Medikamente zur Behandlung der obstruktiven Schlafapnoe zugelassen und es gibt auf diesem Gebiet keine Phase-III-Studien. In einer Metaanalyse von sieben Medikamenten deutete sich allerdings ein potentieller Behandlungserfolg unter Acetazolamid an.
+
+
+== Ausmusterung bei der Bundeswehr ==
+Das Schlafapnoe-Syndrom ist in Gesundheitsnummer 44 (Lunge und Mediastinum) der Zentralen Dienstvorschrift (ZDv) 46/1 aufgeführt:
+
+Ein nachgewiesenes Schlafapnoe-Syndrom mit Einschränkung der körperlichen und geistigen Leistungsfähigkeit mit der Notwendigkeit der apparativen Atmungstherapie ist danach als Gradation VI eingestuft, was zur Ausmusterung führt.
+Ein nachgewiesenes Schlafapnoe-Syndrom ohne wesentliche Einschränkung der körperlichen und geistigen Leistungsfähigkeit führt zur Gradation IV, dies führt seit dem 1. Oktober 2004 nach einer Änderung der Dienstvorschrift ebenfalls zu einem T5 (Ausmusterung). Vorher führte dies zu einem T3 (verwendungsfähig mit Einschränkung in der Grundausbildung und für bestimmte Tätigkeiten).Siehe Anlage 3/46 der Zentralen Dienstvorschrift 46/1 des Bundesministeriums der Verteidigung.
+
+
+== Siehe auch ==
+Pickwick-Syndrom
+
+
+== Literatur ==
+Peter Spork: Das Schnarchbuch. Ursachen, Risiken, Gegenmittel. Rowohlt Taschenbuch Verlag, Reinbek 2007, ISBN 978-3-499-62207-6.
+Hans-Werner Gessmann: Das Zungenmuskel-Training – eine alternative Behandlung gegen Schlafapnoe und Schnarchen. Verlag des Psychotherapeutischen Instituts Bergerhausen, Duisburg 2001, ISBN 3-928524-43-7.
+Peter Hannemann: Schlafapnoe-Syndrom und Schnarchen. Ursachen, Symptome, erfolgreiche Behandlung. Jopp bei Oesch, Zürich 2000, ISBN 3-89698-113-7.
+Jürgen Schäfer: Schnarchen, Schlafapnoe und obere Luftwege. Thieme Verlag, Stuttgart 1996, ISBN 3-13-102111-X.
+
+
+== Weblinks ==
+
+S3-Leitlinie (Stand 2017) Nicht erholsamer Schlaf/Schlafstörungen - Kapitel "Schlafbezogene Atmungsstörungen" der Deutschen Gesellschaft für Schlafforschung und Schlafmedizin (DGSM)S2-Leitlinie Therapie der obstruktiven Schlafapnoe des Erwachsenen der Deutschen Gesellschaft für Hals-Nasen-Ohren-Heilkunde, Kopf- und Hals-Chirurgie (DGHNOKHC). In: AWMF online (Stand 2009)
+Obstruktive Schlafapnoe – Informationen bei Gesundheitsinformation.de (Online-Angebot des Instituts für Qualität und Wirtschaftlichkeit im Gesundheitswesen)
+C. Iber u. a.: The AASM Manual for the Scoring of Sleep and Associated Events: Rules, Terminology and Technical Specifications. 1. Auflage. American Academy of Sleep Medicine, Westchester IL 2007
+Karte der DGSM mit Schlaflaboren in Deutschland
+Interaktive Karte des Schlafapnoe Forums für Schlaflabore und Selbsthilfegruppen
+
+
+== Einzelnachweise ==

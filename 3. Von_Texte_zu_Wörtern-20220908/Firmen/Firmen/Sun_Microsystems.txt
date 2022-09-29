@@ -1,0 +1,61 @@
+Die Sun Microsystems, Inc. [ˌsʌn ˈmaɪkɹoʊˌsɪstəmz] war ein Hersteller von Computern und Software, der im Jahr 2010 durch Übernahme in die Oracle Corporation eingegliedert wurde. Ausgegründet aus der Stanford University 1982, war Sun bis dahin ein unabhängiges Unternehmen und im kalifornischen Santa Clara ansässig. Das Unternehmen befasste sich zunächst mit der Entwicklung und Herstellung von Unix-Workstations, einer breiteren Öffentlichkeit wurde es ab Ende der 1990er Jahre vor allem durch die Entwicklung der Java-Technologie und der gleichnamigen Programmiersprache bekannt.
+
+
+== Geschichte ==
+
+Sun wurde am 24. Februar 1982 von dem Deutschen Andreas von Bechtolsheim und den Amerikanern Bill Joy, Vinod Khosla und Scott McNealy gegründet, die offizielle Eintragung der Firma erfolgte jedoch erst am 16. Mai. Der Name Sun leitet sich von Stanford University Network ab, einem damaligen Projekt zur Vernetzung der Bibliotheksrechner an der Stanford University.
+Sun entwickelte 1984 mit NFS ein Netzwerkdateisystem. Dieses wurde unter eine Open-Source-Lizenz gestellt, wodurch es in der Unix-Welt einen großen Erfolg erzielte und auch heute noch sehr wichtig ist. Andere Projekte für den Unix-Bereich wie NeWS, gedacht als Alternative zum X Window System, hatten u. a. aufgrund des nichtöffentlichen Quellcodes kaum Erfolg.
+Die frühen Computer der Baureihen Sun-1, Sun2 und Sun3 waren mit Prozessoren der 68000er-Familie von Motorola (CISC-CPU) bestückt und liefen unter dem Betriebssystem SunOS, einem BSD-4.3-Abkömmling. Mit dem Sun-SPARC-Prozessor entwickelte Sun eine sehr leistungsfähige RISC-CPU für die eigenen Workstations und Server der Sun-4-Baureihe, auf denen die Betriebssysteme SunOS und später Solaris liefen.
+Mit Java schuf Sun 1995 eine objektorientierte, systemunabhängige Programmierplattform, die schnell sehr viele Anhänger fand.
+1999 kaufte Sun das Unternehmen Star Division mit dem Office-Paket StarOffice, das 2000 unter einer freien Lizenz (LGPL) als OpenOffice.org veröffentlicht wurde und sehr schnell von Entwicklern aus der Open-Source-Gemeinde angenommen wurde. Im Mai 2005 übernahm Sun das Softwareunternehmen Tarantella. Im April 2006 schloss Sun Deutschland die Übernahmen von StorageTek und SeeBeyond ab. Am 24. April 2006 teilte das Unternehmen in einer Pressemitteilung mit, dass der bisherige Vorstandsvorsitzende Scott McNealy durch Jonathan I. Schwartz ersetzt wird, der nach der Übernahme von Lighthouse Design 1996 zu Sun gekommen war.
+Anfang 2008 übernahm Sun für rund eine Milliarde Dollar das Unternehmen MySQL AB, die bis dahin die Open-Source-Datenbank MySQL entwickelte und kommerziell vermarktete. Kurz darauf folgte Innotek, der Hersteller der Virtualisierungslösung VirtualBox.
+Nach einem Bericht des The Wall Street Journal plante IBM, Sun Microsystems für 6,5 Milliarden US-Dollar zu übernehmen, die Verhandlungen schlugen allerdings fehl.
+
+
+=== Wirtschaftliche Krise und Übernahme ===
+
+Am 20. April 2009 kündigte Oracle die Übernahme von Sun Microsystems für 7,4 Milliarden US-Dollar an. Am 20. August 2009 gab Oracle bekannt, die Genehmigung zur Übernahme von Sun Microsystems erhalten zu haben. Das US-Justizministerium genehmigte den Angaben zufolge die Übernahme durch Oracle ohne Restriktionen. Die EU-Kommission teilte nach einer ersten Prüfung am 10. November 2009 mit, dass sie wettbewerbsrechtliche Probleme auf dem Markt für Datenbanken sehe. Sie äußerte deshalb Bedenken gegen die Übernahme von Sun Microsystems durch Oracle. Im Januar 2010 genehmigte die EU-Kommission die Übernahme allerdings ohne Auflagen. Der Weltmarktführer für kommerzielle Datenbanken, Oracle, übernahm somit den führenden Anbieter für quelloffene Datenbanken (MySQL) sowie von Java. Als direkte Auswirkung der Akquisition haben sich zahlreiche Open-Source-Projekte von Oracle abgewendet.
+Für das im Juni 2009 beendete Geschäftsjahr musste Sun einen Verlust von 2,2 Milliarden Dollar verbuchen. Zuvor wurden bereits innerhalb von drei Jahren 7600 Arbeitsplätze abgebaut, weitere 3000 Entlassungen sind geplant, was auch europäische Niederlassungen betreffen soll.
+
+Die aktuellen Umsatzeinbußen begründet Sun wesentlich mit dem noch nicht abgeschlossenen Übernahmeverfahren und der dadurch verursachten Zurückhaltung der Kunden.
+
+
+== Produkte ==
+
+
+=== Rechner ===
+Modellreihen (Auszug):
+
+
+=== Weitere Produkte ===
+JavaOS – Betriebssystem auf Java-Basis
+CLUMEQ – Supercomputer (2009)
+HotJava – Web-Browser
+Java-Technologie
+Solaris – Betriebssystem, ursprünglich SunOS
+OpenSolaris – quelloffenes Betriebssystem
+SBus – Bus für Erweiterungskarten
+StarOffice – die kommerzielle Stamm-/Auflageversion von OpenOffice.org (eingestellt, heute bei Apache)
+Sun Ray – Thin Client mit massgeschneiderter Server-Komponente
+VirtualBox – Virtualisierungslösung
+ZFS – Dateisystem/Poolmanager mit Datenintegrität und Snapshot-Funktionen
+SAM-QFS – verteiltes, hierarchisches Dateisystem
+Secure Global Desktop – webbasierte Anwendungs-Virtualisierung
+
+
+=== Spezielle Lizenzen ===
+SISSL
+Sun Public License
+
+
+== Weiteres ==
+Das Logo von Sun Microsystems ist als Ambigramm gestaltet.
+
+
+== Weblinks ==
+
+www.sun.de
+Gesprächsrunde mit den Gründern von SUN, Computer History Museum (englisch, mit Webcast, 11. Januar 2006). Abgerufen am 8. November 2014. 
+
+
+== Einzelnachweise ==

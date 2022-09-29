@@ -1,0 +1,29 @@
+Das Leiomyosarkom (griech. lī'ō, Leio-, ‚glatt, sanft‘ und μυς, mys ‚Muskel‘, σάρκωμα, sárkoma, zu σάρξ, sárx „Fleisch“, „Weichteile“ und -om „Geschwulst“)
+ist ein bösartiger (maligner) Tumor, der von der glatten Muskulatur ausgeht. Er macht unter anderem etwa 1 % aller bösartigen Gebärmuttergeschwülste aus. Dieser Tumor tritt meist nach dem 30. Lebensjahr auf und hat seinen Altersgipfel in der 6. Lebensdekade. Die Symptome sind meist unspezifisch, es kommt bei Lokalisation in der Gebärmutter zu einer raschen Gebärmuttervergrößerung mit Blutungen. Leiomyosarkome können auch von der glatten Muskulatur an jeder anderen Stelle, z. B. auch von den Haarbalgmuskeln, ausgehen und somit prinzipiell an der gesamten Körperoberfläche auftreten.
+
+
+== Pathologie ==
+In der Embryonalentwicklung entwickelt sich aus dem sogenannten Mesoderm unter anderem der Stütz- und Bewegungsapparat (Knochen, Muskeln), die Weichteile und das Blut- und Lymphgefäßsystem. Diese Gewebetypen werden im ausgereiften Zustand als mesenchymale Gewebe bezeichnet. Nahezu alle malignen Tumoren, die aus solchen mesenchymalen Geweben entstanden sind, werden als Sarkome bezeichnet. Das Leiomyosarkom metastasiert vorwiegend auf dem Blutweg.
+Während früher vermutet wurde, dass das Leiomyosarkom aus einem gutartigen Leiomyom entarten kann, zeigen aktuelle Studien, dass dies unwahrscheinlich ist. Ebenso gibt es keine Hinweise darauf, dass vorausgehende Bestrahlung einen Risikofaktor darstellt.
+Selten treten Leiomyosarkome im Rahmen eines hereditären Retinoblastoms auf, auch finden sich bei wenigen Tumoren Veränderungen im RB-Tumorsuppressorgen.
+
+
+== Diagnose ==
+
+Aufgrund der unspezifischen Symptome ist die Diagnose meist ein Zufallsbefund, wenn aus anderen Gründen eine Operation notwendig war.
+Das Leiomyosarkom ist im Operationspräparat normalerweise nicht vom Leiomyom zu unterscheiden, gegebenenfalls auftretende Nekrosen können einen Hinweis auf die Dignität liefern. Weiterhin sind Infiltrationen in das umliegende Gewebe wie z. B. bei Lokalisation in der Gebärmutter in das Myometrium, Endometrium oder Parametrium malignomverdächtig.
+In der Histologie finden sich vielgestaltige Zellkerne und Riesenzellen. Das relevanteste Kriterium für die Diagnose des Leiomyosarkoms bleibt der Mitosereichtum (mehr als 10 Mitosen in 10 Gesichtsfeldern bei 400facher Vergrößerung) und gleichzeitig vorkommender Vielgestaltigkeit der Zellen (Zellpolymorphie).
+
+
+=== Therapie ===
+Da das Leiomyosarkom nicht ausreichend auf Chemotherapie und die Strahlentherapie anspricht, steht die Operation im Mittelpunkt der Therapie. Es existieren gegenwärtig keine verbindlichen Standards, da das Leiomyosarkom einerseits zu der heterogenen Gruppe der Sarkome gehört und andererseits sein Auftreten sehr selten ist.
+In etwa 30 % der Fälle werden bei Lokalisation in der Gebärmutter Metastasen in den Eierstöcken gefunden, daher ist die Mitentfernung der Eierstöcke angebracht (Ovariohysterektomie). Bei 3 bis 5 % der diagnostizierten Leiomyosarkome finden sich auch Metastasen im großen Netz (Omentum majus). Bei 4 bis 35 % der Betroffenen finden sich befallene Lymphknoten im Becken und neben der Hauptschlagader. Eine Entfernung dieser Lymphknoten scheint jedoch keine Lebensverlängerung mit sich zu bringen. Das Leiomyosarkom führt in 50 bis 70 % der Fälle zu einem erneuten Auftreten des bösartigen Tumors, meistens innerhalb der ersten zwei Jahre. Es bildet Metastasen vor allem in der Lunge und hat eine schlechte Prognose.
+Lediglich die low-grade Leiomyosarkome, die zu den weniger gefährlichen Typen gehören, haben eine bessere Überlebensrate. Sie schreiten nur langsam fort, so dass Tumoren meistens erst nach 10 Jahren erneut auftreten. Die betroffenen Patientinnen haben eine lange Lebenserwartung. Insgesamt geht man von einer 5-Jahresüberlebensrate von 50 % aus.
+
+
+== Quellen ==
+U.-N. Riede: Allgemeine und spezielle Pathologie. 3., neubearb. Auflage. Thieme, Stuttgart/ New York, ISBN 3-13-683303-1.
+S. L. Robbins: Robbins basic pathology. 8. Auflage. Elsevier Saunders, Philadelphia 2007, ISBN 978-1-4160-2973-1.
+
+
+== Einzelnachweise ==

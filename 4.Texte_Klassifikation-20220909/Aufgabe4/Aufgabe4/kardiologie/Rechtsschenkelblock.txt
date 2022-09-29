@@ -1,0 +1,131 @@
+Als Rechtsschenkelblock (abgekürzt RSB oder seltener auch RBBB vom engl. right bundle branch block) wird in der Medizin eine Störung der Erregungsleitung im Herzen und auch der dabei vorliegende Befund im Elektrokardiogramm (EKG) bezeichnet.
+Die Erregungsleitungsstörung „Rechtsschenkelblock“ verursacht keine Beschwerden, kann aber, wie auch der Linksschenkelblock, Hinweis auf eine bedeutsame Herzerkrankung oder eine andere Belastung der rechten Hauptkammer sein. Als Ursachen eines Rechtsschenkelblocks kommen Durchblutungsstörungen, Entzündungen des Herzens oder Volumenbelastung der rechten Herzkammer, selten auch Vergiftungen in Frage. Häufig jedoch lässt sich keine Ursache feststellen. Eine spezielle Therapie ist nicht erforderlich.
+Der EKG-Befund „Rechtsschenkelblock“ ist durch Veränderungen des QRS-Komplexes charakterisiert, der im EKG die Aktivierung der Herzkammern abbildet. Diese Veränderungen können in verschiedenen Ausprägungen auftreten. Als „kompletter Rechtsschenkelblock“ weisen sie auf eine Leitungsstörung im rechten Tawara-Schenkel hin, der als Teil des Erregungsleitungssystems die rechte Herzkammer versorgt. Als „inkompletter Rechtsschenkelblock“ hingegen können sie auch bei Herzgesunden ohne krankhafte Bedeutung vorhanden sein.
+
+
+== Entstehung ==
+Die Entstehung eines Rechtsschenkelblocks lässt sich anhand der Anatomie des Erregungsleitungssystems sowie der Physiologie und Pathophysiologie der Erregungsleitung im Herzen erläutern.
+
+
+=== Erregungsleitungssystem ===
+Das Herz von Säugetieren besitzt spezialisierte Herzmuskelzellen, die elektrische Impulse (Aktionspotentiale) erzeugen und innerhalb des Herzens über sogenannte Gap junctions weiterleiten. Diese Zellen bilden das Erregungsleitungssystem.
+Unterhalb des sekundären Herzschrittmachers, des sogenannten AV-Knotens, verzweigt sich der als His-Bündel bezeichnete Anteil des Erregungsleitungssystems zunächst in den rechten und linken Tawara-Schenkel. Der linke Schenkel teilt sich zusätzlich in ein hinteres und ein vorderes Faserbündel auf, den linksposterioren und linksanterioren Faszikel.
+Von den sogenannten Purkinje-Fasern, den Endverzweigungen der Tawara-Schenkel, breitet sich die Erregung dann in der Muskulatur der Herzkammern (Ventrikel) aus. Dabei sind die Fasern des rechten Tawara-Schenkels hauptsächlich für die Muskulatur der rechten Herzkammer und die Fasern der beiden Faszikel des linken Schenkels für den linken Ventrikel verantwortlich.
+
+
+=== Normale Erregungsleitung ===
+Innerhalb des Erregungsleitungssystems ist die Leitungsgeschwindigkeit mit etwa zwei Metern pro Sekunde (m/s) so hoch, dass die durchschnittlich fünf bis zehn Zentimeter vom AV-Knoten zur Spitze des menschlichen Herzens innerhalb von 25–50 Millisekunden (ms) überwunden werden. Eine Ausnahme bildet der AV-Knoten selbst, der die Erregungsüberleitung von den Vorhöfen auf die Ventrikel verzögert, um eine ausreichende Füllungszeit der Kammern zu garantieren. Die Muskelzellen an der Innenwand beider Herzkammern werden innerhalb weniger Millisekunden nahezu gleichzeitig depolarisiert. Von dort breitet sich die Erregung dann mit einer Geschwindigkeit von etwa einem Meter pro Sekunde in der übrigen Muskulatur der Ventrikel aus.Diese Art der Erregungsausbreitung bei einem intakten Erregungsleitungssystem führt zu einer synchronen Kontraktion der Muskulatur der linken und der rechten Herzkammer zu Beginn der Austreibungsphase (Systole) des Herzens.
+
+
+=== Pathophysiologie ===
+Bei einem kompletten Rechtsschenkelblock ist die Weiterleitung der elektrischen Impulse im rechten Tawara-Schenkel verlangsamt oder völlig blockiert. Solange wenigstens ein Faszikel des linken Tawara-Schenkels noch funktioniert, breitet sich die Erregung von dessen Endästen auch zur Muskulatur der rechten Herzkammer aus. Deren Muskelzellen werden dann etwa 50 ms später depolarisiert als jene der linken Herzkammer. Diese Verzögerung ist auf den Umweg der Impulse über den linken Tawara-Schenkel und die langsamere Erregungsleitung in der Arbeitsmuskulatur (etwa 1 m/s) im Vergleich zu den Zellen des Erregungsleitungssystems (etwa 2 m/s) zurückzuführen.
+
+
+=== Ursachen ===
+Die möglichen Ursachen eines Rechtsschenkelblocks sind vielfältig. Sie reichen von nur leichten Berührungen der Kammerscheidewand (Ventrikelseptum) während einer Herzkatheteruntersuchung bis hin zu schweren Herzkrankheiten wie Herzinfarkten oder Belastungen des rechten Herzens bei Lungenkrankheiten (Cor pulmonale). Besonders bei jüngeren Menschen wird er auch ohne erkennbare Ursache beobachtet. Ein kompletter Rechtsschenkelblock hat fast immer eine organische Ursache. Ein inkompletter RSB hingegen kann neben einer leichten Leitungsverzögerung im rechten Tawara-Schenkel auch andere Ursachen haben und auch bei normaler Erregungsleitung auftreten.
+
+
+==== Angeborene Ursachen ====
+Angeborene Herzerkrankungen wie der Vorhofseptumdefekt können einen RSB verursachen. In sehr seltenen Fällen ist der RSB auf eine Erbkrankheit mit autosomal dominantem Erbgang zurückzuführen, wie er in einer großen libanesischen Familie festgestellt wurde. Bei ihr führt ein auf dem langen Arm des Chromosom 19 lokalisierter Defekt zu verschiedenen Erregungsleitungsstörungen wie RSB, Blockierungen in einem der linken Tawara-Schenkel oder einem kompletten AV-Block.Auch für die arrhythmogene rechtsventrikuläre Kardiomyopathie und das Brugada-Syndrom, die den „angeborenen primären Kardiomyopathien“ zugerechnet werden, ist das familiär gehäufte Auftreten eines RSB charakteristisch. Bei diesen seltenen angeborenen Herzmuskelerkrankungen treten gehäuft lebensbedrohliche Herzrhythmusstörungen auf.
+
+
+==== Erworbene Ursachen ====
+Am häufigsten sind RSB bei älteren Patienten mit einer koronaren Herzkrankheit. Auch primäre Herzmuskelerkrankungen (Kardiomyopathie) und akute oder chronische Belastungen des rechten Herzens durch Lungenerkrankungen (akutes und chronisches Cor pulmonale) zählen zu den häufigen Ursachen. Bei einer Lungenembolie weist ein Rechtsschenkelblock auf ein akutes Cor pulmonale hin, bei chronisch obstruktiver Lungenerkrankung oder Lungenfibrose ist er ein Indiz für ein chronisches Cor pulmonale.
+Herzmuskelentzündungen (Myokarditis) oder entzündliche Veränderungen an den Herzkranzgefäßen bei Periarteriitis nodosa oder Endangiitis obliterans zählen zu den seltenen Ursachen. Auch im Rahmen anderer Entzündungen kann ein RSB auftreten, geläufig beispielsweise sind Erregungsleitungsstörungen bei einer Herzmuskelentzündung im Rahmen der Borreliose (Lyme disease).Auch bei Herzklappenfehlern können Rechtsschenkelblockbilder auftreten, ebenso nach operativen Eingriffen am Herzen, wenn die rechte Herzkammer eröffnet wurde. Dies ist insbesondere nach einem Verschluss von Defekten der Kammerscheidewand (Ventrikelseptumdefekt) häufig und kann sich in den Jahren nach der Operation auch zurückbilden.Andere mögliche Ursachen sind Vergiftungen (Intoxikationen) und Elektrolytstörungen. Beschrieben sind RSB bei Vergiftungen mit Blei und Arsen, und auch eine Reihe von Arzneimitteln wie Betablocker, trizyklische Antidepressiva, Diphenhydramin, Chloroquin und Digitalispräparate kommen in Frage. Auch eine zu hohe Konzentration von Kalium im Blut (Hyperkaliämie) kann einen Rechtsschenkelblock verursachen.
+
+
+== Diagnosekriterien und Nomenklatur ==
+
+Die Kriterien für die Diagnose eines Rechtsschenkelblockes sind nirgends verbindlich festgelegt. Die heute üblichen Definitionen orientieren sich an der Dauer oder Breite und bestimmten Merkmalen des QRS-Komplexes im EKG. Dabei schwanken die Angaben für die Obergrenze der normalen QRS-Dauer beim Menschen in der Literatur zwischen 100 und 120 ms, der am häufigsten genannte Grenzwert liegt bei 120 ms. Der sogenannte „Obere Umschlagspunkt“ (OUP) oder „Beginn der größten Negativitätsbewegung“ (GNB) liegt mehr als 30 ms nach Beginn des QRS-Komplexes.
+Die Diagnose eines Rechtsschenkelblocks erfolgt beim Menschen unabhängig von Alter und Geschlecht, obgleich die Dauer des QRS-Komplexes in Abhängigkeit von diesen Merkmalen variiert. So beträgt die mittlere QRS-Dauer bei Kindern im zweiten und dritten Lebensjahr 56 ms, mit 12–15 Jahren 65 ms, bei Frauen mit einem Lebensalter von mehr als 49 Jahren 87 ms und bei Männern im Alter von 18 bis 29 Jahren 96 ms.
+
+
+=== Kompletter Rechtsschenkelblock ===
+Von einem „kompletten Rechtsschenkelblock“ oder „vollständigen Rechtsschenkelblock“ wird üblicherweise gesprochen, wenn beim Menschen
+
+die Dauer des QRS-Komplexes mindestens 120 ms beträgt und
+in den Ableitungen V1 und V2 breite, gekerbte R-Zacken sowie
+in den Ableitungen V5 und V6 breite, tiefe S-Zacken nachzuweisen sind.Bei Tieren sind andere Grenzwerte für die QRS-Dauer zu berücksichtigen (vgl. veterinärmedizinische Aspekte).
+
+
+=== Inkompletter Rechtsschenkelblock ===
+Dauert der QRS-Komplex bei ansonsten typischer Form weniger als 120 ms, so wird dafür oft der Begriff „inkompletter Rechtsschenkelblock“, seltener auch „unvollständiger“ oder „partieller Rechtsschenkelblock“ verwendet. Manche Autoren beschränken diese Diagnose auf Patienten mit einer QRS-Dauer zwischen 100 und 119 ms und bevorzugen bei einer geringeren QRS-Dauer die Bezeichnung „angedeuteter Rechtsschenkelblock“, „Rechtsverspätung“ oder „Rechtsverspätungskurve“. Diese Formen des Rechtsschenkelblocks sind allerdings nicht einheitlich definiert und werden auch bei Menschen mit normaler Erregungsleitung beobachtet. So liegt das Perzentil P98, welches nur zwei Prozent der Untersuchten überschreiten, für herzgesunde Männer im Alter von 18 bis 29 Jahren bei 114 ms.
+
+
+=== Wilson-Block ===
+Der Begriff „Wilson-Block“ ist historisch begründet und heute nicht mehr üblich. Er wurde insbesondere im deutschsprachigen Raum bis in die 1970er-Jahre für diejenige Form des Schenkelblocks verwendet, die Wilson 1934 in Abgrenzung zum Bayley-Block zunächst als unusual type in right bundle-branch block (ungewöhnlichen Typ eines Rechtsschenkelblocks) bezeichnet hatte. Er entspricht der heutigen Definition des „normalen“ Rechtsschenkelblocks, ein Synonym ist „Rechtsschenkelblock vom häufigen Typ“.
+
+
+=== Bayley-Block oder klassischer Rechtsschenkelblock ===
+Auch die besonders in der deutschsprachigen Literatur der 1960er-Jahre verwendeten Bezeichnungen „klassischer Rechtsschenkelblock“ oder „Bayley-Block“ sind nicht mehr gebräuchlich. Mit ihnen wurde ein Spiegelbild des Linksschenkelblocks mit tiefen, breiten und oft gesplitterten S-Zacken in Ableitung I und demzufolge einem Rechtstyp oder überdrehten Rechtstyp der elektrischen Herzachse beschrieben. Seit den 1970er-Jahren geht man davon aus, dass dieses Blockbild durch eine Kombination aus einem RSB und einer Blockierung im posterioren Faszikel des linken Tawara-Schenkels (linksposteriorer Hemiblock oder LPH) hervorgerufen wird. Heute wird diese Kombination als bifaszikulärer Block bezeichnet.
+
+
+=== Sonstige Formen ===
+Ein nur vorübergehender Rechtsschenkelblock, bei dem das EKG nach Beseitigung einer leitungsverzögernden Ursache wieder normalisiert ist, bezeichnet man als „temporären“ oder „passageren Rechtsschenkelblock“. Dieses Phänomen kann nach einer Herzmuskelentzündung, einer länger anhaltenden Tachykardie oder einer Hyperkaliämie beobachtet werden. Bei einem spontanen Wechsel zwischen RSB und normaler Erregungsleitung ist der Begriff „intermittierender Rechtsschenkelblock“ geläufig. Als „bilateraler“ oder „alternierender Schenkelblock“ wird der seltene Wechsel zwischen Rechts- und Linksschenkelblock bezeichnet.
+
+
+== Diagnose ==
+Erfahrene Ärzte können einen Rechtsschenkelblock bei der Auskultation im Rahmen der körperlichen Untersuchung gelegentlich „hören“. Durch die verspätete Kontraktion der rechten Herzkammer ist die Spaltung des ersten Herztones deutlicher und auch die bei der Einatmung (Inspiration) besonders prägnante Spaltung des zweiten Herztones ist durch den späteren Schluss der Pulmonalklappe betont. Diese Befunde sind aber mehrdeutig, eine sichere Diagnose ist nur mit Hilfe des Elektrokardiogramms (EKG) möglich.
+
+
+=== Elektrokardiogramm ===
+Durch die verzögerte Erregung der rechten Herzkammer ist der QRS-Komplex besonders in den EKG-Ableitungen über dem rechten Herzen (V1–3) abnorm geformt und verbreitert. Dort liegt der obere Umschlagspunkt (OUP) mehr als 30 ms nach Beginn des QRS-Komplexes und ist damit verspätet. Die häufigsten Formen des QRS-Komplexes werden als M-förmig, rsr'-Konfiguration, rsR'-Konfiguration, rR'-Konfiguration oder RsR'-Konfiguration, seltener auch als qR-Konfiguration beschrieben. In den Ableitungen mit der ausgeprägtesten Verspätung des oberen Umschlagpunktes ist die ST-Strecke häufig abfallend (deszendierend) gesenkt und die T-Welle negativ.
+Der komplette RSB ist durch schlanke und hohe R-Zacken sowie breite, plumpe S-Zacken in den Ableitungen I, aVL und V5–6 mit einer normalen Lage der elektrischen Herzachse gekennzeichnet.
+
+
+=== Differentialdiagnose ===
+In der Regel ist der EKG-Befund eines Rechtsschenkelblocks eindeutig. Mit dem Linksschenkelblock (LSB) hat er zwar die QRS-Dauer von mehr als 120 ms gemein, unterscheidet sich von ihm aber deutlich durch die Ableitung mit der größten Verspätung des oberen Umschlagpunktes. Beim RSB ist es die Ableitung V1 oder selten V2, beim LSB eine der linksgerichteten Ableitungen (I,aVL,V5 oder V6).
+Selten und nur bei einer schweren Schädigung des Herzmuskels wird ein stark verbreiterter QRS-Komplex beobachtet, der sowohl die Kriterien des RSB als auch die des LSB erfüllt. Dieser prognostisch ungünstige Befund wird als Verzweigungs- oder Arborisationsblock oder „diffuse intraventrikuläre Leitungsstörung“ bezeichnet.
+
+Besonders bei jüngeren Patienten nach Synkope oder mit Blutsverwandten, die im Alter von weniger als 45 Jahren eine Synkope erlitten haben, ist es wichtig, bei Rechtsschenkelblockbildern auf Hinweise für ein Brugada-Syndrom oder eine arrhythmogene rechtsventrikuläre Kardiomyopathie (ARCM) zu achten. Eine zeltförmige oder gewölbte ST-Streckenhebung in mehr als einer der Ableitungen V1–3 macht ein Brugada-Syndrom wahrscheinlich und erfordert eine weitere differenzierte Therapie. Negative T-Wellen in den Brustwandableitungen (oft V2–4) und Extrasystolen mit rechtsschenkelblockartigem Aussehen weisen auf eine ARCM hin.Die Abgrenzung eines isolierten Rechtsschenkelblocks von einem bifaszikulären Block, also einer Kombination aus RSB und linksposteriorem (LPH) oder linksanteriorem Hemiblock (LAH), erfolgt hauptsächlich durch Analyse der elektrischen Herzachse. Sie ist beim RSB normal und bei der Kombination RSB+LAH nach links verschoben. Als gesichert kann der LAH bei einer QRS-Achse < −45° gelten. Bei der Kombination RSB+LPH, die früher als „klassischer Rechtsschenkelblock“ bezeichnet wurde, ist die QRS-Achse nach rechts verschoben (gesichert bei > +120°).
+
+
+== Therapie ==
+Ein Rechtsschenkelblock ohne erkennbare Herzerkrankung bedarf keiner Therapie.
+Grundsätzlich besteht zwar bei einem Rechtsschenkelblock die Möglichkeit, die zeitliche Abfolge der Kammererregung mit Hilfe eines biventrikulären Herzschrittmachers („Dreikammerschrittmacher“) weitgehend zu normalisieren, in die Studien zu dieser als kardiale Resynchronisationstherapie (CRT) bezeichneten Behandlung waren jedoch nur wenige Patienten mit RSB eingeschlossen, so dass der Nutzen nicht gut belegt ist. Bei einer schweren Herzinsuffizienz und einer QRS-Dauer von mehr als 120 ms kann die CRT eingesetzt werden, wenn die beiden Herzkammern bei der Ultraschalluntersuchung des Herzens (Echokardiografie) ein ausgeprägt asynchrones Bewegungsmuster aufweisen.Bei einem reinen Rechtsschenkelblock ist die Gefahr eines kompletten AV-Blocks durch ein Fortschreiten der Erregungsleitungstörung auf den linken Tawara-Schenkel gering. In Kombination mit einer Blockierung in einem der linken Faszikel (linksanteriorer oder linksposteriorer Hemiblock) hingegen sind besonders bei älteren Menschen die Wahrscheinlichkeit eines kompletten AV-Blocks und auch das Sterblichkeitsrisiko erhöht. Aus diesem Grund wird bei gleichzeitig bestehenden Blockierungen im linken Tawara-Schenkel an eine prophylaktische Schrittmacherimplantation gedacht. Sie kommt bei einem Wechsel zwischen Links- und Rechtsschenkelblock, bei zusätzlichen häufigen AV-Blockierungen und bei bereits erlittenen Synkopen in Frage.
+
+
+== Statistik ==
+
+
+=== Epidemiologie ===
+Bei Menschen ohne eine erkennbare Herzkrankheit beträgt der Anteil von EKG mit Rechtsschenkelblock etwa 0,12 bis 0,18 %. In den EKG von Patienten, die in einem Krankenhaus aufgenommen wurden, fand sich bei 3,6 % ein Rechtsschenkelblock, bei Patienten im Alter von 90 und mehr Jahren sogar bei 13 % der Frauen und 7 % der Männer.Insgesamt gesehen ist der Rechtsschenkelblock etwa gleich häufig wie der Linksschenkelblock. Der Linksschenkelblock ist im Gegensatz zum Rechtsschenkelblock öfter Folge einer organischen Herzerkrankung.
+
+
+=== Prognose ===
+
+
+==== Abhängigkeiten der Prognose ====
+Die Prognose von Menschen mit Rechtsschenkelblock hängt davon ab, ob zusätzlich eine erkennbare Herzerkrankung besteht. Bei Herzgesunden sind die Aussichten gut. Da in einer Studie bei der Royal Canadian Air Force an fast 140.000 jungen Männern keine nachteiligen Folgen des Rechtsschenkelblocks bei den 168 Betroffenen feststellbar waren, werden sie seit 1953 dort auch als Piloten akzeptiert. Diese Ergebnisse wurden 1996 anhand von Untersuchungen bei insgesamt 110.000 Personen ohne erkennbare oder vermutete Herzkrankheit nochmals bestätigt. Während Menschen mit einem Linksschenkelblock in den folgenden knapp zehn Jahren signifikant häufiger an einer koronaren Herzkrankheit litten und an einer Herzkrankheit verstarben als jene ohne Schenkelblock, war dies bei Menschen mit einem Rechtsschenkelblock nicht der Fall. Eine weitere Studie aus den USA zeigte bei Menschen mit einem zufällig entdeckten Rechtsschenkelblock ohne sonstige Anzeichen einer Herzkrankheit im Vergleich zu Menschen ohne Schenkelblock zwar einen Trend zu einer leicht erhöhten Sterblichkeit nach im Mittel 7,7 Jahren, der aber statistisch nicht signifikant war (relatives Risiko 1,18; Vertrauensbereich 0,85–1,65, p=0,32).Bei Patienten mit Erkrankungen des Herzens oder auch anderer Organe hingegen weist ein EKG mit Rechtsschenkelblock auf eine schlechtere Prognose hin als ein normales EKG. So war die jährliche Sterblichkeit von Patienten mit Rechtsschenkelblock im Palo Alto Veterans Affairs Medical Center mit 3,6 % signifikant höher als die der Patienten mit einem normalen EKG (0,5 %).
+
+
+==== Bei koronarer Herzkrankheit ====
+Ein isolierter Rechtsschenkelblock hat bei Patienten, bei denen lediglich der Verdacht auf eine koronare Herzkrankheit besteht, keine prognostische Bedeutung. Die Kombination von RSB und linksanteriorem Hemiblock (LAH) hingegen war in dieser Patientengruppe mit einer mehr als dreifach höheren Sterblichkeit nach etwa 3,5 Jahren verbunden.Bei Patienten mit akuten Brustschmerzen ist der Rechtsschenkelblock erwiesenermaßen ein unabhängiger Risikofaktor für die Sterblichkeit in den folgenden sieben Tagen und insbesondere bei einem Herzinfarkt ist er bedeutsam. Er wird bei gut 10 % aller Infarktpatienten festgestellt und ist mit einem signifikant häufigeren Auftreten von Herzinfarktkomplikationen verbunden. So kommt es fast doppelt so häufig zu einer Herzinsuffizienz und schrittmacherbedürftige AV-Blockierungen treten sogar dreimal häufiger auf. In einer Studie war die Sterblichkeit innerhalb eines Jahres bei Patienten mit einem RSB mit 40,7 im Vergleich zu 17,6 % deutlich erhöht. Insbesondere bei neu aufgetretenen RSB, die sich nicht zurückbilden, ist die Sterblichkeit innerhalb von 30 Tagen mit 76 % hoch.
+
+
+== Veterinärmedizin ==
+
+
+=== Relevanz ===
+In der Tiermedizin hat der Rechtsschenkelblock lediglich bei Hunden, Katzen und Pferden eine klinische Bedeutung, wobei der entsprechende EKG-Befund beim Pferd diagnostisch nicht sicher ist, da sich eine Hypertrophie der Herzkammern ähnlich darstellen kann. Die Veränderung wird bei gesunden Hunden und Katzen gelegentlich als Zufallsbefund gesehen. Bei Katzen kann sich das Bild als Folge einer Hyperkaliämie bei Verschluss der Harnröhre zeigen. Weitere mögliche Ursachen sind Ventrikelseptumdefekt, Tumorerkrankungen des Herzens (insbesondere metastasierende Hämangiosarkome (Hund), Lymphosarkome (Katze) und Milchdrüsentumoren (beide)), Kardiomyopathien, Verletzungen, Herzwurmbefall, vorausgegangener Herzstillstand und chronische Trypanosoma-cruzi-Infektionen (Chagas-Krankheit). Beim Beagle kann ein – meist inkompletter – Rechtsschenkelblock Folge einer genetisch bedingten Veränderung der Wandstärke des rechten Ventrikels sein. Differentialdiagnostisch muss eine Vergrößerung des rechten Ventrikels ausgeschlossen werden. Obwohl ein Rechtsschenkelblock meist nicht medikamentös therapiert werden muss, kann er Anzeichen einer therapiebedürftigen Grunderkrankung des Herzens sein.
+
+
+=== EKG-Veränderungen ===
+Beim Hund beträgt die Dauer des QRS-Komplexes bei einem RSB mehr als 80 ms (oder 70 ms bei Zwergrassen), bei Katzen mehr als 60 ms. Die elektrische Herzachse ist üblicherweise nach rechts verschoben. Der QRS-Komplex ist positiv in den Ableitungen aVR, aVL und CV5RL (rV2) und hat in dieser Ableitung eine breite, häufig M-förmige RSR- oder rSR-Form. In V10 stellt er sich häufig W-förmig dar. In II ist er negativ. Die S-Welle ist vergrößert und verbreitert in den Ableitungen I, II, III, aVF, CV6LL (V2–3) und CV6LU (V4–6). Treten die beschriebenen Veränderungen bei einer normalen oder leicht erhöhten Dauer des QRS-Komplexes auf, besteht der Verdacht auf einen inkompletten Rechtsschenkelblock. Differentialdiagnostisch ist insbesondere bei Abweichungen vom normalen Sinusrhythmus – zum Beispiel bedingt durch Vorhofflimmern – das Vorliegen ventrikulärer Extrasystolen auszuschließen, da sich die therapeutischen Konsequenzen (etwa Gabe von Herzglykosiden) widersprechen.
+
+
+== Geschichte ==
+
+Die Geschichte des Begriffs Rechtsschenkelblock als EKG-Diagnose begann im frühen 20. Jahrhundert. Im Rahmen seiner Pionierarbeit bei der Einführung der Elektrokardiografie beschrieb der niederländische Physiologe und spätere Nobelpreisträger Willem Einthoven 1906 und 1910 neben dem normalen EKG auch verbreiterte QRS-Komplexe und führte sie auf Störungen der Erregungsleitung zurück. 1917 präsentierten die Wiener Carl Rothberger und Heinrich Winterberg in der „Zeitschrift für die gesamte experimentelle Medizin“ Versuchsergebnisse, die eine Unterscheidung zwischen Links- und Rechtsschenkelblock anhand des EKG erlaubten. Unter dem Titel „Experimentelle Beiträge zur Kenntnis der Reizleitungsstörungen in den Kammern des Säugetierherzens“ veröffentlichten sie ihre mit dem von Einthoven entwickelten String-Galvanometer gewonnene Erkenntnis, dass der QRS-Komplex nach Durchtrennung des rechten Tawara-Schenkels einer Extrasystole aus dem linken Ventrikel gleicht und bereits bei Druck auf den rechten Schenkel vorübergehend eine solche Form annimmt.Die heute üblichen Beschreibungen des Rechtsschenkelblocks sind im Wesentlichen in den 1930er-Jahren entwickelt und maßgeblich von dem US-amerikanischen Kardiologen Frank Norman Wilson beeinflusst worden. In der Praxis unterschied man noch Anfang der 30er-Jahre nur zwei Arten des Schenkelblocks anhand der Form der QRS-Komplexe: einen häufigen (common type) und einen seltenen Typ (rare type). 1932 gelang es Wilson, den common type als Linksschenkelblock und den rare type als Rechtsschenkelblock zu identifizieren. Ab 1934 wurden die bis dahin üblichen Bezeichnungen common und rare type zunehmend aufgegeben, nachdem Wilson festgestellt hatte, dass ihre Häufigkeit keineswegs so unterschiedlich war wie bis dahin angenommen.Ebenfalls 1934 beschrieb er die typische Form der QRS-Komplexe bei bifaszikulärem Block und führte sie auf eine Blockierung des rechten Tawara-Schenkels und einen unbekannten zusätzlichen Faktor zurück, da er in den nach ihm benannten Brustwandableitungen („Wilson-Ableitungen“) bei Hunden mit einer experimentell erzeugten Blockierung vergleichbare EKG-Befunde beobachtet hatte.In den 1950er-Jahren konnten Braunwald und seine Mitarbeiter anhand der gleichzeitigen Registrierung von EKG und Druckkurven aus dem rechten Ventrikel nachweisen, dass ein Rechtsschenkelblock tatsächlich zu einer um etwa 0,05 Sekunden verspäteten Kontraktion der rechten Herzkammer führt.Zu Beginn der 1970er-Jahre wurde gezeigt, dass ein inkompletter Rechtsschenkelblock bei Hunden häufiger auf eine vermutlich genetisch bedingte stellenweise Verdickung des rechtsventrikulären Herzmuskels als auf eine Leitungsverzögerung im rechten Tawara-Schenkel zurückzuführen ist, was zu einer teilweisen Neubewertung des inkompletten Blockbildes führte.In den 1990er-Jahren wurde eine besondere Form des Rechtsschenkelblocks als eigenständige Erkrankung abgegrenzt, die für betroffene Patienten ein erhebliches Risiko für den plötzlichen Herztod bedeutet. Sie wird nach ihren Erstbeschreibern heute meist als Brugada-Syndrom bezeichnet und seit 2006 den Kardiomyopathien zugerechnet.
+
+
+== Literatur ==
+D. Kalusche, G. Csapo: Konventionelle und intrakardiale Elektrokardiographie. 3. Auflage. Novartis Pharma GmbH, 1997, ISBN 3-933185-05-X.
+D. M. Mirvis, A. L. Goldberger In: D. P. Zipes et al. (Hrsg.): Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine. 7. Auflage. W.B. Saunders Company, Philadelphia 2004, ISBN 1-4160-0014-3, S. 114–128.
+
+
+== Weblinks ==
+Farbkodierte Computersimulation der Erregungsausbreitung bei RSB (Format MOV, „movie 3“) bei The Visible Human Project der National Library of Medicine
+
+
+== Einzelnachweise ==

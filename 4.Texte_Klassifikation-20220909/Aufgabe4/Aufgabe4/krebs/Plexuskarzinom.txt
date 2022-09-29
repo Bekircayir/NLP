@@ -1,0 +1,37 @@
+Das Plexuskarzinom ist ein bösartiger Hirntumor, der wahrscheinlich vom Epithel des Plexus choroideus ausgeht, daher auch die Bezeichnung Plexus-choroideus-Karzinom. Es wird nach der WHO-Klassifikation der Tumoren des zentralen Nervensystems als Grad III eingeteilt und macht weniger als 0,4 % aller Hirntumoren aus. Ganz überwiegend sind Kinder und Jugendliche betroffen; im ersten Lebensjahr gehören Plexuskarzinome mit zu den häufigsten Hirntumoren. Meist handelt es sich um sporadische Fälle, bei denen kein Zusammenhang mit einer erblichen Erkrankung erkennbar ist. Beim Li-Fraumeni-Syndrom treten Plexuskarzinome gehäuft auf. Ein gutartiger Tumor des Plexus choroideus wird als Plexuspapillom bezeichnet.
+
+
+== Symptome ==
+Aufgrund ihrer Lage innerhalb des Ventrikelsystems behindern Plexuskarzinome häufig den Fluss des Hirnwassers, was zu einer Erhöhung des Hirndrucks führen kann. Kopfschmerz, Übelkeit und Erbrechen sind typische aber unspezifische Symptome. In fortgeschrittenen Fällen kann es zur Entwicklung eines Hydrozephalus (Wasserkopf) kommen.
+
+
+== Pathologie ==
+
+Das histologische Bild ähnelt nur noch entfernt dem des normalen Plexus choroideus: Das bei den gutartigen Plexuspapillomen noch deutlich erkennbare papilläre Wachstumsmuster ist größtenteils aufgehoben, mitotische Aktivität, Zelldichte und Zellkernpolymorphie (Vielgestaltigkeit) sind erhöht. Häufig treten auch Tumornekrosen auf oder es kommt zu einer diffusen Infiltration des Gehirns. Schwierigkeiten kann bei Erwachsenen die diagnostische Abgrenzung gegenüber Karzinommetastasen bereiten, da sich das immunhistochemische Expressionsprofil konventioneller diagnostischer Marker überlappt. Der immunhistochemische Nachweis einer Expression des Aminosäuretransporters Excitatory Amino Acid Transporter-1 sowie des einwärts gleichrichtenden Kaliumkanals Kir7.1 kann die Verdachtsdiagnose eines Plexuskarzinoms erhärten.
+
+
+== Pathogenese ==
+Über an der Pathogenese von sporadischen Plexuskarzinomen beteiligte Faktoren ist nur wenig bekannt. Zwar sind Mutationen des SMARCB1-Gens (INI1), die typischerweise bei atypischen teratoiden/rhabdoiden Tumoren (WHO Grad IV) vorkommen, auch in Plexuskarzinomen beschrieben worden, offenbar hat es sich hierbei jedoch in der Mehrzahl der Fälle rückblickend um fehldiagnostizierte atypische teratoide/rhabdoide Tumoren gehandelt.
+
+
+== Therapie ==
+Die vollständige operative Entfernung kann sich durch das infiltratives Wachstum und den Blutgefäßreichtum von Plexuskarzinomen schwierig gestalten. Im Rahmen der weiteren Behandlung, die obligatorisch im Rahmen klinischer Studien erfolgt, schließt sich deswegen üblicherweise eine begleitende Chemotherapie an. Eine internationale Therapiestudie, die unter der Schirmherrschaft der Internationalen Gesellschaft für Pädiatrische Onkologie (SIOP) durchgeführt wird, ist die CPT-SIOP-2000-Studie. Auch einer Strahlentherapie des Tumors kann im Rahmen eines individuellen Therapiekonzepts eine Rolle zukommen.
+
+
+== Prognose ==
+Auch nach vollständiger operativer Entfernung ist der weitere Verlauf von Plexuskarzinomen von häufigen Rezidiven geprägt.
+
+
+== Veterinärmedizin ==
+Selten kommen Plexuskarzinome auch bei Hornträgern vor.
+
+
+== Literatur ==
+A. Aguzzi, S. Brandner, W. Paulus: Choroid plexus tumours. In: P. Kleihues, W. K. Cavenee (Hrsg.): World Health Organization classification of tumors. Pathology and genetics of tumours of the nervous system. IARC Press, Lyon 2000.
+
+
+=== Einzelnachweise ===
+
+
+== Weblinks ==
+Infodienst zu Krebs- und Blutkrankheiten bei Kindern und Jugendlichen der Gesellschaft für Pädiatrische Onkologie und Hämatologie mit Informationen zur Therapiestudie CPT-SIOP-2000

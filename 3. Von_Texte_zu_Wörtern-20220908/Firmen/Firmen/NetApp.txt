@@ -1,0 +1,60 @@
+NetApp, Inc., zuvor bekannt als Network Appliance, Inc., ist ein Unternehmen, das im Bereich der Datenspeicherung und des Datenmanagements arbeitet. Es hat seinen Sitz in Sunnyvale im US-Bundesstaat Kalifornien. Das Unternehmen wird im NASDAQ-100 geführt und belegt im Fortune 1000, einer Liste der umsatzstärksten US-amerikanischen Unternehmen, den 647. Platz (2009). Im Januar 2009 wurde NetApp vom Wirtschaftsblatt Fortune zum Top-Arbeitgeber in den USA gekürt.
+
+
+== Geschichte ==
+
+NetApp wurde 1992 unter dem Namen Network Appliance von David Hitz, James Lau und Michael Malcolm gegründet. Im Jahr 1995 erfolgte der Börsengang an der amerikanischen Börse NASDAQ unter dem Tickersymbol NTAP.
+Das Unternehmen firmierte zwar stets unter dem Namen Network Appliance, wurde aber im Markt häufig als NetApp bezeichnet. Am 10. März 2008 benannte sich das Unternehmen dann offiziell in NetApp um. In Deutschland repräsentiert die NetApp Deutschland GmbH mit Sitz in Kirchheim bei München das Unternehmen. Weitere Geschäftsstellen in Deutschland befinden sich in Berlin, Düsseldorf, Hamburg, Neu-Isenburg, Nürnberg, Stuttgart, Hannover und Walldorf.
+
+
+=== Wichtige Übernahmen ===
+1997 – Internet Middleware. Fortgeführt als Produktlinie NetCache (2006 wieder verkauft).
+2004 – Spinnaker Networks. Die Technologie von Spinnaker wurde in das Data ONTAP GX System von NetApp integriert.
+2005 – Alacritus. Die Technologie von Alacritus wurde in die Produktserie Nearstore VTL von NetApp integriert.
+2005 – Decru. Decru wird als eigenständige Geschäftseinheit weitergeführt.
+2006 – Topio. Die Datenmanagementsoftware von Topio wurde als ReplicatorX, später SnapMirror for Open Systems bis zur Verkündung der Einstellung der Weiterentwicklung im Dezember 2008 weitergeführt.
+2008 – Onaro. Die Datenmanagementsoftware von Onaro wird aktuell in das NetApp-Produktportfolio integriert und firmiert unter dem Produktnamen OnCommand Insight (früher SANscreen).
+2011 – Akorri Die Datenmanagementsoftware BalancePoint wird in die OnCommand Management Suite als OnCommand Insight Balance integriert.
+2011 – Engenio Das External Storage Systems Business von LSI wird in das NetApp-Produktportfolio integriert und als E-Series für Big-Data Lösungen angeboten und als OEM-Produkt vertrieben.
+
+
+=== Geschäftsentwicklung ===
+Erlös und EBIT sind in Millionen US-Dollar angegeben und gerundet.
+Das Geschäftsjahr von NetApp endet jeweils Ende April. In den Finanzberichten von NetApp wird das Geschäftsjahr mit FY (für fiscal year) abgekürzt.
+
+
+== Produkte ==
+NetApp bietet vereinheitlichte Speicherlösungen an. Die Speicherlösungen umfassen spezielle Hardware, Software und Dienstleistungen. Sie werden weltweit von Unternehmen und Service Providern eingesetzt, darunter T-Systems, SAP, Lockheed, Merrill Lynch, Oracle, Texas Instruments und Yahoo!.
+Die NetApp-Speicherlösungen basieren auf dem hauseigenen Data ONTAP Betriebssystem und lassen sich in verschiedenste Speichernetzwerke integrieren (NAS, SAN, iSCSI). Eine Besonderheit der NetApp-Speichersysteme ist das einheitliche Betriebssystem in allen Modellen, das über die Modellpalette hinweg die gleichen Funktionen ermöglicht. Die unterschiedlichen Modelle innerhalb einer Produktserie unterscheiden sich einzig und allein in Kapazität und Datendurchsatz.
+Folgende Produktserien liefert das Unternehmen:
+FAS–Serie (Universelles Speichersystem basierend auf Data ONTAP)
+NearStore–Serie (Backup- und Archivierungsergänzungen für FAS-Systeme inkl. Virtual-Tape-Library)
+V–Serie (herstellerübergreifendes Speichervirtualisierungssystem)
+DataFort–Serie (Datensicherheitsappliance mit Verschlüsselungsfunktion)
+Darüber hinaus bietet das Unternehmen spezielle Software für das Datenmanagement an.
+Die Managementsoftware von NetApp unterstützt unter anderem folgende Aufgaben:
+Verwaltung von Speichernetzwerken
+Leistungsoptimierung
+Anwendungsintegration (z. B. mit VMware, SAP, Oracle, Windows, Exchange, Sharepoint)
+Datensicherung und -wiederherstellung
+Archivierung
+Sicherstellung der Einhaltung gesetzlicher Vorschriften
+Wettbewerber von NetApp sind EMC, Hitachi Data Systems (HDS), Hewlett Packard Enterprise, IBM und Oracle.
+Über das italienische Unternehmen Area SpA gelangten NetApp-Produkte trotz Sanktionen nach Syrien, wo sie der Regierung helfen, die Bewegung von Beteiligten des Aufstands in Syrien 2011 zu verfolgen. 
+
+
+== Siehe auch ==
+Network Attached Storage
+Storage Area Network
+iSCSI
+Write Anywhere File Layout (WAFL)
+Virtual-Tape-Library
+Team NetApp
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+NetApp International
+NetApp Deutschland

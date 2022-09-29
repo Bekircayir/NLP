@@ -1,0 +1,35 @@
+Ein Kammerersatzrhythmus (syn. Ventrikulärer Ersatzrhythmus, Kammerautomatie, englisch Ventricular escape beat) ist eine Herzrhythmusstörung, welche als Reizbildungsstörung nach Ausfall oder Blockierung der übergeordneten Erregungsbildungszentren (hier: Sinusknoten und Atrioventrikularknoten) auftritt.
+
+
+== Ursache ==
+
+Die Pathogenese eines Kammerersatzrhythmus begründet sich auf der einzigartigen Fähigkeit der Herzmuskelzellen zur „eigenständigen Erregung“, dies wird als Selbstdepolarisation bezeichnet. Am gesunden Herzen läuft eine normale Erregung immer ausgehend vom Sinusknoten (ca. 60–80 Schläge pro Minute) über AV-Knoten (ca. 40–60 Schläge pro Minute), His-Bündel, Tawara-Schenkel und Purkinje-Fasern zur Arbeitsmuskulatur (→ Erregungsleitungssystem). Dies funktioniert dadurch, dass der Sinusknoten die kürzeste Repolarisationszeit (Erholung der Zelle nach Erregung) besitzt und daher eine neue Erregung am Herzen auslösen kann, bevor eine andere Zelle dies durchführt.
+Sollte der Sinusknoten, welcher normalerweise mit ca. 60–80 bpm depolarisiert, aufgrund einer pathologischen Störung keine Erregung bilden, wird dies von untergeordneten Zellen, hier zuerst durch den AV-Knoten, übernommen. Das Herz schlägt dann nur noch mit einer Frequenz von ca. 40–60 bpm. Sollte nun auch dieser Mechanismus nicht funktionieren, zum Beispiel durch eine Schädigung des AV-Knoten, oder durch einen AV-Block (Typ III), geht die erste Depolarisation bzw. Erregung direkt von Zellen, welche in der Herzkammerebene liegen, aus (His-Bündel, Tawara-Schenkel, Purkinje-Fasern, einzelne Myokard-Zelle).
+Die Herzkammern und Vorhöfe werden somit unabhängig voneinander erregt und kontrahieren sich nicht mehr synchron. Die Kontraktion der Herzkammern erfolgt dann nur mit ca. 20–40 bpm.
+
+
+== Symptome ==
+Durch den stark verlangsamten Herzschlag und der damit einhergehenden verringerten Auswurfleistung (Herzminutenvolumen) verspürt der betroffene Mensch primär Symptome einer Kreislaufstörung:
+
+Schwindel
+Müdigkeit
+Bewusstseinsstörungen (bis hin zu Bewusstlosigkeit)
+Übelkeit
+Sehstörungen
+starkes Schwitzen, Kaltschweißigkeit
+Gefühlsstörungen in den Extremitäten
+starkes Angstgefühl bis hin zur TodesangstDes Weiteren können auch typische Symptome einer Minderdurchblutung am Herzen auftreten (Angina Pectoris):
+
+Brustschmerzen /-brennen, eventuell mit Ausstrahlung
+Atemnot
+
+
+== Diagnostik ==
+Neben den oben beschriebenen Symptomen lässt sich am Patienten ein fühlbar verlangsamter, und gelegentlich auch unregelmäßiger, Puls feststellen. Eine obligate Elektrokardiographie zeigt meist verbreiterte Kammerkomplexe (QRS-Komplex), gelegentlich aber auch schmale Kammerkomplexe, sowie unzusammenhängende Vorhof- und Kammererregungen.
+
+
+== Therapie ==
+Ein Kammerersatzrhythmus ist die Folge einer schwerwiegenden Störung am Herzen. Durch Gabe von β-mimetischen Katecholaminen (z. B. Orciprenalin), kann versucht werden, die Kammererregung zu beschleunigen. In der präklinischen Notfallsituation ist es indiziert, die Herzfrequenz durch einen externen Herzschrittmacher (transkutaner Schrittmacher) zu erhöhen, um eine stabilere Blutversorgung der Organe zu erreichen.Klinisch ist primär die Suche nach der Ursache des Auftretens des Kammerersatzrhythmus und deren Bekämpfung entscheidend. Trotzdem ist es in den überwiegenden Fällen notwendig, einen Herzschrittmacher zu implantieren, um zukünftig eine regelmäßige und ausreichende Herzfrequenz zu erhalten.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,31 @@
+Prothesenendokarditis (auch engl. Prosthetic Valve Infection oder Prosthetic Valve Endocarditis, kurz PVE) ist eine Infektion der künstlichen Herzklappe. Man findet sie häufig bei perioperativen Kontaminationen der Herzklappe oder bei chronischem, intravenösem Drogenabusus.
+
+
+== Symptome & Diagnostik ==
+Patienten mit einer PVE leiden unter Fieber, erhöhten Infektionsparametern in den Blutanalysen (CRP, Leukozytose, Granulozytose, Blutsenkungsgeschwindigkeit). 
+Mikrobiologische Blutkulturen sind positiv für den Erreger, brauchen jedoch meist einige Tage, bis ein verwertbares Resultat vorhanden ist. Weiters ist es mit der Blutkultur möglich, den Erreger zu isolieren und deren Sensitivität auf verschiedene Antibiotika auszutesten (Antibiogramm).
+Nur selten sind die Eintrittsstellen der Keime zu finden. Es kann sich dabei um jegliche Art von Wunden handeln. 
+Eine Darstellung der (künstlichen) Herzklappe mittels Ultraschall kann Keimkolonien (auch Vegetationen) zeigen, gibt jedoch keine Aussage über die Art des Keimes. Wegen der fortgeschrittenen Bildqualität der Ultraschallgeräte sind andere Darstellungsmethoden wie Computertomographie (CT) oder Magnetresonanztomographie (MRT oder MRI) in der Regel nicht indiziert.
+
+
+== Therapie ==
+
+
+=== Akuttherapie ===
+Bei einer PVE steht die Stabilisierung des Patienten (Herzkreislauf) im Vordergrund. Zudem muss mit einer antimikrobiellen Therapie (Antibiotikum) begonnen werden (erst mit einem Breitbandantibiotikum, besser einer Kombination von Breitbandantibiotika wie Amoxicillin, Gentamicin und/oder Rifampicin). Später erfolgt, bei bekanntem Erreger-Antibiogramm, je nach Sensitivität des Erregers eine Umstellung der Therapie. Die Antibiose tötet zwar die Erreger im Blut ab und saniert unter Umständen vorhandene Streuherde, jedoch können immer noch Keime auf der Herzklappe in einem Biofilm vorhanden sein, die ein Wiederaufflammen der Entzündung nach Beendigung der Antibiose ermöglichen. Ein Austausch der Herzklappenprothese wird deshalb häufig (in Abhängigkeit von Patientenzustand und operativem Risiko) als unumgänglich angesehen und stellt nicht selten einen (lebens-)bedrohlichen Notfall dar.
+
+
+=== Operative Therapie ===
+Die sicherste Therapie der PVE stellt die operative Entfernung und ein Ersatz der infizierten Herzklappe dar.
+
+
+== Literatur ==
+Walter R. Wilson et all: Prosthetic Valve Endocarditis. In: Annals of Internal Medicine, 1975; 82(6):751-756. doi:10.7326/0003-4819-82-6-751 (online)
+T. S. Ivert, W. E. Dismukes, C. G. Cobbs, E. H. Blackstone, J. W. Kirklin, L. A. Bergdahl: Prosthetic valve endocarditis. In: Circulation. Band 69, Nummer 2, Februar 1984, S. 223–232, PMID 6690095. (PDF)
+C. Piper, R. Körfer, D. Horstkotte: Prosthetic valve endocarditis. In: Heart (British Cardiac Society). Band 85, Nummer 5, Mai 2001, S. 590–593, PMID 11303018, PMC 1729722 (freier Volltext) (Review).
+P. Tornos: Management of prosthetic valve endocarditis: a clinical challenge. In: Heart (British Cardiac Society). Band 89, Nummer 3, März 2003, S. 245–246, PMID 12591815, PMC 1767588 (freier Volltext).
+J. W. Gnann, W. E. Dismukes: Prosthetic valve endocarditis: an overview. In: Herz. Band 8, Nummer 6, Dezember 1983, S. 320–331, PMID 6363238 (Review).
+
+
+== Weblinks ==
+Prosthetic Valve Endocarditis auf uptodate.com

@@ -1,0 +1,15 @@
+Als Sinustachykardie wird in der Medizin eine beschleunigte Herzfrequenz bezeichnet, wenn dabei die elektrische Erregung (Reizbildung) im Sinusknoten entsteht und durch das Erregungsleitungssystem zum Herzmuskel geleitet wird. Beim erwachsenen Menschen wird eine Herzfrequenz von mehr als 100 Schlägen pro Minute in Ruhe als Tachykardie eingestuft.
+
+
+== Ätiologie ==
+Bei Säuglingen und Kleinkindern, bei körperlicher Anstrengung oder psychischer Belastung wird eine Sinustachykardie als physiologisch, also ohne Krankheitswert, angesehen.Die pathologische (krankhafte) Sinustachykardie wird unterschieden in primäre und sekundäre Form. Die primäre Form hat keine erkennbare Ursache. In Einzelfällen liegt ihr eine kreisende Erregung im Vorhof zu Grunde, die durch ihre Nähe zum Sinusknoten im Elektrokardiogramm (EKG) das Bild einer Sinustachykardie erzeugt (Sinusknoten-Reentry).
+Ebenso kann selten eine Inadäquate Sinustachykardie vorliegen, der eine Anomalie des Sinusknotens zugrunde liegt.
+Die sekundäre Sinustachykardie entspricht häufig einem Kompensationsmechanismus, unter anderem bei Volumenmangel (z. B. bei Exsikkose oder nach großem Blutverlust), Anämie, Fieber, Lungenembolie, Herzinsuffizienz oder Myokarditis. Sie kann außerdem Ausdruck einer hormonellen Fehlregulation im Rahmen einer Schilddrüsenüberfunktion oder eines Phäochromozytoms sein. Auch Arzneimittel (z. B. Sympathomimetika bei Asthma bronchiale) sowie Genuss- und Rauschmittel wie Coffein oder Ecstasy können zu einer Sinustachykardie führen.
+
+
+== Diagnostik und Therapie ==
+Die Diagnose einer Sinustachykardie wird anhand des Elektrokardiogramms gestellt. Dabei geht jeder Kammeraktion (QRS-Komplex) eine Vorhoferregung (P-Welle) voraus. Differentialdiagnostisch muss Vorhofflattern, Inadäquate Sinustachykardie und eine AV-Knoten-Reentry-Tachykardie in Erwägung gezogen werden.
+Für die Therapie dieser Reizbildungsstörung ist das Erkennen und die Behandlung der Ursache entscheidend. Eine rein symptomatische Therapie sollte nicht erfolgen. Bei primärer Sinustachykardie werden zur Frequenzsenkung zum Beispiel Betablocker eingesetzt.
+
+
+== Einzelnachweise ==

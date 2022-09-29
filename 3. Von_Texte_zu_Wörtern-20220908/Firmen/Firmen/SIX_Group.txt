@@ -1,0 +1,58 @@
+SIX ist ein Dienstleister der Finanzbranche und betreibt die Finanzplatzinfrastruktur der Schweiz. Die Abkürzung SIX steht für Swiss Infrastructure and Exchange. Das Unternehmen entwickelt und unterhält Plattformen für den Handel mit Wertpapieren sowie für den Nachhandel und vertreibt Systeme für den bargeldlosen Zahlungsverkehr. SIX ist weltweit vertreten. Hauptsitz ist Zürich.
+
+
+== Geschäftsbereiche ==
+SIX bietet Dienstleistungen in vier Geschäftsbereichen an: Auf der Börsenplattform des Unternehmens finden Käufer und Verkäufer von Wertpapieren zusammen. Danach garantiert das Unternehmen beiden Seiten das Zustandekommen ihres Handels, wickelt den Handel vollautomatisch ab und verwahrt die Wertpapiere. Ausserdem versorgt SIX seine Kunden mit Finanzdaten aus aller Welt und ermöglicht den bargeldlosen Zahlungsverkehr.
+SIX unterliegt staatlicher Aufsicht. Zuständig sind die Eidgenössische Finanzmarktaufsicht (Finma) und die Schweizerische Nationalbank.
+
+
+=== Wertpapierhandel über SIX Swiss Exchange ===
+SIX betreibt die Schweizer Börse. Kernfunktionen der SIX Swiss Exchange sind die Zulassung von Wertpapieren, der Betrieb der Handelsplattform, die Überwachung des Handels sowie der Vertrieb von Marktinformationen. Über die gemeinsame Handelsplattform von SIX Swiss Exchange und SIX Structured Products Exchange werden unter anderem Aktien, Anleihen, Derivate, Anlagefonds und Zertifikate gehandelt. Darüber hinaus berechnet SIX Indizes, wie zum Beispiel den Swiss Market Index.
+Als unabhängige Einheit innerhalb von SIX übernimmt Exchange Regulation sämtliche Aufgaben im Rahmen der börsengesetzlich vorgesehenen Selbstregulierung. Die Einheit ist getrennt vom operativen Geschäft und erlässt Regeln für Emittenten und Teilnehmer, überwacht den Handel und setzt die Regeln durch.
+
+
+=== Nachhandelsabwicklung und weitere Securities Services ===
+Ist ein Börsenhandel zustande gekommen, übernimmt SIX alle nachfolgenden Prozesse. Der Unternehmensbereich SIX Securities Services agiert als Vertragspartner zwischen Handelsparteien in ganz Europa (zentrale Gegenpartei). Dieser Service dient dazu, die Risiken sowohl von Käufern als auch von Verkäufern zu senken (Clearing). Danach wickelt SIX die Transaktionen elektronisch ab (Settlement). Dazu gehören auch Echtzeit-Zahlungen von einer Bank an eine andere.
+Ausserdem betreibt SIX Systeme, die Anlagewerte und Dokumente vor unbefugtem Zugriff sichern (Custody). Für die Schweiz fungiert das Unternehmen in diesem Bereich als Zentralverwahrer. Es verwahrt die meisten der nach Schweizer Recht emittierten Finanzinstrumente. SIX bietet seinen Verwahrungsservice aber auch international an.
+Ebenfalls zum Geschäftsbereich «Securities Services» gehören Plattformen für Lastschriften und E-Rechnungen sowie das elektronische Auskunftsportal für Grundbuchdaten in der Schweiz. Es heisst Terravis und ermöglicht Hypotheken-, Grundstücks- und Handelsregistergeschäfte.
+
+
+=== Financial Information ===
+SIX bezieht in Echtzeit Finanzdaten von internationalen Börsen und Unternehmen und vertreibt sie weiter. Dazu gehören unter anderem Basisinformationen über börsenkotierte Unternehmen (Referenzdaten) und Informationen zu Massnahmen, die die Kapital- und Stimmrechte von Aktionären betreffen (Corporate Actions). Ausserdem können sich Kunden von SIX über Preise und Marktkurse von rund 15 Millionen Finanzinstrumenten auf dem Laufenden halten. Auf Grundlage der Finanzdaten von SIX entscheiden Banken und andere Marktteilnehmer über Finanzgeschäfte und bewerten Anlagerisiken.
+
+
+=== Bargeldloser Zahlungsverkehr ===
+SIX verarbeitet Kredit-, Debit- und Wertkartenzahlungen in der Schweiz, in Österreich und Luxemburg sowie in vielen weiteren Ländern Europas. Daneben ermöglicht SIX das Beziehen von Bargeld an Geldautomaten. Ausserdem schafft SIX mit ihrer Infrastruktur die nötigen, sicheren Voraussetzungen dafür, dass Hotels, Gastronomie und Handel online oder am Terminal Zahlkarten akzeptieren können. In Österreich gibt SIX selber Zahlkarten heraus. Seit 2015 bietet SIX in der Schweiz eine Lösung für mobiles Zahlen mit dem Smartphone an (Paymit).
+
+
+== Geschichte ==
+
+
+=== Gründung ===
+SIX ging Anfang 2008 aus der SWX Group, der SIS Group und der Telekurs Group hervor. Die SWX Group brachte das Geschäftsfeld Wertpapierhandel ein, die SIS Group das Geschäftsfeld Transaktionsabwicklung und die Telekurs Group die Geschäftsfelder Finanzinformationen und Zahlungsverkehr.
+Der Zusammenschluss firmierte zunächst unter dem Namen Swiss Financial Market Services. Seit August 2008 tritt das Unternehmen unter der Marke SIX auf.
+
+
+=== Aquistionen ===
+Im Herbst 2013 übernahm SIX die PayLife Bank GmbH in Österreich und im Frühjahr 2014 die Oslo Clearing ASA in Norwegen.
+2014 stockte SIX zudem ihre Beteiligung an CETREL auf. Der luxemburgische Finanzinfrastrukturdienstleister gehört damit zu 100 Prozent zur SIX Group AG.
+
+
+=== Kartellrechtsverfahren ===
+Die SIX Multipay AG lancierte im Jahr 2005 eine DCC-Funktion, die nur auf den Zahlkartenterminals der SIX Card Solutions AG verfügbar war. Die Wettbewerbskommission WEKO intervenierte und warf der SIX-Konzerntochter vor, ihre marktbeherrschende Stellung zu missbrauchen. Im Dezember 2006 stellte die SIX Multipay AG die DCC-Funktion auch anderen Terminalanbietern zur Verfügung und legte die Schnittstellen-Informationen offen. Vier Jahre später verhängte die WEKO gegen SIX ein Bussgeld von sieben Millionen CHF. Mit der Zahlung endete das Kartellrechtsverfahren.
+
+
+== Eigentümerstruktur ==
+SIX gehört 130 nationalen und internationalen Banken in der Schweiz, die zugleich Hauptnutzer ihrer Dienstleistungen sind. Das Unternehmen ist nicht börsenkotiert.
+
+
+== Initiativen ==
+SIX unterstützt die Wertpapierwelt in Olten, das erste Wertpapiermuseum der Welt. Die Sammlung dokumentiert vier Jahrhunderte Wirtschaftsgeschichte und umfasst gut 7.000 Exponate. Das Museum wird im Sommer 2017 in Zürich neu eröffnet als Schweizer Finanzmuseum.
+SIX ist Mitglied des FinTech Incubators und Accelerators F10. Hier arbeiten z.B. Mitarbeiter von SIX gemeinsam mit Start-ups mit dem Ziel, die Finanztechnologie der Schweiz weiterzuentwickeln.
+
+
+== Weblinks ==
+Webseite SIX Group AG
+
+
+== Einzelnachweise ==

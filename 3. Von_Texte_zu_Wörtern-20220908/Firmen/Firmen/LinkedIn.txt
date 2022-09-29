@@ -1,0 +1,83 @@
+LinkedIn [ˌliŋkt.ˈɪn] mit Sitz in Mountain View/USA ist ein webbasiertes soziales Netzwerk zur Pflege bestehender Geschäftskontakte und zum Knüpfen von neuen geschäftlichen Verbindungen. Es ist mit über 400 Millionen registrierten Nutzern in mehr als 200 Ländern (Stand: November 2015) die derzeit größte weltweite Plattform dieser Art und gehört laut Alexa zu den 20 weltweit meistbesuchten Internetseiten. LinkedIn ist seit Dezember 2016 Teil von Microsoft.
+
+
+== Geschichte ==
+
+LinkedIn wurde 2003 von Reid Hoffman und Gründungsmitgliedern von PayPal und Socialnet.com (Allen Blue, Eric Ly, Jean-Luc Vaillant, Lee Hower, Konstantin Guericke, Stephen Beitzel, David Eves, Ian McNish, Yan Pujante und Chris Saccher) in Kalifornien gegründet. Im Januar 2014 lag LinkedIn in den USA auf Rang 8 der meistbesuchten Websites und weltweit auf Rang 12. Seit dem 4. Februar 2009 ist das Netzwerk auch in deutscher Sprache verfügbar.
+Im Januar 2011 kündigte das US-Unternehmen den Gang an die Börse an. Genauere Angaben zum Datum oder dem Emissionspreis der neuen Papiere machte LinkedIn Inc. jedoch zunächst nicht. Am 19. Mai 2011 wurde das Papier zum ersten Mal an der New York Stock Exchange gehandelt. Insgesamt wurden 7,84 Millionen Anteile ausgegeben. Anhand des Ausgabepreises errechnete sich die Marktkapitalisierung von LinkedIn zu 4,3 Milliarden Dollar und stieg in wenigen Minuten bis auf 8,5 Milliarden Dollar. Bis zum Jahr 2013 stieg der Kurs der Aktie auf rund 200 US-Dollar.
+ Microsoft gab am 13. Juni 2016 ein Angebot ab, LinkedIn für einen Kaufpreis von 26,2 Milliarden US-Dollar (196 US-Dollar je Aktie) zu übernehmen. Die Freigabe durch die EU-Wettbewerbsbehörde, unter der Auflage, dass konkourrierende Netzwerke, insbesondere XING, gleichen Zugang über 5 Jahre auf Microsofts Betriebssysteme bekommen, erfolgte Anfang Dezember 2016, womit der Kauf durch Microsoft endgültig abgeschlossen werden konnte.
+
+
+== Akquisitionen ==
+LinkedIn hat in den vergangenen Jahren einige Unternehmensaufkäufe und in einem Fall die Übernahme einer Anwendung getätigt.
+
+
+== Funktionen ==
+Ähnlich wie andere soziale Netzwerke im Internet bietet LinkedIn folgende Funktionen:
+Ein Profil mit Lebenslauf kann in mehreren Sprachen erstellt werden
+Verlinkung auf eine eigene Website
+Neue Kontakte können geknüpft werden
+Möglichkeit, andere Mitglieder zu empfehlen
+Unternehmensprofile erstellen
+Mitgliedschaft und Gründung von Themengruppen
+Außerdem lassen sich Produkte auf dem Unternehmensprofil bewerben und empfehlen. Kritisiert wird, dass ein LinkedIn-Account sehr leicht einzurichten ist, aber nur schwer gelöscht werden kann, da der Zugang zu den entsprechenden Funktionen versteckt ist.
+
+
+== Kontotypen ==
+Bei LinkedIn existieren verschiedene Kontomodelle. Die 'Freemiumvariante' ist der „Basisaccount“. Dieser ist unentgeltlich und enthält:
+Profil erstellen
+Mehrsprachige Profile
+Suche (nach Namen, Vornamen, Unternehmen, Ort, Geotargeting, Position)
+Unternehmensprofil erstellen
+Gruppen beitreten oder gründen
+Netzwerkstatistiken
+Nachrichten (begrenzt auf Kontakte, Gruppenmitglieder, Moderatoren)
+Der kostenpflichtige Premiumaccount bietet erweiterte Funktionen:
+Suche nach Job Level, Funktion im Unternehmen, Unternehmensgröße
+Profilorganizer = Möglichkeit, Nichtkontakte in Ordnern zu speichern und kategorisieren
+Erweiterte Netzwerkstatistiken
+Ein Recruiteraccount bietet darüber hinaus Lösungen für die Zusammenarbeit im Rahmen des Netzwerks z. B. für Projekte. Hierbei wird ein vollständiger CRM-Ansatz verfolgt.
+
+
+== Benutzeroberfläche ==
+Häufig wurde die wenig zeitgemäße Benutzeroberfläche von LinkedIn kritisiert. Im Vergleich zu anderen sozialen Netzwerken wurde es anfangs meist nur passiv genutzt. Im Juli 2012 stellte das Unternehmen daraufhin eine umfassende Überarbeitung seiner Oberfläche vor. Nach eigener Aussage soll LinkedIn dadurch ähnlich einfach zu bedienen sein wie Google+ oder Facebook. Geschäftliche Nutzer des Netzwerks sollen dadurch animiert werden, auf LinkedIn verstärkt auch persönliche Informationen mitzuteilen.
+Im September 2012 hat LinkedIn erstmals Benachrichtigungen eingeführt. Mit dieser neuen Funktion können Nutzer sehen, welche Meldungen ihre Kontakte geschrieben oder welche anderen Informationen sie kommentiert haben. Die Einführung dieser Funktion wird als Annäherung an soziale Netzwerke wie Facebook und Google+ gesehen, die die Möglichkeit des Informationsaustausches bereits von Anfang an zur Verfügung stellten.
+
+
+== Mobile Anwendungen ==
+LinkedIn ermöglicht bereits seit geraumer Zeit den Zugriff auf LinkedIn von unterwegs mit mobilen Anwendungen. Neben einer speziell auf kleine Bildschirme optimierten Internetseite sind LinkedIn-Apps für die Betriebssysteme Android, Blackberry, Windows Phone und Apple iOS unentgeltlich erhältlich.
+
+
+== Kritik ==
+
+
+=== Nutzung der E-Mail-Accounts von Mitgliedern zum Spamversand ===
+LinkedIn verschickt von den E-Mail-Accounts seiner Mitglieder „Einlade-E-Mails“ an Outlook-Kontakte. Die Zustimmung der Nutzer wird dabei gar nicht oder teils schwer nachvollziehbar eingeholt. Die „Einladungen“ erwecken den Eindruck, dass der E-Mail-Inhaber selbst die Einladung verschickt habe. Wenn darauf keine Antwort erfolgt, wird die Beantwortung mehrmals angemahnt („Sie haben die Einladung von XY noch nicht beantwortet.“)
+LinkedIn wurde in den USA wegen des Vorwurfs des Hackens von E-Mail-Accounts und spammens verklagt. Das Unternehmen argumentierte mit dem Recht auf freie Meinungsäußerung. Außerdem würden die betreffenden Nutzer so bei dem Aufbau eines Netzwerks unterstützt werden.
+
+
+=== Verschiebung von Outlookmails auf LinkedIn-Server ===
+Ende 2013 wurde bekannt, dass die App von LinkedIn die E-Mails der Nutzer abfängt und unbemerkt auf LinkedIn-Server verschob und sich damit vollen Zugriff verschaffte. LinkedIn verwendete hierfür Man-in-the-Middle-Angriffe.
+
+
+=== Datenschutz ===
+Die Stiftung Warentest kritisiert, dass einerseits die Rechte der Nutzer eingeschränkt, dem Netzwerk andererseits weitreichende Rechte eingeräumt würden. Dies sei ein ungerechtfertigtes Ungleichgewicht. Auf Forderungen der Verbraucherschutzzentrale reagiert LinkedIn nicht.
+Im November 2016 hat Russland angekündigt, das Netzwerk im eigenen Land zu sperren, da es "verbotenerweise Daten russischer Nutzer auf Servern im Ausland" speichere. Das zitierte Gesetz ist dort seit 2014 in Kraft. 
+
+
+=== Sicherheit der Plattform ===
+Im Juni 2012 wurde bekannt, dass ein russischer Hacker nach einem Angriff auf die Server von LinkedIn die Passwörter von 6,5 Millionen LinkedIn-Mitgliedern im Internet veröffentlicht hat. Der Datendiebstahl wurde am folgenden Tag von LinkedIn bestätigt. Laut Sophos sind die Passwörter nur einfach verschlüsselt, so dass eine Entschlüsselung leicht sei. Da LinkedIn die Authentifizierungstoken unverschlüsselt überträgt, sind Accounts angreifbar und leicht zu übernehmen.
+Im Mai 2016 wurde zudem bekannt, dass bei dem 2012 erfolgten Angriff mehr als 100 Millionen Passwörter und E-Mail-Adressen gestohlen wurden. Ein Hauptverdächtiger wurde am 5. Oktober 2016 in Tschechien festgenommen.
+
+
+=== Zensur ===
+Um den chinesischen Gesetzen zu entsprechen, zensiert LinkedIn weltweit seinen Auftritt. 2014 gestand das Unternehmen zum Beispiel, sämtliche Diskussionen zum Massaker am Platz am Tor des himmlischen Friedens zu unterdrücken. Nachdem LinkedIn zunächst erklärte, dass die Zensur außerhalb Chinas versehentlich stattfand, erklärte das Unternehmen später, dass die weltweite Zensur „zum Schutz chinesischer Bürger“ durchgesetzt werde.
+
+
+== Weblinks ==
+
+Offizielle Website von LinkedIn
+Ein Blick in die Bilanz von LinkedIn (brand eins, 07/2011)
+
+
+== Einzelnachweise ==

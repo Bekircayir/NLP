@@ -1,0 +1,51 @@
+Das Brugada-Syndrom oder Brugada-Brugada-Syndrom ist eine seltene und meist zwar autosomal-dominant, aber typischerweise mit unvollständiger Penetranz vererbte Krankheit des Herzens. Es wird den „Primären angeborenen Kardiomyopathien“ und dort den sog. Ionenkanalerkrankungen zugerechnet. Patienten mit dieser Erkrankung sind anscheinend völlig herzgesund, können aber bereits im Jugend- und frühen Erwachsenenalter einen plötzlichen Herztod erleiden. Eine wirksame symptomatische Therapie ist die Implantation eines automatischen Defibrillators (ICD) bei besonders gefährdeten Patienten; allerdings wurden auch schon mit Ablationstherapie Patienten wirkungsvoll behandelt.
+
+
+== Geschichte ==
+Als vermutlich eigenständige Erkrankung wurde das Brugada-Syndrom erst in den 1990er-Jahren identifiziert.
+1989 beschrieben Kardiologen aus Padua sechs Patienten im Alter zwischen 14 und 35 Jahren, die im Zeitraum von 1977 bis 1988 einen unerklärten Herzstillstand durch Kammerflimmern erlitten hatten und erfolgreich wiederbelebt worden waren. Alle sechs Patienten waren vermeintlich herzgesund, drei von ihnen zeigten im Elektrokardiogramm (EKG) auffällige Hebungen der ST-Strecke in den Ableitungen V1-2.Namensgeber des Syndroms waren die seinerzeit in Belgien tätigen Brüder Pedro und Josep Brugada, die 1992 acht Patienten beschrieben, welche ebenfalls nach einem Herzstillstand erfolgreich wiederbelebt worden waren. Sie alle zeigten im EKG eine besondere Form des Rechtsschenkelblocks, wiesen aber ansonsten keinerlei Zeichen einer organischen Herzkrankheit auf. Die Ursache des Syndroms war seinerzeit noch unklar.
+In einer 2006 aktualisierten Klassifikation von Kardiomyopathien der American Heart Association (AHA) wird das Brugada-Syndrom ebenso wie das QT-Syndrom den „Angeborenen primären Kardiomyopathien“ zugeordnet.
+
+
+== Epidemiologie ==
+Die Prävalenz des Brugada-Syndroms ist nicht bekannt, die Inzidenz wird mit fünf bis 66 pro 10.000 Einwohner angegeben. In Südostasien, wo es häufiger zu sein scheint als in Europa und Nordamerika, tritt das Syndrom bei Männern achtmal häufiger auf als bei Frauen. Herzrhythmusstörungen treten dort durchschnittlich im 40. Lebensjahr auf, wobei die Bandbreite vom ersten bis zum 77. Lebensjahr reicht.
+
+
+== Pathogenese und Pathophysiologie ==
+Mittlerweile wird das Brugada-Syndrom zusammen mit einigen anderen seltenen genetisch determinierten Herzkrankheiten wie dem QT-Syndrom und dem familiären Sinusknoten-Syndrom zu den Ionenkanalerkrankungen (englisch channelopathies) gezählt. Ihnen gemeinsam ist eine genetisch bedingte Veränderung der Eiweißmoleküle (Proteine), die den Ionentransport durch die Zellmembranen des Herzmuskels regulieren. Sie führen zu einem gesteigerten (gain-of-function) oder verminderten (loss-of-function) Transport hauptsächlich von Natrium- und Kaliumionen und verändern dadurch die elektrischen Eigenschaften der Zellen.
+Ein verantwortlicher Gendefekt konnte bisher nur bei einem kleineren Teil der Patienten mit Brugada-Syndrom identifiziert werden: 15 bis 25 Prozent von ihnen zeigen eine Mutation des Gens SCN5A, das auf dem dritten Chromosom (Genlocus 3p21) kodiert ist.
+
+
+== Symptome und Krankheitsverlauf ==
+Die dem Syndrom zu Grunde liegende Repolarisationsstörung der Herzmuskelzellen ist nicht spürbar, so dass ein Teil der Patienten keinerlei Symptome bemerkt. Die Leitsymptome plötzliche Bewusstlosigkeit (Synkope) und Herzstillstand treten erst durch Herzrhythmusstörungen wie polymorphe ventrikuläre Tachykardien oder Kammerflimmern auf, die durch die veränderte Repolarisation begünstigt werden. Einzelfälle mit einem sehr frühen Auftreten von Symptomen schon bei Neugeborenen sind zwar beschrieben, meist jedoch treten die Symptome erstmals im dritten oder vierten Lebensjahrzehnt auf.
+
+
+== Diagnose ==
+
+Einziges diagnostisches Zeichen für ein Brugada-Syndrom sind EKG mit einem Rechtsschenkelblock-ähnlichen Bild, typischerweise etwa einem inkompletten Rechtsschenkelblock, sowie charakteristischen Veränderungen der ST-Strecke in den Ableitungen V1-3.
+Diese EKG-Veränderungen können wechselnd ausgeprägt und auch nur zeitweise vorhanden sein. Sie lassen sich durch die Gabe von Medikamenten, die den Natriumkanal blockieren (sogenannte Natriumkanalblocker) wie Ajmalin, Flecainid oder Procainamid verstärken oder demaskieren. Diese Medikamente werden den Antiarrhythmika der Klasse I nach Vaughan/Williams zugeordnet.
+Die EKG-Veränderungen werden in drei verschiedene Typen unterteilt (vgl. Tabelle), die eine unterschiedliche Spezifität für die Diagnose eines Brugada-Syndroms aufweisen.
+
+Da die EKG-Veränderungen bei einigen Patienten gar nicht und bei anderen nur zeitweilig zu beobachten sind, ist die Diagnose des Brugada-Syndroms schwierig und uneinheitlich. Im Jahr 2000 hat eine Arbeitsgruppe der European Society of Cardiology die folgenden Kriterien vorgeschlagen:
+Die Kombination aus einer gewölbten (coved) ST-Streckenhebung („Typ 1“) in mehr als einer rechtspräkordialen Brustwandableitung (V1-3) und eines der folgenden Ereignisse macht ein Brugada-Syndrom wahrscheinlich: dokumentiertes Kammerflimmern, polymorphe ventrikuläre Tachykardie, plötzlicher Herztod bei Blutsverwandten im Alter von weniger als 45 Jahren, Synkope, Auslösbarkeit bei der elektrophysiologischen Untersuchung oder gewölbte ST-Streckenhebung bei einem Blutsverwandten. Die EKG-Veränderungen können unter Einfluss eines Natriumkanalblockers oder ohne einen solchen aufgetreten sein, andere mögliche Ursachen der Veränderungen sollten aber ausgeschlossen sein.
+ST-Streckenhebung vom „Typ 2“ oder „Typ 3“, die sich nach Gabe eines Natriumkanalblockers zu einer „Typ-1“-Hebung wandeln, sind wie eine solche zu werten. Eine medikamentös verursachte Hebung der ST-Strecke von mindestens 0,2 Millivolt (mV) lässt ein Brugada-Syndrom möglich erscheinen, wenn eines der o. g. klinischen Kriterien vorliegt. Bei Patienten ohne Veränderungen der ST-Strecke nach Gabe eines Natriumkanalblockers ist ein Brugada-Syndrom sehr unwahrscheinlich, ST-Veränderungen von weniger als 0,2 mV gelten als unsicher.
+Differentialdiagnostisch ist die beim Brugada-Syndrom als “J-Wave” bezeichnete ST-Hebung von einer ähnlich – wenn nicht i.S. eines „phenotype overlap“ gleich – aussehenden „Epsilon-Welle“ als Hinweis auf eine arrhythmogene rechtsventrikuläre Kardiomyopathie (ARVCM) abzugrenzen, was vor allem dann technische Schwierigkeiten bereiten kann, wenn eine vorliegende ARVCM nur segmental ausgebildet ist. Weitere, in Betracht zu ziehende Krankheitsbilder sind die RVOT-VT (right ventricular outflow tract ventricular tachycardia) und das typischerweise durch vagotone Reizung ausgelöste sogenannte idiopathische Kammerflimmern.
+Ein Expertenkonsensus aus dem Jahr 2013 verzichtet auf ein klinisches Kriterium und fordert EKG-Veränderungen in nur noch einer Ableitung (Typ-1-EKG in V1 oder V2, positioniert im 2., 3. oder 4. ICR).
+
+
+== Genotyp-Phänotyp-Relation ==
+Bei circa einem Fünftel der Patienten mit Brugada-Syndrom ist ein Defekt des SCN5A-Gens nachweisbar, die übrigen Patienten können bislang genotypisch nicht zugeordnet werden. Patienten mit SCN5A-Mutation unterscheiden sich phänotypisch durch eine verlängerte PQ-Zeit und ein verlängertes HV-Intervall von denen ohne SCN5A-Mutation. Eine PQ-Zeit von ≥ 210 Millisekunden (ms) und ein HV-Intervall von ≥ 60 ms im EKG weisen auf eine SCN5A-Mutation hin. Die Gabe eines Klasse-I-Antiarrhythmikums führte darüber hinaus bei Trägern der SCN5A-Mutation zu einer signifikant längeren PQ-Zeit und QRS-Dauer. Hinsichtlich demografischer Variablen, Anamnese und Familienanamnese hingegen sind zwischen den Gruppen keine Unterschiede festgestellt worden.
+
+
+== Therapie ==
+Die einzige Maßnahme mit nachgewiesener Wirksamkeit gegen den plötzlichen Herztod ist die Implantation eines automatischen Defibrillators (ICD). Sie ist bei allen Patienten mit bereits dokumentierten schwerwiegenden Rhythmusstörungen sinnvoll. Unklar ist, ob auch bislang asymptomatische Patienten einen ICD erhalten sollten, sobald die typischen EKG-Veränderungen aufgefallen sind.
+Betablocker sind bei den meisten Patienten mit Brugada-Syndrom vermutlich kontraindiziert, da bei niedriger Herzfrequenz die Gefahr von Kammerflimmern erhöht wird. Patienten mit rezidivierenden Episoden von Kammerflimmern können gelegentlich mittels sympathomimetischer Medikation (z. B. Orciprenalin-Perfusor) zumindest vorübergehend erfolgreich behandelt werden. Bei einigen Patienten kann durch die aktionspotentialverlängernde Wirkung von Chinidin ein Rückgang der typischen EKG-Veränderungen und möglicherweise eine Verminderung des Risikos für Kammerflimmern bewirkt werden.
+Daneben ist darauf hinzuweisen, dass auch in einzelnen Fällen das Veröden (Ablation) von elektrophysiologisch ausgemessenen Trigger-Gebieten im Herzmuskel von Patienten, bei denen ein Brugada-Syndrom bekannt war, dazu geführt haben soll, dass diese von diesem Moment an keine gefährlichen Herzrhythmusstörungen mehr erlitten.
+
+
+== Literatur ==
+Douglas P. Zipes u. a. (Hrsg.): Braunwald’s Heart Disease: A Textbook of Cardiovascular Medicine. 7. Auflage. W.B. Saunders Company, Philadelphia 2004, ISBN 1-4160-0014-3.
+A. Youichi u. a.: Assessment of Markers for Identifying Patients at Risk for Life-Threatening Arrhythmic Events in Brugada Syndrome. In: J Cardiovasc Electrophysiol. (2005) 16 (1), S. 45–51
+
+
+== Einzelnachweise ==

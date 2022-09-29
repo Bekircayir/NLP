@@ -1,0 +1,29 @@
+Mit Hypoventilation bezeichnet man eine für den Gasaustausch des Organismus unzulängliche Atmung, die zu oberflächlich und/oder zu langsam sein kann. Dadurch kommt es im Blut zu einem Abfall des Sauerstoff-Gehalts sowie einem Anstieg des Kohlenstoffdioxids (Hyperkapnie) mit respiratorischer Azidose. Die Veränderungen können potentiell lebensbedrohlich sein.
+Zur Diagnose dient die Blutgasanalyse oder als kontinuierliches und nicht-invasives Monitoring die Pulsoxymetrie oder transkutane Kohlenstoffdioxidpartialdruck-Messung (pCO₂).
+
+
+== Ursachen ==
+Schwäche der AtemmuskulaturCritical-Illness-Polyneuropathie, Guillain-Barré-Syndrom
+Critical-Illness-Polyneuropathie, Hypophosphatämie, Magnesiummangel, Myasthenia gravis
+obstruktive Lungenfunktionsstörungen (Asthma bronchiale, COPD, Sonderform obstruktives Schlaf-Apnoe-Syndrom)
+restriktive Lungenfunktionsstörungen (z. B. Verlust von Lungengewebe, eingeschränkte Beweglichkeit des Brustkorbes, Skoliose, Trichterbrust)
+Störung der zentralnervösen Atmungssteuerung
+medikamentös durch Opioide oder Narkotika
+organisch bei zentralem Schlaf-Apnoe-Syndrom im Rahmen einer Herzschwäche oder durch Fettleibigkeit (Obesitas-Hypoventilations-Syndrom)  bedingt
+
+
+== Therapie ==
+Bei chronischen Lungenfunktionsstörungen (z. B. COPD) kann sich der Körper bis zu einem gewissen Maß an die veränderten Bedingungen anpassen. Es kommt zu einer Gewöhnung an den verminderten Sauerstoffgehalt des Blutes. Die Veränderungen des Säure-Base-Haushalts durch das erhöhte Kohlendioxid wird durch eine vermehrte Ausscheidung von Säuren über die Nieren kompensiert. Trotzdem sollte die Grundkrankheit optimal behandelt und die Ursache (z. B. Rauchen) beseitigt werden.
+Tritt die Hypoventilation plötzlich auf, wie es bereits bei Kurznarkosen beispielsweise im Rahmen einer Magenspiegelung häufig vorkommt, kann durch Gabe von Sauerstoff ein kritischer Abfall des Blutsauerstoffes verhindert werden. Voraussetzung ist, dass die Atmung grundsätzlich noch funktioniert. Ist diese Maßnahme nicht ausreichend, kann zunächst über eine Mund-zu-Mund-Beatmung oder eine Masken-Beatmung der Gasaustausch gewährleistet werden. Bei einem länger anhaltenden Problem wird dies mit maschineller Unterstützung im Rahmen einer nicht-invasiven Maskenbeatmung oder invasiven Beatmung nach Intubation durchgeführt.
+Eine Sonderform stellen die häufig nicht bemerkten Atemregulationsstörungen im Schlaf (Schlaf-Apnoe-Syndrome) dar. Nach Therapie einer auslösenden Grundkrankheit (schlecht eingestellter Bluthochdruck, Herzschwäche, Schnarchen) wird im Schlaflabor eine nichtinvasive Maskenbeatmung angepasst.
+
+		
+		
+		
+
+
+== Siehe auch ==
+Hyperventilation
+
+
+== Einzelnachweise ==

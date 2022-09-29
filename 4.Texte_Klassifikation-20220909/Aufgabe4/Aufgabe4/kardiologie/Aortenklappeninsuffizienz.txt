@@ -1,0 +1,68 @@
+Mit Aortenklappeninsuffizienz oder kurz Aorteninsuffizienz wird in der Medizin der mangelhafte Schluss der Aortenklappe des Herzens mit dadurch bedingtem diastolischem Rückfluss von Blut aus der Aorta in die linke Herzkammer bezeichnet.
+Leichte Formen der Aorteninsuffizienz können häufig in einer Ultraschalluntersuchung des Herzens beobachtet werden. Mittelgradige und schwere Formen sind in den letzten Jahren seltener geworden, da das rheumatische Fieber als häufigste Ursache dieser zweithäufigsten Klappenerkrankung früher erkannt und antibiotisch behandelt wird.
+
+
+== Ursachen ==
+Am häufigsten sind entzündliche Prozesse ursächlich für eine Aorteninsuffizienz. Bakterielle Entzündungen (Endokarditis) können die Aortenklappe befallen und eine Insuffizienz verursachen, indem sie ihre Struktur zerstören. Rheumatische Klappenfehler entstehen als Spätfolge eines Infektes. Bei dem Infekt bildet der Körper Antikörper gegen die Bakterien (meist Streptokokken); diese Antikörper können dann das Gewebe der Herzklappen befallen und Schrumpfung oder beschleunigten Verschleiß verursachen. Diese Klappenfehler sind in Mitteleuropa selten geworden, da die Bakterieninfekte meist frühzeitig genug mit Antibiotika behandelt werden. Andere Autoimmunerkrankungen können auf ähnlichem Weg zur Aortenklappeninsuffizienz führen. Eine Aortenklappeninsuffizienz kann ebenfalls durch Überdehnung der Klappenelemente (Klappentaschen) entstehen; dies betrifft meist Menschen jenseits des 60. Lebensjahres.
+Eine angeborene Aortenklappeninsuffizienz ist selten. Angeborene Klappenfehler, wie die bikuspide oder unikuspide Anlage (Zweizipfligkeit bzw. Einzipfligkeit) der Aortenklappe können jedoch durch beschleunigten Verschleiß zu einer relevanten Insuffizienz bereits im 2. oder 3. Lebensjahrzehnt führen. Dies trifft besonders auf die Aortenklappen zu, die im Säuglings- oder Kleinkindesalter wegen einer angeborenen Aortenklappenstenose mit Ballonvalvuloplastie (das „Sprengen“ der verengten Aortenklappen mit Hilfe eines Ballonherzkatheters) oder einer Kommissurotomie (Durchtrennung bzw. Sprengung verwachsener Herzklappen durch den Chirurgen mit dem Finger oder einem Instrument) behandelt wurden.
+Ein weiterer wichtiger Mechanismus, der zu einer Insuffizienz der Aortenklappe führt, ist die Erweiterung der Aorta (Aortenaneurysma), besonders der aufsteigenden Aorta (Aorta ascendens). Hierbei wird dann die Klappe quasi auseinandergezogen, und die Klappentaschen verlieren den notwendigen Kontakt. Häufige Ursachen hierfür sind Atherosklerose oder Bindegewebserkrankungen (z. B. Marfan-Syndrom oder Ehlers-Danlos-Syndrom). Neuerdings werden auch Entzündungen der Aorta im Rahmen von Autoimmunerkrankungen vermehrt beobachtet. Eine Sonderform ist die Mesaortitis luetica (Syn. Mesaortitis luica, Mesaortitis syphilitica) bei Syphilis. Auch bei der Aortendissektion kann eine Verziehung und dann Undichtigkeit der Klappe entstehen.
+
+
+== Pathophysiologie ==
+In Abhängigkeit vom Ausmaß der chronischen Aortenklappeninsuffizienz und der Höhe des Entleerungswiderstandes in der Aorta kann das Rückstromvolumen bis zu 2/3 des Auswurfvolumens (normales Schlagvolumen 40–70 ml) der linken Herzkammer betragen, gelegentlich auch als Diastolisches Aortenanzapfsyndrom bezeichnet. Dadurch kommt es zu einer charakteristisch hohen Blutdruckamplitude.
+Dieses Pendelblut vermehrt, vor allem bei zu niedrigen Herzfrequenzen, die diastolische Füllung der linken Kammer und führt zu einer Volumenbelastung dieses Herzabschnittes mit der Folge einer exzentrischen Hypertrophie.
+Dabei bleibt zunächst das Verhältnis Wanddicke zu Volumen im Bereich der Norm.
+Eine gesteigerte Dehnbarkeit setzt den linken Ventrikel in die Lage, auch größere Volumina ohne stärkeren Anstieg des enddiastolischen Druckes aufzunehmen.
+Nach oft jahrzehntelangem Verlauf kommt es durch die Überbelastung zu einer muskulären Dysfunktion des Herzmuskels, sodass es allmählich zu einer schwerwiegenden Linksherzinsuffizienz kommt. – Statt vom Rückstromvolumen spricht man auch vom Blutrückstrom, vom Pendelvolumen, vom Rückfluss (Rückstrom, Reflux) oder von der Regurgitation.
+Bei einer akut auftretenden Aorteninsuffizienz (z. B. nach Aortenklappenabriss, Klappenperforation oder plötzlicher Schlussunfähigkeit bei der Aortendissektion) kommt es zu einem sofortigen Anstieg des enddiastolischen Druckes in der linken Herzkammer (unter Umständen auf bis zu 60 mm Hg!). Dabei kommt es zur Lungenstauung, Lungenödem und Verkleinerung des Herzzeitvolumens. Durch den hohen Druckanstieg tritt der Mitralklappenschluss vorzeitig auf – ein charakteristisches Zeichen einer schweren AI. Die Blutdruckamplitude kann im Gegensatz zur chronischen AI gleich bleiben, besonders dann, wenn die Patienten tachykard sind.
+
+
+== Symptome und Untersuchungsbefunde ==
+Leichtere Formen werden vom Betroffenen nicht bemerkt. Bei ausgeprägteren Formen stellt Atemnot das entscheidende Symptom dar. Weitere mögliche Symptome bzw. Befunde sind:
+
+große Blutdruckamplituden mit niedrigem diastolischen Blutdruck z. B. 150/60 mm Hg
+abgeschwächter 2. Herzton bei schwerer Insuffizienz
+Herzgeräusche:Frühdiastolisches, „gießendes“ Decrescendogeräusch direkt nach dem 2. Herzton mit punctum maximum über Erb-Punkt
+Austin-Flint-Geräusch, rumpelndes mittdiastolisches bis präsystolisches Geräusch mit punctum maximum über der HerzspitzePuls: pulsus celer et altus (et frequens) (Wasserhammerpuls) mit Extraschlägen, Homo pulsans, pulssynchronem Kopfnicken (Musset-Zeichen), deutlich sichtbare Karotidenpulsation (Corrigan-Zeichen), sichtbarem Kapillarpuls (Quincke-Zeichen oder Quinckescher Kapillarpuls)
+meist auffällig blasse Gesichtsfarbe
+starke Linksverbreiterung des Herzens bei der Perkussion („Schuhform“)
+EKG-Veränderungen mit Zeichen der Linksherzbelastung (Sokolow-Lyon-Index)
+Röntgenbild: Erweiterung des linken Ventrikels als sogenannte „Schuhform“, abgerundete Herzspitze
+Fieber bei Endokarditis
+
+
+== Diagnostik ==
+Auskultation
+Echokardiografie, heute die schnellste und beste Methode
+EKG
+Herzkatheteruntersuchung
+Thoraxröntgen
+Phonokardiografie
+
+
+== Schweregradeinteilung ==
+
+
+== Therapie ==
+Bei geringem Rückfluss ist keine Therapie erforderlich. Für eine medikamentöse Therapie mit die Nachlast senkenden Medikamenten (Calciumantagonisten, Nitropräparate, ACE-Hemmer etc.) fehlt der Nachweis der Wirksamkeit, falls nicht gleichzeitig ein arterieller Hypertonus besteht. Eine operative Versorgung mittels künstlicher Herzklappe (erstmals 1952 von Charles A. Hufnagel erfolgreich durchgeführt) sollte bei Symptomatik (z. B. Luftnot) oder Zeichen der Überlastung des linken Herzens (Ejektionsfraktion kleiner 50 %, endsystolischer Durchmesser des linken Ventrikels größer 50 mm) erwogen werden. Eine akute Aortenklappeninsuffizienz bedarf meist der sofortigen Operation.Die langfristig effektiven Therapiemöglichkeiten normalisieren die Funktion der Klappe. Traditionell ist die Standardbehandlung der Ersatz der Aortenklappe; bei jüngeren Menschen wird eine mechanische Herzklappe empfohlen, bei älteren (> 60 bis 65 Jahre) eine biologische Prothese. Die Bioprothesen bestehen aus biologischem Material, entweder einer Aortenklappe vom Schwein oder eine genähte Klappe aus anderem Material, wie Gewebe eines tierischen Herzbeutels (Perikard). In den letzten Jahrzehnten sind für viele Ursachen der Aorteninsuffizienz rekonstruktive Verfahren entwickelt worden. Besonders bei Vorliegen eines Aortenaneurysmas, bei bikuspider Aortenklappe oder Überdehnung einer Klappentasche ist die Aortenklappenrekonstruktion erfolgversprechend und führt zu guten langfristigen Ergebnissen. Dagegen ist die Implantation einer durch Tissue Engineering aufbereiteten Klappe noch experimentell. Ähnliches trifft auf den Einsatz von Katheterklappen zu.
+
+
+== Siehe auch ==
+Herzfehler, Aortenklappenstenose, Mitralklappeninsuffizienz, Mitralklappenprolaps, Pulmonalstenose, Pulmonalklappeninsuffizienz, Trikuspidalklappeninsuffizienz
+
+
+== Literatur ==
+Hans Joachim Schäfers: Klinische Grundlagen der Herz- und Thoraxchirurgie. 4., aktualisierte und ergänzte Auflage. ABW Wissenschaftsverlagsgesellschaft, 2011.
+Hans Joachim Schäfers: Current treatment of aortic regurgitation. UNI-MED, 2013
+Guidelines on the management of valvular heart disease. In: European Heart Journal. The Task Force on the Management of Valvular Heart Disease of the European Society of Cardiology, 2007, abgerufen am 26. März 2009 (PMID 17259184). 
+S2k-Leitlinie Aortenklappeninsuffizienz der Deutschen Gesellschaft für Pädiatrische Kardiologie (DGPK). In: AWMF online (Stand 2013)
+Reinhard Larsen: Anästhesie und Intensivmedizin in Herz-, Thorax- und Gefäßchirurgie. (1. Auflage 1986) 5. Auflage. Springer, Berlin/Heidelberg/New York u. a. 1999, ISBN 3-540-65024-5, S. 260–268.
+Klaus Holldack, Klaus Gahl: Auskultation und Perkussion. Inspektion und Palpation. Thieme, Stuttgart 1955; 10., neubearbeitete Auflage ebenda 1986, ISBN 3-13-352410-0, S. 163–167, 171 f., 178 f. und 196 f.
+
+
+== Weblinks ==
+Kommentar zur Europäischen Leitlinie „Herzklappenerkrankungen“ auf leitlinien.dgk.org
+Einrichtungen, Kliniken, Institute, Chirurgie, Herzchirurgie für Patienten, Eingriffe, Herzklappen-Operationen
+
+
+== Einzelnachweise ==

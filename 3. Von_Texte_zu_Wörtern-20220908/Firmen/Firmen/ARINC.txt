@@ -1,0 +1,40 @@
+Der Name ARINC ist eine Abkürzung für die Firma Aeronautical Radio Incorporated aus Annapolis, Maryland, USA. Die Firma besteht seit 1929 und hat sich in den vergangenen Jahren speziell in der Luftfahrt und im Bereich Avionik einen Namen damit gemacht, dass etliche Kommunikationsprotokolle zwischen verschiedenen Computersystemen auf Basis von ARINCs Empfehlungen standardisiert wurden. Es besteht kaum ein Unterschied zwischen ziviler oder militärischer Anwendung, für beide Versionen hat ARINC Standards definiert. Die Firma beschäftigte 2003 ungefähr 3.200 Mitarbeiter in ca. 104 Ländern und hatte einen Jahresumsatz von mehr als 600 Millionen US-$.
+
+
+== Standards ==
+Am bekanntesten ist wohl der Standard ARINC 429. Flugzeuge von Airbus und Boeing benutzen dieses Protokoll, um verschiedene Systeme miteinander zu verbinden. Der Standard für Navigationsdaten wird mit dem ARINC-424-Protokoll definiert. Darin wird das Datenformat für den Austausch der Navigationsdaten zwischen Nav-Data-Provider (Lufthansa Systems FlightNav AG (ehemals LIDO Flight Nav) , Jeppesen Sanderson, EAG) und Avionics-Hersteller (Honeywell, Smith, Rockwell Collins usw.) definiert. Weitere verbreitete Standards sind ARINC 615 und das speziell für die Boeing 777 entwickelte ARINC-629-Protokoll, eine Weiterentwicklung des ARINC-429-Protokolls. Das unter dem Begriff AFDX bekannte ARINC-664-Protokoll basiert auf dem außerhalb der Luftfahrt weit verbreiteten Ethernet-Standard. Es wird unter anderem im Airbus A380 und in der Boeing 787 eingesetzt.
+Die Firma ARINC hat in Amerika einen ähnlichen Status wie das IEEE-Konsortium. Von ihr werden allgemein gültige Standards definiert und nebenbei auch kommerzielle Entwicklung und Dienstleistung betrieben.
+
+
+== Kategorien ==
+400 Series: Richtlinien für Installationen, Bussysteme, Verdrahtung etc.
+500 Series: Analoge Avionikausrüstungen (eingesetzt unter anderem in Flugzeugen wie der Boeing 727, Douglas DC-9, DC-10, und frühen Modellen der Boeing 737, 747 und Airbus A300)
+600 Series: Design-Grundlagen für Ausrüstung der ARINC-700-Serie
+700 Series: Digitale Systeme und Ausrüstung für moderne Flugzeuge, neue Datenprotokolle
+800 Series: Technologien zur Unterstützung von Vernetzung im Flugzeug; Standards für Glasfaserverbindungen und Hochgeschwindigkeitsbusse
+900 Series: Avioniksysteme für integrierte modulare und vernetzte Komponenten
+
+
+== Liste der ARINC-Standards (Auswahl) ==
+ARINC 404: Standard, der die Bauformen von Flugzeugausrüstung definiert
+ARINC 424: Format für Flugnavigationsdaten
+ARINC 429: Klassischer Datenbus für Verkehrsflugzeuge
+ARINC 453: Datenbus für die Übertragung vom Wetter-Radar zum Display, Nachfolger: ARINC 708
+ARINC 485: Datenbuskommunikation über RS485
+ARINC 575: Definiert das Datenformat für ARINC 424
+ARINC 613: Ada in Avionik-Systemen
+ARINC 615: Standard zum Laden von Daten auf Flugzeugsysteme
+ARINC 619: ACARS protocol for avionics end systems
+ARINC 629: Datenbus für Zivilflugzeuge (Boeing 777), Weiterentwicklung von ARINC 429
+ARINC 653: Avionics Application Software Standard
+ARINC 661: Standard zur Implementierung von Glascockpit-Anzeigen
+ARINC 664: Ethernet-Protokoll AFDX für Flugzeuge
+ARINC 708: Standard für Flugwetterradarsysteme
+ARINC 717: Datenbus zum Flugdatenaufzeichnungsgerät
+ARINC 763: Netzwerkserver
+ARINC 812: Galley Systems (Bordküche)
+ARINC 825: Auf CAN basierender Datenbus für Airbus und Boeing
+ARINC 826: Software Loader
+
+
+== Einzelnachweise ==

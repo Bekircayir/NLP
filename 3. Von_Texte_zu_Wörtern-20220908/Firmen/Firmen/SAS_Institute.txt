@@ -1,0 +1,53 @@
+Das SAS Institute ist ein 1976 gegründetes, weltweit operierendes Softwarehaus in Privatbesitz mit Sitz in Cary, North Carolina, USA mit 3,02 Mrd US$ Jahresumsatz im Jahr 2013. Damit ist SAS Institute das größte Softwareunternehmen in Privatbesitz und größter Business-Analytics-Anbieter weltweit.
+Wichtigstes Produkt von SAS Institute ist das gleichnamige Produkt SAS (Aussprache [ˈsaːsː]). Der Name stand ursprünglich als Abkürzung für Statistical Analysis Systems, heute wird der ursprüngliche Sinn der Abkürzung nicht mehr kommuniziert. Außerdem entwickelt SAS die kostenlose Online-Plattform Curriculum Pathways, welche in Lehreinrichtungen aller 50 Bundesstaaten der USA genutzt wird.
+
+
+== Unternehmen ==
+SAS ist im Gegensatz zu anderen großen Softwarefirmen in privater Hand. Besitzer sind CEO James Goodnight und EVP John Sall.
+SAS bietet als Arbeitgeber in den USA zahlreiche Extras: Die Firma subventioniert neben ihrer Kantine einen Fitnessclub, Massagen, Friseur, Kinderbetreuung, Sportplätze, Joggingpfade, eine Schönheitsfarm, eine Work-Life-Balance-Beratung und eine Klinik. Es gibt keine Großraumbüros.
+Die deutsche Hauptniederlassung befindet sich im Haarlass in Heidelberg, das Hauptbüro für Österreich in Wien und das Hauptbüro für die Schweiz in Wallisellen in der Nähe von Zürich.
+
+
+== Produkte ==
+SAS stellt Software für statistische Analysen, Data-Mining, Data-Warehouse-Lösungen und Business-Intelligence einschließlich OLAP-Servern und Komponenten her. Darüber hinaus entwickelte SAS von Anfang an Software für das IT-Management, die heute für das IT-Performance Management, IT Capacity Management, IT Scorecard und das IT-Controlling eingesetzt wird. Dadurch werden Anforderungen, die zum Beispiel aus ITIL resultieren (zum Beispiel Service-Management), abgedeckt. SAS bietet heute spezielle Lösungen für praktisch alle Industriezweige und Unternehmensbereiche, von Predictive Analytics, Web Analytics, Text Mining und Data Mining über Business-Intelligence-Plattformen bis hin zu Lösungen für Customer Intelligence (CI), Risk Intelligence (RI) oder Supply Chain Intelligence (SCI).
+SAS wurde ursprünglich mit PL/1 auf und für den IBM-Mainframe entwickelt, mit der Version 6 auf C portiert und steht mittlerweile auf vielen Hardware-Plattformen zur Verfügung, wie z. B. IBM Mainframe (z/OS), Unix, Windows und HP.
+SAS bietet performante Lösungen für annähernd jede Branche, Rolle oder Anforderung, sei es ETL, Datenbereinigung oder Sustainability Management, IT-Management sowie Performance Management. Für Hochleistungsrechnen bietet SAS Technologien wie zum Beispiel In-Memory Analytics, In-Database Computing und Grid-Computing an.
+Für PCs unter Microsoft Windows und Mac OS X wird das integrierte System JMP (Aussprache [ˈd͡ʒʌmp]) angeboten.
+Daneben bietet SAS weitere, weitestgehend GUI-basierte Lösungen an, unter anderem Enterprise Guide, INSIGHT, LAB oder Analyst Application. Viele Unternehmen mit großen bis sehr großen Datenmengen maßschneidern hauseigene Analyse-Plattformen basierend auf der Software von SAS Institute.
+Neben dem eigenen Datenbankformat existieren Schnittstellen zu anderen Datenquellen, zum Beispiel relationalen Datenbanken, Microsoft Office- und anderen Applikationen, Text- oder XML-Dateien.
+Programmiert wird SAS in einer proprietären Programmiersprache der vierten Generation, bestehend aus Base SAS und der SAS Macro Language. Base SAS besteht typischerweise aus einer Abfolge von Datenschritten (Data Steps) und Prozedurschritten (Proc Steps, kurz für Procedure steps):
+Die Datenschritte gestalten das Einlesen von Daten und das vorbereitende Datenmanagement.
+Die Prozedurschritte gestalten einfache bis komplexe statistische Auswertungen, aber auch die Erzeugung graphischer Darstellungen oder die Berichterstellung.
+Mit der Prozedur PROC SQL ist die Datenbearbeitung mit SQL möglich.
+Programme in C, Java und R können eingebunden werden. SAS Software läuft unter fast allen gängigen Hardwareplattformen.
+Konkurrenzprodukte von SAS sind je nach Aspekt:
+Business Objects von SAP
+Hyperion von Oracle
+Cognos von IBM
+SPSS, ebenfalls von IBM
+Die Business-Intelligence-Komponente von Microsoft SharePoint 2013
+R von The R Foundation for Statistical Computing
+TIBCO Spotfire Analytics von TIBCO
+MicroStrategy
+World programming System (WPS)
+QlikView
+
+
+== Siehe auch ==
+Liste von Statistik-Software
+
+
+== Literatur ==
+Schendera, CFG (2011). SQL mit SAS: PROC SQL für Einsteiger. München: Oldenbourg.
+Schendera, CFG (2012). SQL mit SAS: PROC SQL für Fortgeschrittene. München: Oldenbourg.
+Schendera, CFG (2004). Datenmanagement und Datenanalyse mit dem SAS System. München: Oldenbourg.
+
+
+== Weblinks ==
+
+SAS Deutschland
+SAS Schweiz
+SAS Austria
+
+
+== Einzelnachweise ==

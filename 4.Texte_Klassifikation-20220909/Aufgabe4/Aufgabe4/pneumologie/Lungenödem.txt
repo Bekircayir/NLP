@@ -1,0 +1,55 @@
+Lungenödem (pulmonales Ödem, umgangssprachlich Wasserlunge) ist eine unspezifische Bezeichnung für eine durch Austreten von Blutflüssigkeit (Plasma) aus den Kapillargefäßen in das Zwischengewebe und in die Lungenbläschen entstandene Flüssigkeitsansammlung in der Lunge. Wegen des Ödems sind chronische Stauungslungen feucht und schwer. Durch diese Durchtränkung der Lunge kann die betroffene Person nicht mehr ausreichend Sauerstoff in den Blutkreislauf aufnehmen. Als Symptome treten eine Atemnot als Folge einer erhöhten Atemarbeit, eine rasselnde Atmung oder ein schaumiger Auswurf auf. Lungenödeme werden je nach Ursache in Permeabilitätsödeme (ARDS, toxisches Lungenödem) und hydrostatische Lungenödeme (kardiales Ödem und Höhenödem) unterteilt. Formal wird die Permeabilität (der Wasserfluss durch die Gefäßwand hindurch) durch die Starling-Gleichung (Starling-Konzept) beschrieben.
+
+
+== Formen ==
+
+
+=== Lungenstauung ===
+Eine geringere Ausprägung des Lungenödems ist die subakute oder chronische Form, welche als Lungenstauung bezeichnet wird. Auch beim Konsum von Heroin und bei der Verbrauchskoagulopathie kann es zu Lungenstauungen bis hin zum Lungenödem kommen. Eine Stauungslunge kann zudem mit einer Stauungsbronchitis verbunden sein.
+
+
+=== Kardiales Lungenödem ===
+Das kardiale Lungenödem (genannt auch kardiogenes Lungenödem), die häufigste Form des Lungenödems, ist keine Lungenkrankheit. Es entsteht bei akuter Linksherzinsuffizienz im Niederdrucksystem. Ursache des Versagens der linken Herzhälfte ist meistens eine akute Dekompensation einer chronischen Herzinsuffizienz, bei der die linke Herzhälfte aufgrund einer Pumpschwäche den Blutrückfluss aus der Lunge nicht mehr vollständig bewältigen kann. Es kommt zu einem Rückstau des Bluts in den Lungengefäßen und – wegen des dadurch erhöhten intravasalen Blutdruckes im kleinen Kreislauf – zu einem Austreten von Flüssigkeit in das Lungengewebe. Dadurch wird der Gasaustausch massiv eingeschränkt. Oft atmen die Patienten keuchend (Asthma cardiale), sie sind unruhig und haben Erstickungsängste (Im 19. Jahrhundert nannte man sowohl das Asthma, cardiale bzw. bronchiale, als auch das Lungenödem Stickfluss). Gewöhnlich besteht eine ausgeprägte Zyanose.
+Ein akutes Lungenödem bei Linksherzinsuffizienz ist ein medizinischer Notfall, der unbehandelt zum Atemstillstand und damit in wenigen Minuten zum Tod des Patienten führen kann. Eine frühzeitige Alarmierung von Rettungsdienst und Notarzt ist erforderlich.
+
+
+==== Therapie ====
+Behandelt wird notfallmäßig mit Oberkörperhochlagerung, was bereits von Ersthelfern durchgeführt werden kann, mit Sauerstoffgabe wegen der erschwerten Sauerstoffaufnahme in der Lunge, mit Opiaten zur Schmerzbekämpfung und Sedierung sowie als Antitussivum, mit Katecholaminen, mit Nitroglyzerin und vor allem mit einer Diuretika-Gabe zur forcierten Diurese. Manchmal können eine Nierendialyse oder (besonders bei gleichzeitiger Polyzythämie) ein Aderlass indiziert sein. Früher wurde erst ein bereits "sprudelndes Lungenödem" mit einem Beatmungsgerät behandelt; bei unsachgemäßer Beatmung wurde dadurch manchmal sogar ein Lungenödem ausgelöst oder verschlimmert.
+
+
+=== Nichtkardiale Lungenödeme ===
+
+
+==== Akutes Lungenversagen ====
+
+Das akute Lungenversagen (englisch Acute Respiratory Distress Syndrome, ARDS) entsteht als Folge einer erhöhten vaskulären Permeabilität, entweder aufgrund von Entzündungsvorgängen oder aufgrund von Giften (toxisches Lungenödem). Klinisch wird das ARDS definiert durch typische Verschattungen im Röntgenbild, eine Hypoxämie, den Ausschluss eines kardialen Ödems (s. o.) und durch seinen akuten Beginn.
+Häufige Ursachen eines ARDS sind Sepsis, Polytrauma, Aspiration des Mageninhaltes oder schwere Verbrennungen. Auch das erst seit wenigen Jahren beschriebene SARS-Virus führt zum klinischen Bild des ARDS. Ein ARDS tritt häufig im Zusammenhang mit dem Ausfall weiterer Organe auf (Multiorganversagen). Die Letalität bei Vorliegen eines ARDS liegt auch bei frühzeitigem Therapiebeginn immer noch bei etwa 50 Prozent.
+
+
+==== Höhenlungenödem ====
+
+Ein Höhenlungenödem (kurz: Höhenödem, engl. high altitude pulmonary edema, HAPE) kann bei der Höhenkrankheit auftreten. Es entsteht durch einen erhöhten pulmonal-arteriellen Druck als Folge der Hypoxie aufgrund des Euler-Liljestrand-Mechanismus. Gewöhnlich entwickelt es sich ein bis drei Tage nach einem schnellen Aufstieg auf über 2700 m. Es ist ein Hochdrucködem mit erhöhter mikrovaskulärer Permeabilität und mit übermäßiger Vasokonstriktion. Symptome sind zunehmende Atemnot, Reizhusten mit schaumigem oder blutigem Auswurf, Zyanose, Körperschwäche sowie in späteren Stadien ein Koma. Die kausale Therapie ist der sofortige Abstieg oder ein Rücktransport in tiefere Lagen. Ähnliche Symptome gibt es bei der subakuten Bergkrankheit bei Kindern besonders der Han-Chinesen nach Geburten in großer Höhe und bei der chronischen Höhenkrankheit bei Langzeitbewohnern großer Höhen (Monge-Krankheit nach dem Erstbeschreiber Carlos Monge Medrano, 1925) mit einer Polyzythämie und Beschwerden wie bei der Pickwick-Krankheit. So wie beim Höhenödem können Lungenödeme auch beim Barotrauma und beim Ertrinken entstehen.
+
+
+==== Postobstruktionslungenödem ====
+Eine seltene Form des Lungenödems ist das Postobstruktionslungenödem (englisch negative pressure pulmonary edema, NPPE). Dieses entsteht durch einen negativen Luftdruck in der Lunge, welcher bei der Kombination von verschlossenen oberen Atemwegen und gleichzeitiger tiefer Einatmung vorkommen kann. Ursachen hierfür können beispielsweise Laryngospasmen, Zubeißen des Endotrachealtubus oder der Larynxmaske bei der Narkoseausleitung oder andere Atemwegsverlegungen sein. Außerdem kommt ein unsachgemäßes Vorgehen beim Absaugen als weitere Ursache in Frage. Das NPPE ist durch einen raschen Beginn nach entsprechendem Vorfall gekennzeichnet.
+
+
+=== Zerebrales Lungenödem ===
+Das zerebrale oder neurogene Lungenödem entsteht bei Hirnläsionen, also als Folge akuter zerebraler Prozesse. Man spricht auch vom zentralen Lungenödem zum Beispiel als Folge von Schädelhirntraumen oder Meningoenzephalitiden. Auch können ein Sonnenstich oder eine Epilepsie zum zerebralen Lungenödem führen. Nach einer Subarachnoidalblutung kann es zu einer neurogenen Zentralisation des Blutes mit Anstieg des Lungenvolumens kommen.Davon abzugrenzen sind zerebrale Folgen eines Lungenödems und andere Auswirkungen auf das Zentralnervensystem.
+
+
+== Symptome ==
+Die Symptome sind sowohl beim kardialen als auch beim toxischen oder allergischen Lungenödem vertreten.
+Patienten mit einem Lungenödem leiden unter Unruhe, Erstickungsangst, schwerster Atemnot (auch in Ruhe) bis hin zur Zyanose. Sie sitzen meist von selbst mit aufrechtem Oberkörper, um so den Einsatz der Atemhilfsmuskulatur zu ermöglichen (Orthopnoe). Beim Ein- und Ausatmen sind Brodeln und feuchte Rasselgeräusche hörbar, eventuell einhergehend mit spastischen Atemgeräuschen (Kochen auf der Brust). Weitere Anzeichen sind eine feuchte und kühle Haut (Kaltschweißigkeit) mit Blässe, ein tachykarder Puls, teils auch arrhythmisch, und ein unterschiedliches Blutdruckverhalten (z. B. hoch bei gleichzeitiger hypertensiver Krise oder niedrig bei Herzinsuffizienz mit kardiogenem Schock). Es kann beim Husten schaumiger und gar blutiger Auswurf auftreten.
+
+
+== Röntgendiagnostik ==
+Die Lunge zeigt beim Lungenödem typische in der Röntgenaufnahme des Brustkorbs sichtbare Veränderungen wie Kerley-Linien beim interstitiellen Lungenödem. Typische Zeichen eines erhöhten (außerhalb der Blutgefäße befindlichen) Wassergehalts der Lunge sind auch eine unscharfe Begrenzung zentraler Strukturen oder (bei ausgeprägtem alveolären Lungenödem) fleckige konfluieriende Verschattungen.
+
+
+== Literatur ==
+Ulrike Bungeroth (Hrsg.): Basics Pneumologie. 2. Auflage. Elsevier, Urban & Fischer, 2010, ISBN 978-3-437-42237-9, S. 72–73. 
+
+
+== Einzelnachweise ==

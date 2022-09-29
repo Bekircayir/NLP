@@ -1,0 +1,68 @@
+Das Endometriumkarzinom, auch Uterus- oder Korpuskarzinom (lat. Carcinoma corporis uteri) ist eine Krebserkrankung der Gebärmutterschleimhaut.
+
+
+== Histologie ==
+
+Histologisch handelt es sich in 85 % der Fälle um Adenokarzinome der Gebärmutterschleimhaut (Endometrium). Seltene Typen sind z. B. seröse und klarzellige Adenokarzinome oder Plattenepithelkarzinome. Der Grad der Entdifferenzierung (Entartung) der Krebszellen wird mit G1 (hochdifferenziert, dem Normalgewebe sehr ähnlich) bis G3 angegeben. Viele Karzinome exprimieren auf der Zelloberfläche Östrogen- und Progesteron-Rezeptormoleküle.
+
+
+== Stadieneinteilung ==
+Die Einteilung der FIGO und die der UICC sind identisch, sie beruht wie bei anderen soliden Krebserkrankungen auf dem TNM-System.
+
+Beispiel: Stadium IA (FIGO) = T1a (UICC) = auf die Schleimhaut begrenzter Tumor.Die Heilungschancen sind davon abhängig: beispielsweise 90 % im Stadium IA, 30 % im Stadium III. Undifferenzierte Tumoren sind schlechter heilbar als hochdifferenzierte.
+Stadien nach TNM-Klassifikation und FIGO (Fédération Internationale de Gynécologie et d’Obstétrique):
+
+
+== Molekularbiologie des Endometriumkarzinoms ==
+Über viele Jahrzehnte hielt man Endometriumkarzinome für einen einheitlichen Tumor mit guter Prognose. Östrogen-und Progesteron-Rezeptoren lassen sich in 70–80 % der Fälle nachweisen. Bokham stellte 1983 die Hypothese auf, dass es zwei verschiedene Typen von Endometriumkarzinomen gibt: solche mit und ohne Östrogen- und Progesteronrezeptoren. Beide Typen unterscheiden sich in der Prognose (schlechte Prognose ohne Rezeptoren), Krebsvorstufen (Endometriumhyperplasie als Vorstufe Rezeptor- positiver Tumoren) und Risikoprofilen (Ältere, übergewichtige Tumorpatientinnen: Rezeptor-positiv versus jüngere, schlanke Tumorpatienten: Rezeptor negativ). Inzwischen wurde eine größere Zahl molekulargenetischer Veränderungen untersucht:
+
+ In Anlehnung an Marnitz. Aufgrund des molekulargenetischen Profils lässt sich die Prognose besser abschätzen und die Therapie zielgenau durchführen.
+
+
+== Vorstufen und Frühformen ==
+
+Die Endometriumhyperplasie ohne Atypien ist eine gutartige Erkrankung, die nur bei Symptomatik (zum Beispiel anhaltende Blutung) einer Behandlung bedarf. Diese Schleimhautveränderungen entstehen durch einen anhaltenden Hyperöstrogenismus, bevorzugt bei postmenopausalen, stark übergewichtigen Frauen. Nur etwa 1 % der Patientinnen entwickeln später ein Endometriumkarzinom. Bei der Endometriumhyperplasie mit Atypien dagegen haben bis zu 30 % der Frauen im weiteren Verlauf ein invasives Endometriumkarzinom. Frauen, bei denen nach Feststellung einer Endometriumhyperplasie mit Atypien bei der Ausschabung eine Hysterektomie durchgeführt wurde, fanden dänische Forscher in 59 % der Präparate ein invasives Endometriumkarzinom, in 82 % im Stadium FIGO I. Aus diesem Grund empfiehlt die S3-Leitlinie Endometriumkarzinom bei allen Frauen mit Endometriumhyperplasie mit Atypien eine Hysterektomie, wenn kein Kinderwunsch mehr besteht. Aus der Endometriumhyperplasie mit Atypien entstehen vorwiegend Typ-I-Karzinome, nämlich endometroide und muzinöse Karzinome mit guter Prognose. Molekularbiologisch sind diese Tumoren durch Mutationen von PTEN, K-RAS, Beta-Catenin und Veränderungen im Mismatch-Reparatursystem charakterisiert.Nach dem dualistischen Modell zur Pathogenese des Endometriums nach Bokhman gibt es noch einen zweiten Weg zur Bildung von Endometriumkarzinomen. Diese sogenannten Typ-II-Karzinome entstehen auf dem Boden eines atrophen Endometriums oder innerhalb von glandulär-zystischen Endometriumpolypen. Zu den Typ-II-Karzinomen gehören auch die serösen und die klarzelligen Karzinome, die eine ungünstige Prognose aufweisen. Molekularbiologisch findet man eine Mutation von TP53, eine Überexpression von Cyclin E und Veränderungen im PIK3CA-Pathway.
+
+
+== Vorkommen ==
+Die Inzidenz von Endometriumkarzinomen ist in Nordamerika und Westeuropa mit 9,9 bis 15 Neuerkrankungen pro 100.000 Frauen und Jahr am höchsten. Die höchste Erkrankungsrate haben die USA. Hier erkranken 1,7 % der Frauen bis zum 75. Lebensjahr. In Deutschland wurden im Jahr 2002 mehr als 11.000 Neudiagnosen gestellt. Die Erkrankungsrate pro Jahr ist in den letzten Jahren gestiegen und liegt momentan bei 25:100.000 Frauen. Betroffen sind überwiegend (ca. 66–85 % je nach Quelle)
+Frauen im Klimakterium nach der Menopause. 5 % sind jünger als 40. Die Häufigkeit liegt in den westlichen Ländern etwa bei dem Doppelten des Zervixkarzinoms.
+
+
+== Ursachen ==
+Man nimmt an, dass langjährig erhöhte Östrogen-Konzentrationen die Tumorentstehung fördern; z. B. tragen Frauen mit Zyklusstörungen, später Menopause oder Hormonersatztherapie (Östrogen-Monotherapie oder kombinierte Östrogen-Gestagen-Therapie über mehr als sechs Jahre) ein höheres Risiko als der Bevölkerungsdurchschnitt. Die Zivilisationskrankheiten Übergewicht, Bluthochdruck und Diabetes Mellitus II erhöhen das Tumorrisiko. Bekannt ist, dass Adipositas die Östrogenproduktion steigert. Ob eine Gefährdung durch Phytoöstrogene (östrogenartige Substanzen in Nahrungsmitteln) besteht, ist bisher nicht geklärt. Gesichert ist aber, dass eine Hormontherapie ausschließlich mit Östrogenen das Risiko erhöht.
+Ursachen für erbliche Anfälligkeit für Endometriumkarzinom sind unter anderem Mutationen in Genen, die für DNA-Mismatch-Reparaturproteine kodieren.
+
+
+== Symptome und Diagnose ==
+
+Frühkarzinome können bereits vor dem Auftreten irregulärer Blutungen gelegentlich als Nebenbefunde im Abstrichmaterial bei der Früherkennung zum Gebärmutterhalskrebs entdeckt werden. Die bundesweite Statistik zählt für das Jahr 2015 etwas über 1.600 vorher unbekannte Endometriumkarzinome; das entspricht 15 % der jährlich neu aufgetretenen Malignome. Außerdem macht sich der Tumor schon früh durch Blutungen bemerkbar. Eine Blutung nach Beginn der Menopause ist darum immer verdächtig, wie auch irreguläre Blutungen und fleischwasserfarbener Ausfluss. 75 % aller Endometriumkarzinome werden im ersten Stadium festgestellt. Die 5-Jahres-Überlebensrate liegt dann bei 90 %. Unterleibsschmerzen bedeuten fast immer einen weit fortgeschrittenen, inoperablen Tumor. Die Diagnose wird durch eine Ausschabung der Gebärmutter (Abrasio uteri) gesichert.
+In den letzten Jahren hat durch die 3-D-Sonographie die Diagnostik des Endometriumkarzinoms eine Verbesserung erfahren. Durch die Volumensmessung und durch die dreidimensionale Darstellung gelingt es, einerseits das Karzinom genau zu erkennen und andererseits die benignen Veränderungen zu erfassen. Hiermit können überflüssige Eingriffe in Form von Kürettagen vermieden werden. Derzeit sind ca. die Hälfte der Kürettagen vermeidbar.
+
+
+== Behandlung ==
+Wenn immer möglich, sollen Korpuskarzinome operativ entfernt werden. Die Standardoperation erfolgt mittels Unterbauchlängsschnittes oder Bauchspiegelung und umfasst mindestens eine totale Gebärmutterentfernung sowie die Entfernung der Eierstöcke und Eileiter beidseits. Abhängig vom Stadium kann unter anderem die Mitentfernung mindestens der uterusnahen Hälfte vom Gebärmutterbindegewebe, die Mitnahme einer Scheidenmanschette, die Freilegung beider Harnleiter und die Entfernung von Lymphknoten im kleinen Becken (pelvine Lymphadenektomie) und entlang der Bauchaorta bis zum Abgang der Nierenarterien (paraaortale Lymphadenektomie) zusätzlich erforderlich sein (radikale Hysterektomie nach Piver II / III bzw. Wertheim-Meigs-Operation). Höhere Stadien sollten danach eine Strahlentherapie erhalten. Inoperable Tumoren werden nur bestrahlt. Bei serös papillärem und klarzelligem Endometriumkarzinom wird neuerdings eine adjuvante Chemotherapie angewandt.
+
+
+== Prognose ==
+Die Prognose des häufigsten Typs, des endometrioiden Adenokarzinoms, ist mit einer Letalität, also dem Risiko an der Krankheit zu versterben, von 6 % relativ gut. Bei den anderen Arten schwankt die Letalität zwischen 21 % und 51 %. Wie bei allen Tumoren verschlechtert auch eine fehlende Differenzierung der Zellen, d. h. eine große Veränderung der ursprünglichen Drüsenzellen, die Prognose.
+Im Schnitt überleben 80 % der Erkrankten fünf Jahre nach Diagnosestellung. In Stadium I sind es sogar 90 %, in Stadium II 83 %, im Stadium III 43 %.
+Nach zwei Jahren wird ein Rezidiv, also ein erneutes Wachstum von Tumorzellen, unwahrscheinlich. Allerdings bleibt für den Rest des Lebens ein erhöhtes Risiko, ein Mammakarzinom zu entwickeln.
+
+
+== Siehe auch ==
+Zervixkarzinom
+Müllerscher Mischtumor
+
+
+== Weblinks ==
+S3-Leitlinie Diagnostik, Therapie und Nachsorge der Patientinnen mit Endometriumkarzinom der Deutschen Gesellschaft für Gynäkologie und Geburtshilfe (DGGG). In: AWMF online (Stand 04/2018)
+Dissertation zum Thema. (PDF; 6,1 MB)
+
+
+== Literatur ==
+Klaus Diedrich, Wolfgang Holzgreve, Walter Jonat, Askan Schultze-Mosgau, Klaus-Theo M. Schneider: Gynäkologie und Geburtshilfe. Springer Verlag, 2006, ISBN 3-540-32867-X (Volltext in der Google-Buchsuche). 
+Dominik Denschlag, Uwe Ulrich, Günter Emons: Diagnostik und Therapie des Endometriumkarzinoms: Fortschritt und Kontroversen. In: Dtsch Arztebl Int. Nr. 108(34-35), 2011, S. 571–577 (Übersichtsarbeit). 
+
+
+== Einzelnachweise ==

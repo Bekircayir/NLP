@@ -1,0 +1,67 @@
+Als eine Rhinitis („Nasenentzündung“; griechisches Kunstwort ρινίτις aus rhīs, „Nase“ und -itis, „Entzündung“) oder eine Koryza (auch in latinisierter Schreibweise Coryza; gelehrtes Griechisch κόρυζα für „Erkältung“; deutsch auch Rotz) wird eine akute oder chronische Entzündung der Schleimhaut (Nasenschleimhautentzündung) durch infektiöse, allergische und pseudoallergische Mechanismen bezeichnet. Am häufigsten tritt sie im Rahmen einer Erkältung auf und wird dann als Nasenkatarrh oder Schnupfen bezeichnet.
+
+
+== Formen von Rhinitis ==
+
+
+=== Rhinitis acuta ===
+Bei der akuten Rhinitis – dem gewöhnlichen Schnupfen – handelt es sich in der Regel um einen harmlosen Infekt und damit um eine „infektiöse Rhinitis“, die durch eine Vielzahl von Viren – vor allem Rhinoviren (eine Gattung der Picornaviren) und Adenoviren – ausgelöst werden kann. Hauptmerkmal ist eine laufende Nase (Rhinorrhoe) und die Verstopfung der Nase durch die Anschwellung der Schleimhäute.
+Insgesamt sind mehr als 200 „Schnupfenviren“ mögliche Auslöser einer viralen Rhinitis, wie sie im Rahmen einer „Erkältung“ auftritt. Darunter fallen auch Erreger wie das Poliovirus und die drei Subtypen des Influenzavirus.
+Es war bisher nicht möglich, einen Impfstoff gegen eine Rhinitis zu entwickeln. Es gibt Nasensprays, die den Atemweg kurzzeitig befreien (zum Beispiel mit den Wirkstoffen Tramazolin und Xylometazolin), diese wirken jedoch nur symptomatisch. Nasensprays mit dem Wirkstoff Oxymetazolin haben eine direkte antivirale Wirkung durch Verhinderung der Expression von ICAM-1, einem Rezeptor für das humane Rhinovirus. Bei längerem Gebrauch von Nasensprays (Anwendung deutlich über eine Woche hinausgehend) wird häufig ein medizinischer Schnupfen (Privinismus) entwickelt, bei dem die Nasenschleimhaut ohne Wirkstoffzufuhr nicht mehr auf Normalniveau abschwillt. Bei diesen Wirkstoffen handelt es sich um α-Sympathomimetika, die nach Absetzen zu einem sogenannten Rebound-Phänomen führen können. Zur Linderung der Symptome werden Inhalationen von Salzwasserdampf sowie in Drogeriemärkten und Apotheken erhältliche Meerwasser-Nasensprays angewendet.
+Die Inkubationszeit (Zeit zwischen Infektion und Auftreten der ersten Symptome) beträgt zwischen wenigen Stunden und sieben Tagen, Symptome sind:
+
+Niesen oder Niesreiz
+Juckreiz
+übermäßige Absonderung von dick- oder dünnflüssigem Sekret (Fließschnupfen, Katarrh, Rotz)
+Schwellung der Nasenschleimhaut und damit Behinderung der Nasenatmung (Stockschnupfen)
+brennender SchmerzDie Schwellung der Nasenschleimhaut und der Gewebsschmerz entsteht im Zuge der Immunreaktion durch die Bildung verschiedener Zytokine. Zur Reinigung der Nasenschleimhaut werden Mucopolysaccharide gebildet.
+Die Rhinitis acuta verschwindet in der Regel nach einer Woche.
+
+
+=== Rhinitis atrophicans ===
+Siehe auch Rhinitis atrophicans der SchweineDie Erkrankung der Nase, bei der ein Gewebsschwund (eine Atrophie) der Nasenschleimhaut und der Muscheln vorliegt, ist auch als Ozaena bekannt. Der landläufige Name dafür lautet Stinknase, da die atrophische Schleimhaut Keimansiedlungen begünstigt, die einen unangenehmen, süßlich-faulen Geruch absondern. Da die Schleimdrüsen ebenfalls atrophieren, kann der Naseninnenraum nicht mehr ausreichend befeuchtet werden, was zu Trockenheit der Schleimhaut und damit zu starker, schwarzer bis gelb-grüner Borkenbildung führt. Folgen der zähen Verkrustungen können Kopf- und Nasenschmerzen, Nasenbluten sowie Vereiterungen sein. Auf Grund des Nasengeruchs erleiden die Erkrankten häufig einen sozialen Ausschluss. Durch Anosmie (auf Grund der Atrophie von Geruchsnerven) und wegen der Gewöhnung der Geruchsnerven an den Eigengeruch nehmen die Patienten den Gestank selber nicht wahr. Die primäre Ozaena ist vermutlich erblich bedingt, tritt häufiger beim weiblichen Geschlecht auf und beginnt meist mit dem Alter der Pubertät. Die sekundäre Ozaena kann verschiedene Ursachen haben, wie z. B.:
+
+Tumoren des Nasopharynx
+Fehlbildungen der Nasenscheidewand (Nasenseptum)
+Missbrauch von Xylometazolin (Wirkstoff in abschwellenden Nasentropfen, siehe Privinismus)
+Folge von operativen Eingriffen in der NasenhöhleBei der Rhinitis atrophicans gibt es verschiedene Ansätze der Therapie, eine vollständige Heilung ist jedoch nicht zu erwarten:
+
+Um die Nasenschleimhäute feucht zu halten, werden ölige Nasentropfen und Nasensalben empfohlen
+Die Borken können mechanisch oder mittels einer Nasendusche entfernt werden
+Hochdosiertes Vitamin A und E hilft bei der Regeneration und wirkt der Atrophie entgegen
+Die Nasenhöhle kann durch Einpflanzen von Knorpelstückchen operativ verengt werden, wodurch das Austrocknen und somit die Borkenbildung und das Ansiedeln von geruchsbildenden Keimen verhindert werden kann. Somit kann oft für einige Jahre eine Milderung der Krankheit erzielt werden.
+
+
+=== Rhinitis allergica ===
+
+
+=== Rhinitis hypertrophica ===
+Bei der hypertrophischen Rhinitis handelt es sich um eine Volumenzunahme der unteren und mittleren Muscheln, auf denen sich nicht selten polypenähnliche Verdickungen entwickeln. Die Muscheln liegen der Nasenscheidewand dicht an, so dass nur ein schmaler Spalt für den Luftdurchtritt bleibt. Oft kommt es zu einer Verengung der Nase. Es leidet nicht nur die Nasenatmung, sondern auch der Geruchssinn, die Sprache (gestopfte Nasenstimme) und die Singstimme. Die Folge sind Reizzustände und Katarrhe des Mundes und des Rachens, des Kehlkopfes und der Bronchien. Die Rhinitis hypertrophica ist ein sehr hartnäckiges und lästiges Leiden.
+
+
+=== Rhinitis medicamentosa ===
+
+
+=== Rhinitis pseudomembranacea ===
+Bei der pseudomembranösen Rhinitis handelt es sich um ein heute selten gewordenes Erscheinungsbild der Diphtherie. Meist ist einseitig der vordere Teil der Nasenschleimhaut (Nasenscheidewand oder Nasenmuscheln) isoliert betroffen. Kennzeichnend ist die Bildung einer sogenannten Scheinmembran: Dabei kommt es durch die Ektotoxinwirkung des Bakteriums Corynebacterium diphtheriae zur Schädigung der Nasenschleimhaut und zur Bildung eines zähen, fibrinreichen, grau-weißen Sekrets mit Beimengung von Zelltrümmern (abgestorbene Epithelzellen der Nasenschleimhaut) und Makrophagen (weißen Blutkörperchen) sowie Krankheitserregern selbst. Trocknet das Sekret ein, haftet es dermaßen fest auf der Unterlage, dass es beim Versuch, dieses zu entfernen, zu Blutungen kommt.
+Die auf die Nase beschränkte Diphtherie ist neben der Hautdiphtherie jene Form der Erkrankung, die zu den geringsten systemischen Wirkungen (Auswirkungen auf den Organismus) führt.
+
+
+=== Rhinitis sicca ===
+Die Rhinitis sicca wird durch trockene Schleimhaut und deren Verkrustung gekennzeichnet. Die Atrophie der Schleimhaut und damit auch ihrer seromukösen Drüsen kann durch chronische Inhalation exogener Noxen, wie z. B. Kokain, zustande kommen oder infolge von Autoimmunerkrankungen wie dem Sjögren-Syndrom. Bei dieser Form der Rhinitis besteht eine Kontraindikation für die Anwendung α-sympathomimetischer Nasentropfen. Stattdessen werden Präparate zur Befeuchtung und Pflege der Nasenschleimhaut angewendet, wie Liposomsprays oder Nasensalben.
+
+
+=== Rhinitis vasomotorica ===
+Bei dieser Nasenschleimhautentzündung, auch NARE-Syndrom (von Non-Allergic Rhinitis with Eosinophilia Syndrome), ist die Regulation der Blutgefäße der Nasenschleimhaut gestört. Deren Ursache ist bislang ungeklärt und kann zur Schlafapnoe führen.
+Obwohl keine nachweisbaren allergischen Ursachen vorliegen, gehen Ärzte davon aus, dass extreme Temperaturwechsel (z. B. geheizte Räume und kalte Außentemperaturen im Winter), warme Getränke, Alkohol, Stress, Drogenmissbrauch oder andere psychische Belastungen sowie der Missbrauch von Nasentropfen bzw. -sprays zu einem vasomotorischen Schnupfen führen können, indem diese Faktoren die Durchblutung der Nasenschleimhautgefäße erhöhen. Dadurch schwillt die Nasenschleimhaut an, und ähnlich dem allergischen Schnupfen entwickelt sich ein wässriger Nasenschleim, der ein vermindertes Geruchsempfinden verursacht.
+
+
+== Siehe auch ==
+Hals-Nasen-Ohrenheilkunde
+Nasenhöhle
+Nasenspülung
+
+
+== Weblinks ==
+medizinfo.de: Informationen, Vorbeugung, Behandlung
+meine-gesundheit.de: Schnupfen

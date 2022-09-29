@@ -1,0 +1,194 @@
+Die chronisch obstruktive Lungenerkrankung (englisch chronic obstructive pulmonary disease, Abkürzung: COPD, seltener auch chronic obstructive lung disease, COLD, chronic obstructive airway disease, COAD; übersetzt „dauerhaft atemwegsverengende Lungenerkrankung“, im ICD-Klassifikationssystem chronische obstruktive Atemwegserkrankung genannt) ist ein Krankheitsbild der Lunge mit einer dauerhaften Verengung der Atemwege, die insbesondere die Ausatmung erschwert (Atemwegsobstruktion). Die Verengung entsteht durch eine Entzündung der kleinen Atemwege (obstruktive Bronchiolitis), wodurch es zu Schleimproduktion und einer Zerstörung des Lungengewebes (Lungenemphysem) kommt, was dazu führt, dass die Atemwege bei der Ausatmung zusammenfallen. Ursächlich ist die langjährige Einatmung schädlicher Partikel, wie zum Beispiel beim Rauchen. Patienten leiden häufig an den Symptomen einer chronischen Bronchitis mit Husten und vermehrtem Auswurf sowie Atemnot bei Belastung. Da die Obstruktion die Ausatmung behindert, kommt es häufig zu einer Überblähung der Lunge bis hin zum Fassthorax. Das Fortschreiten der Erkrankung kann nur durch die Beseitigung der Ursache (z. B. Rauchstopp) verhindert werden.
+
+
+== Epidemiologie ==
+Schätzungen gehen davon aus, dass in Deutschland drei bis fünf Millionen, in den USA etwa 16 Millionen und weltweit etwa 600 Millionen Menschen an einer COPD erkrankt sind. Damit muss von einem globalen Phänomen gesprochen werden. In den USA stellt die COPD die vierthäufigste Todesursache dar: Man kann von einer Volkskrankheit sprechen. Von den zehn häufigsten zum Tod führenden Krankheiten ist sie die einzige, deren Häufigkeit zunimmt.Seit 2001 versucht die von der Weltgesundheitsorganisation (WHO) und den National Institutes of Health (NIH) ins Leben gerufene Initiative GOLD, weltweit ein optimiertes Vorgehen in der Diagnose und Behandlung der COPD durchzusetzen sowie die Unwissenheit in der Bevölkerung zu bekämpfen.
+Eine Studie, die im Januar 2007 in Salzburg veröffentlicht wurde, ergab, dass ein Viertel der untersuchten Personen über 40 Jahren an COPD leidet.
+
+
+== Pathophysiologie ==
+Zur Pathophysiologie der COPD tragen drei zusammenhängende Komplexe bei. Hierbei handelt es sich um
+
+die einfache, das heißt nichtobstruktive chronische Bronchitis, welche insbesondere durch eine Hypertrophie der Bronchialschleimhaut mit vermehrter Schleimsekretion gekennzeichnet ist und auch mit einer Funktionsstörung des Flimmerepithels einhergeht,
+die chronisch obstruktive Bronchitis (die eigentliche COPD), die durch eine Schleimhautatrophie und Hyperreagibilität mit Zerstörung der Bronchialstruktur zu einem exspiratorischen Kollaps der Bronchien führt,
+und das Lungenemphysem, das durch ein Missverhältnis körpereigener gewebeschädigender Stoffe (u. a. Elastasen und Matrixmetalloproteasen) und Schutzstoffe (insbesondere Antitrypsin) entsteht. Die chronische Entzündung trägt zur Aufrechterhaltung des Krankheitsgeschehens bei, das durch Noxen verschiedenster Art (siehe Ursachen) initiiert wird.Neuere Erkenntnisse zur Pathophysiologie
+Neuere Erkenntnisse lassen vermuten, dass sich vor allem in Abgrenzung zum Asthma bronchiale Unterschiede in der Zusammensetzung der Produkte der Zytokin-Gen-Expression im Entzündungsinfiltrat ergeben. Auf zellulärer Ebene findet sich bei der COPD vor allem eine Vermehrung von T-Lymphozyten, neutrophilen Granulozyten und Makrophagen. Insbesondere ist die Zahl der CD8-positiven Lymphozyten erhöht, was in direkte Verbindung mit der Verschlechterung der Lungenfunktion gebracht wird. Durch obige und weitere zirkulierende proinflammatorische (entzündungsfördernde) Botenstoffe und neurohumorale Aktivierung kommt es zu Schädigungen außerhalb der Lunge. Man kann bei der COPD von einer Systemerkrankung sprechen. Herz, Muskeln, Blutgefäße und Knochen sind betroffen. Als neurohumorale Aktivierung wird insbesondere die Aktivierung des Sympathikus angesehen. COPD-Patienten haben ein erhöhtes Risiko für einen durch Entzündungsprozesse bedingten Eisenmangel, der wiederum vermehrt zu akuten Exazerbationen der chronisch obstruktiven Bronchitis bzw. COPD (AECOPD) führen kann.
+
+
+== Ursachen ==
+
+
+=== Rauchen ===
+Der Großteil aller COPD-Patienten sind Raucher, ehemalige Raucher oder aber dem Passivrauchen ausgesetzte Menschen, deshalb wird die COPD gelegentlich auch als Raucherlunge umschrieben. 90 % der an chronischer Bronchitis Erkrankten sind Raucher oder Ex-Raucher. Rauchen verursacht eine hohe Konzentration an freien Sauerstoffradikalen (Superoxide, Wasserstoffperoxid, hypochlorige Säure) im Atemtrakt – siehe Zigarettenrauch. Des Weiteren werden die körpereigenen Mechanismen, die gegen ein „Selbstverdauen“ der Lunge schützen, durch die zahlreichen Inhaltsstoffe des Tabakrauches beeinträchtigt.
+Allerdings wird anhand regelmäßiger Untersuchung der Atemfunktion nur bei 15–20 % aller Raucher über die Jahre eine Abnahme der Atemleistung in einem Ausmaß festgestellt, dass die Entstehung einer COPD mit großer Wahrscheinlichkeit vorherzusagen ist. Bei feststehender Diagnose ist es für eine Heilung meistens zu spät, und es können nur lindernde Maßnahmen ergriffen werden.
+
+
+=== Umweltverschmutzung ===
+Inzwischen wird Rauchen nicht mehr von allen Experten als Risikofaktor Nr. 1 für COPD angesehen; als weiterer ungünstiger Einfluss gilt in Entwicklungsländern die Belastung der Atemluft durch Verbrennung biogenen Materials. Verschiedene in der Atemluft vorhandene Stoffe seien als auslösende Faktoren nicht zu unterschätzen, zwischen 25 und 45 % aller COPD-Betroffenen weltweit hätten noch nie geraucht, wobei allerdings das Problem des Passivrauchens ausgeklammert wurde. Andere Beispiele für ein erhöhtes COPD-Risiko sind verschiedene Staubpartikel an Arbeitsplätzen (z. B. Landwirte im Viehstall oder auch Bauarbeiter, die mit Mineralstäuben in Kontakt kommen). Die Literatur weist bei diesen Arbeitnehmern COPD-Raten von 9 bis 31 % auf. Solche Einflüsse mögen in Europa und den USA eine eher untergeordnete Rolle spielen. Hingegen ist hier wie auch weltweit in den Großstädten und Ballungsgebieten die Staubbelastung durch automobile Massenverkehrsmittel ein problematischer Faktor.
+
+
+=== Berufliche Belastung ===
+Eine chronische Bronchitis, möglicherweise mit asthmatischer („asthmoider“) Komponente, kommt vermehrt bei Personen vor, die sich organischen oder anorganischen Stäuben aussetzen. Sie wird bei Arbeitern in Baumwollfabriken, Webereien und Seilereien gehäuft diagnostiziert.
+
+
+=== Infektionen ===
+Epidemiologische Studien weisen auf einen Zusammenhang zwischen akuten Atemwegsinfekten und der Entstehung einer COPD hin. So sollen virale Lungenentzündungen im Kindesalter die spätere Entwicklung einer COPD begünstigen. Abgesehen von Rhinoviren sind bislang jedoch keine viralen Erreger als Verursacher von Exazerbationen erkannt worden. Bakterielle Leitkeime bei Exazerbationen sind Streptococcus pneumoniae, Haemophilus influenzae und Moraxella catarrhalis – in späten Stadien der Erkrankung auch gramnegative Stäbchenbakterien wie Pseudomonas aeruginosa. Auch kann eine Tuberkulose Ursache für die Entwicklung von COPD sein.
+
+
+=== Vererbung ===
+Ergebnisse der Zwillingsforschung lassen darauf schließen, dass auch genetische Aspekte eine Rolle bei dieser Krankheitsentwicklung spielen. In bis zu 3 % der Fälle ist der Alpha-1-Antitrypsin-Mangel ein wichtiger Faktor.Neuere Forschung zeigt, dass eine Variante von Alpha-1-Antitrypsin gegen Wurmerkrankungen hilft, aber das COPD-Risiko erhöht.
+Diese Mutation scheint aus Skandinavien zu stammen, wo Wikingerpopulationen unter starkem Wurmbefall litten.
+
+
+=== Ernährung ===
+Eine häufige Ernährung mit Nahrungsmitteln, die Nitrit (u. a. als Nitritpökelsalz) enthalten, wie Schinken oder Wurst, erhöht nach einer Studie das COPD-Risiko. Ursache scheint die Bildung reaktiver Stickstoffverbindungen zu sein, die zu emphysem-ähnlichen strukturellen Veränderungen in der Lunge führen können.
+
+
+== Symptome ==
+Die wichtigsten Symptome der COPD sind Atemnot, Husten und Auswurf – oft als „AHA“-Symptome bezeichnet (nicht zu verwechseln mit der AHA-Formel).
+Der Husten bei Patienten mit COPD besteht chronisch seit Monaten oder Jahren. Meist ist er morgens nach dem Erwachen am stärksten ausgeprägt. Im jahreszeitlichen Verlauf ist der Husten im Herbst und Winter häufig stärker als im Frühjahr und Sommer. Ein plötzlicher Beginn, eine Ortsabhängigkeit des Hustens (beispielsweise am Arbeitsplatz) oder das Ausbleiben von Auswurf sind untypisch für eine COPD und deuten eher auf andere Krankheiten hin.Neben dem Husten ist der Auswurf von Sputum ein weiteres Hauptsymptom der COPD. Die Analyse der Qualität des Sputums lässt Rückschlüsse auf die zugrunde liegende Krankheit zu. Bei der COPD ist das Sputum meist etwas bräunlich und wird morgens relativ leicht abgehustet. Auch Blutbeimengungen können im Sputum eines COPD-Patienten vorkommen (Hämoptyse). Liegen Hämoptysen vor, müssen weitere Erkrankungen ausgeschlossen werden (beispielsweise Bronchialkarzinome, Herzinsuffizienz oder Tuberkulose). Beim Lungenemphysem ist Auswurf hingegen nicht oder nur wenig vorhanden. Täglich werden bei der COPD etwa 60 ml Sputum abgehustet. Nach Aufgeben des Rauchens verringert sich die Menge des abgehusteten Sputums bis zum Ausbleiben von Auswurf.Als Belastungsdyspnoe wird eine unter Belastung auftretende Atemnot bezeichnet. Ihr Ausmaß nimmt im Verlauf der Erkrankung zu und kann zu einer vollständigen Bewegungseinschränkung (Immobilität) der Patienten führen. Wichtig zur Beurteilung des Krankheitsverlaufes ist die Ermittlung des jeweiligen Ausmaßes der Einschränkung. Beispielsweise wird nach der Anzahl der Treppenstufen gefragt, ab der Luftnot auftritt. Während bei der COPD die Belastungsdyspnoe meist bereits sehr bald nach Beginn der Belastung auftritt, tritt sie beim Patienten mit Asthma bronchiale eher nach einigen Minuten Belastung (Belastungsasthma) auf.
+
+
+== Diagnose und Stadien- bzw. Schweregradeinteilung ==
+Die Diagnose richtet sich nach den Beschwerden des Patienten, in erster Linie aber nach den Ergebnissen der Lungenfunktionstests. Folgende Einteilung wurde von der Global Initiative for Chronic Obstructive Lung Disease (GOLD) 2007 veröffentlicht und entspricht den aktuellen Richtlinien der Deutschen Atemwegsliga aus dem Jahr 2007.
+FEV1 = forciertes exspiratorisches Volumen in der ersten Ausatmungssekunde = Einsekundenkapazität, hier nach Anwendung eines bronchienerweiternden Medikaments (Bronchodilatator), FVC = forcierte Vitalkapazität (siehe Lungenfunktion)
+Die GOLD-Leitlinie von 2011 verändert diese Einteilung der Schweregrade und berücksichtigt neben einer quantifizierten Symptomatik auch das Risiko von Exazerbationen (Krankheitsschüben), während die Leitlinie der Atemwegsliga noch keine entsprechende Aktualisierung erfahren hat. Statt der Definition der Schweregrade 1 bis 4 erfolgt nun eine Zuordnung zu den Gruppen A, B, C und D, die für die Therapieentscheidungen maßgeblich sind (siehe Abschnitt „Therapie“).
+
+Ein niedriges Exazerbationsrisiko liegt vor, wenn sich in den letzten 12 Monaten maximal eine Exazerbation ereignet hat. Kam es zu mehr als einer Exazerbation oder zu einer Exazerbation mit einem damit verbundenen Krankenhausaufenthalt, ist das Exazerbationsrisiko erhöht. Die Symptome gelten als relativ schwach, wenn die mMRC-Werte 0 oder 1 betragen und der CAT-Wert unter 10 liegt; bei höheren Werten wird von vermehrten Symptomen gesprochen.
+Für die Bestimmung des Schweregrads ist immer der höchste Risikoparameter maßgebend. Hat zum Beispiel ein Patient einen noch relativ guten FEV1-Wert, jedoch ein hohes Exazerbationsrisiko und einen CAT-Wert über 10, dann liegt der Schweregrad D vor (nicht B).Eine weitere, multidimensionale Schweregradeinteilung ist der BODE-Index mit Berücksichtigung von Body-mass-index, Obstruktion, Dyspnoe und exercise capacity.
+
+
+== Klinische Kategorien im Spätstadium ==
+Schwere Formen einer COPD im Spätstadium mit obstruktivem Lungenemphysem wurden früher klinisch häufig in zwei Typen eingeteilt:
+
+Pink Puffer („rosa Schnaufer“): Hierbei handelt es sich um einen Typ mit hagerem bis kachektischem Erscheinungsbild („pulmonale Kachexie“), starker Dyspnoe und eher trockenem Husten. Diese Patienten haben nur selten eine leichte Zyanose, da durch kompensatorische Atemarbeit weniger Hypoxie und Hyperkapnie bestehen. Der Hämatokrit liegt im Normbereich.
+Blue Bloater („blauer Aufgedunsener“): Diese Patienten haben oft Übergewicht und leiden unter Husten mit mehr Auswurf. Trotz einer ausgeprägten Zyanose mit erheblicher Hypoxie und Hyperkapnie ist die Atemnot weniger ausgeprägt. Seinen Sauerstoffmangel toleriert der „Blue Bloater“ besser als der „Pink Puffer“ und reagiert auch mittels vermehrter Bildung roter Blutkörperchen (Polyglobulie). So kann bei niedrigerem Sauerstoffangebot trotzdem mehr Sauerstoff transportiert werden, weil mehr Hämoglobin vorhanden ist. Dabei ist dann prozentual weniger Hämoglobin mit Sauerstoff beladen – daher die Zyanose (Blauverfärbung des Blutes, das weniger Sauerstoff trägt).Eine eindeutige Einteilung von Patienten in eine dieser beiden Kategorien ist jedoch nicht mehr üblich, weil in den meisten Fällen ein Mischbild vorliegt. Ebenso gilt die generelle Assoziation des „Blue Bloaters“ mit einer chronischen obstruktiven Bronchitis und des „Pink Puffers“ mit dem Lungenemphysem nicht mehr als haltbar.
+
+
+== Therapie ==
+Das Behandlungsziel besteht darin, das Fortschreiten der Erkrankung zu mindern oder aufzuhalten und die Lebensqualität der Patienten zu verbessern. Voraussetzung jeder sinnvollen Behandlung ist, zunächst schädigende Einflüsse auszuschalten. Raucher müssen das Rauchen aufgeben, auch Passivrauchen ist zu vermeiden. Sofern die Krankheit durch andere Einflüsse ausgelöst wurde, muss die Exposition mit den Schadstoffen umgehend gestoppt werden. Die Beendigung der Schadstoff-Exposition ist die einzige Möglichkeit, nachweislich die Prognose der Erkrankung zu verbessern. Zur Kontrolle des Erfolgs kann neben der Lungenfunktionsuntersuchung und Spiroergometrie auch der 6-Minuten-Gehtest herangezogen werden. Der Patient kann mit Hilfe eines CAT-Fragebogens selbst regelmäßig seinen Gesundheitsstatus überprüfen und bei Verschlechterung der Testergebnisse rechtzeitig ärztliche Hilfe in Anspruch nehmen oder Therapiemaßnahmen anpassen. COPD-Patienten sind häufig Osteoporose-gefährdet, weshalb eine kalziumhaltige Ernährung empfohlen wird.
+
+
+=== Nicht-medikamentöse Therapie ===
+Die deutschen nationalen Versorgungsleitlinien zur COPD 2021 empfehlen ausdrücklich, dass COPD-Betroffene über die hohe Relevanz und den Nutzen von körperlicher Aktivität im Alltag und von körperlichem Training informiert werden. Es solle ein den individuellen Voraussetzungen angepasstes, angeleitetes körperliches Training empfohlen werden. Betroffenen, die zu selbstständiger sportlicher Aktivität nicht in der Lage sind, solle Rehabilitationssport (Lungensport) empfohlen und verordnet werden. Allen Patienten mit COPD solle ein strukturiertes Schulungsprogramm, z. B. COBRA, empfohlen und vermittelt werden.
+
+
+=== Medikamente ===
+Die Behandlung der COPD erfolgt überwiegend mit inhalierbaren Medikamenten, die als Dosieraerosole oder Pulver mithilfe von Inhalatoren respektive Pulverinhalatoren verabreicht werden, seltener als Inhalationslösungen, die mit elektrisch betriebenen Inhalatoren vernebelt werden. Vor dem Hintergrund, dass 40–80 % der Patienten entscheidende Fehler bei der Inhalation machen, sollte eine einfache Handhabung des Inhalators mit einer gründlichen Einweisung in die korrekte Bedienung sichergestellt werden.
+
+
+==== Bronchodilatatoren ====
+Als Bronchodilatatoren werden Wirkstoffe bezeichnet, die die Atemwege erweitern und so zu einer Verringerung des Atemwegswiderstands führen. Sie vermindern den Tonus der Atemwegsmuskulatur, die durch ihre Kontraktion und Relaxation die Weite der Atemwege regelt. Bronchodilatatoren bewirken so eine Verminderung der Luftnot und eine bessere Belastbarkeit. Die in der Therapie der COPD eingesetzten Bronchodilatatoren lassen sich in drei Gruppen aufteilen: Beta-2-Agonisten (synonym: Beta-2-Sympathomimetika, Beta-2-Mimetika), Anticholinergika (synonym: Parasympatholytika) und Methylxanthine (Theophyllin). Die Wirkstoffe unterscheiden sich hinsichtlich des Mechanismus, durch den die Atemwegsmuskulatur beeinflusst wird, sowie hinsichtlich der Effektivität und der unerwünschten Wirkungen, die auftreten können.
+In der Gruppe der Beta-2-Agonisten und der Anticholinergika werden weiterhin kurz- und langwirksame Wirkstoffe voneinander unterschieden. Die Wirkdauer der kurzwirksamen Medikamente beider Gruppen beträgt etwa 4–6 Stunden. Die langwirksamen Beta-2-Agonisten wirken etwa 12 Stunden lang, während die Wirkung der langwirksamen Anticholinergika etwa 24 Stunden anhält.
+In der Stufentherapie der COPD werden Patienten ab dem Schweregrad I kurzwirksame Bronchodilatatoren bei Bedarf empfohlen (Akut- und Notfalltherapie). Langwirksame Bronchodilatatoren kommen zusätzlich ab dem Schweregrad II zum Einsatz. Hier können jeweils Beta-2-Agonisten und Anticholinergika allein im Sinne einer Monotherapie oder zusammen im Rahmen einer Kombinationstherapie verwendet werden (duale Bronchodilatation). In der Kombinationstherapie addieren sich die Wirkungen der einzelnen Präparate.
+Die Wahl des entsprechenden Medikaments hängt vom individuellen Ansprechen des Patienten und dem Ausmaß der unerwünschten Wirkungen ab.
+Rate und Ausmaß der unerwünschten Wirkungen sind bei korrekter Dosierung aufgrund der vorzugsweise inhalativen Anwendung der Wirkstoffe gering. Die häufigste unerwünschte Wirkung der Anticholinergika ist Mundtrockenheit (bei etwa 16 % der Patienten). Häufigere Nebenwirkungen von Beta-2-Agonisten sind Zittern und Kopfschmerzen. Bei sehr hoher Dosierung und Überdosierung von Beta-2-Agonisten kommt es bei Patienten mit Vorerkrankungen des Herz-Kreislauf-Systems zu einer Erhöhung der Sterblichkeit. Daher wird bei den entsprechenden Patienten eine sorgfältige Indikationsstellung und regelmäßige Therapieüberwachung empfohlen.
+Verglichen mit Beta-2-Agonisten und Anticholinergika ist der bronchodilatatorische Effekt von Theophyllin schwach. Es ist Mittel der dritten Wahl und kann ab Schweregrad II eingesetzt werden. Wichtig hinsichtlich der Anwendung von Theophyllin ist eine geringe therapeutische Breite mit der Gefahr schwerwiegender Nebenwirkungen bei Überdosierung. Die häufigsten unerwünschten Wirkungen sind Kopfschmerzen und Nervosität, schwerwiegende Nebenwirkungen bei Überdosierung sind Blutdruckabfall, Krampfanfälle und Blutungen im Magen-Darm-Trakt. Zur Ermittlung der optimalen Dosierung kann ein Drug monitoring indiziert sein.
+Häufig verwendete Wirkstoffe sind beispielsweise Ipratropiumbromid und Tiotropiumbromid (kurz- und langwirksame Anticholinergika) sowie Fenoterol oder Salbutamol (kurzwirksame Beta-2-Agonisten) und Salmeterol oder Formoterol (langwirksame Beta-2-Agonisten).
+Laut einer Meta-Analyse im British Medical Journal von 2011, die etwa 6.500 Patienten einschloss, war die Verwendung von Soft Mist Inhalern (Respimat®) für Tiotropium im Vergleich zum herkömmlichen Inhalationsgerät mit einem um 52 % erhöhten Sterberisiko verbunden. Eine daraufhin durchgeführte Studie mit etwa 17.100 Patienten, die die Sicherheit und Effektivität des Soft Mist Inhalers im Vergleich zum herkömmlichen Inhalator untersuchte und die 2013 veröffentlicht wurde, ergab hingegen kein erhöhtes Risiko für die Verwendung des Gerätes. Es konnte allerdings auch keine dem herkömmlichen Inhalator überlegene Effektivität nachgewiesen werden.
+
+
+==== Glucocorticoide ====
+Glucocorticoide können sowohl inhalativ als auch oral und intravenös verabreicht werden.
+
+inhalative Glucocorticoide
+Inhalative Glucocorticoide werden zusammen mit langwirksamen Beta-2-Agonisten in Form von Kombinationspräparaten in der Dauertherapie der COPD ab Schweregrad III verwendet.
+Eine Monotherapie mit inhalativen Glucocorticoiden ist nicht geeignet. Kombinationspräparate können bei COPD-Patienten in fortgeschrittenem Erkrankungsstadium (Schweregrad III und IV) vor allem zu einer Verringerung der Exazerbationsrate führen, verbunden mit einer Reduktion des jährlichen FEV1-Abfalls. Weiterhin kann es zu einer Verbesserung von Symptomen und der Lebensqualität (erfasst mit Hilfe von Fragebögen) kommen. Da jedoch insgesamt nur ein gewisser Teil von COPD-Patienten, insbesondere diejenigen mit häufigen Exazerbationen, auf die Gabe inhalativer Glucocorticoide ansprechen, wird eine regelmäßige Bewertung des Therapieerfolgs empfohlen. Bei mangelnder Verbesserung durch die Therapie wird – wie auch bei Überwiegen von Nebenwirkungen – der Abbruch der Therapie mit inhalativen Glucocorticoiden empfohlen.Ein Hinweis auf das Ansprechen auf diese Therapie sind die Zahlen der eosinophilen Granulozyten im Blut. Eine größere Zahl als 4 % Anteil oder 400/µL ist Indiz für dieses Vorgehen. Verwendete inhalative Glucocorticoide sind beispielsweise Budesonid, Beclometason oder Fluticason. Die kombinierten langwirksamen Beta-2-Agonisten sind beispielsweise Formoterol und Salmeterol.
+
+orale Glucocorticoide
+Orale Glucocorticoide, wie beispielsweise Prednisolon, kommen kurzzeitig bei der Therapie der Exazerbation der COPD zum Einsatz. Eine Dauertherapie mit oralen Glucocorticoiden ist nicht angezeigt.
+intravenöse Glucocorticoide
+Intravenöse Glucocorticoide können alternativ zur oralen Gabe bei einer akuten Exazerbation mit einer FEV1 von weniger als 50 % des Sollwertes zusätzlich zu Bronchodilatatoren verabreicht werden, etwa in einer Dosierung eines Prednisolonäquivalents über etwa 1–2 Wochen.
+
+
+==== PDE-4-Hemmer ====
+Roflumilast ist ein PDE-4-Hemmer, der von der Firma Nycomed entwickelt wurde und 2010 von der EMA bzw. von der FDA zur Behandlung der Entzündung der COPD zugelassen wurde.
+
+
+==== Therapieempfehlungen der GOLD-Leitlinie ====
+Gemäß den Therapieempfehlungen der GOLD-Leitlinie von 2011 können bei stabiler COPD die verschiedenen Wirkstoffe folgendermaßen bei den verschiedenen Patientengruppe (siehe oben) eingesetzt werden:
+
+1Arzneimittel der alternativen Wahl können alleine oder in Kombination mit Wirkstoffen der ersten und zweiten Wahl eingesetzt werden.
+
+
+==== Sonstige unterstützende Medikationen ====
+Bei akuten, bakteriellen Exazerbationen der COPD (AECOPD) sollten potente Antibiotika verabreicht werden, da die Exazerbationen den Krankheitsverlauf negativ beeinflussen. Mittel der ersten Wahl ist Amoxicillin zusammen mit einem β-Lactamase-Hemmstoff wie Clavulansäure. Mittel der zweiten Wahl sind Fluorchinolone der Gruppe 3 und 4. Die Langzeitantibiotikagabe, wie etwa bei der Mukoviszidose praktiziert, wird derzeit in klinischen Studien überprüft. Mukopharmaka (etwa Acetylcystein) können im individuellen Fall Erleichterung verschaffen. Der Einsatz von Antitussiva (wie Codein) hingegen sollte nur bei trockenem Husten erfolgen, solange zusätzlich keine Gefahr einer Atemdepression besteht. Falls ein die Prognose verschlechternder Eisenmangel vorliegt, ist die Anwendung von Eisenpräparaten in Betracht zu ziehen. Die Wirksamkeit des Naturstoffs Ectoin gegen eine chronische Lungenentzündung wurde im Rahmen einer im Ruhrgebiet durchgeführten Inhalationsstudie nachgewiesen.Indikationen zur Antibiotikatherapie bei der akuten Exazerbation der chronisch obstruktiven Bronchitis bzw. AECOPD:
+
+bei leichtgradiger AECOPD: nur bei mittelschwerer bis schwerer COPD nach GOLD und eitrigem Sputum, nicht bei einem Procalcitonin-Wert unter 0,1 ng/mL
+bei mittelschwerer AECOPD: nur bei eitrigem Sputum und einem Procalcitonin-Wert ab 0,1 ng/mL
+bei schwergradiger AECOPD: immer.
+
+
+=== Atemhilfe ===
+Bei chronischer respiratorischer Insuffizienz durch COPD gibt es Möglichkeiten der Atemhilfe: Sauerstoff-Langzeittherapie und Beatmungsformen. Durch das regelmäßige Trainieren der Lungenmuskulatur mit exspiratorischen Lungentrainern kann das Atmen ebenfalls auf Dauer erleichtert werden. Spezielle Varianten dieser Geräte ermöglichen zudem ein leichteres Abhusten des festsitzenden Schleims. Dies wird erreicht, indem die Geräte, aufgrund ihrer speziellen Konstruktion, die Atemwege beim Ausatmen in Vibration versetzen. Die Nutzung eines exspiratorischen Lungentrainers ist bei Vorliegen eines Pneumothorax allerdings nicht empfehlenswert und sollte mit einem Arzt abgestimmt werden. Auch ohne Hilfsmittel kann man eine bessere Belüftung der Lunge und das Minimieren der Symptome durch den „Kutscher-Sitz“ (Oberkörper aufrecht, beide Arme auf den Knien abgestützt und tief ein- und ausatmen) und durch das Ausatmen gegen einen Widerstand, zum Beispiel Lippenbremse (gegen den Druck der aufeinander liegenden Lippen stoßweise ausatmen) erreichen.
+
+
+==== Sauerstoffverabreichung ====
+
+Liegen bei der Blutgasanalyse die Werte des Sauerstoffpartialdrucks (pO2) dauerhaft unter 60 mm Hg (schwere Hypoxämie) und sind die pCO2-Werte nicht stärker erhöht, spricht man von einer oxygenatorischen oder hypoxämischen respiratorischen Insuffizienz (früher respiratorische Partialinsuffizienz). Dann kann eine langfristige Zufuhr von Sauerstoff (Sauerstoff-Langzeittherapie) über eine Nasenbrille das Befinden erheblich bessern und Komplikationen wie Lungenhochdruck (pulmonale Hypertonie) und Rechtsherzinsuffizienz und zunehmende Verschlechterung des Trainingszustandes zurückhalten. Es kann zu einer Verbesserung der Lebenserwartung kommen, wenn die Sauerstoff-Langzeittherapie früh genug im Krankheitsverlauf einsetzt und über bis zu 24 Stunden am Tag angewendet wird. Zur Anwendung zuhause gibt es verschiedene Systeme (Flüssigsauerstoff, Sauerstoffkonzentrator). Dabei sind transportable Geräte besonders für Patienten geeignet, die mobil sind. Durch Auswahl eines entsprechenden Systems muss verhindert werden, dass eine Immobilisierung des Patienten stattfindet.
+Auch wenn die Belastbarkeit von Patienten mit COPD durch eine Sauerstoffgabe während des Belastungstrainings zunehmen dürfte, sind die bisherigen Studien aufgrund methodischer Mängel und geringer Patientenzahlen zu wenig aussagekräftig, um klare Empfehlungen abgeben zu können.
+
+
+==== Beatmung ====
+Sind die pCO2-Werte dauerhaft erhöht (Hyperkapnie, Ventilationsinsuffizienz, hyperkapnische respiratorische Insuffizienz, früher respiratorische Globalinsuffizienz), ist Hilfe über eine dauerhafte nichtinvasive Beatmung (NIV) möglich. Auch hier kann die Behandlung mit geeigneten Geräten zu Hause durchgeführt werden. Eine ventilatorische Insuffizienz bedeutet, dass der Körper die notwendige Atemarbeit (Arbeitsleistung der „Atempumpe“) nicht mehr aufbringen kann. Um sich vor der vollständigen Erschöpfung zu schützen, wird der Atemantrieb gesenkt, was eine Sollwertverstellung für den pCO2 bedeutet. Auch bei einer akuten Verschlechterung („exazerbierte COPD“) kann im Krankenhaus eine nichtinvasive Beatmung zur Unterstützung der Atempumpe durchgeführt werden. Sie wird empfohlen, wenn die CO2-Werte im Blut erhöht und dabei der pH-Wert im arteriellen Blut unter 7,35 erniedrigt sind (Azidose) oder wenn sich der Zustand des Patienten verschlechtert. Tritt nach ein bis zwei Stunden keine Besserung ein, muss der Patient intubiert und maschinell beatmet werden. Nichtinvasive Beatmung ist eher weniger geeignet, wenn auch ein Sauerstoffmangel im Blut vorliegt (Hypoxämische respiratorische Insuffizienz). In diesem Fall ist eine sogenannte High-Flow-Therapie, bei der ein Sauerstoff-Gas-Gemisch mit einer hohen Flussrate über die Nase gegeben wird, überlegen. Auch innovative Therapieverfahren wie die pumpenlose extrakorporale Lungenunterstützung (iLA, interventional lung assist) können in dieser Situation den Atemantrieb und Atemarbeit reduzieren, sodass eine Erholung des Patienten ermöglicht wird. Die Heimbeatmungstherapie, oder auch „intermittierende Selbstbeatmung“ genannt, verfolgt den Zweck, die Atempumpe durch vorwiegend nächtliche Beatmung so zu entlasten, dass die erholte Atempumpe in der beatmungsfreien Zeit leistungsfähiger wird.
+
+
+=== Lungenvolumenreduktion ===
+
+
+==== Bronchoskopische Lungenvolumenreduktion ====
+Hierbei werden endobronchiale Einwegventile bronchoskopisch in die entsprechenden Lungenlappen eingesetzt, die zu einer Atelektase mit nachfolgender Volumenminderung im jeweiligen Lungenareal führen. So können benachbarte Bereiche dekomprimiert und besser mit Sauerstoff versorgt werden. Das Verfahren ist zwar mittlerweile über das Stadium der Studienerprobung hinaus, wird aber bisher nur an größeren Zentren angeboten.
+Diese Methode kann vor allem bei Patienten vom Emphysem-Typ der COPD angewandt werden, die zusätzlich Nichtraucher und normalgewichtig sein sollten. Voraussetzungen sind, dass das Lungenemphysem im entsprechenden Lungenlappen stärker ausgeprägt ist als in der übrigen Lunge, wenig Kollateralventilation vorliegt und in der Bodyplethysmographie ein ausreichendes Ausmaß an Überblähung vorliegt.
+
+
+==== Chirurgische Lungenvolumenreduktion ====
+Die Lungenvolumenverminderung wird auf chirurgischem Weg erreicht. Manche Patienten profitieren davon. Voraussetzung für diesen Eingriff ist, dass nicht die gesamte Lunge diffus emphysematös verändert ist, sondern das Lungenemphysem lokal umschrieben und begrenzt ist. Das Verfahren ist mit einer Öffnung des Brustkorbs und dementsprechenden Komplikationen verbunden.
+
+
+=== Lungentransplantation ===
+Eine letzte Möglichkeit der Therapie (Ultima Ratio) ist die Lungentransplantation (LTPL), wobei entweder einer oder beide Lungenflügel transplantiert werden. Auf Grund der Komorbidität vieler COPD-Patienten findet sich hierfür aber nur in Einzelfällen eine Indikation.
+
+
+=== Therapie der akuten Atemnot bei COPD ===
+Insbesondere durch Infektion der Lunge oder der Bronchien kann es bei Patienten mit dem Grundleiden COPD zu einer plötzlichen Verschlechterung der Lungenfunktion kommen. Diese sogenannte Infektexazerbation ist eine häufige Ursache für schwere Atemnot, mit denen Rettungsdienste außerhalb des Krankenhauses konfrontiert sind.
+Grundsätzlich werden im Notfall die gleichen Medikamentengruppen zur Behandlung genutzt wie zur Langzeittherapie. Da teilweise Patienten mit Luftnot die Medikamente nicht mehr tief genug durch ein Spray einatmen können, werden die Medikamente mit Sauerstoff fein vernebelt oder über eine Infusion direkt in die Blutbahn gespritzt.
+Als Standardtherapie im Notfall werden Beta-2-Sympathomimetika fein vernebelt zum Einatmen (z. B. Salbutamol) und Parasympatholytika (z. B. Ipratropiumbromid) zum Einatmen verabreicht. Weiterhin werden Kortisonpräparate (z. B. Methylprednisolon) vorzugsweise direkt in die Blutbahn gespritzt, wobei die Dosis 20–40 mg Prednisolonäquivalent betragen soll. Bei höheren initialen Erstdosen über 100 mg im Rahmen eines Kortisonstoßes zeigte sich in einer Studie eine erhöhte Sterblichkeit bei intensivstationspflichtigen Patienten. Wenn das effektive tiefe Einatmen der vernebelten Medikamente nicht möglich ist, können Beta2-Sympathomimetika auch in die Blutbahn gespritzt werden (z. B. Terbutalin oder Reproterol). Die Zufuhr zusätzlichen Sauerstoffs ist angezeigt, wenn die Sauerstoffsättigung im Blut unter 90 % fällt. Dabei muss auf einen ggf. gestörten Atemantrieb geachtet werden, der bei langfristig COPD-Kranken vorliegen kann. Dann muss die Sauerstoffzufuhr kontrolliert werden und sorgfältig dosiert werden. Sollten die Standardmaßnahmen keine Stabilisierung bewirken und der Patient vor der Lungenerschöpfung stehen, kann eine künstliche Beatmungsunterstützung durch einen Endotrachealtubus oder über NIV-Verfahren notwendig werden. Eine passive CPAP-Therapie alleine, ohne Druckunterstützung beim Einatmen, reicht bei exazerbierter COPD nicht aus.
+Neben der Standardtherapie können verschiedene Medikamente zusätzlich eingesetzt werden, deren Wirksamkeit bei exazerbierter COPD jedoch fraglich ist: Theophyllin war lange Zeit ein Standardmedikament, wird heute aber wegen der Nebenwirkungen und geringer therapeutischer Breite nur noch als Reservemedikament eingesetzt. Magnesium, Lidocain und volatilen Anästhesiegasen (z. B. Sevofluran) sowie Ketamin werden bronchienerweiternde Eigenschaften zugeschrieben, so dass diese in Einzelfällen zusätzlich zur Standardtherapie eingesetzt werden.
+Zuletzt sollte auch frühzeitig die Ursache der Exazerbation z. B. durch Antibiotika behandelt werden.
+
+
+== Literatur ==
+
+
+=== Allgemeine Literatur ===
+Luftpost – Zeitschrift für Atemwegskranke. Patientenliga Atemwegserkrankungen e. V., AG Lungensport in Deutschland e. V.
+1991: Hilmar Burchardi: Ätiologie und Pathophysiologie der akuten respiratorischen Insuffizienz (ARI). In: J. Kilian, H. Benzer, F. W. Ahnefeld (Hrsg.): Grundzüge der Beatmung. Springer, Berlin u. a. 1991, ISBN 3-540-53078-9, 2., unveränderte Aufl. ebenda 1994, ISBN 3-540-57904-4, S. 47–91; hier: S. 81–87 (Obstruktive Atemwegserkrankungen).
+2006: Adrian Gillissen (Hrsg.): Die chronisch-obstruktive Lungenerkrankung. 3. Auflage. UNI-MED Verlag, Bremen 2006, ISBN 3-89599-892-3.
+2008: Herbert Renz-Polster, Steffen Krautzig, Jörg Braun: Basislehrbuch Innere Medizin mit StudentConsult-Zugang: kompakt-greifbar-verständlich. 4. Auflage. Urban & Fischer Verlag, Elsevier, München 2008, ISBN 978-3-437-41053-6. 
+2009: Roland Kaiser: Atempause (= autobiografische Erfahrungen mit COPD). Edition Koch, Innsbruck 2009, ISBN 978-3-7081-0507-9.
+2013: Thomas Linnemann: Lebensqualität, Partnerschaft und Sexualität bei COPD (Elektronische Ressource), Betreuer: Jürg Hamacher. Saarländische Universitäts- und Landesbibliothek, Saarbrücken 2013, DNB 1052909175 (Dissertation Universität des Saarlandes, Saarbrücken 2012, online PDF, kostenfrei, 230 S., 12,8 MB)
+2020: Gerd Herold und Mitarbeiter: Innere Medizin 2020. Selbstverlag, Köln 2020, ISBN 978-3-9814660-9-6.
+
+
+=== Übersichtsarbeiten (Reviews) ===
+Marianne Abele-Horn: Antimikrobielle Therapie. Entscheidungshilfen zur Behandlung und Prophylaxe von Infektionskrankheiten. Unter Mitarbeit von Werner Heinz, Hartwig Klinker, Johann Schurz und August Stich, 2., überarbeitete und erweiterte Auflage. Peter Wiehl, Marburg 2009, ISBN 978-3-927219-14-4, S. 77–81 (Akute Exazerbation der chronisch obstruktiven Bronchitis).
+GOLD: Update 2013
+Marc Decramer, Wim Janssens, Marc Miravitlles: Chronic obstructive pulmonary disease. In: The Lancet. 379, 2012, S. 1341–1351, doi:10.1016/S0140-6736(11)60968-9.
+
+
+=== Leitlinien ===
+Leitlinie: Diagnostik, Prävention und Therapie der COPD Stand 1. Januar 2018 (PDF)
+S3-Leitlinie Tabakentwöhnung bei COPD der Deutschen Gesellschaft für Pneumologie und Beatmungsmedizin (DGP). In: AWMF online (Stand 2014)
+S2k-Leitlinie Sozialmedizinische Beurteilung der Leistungsfähigkeit bei chronischer obststruktiver Lungenkrankheit (COPD) und Asthma bronchiale der Deutschen Gesellschaft für Sozialmedizin und Prävention (DGSMP). In: AWMF online (Stand 2010)
+
+
+== Weblinks ==
+Chronisch obstruktive Lungenerkrankung – Informationen bei Gesundheitsinformation.de (Online-Angebot des Instituts für Qualität und Wirtschaftlichkeit im Gesundheitswesen)
+Informationsseite der Patientenorganisation Lungenemphysem-COPD Deutschland Symptome, Ursachen, Behandlung, Therapie
+Informationsseite des COPD-Deutschland eV COPD – Lungenemphysem: Symptome, Ursachen, Diagnostik und Therapieoptionen
+Helmholtz Zentrum München, Lungeninformationsdienst: Was ist COPD?
+Österreichische Lungenunion: COPD
+Lungenliga Schweiz: COPD
+
+
+== Einzelnachweise ==

@@ -1,0 +1,71 @@
+Die Chagas-Krankheit [ˈʃaːgas-] (auch als Amerikanische Trypanosomiasis, Südamerikanische Trypanosomiasis oder Morbus Chagas bezeichnet) ist eine infektiöse Erkrankung und Parasitose, die durch den Einzeller Trypanosoma cruzi hervorgerufen wird. Sie wird durch den Kot von Raubwanzen übertragen. Ihr klinisches Bild ist gekennzeichnet von Gesichtsödem und Lymphknotenschwellungen.
+
+
+== Verbreitung ==
+Sie ist hauptsächlich in Mittel- und Südamerika verbreitet und wird durch den Kot blutsaugender Raubwanzen übertragen. Die Raubwanzen infizieren sich auch gegenseitig durch Koprophagie und „Kannibalismus“. Ein Erregerreservoir (s. a. Zoonose) besteht u. a. bei freilebenden Tieren (z. B. Gürteltieren, Opossums, Zweifinger-Faultieren), aber auch bei Hunden, Katzen und Ratten. Auch der infizierte Mensch ist ein wichtiges Parasitenreservoir. Insgesamt soll es mehr als 18 Millionen Infizierte geben. In Bolivien könnte etwa ein Viertel der Bevölkerung betroffen sein. Jährlich gibt es 50.000 Neuinfektionen und 15.000 Todesfälle.Durch Migration, Tourismus und Bioinvasion der Raubwanzen durch Warentransport kann die Krankheit auf anderen Kontinenten eingeschleppt und in seltenen Fällen dort durch Blutspenden verbreitet werden. In Spanien, wo über 200.000 Einwanderer aus Lateinamerika leben, gibt es geschätzt zirka 6000 Infizierte. In den USA könnten mehrere 100.000 Einwanderer infiziert sein. Dort gibt es drei gesicherte Fälle von Chagas-Erkrankungen durch Blutkonserven, 2006 war bei Routinetests eine von 4655 überprüften Blutkonserven positiv.Im Mai 2012 meldete Uruguay die Ausrottung der übertragenden, in Südamerika als Vinchuca bezeichneten Raubwanze.Die Krankheit wird von der Weltgesundheitsorganisation (WHO) als vernachlässigte Krankheit bezeichnet, also als eine hauptsächlich arme Menschen betreffende Krankheit, zu deren Erforschung und Bekämpfung nur wenig Geld bereitgestellt wird, obwohl sie weit verbreitet ist und gravierende Folgen für die Erkrankten und die gesamte Gesellschaft hat.
+
+
+== Erreger und Vektor ==
+
+Der Erreger Trypanosoma cruzi ist ein Einzeller, der durch Raubwanzen (Reduviidae) übertragen wird. Die Überträger (Vektor) sind drei bis vier Zentimeter große Raubwanzen der Gattungen Triatoma, Rhodnius und Panstrongylus (alle aus der Unterfamilie Triatominae), wobei Triatoma infestans den wichtigsten Insektenwirt darstellt. Alle Stadien, auch die Larven, sind empfänglich für Trypanosoma cruzi.
+In Laborexperimenten konnte auch eine Übertragung von T. cruzi von Bettwanzen auf Mäuse und von Mäusen auf Bettwanzen demonstriert werden. Inwieweit Bettwanzen bei der Übertragung der Chagas-Krankheit auf den Menschen eine Rolle spielen können, ist allerdings unklar; eine systematische Analyse von Bettwanzenpopulationen in Regionen mit T. cruzi steht noch aus.
+
+
+== Infektionswege ==
+
+Die überwiegend nachtaktiven Raubwanzen stechen und saugen meist unbemerkt Blut bei schlafenden Menschen, Säugetieren, Reptilien und Vögeln, mit Vorliebe in Regionen mit dünnerer Haut wie z. B. an Lippen oder in der Augenumgebung. Währenddessen defäkiert das Insekt. Die Infektion erfolgt nicht durch den Stich, sondern durch Einreiben des erregerhaltigen Kotes in die frische Stichwunde durch den Menschen selbst oder durch Eindringen des Erregers in unverletzte Schleimhaut, besonders des Auges. Der Kot kann vermutlich jahrelang infektiös bleiben. Die diaplazentare Infektion des Fötus durch die Mutter ist möglich. Auch Muttermilch ist infektiös. In seltenen Fällen kann es zu einer Übertragung durch Nahrungsmittel kommen. 2005 und 2006 wurden aus Brasilien Infektionen durch verschmutzten Bacaba-Wein (aus Palmfrüchten, Oenacarpus distichus, Oenocarpus babaca) gemeldet, auch der Saft der Kohlpalme (Euterpe oleracea) steht im gleichen Verdacht.
+
+
+== Verlauf/Symptome ==
+
+Die Chagas-Krankheit tritt beim Menschen in vier Stadien auf: Nach dem Stich der Raubwanze tritt meist eine Schwellung um die vom Insekt erzeugte Stichwunde auf: Ein Ödem mit Entzündungserscheinungen, oft in Augennähe (Romana-Zeichen oder romanasches Zeichen).
+Es können aber auch andere Körperstellen betroffen sein, die sich später evtl. gar nicht mehr identifizieren lassen.
+Eine akute Phase tritt bei ca. einem Drittel der Neuinfizierten auf. Es handelt sich meist um Kinder oder Personen mit Abwehrschwäche. Diese Phase klingt gewöhnlich nach ca. vier Wochen wieder ab. Fieber, Atemnot, Ödeme, Durchfall, Bauchschmerzen, Lymphknotenschwellungen, Krampfanfälle bei Einschluss des Gehirns und Herzvergrößerung sind die Folge.
+Nach einer Latenzphase, die u. U. Jahre dauern kann, kommt es zur chronischen Erkrankung. Symptome der akuten Phase können aber auch während der Latenzphase wieder ausbrechen, wenn eine neu auftretende Abwehrschwäche hinzukommt, z. B. eine HIV-Infektion.
+Die Symptome der chronischen Phase entstehen vorwiegend aus der chronischen Herzvergrößerung (Herzrasen, Leistungsschwäche, Luftnot bei Belastung) und der Zerstörung von Nervenzellen im Verdauungstrakt. Dies führt zu einer massiven Auftreibung insbesondere von Speiseröhre (Megaösophagus) und Dickdarm (Megacolon). Hierdurch ist eine normale Darmpassage nicht mehr möglich. Dies kann zum Tod durch Darmdurchbruch, Darmverschluss (Ileus) oder Bauchfellentzündung (Peritonitis) führen.
+Unbehandelt kann die Chagaskrankheit in bis zu 10 % der Fälle tödlich enden. Besonders gefährdet sind Säuglinge und Kleinkinder.
+
+
+== Diagnose ==
+
+Der Erreger lässt sich besonders in der akuten Phase in den ersten Wochen mikroskopisch im Blut (Blutausstrich oder dicker Tropfen) nachweisen. In der chronischen Krankheitsphase wird der Erreger mit Antikörpertests (z. B. Immunfluoreszenz) nachgewiesen. In Südamerika gibt es den Trypanosomentest in Form der sogenannten Xenodiagnose. Dazu lässt man laborgezüchtete Raubwanzen, die erregerfrei sind, auf der Haut des Patienten eine Blutmahlzeit nehmen. Nach zwei bis vier Wochen (nach unterschiedlichen Quellen) wird der Darm der Raubwanzen auf Erregerbefall untersucht. Im Gehirn lässt sich die Auswirkung der Erkrankung mittels CT oder MRT nachweisen. Zur Untersuchung des Herzens kann man die Echokardiografie nutzen.
+In den USA gibt es seit 2007 einen ELISA-basierten, von der FDA zugelassenen Bluttest.
+
+
+== Vorbeugung ==
+
+Es gibt bisher keinen zugelassenen Trypanosomiasisimpfstoff. Zur Vorbeugung gegen die Krankheit werden die Raubwanzen bekämpft. Diese leben gerne nahe der Schlafplätze der Haustiere, somit sind jene Orte abzusondern. Ausreichend geschlossene Wohnungen sowie zeltartige, auch bodenseitig durchgehend geschlossene Moskitonetze mit dichtschließendem Reißverschluss bieten einen sehr guten Schutz, sofern man das Netz beim Schlafen nicht berührt. Notfalls muss das herkömmliche Moskitonetz bis unter die Matratze gesteckt werden. Die gefährdetsten Schlafplätze liegen in offenen einfachen Häusern, z. B. mit Wänden und Dächern aus Stroh und ähnlichem Flechtwerk. Viele unspezifisch wirkende Insektizide oder Repellents sind gegen Raubwanzen meist unwirksam.Eine durchgehende Kontrolle von Blutspenden soll die Möglichkeit der Übertragung der Infektion bei Bluttransfusionen und Transplantationen verhindern. Dies geschieht in den betroffenen Ländern jedoch nicht immer zuverlässig.
+Ein Forscherteam um den Parasitologen und Infektionsbiologen Sven Klimpel hat 2020 herausgefunden, dass (teils infolge der globalen Erwärmung) die Wanzen auch in Portugal, Frankreich, Spanien, Italien, Zentralafrika und Südostasien heimisch werden könnten. Die Autoren der Studie empfehlen, die Infektion meldepflichtig zu machen.
+
+
+== Therapie ==
+Die medikamentöse Therapie ist schwierig. Die einzigen verfügbaren Arzneimittel, Nifurtimox und Benznidazol, wirken vor allem in der akuten Phase der Erkrankung, haben teils schwere Nebenwirkungen und gelten als mutagen. Außerdem sind manche Erreger gegen die Mittel resistent. Durch bessere Kontrolle der Erkrankungen bei Kindern sollen die schwerer zu behandelnden chronischen Formen vermieden werden. Die Zahl der Neuinfektionen ist nach den Statistiken der WHO allerdings durch die Bekämpfung des Insekts sehr zurückgegangen. Wegen unterschiedlichster Verbreitungskarten, die im Internet angeboten werden, sollte vorsichtshalber im gesamten Verbreitungsgebiet der Krankheitsüberträger eine angemessene Prophylaxe getroffen werden, dazu könnten auch noch Gebiete in den USA gehören.
+
+
+== Geschichte ==
+
+Die Erkrankung ist benannt nach dem brasilianischen Arzt und Infektiologen Carlos Chagas, der den Erreger 1907 entdeckte und die Krankheit 1909 erstmals beschrieb. Bis in die 1960er Jahre wurde die Krankheit allerdings noch nicht als großes epidemiologisches Problem gewertet. Chagas erkannte Flagellaten im Darm von Triatominae und bewies, dass jene durch den Stich der Wanze auf Affen übertragen werden können. Chagas benannte den Parasiten nach Oswaldo Cruz, einem bekannten brasilianischen Arzt und Epidemiologen, nach dem auch das Institut, an dem er arbeitete, benannt ist.
+Als herausragend bei der Arbeit von Chagas gilt, dass er allein den kompletten Mechanismus der Krankheit beschrieben hat: das auslösende Pathogen, den Vektor, den Wirt, die klinische Manifestation und die Epidemiologie.
+Lange hielt Chagas den Stich fälschlich für die Hauptinfektionsquelle:
+
+1969 beschrieb der britische Parasitologe Ralph Lainson die Krankheit als erster vollständig korrekt. Er entdeckte, dass durch blutsaugende Triatominae verunreinigte Lebensmittel die Krankheit übertragen.
+
+
+== Literatur ==
+E. Sauerteig, T. Weinke: Amerikanische Trypanosomiasis (Chagas-Krankheit). In: W. Lang, T. Löscher (Hrsg.): Tropenmedizin in Klinik und Praxis. 3. Auflage, Thieme, Stuttgart 2000, S. 59–67.
+Louis V. Kirchhoff: American Trypanosomiasis (Chagas’s Disease). In: Richard L. Guerrant, David H. Walker, Peter F. Weller (Hrsg.): Tropical Infectious Diseases: Principles, Pathogens and Practice. 2. Auflage. Churchill Livingstone, 2005, S. 1082–1094.
+
+
+== Siehe auch ==
+Parasiten des Menschen
+Tropenkrankheit
+Trypanosoma
+
+
+== Weblinks ==
+Info vom Tropeninstitut Hamburg
+Aktuelle Meldungen zur Verbreitung der Chagas-Krankheit Informationen der WHO (engl.)
+Internationale Forschungsinitiative Chagaspace (Memento vom 7. April 2008 im Internet Archive)
+
+
+== Einzelnachweise ==

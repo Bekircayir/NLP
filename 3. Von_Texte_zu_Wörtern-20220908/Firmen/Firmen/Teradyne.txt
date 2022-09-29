@@ -1,0 +1,14 @@
+Teradyne ist ein in Boston beheimateter Hersteller von Testsystemen für Mikroprozessoren und weiteren elektronischen Bausteinen.
+Das Unternehmen wurde 1960 gegründet und beschäftigte 2010 3200 Mitarbeiter, die einen Umsatz von 1,6 Milliarden US-$ erzielten . Die Aktiengesellschaft ist an der New York Stock Exchange gelistet (NYSE:TER). In Deutschland werden die Geschäfte von München aus geführt und Kunden wie Infineon (München, Dresden), AMD (Global Foundries Dresden) und Micronas (Freiburg) betreut.
+
+
+== Produktlinien ==
+Gefertigt werden neben Leiterkarten-Testern Anlagen mit denen Chips nach der Fertigung auf Funktionsfähigkeit geprüft werden. Diese Anlagen werden von Teradyne auf die spezifische Anwendung des Kunden (wie AD-Wandler, DSL-Chips, Speicher und SOC) adaptiert. Mehrere Produktlinien (bspw. "Catalyst" und "FLEX") wurden jeweils auf die spezifischen Anforderungen wie Durchsatz, Kosten und Testtiefe optimiert. 
+Für den Test von bestückten Leiterplatten werden Geräte für die automatisierte Röntgeninspektion hergestellt. 
+
+
+== Weblinks ==
+Website von teradyne
+
+
+== Einzelnachweise ==

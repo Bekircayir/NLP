@@ -1,0 +1,17 @@
+Als Schaltbock wird in der Kfz-Mechanikerbranche die Gesamtapparatur bezeichnet, die als Schnittstelle zwischen Mensch (Fahrer) und Schaltgetriebe eines Kraftfahrzeugs fungiert. Die Gesamtapparatur kann durch Verschraubung mit dem Getriebe verbunden, oder, wenn der Schaltbock über ein Gestänge mit dem Getriebe verbunden ist, an der Karosserie, um die nötige Stabilität in allen Freiheitsgraden bei Schaltvorgängen zu gewährleisten.
+
+
+== Ausführungen ==
+Schaltböcke von älteren Kraftfahrzeugen bestehen meist aus einem großen Bockgehäuse in massiver Ausführung. Dort verankert sind die stabilen mechanischen Elemente, welche die Schaltbewegung des Fahrers über das Schaltgestänge an das Getriebe übertragen. Die Schaltböcke von modernen Kraftfahrzeugen sind meist sehr klein und können platzsparend untergebracht werden, weil mit der Schaltbewegung nur ein elektrischer Kontakt betätigt wird und ein elektrisches Signal an den elektronischen Controller für die Getriebesteuerung übertragen wird. Steuerelemente von heutigen Fahrzeugen werden mehr und mehr nach dem Drive-by-Wire-Konzept ausgelegt. Diese Schaltböcke sind mit der Karosserie verschraubt. Daneben besteht auch noch die Möglichkeit, den Gangwechsel über Seilzüge zu betätigen.
+
+
+== Bestandteile ==
+Schaltstange
+Schaltknauf
+Schaltsack bzw. Faltenbalg
+Schaltring
+Bockgehäuse der Apparatur
+
+
+== Literatur ==
+Hans-Hermann Braess, Ulrich Seiffert: Vieweg Handbuch Kraftfahrzeugtechnik. 2. Auflage, Friedrich Vieweg & Sohn Verlagsgesellschaft mbH, Braunschweig/Wiesbaden 2001, ISBN 3-528-13114-4.

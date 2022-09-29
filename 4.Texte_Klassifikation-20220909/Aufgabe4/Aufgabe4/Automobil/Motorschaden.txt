@@ -1,0 +1,104 @@
+Ein Motorschaden ist der Verlust an Funktionsfähigkeit und notwendiger beziehungsweise erwünschter Eigenschaften bei einem Motor. Der Schaden kann durch das betroffene Motorbauteil selbst, also als Primärschaden, oder von anderen, externen Bauteilen verursacht sein, deren Fehlfunktion, Störung oder Schaden sich auf das eigentliche Schadteil schädigend auswirken. Die Gründe für eine Fehlfunktion hängen von einer Vielzahl physikalischer, chemischer und elektrochemischer Vorgänge ab, welche in der VDI-Richtlinie 3822 zusammengefasst sind.
+
+
+== Verbrennungsmotoren ==
+
+Der Verbrennungsmotor weist im Vergleich zum Elektromotor eine Reihe von Nachteilen in Hinsicht auf die Ausfallsicherheit auf. Die Vielzahl mechanischer Elemente und ihr Zusammenspiel unter verschiedensten Umweltbedingungen erhöhen die Wahrscheinlichkeit eines Ausfalls.
+Ebenfalls kritisch ist die oszillierende Kinematik des Kurbeltriebs in Hubkolbenmotoren, da an den Totpunkten der Kolben die gebildeten Schmierfilme zusammenbrechen und somit tribologische Nachteile entstehen. Die bei der Oszillation entstehenden Trägheitskräfte bedingen auch hohe dynamische Belastungen der Bauteile, die zu Gewalt- und Schwingbruch und ebenfalls zu ungünstigen Schmierverhältnissen in den Lagern führen. Weiterhin werden dem Motor betriebsbedingt aggressive Medien wie Kraftstoff und Kühlwasser zugeführt, die Korrosion ermöglichen oder anderweitig den Motor angreifen. Während der Verbrennung entstehen weitere chemische Verbindungen, die bei der hohen Wärmeentwicklung den Motor zusätzlich belasten, auch indem sie in den Schmierhaushalt übergehen und so die Qualität des Schmieröls herabsetzen.
+
+
+== Schadensursachen ==
+
+
+=== Verschleiß ===
+In der DIN 31 051 heißt es: [...]Abnutzung ist der Preis, der für die Nutzung der Anlage entrichtet werden muss. Ohne Abnutzung kann keine Maschine betrieben werden[...] Daraus geht hervor, dass die Abnutzung konstruktiv so gering wie möglich gehalten werden muss und ein gewisser Abnutzungsvorrat durch Materialzugabe vorhanden sein muss, dessen Abnutzung die Betriebssicherheit nicht beeinträchtigt. Ausgedrückt wird die unvermeidbare Abnutzung und deren Nacharbeit in Verschleißraten für die verschiedenen Bauteile, die natürlich abhängig vom Motortyp und dessen Nutzung ist. So ist beispielsweise nach für große Viertaktmotoren, betrieben mit Schweröl, folgende Verschleißrate genannt: 96 % aller Ventile erfordern ein geringes Nachschleifen nach 5000–6000 Betriebsstunden.
+
+
+=== Technische Mängel ===
+Technische Mängel können allgemein drei Ursachengruppen zugeordnet werden.
+
+
+==== Auslegungsfehler ====
+Heute fast nicht mehr anzutreffen ist die fehlerhafte Konstruktion eines Motors. Motoren müssen ihrem Einsatzzweck entsprechend ausgelegt werden. Zu schwache Motoren werden überlastet, während zu starke im unwirtschaftlichen Teillastbetrieb arbeiten, der sich auch negativ auf den Motor auswirkt (Versottung, Verkokung). Verbrennungsmotoren werden fast ausschließlich mit Kurbeltrieb und Hubventilen, gesteuert durch eine rotierende Nockenwelle hergestellt, die mit Zwei- oder Viertaktverfahren arbeiten. Zu diesen Konzeptionen liegt umfangreiches Wissen aus der Entwicklung und dem Betrieb hunderter Millionen Motoren vor, auf das während der Entwicklung eines Motors zurückgegriffen werden kann. Des Weiteren werden Motoren nur noch von spezialisierten Herstellern gefertigt, die wiederum die notwendigen Teile ebenfalls von Firmen beschaffen, die sich auf bestimmte Gebiete innerhalb eines Motors konzentrieren. Die moderne Berechnung, Computersimulation und Messtechnik im Versuch helfen, Fehler auszuschließen und frühzeitig zu finden und zu beseitigen. So beschränken sich die Fehler meist auf Kleinigkeiten, die die Wahl der Passungen, der Werkstoffe und deren Wärmebehandlung und das geeignete Fertigungsverfahren betreffen. Fehler solcher Art machen sich in der Regel erst nach langer bis sehr langer Betriebszeit bemerkbar, da die Ursachen von Kurzzeitfehlern schon im Versuch während der Entwicklungsphase entdeckt werden.
+Viele Störungen und Schäden resultieren aus Planungsfehlern der gesamten Maschinenanlage, da hier weit mehr Fehlermöglichkeiten und weniger Wissen vorhanden ist. Das betrifft seltener Pkws und Nutzfahrzeuge (Nkw), als Motoren für den Stationärbetrieb, Schiff, Bahn und Sonderfahrzeuge. Die Hersteller solcher Motoren geben den Kunden umfangreiche Dokumentationen in die Hand, damit diese im Bedarfsfall Probleme eigenständig lösen können. Auch die Planung der Wartungsarbeiten, also deren zeitliches Intervall und die Durchführung, verursachen hier oft Schäden. So fiel beispielsweise ein Nkw in der Schadensstatistik auf, weil dessen Ölkontrolle nicht regelmäßig vorgenommen wurde, der Ölfilter verstopfte und so der Motor versagte. Der Grund dafür lag in der Anbringung des Ölpeilstabes unter dem Fahrersitz, wodurch es lästig war, diesen zu überprüfen.
+Ein weiterer möglicher Auslegungsfehler im weiteren Sinne kann auftreten bei unsachgemäßem Motortuning; vor allem Turbo- und Kompressor-, aber in eingeschränktem Maß auch Saugmotoren können der erreichten Mehrleistung, z. B. durch Chiptuning, auf Dauer oft nicht standhalten, wenn zu wenig Wissen vorhanden ist und sich das Tuning nur auf einzelne Motorkomponenten beschränkt. Eine alleinige Veränderung des Ladedrucks oder der Steuerzeiten ohne weitere dadurch notwendig werdende Modifikationen kann z. B. zu deutlich verstärkter Motorabnutzung, durchgebrannten Motordichtungen und Belastungsschäden an Teilen wie Kolben, Pleueln, Kurbelwelle und Turbolader oder Kompressor führen.
+
+
+==== Werkstofffehler ====
+Die falsche Wahl eines Werkstoffs kommt heute aufgrund der breiten Wissensbasis nicht mehr häufig vor. Meist liegen Werkstofffehler vor, die auf die Schwierigkeit, einwandfreie Werkstoffe herzustellen, zurückzuführen sind. So schwankt die Qualität eines Werkstoffs innerhalb eines Bauteils, was jedoch nicht mit vertretbarem Aufwand festgestellt werden kann. Fehler im Werkstoff können jederzeit im Herstellungsprozess auftreten und erstrecken sich über verschmutztes Ausgangsmaterial, Lunker, Einschlüsse, Gasblasen und Seigerungen beim Gießen, Dopplungen beim Walzen, Risse und Falten beim Schmieden, Gefügefehler, Wärmebehandlungsfehler oder Bindungsfehler beim Beschichten.
+Werkstofffehler liegen nicht vor, wenn Motoren abseits ihrer werksseitigen Spezifikationen betrieben wurden. Dies geschieht öfter bei den „Einheitskonstruktionen“ (500 cm³ pro Zylinder) der Dieselmotoren z. B. von BMW und Daimler-Benz, indem durch Chiptuning-Maßnahmen die Motoren z. B. von 180/184 PS auf 220/224 PS gebracht werden – im falschen Glauben, die Motoren seien sonst ohnehin gleich. Die Kolben der verschiedenen Leistungsstufen sind unterschiedlich und haben durch unterschiedliche Legierungen verschiedene Wärmeleitkapazitäten. Ein Motor wird bei Chiptuning und dauernd hoher Belastung über seine Ursprungs-Spezifikation hinaus folglich mit hoher Wahrscheinlichkeit einen Kolbenschaden bekommen. Nicht mal in den Ersatzteillisten ist dies erkennbar: darin taucht nur eine Kolbenart auf – die des höchstwertigen Typs. Bei Neumotoren werden jedoch je nach Leistungsstufe bis zu drei verschiedene, unterschiedlich teure und eben auch unterschiedlich leistungsfähige Kolbenarten verbaut.
+
+
+==== Fertigungsfehler ====
+Mögliche Fertigungsfehler sind Nichteinhalten von Maßen, Maß- und Formtoleranzen, Passungen, Oberflächenbeschaffenheit (Härte, Rauheit, Welligkeit usw.), mechanische Oberflächenbeschädigungen (Kratzer, Riefen, Rattermarken). In der Montage der Einzelteile sind typische Fehler Flucht- und Rundlaufabweichungen, falsche Vorspannung an Schraubenverbindungen und Fehler beim Auswuchten und Ausrichten. Auch ist die Schadensursache in Gütern des Grauen Marktes zu suchen.
+
+
+=== Betriebsfehler ===
+
+
+==== Überlastung ====
+Überlastung ist die Beanspruchung eines Motors über seine Möglichkeiten hinaus und deren Schäden. Überlastung tritt ein, wenn der Motor mehr Leistung abgeben muss, als die, für die er ausgelegt wurde oder wenn die Leistung bei den Betrieb einengenden Bedingungen wie hohe oder niedrige Kühl- und Schmiermitteltemperaturen, feuchte und warme Ansaugluft oder niedriger Luftdruck abgegeben werden muss. Wenn dem Motor zu viel Drehmoment abverlangt wird, sinkt seine Drehzahl und es erhöht sich damit die Temperatur des gesamten Motors, insbesondere der hochbelasteten Triebwerks- und Ventilsteuerungselemente. In Motoren ist Überbelastung immer mit einer Temperaturerhöhung verbunden, da höhere Drehmomente höhere Gasdrücke im Zylinder erfordern, die wiederum durch einen erhöhten Wärmeumsatz ermöglicht werden. Die verminderte Werkstofffestigkeit bei zugleich höheren Bauteilbelastungen ergibt sich stärker verformende Teile, die Spiele gewährleisten nicht mehr den einwandfreien Lauf der Gleitpartner, was ebenfalls durch vermehrte Reibung zur Temperatursteigerung beiträgt. Es besteht nun die Gefahr, dass der Schmierfilm zusammenbricht und die Gleitpartner fressen. Die Überlastung muss dabei nicht von außen, also vom Bediener dem Motor aufgezwungen werden, sie kann auch von Unregelmäßigkeiten im Motorbetrieb herrühren. Ursachen dafür sind Kaltstart, klopfende Verbrennung, zu früher Einspritzbeginn und dergleichen.
+
+
+==== Bedienungsfehler ====
+Wichtig für den sicheren und langanhaltenden Betrieb eines Motors ist die Beachtung der von den Herstellern vorgeschriebenen Betriebsrichtlinien. Diese sind je nach Einsatzzweck des Motors sehr kurzgefasst, wie es bei modernen Pkw-Motoren der Fall ist, oder sie sind sehr umfangreich, wie bei Schiffsmotoren. So war bis in die 1990er Jahre bei allen Motoren ein Einlauf vom Kunden mit geringerer Leistungsentnahme vorgeschrieben. Dieser diente dazu, fertigungsbedingte Rauheiten abzutragen und die geometrische Form der Gleitpartner aufeinander abzustimmen, was insbesondere für Zylinderlauffläche und Kolbenringe gilt. Moderne Pkw-Motoren fordern heute einen so kurzen Einlauf, dass sie bereits nach den Probeläufen (mit Fremdantrieb und befeuert) im Werk einen Zustand erreicht haben, der keine weiteren Maßnahmen seitens des Kunden verlangt. Vielerlei Motoren benötigen aber weiterhin einen längeren Einlauf bis zu 1000 km oder 30 Betriebsstunden. Erfolgt dieser nicht, neigt der Motor zu Undichtigkeiten im Bereich der Kolbenringe. Brandige Ringe, gesteigerter Ölverbrauch und Verschleiß sind die Konsequenzen; unter Umständen fressen die Teile.
+Obwohl gerade Kfz-Motoren Kaltstartfähigkeit unterstellt wird, bereitet ein Kaltstart dem Motor doch Probleme. Wenn die Ölpumpe mit zu hohem Druck das noch zähe Öl fördert, öffnet das Umgehungsventil am Ölfilter. Wird der Motor oft kalt gestartet und nicht warm gefahren, bilden sich Verkokungen an der Zündkerze, den Ventilen und den Ringnuten am Kolben. Auch begünstigt der Kaltstart die Kaltschlammbildung (Produkt aus Schmieröl, Verbrennungsrückständen und Kondenswasser) im Kurbelgehäuse. Größere Motoren müssen grundsätzlich auf etwa 40 °C vorgewärmt werden. Neben den negativen Einflüssen auf den Motor belastet das auch die Umwelt, da nur eine schlechte Verbrennung vorliegt und der Katalysator noch nicht im vollen Umfang funktioniert.
+Lange Leerlaufzeiten vertragen Motoren sehr schlecht, da die geringen zugeführten Kraftstoffmengen zu Zündaussetzern führen. Der Kraftstoff kondensiert an den Zylinderlaufflächen, wäscht den Ölfilm ab und wird von den Kolbenringen in den Schmierkreislauf befördert. Auch gelangen so unverbrannte Kohlenwasserstoffe in die Abgasleitung und die Umwelt und erschweren auch einem angebrachten Abgasturbolader den Betrieb. Es bilden sich Ablagerungen an allen mit dem Medium in Kontakt stehenden Bauteilen, der Motor verschmutzt so zusehends. In extremen Fällen stecken die Kolbenringe fest und es kommt zum Kolbenfresser.
+Bei der Diesellokomotive der Baureihe 130 konstruierte man eine Zylindergruppenabschaltung, um das Kondensieren unverbrannten Dieselkraftstoffs an unzureichend erwärmten Zylinderwandungen zu vermeiden: Hierbei wird im Leerlauf nur in die Hälfte der Zylinder Kraftstoff eingespritzt, dies jedoch in erhöhter Menge. Dadurch steigt die Temperatur in den arbeitenden Zylindern und der Kraftstoff verbrennt vollständig.Mangel an Betriebsstoffen oder minderwertige Qualität rufen Schadensfälle vor, die vom Hersteller nur teilweise in den Griff zu bekommen sind. Nur mittels einer möglichst zuverlässigen Überwachung der Betriebsstoffe kann der Hersteller Sorge tragen, dass der Bediener rechtzeitig einschreiten kann. Jedoch sind viele Schäden in mangelnder Qualität der Betriebsstoffe begründet.
+Ebenfalls entziehen sich Einwirkungen von außen weitestgehend der Kontrolle des Herstellers. Verkehrsunfälle, mangelhafte Luftfilter, schlechte oder sich verformende Fundamente (vor allem im Schiffbetrieb) oder gefrorenes Kühlwasser sind hier zu nennen.
+
+
+== Motorschäden ==
+
+
+=== Allgemeines ===
+Dieser Teil des Artikels befasst sich mit Schäden, die an Wärmekraftmaschinen auftreten, die mit Zylinderkolben funktionieren. Andere Wärmekraftmaschinen wie Turbinen oder Rotationskolbenmotoren (z. B. Wankelmotoren) sind nicht thematisiert.
+
+
+=== Schäden am Triebwerk ===
+
+Das Triebwerk oder der Kurbeltrieb eines Motors umfasst alle Teile, die direkt an der Umwandlung der Gasdrücke im Zylinder erst in eine geradlinige und anschließend in eine rotierende Bewegung beteiligt sind. Die Aufgaben, die an diese in Kolbenmaschinen zentrale Baugruppe gestellt werden, und die Beanspruchungen, denen sie ausgesetzt ist, sind äußerst umfassend. Unter diesem Gesichtspunkt betrachtet ist es verständlich, dass die meisten Schäden im Motor, die Peripherie außer Acht gelassen, hier auftreten. Insbesondere Kolben, Kolbenringe und Lagerflächen sind enormen Belastungen ausgesetzt. Der oszillierende Bewegungsablauf des Kolbens erschwert die Bildung eines stabilen Schmierfilms zwischen Kolbenschaft sowie Kolbenring zur Zylinderlauffläche und zwischen Kolbenbolzen und Nabenbohrung im Kolben. An den Totpunkten bricht der Schmierfilm regelmäßig zusammen, vermehrte Reibung mit all ihren Begleiterscheinungen ist die Folge (Verschleiß, Fressen). Die oft zerklüftete Form des Kolbenbodens zur Unterstützung der Gemischbildung nimmt sehr viel Wärme auf, die Kolbenringe können aber nur im begrenzten Maße Wärme abgeben. Vor allem in schlitzgesteuerten Zweitaktmotoren erwärmt sich der Kolben in Auslassnähe sehr stark.
+Schwieriger wird es bei folgenden Punkten:
+
+Kompressionsverlust
+Innerer Verlust von Betriebsstoffen (Zylinderkopfdichtung defekt, führt zu Ölübertritt in den Verbrennungsraum oder zu Kühlflüssigkeitsverlust oder zu Öl in der Kühlflüssigkeit)
+Ventiltrieb außer Takt / Steuerketten- / Zahnriemen-DefektBis hierhin kann der Motorblock oft eingebaut bleiben; der Zylinderkopf muss abgenommen werden.
+Sehr aufwendig wird eine Reparatur bei den folgenden Problemen:
+
+Ventile auf Kolben aufgeschlagen / krumm / Kolben beschädigt (erfordert Motorausbau, Zerlegung, Aufbohren, neue Kolben mit Übermaß)
+Kolbenfresser (Motorblockierung durch Reibschweißung)
+Gehäuseriss (infolge gefrorenen Kühlwassers)
+allgemeiner großer Verschleiß (bei Dieselmotoren: irgendwann wird wegen zu niedriger Kompression die Selbstzündungstemperatur nicht mehr erreicht; der Wagen lässt sich v. a. im Winter nicht mehr starten.)
+Ölverluste mit Verbrennung (blaue, schwarze Rauchwolken, hoher Ölverbrauch von mehr als zwei Litern auf 1.000 km)Bei diesen letzteren Problemen sind je nach Wert des Fahrzeugs mehrere Möglichkeiten abzuwägen:
+
+Stilllegen des Fahrzeugs wegen Unwirtschaftlichkeit einer Instandsetzung
+Einbau eines Werks-Austauschmotors
+Einbau eines Austauschmotors freier Instandsetzungsbetriebe
+Einbau eines gebrauchten Motors vom Auto-Verwerter
+Komplett-Überholung des Motors
+Verkauf des Wagens mit defektem Motor. Der Wert eines Fahrzeugs mit beschädigtem Motor ist unter anderem abhängig von dem Baujahr, dem allgemeinen Zustand sowie von der Laufleistung.Eine Komplett-Überholung setzt einen intakten, rissfreien Motorblock voraus. Folgende Arbeitsschritte sind hier notwendig (unvollständige Aufzählung):
+
+Motor ausbauen und komplett zerlegen (zum Teil sind Spezialwerkzeuge vonnöten),
+Unter Umständen Motorblock auf nächstes Kolbenmaß aufbohren, Übermaß-Kolben neu beschaffen,
+Ölsystem (Pumpe, gegebenenfalls Druckventile) prüfen und gegebenenfalls erneuern,
+Kurbelwellen-Lagerung überprüfen, evtl. Kurbelwelle schleifen und Übermaß-Lager einbauen,
+Pleuel-Lagerung überprüfen, eventuell die Pleuel neu lagern
+Zylinderkopf erneuern, oder aufarbeiten wenn nötig neue Ventile, neue Führungen und neue Hydrostößel,
+Nockenwellen-Zustand prüfen, eventuell erneuern,
+Nockenwellen-Lagerung prüfen, eventuell die Lagerbuchsen erneuern
+alles mit neuen Dichtungen (Dichtungssatz) zusammenbauen, einstellen, prüfen, wo erforderlich mit neuen Dehnschrauben (Pleuel, Zylinderkopf),
+Zündanlage überprüfen (Spiel der Verteiler-Welle, Sensoren, Steuergerät),
+Schwungrad prüfen, Kupplung erneuern.
+
+
+== Quellen ==
+
+
+=== Literatur ===
+Ernst Greuter, Stefan Zima: Motorschäden. Schäden an Verbrennungsmotoren und deren Ursachen. Vogel Buchverlag, 2000, ISBN 3-8023-1794-7.
+
+
+=== Einzelnachweise ===
+
+
+== Weblinks ==

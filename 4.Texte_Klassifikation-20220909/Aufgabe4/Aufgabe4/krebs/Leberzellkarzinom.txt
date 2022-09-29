@@ -1,0 +1,107 @@
+Das Leberzellkarzinom (auch Primäres Leberzellkarzinom, wissenschaftlich korrekt: Hepatozelluläres Karzinom, abgekürzt HCC, bzw. Carcinoma hepatocellulare; nicht zu verwechseln mit Lebermetastase auch Leberkrebs genannt) ist eine Krebserkrankung, die sich direkt aus den Leberzellen entwickelt. Meist geht dem eine chronische Schädigung der Leberzellen voraus.
+
+
+== Epidemiologie ==
+
+Das hepatozelluläre Karzinom ist weltweit einer der häufigsten bösartigen Tumoren. Etwa 6 % aller Krebserkrankungen beim Mann und circa 3 % bei der Frau sind Leberzellkarzinome.
+Dabei zeigen sich allerdings ausgeprägte geografische Unterschiede: In allen Ländern, in denen die Hepatitis B sehr häufig auftritt, ist auch das hepatozelluläre Karzinom häufig zu finden. Das trifft insbesondere für Asien und Afrika zu. In Europa ist das Karzinom hingegen eher selten, und es entwickelt sich meist auf dem Boden einer Leberzirrhose. Allerdings nimmt die Inzidenz auch in den westlichen Ländern in den letzten Jahren kontinuierlich zu. Ursachen hierfür sind die Zunahme an Virus-verursachten chronischen Hepatitiden (Leberentzündungen), der anhaltend hohe Alkoholkonsum und die hohe Zahl an Personen mit krankhafter Leberverfettung („Fettleber“).
+
+
+== Molekulare Ursachen ==
+Ende 2007 wurde eine wesentliche molekulare Ursache für die Entstehung von Leberkrebs gefunden. Zellbiologische Untersuchungen, veröffentlicht in der Fachzeitschrift Proceedings of the National Academy of Sciences, zeigen, dass bei ca. 60 % der Tumorpatienten das Tumorsuppressorgen FHIT gestört ist.
+Das Gen FHIT (engl. fragile histidine triad) im Chromosom 3 enthält die Erbinformation für ein gleichnamiges Protein, das wiederum Catenin, ein für den Zellaufbau zentrales Molekül steuert. Die Veränderung des Gens hemmt die Herstellung einer Vielzahl von Proteinen, was zu einem unkontrollierten Zellwachstum führen kann. Im Labor ist es den Forschern gelungen, durch Einbringen eines gesunden FHIT-Gens in Krebszellen die Produktion dieser Proteine zu hemmen und das für Tumorzellen typische unkontrollierte Wachstum zu verringern.
+
+
+== Ätiologie und Risikofaktoren ==
+Risikofaktoren für das HCC sind:
+
+Leberzirrhose: Bei bestehender Leberzirrhose ist grundsätzlich das Erkrankungsrisiko für das hepatozelluläre Karzinom erhöht. Jährlich erkranken 5 % der Zirrhosepatienten.
+Virushepatitiden B und C: Eine Virushepatitis vom Typ Hepatitis B und Hepatitis C gilt als ein Karzinogen für das hepatozelluläre Karzinom. Das größte Risiko besteht bei einer Leberzirrhose auf der Grundlage einer Hepatitis. Bei einer konnatalen Infektion mit HBV oder HCV ist das Risiko nochmals erhöht.
+nichtalkoholische Fettleberhepatitis (NASH): diese Patienten haben auch ohne Zirrhose ein erhöhtes Risiko, ein HCC zu entwickeln.
+Hämochromatose: Bei einer Leberzirrhose mit zugrundeliegender Hämochromatose ist das Erkrankungsrisiko mehrfach erhöht.
+Androgene: Bei langjähriger Anwendung von Androgenen, insbesondere beim missbräuchlichen Einsatz (Bodybuilding), ist die Inzidenz des hepatozellulären Karzinoms erhöht.
+Aflatoxine: Die vom Pilz Aspergillus flavus gebildeten Aflatoxine (B1) sind ein Karzinogen für die Leber. Sie kommen hauptsächlich bei kontaminierten Nahrungsmitteln (Nüsse, Getreide) vor.
+Alpha-1-Antitrypsin-Mangel, eine erbliche Stoffwechselerkrankung.
+Tyrosinämie, eine seltene erbliche Störung des Stoffwechsels der Aminosäure Tyrosin.
+dauerhafte Exposition mit Tetrachlorkohlenstoff.Weltweit ist die chronische Hepatitis-B-Virus-Infektion für etwa 50 % aller Fälle von HCC verantwortlich.
+Personen, die mit dem Hepatitic-C-Virus infiziert sind, haben gegenüber der Normalbevölkerung ein um das 15- bis 20-fache erhöhtes Risiko, ein HCC zu entwickeln. In westlichen Ländern zeigen etwa 30 bis 40 % aller an HCC-Erkrankten keine serologische Evidenz für eine Hepatitis-B- oder -C-Infektion, so dass in diesen Fällen andere Ursachen vorliegen. Übergewicht und das sogenannte metabolische Syndrom gelten ebenfalls als Risikofaktor. Moderater Kaffee-Konsum gilt dagegen nach einigen Fallkontrollstudien als moderat protektiv gegenüber der Entwicklung eines HCC. Obwohl etwa 90 % aller hepatozellulären Karzinome im Rahmen einer Leberzirrhose entstehen tragen nicht alle Zirrhosen das gleiche Risiko eines Übergangs in ein HCC in sich. Patienten mit einer Leberzirrhose auf dem Boden einer Hepatitis B oder C, einer Hämochromatose oder Tyrosinämie haben ein besonders hohes Risiko, während Zirrhosen vor dem Hintergrund eines Morbus Wilson, einer Primär biliären Zirrhose (PBC) oder einer Primären sklerosierenden Cholangitis nur selten zu einem HCC führen. Die regelmäßige Einnahme von Acetylsalicylsäure (ASS) kann möglicherweise das Risiko eines HCC vermindern. Die gepoolte Analyse von zwei nicht randomisierten, US-amerikanischen Studien an 133.371 Mitarbeitern im Gesundheitswesen ergab ein signifikant geringeres Risiko, an HCC zu erkranken (relatives Risiko 0,51). Bei Einnahme von ASS über mehr als 5 Jahre war die Risikosenkung höher als bei kürzerer Einnahme.
+
+
+== Pathologie ==
+
+Makroskopisch erscheinen Leberzellkarzinome als knotige oder infiltrative Tumoren. Der knotige Typus kann einzeln (solitär) oder ausgesät in vielen kleinen Tumornestern (multipel) vorliegen. Die Tumorknoten sind rundlich bis oval, grau oder – wenn der Tumor Galle produziert – auch grünlich gefärbt. Der diffuse Typ ist wenig umschrieben und penetriert oft auch Blutgefäße oder Gallenwege.
+In hochdifferenzierten Karzinomen gleichen die Tumorzellen weitgehend den gesunden Hepatozyten und bilden eine fast normale Zytoarchitektur mit Trabekeln. Sie enthalten oft Galletröpfchen im Zytoplasma. Stärker entdifferenzierte Formen weisen Zellen mit großen Formunterschieden (Pleomorphie) und Riesenzellen auf. Im Inneren der Tumormasse kann es zu Nekrosen kommen, da die Blutversorgung dort unzureichend wird. In der Regel wird zur Bestimmung des pathologischen Bildes Material aus dem Tumor anhand einer Nadelbiopsie entnommen.
+
+
+== Histologie ==
+Im mikroskopischen Bild sind zytoarchitektonische und zytologische Muster des Leberzellkarzinoms unterscheidbar:
+
+fibrolamellärer Typ: hohe Anteil an Kollagenfasern, in denen die Karzinomzellen regelrecht eingemauert sind, Tumorzellen sind pleomorph mit weitem Zytoplasma, keine AFP-Erhöhung, sehr selten, 20.–40. Lebensjahr
+pseudoglandulärer (adenoider) Typ: kleine tubuläre Drüsenstrukturen mit einem Lumen
+pleomorpher Typ: Riesenzellen
+solider Typ: Zellen sehr uniform, keine Sekundärarchitektur
+szirrhöser Typ: hohen Anteil desmoplastischer Stromareaktion
+trabekulärer Typ: neoplastische Zellbalken verschiedener Breite, getrennt durch sinusoidale Blutgefäße („Kapillarisierung“ durch neoplastisches Endothel)
+diffuser Typ
+klarzelliger Typ
+
+
+== Symptomatik ==
+Das hepatozelluläre Karzinom führt erst spät zu Symptomen. Tritt ein Druckschmerz im rechten Oberbauch auf, ist dies bereits Ausdruck einer Kapselspannung der Leber. In fortgeschrittenen Stadien ist ein Tumor im rechten Oberbauch tastbar, meist begleitet von Aszites (Bauchwassersucht) und Tumorkachexie (Abmagerung durch Stoffwechselstörung).
+Gelegentlich manifestiert sich das hepatozelluläre Karzinom durch eine Dekompensation einer bestehenden Leberzirrhose und/oder durch paraneoplastisch bedingte Symptome wie Fieber.
+Bei Kindern kann ein primäres Leberzellkarzinom zu Symptomen einer Pubertas praecox führen.
+
+
+== Vorsorgeuntersuchungen ==
+Randomisierte kontrollierte Studien haben gezeigt, dass regelmäßige Vorsorgeuntersuchungen bei Risikopatienten zu einer Früherkennung eines HCC führen können und die Letalität deutlich senken können. Die Leitlinien (Stand: Januar 2014) empfehlen bei Zirrhose-Patienten im Stadium Child-Pugh A sowie Patienten mit chronischer Virushepatitis oder Fettleberhepatitis die halbjährliche Ultraschall-Untersuchung des Abdomens. Eine routinemäßige Bestimmung des Alpha-1-Fetoproteins als Screening-Untersuchung wird aufgrund von ungenügender Sensitivität (~55 %) nicht empfohlen, in der Praxis aber häufig gemacht.
+
+
+== Diagnostik ==
+Für die Diagnostik des HCC sind Sonografie (auch mit Kontrastmittel), die Magnetresonanztomographie oder Computertomographie und wegen seiner ausgeprägten Hypervaskularisation auch die Angiografie geeignet.
+Das Alpha-Fetoprotein (Alpha-1-Fetoprotein) ist ein brauchbarer Tumormarker für das HCC, sofern es initial erhöht ist. Bei Gesunden liegt die Konzentration des Alpha-1-Fetoproteins zwischen 0,1 und 5,8 ng/ml. Bei etwa 50 bis 90 % der HCC-Patienten ist der Alpha-1-Fetoprotein-Spiegel im Blut erhöht.
+Weiterhin gehört die Ermittlung des Ausmaßes einer Leberfunktionsschädigung anhand des Child-Pugh-Scores zur Diagnostik, alternativ auch der ALBI-Grad. Gegebenenfalls sind weitere diagnostische Schritte notwendig (siehe Leitlinie).
+
+
+== Therapie ==
+
+
+=== Chirurgische und interventionelle Maßnahmen ===
+Therapie der Wahl ist eine Leberteilresektion. Diese muss anatomisch durchführbar (keine Ummauerung der Pfortader) und physiologisch tragbar (ausreichende verbleibende Leberfunktion nach dem Eingriff) sein. Die Art des chirurgischen Verfahrens hängt auch davon ab, ob eine Leberzirrhose vorliegt. Rezidivquoten sind mit 60 % innerhalb von fünf Jahren nach der OP jedoch sehr hoch.
+In ausgewählten Fällen (Größe des Tumors, Stadium der Erkrankung, Mailand- oder Milan-Kriterien) ist die Lebertransplantation das Verfahren der Wahl. Dies auch, da die Rezidivraten niedrig sind und in der Regel die zu Grunde liegende Erkrankung (z. B. Hepatitis B oder C) erfolgreich therapiert werden kann.Als minimal-invasive Verfahren haben sich bei inoperablen Patienten die Laserinduzierte Thermotherapie (LITT), die Radiofrequenzinduzierte Thermotherapie (RFITT) und die Kryotherapie als wirksam erwiesen. Bei diesen Verfahren zur Tumorablation wird das Tumorgewebe lokal thermisch zerstört und in situ belassen, wo es mit der Zeit vernarbt bzw. resorbiert wird. Eine weitere minimal-invasive Methode ist die lokale Ablation mit nekrotisierend wirkenden Substanzen, z. B. die perkutane Ethanol-Injektion (PEI). Laut Barcelona-Kriterien (2001) zählen die RFITT und PEI bei der Therapie inoperabler Leberzellkarzinome bereits zu den kurativen Maßnahmen.
+Als palliative Maßnahmen bieten sich interventionelle Verfahren an, darunter die Tumorembolisation über versorgende Äste der Arteria hepatica propria (Transarterielle Chemoembolisation, TACE).
+Weitere interventionelle Verfahren sind:
+
+Radiofrequenzablation (RFA)
+Radiofrequenzinduzierte Thermotherapie (RFITT)
+Laserinduzierte Thermotherapie (LITT)
+Kryotherapie
+Selektive interne Radiotherapie (SIRT)
+
+
+=== Medikamentöse Therapien ===
+Die bisher verfügbaren medikamentösen Maßnahmen sind grundsätzlich palliativ, d. h. eine Heilung der Erkrankung kann alleine damit nicht erreicht werden. Ziel medikamentöser Behandlungen ist es, eine Verzögerung des Krankheitsfortschritts und eine Linderung von eventuellen krankheitsbedingten Beschwerden zu erreichen. Das hepatozelluläre Karzinom spricht schlecht auf herkömmliche Zytostatika an und gilt als weitgehend chemotherapieresistent. In kontrollierten klinischen Studien kam es mit verschiedenen Chemotherapeutika zu keiner signifikanten Verbesserung der mittleren Überlebenszeit. Zu einer wirklichen Verbesserung der medikamentösen Behandlungsmöglichkeiten kam es erst, als tumorspezifische, „zielgerichtete“ Therapien entwickelt wurden.
+Seit der Zulassung des Tyrosinkinase-Inhibitors Sorafenib zur Behandlung des inoperablen HCC steht eine erste zielgerichtete Therapie in Form von Tabletten zur Verfügung. Studien zeigten eine Verlängerung des Gesamtüberlebens bei Patienten mit metastasierten oder inoperablem HCC von 7,9 auf etwa 10,7 Monate.
+In einer Phase-II-Studie wurde bei Patienten mit inoperablen Leberzellkarzinomen Lenvatinib mit Sorafenib verglichen. Lenvatinib hemmt die VEGF-Rezeptoren 1–3, die FGF-Rezeptoren 1–4, den PDGF-Rezeptor α, RET und KIT. Lenvatinib war Sorafenib nicht unterlegen und wurde in der Folge zur Zweitlinientherapie des HCC für Patenten, die bereits Sorafenib erhalten hatten, oder dieses nicht vertragen hatten, zugelassen. Im Rahmen der IMbrave150-Studie wurde Sorafenib mit einer Kombination von Atezolizumab und Bevacizumab verglichen. Diese Phase-III-Studie ergab für die Kombination ein signifikant besseres Gesamtüberleben (nach 12 Monaten: 67,2 % [95 %-KI 61,3–73,1] verglichen zu 58 % [95 %-KI 45,2–64,0]) und ein besseres progressionsfreies Überleben. Atezolizumab ist ein Immuncheckpoint-Inhibitor, der PD-L1 und B7-1 hemmt und dadurch die Suppression von T-Zellen aufhebt. Bevacizumab ist ein VEGF-Hemmer, der die Gefäßneubildung, insbesondere der Tumorgefäße blockiert. Beide Medikamente sind Antikörper und werden intravenös verabreicht.
+Das Biotechnologieunternehmen 4SC AG hat von der amerikanischen Food and Drug Administration (FDA) und der Europäischen Arzneimittelagentur (EMA) für seinen onkologischen Wirkstoff Resminostat den Orphan-Arzneimittel-Status zur Behandlung des hepatozellulären Karzinoms (HCC) erhalten.
+
+
+== Prognose ==
+Da die meisten HCC oft erst spät entdeckt werden und die oft zugrunde liegende Leberzirrhose die therapeutischen Möglichkeiten limitiert, ist die Behandlung der Erkrankung nach wie vor schwierig und die Prognose ungünstig. Die mediane Überlebenszeit ohne Therapie, d. h. die Überlebenszeit, nach der ohne Therapie noch 50 % der Patienten am Leben sind, liegt bei etwa 6 Monaten.
+Patienten, die frühzeitig diagnostiziert werden und innerhalb der Milan-Kriterien transplantiert werden, haben nach wissenschaftlichen Untersuchungen ein besseres Langzeit-Überleben (75 % nach vier Jahren).
+
+
+== Literatur ==
+G. I. Abelev, I. V. Assecritova u. a.: Embryonal serum alpha-globulin in cancer patients: diagnostic value. In: International Journal of Cancer. Band 2, Nummer 5, September 1967, S. 551–558, ISSN 0020-7136. PMID 4170567.
+H. C. Spangenberg, I. Zuber-Jerger u. a.: Diagnostik und Therapie des hepatozellulären Karzinoms. In: Deutsche Medizinische Wochenschrift. Band 129, Nummer 8, Februar 2004, S. 368–372, ISSN 0012-0472. doi:10.1055/s-2004-819893. PMID 14961445. (Review).
+O. Seror, G. N'Kontchou u. a.: Ethanol versus radiofrequency ablation for the treatment of small hepatocellular carcinoma in patients with cirrhosis: a retrospective study of efficacy and cost. In: Gastroentérologie clinique et biologique. Band 30, Nummer 11, November 2006, S. 1265–1273, ISSN 0399-8320. PMID 17185968.
+J. Bruix, M. Sherman u. a.: Clinical management of hepatocellular carcinoma. Conclusions of the Barcelona-2000 EASL conference. European Association for the Study of the Liver. In: Journal of Hepatology. Band 35, Nummer 3, September 2001, S. 421–430, ISSN 0168-8278. PMID 11592607.
+J. M. Llovet, J. Fuster, J. Bruix: The Barcelona approach: diagnosis, staging, and treatment of hepatocellular carcinoma. In: Liver Transplantation. Band 10, Nummer 2 Suppl 1, Februar 2004, S. S115–S120, ISSN 1527-6465. doi:10.1002/lt.20034. PMID 14762851. (Review).
+S. Bergler: Antineoplastische Wirkung des Arzneistoffkandidaten 12-Imidazolyldodecanol im Kontext des hepatozellulären Karzinoms. Dissertation. Universität Ulm, Medizinische Fakultät, 2011.
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+
+Liver Cancer (SFB/TRR77) – From Molecular Genesis to targeted Therapies

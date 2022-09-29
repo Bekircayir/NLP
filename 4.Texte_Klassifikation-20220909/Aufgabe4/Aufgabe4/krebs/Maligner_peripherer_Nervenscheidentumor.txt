@@ -1,0 +1,41 @@
+Der Maligne periphere Nervenscheidentumor (MPNST) ist eine seltene Form eines bösartigen Weichteiltumors des Bindegewebes und gehört zu den Sarkomen. Diese Tumoren gehen von einem peripherem Nerven aus oder enthalten Anlagen einer Nervenscheide. Von Blutgefäßen ausgehende Tumoren der peripheren Nerven fallen nicht unter diese MPNST.
+Enthält der Tumor Anteile von Rhabdomyosarkom, spricht man von einem Triton-Tumor.Veraltete Synonyme sind: Neurogenes Sarkom; Neurofibrosarkom; Malignes Schwannom
+
+
+== Verbreitung ==
+Die Häufigkeit wird auf 1 zu 100.000 geschätzt. MPNST machen 5–10 % aller malignen Weichteiltumoren aus. Bei etwa der Hälfte der Betroffenen besteht eine Neurofibromatose Typ 1. Patienten mit Neurofibromatose Typ 1 entwickeln in etwa 5 % einen MPNST, häufig auch einen Triton-Tumor (mit Rhabdomyosarkomanteilen).
+
+
+== Ursache ==
+Als mögliche Ursachen kommen neben einer Neurofibromatose Typ 1 eine vorausgegangene Bestrahlung sowie Mutationen im NF1-Gen auf Chromosom 17 Genort q11.2 (Neurofibromatose) und im TP53-Gen auf Chromosom 17 Genort p13.1 (Tumorsuppressor-Gen) infrage.
+
+
+== Klinische Erscheinungen ==
+Klinische Kriterien sind:
+Manifestation meist bei Erwachsenen, aber auch im Kindesalter
+Lokalisation in etwa der Hälfte am Rumpf, in 30 % an den Extremitäten, in 20 % an Kopf und Hals
+Ursprung meist von den Hauptnervensträngen wie Ischiasnerv, Plexus brachialis und Plexus lumbosacralis
+häufig umschriebene, spindel- bis kugelförmige Schwellung, nicht selten auch neurologische Ausfälle
+bei Patienten mit Neurofibromatose können sich MPNST aus einem bestehenden Neurofibrom entwickeln.
+
+
+== Differentialdiagnose ==
+Abzugrenzen sind Synovialsarkom, Fibrosarkom, Angiosarkom, Melanom und Pleomorphes undifferenziertes Sarkom.
+
+
+== Therapie und Prognose ==
+Die Behandlung der Wahl ist die radikale Exzision (weit im Gesunden), trotzdem ist bei etwa der Hälfte mit einem Lokalrezidiv zu rechnen. Eine Chemotherapie gilt als nicht erfolgversprechend. Aufgrund einer hohen Rate an Metastasenbildung sind die Aussichten nicht gut. Die Fünfjahresüberlebensrate wird mit etwa 50 % angegeben.
+
+
+== Literatur ==
+K. M. Reilly, A. Kim, J. Blakely, R. E. Ferner, D. H. Gutmann, E. Legius, M. M. Miettinen, R. L. Randall, N. Ratner, N. L. Jumbé, A. Bakker, D. Viskochil, B. C. Widemann, D. R. Stewart: Neurofibromatosis Type 1-Associated MPNST State of the Science: Outlining a Research Agenda for the Future. In: Journal of the National Cancer Institute. Band 109, Nummer 8, 08 2017, S. , doi:10.1093/jnci/djx124, PMID 29117388, PMC 6057517 (freier Volltext) (Review).
+S. Henn, A. Macher, J. Üner, M. Brockmann, C. F. Eisenberger: Primärer maligner peripherer Nervenscheidentumor (MPNST) des N. laryngeus recurrens: Case Report und Diskussion der aktuellen Literatur. In: Zeitschrift für Gastroenterologie, 52, 2014, doi:10.1055/s-0034-1386485.
+D. Katz, A. Lazar, D. Lev: Malignant peripheral nerve sheath tumour (MPNST): the clinical implications of cellular signalling pathways. In: Expert reviews in molecular medicine, Band 11, Oktober 2009, S. e30, doi:10.1017/S1462399409001227, PMID 19835664 (Review).
+M. S. Coady, S. Polacarz, R. E. Page: Cutaneous malignant peripheral nerve sheath tumour (MPNST) of the hand: a review of current literature. In: Journal of hand surgery, Band 18, Nummer 4, August 1993, S. 478–481, doi:10.1016/0266-7681(93)90151-5, PMID 8409661 (Review).
+
+
+== Weblinks ==
+Rare Diseases
+
+
+== Einzelnachweise ==

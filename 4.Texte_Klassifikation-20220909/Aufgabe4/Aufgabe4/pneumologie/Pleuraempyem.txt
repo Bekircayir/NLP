@@ -1,0 +1,31 @@
+Bei einem Pleuraempyem handelt es sich um eine Ansammlung von Eiter (Empyem) innerhalb des Brustfells (Pleura), das heißt zwischen den beiden Pleurablättern, dem Lungenfell (Pleura visceralis) und dem Rippenfell (Pleura parietalis). Ein Pleuraempyem wird synonym auch als Pyothorax, eitrige Pleuritis und Pleuritis purulenta bezeichnet.
+
+
+== Ätiologie ==
+Ein Pleuraempyem entsteht im Rahmen von bakteriellen Infektionen und ist eine Komplikation einer Brustfellentzündung (Pleuritis). In den meisten Fällen sind Pleuraempyeme die Folge einer bakteriellen Lungenentzündung (Pneumonie), wenn es zu einem Übertritt der Bakterien vom Lungengewebe auf die Pleura kommt. Sie werden dann auch als parapneumonische Pleuraempyeme bezeichnet. Da es bei Lobärpneumonien typischerweise zu einer Mitreaktion der Pleura in Form einer Pleuritis kommt, sind es diese Lungenentzündungen, die am häufigsten, in 2–5 % der Fälle, zu Pleuraempyemen führen. Entsprechend häufige Erreger sind daher Pneumokokken (Streptococcus pneumoniae) sowie andere Erreger von Lobärpneumonien, wie Staphylokokken und Klebsiellen.
+Darüber hinaus können Pleuraempyeme Komplikationen von Lungenabszessen, einer Ösophagusperforation, einer Thorakotomie sowie Folge einer Sepsis sein. Bei Letzterem wird auch von einer septischen Metastase gesprochen.
+
+
+== Symptome ==
+Die Patienten leiden meist unter Husten mit Auswurf, Thoraxschmerzen, Atemnot, hohem Fieber, Nachtschweiß und Gewichtsabnahme. Im Rahmen einer Antibiotikatherapie sind die Symptome häufig gar nicht oder nur geringgradig ausgeprägt, so dass die Pleuraempyeme zunächst nahezu klinisch stumm verlaufen können.
+
+
+== Diagnose ==
+
+Bei der körperlichen Untersuchung sind ein abgeschwächtes Atemgeräusch bei der Auskultation und ein gedämpfter (hyposonorer) Klopfschall bei der Perkussion über dem Pleuraempyem typisch aber unspezifisch. Für die Diagnose von Pleuraempyemen reicht meist eine konventionelle Röntgenaufnahme des Brustkorbs. Pleuraempyeme sind hier durch eine deutliche Transparenzabnahme gekennzeichnet. Die Eiteransammlung zeigt sich im Röntgenbild in Form einer Spiegelbildung. Bei unklaren Befunden kann eine Computertomographie des Brustkorbs angefertigt werden.
+Zur Sicherung der Diagnose erfolgt eine zielgenaue Pleurapunktion mit anschließender mikrobiologischer Diagnostik zur Bestimmung des Erregers. Ist der Eiter steril, das heißt, es gelingt kein Erregernachweis, ist dies tuberkuloseverdächtig.
+
+
+== Therapie ==
+Schon in der Antike behandelten Schüler des Hippokrates von Kos und Vertreter der Schule von Alexandria das Pleuraempyem mit einer offenen Ableitung nach außen. Die Methode wurde dann jedoch erst in der Neuzeit wieder aufgegriffen. Die Therapie besteht heute in einer Thoraxsaugdrainage des eitrigen Pleuraergusses sowie Antibiotika-Therapie. Bei gekammerten Pleuraempyemen kann eine Thorakoskopie mit Spülung und gezielter Drainage-Einlage notwendig werden. Ältere, chronische Pleuraempyeme bilden sogenannte „Pleuraschwarten“, in diesem Fall kann auch eine Thorakotomie mit partieller Pleurektomie, Thoraxdrainage und ggf. Einlage eines Medikamententrägers (z. B. ein Kollagen-Vlies mit Gentamicin-Zusatz) erforderlich werden.
+Das Ausheilungsergebnis eines Pleuraempyems ist in der Regel eine Pleurodese, also eine Verklebung der visceralen und parietalen Pleura mit dadurch aufgehobener Gleitfähigkeit zwischen Lunge und Brustwand.
+
+
+== Quellen ==
+H. Renz-Polster u. a: Basislehrbuch Innere Medizin. 3. Auflage. Urban & Fischer-Verlag, München 2004, ISBN 3-437-41052-0, S. 502.
+E. Grundmann (Hrsg.): Einführung in die allgemeine Pathologie. 9. Auflage. Urban & Fischer-Verlag, München 2000, ISBN 3-437-21191-9, S. 121 ff.
+Marianne Abele-Horn: Antimikrobielle Therapie. Entscheidungshilfen zur Behandlung und Prophylaxe von Infektionskrankheiten. Unter Mitarbeit von Werner Heinz, Hartwig Klinker, Johann Schurz und August Stich, 2., überarbeitete und erweiterte Auflage. Peter Wiehl, Marburg 2009, ISBN 978-3-927219-14-4, S. 97–100 (Infektionen der Pleura).
+Joachim Frey: Krankheiten der Atmungsorgane. In: Ludwig Heilmeyer (Hrsg.): Lehrbuch der Inneren Medizin. Springer-Verlag, Berlin/Göttingen/Heidelberg 1955; 2. Auflage ebenda 1961, S. 599–746, hier: S. 731–733 (Pleuraempyem).
+
+
+== Einzelnachweise ==

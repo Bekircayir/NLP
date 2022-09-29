@@ -1,0 +1,59 @@
+Eine Extrasystole ist ein vorzeitig einfallender Herzschlag (daher auch die englische Bezeichnung „premature heart beat“ für Extrasystole), der außerhalb des physiologischen Herzrhythmus auftritt. Sie zählt als Reizbildungsstörung zu den Herzrhythmusstörungen. Der eigentliche Rhythmus kann dabei unbeeinflusst bleiben oder verschoben werden. Die meisten Extrasystolen (Extrasystolie) entstehen nicht im normalen Schrittmacherzentrum (Sinusknoten), sondern in ektopen Erregungszentren (ektoper Fokus) (von altgriechisch εκτοπία, ektopía, „Außerörtlichkeit“; von εκτός, ektós „außen“, und τόπος, tópos „Ort“). Der Betroffene spürt sie oft als Herzstolpern. Extrasystolen kommen nicht nur bei Erkrankungen des Herzens vor, sondern sind auch bei Gesunden ohne Herzschädigung anzutreffen. Gelegentlich können sie aber auch auf eine bedeutsame Herzerkrankung hinweisen.
+Je nach dem Ort der Entstehung im Herzen unterscheidet man ventrikuläre Extrasystolen (VES, Entstehung in einer der Herzkammern) und supraventrikuläre Extrasystolen (SVES, Entstehung meist in einem der Herzvorhöfe).
+
+
+== Ursachen ==
+Extrasystolen kommen oft beim Gesunden ohne Krankheitswert vor, auslösende Faktoren können dabei Erregung, Übermüdung, eine vermehrte Aktivität des vegetativen Nervensystems, Drogen wie Alkohol, Nikotin oder Koffein, Dehydratation oder ein Stromunfall sein. Es kommen jedoch auch organische Erkrankungen des Herzens als Auslöser in Frage, vor allem koronare Herzkrankheit, aber auch Kardiomyopathien oder eine Entzündung des Herzmuskels (Myokarditis). Weiterhin können Ursachen außerhalb des Herzens zu Extrasystolen führen. Dazu zählen ein Überschuss an Schilddrüsenhormonen (Hyperthyreose), verschiedene Medikamente, Elektrolytstörungen, Blockaden der Brustwirbelsäule oder das Roemheld-Syndrom.
+
+
+== Formen ==
+
+
+=== Supraventrikuläre Extrasystole ===
+
+Supraventrikuläre Extrasystolen entstehen als vorzeitige Schläge von Zentren oberhalb der Aufteilung (Bifurkation) des His-Bündels, meistens im Vorhof (Atrium). Man unterteilt sie in Sinus-Extrasystolen, Vorhof-Extrasystolen (atriale SVES) mit ektopem Zentrum im Vorhofmyokard und atrioventrikuläre Extrasystolen (nodale SVES) mit ektopem Zentrum am AV-Knoten, auch AV-junktionale SVES genannt. Bei atrialen SVES wird der Sinusknoten mitentladen. Dadurch verschiebt sich sein Rhythmus genau um die Erregungsleitungszeit vom ektopen Fokus zum Sinusknoten (nichtkompensatorische Pause). Bei der nodalen Extrasystole wird der Vorhof rückläufig entladen. Beide können die Herzkammern aus ihrem Rhythmus bringen (supraventrikuläre Arrhythmie). SVES beim Gesunden bedürfen keiner Therapie, beim Vorliegen einer Herzerkrankung wird vorrangig diese behandelt.
+
+
+=== Ventrikuläre Extrasystole ===
+
+Bei einer ventrikulären Extrasystole (Kammerextrasystole) breitet sich die Erregung von einem in den Herzkammern gelegenen (ventrikulären) ektopen (außerhalb der normalen Schrittmacherstrukturen gelegenen) Fokus über die Herzkammern aus.
+
+
+==== Symptome ====
+Ventrikuläre Extrasystolen (VES) können als ein einzelner ausgefallener Herzschlag, ein einzelner stärkerer Herzschlag oder allgemein als Palpitationen wahrgenommen werden. Nach einer ventrikulären Extrasystole bleibt entweder der Herzrhythmus unbeeinflusst, da die nächste Sinuserregung nach der extrasystolischen Refraktärzeit der Ventrikel eintrifft (v. a. bei niedrigen Herzfrequenzen und früher Extrasystole), oder es kommt zu einer kompensatorischen Pause.
+Nach körperlicher Betätigung können Extrasystolen mit Brustschmerz, Ohnmachts- oder Schwächegefühlen und Benommenheit einhergehen. Unter Stressbelastung können sich die Symptome verstärken.
+Durch Angstreaktionen, beispielsweise in Rahmen einer Cardiophobie, können auch Schwitzen, Tachykardie, Todesangst, erhöhter Blutdruck, Übelkeit, Schwindel, Atemnot, Hyperventilation und weitere Reaktionen des autonomen Nervensystems auftreten.
+Bei den meisten Patienten bleiben ventrikuläre Extrasystolen unbemerkt und symptomlos.
+
+
+==== Ursachen ====
+Ventrikuläre Extrasystolen können bei gesunden Menschen jedes Alters auftreten. In den meisten Fällen treten sie spontan ohne erkennbare Ursache auf. Bei Stimulation des vegetativen Nervensystems durch Stress, Angst, Drogen wie Alkohol, Koffein, Kokain, Erschöpfung und Schlafmangel können vermehrt Extrasystolen entstehen. Auch ein niedriger Kalium- oder Magnesiumspiegel, sowie ein hoher Calciumspiegel begünstigen ihr Auftreten.
+
+
+==== Diagnose ====
+
+Extrasystolen können bei der Palpation des Pulses ertastet und der Auskultation des Herzens gehört werden. Ventrikuläre Extrasystolen können mittels EKG diagnostiziert werden. Man unterscheidet rechtsventrikuläre von linksventrikulären Extrasystolen. Die einfallenden Extrasystolen haben einen verbreiterten QRS-Komplex.
+Mehrere Extrasystolen aus einem Erregungszentrum (monotop) erscheinen im EKG gleichartig (monomorph). Polytope Extrasystolen entstehen hingegen in verschiedenen Erregungszentren und unterscheiden sich deshalb auch im EKG (polymorph). Paarweise auftretende Extrasystolen werden als Couplets, drei direkt aufeinander folgende Extrasystolen als Triplet bezeichnet. Bei vier bis sieben direkt aufeinander folgende Extrasystolen spricht man von einer Salve, ab acht direkt aufeinanderfolgenden ventrikulären Schlägen von einer ventrikulären Tachykardie. In der neueren Literatur werden bereits mehr als drei ventrikuläre Herzaktionen als nicht-anhaltende ventrikuläre Tachykardie (nsVT) bezeichnet. Folgt auf jede normale Erregung des Herzens eine VES, spricht man vom Bigeminus. Folgt auf jede zweite normale Erregung des Herzens eine VES, dann spricht man von einem Trigeminus.
+Die Einteilung der VES beim Herzkranken richtete sich nach der Lown-Klassifikation.
+
+
+==== Behandlung ====
+Isolierte VES sind beim Gesunden nicht behandlungsbedürftig, insbesondere wenn sie ohne kardiale Symptomatik auftreten. Bei kardialer Symptomatik ist eine Behandlung mit einem Betablocker oder Calciumkanalblocker indiziert. Bei hoher Belastung (mehr als 20.000 Extrasystolen pro Tag) können regelmäßige Kontrolluntersuchungen der Auswurfleistung sinnvoll sein.Beim Herzkranken richtet sich die Behandlung nach der auslösenden Herzerkrankung.
+In manchen Fällen kann eine Behandlung durch Magnesiumpräparate das Auftreten von Extrasystolen verringern.
+
+
+==== Prävalenz ====
+VES treten auch bei Gesunden häufig auf. Eine Studie an 1165 gesunden Probanden im Alter von 18 bis 45 Jahren fand bei 40,6 % der Personen in einem Untersuchungszeitraum von 24 Stunden ventrikuläre Extrasystolen, bei 2,9 % traten Couplets auf, bei 0,4 % ein ventrikulärer Bigeminus. Mit steigendem Alter nahm auch die Prävalenz von Extrasystolen zu. Unter dem Alter von 11 Jahren treten bei 1 % der Personen Extrasystolen auf, in der Altersgruppe der 75-Jährigen findet man bei 69 % der Personen Extrasystolen. Laut einer Studie von 1981 an 101 herzgesunden Personen traten während eines 24-Stunden-EKGs, bei 39 (38,6 %) mindestens eine, bei 4 (4 %) Personen mindestens 100 ventrikuläre Extrasystolen auf. Eine Herzerkrankung wurde bei allen Probanden durch eine Röntgenaufnahme des Brustraums, EKG, Echokardiographie, Ausbelastungstest, Herzkatheteruntersuchung und Koronarangiogramm ausgeschlossen. Eine Untersuchung der US-Luftwaffe im Jahr 1962 mit 122.043 männlichen Piloten und Kadetten ergab während der ca. 48-sekündigen EKG-Aufnahme bei 952 (0,78 %) mindestens eine ventrikuläre Extrasystole, das Auftreten nahm mit dem Alter zu.
+
+		
+		
+
+
+== Literatur ==
+Herbert Reindell, Helmut Klepzig: Krankheiten des Herzens und der Gefäße. In: Ludwig Heilmeyer (Hrsg.): Lehrbuch der Inneren Medizin. Springer-Verlag, Berlin/Göttingen/Heidelberg 1955; 2. Auflage ebenda 1961, S. 450–598, hier: S. 562–566 (Die Extrasystolen).
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==

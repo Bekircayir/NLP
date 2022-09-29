@@ -1,0 +1,161 @@
+Tesla Motors, Inc. ist ein US-amerikanisches Unternehmen, das 2003 mit dem Ziel gegründet wurde, Elektroautos für ein breites Publikum zu bauen. Namenspatron von Tesla Motors ist der Physiker und Erfinder Nikola Tesla, der zahlreiche Neuerungen auf dem Gebiet der Elektrotechnik prägte.
+Der Tesla Roadster, gebaut zwischen 2008 und 2012, war das erste Automobil mit einer Batterie aus Lithium-Ionen-Zellen wie sie z.B. in Laptops zum Einsatz kommen. Damit wurde Geld verdient für die Entwicklung der Oberklasse-Limousine Tesla Model S, wovon von Juni 2012 bis Ende 2015 über 100.000 Exemplare verkauft wurden. Ein Ableger davon ist der etwas größere SUV/Van-Crossover Model X mit Flügeltüren. Das kleinere Model 3 ist angekündigt und wurde bereits hunderttausendfach vorbestellt.
+Gegründet wurde die Firma im Juli 2003 von Martin Eberhard und Marc Tarpenning, die 2008 ausschieden. Im Frühjahr 2004 stiegen Risikokapital-Investoren ein, wobei Elon Musk Aufsichtsratsvorsitzender wurde, und bald zur prägenden Figur von Tesla. Der Firmensitz ist Palo Alto im Silicon Valley. Das Unternehmen beschäftigte zum Jahresende 2015 mehr als 13.000 Mitarbeiter. Tesla ist derzeit der einzige Fahrzeughersteller, der einen „emissionsfreien Seriensportwagen“ in größeren Stückzahlen verkauft hat. Tesla produziert derzeit die Modelle S und X in Fremont (Kalifornien), wobei das Model S zusätzlich aus Completely-Knocked-Down-Bausätzen in Tilburg in den Niederlanden gefertigt wird. Tesla verkauft unter anderem an Daimler und Toyota verschiedene Komponenten für deren elektrische Antriebsstränge. Laut Forbes ist Tesla sowohl 2015 als auch 2016 das weltweit innovativste Unternehmen.
+In der Tesla Gigafactory bei Reno in Nevada wird zudem die Tesla Powerwall gefertigt, eine 7-kWh-Batterie für Privathaushalte, mit der Solarstrom oder günstiger Nachtstrom gespeichert werden kann. Außerdem soll das Solarstromanlagen vertreibende und finanzierende Unternehmen SolarCity, bei dem Musk ebenfalls das Sagen hat, von Tesla übernommen werden. Vorgesehen ist das Ende Oktober 2016 vorgestellte integrierte Konzept "solar roofs + batteries + electric cars". Hausdächer sollen in Zukunft mit einzelnen „Tesla Glass“-Dachziegeln in verschiedenen Stilarten gedeckt werden können, bei denen die eingebaute Photovoltaik kaum erkannt werden kann. Der Solarstrom soll per Powerwall zwischengespeichert werden und auch für Elektrofahrzeuge genutzt werden. Ebenso sollen die in den Fahrzeugen bereits erhältlichen großen Glasflächen teilweise mit Photovoltaik ausgestattet werden.
+Ein weiteres erklärtes Ziel ist der Ausbau der Autopilot-Funktionen für Autonomes Fahren, das 10mal sicherer werden soll als ein Durchschnittsfahrer. Tesla-Modelle können bereits automatisiert die Garage verlassen oder einparken. In Zukunft soll ein Tesla z.B. am Arbeitsplatz oder beim Einkaufen alleine einen Parkplatz finden, oder währenddessen als Taxi Geld verdienen.
+
+
+== Firmenstrategie ==
+
+
+=== Vision ===
+CEO Elon Musk, der unter anderem auch Gründer von SolarCity und SpaceX ist, beschreibt, dass das übergeordnete Ziel von Tesla darin bestehe, den Wandel von einer Verbrennungswirtschaft zu einer Solar-Elektrowirtschaft voranzutreiben. Hierfür sei das Ziel, Elektrofahrzeuge auch für Durchschnittskonsumenten erschwinglich zu machen.
+
+
+=== Mission ===
+Die Strategie, dies zu erreichen, erläuterte Elon Musk bereits 2006 in seinem Blog; er fasste seinen geheimen Masterplan zusammen:
+„Einen Sportwagen bauen“, da hier die Zahlungsbereitschaft am höchsten sei und gezeigt werden soll, dass Elektromotoren gegenüber Verbrennungsmotoren überlegen sein können.
+Dieses Geld nutzen, um einen „etwa halb so teuren sportlichen Fünftürer zu bauen“.
+Mit dem verdienten Geld ein „noch günstigeres Familienauto bauen“.
+Währenddessen soll die Option für eine Lademöglichkeit ohne CO2-Emissionen angeboten werden.
+Der Tesla Roadster mit der limitierten Auflage von 2.500 Stück zu einem Kaufpreis ab 100.000 Euro erfüllte die Kriterien und ermöglichte die Entwicklung der Limousine. Beim Model S liegt der Preis in den Vereinigten Staaten auf halber Höhe; in Deutschland liegt der Einstiegspreis bei 76.600 Euro (Stand: Oktober 2016). Zusätzlich zu diesem Bestreben nahm der Ausbau an Supercharger-Schnellladestationen in Deutschland 2014 stark zu, um zum Jahresende hin eine vollständige Abdeckung zu erreichen. Außerdem sollen zertifizierte Gebrauchtwagen verkauft werden.
+Seit Juli 2016 existiert eine Weiterführung dieser Strategie. Auch diese lässt sich in vier Punkten zusammenfassen:
+Solardächer mit nahtlos integriertem Batteriespeicher anbieten;
+Erweiterung der Produktpalette zur Abdeckung aller für die Autoindustrie bedeutsamen Segmente;
+Entwicklung eines Autopiloten, der um den Faktor 10 sicherer fährt als der durchschnittliche menschliche Fahrer;
+Teslas Autos sollen mithilfe des Autopiloten selbständig als Taxi fungieren und damit dem Eigentümer ein zusätzliches Einkommen verschaffen können.
+
+
+=== Vertriebs- & Servicekonzept ===
+Tesla betreibt seine Schauräume und Läden selbst. In Europa sind es rund hundert (2016), es sollen weitere folgen. Auch die rund fünfzig Servicestationen (2016) sollen weiter ausgebaut werden. Alle 20.000 km, oder nach einem Jahr, kann ein Service-Check durchgeführt werden, bei dem mobile „Service-Teams“ Kunden außerhalb der regionalen Verkaufsräume und Werkstätten besuchen. Ein Vorteil des Elektrofahrzeugs ist sein geringes Wartungsbedürfnis, da die Batteriepakete erst nach sieben bis zehn Jahren oder 160.000 km ausgetauscht werden sollten und viel weniger Verschleißteile eingebaut sind. Tesla bietet mit seinem mobilen Kundendienst eine Betreuung an, die sowohl die Wartung als auch Softwareaktualisierungen beinhaltet. Softwareaktualisierungen werden automatisch aus dem Internet geladen, sodass hierfür kein Werkstattbesuch mehr erforderlich ist. Eine Besonderheit betrifft dabei die Werksgarantie von Tesla, die selbst dann gültig bleibt, wenn der Kunde die vorgeschlagenen „Service-Checks“ nicht durchführen lässt.
+Im April 2011 wurde das neue Verkaufskonzept von Tesla in Santa Monica vorgestellt. Das Design-Studio ermöglicht dem Kunden, seinen Roadster nach eigenen Vorstellungen zu gestalten, sich das Endprodukt anzusehen und sich mit anderen Kunden auszutauschen.
+
+
+== Geschichte und Finanzen ==
+
+Ende 2003 hatten sich zwei unabhängige Teams gefunden, zum einen Martin Eberhard, Marc Tarpenning und Ian Wright, zum anderen Elon Musk und JB Straubel, die vom Prototypen des T-Zero inspiriert worden waren und zusammen einen kommerziellen Elektrowagen herausbringen wollten. Der T-Zero, ein elektrischer Sportwagen, der von AC Propulsion entwickelt wurde, war die Grundlage für das eigene Konzept.
+Seit dem College war es das Ziel von Musk, Elektrofahrzeuge so weit zu kommerzialisieren, dass sie für den breiten Kundenbedarf angeboten werden können. Beginnen wollte er mit einem Sportwagen für Early Adopters. Im nächsten Entwicklungsschritt sah das Konzept Mainstream-Modelle vor, wie zum Beispiel eine Limousine, ehe es für eine breite Kundschaft erschwinglich werden würde, zum Beispiel in Form eines Kompaktwagens. Musk übernimmt die aktivste Rolle in der Firma, besonders im Bereich des Designs. Von ihm stammt auch die Idee, das Auto mit einer Karosserie aus CfK zu versehen; er ist für die Konstruktion von Modulen des Antriebs bis hin zum Licht mitverantwortlich.
+Im Jahr 2005 begann die Zusammenarbeit mit Lotus, um die Karosserie des Tesla Roadster zu produzieren. Die Ähnlichkeit des Roadsters mit dem Lotus Elise ist daher zu verstehen. Der Vertrag wurde bis zum Ende 2011 verlängert, ehe ab 2012 die erste eigene Komplettproduktion vorgenommen werden konnte. Bis zum Ende 2011 sind in etwa 2250 Tesla Roadster produziert worden.
+Musk ist finanziell an Tesla Motors beteiligt; er hat den Gewinn aus anderen Produkten in die Firma re-investiert. Das Engagement in diese Technik hat der Firma bislang einige Preise eingebracht, zuletzt den Stevie Award.
+Ende 2008 stand Tesla Motors kurz vor dem Konkurs, konnte jedoch in letzter Minute durch den Investor Dibalog gerettet werden. Tesla Motors ist auch seitdem auf etliche Investoren angewiesen, unter anderen Toyota, Daimler und viele Privatpersonen, die an die Zukunft des Elektroautos glauben oder die Technik für eigene Produkte nutzen. Im Oktober 2014 wurde bekannt, dass Daimler und Toyota ihre Anteile an Tesla vollständig bzw. teilweise verkauft haben.
+Im März 2013 sollte Tesla angeblich an Google für 6 Milliarden US-Dollar verkauft werden, nachdem das Unternehmen Ende 2012 erneut mit Konkursproblemen zu kämpfen gehabt hatte. Durch einen wenig später einsetzenden Absatzschub und einer damit einhergehenden deutlichen Steigerung des Aktienkurses kam es jedoch letztlich nicht zum Verkauf.
+Insgesamt hatte Tesla 2010 einen Umsatz von 116,7 Millionen US-Dollar. Ursprünglich wurden 2013 „schwarze Zahlen“ erwartet, wenn Tesla die geplante Produktion von 20.000 Tesla Model S auch verkauft. 2013 wurden laut Tesla 22.477 Model S verkauft, für 2014 werden Verkaufszahlen von mehr als 35.000 erwartet. Die Erwartung wurde von Tesla im November 2014 auf 33.000 Fahrzeuge gesenkt.
+Dennoch hatte Tesla weitere Verluste von etwa 254 Millionen US-Dollar im Jahr 2011, etwa 396 Millionen US-Dollar 2012, ca. 71 Millionen US-Dollar 2013 und bis einschließlich September 2014 181 Millionen US-Dollar hinzunehmen.
+
+Der Börsengang Ende Juni 2010 war erfolgreich. Der Kurs entwickelte sich seitdem von 17 US-Dollar auf zwischenzeitlich bis zu 265 US-Dollar pro Aktie. Der Ausgangswert des Volumens des Börsenganges betrug 226 Millionen US-Dollar und liegt heute um ein Vielfaches höher. Für den wichtigen europäischen Markt wurde 2010 ein Markendisput mit dem bereits 1921 gegründeten Elektronikunternehmen TESLA mit Sitz in Prag unter nicht näher bekannten Bedingungen geregelt.
+Ein nach einem Unfall in Brand geratener Tesla S führte im Oktober 2013 zu einem temporären Kurseinbruch der Aktie von 12 Prozent (dies entsprach seinerzeit einem Rückgang des Börsenwertes um 3 Milliarden US-Dollar). Fahrzeugbrände bei herkömmlichen Fahrzeugen gelten jedoch als wahrscheinlicher.
+Mitte Juni 2014 erklärte der amtierende Tesla-Motors-Chef Musk, die Patente von Tesla der Öffentlichkeit zu übergeben, um der Entwicklung von Elektrofahrzeugen einen Schub zu geben.
+Einen Teil der Gewinne der letzten Jahre erzielte Tesla nicht mit dem Verkauf von Autos, sondern mit ZEV-Credit Points. Allein im Jahr 2013 generierte das Unternehmen so Einnahmen von knapp 130 Millionen US-Dollar.
+Im ersten Quartal 2015 konnte Tesla erstmals eine fünfstellige Auslieferungszahl in einem Quartal erreichen. Nach dreizehn Quartalsverlusten in Folge machte Tesla im dritten Quartal 2016 einen Gewinn in Höhe von 22 Millionen Dollar.
+Im November 2016 wurde die Übernahme des deutschen Unternehmens Grohmann Engineering bekannt gegeben. Spezialisiert auf Montage-Anlagenbau soll Grohmann Engineering Schlüsseltechnologien zur Steigerung der Produktionskapazität liefern. Unter dem Namen Tesla Advanced Automation Germany sind neben dem umfirmierten Tesla Grohmann Automation als Zentrale weitere Standorte in Deutschland mit zusätzlich 1.000 Ingenieuren in den nächsten zwei Jahren geplant. 
+
+
+== Modelle ==
+
+
+=== Tesla Roadster ===
+
+Am 24. Juli 2006 stellte Tesla Motors den Roadster nach dreijähriger Entwicklungszeit erstmals einem ausgewählten Publikum vor. Der zweisitzige Sportwagen wird angetrieben von einem Elektromotor im Heck, der mit maximal 215 kW über ein Einganggetriebe auf die Hinterräder wirkt. Ein einziger Gang genügt, weil Elektromotoren im Fahrzeugantrieb anders als Kolbenmotoren ihr maximales Drehmoment bereits mit der ersten Umdrehung entfalten und der Motor mit bis zu 14.000 min−1 läuft.
+Die Energiequelle besteht aus 6.831 handelsüblichen Lithium-Ionen-Akkus für Laptops mit einer Speicherkapazität von ca. 53 kWh, die mit einer Spannung von 375 V an den Motor abgegeben werden. Bei den Lithium-Ionen-Akkus handelt es sich um den Typ 18650, von dem jedes Jahr mehrere Milliarden Stück hergestellt werden. Jeder Akku ist 65 mm lang und hat einen Durchmesser von 18 mm. Das gesamte Paket aus 6831 Akkus wiegt etwa 450 kg. Jeder Akku hat zwei Sicherungen, je eine an Anode und Kathode. Das gesamte Akku-Paket wird durch eine Mischung aus Wasser und Glycol gekühlt.
+Auf eine Geschwindigkeit von 97 km/h beschleunigt das Fahrzeug in 3,9 Sekunden (entspricht einer Zeit von 4,02 Sekunden auf 100 km/h). Auf Grundlage des amtlichen amerikanischen Fahrzyklus verspricht der Hersteller einen Aktionsradius von 340 km. Die Ladezeit wird mit 3,5 Stunden angegeben.
+Noch schneller als der Tesla Roadster ist das Sportmodell des Fahrzeugs mit einer Beschleunigung von 0 bis 97 km/h in 3,7 statt 3,9 Sekunden. Der Roadster Sport ist seit 2009 erhältlich und konnte wie der Roadster 2.5 nur noch bis Ende 2011 erworben werden. Ab Ende 2011 wurde die Kooperation mit Lotus eingestellt.
+
+
+=== Tesla Model S ===
+
+Unter dem Codenamen „WhiteStar“ wurde von einem Firmenableger in Detroit eine Sportlimousine entwickelt. Nach Beendigung der Entwicklungsarbeiten wurden in Fremont zunächst 10.000, später 25.000 Fahrzeuge des Modells pro Jahr hergestellt. Das Modell kam unter dem Namen Tesla Model S in den Handel. Es ist ein Verkaufspreis für US-Staatsbürger von 63.570 US-Dollar angekündigt, nachdem eine Bundesumweltschutzprämie für voll-elektrische PKWs von 7500 US-Dollar vom Originalpreis (71.070 US-Dollar) abgezogen ist. Seit 2013 ist das Model S in Deutschland ab 65.740 Euro erhältlich. Ein Konzeptfahrzeug des Modells wurde am 26. März 2009 in Hawthorne in Kalifornien und im September 2009 auf der IAA in Frankfurt der Öffentlichkeit vorgestellt.
+Das Model S ist die erste eigene Produktion von Tesla Motors. Die sportliche Limousine hat fünf Sitze und zusätzlich zwei optionale Kindersitze. Es zeichnet sich durch deutlich mehr Innenraum als der Roadster aus. Tesla bietet beim Model S zwei Akkuoptionen mit einer Kapazität von 70 und 85 kWh und einer Reichweite von bis zu 500 Kilometern an. Weiterhin kann das Model S85 seit 2014 auf Wunsch mit Allradantrieb bestellt werden (85D). In der „Performance“-Version P85D leisten die beiden Elektromotoren in Front und Heck gemeinsam 515 kW (165 kW der Frontmotor, 350 kW der Heckmotor). In dieser Konfiguration ist der Sprint von 0 auf 100 km/h in nur 3,4 Sekunden möglich. Im April 2016 gab es eine Modellpflege des Model S, wobei der bislang schwarz auflackierte Pseudo-Kühlergrill entfiel. Es stehen nun 70 und 90 kWh für das Model S zur Auswahl. Die Ladezeit beträgt rund drei Stunden. Zusätzlich hat Tesla ein Netz von Tesla Supercharger Schnelllade-Stromtankstellen errichtet, die zunächst in den USA, Westeuropa und Ostasien an Reiserouten gebaut wurden, und das Model S (und X) kostenlos in rund 40 Minuten auf 80 % aufladen. Das Model S ist ein Konkurrenzprodukt zur 7er-Serie von BMW und der S-Klasse von Mercedes-Benz.
+
+
+=== Tesla Model X ===
+
+Im Jahr 2010 gab Elon Musk bekannt, dass man bei Tesla an einem Crossover arbeitete, später kündigte man die Markteinführung des Model X genannten Fahrzeugs für 2014 an. Die Vorstellung des Design-Prototyps fand 2012 in Los Angeles statt. Die Markteinführung wurde zunächst mehrfach verschoben und erfolgte schließlich am 29. September 2015.
+Das Model X übernimmt viele Eigenschaften des Model S, also Batteriegrößen und Motoren, 17″-Touchscreen usw., wird aber nur mit Allradantrieb angeboten, so dass der vordere Kofferraum mit 150,1 Litern etwas kleiner ausfällt als bei den heckgetriebenen Model-S-Varianten. Zudem ist die Masse um 300kg größer, und eine Anhängerkupplung erhältlich. Die Karosserie ist nur um einige Zentimeter länger und breiter, aber um 24 cm höher, und bietet Platz für bis zu 7 Personen (beim Model S nur durch 2 nach hinten blickende Kindersitze möglich). Die zweite und dritte Sitzreihe seien besser zu erreichen durch abknickende Flügeltüren, sogenannte falcon wings, die ein zweites Scharnier über den Fenster aufweisen und elektrisch betrieben werden. Weiteres Merkmal ist eine große Frontscheibe, die ein Glasdach über den Vordersitzen bildet. Der hintere Kofferraum verfügt über einen Stauraum von 744,7 Litern, das Umklappen der dritten Sitzreihe vergrößert das Kofferraumvolumen auf über 1.645,2 Liter. Die zweite Sitzreihe war zunächst nicht umklappbar.
+
+
+=== Tesla Model 3 ===
+
+Am 31. März 2016 wurde das "Tesla Model 3" vorgestellt, dessen Marktstart Tesla für Ende 2017 vorgesehen hat. Das erste Mittelklasse-Modell von Tesla soll gut 30cm kürzer werden als das aktuelle Model S und mit ca. 4,65 m den Längen von BMW 3er oder Mercedes-Benz C-Klasse entsprechen. Angestrebt wird eine elektrische Reichweite von mindestens 215 Meilen (entspricht ca. 350 km). In der Basisausführung soll das Fahrzeug 35.000 US-Dollar kosten. Weil die vorgesehene Bezeichnung „Model E“, die S und X ergänzen sollte, ein eingetragenes Markenzeichen der Firma Ford ist, hat Tesla Motors sich für „Model 3“ entschieden, wobei die Zahl 3 wie das E im Firmenlogo mit drei übereinander liegenden, waagerechten Balken „☰“ dargestellt wird.
+Reservierungen für das Fahrzeug werden seit dem 31. März 2016 in allen Tesla Stores und seit dem 1. April 2016 auch online entgegen genommen. Innerhalb von 24 Stunden wurden in den Tesla Stores weltweit über 115.000 Reservierungen angenommen. 3 Tage nach der Vorstellung des Model 3 wurden mehr als 276.000 Reservierungen angenommen, was einer Summe von über 276 Millionen US-Dollar an Anzahlungen entspricht. Es wird, anders als beim Model S und Model X, kein Signature-Modell geben. Das Unternehmen hofft mit dem Model 3 den Absatz von jährlich 50.000 Autos im Jahr 2015 auf über 500.000 Autos im Jahr 2020 anzukurbeln.
+
+
+==== Model Y ====
+Auf Basis des Model 3 soll, analog zu den Modellen S und X, auch ein SUV-Crossover mit der Bezeichnung Model Y auf den Markt kommen, womit das Tesla-Angebot „S☰XY“ wäre. Der Allradantrieb mit zwei Motoren wird in der Limousine als Option angeboten.
+
+
+== Batteriekonzept ==
+Tesla strebt eine hohe Energiedichte, unproblematisches Nachladeverhalten und günstige Anschaffungskosten an. Hohe Energiedichte und unproblematisches Nachladeverhalten werden heute (2014) vor allem von Lithium-Ionen-Akkumulatoren erreicht. Ihr Preis ist aber noch relativ hoch und die Handhabung kann wegen der hohen Energiedichte schwierig sein (einige Mobiltelefon-Modelle sind brandgefährlich).
+Basis des Energiespeichersystems von Tesla sind Lithium-Ionen-Rundzellen in der Größe des Formfaktors 18650. Dabei handelt es sich um Zylinder mit 18 mm Durchmesser und 65 mm Länge. Diese Größe wurde schon milliardenfach für Laptops produziert. Die Rundzellen, in denen die Wirkschichten kostengünstig gewickelt werden, kosteten 2014 zwischen 190 und 200 Dollar pro kWh. Dagegen liegen die Kosten für großformatige Zellen, deren Wirkschichten aufwendig gestapelt oder gefaltet werden, wie sie von anderen Herstellern verwendet werden, in einer Größenordnung von 240 bis 250 US-Dollar pro kWh.
+Tesla schließt jede der Rundzellen in ein Stahlgehäuse ein, das die Wärmeentwicklung beim Laden und Entladen effektiv abführen kann. Die wegen der geringen Größe der Zellen relativ große Oberfläche ermöglicht die schnelle Abgabe entstehender Wärme an die wassergekühlte Umgebung und macht die Zelle praktisch isotherm.
+Beim Batteriepack des Roadsters sind zum Beispiel 69 Zellen parallel zu einem Block verdrahtet. Neun Blöcke sind je Lage in Reihe geschaltet und zu elf Lagen in das Satzgehäuse eingefügt. Insgesamt besteht ein Satz aus 6.831 Zellen. Das Gewicht des Batteriepakets beläuft sich auf ca. 408 kg, kann 56 kWh an elektrischer Energie speichern und liefert 215 kW an elektrischer Leistung als Spitzenwert. Für eine effektive Wärmeübertragung aus jeder Zelle wird Kühlflüssigkeit durch den Satz gepumpt. Das Kühlsystem ist so effektiv, dass auch voneinander entfernte Zellen innerhalb des Packs nur wenige Grade Temperaturunterschied aufweisen. Die Kühlung erfordert zwar Energie, sorgt aber durch Bereitstellung der optimalen Betriebstemperatur und durch Einzelsteuerung der Zellen die Grundlage für das Erreichen einer hohen Lebensdauer des gesamten Pakets. Im Kühlsystem des Paketes sind Sensoren angebracht, die eine gezielte Steuerung der Kühlung ermöglichen. Bei Kälte wird das System umgekehrt zur Heizung der Zellen verwendet. Der ganze Pack ist von einer stabilen Stahlhülle umgeben.
+
+
+== Gleichstrom-Schnellladestationen Tesla Supercharger ==
+
+Tesla Motors begann 2012 mit der Errichtung besonders leistungsfähiger Stromtankstellen unter der Eigenbezeichnung „Tesla Supercharger“ mit einer maximalen Ladeleistung von fast 120 kW. In einer ersten Phase wurde das proprietäre Gleichstrom-Ladesystem (DC) entlang der West- und Ostküste der Vereinigten Staaten errichtet. In einer zweiten Phase erfolgte die Verbindung der beiden Küstenkorridore, wodurch ermöglicht wurde, mit einem Model S die Vereinigten Staaten kostenlos zu durchqueren. Dem Netzausbau in Nordamerika folgten Netzwerke von „Tesla-Supercharger“-Stromtankstellen in Europa und Asien. Im Juni 2014 gab Tesla Motors bekannt, einige Patente der Allgemeinheit zur freien Verwendung zur Verfügung zu stellen, die mit ihren bisher proprietären Stromtankstellen verbunden sind.
+Mit Stand Sommer 2016 ist das Netz in Deutschland so weit ausgebaut, dass man problemlos von jedem Ort zu jedem anderen elektrisch fahren kann. Ca. 60 Standorte wurden realisiert.
+Tesla-Fahrzeuge für den europäischen Markt werden abweichend zum US-Markt mit Ladesteckdosen des IEC 62196 Typ 2 (Mennekes) ausgeliefert. Tesla wartete für seine Gleichstrom-Schnellladung nicht auf den neuen europäischen Ladestandard CCS Combo 2 mit zwei separaten Zusatzkontakten, sondern setzt die Gleichspannungsladung regelkonform über erweiterte Typ-2-Kontakte um.
+Tesla Motors ist seit 2016 Mitglied des Charging Interface Initiative e. V. einem Verein zu Förderung und Verbreitung des Combined Charging Systems.
+Für Tesla Fahrzeuge, die ab dem 1. Januar 2017 bestellt werden, werden per Supercharger nur noch 400 kWh (über 1.600 km, Wert ca. 100 €) pro Jahr kostenlos abgegeben. Die darüber hinausgehende Nutzung wird berechnet, und soll weniger kosten, als das Auftanken eines vergleichbaren Verbrennerfahrzeuges.
+
+
+== Tesla Gigafactory ==
+
+Tesla baut in Reno (Nevada) gemeinsam mit Panasonic eine Fabrik für Lithium-Ionen-Zellen und Batteriepakete, die bis 2020 etwa 500.000 Elektroautos mit preisgünstigen Batteriepaketen versorgen soll. Sie ist Teil einer Strategie, Elektroautos für das breite Publikum zu bauen. Angestrebt wird eine Kostensenkung des Akkupakets von 30 Prozent gegenüber heutigen Gestehungspreisen bis zum Jahr 2017. Die Bauarbeiten begannen im Mai 2014. Ein erster Teil der Fabrik wurde am 30. Juli 2016 eingeweiht.
+Das auf 4 bis 5 Milliarden US-Dollar veranschlagte Projekt, in das Tesla selbst 2 Milliarden US-Dollar investieren will, wird etwa 6500 Personen beschäftigen. Die Fabriknutzfläche wird auf ≈1 Quadratkilometer (10 Millionen ft²) geschätzt, es sollen 2 bis 4 Quadratkilometer (500 bis 1.000 acres) Land erworben werden. Zum Projekt gehören Erneuerbare-Energien-Anlagen wie Solar- und Windkraftanlagen.
+Laut Tesla kamen ursprünglich die US-Bundesstaaten Texas, Nevada, Arizona, New Mexico und Kalifornien als Standort infrage. Im September 2014 wurde der Standort in der Nähe von Reno bekanntgegeben. Um Tesla in Reno anzusiedeln, stellte Nevada insgesamt 1,9 Milliarden US-Dollar an Steuervergünstigungen und anderen Erleichterungen zur Verfügung. In einer Sondersitzung verabschiedeten der Senat und das Unterhaus Nevadas eine Reihe von Gesetzesänderungen jeweils einstimmig, die Tesla 1,3 Milliarden US-Dollar an Steuererleichterungen gewähren.
+
+
+== Tesla Energy ==
+
+Tesla gab Ende April 2015 bekannt, noch im Laufe des Sommers Lithium-Ionen Batteriespeicher anzubieten, für Privathaushalte die Tesla Powerwall (10 kWh und 7 kWh), und das „Tesla Powerpack“ für Unternehmen (100 kWh). Laut Bloomberg war die Produktlancierung sehr erfolgreich. Allein in der ersten Woche seien Bestellungen im Volumen von 800 Millionen USD getätigt worden.
+Die ersten Batteriespeicher wurden im Werk in Fremont produziert. Seit Herbst 2015 werden die Einheiten im bereits fertiggestellten Teil der Gigafactory zusammengebaut.
+
+
+== Autopilot ==
+Tesla bietet in seinen Fahrzeugen eine Fahrerunterstützung, die einige Elemente eines selbstfahrenden Fahrzeugs verwirklicht. Seit Oktober 2015 bieten Fahrzeuge in einem „Autopilot“ genannten Modus auf Autobahnen teilweise Autonomes Fahren an. Dabei kann durch Antippen des Blinkerhebels die Spur automatisch gewechselt werden. Laut Elon Musk werden Fahrzeuge im Jahr 2018/19 voll-autonom fahren können.
+Im Mai 2016 ereignete sich in Florida ein tödlicher Unfall, bei dem das von Mobileye zugelieferte Assistenzsystem einen überquerenden Lastwagenanhänger nicht erkannte. Tesla betonte, die Autopilot-Funktion mache das Fahrzeug nicht zu einem selbstfahrenden Fahrzeug. Der Fahrer müsse jederzeit die Kontrolle über das Fahrzeug behalten. Der Unfall ist Gegenstand polizeilicher Untersuchungen.
+Im Oktober 2016 wurde das Hardwareupdate „Enhanced Autopilot“ vorgestellt, welches erweiterte Autonomie für die ab Ende 2016 hergestellten Fahrzeuge ermöglichen soll. Somit soll eine halbautonome Steuerung des Fahrzeugs, zum Beispiel automatisches Spurwechseln und den autonomen Wechsel von Autobahn zu Autobahn vom Auto übernommen werden.
+Das zusätzliche Hardwareupdate „Autopilot 2.0/Full Self Driving Capability“ soll die vollständige Autonomie einführen. Durch die Verbindung redundanter Kamera-, Radar- und Ultraschallsysteme (Kamera genannt „Tesla Vision“) kann das Auto auf nahezu allen Strecken vollkommen Autonom unterwegs sein, wobei, im Gegensatz zu vorherigen Versionen des Autopiloten, weder ein vorherfahrendes Auto, noch Straßenmarkierungen nötig sind. Die Einführung dieses Systems ist im Jahre 2018 geplant, wobei diese Angabe abhängig von juristischen Entscheidungen der Länder, die diese selbstfahrenden Systeme legalisieren müssen, variieren kann.
+
+
+== Niederlassungen ==
+
+
+=== Unternehmenssitz und Fabrik ===
+Der Firmensitz von Tesla Motors befindet sich in Palo Alto (USA). Die Gründung des Unternehmens fand im Silicon Valley statt, einer Region südlich von San Francisco, in der sich sehr viele technisch fortschrittliche Firmen angesiedelt haben.
+In West Los Angeles wurde 2008 der erste Laden eröffnet, gefolgt von einem weiteren in Menlo Park und vielen weiteren im Laufe des Folgejahres. 2011 waren es 18 weltweit, die meisten davon in den USA und Europa. Im August 2009 wurde Palo Alto als zukünftiger Firmensitz bestimmt. Vor Ort befindet sich das ehemalige PKW-Werk von NUMMI (New United Motor Manufacturing), das Tesla für 42 Millionen US-Dollar von Toyota erworben hat und seit Mai 2010 offiziell Produktionsstätte von Tesla Motors ist. NUMMI liegt in Fremont, unweit des Firmensitzes.
+Zurzeit arbeiten etwas mehr als 1000 Angestellte bei Tesla, langfristig sollen bis zu 10.000 Arbeitsplätze geschaffen werden. Durch die ansteigende Produktion des Models S (ca. 5.000 im Jahr 2012, etwa 20.000 ein Jahr später) und eine Erweiterung der Produktpalette wird die Firma weiter anwachsen. Das Werk wurde zuvor vom Toyota und General Motors Joint Venture NUMMI verwendet, ehe es nach dessen Insolvenz stillgelegt wurde.
+
+
+=== Niederlassungen in Europa ===
+Das europäische Hauptquartier befindet sich in Maidenhead, in der Nähe von London. Der Sitz des ehemals wichtigsten Partners, Lotus, ist ebenfalls in England zu finden. Im Juni 2009 wurde in London die erste Verkaufsstelle von Tesla in Europa eröffnet, gefolgt von jeweils einem Schauraum in München und Monaco. Seit 2010 bestehen weitere Läden in Zürich, Kopenhagen, Paris, Mailand und Berlin. Tesla-Vertreter ohne eigenen Laden sind in den Niederlanden, Oslo, Wien, Hamburg und Madrid zu finden. Tesla errichtete 2014 einen Tesla-Store in Graz-Messendorf mit Schauraum, Büro und Werkstätte. Es liegt in räumlicher Nähe von Magna Steyr sowie verschiedenen Autozulieferbetrieben. Um die Logistikprozesse in Europa zu optimieren, ist seit Ende 2014 geplant, das europäische Hauptquartier nach Tilburg in den Niederlanden zu verlegen. Mittlerweile gibt es zudem einen Tesla Store in Frankfurt am Main und in Nürnberg (Stand Juli 2016).
+
+
+== Strategische Partnerschaften ==
+
+
+=== Daimler ===
+Ab 2007 arbeitete Tesla mit der Daimler AG zusammen, nachdem Elon Musk die deutschen Firmenchefs von seinem Konzept überzeugt hatte, und diese einen Smart in ein funktionierendes Elektrofahrzeug umbauten. Daraufhin bekam Tesla den Auftrag für die Antriebskomponenten des Smart ForTwo. In London gab es eine Versuchsreihe mit 100 Fahrzeugen mit Tesla-Antrieben. Tesla produzierte Batteriepakete und Antriebsstränge für über 2000 Elektrosmarts. Für die Massenproduktion des Elektrosmarts setzt Daimler auf eine Batterie der Deutschen ACCUmotive und einen E-Antrieb von EM-motive. Tesla produziert das Batteriepaket und den Antriebsstrang für die B-Klasse Electric Drive, welche 2014 auf den Markt kam. Im Mai 2009 hatte Daimler 9,1 % der Anteile an Tesla übernommen, wobei 40 % hiervon (ca. 3,64 %) bereits im Juli 2009 wieder abgestoßen wurden. Durch die mit dem Börsengang von Tesla verbundenen Kapitalerhöhungen betrug der Aktienanteil von Daimler zuletzt 4 %. Im Jahr 2014 trennte man sich von diesen Anteilen. Im März 2016 gab Daimler bekannt, dass derzeit keine Folgeprojekte mit Tesla geplant seien.
+
+
+=== Toyota ===
+Seit Mai 2010 besteht eine Kooperation zwischen Tesla und Toyota, die mit dem Verkauf der NUMMI-Fabrik an Tesla begann. Weitere finanzielle Unterstützung des Großunternehmens ist konditionalisiert, abhängig von gemeinsamen Projekten. Neben elektronischen Antriebssträngen sollen auch Fahrzeuge und weitere Komponenten gemeinsam entwickelt werden. Der gemeinsam entwickelte Toyota RAV4 EV kam im September 2012 auf den amerikanischen Markt.
+
+
+=== Panasonic ===
+Ebenfalls 2010 wurde die Partnerschaft mit Panasonic ins Leben gerufen, um die Entwicklung spezieller Lithium-Ionen-Akkus für die Automobilbranche voranzubringen. Dabei hat Panasonic keine Monopolstellung bei Tesla, die Zusammenarbeit zielt eher auf die Forschung und Entwicklung neuer Produkte ab.
+
+
+== Literatur ==
+Frank O. Hrachowy: Automobilgeschichte kompakt: Tesla – Die Geschichte der Automarke. Verlag Edition Technikgeschichte, August 2016, ISBN 978-3-9816711-4-8.
+
+
+== Weblinks ==
+
+tesla.com
+Tesla Motors Club amerikanisches Tesla-Forum
+TFF Forum deutschsprachiges Tesla-Forum
+
+
+== Einzelnachweise ==

@@ -1,0 +1,24 @@
+Das Riesenzellglioblastom ist eine Variante des Glioblastomes. Zusammen mit dem Gliosarkom und dem Epitheloidem Glioblastom wird es als IDH-Wildtyp bezeichnet und in der WHO-Klassifikation der Tumoren des zentralen Nervensystems als Grad IV eingestuft. Kennzeichnend sind ausgeprägte mehrkernige (mehr als 20 Kerne) Tumorriesenzellen bis zu 400 µm Durchmesser.
+
+Beim Riesenzellglioblastom sind nur selten EGFR-Mutationen, aber in 80 % TP53-Mutationen nachweisbar.Synonyme: Monstrozelluläres Sarkom; englisch Giant cell glioblastoma; GC-GBM
+Die Erstbeschreibung stammt aus dem Jahre 1909 durch den Pathologen Alexander Schmincke (1877–1953), der Begriff „Riesenzellglioblastom“ wurde von O. Meyer im Jahre 1913 vorgeschlagen.Klinische Erscheinungen, Diagnostik und Therapie entsprechen dem Glioblastom, siehe dort. Mitunter sind jüngere Patienten betroffen.
+
+
+== Verbreitung ==
+Riesenzellglioblastome machen weniger als 5 % aller Glioblastome aus.
+
+
+== Differentialdiagnose ==
+Abzugrenzen ist das Pleomorphe Xanthoastrozytom.
+Beim Riesenzellglioblastom können häufig Mutationen im TP53-Gen auf Chromosom 17 auf Genort p13.1 nachgewiesen werden. BRAF-V600E-Mutationen sind hingegen selten, was zur Abgrenzung zum Pleomorphen Xanthoastrozytom wichtig ist.
+
+
+== Literatur ==
+Kaoru Ogawa, Akira Kurose u. a.: Giant cell glioblastoma is a distinctive subtype of glioma characterized by vulnerability to DNA damage. In: Brain Tumor Pathology, 37, 2020, S. 5, doi:10.1007/s10014-019-00355-w.
+
+
+== Weblinks ==
+Pathology Outlines
+
+
+== Einzelnachweise ==

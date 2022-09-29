@@ -1,0 +1,112 @@
+Die Asbestose ist eine Krankheit der Lunge und gehört zu den so genannten Pneumokoniosen (Staublungenkrankheiten). Sie entsteht durch eingeatmeten Staub von Asbest, dessen Verwendung aus diesem Grunde in Österreich und der Schweiz seit 1990, in Deutschland seit 1993 und EU-weit seit 2005 verboten ist.
+
+
+== Pathophysiologie ==
+
+
+=== Fibrose ===
+Je nach Dauer der Exposition und Konzentration der Asbestfeinstäube sowie persönlicher Disposition führen eingeatmete Asbestpartikel nach einer Verzögerung von 15 bis 20 Jahren zu einer Fibrosierung des Lungenparenchyms in sehr unterschiedlichem Ausmaß.
+Am häufigsten kommt es zur Fibrose der Unterlappen und pleuranahen Lungenabschnitte, weil die Asbestfasern hier kumulieren.
+Die eingeatmeten Fasern werden von Alveolarmakrophagen (Fresszellen der Lungenbläschen) aufgenommen. Abhängig von der Fasergeometrie können die Asbestfasern jedoch nicht vollständig abgebaut werden, so dass die Alveolarmakrophagen Botenstoffe (Interleukin 1 und Wachstumsfaktoren) abgeben. Folge ist die Einwanderung von T-Helferzellen und Granulozyten. Des Weiteren werden Fibrozyten (Lungengewebszellen) zur Bildung von Typ-III-Kollagen stimuliert. Dies führt letztendlich zur Fibrosierung des Lungengewebes.
+
+
+=== Lungenkrebs ===
+Im Mittel mit einer Latenz von 30 Jahren – in einem Schwankungsbereich von 10 bis 60 Jahren – kann die Asbestose zur Entstehung von Lungenkrebs führen.
+
+
+=== Lungenfellkrebs ===
+Neben der Asbestose kann das Einatmen der Asbeststäube auch zu pleuralen Plaques und Verkalkungen führen. Bei den Plaques handelt es sich nicht um Präkanzerosen (Vorläufer von Krebs), die nicht maligne (bösartig) entarten können. Darüber hinaus ist auch die Ausbildung eines Mesothelioms möglich. Es handelt sich um einen bösartigen Tumor des Rippenfells, der sich ebenfalls erst nach 20 bis 40 Jahren nach Asbestexposition ausbilden kann. Typisch für das Pleuramesotheliom ist die schon zur Auslösung genügende geringe Exposition gegenüber Asbestfasern.
+Von den verwendeten Asbestarten sind die krebserzeugenden Eigenschaften des Krokydolith wegen seiner Fasergeometrie und hohen Biobeständigkeit höher einzustufen als die des Chrysotil.
+
+
+== Symptome ==
+Die auch nach Beendigung der Exposition gelegentlich fortschreitende Lungenfibrose führt zu Atemnot, Reizhusten, zähem Auswurf, Gewichtsverlust und im fortgeschrittenen Stadium zur Invalidität.
+
+
+== Komplikationen ==
+Zu den wichtigsten Komplikationen gehören Chronisch obstruktive Lungenerkrankung, bronchopneumonische Prozesse, Cor pulmonale und Pleuraergüsse.
+
+
+== Diagnostik ==
+Die Diagnose der Asbestose stützt sich im Wesentlichen auf die klinische Untersuchung (hier besonders die Auskultation der Lunge mit dem Stethoskop), die Lungenfunktionsprüfung, das Röntgenbild der Lunge und die Berufsanamnese. Gefährdete Berufe sind: Isolierer, Chemiewerker, Schlosser, Kfz-Mechaniker, Installateure, Fliesenleger, Spinner, Schneider, Baustoffhersteller, Maurer, Dachdecker, Schiffsbauer, Flugzeugbauer, Schmelzer, Former, Schweißer. Aktuell sind vor allem Personen exponiert, die Sanierungen und Renovierungen an Gebäuden vornehmen. Die Computertomografie (CT) kann besonders in hochauflösender Technik die Lungenveränderungen noch früher und detaillierter darstellen als die konventionelle Röntgentechnik.
+
+
+=== Lungenfunktionsstörung ===
+In der Lungenfunktionsprüfung zeigt sich oft eine sogenannte restriktive Ventilationsstörung. Auch eine Diffusionsstörung (Gasaustausch) ist möglich.
+
+
+=== ILO-Klassifikation ===
+Die Anzeichen für eine Asbestose im Röntgenbild werden nach einem standardisierten Verfahren beschrieben. Diese ILO-Klassifikation (International Labour Office) gilt weltweit und beschreibt durch Buchstaben-Zahlen-Codes die Röntgenbildveränderungen:
+Bildgüte: 1–4 = gut–unannehmbar
+Lungenbefund:
+
+kleine rundliche Schatten
+p = Durchmesser ≤ 1,5 mm
+q = Durchmesser > 1,5 bis ≤ 3 mm
+r = Durchmesser > 3 bis 10 mm
+kleine unregelmäßige Schatten
+s = Kaliber < 1,5 mm
+t = Kaliber > 1,5 bis ≤ 3 mm
+u = Kaliber > 3 bis 10 mm.
+große Schatten
+A = Durchmesser > 10 bis 50 mm
+B = größere oder zahlreichere Schatten als A, Schattenäquivalent < rechtes Oberfeld
+C = Schattensumme > rechtes Oberfeld
+Verbreitung
+R (rechtes Lungenfeld) und
+L (linkes Lungenfeld) werden in drei Felder unterteilt: Ober- (O), Mittel- (M) und Unterfeld (U)
+Streuung (Abschätzung der Schattenkonzentration durch Vergleich mit Standardfilmen)
+0 = kleine Schatten fehlen
+1–3 steht für zunehmende StreuungsdichtePleurabefund:
+
+Breite
+a = größte Breite < 5 mm
+b = 5 bis ≤ 10 mm
+c = > 10 mm
+Ausdehnung
+1 = Gesamtlängen-Äquivalent bis zur Länge eines Viertels der Projektion einer seitlichen Brustwand
+2 = Gesamtlängen-Äquivalent von mehr als einem Viertel, aber weniger als einer Hälfte einer seitlichen Brustwand
+3 = Gesamtlänge mehr als die Hälfte der Projektion einer seitlichen BrustwandZwerchfellbefall Ja (J), Nein (N)
+
+
+=== Pleuraplaques ===
+Typisch für eine Asbestose sind verkalkende Ablagerungen (Plaques) am Lungenfell (Pleura), die in der Computertomografie dargestellt werden können. Pleuraplaques verursachen in der Regel keine Beschwerden, sind aber für die Diagnose einer Asbestose und für den Beweis eines asbestinduzierten Lungenkrebses wichtig. Noch besser als im CT lassen sich Pleuraplaques im Rahmen einer Brustkorbspiegelung (Thorakoskopie) nachweisen.
+
+
+=== Asbestkörperchen ===
+Im Rahmen einer bronchoalveolären Lavage (BAL, Lungenspülung) können Proben gewonnen und untersucht werden. Mikroskopisch können bei Asbestose sogenannte Asbestkörperchen gefunden werden. Dabei handelt es sich um Asbestfasern mit eisenhaltiger Eiweißhülle. Sie entstehen, wenn Alveolarmakrophagen versuchen, die zu langen Asbestfasern aufzufressen, und dabei zu Grunde gehen. Die herausstehenden Asbestfasern sehen unter dem Mikroskop „Schaschlikspieß“-artig aus.
+
+
+== Tätigkeiten mit erheblicher Asbestexposition ==
+Asbestaufbereitung
+Herstellung oder Verarbeitung von Asbesttextilprodukten
+Herstellung, Bearbeitung oder Reparatur von Asbestprodukten
+Verwendung von Asbest als Füllstoff in der Herstellung von diversen Materialien, wie z. B.: Farben, Fußbodenbelägen, Dichtungsmassen, Gummireifen, Thermoplasten, Kunstharzpressmassen …
+Renovierungsarbeiten an Bauten:
+Schwach gebundener Asbest: Spritzasbest an Großbauten, ansonsten in Putzen, Leichtbauplatten, Elektrogeräten, Spachtelmassen, Brandschutz und Bodenbelägen.
+Fest gebundener Asbest in Form von Asbestzement:  Dach- oder Wellplatten, Rohre, Blumenkästen, vor allem in den 1960er Jahren auch in Bodenbelägen (Floor-Flex-Platten). Häufig sind schwarzbraune Bitumenkleber asbesthaltig: wird bei Renovierung der Kleber abgeschliffen, kann es zu Freisetzungen von Asbest kommen. Das Abschleifen von asbesthaltigen Bitumenklebern von mineralischem Untergrund gehört bei den Sanierungsarbeiten zu den Verfahren mit geringer Exposition gegenüber Asbest. Daher ist es zulässig und kann nach BG-Information DGUV Information 201-012, (bisher: BGI 664), BT 17 durchgeführt werden. Dort sind die nach der Gefahrstoffverordnung erforderlichen Schutzmaßnahmen und organisatorischen Voraussetzungen zu diesem Verfahren aufgeführt.
+Fest gebundener Asbest in Putzen, Spachtelmassen und vor allem Fliesenklebern, Freisetzung  bei Abrissarbeiten, Bohren und Schleifen. Bei nur 30 Jahre alten Häusern ist immer noch etwa jedes vierte Haus davon betroffen.
+Sonstige Expositionen: Krankenschwestern, die ihre OP-Handschuhe mit asbesthaltigem Talkum puderten. Bremsbelagabrieb aus Straßen- und Schienenfahrzeugen.
+Waschen kontaminierter Arbeitskleidung
+
+
+== Asbestbedingte Berufskrankheiten ==
+Bei Vorliegen der unfallversicherungsrechtlichen Voraussetzungen kann eine Asbestose als Berufskrankheit nach Nummer 4103 der Anlage 1 zur Berufskrankheitenverordnung (BKV) anerkannt werden. Nach der BKV (angepasst durch die Vierte Verordnung zur Änderung der Berufskrankheitenverordnung vom 10. Juli 2017) werden asbestbedingte Berufskrankheiten unter den Nummern
+
+4103 „Asbeststaublungenerkrankung (Asbestose) oder durch Asbeststaub verursachte Erkrankungen der Pleura“ und der
+4104 „Lungenkrebs oder Kehlkopfkrebs oder Eierstockkrebs– in Verbindung mit Asbeststaublungenerkrankung (Asbestose)
+– in Verbindung mit durch Asbeststaub verursachter Erkrankung der Pleura oder
+– bei Nachweis der Einwirkung einer kumulativen Asbestfaserstaub-Dosis am Arbeitsplatz von mindestens 25 Faserjahren (25×106((Fasern/m³) × Jahre))“4105 „Durch Asbest verursachtes Mesotheliom des Rippenfells, des Bauchfells oder des Pericards“
+4114 „Lungenkrebs durch das Zusammenwirken von Asbestfaserstaub und polyzyklischen aromatischen Kohlenwasserstoffen bei Nachweis der Einwirkung einer kumulativen Dosis, die einer Verursachungs-Wahrscheinlichkeit von mindestens 50 % der Anlage 2 (Zweite Verordnung zur Änderung der BKV, BGBl. 2009 Nr. 30, S. 1273–1276) entspricht“ geführt.Asbestverursachte Berufskrankheiten – dazu zählen neben der BK-Nr. 4103 auch das Mesotheliom (BK-Nr. 4105) und der Lungen-, Kehlkopf- und Eierstockkrebs (BK-Nr. 4104) – sind in Deutschland von recht großer Bedeutung. Im Jahr 2019 haben die gewerblichen Berufsgenossenschaften und Unfallversicherungsträger der öffentlichen Hand in insgesamt rund 44.000 Fällen von asbestbedingten Berufskrankheiten Zahlungen für Rehabilitation bzw. Renten an Erkrankte/Hinterbliebene geleistet. Wegen des großen zeitlichen Abstands zwischen Asbestexposition und Krebsentstehung wird erst in den Jahren 2015 bis 2020 mit den meisten jährlichen Neuerkrankungen an asbestbedingtem Lungenkrebs gerechnet.
+In der Schweiz, den Niederlanden und Frankreich werden auch häusliche Asbestopfer entschädigt, die zuhause die Wäsche der Dienstkleidung durchführten. In Deutschland werden diese Opfer nicht entschädigt (Stand: Ende 2018).Bei asbeststaubassoziiertem Lungenkrebs stellt das Tabakrauchen einen wesentlichen zusätzlichen Risikofaktor dar, schließt aber eine Anerkennung als Berufskrankheit keineswegs aus, wenn eine berufliche Asbestexposition nachgewiesen ist und entweder eine Asbestose vorgelegen hat oder eine plausible „kumulative Asbestfaserstaubdosis“ belegt wird.
+
+
+== Forderung nach einem Zentralregister ==
+Der Bundesverband Asbestose fordert ein öffentliches Asbestkataster, damit Eigentümer, Käufer, Verkäufer und Bauherrn sich informieren können, welche Immobilien mit Asbestfasern verseucht sind.
+
+
+== Literatur ==
+Silvia Schön und Hans-Joachim Woitowitz: Wir klagen an. Asbest und seine Opfer. Kellner-Verlag, Bremen und Boston 2014, ISBN 978-3-95651-002-1.
+
+
+== Einzelnachweise ==

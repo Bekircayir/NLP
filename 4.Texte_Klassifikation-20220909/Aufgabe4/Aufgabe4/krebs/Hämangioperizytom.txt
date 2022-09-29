@@ -1,0 +1,29 @@
+Das Hämangioperizytom ist ein Tumor aus der Gruppe der Sarkome. Hämangiosarkome treten im Bereich der Weichteile, insbesondere in der Unterhaut, sowie in den Hirnhäuten auf.
+Der für die Entartung verantwortliche Zelltyp ist bislang unbekannt. Während einige Autoren den Tumor in die Gruppe der Zellen der Blutgefäßumgebung (perivascular wall tumors) einordnen, wird er von anderen in die Gruppe der Nervenscheidentumoren eingeordnet. In der älteren Literatur wird das Hämangioperizytom auch zu den Fibrosarkomen gerechnet. Immunhistochemisch reagiert der Tumor positiv auf S 100, CD34, CD99 und meist auch α-smooth muscle actin ist reich an Vimentin.
+
+
+== Vorkommen ==
+Beim Menschen treten Hämangioperizytome der Weichteile vor allem in den Extremitäten, im Becken und im Kopf-Hals-Bereich auf. Darüber hinaus kommen sie auch in den Hirnhäuten vor und machen hier etwa 2 % der Hirnhauttumoren aus. Sie zählen zu den gutartigen oder zu den semimalignen Tumoren.Beim Haushund ist das Hämangioperizytom ein häufiger Weichteiltumor. Es macht hier etwa 4 % aller Hauttumoren bzw. ein Drittel aller Weichteilsarkome aus. In zwei Dritteln der Fälle tritt der Tumor an den Extremitäten, vor allem an Oberarm und -schenkel auf. Eine Rassehäufung ist für den Deutschen Schäferhund, Deutschen Boxer, Dobermann, Airedale Terrier, Pudel und Spaniel beschrieben. Betroffene Tiere sind meist älter als neun Jahre.
+
+
+== Klinisches Bild ==
+Das Hämangioperizytom tritt als weicher Unterhauttumor auf, der durch Betasten nicht von einem Lipom zu unterscheiden ist. Im weiteren Krankheitsverlauf kann er auch die darüberliegende Haut infiltrieren und zu Haarausfall, Geschwüren und Blutungen führen. Im Anschnitt erinnert der Tumor an mit Bindegewebssträngen durchsetztes Fettgewebe. Die zwiebelschalenartige Kapsel besteht aus zusammengedrückten Tumorzellen. Sie stellt jedoch nicht die wirkliche Tumorgrenze dar. Denn von der Kapsel können mit bloßem Auge nicht sichtbare Tumorausläufer in das benachbarte Gewebe einstrahlen.
+Das Weichteilhämangioperizytom neigt örtlich zu einem invasiven Wachstum. Metastasen in der Lunge oder in regionären Lymphknoten sind aber selten. Hirnhaut-Hämangioperizytome zeigen eine hohe Rezidivrate und bilden häufig Fernmetastasen.
+
+
+== Diagnostik ==
+Die Diagnose wird anhand einer zytologischen Untersuchung eines Feinnadelaspirats gestellt. Die Gewinnung von ausreichend Zellmaterial kann durch die starke Blutungsneigung erschwert sein. Im mikroskopischen Bild lassen sich spindelförmige oder plumpe Zellen nachweisen, die schwanz- oder peitschenartig ausgezogen sind. Die Zellkerne sind oval, besitzen ein feinkörniges Chromatin und ein bis zwei Kernkörperchen. Teilweise können die Zellen zwei oder mehr Zellkerne enthalten („Vogelaugenzellen“).
+Das Risiko der Metastasenbildung lässt sich anhand der Anzahl der Mitosen einschätzen. Mehr als 10 % Ki-67-positive Zellen oder mehr als 25 % PCNA-positive Zellen sind prognostisch ungünstig.
+Die Hinhaut-Hämangioperizytome des Menschen werden bei weniger als 5 Mitosen pro 10 Hauptgesichtsfelder in den WHO-Grad II, bei mehr Mitosen, beim Auftreten von Nekrosen oder bei starker Zellkernvariabilität in den Grad III eingeordnet.
+
+
+== Behandlung ==
+Die chirurgische Entfernung ist Mittel der Wahl, wobei auf eine großzügige Entfernung 1–2 cm über die Pseudokapsel hinaus geachtet werden muss. Dies ist an den Gliedmaßen zumeist schwieriger zu bewerkstelligen als am Rumpf. Sind im verbleibenden Gewebe („Tumorbett“) in der anschließenden histopathologischen Untersuchung noch Tumorzellen nachweisbar, ist eine Bestrahlung angezeigt. Bei großen inoperablen Tumoren kann auch eine palliative Bestrahlung durchgeführt werden.
+Bei kompletter und rechtzeitiger Entfernung und niedrigen Mitosewerten ist die Heilungsaussicht beim Hund sehr gut. Wird der Tumor innerhalb der ersten beiden Monate nach dem Auftreten entfernt, liegt die Rezidivrate bei 5 %, bei späterer Entfernung bei 44 %. Bei einem Mitoseindex <9 liegt die mittlere Überlebenszeit bei 37 Monaten, bei einem Index >9 verringert sie sich auf 49 Wochen. Treten im Tumor bereits Nekrosen auf, besteht ebenfalls eine geringere Überlebenszeit.
+
+
+== Literatur ==
+Martin Kessler (Herausgeber): Kleintieronkologie: Diagnose und Therapie von Tumorerkrankungen bei Hund und Katze. Georg Thieme, Stuttgart, 3. Auflage 2012, ISBN 978-3-8304-1137-6, S. 206–207.
+
+
+=== Einzelnachweise ===

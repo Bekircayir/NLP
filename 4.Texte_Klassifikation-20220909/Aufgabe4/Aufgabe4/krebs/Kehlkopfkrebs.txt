@@ -1,0 +1,129 @@
+Kehlkopfkrebs (Synonyme Larynxkarzinom, Larynxtumor, Kehlkopftumor) ist eine Krebserkrankung des Kehlkopfs. Er gehört zu den häufigsten bösartigen (malignen) Tumoren im Halsbereich. Meist ist er ein Plattenepithelkarzinom.
+
+
+== Häufigkeit ==
+Kehlkopfkrebs betrifft vorwiegend Männer zwischen dem 50. und 70. Lebensjahr. Männer sind 5-mal häufiger betroffen als Frauen. Statistisch betrachtet erkranken in der Bundesrepublik Deutschland jährlich etwa 3600 Männer und 500 Frauen. Der Anteil der Raucherinnen sei mittlerweile stark angestiegen.
+Es ist damit die dritthäufigste Krebsart im Kopf-Hals-Bereich. Mehr als der Hälfte der Tumoren im Kopf-Hals-Bereich sind zum Zeitpunkt der Erstdiagnose bereits lokal fortgeschritten und benötigen laut der DGHNO-KHC interdisziplinär abgestimmte komplexe Therapieverfahren.
+Insgesamt gehört der Kehlkopfkrebs, bezogen auf die Mortalität (Sterblichkeit), zu den selteneren Krebserkrankungen: 1,5 % der männlichen Krebstoten und weniger als 1 % der weiblichen Krebstoten hatten Kehlkopfkrebs.
+
+
+== Formen und Symptome ==
+
+Bei 90 % der Kehlkopfkarzinomen handelt es sich um sogenannte Plattenepithelkarzinome. Nach der Lokalisation unterscheidet man verschiedene Formen:
+
+Glottiskarzinom (Stimmbandkarzinom)
+Tumor im Bereich der Stimmlippen und der Kehlkopfhinterwand. Häufigstes Symptom ist anhaltende Heiserkeit und eventuelle Atemnot (medizinisch Dyspnoe).
+Supraglottisches Larynxkarzinom
+Tumor im Bereich des Kehldeckels (medizinisch Epiglottis) und der Tasche in der Nähe der Stimmbänder (medizinisch Morgagni-Ventrikel); Symptome sind ebenfalls Heiserkeit, eine raue Stimme und ein Druckgefühl im Hals. Eventuelle Streuung von Krebszellen (medizinisch Metastase) in die umliegenden Lymphknoten. Die medizinische Prognose ist hierbei aufgrund früher Metastasierung und späterer Symptomatik schlechter als beim Glottiskarzinom.
+Subglottisches Larynxkarzinom
+Tumor unterhalb der Stimmlippen. Sehr seltene Form.
+Transglottisches Larynxkarzinom
+Tumor, der sich über den gesamten Kehlkopf ausbreitet.Als Glottis (lateinisch eigentl. glottis vocalis) bezeichnet man den gesamten menschlichen Stimmapparat bestehend aus Stimmbändern und Stimmritze. 2/3 sind Glottiskarzinome, 1/3 sind supraglottische Karzinome, selten sub- und transglottische Karzinome.
+
+
+== Ursachen und Risikofaktoren ==
+Kehlkopfkrebs entwickelt sich meist aufgrund einer Vorschädigung des Kehlkopfes, einer sogenannten Präkanzerose. Als Präkanzerosen gelten Dysplasien, Leukoplakien sowie das Carcinoma in situ.
+Als häufigste Ursachen werden das Tabakrauchen und der Alkoholmissbrauch (Alkoholabusus) angegeben.
+Weitere Ursachen können Viren und Umweltgifte wie Asbest sein.
+Es wird vermutet, dass auch Infektionen mit HP-Viren durch Oralverkehr ein Auslöser von Präkanzerosen sein können.
+Erbliche Veranlagung kann die Erkrankung begünstigen.
+
+
+== Behandlung ==
+
+
+=== Diagnose ===
+DiagnoseverfahrenDie Diagnose erfolgt durch Abtasten, eine Kehlkopfspiegelung (Laryngoskopie), eine Gewebeuntersuchung (Biopsie), ansonsten durch Computertomografie, Kernspintomographie und Ultraschalluntersuchungen. Das Ergebnis wird nach TNM-Klassifikation klassifiziert und in der Tumorkonferenz besprochen, um unter Berücksichtigung der Anamnese und des aktuellen körperlichen und psychischen Zustands des Patienten die geeignete Therapie zu finden.
+Synchrone TumorenBei etwa 10 Prozent der Patienten treten synchrone Tumoren auf.
+DifferentialdiagnosenDifferentialdiagnosen sind Kehlkopf-TBC, Kehlkopf-Syphilis, Kehlkopf-Lähmung oder gutartige Tumoren des Kehlkopfs.
+
+
+=== Therapie ===
+Je nach Lage und Größe des Tumors kommt die Behandlung mittels Operation, Strahlentherapie – die begleitende Maßnahmen wie das Anlegen einer PEG, eines Tracheostoma und die Zahnentfernung erfordert –, Chemotherapie, die das Anlegen eines Ports erfordert, und auch eine Kombitherapie in Frage.
+
+
+==== Operation ====
+Die Wahl der Operationsmethode erfolgt in Abhängigkeit vom Ausmaß des Tumors und den zur Verfügung stehenden Methoden.
+
+Laserchirurgische OperationDie laserchirurgische Operation erfolgt mikroinvasiv. Der Tumor wird dabei herausgeschnitten.
+
+Konventionelle chirurgische OperationEine Operation des Kehlkopfes, wobei die chirurgische Entfernung von Kehlkopfteilen oder des ganzen Kehlkopfes notwendig sein kann, ist eine andere Methode. Die Entfernung des gesamten Kehlkopfes (Laryngektomie) hat für den Patienten erhebliche Konsequenzen: Neben dem Verlust der Stimme treten durch die Trennung von Luft- und Speiseweg Verkrustungen der Nasenschleimhaut auf, so dass es zu Geruchsstörungen kommt. Es gibt einige Stimmersatzverfahren. So kann durch Training mithilfe eines Logopäden eine Speiseröhrenersatzsprache erlernt werden und es gibt elektronische Sprechhilfen (Stimmprothesen).
+Die Neck-Dissection, bei fortgeschrittener Erkrankung eine ausgedehnte Operation inklusive Ausräumen der Lymphknoten und der umgebenden Weichteile, ist meist die Methode der Wahl, da häufig Metastasen in den Lymphknoten des Halsbereichs auftreten. Durch eine PET/CT-Untersuchung, die verborgene Krebsherde im Körper aufspüren kann, kann Patienten die Neck-Dissection teilweise erspart werden.
+Künstlicher KehlkopfDie Implantation eines künstlichen Kehlkopfs ist im experimentellen Stadium. Versuche dazu gab es schon 1869 (Czermak). Der Ersatz der Stimmbänder durch Tissue Engineering wird erforscht.
+
+
+==== Strahlentherapie ====
+
+In der Strahlentherapie werden Röntgenstrahlen verwendet, Die Verwendung der Schwerionentherapie wird untersucht.Die Strahlentherapie des Kehlkopfkrebses erfordert als Vorbereitung das Anlegen eines Tracheostomas, einer PEG und eines Zahnschutzes sowie eine Zahnsanierung.
+Für die Bestrahlung wird eine individuelle Maske angefertigt, die der Fixierung des zu bestrahlenden Bereiches während der Bestrahlung dient. Die Bestrahlung erfolgt nach den Ergebnissen einer Planungs-CT.
+Bei der Strahlentherapie ist die Gefahr von späteren Sekundärtumoren zu bedenken.
+
+
+==== Kombitherapie ====
+Wenn die Strahlentherapie mit einer Chemotherapie kombiniert wird, ist auch ein Port erforderlich.
+Die Kombitherapie des Kehlkopfkrebses erfolgt in der Regel schrittweise. Es wird zuerst geprüft, ob der Tumor auf die Chemotherapie anspricht. Danach wird stationär eine Chemotherapie und Strahlentherapie über eine Woche, eine vierwöchige Strahlentherapie und abschließend erneut stationär eine Chemotherapie und Strahlentherapie über eine Woche durchgeführt.
+
+
+==== Chemotherapie ====
+Eine Chemotherapie wird bei Fernmetastasen gewählt.
+
+Eine Antikörpertherapie ist ähnlich einer Chemotherapie (allerdings mit anderen Nebenwirkungen) in Kombination mit einer Strahlentherapie und bei Rezidiven
+
+
+==== Palliative Behandlung ====
+Als palliative Behandlung wird meist eine Chemotherapie eingesetzt.
+
+
+==== Alternativmedizin und Komplementärmedizin ====
+40 bis 50 Prozent aller Krebspatienten in Deutschland nutzen komplementäre oder alternative Therapiemöglichkeiten.
+KomplementärmedizinDie Komplementärmedizin als naturheilkundliche Begleittherapie von Krebs findet sich auch im Bereich der wissenschaftlichen Medizin,
+AlternativmedizinDie Alternativmedizin wird von Komplementärmedizin strikt unterschieden und abgelehnt, da für die meisten populären Verfahren überprüfbare Daten fehlen, oder die Daten nicht ausreichen, um eine Therapie wirklich beurteilen zu können.
+
+
+==== Begleitende Aufgaben ====
+Da die Erkrankung ein Trauma bedeuten kann, ist eine psychoonkologische Begleitung der Patienten und deren Angehörigen erforderlich. Diese Begleitung kann stationär oder ambulant erfolgen.
+
+
+== Prognose ==
+Das Saarländische Krebsregister gibt für Männer eine Fünfjahresüberlebensrate von 65,4 % an (d. h. nach fünf Jahren sind 34,6 % der Patienten verstorben). Bei Frauen beträgt die Fünfjahresüberlebensrate 75,8 %. Die Prognose ist abhängig von der Lokalisation und dem Stadium des Kehlkopfkrebses sowie der Verursachung. Für eine Kombitherapie werden abweichende Zahlen angegeben.
+
+
+== Nachwirkungen ==
+Die Nachwirkungen sind von der angewendeten Therapieform und dem jeweiligen Patienten abhängig.
+
+Operative TherapieHäufig wird eine Sprachtherapie – insbesondere nach Laryngektomie – erforderlich.
+ChemotherapieDie Nachwirkungen einer Chemotherapie sind von der Wahl des Chemotherapeutikums und dessen Nebenwirkungen abhängig.
+StrahlentherapieDie Nachwirkungen einer Strahlentherapie sind Spätreaktionen wie Narbenbildung im Bindegewebe, Verfärbungen der Haut, Verhärtungen im Unterhautfettgewebe, Mundtrockenheit, Geschmacksverlust, Knochen- und Zahnschäden.
+PsycheBei Patienten wird nach Kehlkopfteilresektion – neben den unmittelbaren Folgen – eine Angst vor einem Rezidiv, eine Progredienzangst gefunden.Insbesondere nach einer Larynxektomie entstehen durch die Beeinträchtigung der Möglichkeiten zur Sozialen Kommunikation Belastungen.
+
+
+== Nachsorge ==
+Wie bei allen Tumorerkrankungen ist eine Nachsorge erforderlich. Hierbei wird der Patient in den ersten zwei Jahren im Abstand von einem bis drei Monaten, im dritten und vierten Jahr halbjährlich und danach jährlich untersucht und die begleitenden Maßnahmen beendet, wobei Nebenwirkungen der Bestrahlung, wie Wundheilungsstörungen, zu beachten sind.Es haben sich Selbsthilfegruppen für Menschen gebildet, deren Kehlkopf ganz oder teilweise entfernt wurde oder die aufgrund einer Rachen- bzw. Kehlkopfkrebs-Erkrankung behandelt wurden. Diese betreuen auch Angehörige.
+
+
+== Anmerkungen ==
+
+
+== Siehe auch ==
+Stimmprothese
+
+
+== Literatur ==
+Adel K. El-Naggar, John K. C. Chan, Jennifer R. Grandis (Hrsg.): WHO Classification of Head and Neck Tumours (World Health Organization Classification of Tumours). 4. Auflage. WHO, 2017, ISBN 978-92-832-2438-9 (englisch). 
+Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften (Hrsg.): S3-Leitlinie Diagnostik, Therapie und Nachsorge des Larynxkarzinoms. Januar 2019 (awmf.org [PDF; abgerufen am 4. August 2019]). 
+
+
+== Weblinks ==
+
+Videos
+
+Doctor’s Message is Still Heard Despite Losing Vocal Cords To Throat Cancer auf YouTube in Englisch
+Radiation Treatment – Head and Throat Cancer auf YouTube in Englisch
+Michael Douglas Speaks About His Battle With Cancer at the 2014 AHNS and IFHNOS Meeting auf YouTube in EnglischAndere Weblinks
+
+Broschüre zu Rachen- und Kehlkopfkrebs. (PDF) Stiftung Deutsche Krebshilfe, abgerufen am 8. März 2019. 
+Fedor Singer: Gesundheitsratgeber zum Thema Kehlkopfkrebs: Was ist Kehlkopfkrebs? GFMK, abgerufen am 8. März 2019. 
+Bösartige Erkrankungen des Kopf-Hals-Bereiches. Universitätsklinikum Heidelberg, abgerufen am 3. November 2020. 
+
+
+== Einzelnachweise ==

@@ -1,0 +1,33 @@
+Das Gliosarkom ist ein seltener, äußerst bösartiger (maligner), hirneigener Tumor. Er weist wie das ihm ähnliche Glioblastoma multiforme Ähnlichkeiten mit den Gliazellen (Astrozyten) auf. Als Variante des Glioblastoms wird das Gliosarkom wegen seiner sehr schlechten Prognose in der WHO-Klassifikation der Tumoren des zentralen Nervensystems als Grad IV eingestuft.
+
+
+== Epidemiologie ==
+Das Gliosarkom ist eine seltene Neoplasie, auf etwa 50 Glioblastome kommt einer dieser Tumoren. Dies bedeutet, dass auf eine Million Einwohner nur etwa alle zwei Jahre ein Neuerkrankungsfall kommt (Inzidenzrate 0,05/100.000).
+
+
+== Pathologie ==
+
+Definitionsgemäß weist es eine hohe Verwandtschaft mit dem Glioblastom auf, besitzt aber neben der glialen Komponente (diese weist meist eine astrozytäre Differenzierung auf) einen sarkomatösen (Bindegewebstumor-)Anteil. Letzterer entspricht für sich genommen meist einem malignen fibrösen Histiozytom oder Fibrosarkom. Der gliale Anteil ist in der Regel GFAP-positiv, der sarkomatöse Anteil exprimiert kein GFAP.
+
+
+== Genetik ==
+Wahrscheinlich sind die sarkom-artigen Tumorbestandteile durch mesenchymale Transdifferenzierung einzelner Gliomzellen entstanden. Die molekulargenetischen Veränderungen sind ähnlich wie bei Glioblastomen (Verlust des Chromosoms 10, Mutationen in den Genen TP53, PTEN, CDKN2A/p16 und weiteren) Im Gegensatz zum gewöhnlichen Glioblastom ist die Rate an EGFR-Amplifikationen allerdings deutlich niedriger. Die genetischen Veränderungen sind in der gliomatöse und sarkomatöse Komponente die Gleichen, so dass man von einem monoklonalen Ursprung des Gliosarkoms ausgeht.
+
+
+== Klinik ==
+Die klinischen Erscheinungen sowie diagnostischen und therapeutischen Prinzipien entsprechen denen des Glioblastoms.
+
+
+== Prognose ==
+Während eine erste Studie einen geringgradig besseren Verlauf von Patienten mit einem Gliosarkom im Vergleich zu Patienten mit einem Glioblastom implizierte, konnten folgende größere Studien keine wesentliche prognostische Differenz zwischen beiden Tumorentitäten aufzeigen.
+
+
+== Literatur ==
+Peiffer, Schröder, Paulus: Neuropathologie: morphologische Diagnostik der Krankheiten des Nervensystems und der Skelettmuskulatur. Springer, Berlin 2002, ISBN 3-540-41333-2.
+K. R. Kozak, A. Mahadevan, J. S. Moody: Adult gliosarcoma: Epidemiology, natural history and factors associated with outcome. In: Neuro-Oncology (2008). PMID 18780813.
+J. M. Meis, K. L. Martz, J. S. Nelson: Mixed glioblastoma multiforme and sarcoma. A clinicopathologic study of 26 radiation therapy oncology group cases. In: Cancer, (1991); 67(9), S. 2342–2349. PMID 1849447.
+R. M. Reis, D. Konu-Lebleblicioglu, J. M. Lopes, P. Kleihues, H. Ohgaki: Genetic profile of the gliosarcoma. In: The American Journal of Pathology. (2000); 156, S. 425–432.
+B. Actor, J. M. Cobbers, R. Buschges, M. Wolter, C. B. Knobbe, P. Lichter, G. Reifenberger, R. G. Weber: Comprehensive analysis of genomic alterations in gliosarcoma and its two tissue components. In: Genes, Chromosomes & Cancer. (2002); 34, S. 416–427.
+F. Maiuri, L. Stella, D. Benvenuti, A. Giamundo, G. Pettinato: Cerebral gliosarcomas: correlation of computed tomographic findings, surgical aspect, pathological features, and prognosis. In: Neurosurgery (1990); 26, S. 261–267.
+J. R. Perry, L. C. Ang, J. M. Bilbao, P. J. Muiler: Clinicopathologic features of primary and postirradiation cerebral gliosarcoma. In: Cancer. (1995); 75, S. 2910–2918.
+E. Galanis, J. C. Buckner, R. P. Dinapoli, B. W. Scheithauer, R. B. Jenkins, C. H. Wang, J. R. O'Fallon, G. Farr: Clinical outcome of gliosarcoma compared with glioblastoma multiforme: North Central Cancer Treatment Group results. In: Journal of Neurosurgery. (1998); 89, S. 425–430.

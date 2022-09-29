@@ -1,0 +1,39 @@
+Die Epiglottitis oder Laryngitis supraglottica ist eine lebensbedrohliche Kehldeckelentzündung, (Epiglottis = gr. Kehldeckel, -itis = Entzündung) und wird meistens durch das Bakterium Haemophilus influenzae Typ B verursacht. Die Epiglottitis befällt häufiger Kinder im zweiten bis sechsten Lebensjahr als Erwachsene und ist durch starke Schmerzen beim Schlucken, kloßige Sprache, Atemnot und hohes Fieber gekennzeichnet.
+Die Epiglottitis ist ein Notfall. Bei Verdacht auf eine Epiglottitis ist in der Regel der Transport in eine Klinik durch den Rettungsdienst unter Begleitung eines Notarztes erforderlich. Gegen den Verursacher der Epiglottitis (Haemophilus influenzae) ist eine Impfung möglich und von der STIKO empfohlen.
+
+
+== Vorkommen ==
+Die Epiglottitis tritt häufiger bei Klein- und Schulkindern im Alter zwischen zwei und sechs Jahren auf und wird deshalb mit zu den Kinderkrankheiten gezählt. Aber auch Jugendliche und Erwachsene können betroffen sein. Die Krankheit bricht in den meisten Fällen ohne vorhergegangene Erkrankung aus, nur manchmal nach vorausgegangenen Infekten des oberen Nasen-Rachen-Raums. Aufgrund des guten Impfschutzes (sog. Hib-Impfung) ist sie nur noch selten zu finden, aber wegen ihres meist hoch akut bis tödlich verlaufenden Auftretens äußerst gefährlich (Letalität 10 % – 20 %).
+
+
+== Symptome ==
+Leitsymptome der akuten Epiglottitis sind plötzlich beginnendes hohes Fieber (38–40 °C), heftige Schluckschmerzen und daraus resultierende Nahrungsverweigerung und verstärkter Speichelfluss. Da es zur extremen Schwellung der Epiglottis und des Larynx kommt, somit der Luftweg stark verengt wird, fällt den Betroffenen das Atmen schwer. Typisch ist ein ausgeprägter inspiratorischer Stridor und karchelnde (ähnlich einem Schnarchen) Ausatmung. Die Epiglottis erscheint als pralle, hochrote Kugel. Auch Abszesse sind möglich, sie imponieren als vorgewölbte gelbe Flecken auf dem geschwollenen Kehldeckel.
+Die Patienten versuchen mit allen Mitteln die Luftzufuhr zu verbessern. Der Mund ist geöffnet, die Patienten sind meist sehr konzentriert, nutzen den Kutschersitz um die Atemhilfsmuskulatur besser nutzen zu können. Manche Patienten zeigen zudem eine deutliche periorale Blässe oder sogar eine Zyanose. Die Sprache klingt kloßig. Im Extremfall kommt es zu Erstickungsanfällen, die zum Tod führen können.
+Insgesamt ist der Krankheitsverlauf sehr rasch, meist aus voller Gesundheit heraus innerhalb von Stunden extreme Verschlechterung des Zustandes. Die Patienten machen einen schwerkranken Eindruck.
+
+
+== Erreger ==
+Haemophilus influenzae, auch Pfeiffer-Influenzabakterium genannt, ist der Haupterreger der Epiglottitis. Es ist ein gramnegatives, fakultativ anaerobes Stäbchen-Bakterium, teilweise bekapselt und unbeweglich. Seltene Erreger sind Streptococcus pneumoniae, andere beta-hämolysierende Streptokokken und Staphylococcus aureus.
+
+
+== Vorgehen und Behandlung ==
+Besteht auch nur der Verdacht auf eine akute Epiglottitis, ist ein sofortiger Transport in ein Krankenhaus notwendig. Nach Möglichkeit sollte eine instrumentelle Untersuchung des Rachenraumes unterbleiben, da jede Manipulation an der geschwollenen Schleimhaut zu einer vollständigen Verlegung der oberen Atemwege führen sowie einen reflektorischen Laryngospasmus auslösen kann. Die instrumentelle Inspektion des Rachenraumes darf nur mit vorhandenen Möglichkeiten zur Atemwegssicherung erfolgen (s. u.). Der Umgang mit dem Patienten muss sehr vorsichtig geschehen, da jede Art von zusätzlicher Belastung die Atmung verschlechtern kann. Die Gabe von Benzodiazepinen (z. B. Diazepam) ist untersagt, da neben der erwünschten Sedierung auch eine Atemdepression auftreten kann.
+Es sollte so schnell wie möglich mit einer medikamentösen Therapie mit Kortikosteroiden (z. B. Prednison) begonnen werden, um ein rasches Abschwellen des Kehldeckels zu erreichen. Aufgrund des späten Wirkungseintrittes von Kortikosteroiden bietet sich auch eine Verneblung von Adrenalin an, um eine schnelle Abschwellung zu erreichen. Gleichzeitig sollte eine hoch dosierte intravenöse Antibiotikagabe (z. B. mit Cephalosporinen der 2. oder 3. Generation; Cefuroxim bzw. Ceftriaxon) erfolgen. Die Atmung muss überwacht werden (Pulsoxymetrie), im Notfall muss sie durch endotracheale Intubation gesichert werden, was aufgrund der oben beschriebenen Symptomatik schwierig sein kann. Aus diesem Grund sollte neben der endotrachealen Intubation auch ein chirurgisches Eingreifen (Koniotomie, Tracheotomie) vorbereitet werden.
+
+
+== Vorbeugung ==
+Gegen den Verursacher der Epiglottitis (Haemophilus influenzae) ist eine Impfung möglich (siehe HIB-Impfung). Diese wird für alle Kleinkinder empfohlen (offizielle Empfehlung der STIKO).
+
+
+== Ähnliche Erkrankungen ==
+Eine Erkrankung mit ähnlichen Beschwerden (Differenzialdiagnose) ist die akute subglottische Laryngitis, der sogenannte Pseudo-Krupp. Dieser verläuft ähnlich der Epiglottitis, jedoch gibt es einige Unterschiede:
+
+Keine Schluckschmerzen
+Typischer bellender Husten
+Das Fieber steigt nicht so hoch an (selten über 38 °C).
+Die Betroffenen sind meist jünger (Kinder im Alter von 1–3 Jahren).
+Äußerst selten letaler Ausgang.Dennoch sind beide Erkrankungen im Einzelfall schwer zu unterscheiden.
+Weitere Erkrankungen mit ähnlichem Verlauf sind:
+
+Diphtherie: Bei Befall des Kehlkopfes (echter Krupp) tritt ebenfalls eine Atemnot mit Stenosegeräusch (Stridor) auf, Tod durch Ersticken ist möglich. Die Diphtherie tritt in der Bundesrepublik Deutschland äußerst selten auf.
+Fremdkörperaspiration: Tritt vor allem bei Kleinkindern auf. Plötzlich aus dem Nichts einsetzender Husten und Atemnot. Kein Fieber, keine anderen Infektzeichen.

@@ -1,0 +1,110 @@
+Ein AV-Block (Abkürzung für atrioventrikulärer Block, genannt auch atrioventrikuläre Leitungsstörung und Störung der atrioventrikulären Erregungsausbreitung) ist eine häufige Herzrhythmusstörung. Dabei ist die Erregungsleitung zwischen den Vorhöfen und den Herzkammern am Atrioventrikularknoten (AV-Knoten) des Herzens verzögert, zeitweise oder dauerhaft unterbrochen.
+Leichtere Formen des AV-Blockes können unbemerkt bleiben und bedürfen keiner Behandlung. Schwerere Formen führen zu einem zu langsamen Herzschlag (Bradykardie, Bradyarrhythmie). Im Extremfall kann es sogar zu einem kompletten Stillstand der Kammern kommen, was dann einer notfallmäßigen Medikamenten- und Herzschrittmacherbehandlung bedarf.
+
+
+== Formen ==
+Alle Formen des AV-Blocks können mittels Elektrokardiogramm (EKG) erkannt werden.
+
+
+=== AV-Block I. Grades ===
+Hierbei ist die Erregungsleitung verzögert, und es kommt zu einer verspätet einsetzenden Kontraktion der Herzkammern.
+Diese Störung ist an einer Verlängerung der PQ-Zeit (über 200 ms) im EKG oder an einer Verkürzung des Abstandes zwischen der bei der Füllung der linken Herzkammer entstehenden E- und A-Welle im Echo erkennbar.
+Sie bleibt subjektiv unbemerkt und bedarf meist keiner Behandlung.
+
+
+=== AV-Block II. Grades ===
+
+Die Erregungsleitung und damit die Kammeraktion fällt teilweise aus. Dabei gibt es mehrere Möglichkeiten:
+
+Die PQ-Zeit wird immer länger. Schließlich wird sie so lang, dass eine Vorhoferregung gar nicht mehr übergeleitet wird und eine einzelne Kammerkontraktion ausfällt. Die darauf folgende Vorhoferregung wird wieder normal übergeleitet. Dann beginnt die PQ-Zeit-Verlängerung wieder von neuem (Wenckebachperiodik). Die wissenschaftliche Definition eines Wenckebach-Blockes besagt, dass eine P-Welle nicht übergeleitet wird und die PQ-Zeit der P-Welle vor dem Ausfall länger ist als die PQ-Zeit der P-Welle nach dem Ausfall.
+Plötzliches und unerwartetes Ausbleiben einer Kammeraktion auf eine Vorhoferregung, ohne dass das PQ-Intervall zuvor verlängert gewesen sein muss. Diese meist im His-Bündel (also unterhalb des AV-Knotens) lokalisierte Blockform wird als Mobitz-Block bezeichnet. Diese Blockform entsteht häufiger aufgrund von strukturellen Schädigungen des Herzens, daher ist die Prognose im Vergleich zum Wenckebach-Block ungünstiger, da die Gefahr besteht, dass der Rhythmus in einen totalen AV-Block übergeht.
+Bei einem 2:1 Block wird regelmäßig nur jede 2. Vorhofaktion auf die Kammer übertragen werden. Bei höhergradigen AV-Blockierungen besteht ein 3:1 oder ein noch höheres Blockverhältnis.Im englischen Sprachraum wird der Wenckebach-Block auch als Mobitz Type I, der Mobitz-Block als Mobitz Type II oder Hay bezeichnet. Die 2:1-Blöcke als "fixed-ratio-block" und alle höhergradigen regelmäßigen Blockbilder als "high-grade AV-Block II".
+
+
+=== AV-Block III. Grades (totaler AV-Block, totaler Herzblock) ===
+
+Vollständiger Ausfall der Erregungsleitung zwischen Vorhof und Kammer (AV-Dissoziation). Die Kammer bleibt stehen oder schlägt in einem langsamen (bradykarden) Ersatzrhythmus asynchron zu den Vorhöfen weiter, der durch den als sekundärer Schrittmacher bezeichneten AV-Knoten (mit ca. 40–50 Impulsen pro Minute) oder die tertiären Schrittmacher (His-Bündel, Tawaraschenkel und Purkinje-Fasern mit einer Frequenz von ca. 20–30 Impulsen pro Minute) erzeugt wird. Ein AV-Block III. Grades kann mit normalen QRS-Komplexen (AV-Ersatzrhythmus) oder verbreiterten QRS-Komplexen (Kammerersatzrhythmus) auftreten.Ein AV-Block III. Grades ist eine typische Indikation zur Implantation eines Herzschrittmachers.
+
+
+== Ursachen und Häufigkeit ==
+Fröhlig benennt folgende Ursachen:
+
+
+=== Angeborener AV-Block ===
+Ein angeborener AV-Block ist mit einer Inzidenz von 1:20.000 selten. Ursachen sind mit etwa je einem Drittel
+
+angeborene Herzfehler,
+idiopathisch, eventuell fehlende Fusion des Reizleitungssystems oder
+entzündlich, zum Beispiel bei Autoimmunerkrankung der Mutter.
+
+
+=== Erworbener AV-Block ===
+Eine Vielzahl von Ursachen kann zu einer AV-Blockierung führen. Die Mehrzahl der Fälle beruht auf chronisch-degenerativen Veränderungen (u. U.) im Rahmen kardialer Erkrankungen. 40 bis 60 % der Fälle entstehen durch eine idiopathische Fibrosierung (u. U.). Häufigste reversible Ursache sind Medikamente. Alle Antiarrhythmika, die eine Leitungsverzögerung bewirken, können, insbesondere bei Überdosierung oder Kombination voneinander, AV-Blockierungen hervorrufen. Im klinischen Alltag sind Herzglykoside und Betablocker die häufigsten Auslöser. Schädigungen durch medizinische Eingriffe oder Herzinfarkt (s. u.) können reversibel sein.
+
+
+==== Chronisch-degenerativ ====
+Erkrankung des Herzmuskels
+Herzmuskelentzündungen
+Dilatative Kardiomyopathie
+Hypertensive Herzkrankheit
+Infektionen
+Endokarditis
+Lyme-Borreliose
+Chagas-Krankheit
+andere bakterielle, virale, rickettiale, fungale Infektionen
+Neuromuskuläre Erkrankungen
+Myotone Dystrophie
+Kearns-Sayre-Syndrom
+Gliedergürteldystrophie
+Emery-Dreifuss-Muskeldystrophieinfiltrative Erkrankungen
+Amyloidose
+Sarkoidose
+Hämochromatose
+Karzinoid
+Neoplastische Erkrankung
+Primärtumor
+Metastasen
+nach Strahlentherapie
+Kollagenosen
+Systemischer Lupus erythematodes
+Sjögren-Syndrom
+Sklerodermie
+Rheumatoide Arthritis
+
+
+==== Idiopathisch ====
+Lev-Erkrankung: Fibrosierung des proximalen Reizleitungssystem mit bilateralem Schenkelblock
+Lenègre-Erkrankung (oder -Syndrom): Von distal über die mittleren Anteile des Reizleitungssystems nach proximal bis zum totalen AV-Block fortschreitende Fibrosierung, die eher bei jüngeren Menschen auftritt.
+
+
+==== Andere Schädigung ====
+Durchblutungsstörung des AV-Knotens
+koronare Herzerkrankung
+Transkoronare Ablation der Septumhypertrophie bei HOCM
+Herzchirurgie
+Herzklappenersatz
+Ventrikelseptumdefekt-Verschluss
+Septale Myektomie bei HOCM
+Koronararterien-Bypass
+Hochfrequenzablation
+AV-Knoten beispielsweise bei therapieresistentem tachykardem Vorhofflimmern
+akzessorische Leitungsbahn bei AV-Knoten-Reentrytachykardie
+Endokardiale Radiofrequenzablation der Septumhypertrophie bei HOCM
+
+
+== Therapie ==
+Medikamentös mit Atropin, Isoprenalin oder Adrenalin nur kurzzeitig zur Überbrückung bis zur definitiven Versorgung mit einem Herzschrittmacher. Eine Dauertherapie mit Medikamenten ist unsicher, nebenwirkungsreich und gilt als veraltet. Beim AV-Block zweiten Grades Typ Wenckebach kann evtl. bei starker Bradykardie Atropin eingesetzt werden. Beim Typ Mobitz kann Atropin allerdings eine Verschlechterung mit der Gefahr des totalen AV-Blocks bewirken. Daher sollte es mit Vorsicht verabreicht werden.
+Passagerer oder permanenter Herzschrittmacher bei symptomatischen Patienten jeder Blockart sowie bei asymptomatischen Patienten mit AV-Block III. Grades oder II. Grades Typ Mobitz.Den ersten Herzschrittmacher zur Behandlung des totalen Herzblocks implantierte 1958 Åke Senning.
+
+
+== Siehe auch ==
+Bradykardie
+SA-Block
+Adams-Stokes-Syndrom
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+tierkardiologie.lmu.de

@@ -1,0 +1,25 @@
+Spritmonitor ist eine deutsche Website, die Informationen über den realen Kraftstoffverbrauch von Fahrzeugen im Alltagsbetrieb sammelt und zur Verfügung stellt. Die Datenbasis wird dabei von den Nutzern selbst bereitgestellt (Crowdsourcing), indem sie Betankungsdaten ihrer Fahrzeuge in die Datenbank eintragen.
+
+
+== Geschichte ==
+Die Website wurde im Jahr 2001 von Thomas Fischl und Dominik Fisch neben ihrem Informatikstudium an der Universität Passau gestartet. Das Projekt trug ursprünglich den Namen „Verbrauchstabellen“ und wurde nach einer Testphase in „Spritmonitor“ umbenannt. Die Website wird von der 2008 gegründeten Fisch und Fischl GmbH betrieben.
+
+
+== Leistungsangebot ==
+Spritmonitor bietet zwei Hauptfunktionen. Zum einen kann der Nutzer den Kraftstoffverbrauch und sämtliche anfallenden fahrzeugbezogenen Kosten eintragen und überwachen sowie, basierend auf den eingetragenen Daten, verschiedene Auswertungen durchführen (Verbrauch in Abhängigkeit von der Jahreszeit, der getankten Kraftstoffsorte, den verwendeten Reifen etc.). Der mobile Zugriff auf Spritmonitor ist über die iPhone-, Android- und Windows-App sowie über die mobile Version der Internetseite möglich.
+Zum anderen können die Eintragungen anderer Nutzer eingesehen werden. Dadurch können sich potentielle Käufer eines Fahrzeugs bereits vor der Anschaffung über den real zu erwartenden Kraftstoffverbrauch informieren, der von den Herstellerangaben signifikant abweichen kann.
+
+
+== Verwendung der Verbrauchsdaten in wissenschaftlichen Studien und Tests ==
+Die von Spritmonitor bereitgestellte Datenbasis hat eine derartige Größe und Qualität erreicht, dass sie auch für wissenschaftliche Studien herangezogen wird. So verwenden z. B. das International Council on Clean Transportation (in der jährlich erscheinenden Studie „From Laboratory To Road“ sowie in weiteren Analysen) ebenso wie Transport and Environment (in den Studien „Mind The Gap“ und „How clean are electric cars?“) die von Spritmonitor bereitgestellten Daten. Auch die Deutsche Umwelthilfe bezieht sich in ihrer Publikation „Verbrauchsabweichungen in Deutschland und den USA“ auf Spritmonitor.Neben den wissenschaftlichen Studien wird die Datenbasis von Spritmonitor auch in Fahrzeugtests verschiedener Medien verwendet. Auch die Stiftung Warentest verweist in ihrem Ratgeber zum Gebrauchtwagenkauf auf Spritmonitor.
+
+
+== Zahlen ==
+In Spritmonitor sind mehr als 1 Million Fahrzeuge von über 700.000 Nutzern hinterlegt. Insgesamt umfasst die Datenbank über 40 Millionen Betankungseinträge, die zusammen einer Strecke von mehr als 20 Milliarden gefahrenen Kilometern entsprechen.
+
+
+== Weblinks ==
+Website von Spritmonitor
+
+
+== Einzelnachweise ==

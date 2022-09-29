@@ -1,0 +1,89 @@
+Eine Herdenzephalitis ist eine an wenigstens einer Stelle (lat. fokus = Herd) auftretende Entzündung des Gehirns. Diese wird zumeist durch Bakterien, seltener durch Pilze oder andere Erreger hervorgerufen und daher auch als septische Herdenzephalitis bezeichnet.
+
+
+== Entstehung ==
+Für die Entstehung einer Herdenzephalitis müssen Erreger in das Gehirn gelangen. Dafür gibt es verschiedenen Wege:
+
+direkte Keimeinschleppung durch offenes Schädel-Hirn-Trauma (SHT)
+ausgehend von fortgeleiteten Entzündungen (Sinusitis, Mastoiditis) oder vom Zahn (odontogen)
+Einschwemmung mit dem Blut (septische Herdenzephalitis, s. u.)
+durch Infektion eines Implantates (Liquorableitung)Das Risiko erhöht sich bei einer Abschwächung der Immunität, wie sie durch angeborene oder erworbene Faktoren (Polytrauma, akute Infektionskrankheit, Tumor, AIDS) bedingt sein kann.
+
+
+== Formen ==
+
+
+=== Hirnabszess ===
+Die körpereigene Abwehr (Immunität) führt zu einer Einschmelzung des hochgradig infizierten Gewebes und zur Abgrenzung gegen das umgebende Gewebe. Dadurch entsteht ein Abszess. Bei diesem Vorgang kommt es zur Volumenzunahme (Raumforderung), die aufgrund der knöchern begrenzten Schädelhöhle rasch zur Drucksteigerung mit schweren Komplikationen (z. B. Einklemmung) führen kann. Beim Hirnabszess werden vier Stadien mittels Computertomografie unterschieden:
+
+frühe „Zerebritis“ (Gehirnentzündung): unscharf begrenzte Hypodensität
+späte „Zerebritis“: Hypodensität mit zentraler scharf begrenzter ringförmiger Kontrastmittel-Anreicherung
+frühe Kapselbildung
+späte Kapselbildung: bereits ohne Kontrastmittelgabe als flaue Hyperdensität mit zentraler Hypodensität sichtbar.
+
+
+=== Septisch-embolische Herdenzephalitis ===
+Durch Verschleppung von infizierten Thromben kommt es zu einer Kombination aus ischämischem Schlaganfall und gleichzeitiger Entzündung. Der Verlauf ist oft durch die Infektion des nicht mehr durchbluteten Hirngewebes (dort mangels Durchblutung nur minimale Immunität) sowie Einblutungen in den Infarkt in vielen Fällen ungünstig.
+Ausgangspunkt ist fast immer eine bakterielle Entzündung der Herzinnenwand (Endokard) und dort besonders der Herzklappen (Endokarditis).
+
+
+=== Septisch-metastatische Herdenzephalitis ===
+Bei Vorkommen von Bakterien im fließenden Blut (Septikämie) kann es zur Erregerstreuung in das Gehirn kommen. Dies ist nur im Rahmen einer schweren entzündlichen Allgemeinerkrankung oder zumeist Sepsis möglich. Die weitere Entwicklung wird überwiegend durch die zugrunde liegende Infektion bestimmt.
+
+
+== Diagnostik ==
+
+Zunächst ist eine bildgebende Untersuchung erforderlich, die zumeist mittels kontrastmittelgestützter Computertomographie oder Magnetresonanztomographie erfolgt. Hier sind in den meisten Fällen der entzündliche Herd, das umgebende Ödem sowie eine Anreicherung des Kontrastmittels zu erkennen.
+Für die weitere Therapie ist schließlich der Nachweis des Erregers von großer Bedeutung. Dies ist durch mikrobiologische Untersuchungen des Liquor cerebrospinalis (siehe Liquorpunktion) oder Blutkulturen oder möglichst des Herdes (nach neurochirurgischer Sanierung oder zumindest Punktion) möglich. Bedeutsam ist neben der Kenntnis des Erregers auch dessen Empfindlichkeit gegenüber Medikamenten (Antibiogramm).
+Danach muss gegebenenfalls der Ursprung der Erreger gesucht werden (Als Fokus kommen die Mundhöhle, eine Mastoiditis, Sinusitis, Otitis, Endokarditis in Betracht). Hierfür ist häufig eine Computertomographie des Brust- und Bauchraumes (mit Kontrastmittel) oder der Nasennebenhöhlen notwendig. Ferner hat die Echokardiographie eine hohe Bedeutung.
+
+
+== Therapie ==
+
+
+=== Herdsanierung ===
+Wo immer es möglich ist, sollte der entzündliche Herd durch Operation entfernt werden. Hierfür ist die Neurochirurgie zuständig.
+Dieses Vorgehen ist jedoch nicht immer möglich, z. B. wenn der Fokus in einer besonders wichtigen Hirnregion liegt (z. B. Sprachzentrum oder Hirnstamm). Dann ist nur eine medikamentöse Behandlung (s. u.) möglich, die dann aber unter Umständen wesentlich länger erfolgen muss.
+
+
+=== Antibiotika ===
+Nach Gewinnung von Material für die mikrobiologische Untersuchung (s. o.) ist bereits beim Verdacht auf eine Herdenzephalitis eine Behandlung mit Antibiotika erforderlich. Die Behandlung erfolgt anfangs mit breitem Wirkspektrum (z. B. Cephalosporin der 3. Generation + staphylokokkenwirksames Penicillin). Nach Bestimmung des Antibiogramms kann auf eine gezielte Therapie umgestellt werden (zumeist mit weniger breitem Spektrum).
+In Sonderfällen erfolgt die Verabreichung von Antibiotika auch intrathekal.Bei Verdacht auf eine Infektion mit Pilzen muss entsprechend zusätzlich mit einem Antimykotikum (z. B. Amphotericin B) behandelt werden.
+
+
+=== Behandlung der Grunderkrankung ===
+Je nach Ausgangspunkt der Infektion darf die Behandlung der Grunderkrankung nicht versäumt werden, besonders bei einem aus Ohr oder Nasennebenhöhle weitergeleiteten Hirnabszess ist dieser Primärherd umgehend chirurgisch zu sanieren. Bei einer Endokarditis kann z. B. das Einsetzen einer künstlichen Herzklappe notwendig sein. Andere Eiterherde (z. B. infizierte Wunden, Zahnwurzelabszess, Osteomyelitits usw.) sollten nach Möglichkeit operativ saniert werden.
+Die Behandlung einer Sepsis ist zumeist nur auf einer Intensivstation möglich.
+
+
+== Komplikationen ==
+Die häufigste Komplikation ist die Raumforderung mit Erhöhung des Hirndrucks. Hierbei können erneut neurochirurgische Interventionen erforderlich werden, insbesondere eine Liquordrainage oder in Einzelfällen eine Kraniektomie.
+Weitere Komplikationen sind Entzündungen der Gefäßwände (Vaskulitis) sowie Hirninfarkte sowohl durch Gefäßverschluss als auch durch Einblutung.
+
+
+== Prognose ==
+Die weitere Entwicklung des Patienten hängt zuerst von den Voraussetzungen des Patienten ab:
+
+Allgemeinzustand (Alter, Vorerkrankungen usw.)
+Grunderkrankung (Endokarditis, SHT)
+Begleiterkrankungen (Diabetes mellitus, AIDS usw.)Diese sind jedoch kaum beeinflussbar.
+Weiterhin ist die medizinische Versorgung wichtig:
+
+Verfügbarkeit der Fachrichtungen (Radiologie, Neurologie, Neurochirurgie, Intensivtherapie)
+Verfügbarkeit der Diagnostik (Labor, Computertomographie, Mikrobiologie)
+frühzeitiger Beginn einer konsequenten Behandlung (Antibiotika und Operation)Diese Faktoren sind beeinflussbar, entscheidend kann schon die Einlieferung in ein geeignetes Krankenhaus sein.
+
+
+== Literatur ==
+Hilmar Prange, Andreas Bitsch: Neurologische Intensivmedizin. Thieme 2004. ISBN 3-13-129821-9
+Manfred Stöhr, Thomas Brandt, Karl M. Einhäupl: Neurologische Syndrome in der Intensivmedizin. Kohlhammer 1998. ISBN 3-17-014557-6
+R. Nau et al.: Hirnabszess. Leitlinien der Deutschen Gesellschaft für Neurologie. Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften, 2008.
+
+
+== Weblinks ==
+
+Leitlinie Bakterielle (eitrige) Meningoenzephalitis der Deutschen Gesellschaft für Neurologie. In: AWMF online (Stand 10/2005)
+Leitlinie Atypische erregerbedingte Meningoenzephalitiden der Deutschen Gesellschaft für Neurologie. In: AWMF online (Stand 10/2005)
+
+
+== Einzelnachweise ==

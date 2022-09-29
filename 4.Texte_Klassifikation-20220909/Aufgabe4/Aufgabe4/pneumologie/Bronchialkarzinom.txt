@@ -1,0 +1,353 @@
+Unter einem Bronchialkarzinom (auch Lungenkarzinom, bronchogenes Karzinom, Bronchuskarzinom, Lungenkrebs; englisch bronchial carcinoma, lung cancer) versteht man eine bösartige Neubildung entarteter Zellen der Bronchien oder Bronchiolen. Das Bronchialkarzinom ist eine der häufigsten bösartigen Erkrankungen des Menschen.
+Das inhalative Tabakrauchen ist der mit Abstand wichtigste Risikofaktor für Lungenkrebs. Das Risiko steigt mit erhöhter Menge und Dauer des Rauchens.
+Bei Männern ist es in etwa 90 %, bei Frauen in etwa 80 % der Fälle für die Entwicklung eines Bronchialkarzinoms verantwortlich. Zweithäufigste Ursache ist das Wohnen in stark mit dem radioaktiven Edelgas Radon belasteten Räumen. Daneben gibt es zahlreiche andere Stoffe, die den Tumor auslösen können (beispielsweise Asbest oder Chrom), denen man beruflich oder umweltbedingt ausgesetzt sein kann.
+Die Heilungsrate ist erheblich von der Art des Karzinoms und seiner Ausdehnung abhängig. Sie ist z. B. im Falle des kleinzelligen Bronchialkarzinoms immer noch sehr schlecht und liegt bei einer Fünfjahresüberlebensrate von unter zehn Prozent.
+An Lungenkrebs sterben mehr Menschen als an Brustkrebs, Prostatakrebs und Dickdarmkrebs zusammen. Entwickelt der Patient die ersten Symptome (z. B. chronische Heiserkeit oder Bluthusten), ist es meist zu spät für eine erfolgreiche Therapie. Wenn aber Lungenkrebs frühzeitig (also meist per Zufall) entdeckt wird, ergibt sich laut American Cancer Society (ACS) eine Überlebensquote von 47 %. Gleichzeitig ist die Röntgenaufnahme der Lunge mit 50%-Anteil die am häufigsten durchgeführte Röntgenuntersuchung. Die zufällige Erkennung von Lungenkrebs im Frühstadium (Stage 1) im Röntgenbild ist allerdings schwierig. Es ist bekannt, dass Rundherde von fünf bis zehn Millimetern leicht übersehen werden können.
+
+
+== Epidemiologie ==
+
+25 Prozent aller bösartigen Tumoren (Malignome) sind Bronchialkarzinome. Beim Mann ist es weltweit die häufigste Krebsart; in Deutschland nach dem Prostatakarzinom und dem kolorektalen Karzinom die dritthäufigste. Als Ursache von Krebssterbefällen liegt es bei Männern auf Platz eins, bei Frauen auf Platz zwei. Die Inzidenz liegt in Mitteleuropa bei etwa 60 pro 100.000 Einwohner. Die Zahl der Neuerkrankungen – in Deutschland etwa 50.000 pro Jahr – weist eine steigende Tendenz auf. Unter den Todesursachen in Deutschland nimmt es mit rund 40.000 Todesfällen im Jahr die vierte Position ein, bei Männern gar die dritte. Der Altersgipfel der Erkrankungen liegt um das 60. Lebensjahr. Die durchschnittliche Fünfjahresüberlebensrate (d. h., wie viele Erkrankte nach fünf Jahren noch leben) beträgt bei Männern 15, bei Frauen 20 Prozent. Die Lebenserwartung des einzelnen Patienten ist aber sehr stark vom Stadium der Erkrankung (TNM-Klassifikation) und dem Subtypus (siehe unten) abhängig.
+Eine zunehmende Häufigkeit bei Frauen wird beobachtet; auch bei Frauen in Europa wird Lungenkrebs bald die häufigste Krebstodesursache sein, in Großbritannien und Polen ist dies schon der Fall. Das Verhältnis von erkrankten Männern zu Frauen liegt bei etwa 3:1, wobei es auf Grund der Änderung im Tabakkonsumverhalten von Frauen immer mehr zu einer Angleichung kommt (siehe Diagramm). Bedeutsam können Umwelteinflüsse oder genetische Ursachen sein, die Prognose ist bei Frauen etwas besser. Der Nichtraucher-Lungenkrebs ist bei Frauen häufiger als bei Männern.
+Auch in den USA war die Lungenkrebsrate bei Männern stets höher als bei Frauen. Eine neuere Erhebung zeigt allerdings, dass bei jungen weißen US-Amerikanern die Lungenkrebs-Inzidenz bei Frauen über der von Männern liegt. Dies ist allein mit dem Rauchverhalten nicht hinreichend erklärbar.
+
+
+== Ursachen ==
+
+Die Hauptursache bei der Entstehung des Tumorleidens ist der Tabakrauch. Er enthält etwa 2000 Stoffe, von denen mindestens 100 krebserregend (karzinogen) sind (beispielsweise Teer und eine Vielzahl anderer Kohlenwasserstoffverbindungen). Es wurde nachgewiesen, dass das im Tabakrauch enthaltene Benzo[a]pyren das als Tumorsuppressor bekannte Protein p53 schädigen kann. 95 Prozent aller Patienten mit Bronchialkarzinom sind Raucher oder ehemalige Raucher. 30 bis 40 Jahre nach Beginn des Rauchens ist das Erkrankungsrisiko bei starken Rauchern bis zu 60-fach höher als beim Nichtraucher. Auch Passivraucher atmen dieselben Stoffe wie Raucher ein, allerdings in vielfach geringerer Konzentration. Das Risiko für Nichtraucher, die dauerhaft dem Passivrauch ausgesetzt sind, ist mit dem 1,2 bis 1,3-fachen gegenüber nicht exponierten Nichtrauchern deshalb nur moderat erhöht. Die sogenannte British Doctors Study belegte schon in den 1950er Jahren den Zusammenhang zwischen Lungenkrebs und aktivem Rauchen. Die Wahrscheinlichkeit, bis zum 75. Lebensjahr an Lungenkrebs zu erkranken, liegt bei Männern, die ihr gesamtes erwachsenes Leben geraucht haben, bei 1:6. Bei Männern die bis zum Lebensalter von 60, 50, 40 und 30 Jahren das Rauchen aufgegeben haben, liegt die Wahrscheinlichkeit bei 1:10, 1:16, 1:33 und 1:50. Bei Männern, die nie geraucht haben, liegt die Wahrscheinlichkeit nur bei ca. 1:250. War das Bronchialkarzinom im Jahr 1913, mit 337 in der gesamten Literatur beschriebenen Fällen, noch ein „sehr seltener Tumor“, so gab es 2008 seinetwegen weltweit etwa 1,38 Millionen Sterbefälle. In Ländern wie den USA, wo der Anteil der Raucher bereits seit den 1960er Jahren wieder sinkt, stellt sich nun auch ein deutlicher Rückgang an Lungenkrebserkrankungen ein, der mit einem zeitlichen Versatz von 20–30 Jahren nahezu parallel zum Rückgang des Tabakkonsumes verläuft.
+Genetische Untersuchungen von Lungengewebe zeigten, dass die Aktivität von Genen, die für die Reparatur der DNA zuständig sind und die Entwicklung von Lungenkrebs aufhalten sollen, selbst bei ehemaligen Rauchern dauerhaft herabgesetzt ist.Die zweithäufigste Ursache für ein Bronchialkarzinom ist das radioaktive Gas Radon. In Deutschland gibt es schätzungsweise jährlich 1900 Lungenkrebstodesfälle, die auf die Belastung durch Radon zurückzuführen sind. Seine ebenfalls radioaktiven Radon-Zerfallsprodukte scheiden sich während der Inhalation in den Bronchien ab und reichern sich dort an. Sie bestrahlen das Gewebe mit biologisch sehr wirksamen Alphateilchen. In einigen Gegenden Deutschlands, so unter anderem im östlichen Bayern, in Sachsen und Thüringen sowie im Breisgau, kann es aufgrund der Erdmaterialien in schlecht durchlüfteten Kellern zu erhöhten Radonwerten kommen. Die Weltgesundheitsorganisation WHO hat einen Zielwert von 100 Becquerel pro Kubikmeter Raumluft festgelegt. In der Schweiz gilt Radon als Verursacher von etwa zehn Prozent aller Bronchialkarzinomfälle. Bei Uran-Bergarbeitern ist Lungenkrebs eine anerkannte Berufskrankheit.
+Andere Giftstoffe wie Asbest, Uran, Chrom-Verbindungen, Senfgas, polyzyklische aromatische Kohlenwasserstoffe und Nickel gelten ebenfalls als karzinogen. Hierbei erhöht sich das Risiko einer Erkrankung um ein Vielfaches, wenn der Patient gleichzeitig Raucher ist. Bei Asbestexposition zum Beispiel erhöht sich das Erkrankungsrisiko von Nichtrauchern um das Fünffache, bei Rauchern um das Neunzigfache. Eine familiäre Häufung spricht für eine genetische Komponente. Chronisch-entzündliche Reizungen haben ebenfalls einen Einfluss auf die Entstehung von Bronchialkarzinomen. Sie können auch im Bereich alter Lungennarben entstehen, wie sie nach Tuberkulose, Silikose oder Lungeninfarkt auftreten.
+Wie Ernährung und Lungenkrebs, also Bronchialkarzinom zusammenhängen könnten, wird im Rahmen der EPIC-Studie seit 1992 protokolliert. Bei der Studie werden über 500.000 anfangs gesunde Teilnehmer aus zehn europäischen Ländern bezüglich ihres Essverhaltens erfasst. Außerdem werden Gewicht, Größe und Körperfettverteilung der Teilnehmer registriert und Blutuntersuchungen durchgeführt. Seit etwa 2000 werden alle neu aufgetretenen Krebsfälle und anderen chronischen Krankheiten erfasst und mit den Ernährungsgewohnheiten und dem Lebensstil assoziiert.
+Im Laufe der Jahre konnten so immer mehr Erkenntnisse über die Zusammensetzung einer „gesunden“ Ernährung gewonnen werden, die einen potenziellen Schutz vor Krebs und anderen Erkrankungen bieten könnte. Im April 2007 zogen Wissenschaftler der Studienzentren am Deutschen Krebsforschungszentrum (DKFZ) in Heidelberg und am Deutschen Institut für Ernährungsforschung (DIFE) in Potsdam-Rehbrücke Bilanz: Ein hoher Obst- und Gemüseverzehr schützt vor Lungenkrebs und Krebs des oberen Verdauungstraktes. Vor allem Männer mit geringerem Konsum profitieren von einer Erhöhung auf 300 g Obst und Gemüse am Tag.
+
+
+== Entstehung ==
+Die Entstehung der Bronchialkarzinome ist sehr komplex und noch nicht vollständig entschlüsselt. Eine Vereinfachung des gängigsten Entstehungsmodells:
+Die Reservezellen des Bronchialsystems sind pluripotent, das heißt, sie sind fähig, sich zu verschiedenen Zellen der Bronchialschleimhaut auszudifferenzieren, zum Beispiel zu Plattenepithelien, Becherzellen, Club-Zellen (schleimproduzierende Zellen der Bronchiolen) und neuroendokrinen Zellen. Nach chronisch-entzündlicher Reizung und Einwirkung von karzinogenen Noxen kann das Epithel mit einer Plattenepithelmetaplasie, einer Becherzellhyperplasie oder einer Entartung neuroendokriner Zellen reagieren, die die verschiedenen Subtypen von Bronchialkarzinomen bilden.
+
+
+== Symptomatik ==
+Das Gefährliche an allen Lungentumoren ist, dass sie sich erst spät eindeutig bemerkbar machen.
+Zuerst zeigen sich Symptome wie Husten, Fieber, Schmerzen des Brustkorbes und Atemschwierigkeiten (Dyspnoe), bei starken Rauchern sind dies selten auffällige oder neue Befunde.
+Lähmungen der Atemmuskulatur durch eine Phrenicusparese (der Nervus phrenicus steuert die Zwerchfellbewegung), Heiserkeit durch eine Recurrensparese (der Nervus laryngeus recurrens umschlingt die Aorta und führt zurück zur Kehlkopfmuskulatur), das Horner-Syndrom und das Pancoast-Syndrom entstehen, wenn die Krebszellen unter Zerstörung des Gewebes Nerven, Muskeln und Knochen befallen.
+Ein durch Exsudat entstandener Pleuraerguss und ein paraneoplastisches Syndrom brauchen viele Tumorzellen, um auffällig zu werden. Auch zur Einflussstauung, das ist der Rückstau des venösen Blutes vor dem Herzen, muss ein Tumor mehrere Zentimeter groß sein. Nicht jede Art Lungenkrebs führt zu diesen Symptomen.
+Besonders bei Kleinzellern können Metastasen in Gehirn, Knochen, Herz und anderen Organen die ersten Symptome verursachen.
+
+
+== Pathologie der Subtypen ==
+
+Histologische Klassifikation des Bronchialkarzinoms nach der Weltgesundheitsorganisation (WHO)
+
+Kleinzelliges Bronchialkarzinom (SCLC = small cell lung carcinoma): Haferzellkarzinom (oat cell carcinoma), Intermediärer Typ, Kombinierter Oat-cell-Typ (ca. 15 %)
+Nichtkleinzelliges Bronchialkarzinom (NSCLC = non small cell lung carcinoma, ca. 85 %)
+Plattenepithelkarzinom: spindelzellig
+Adenokarzinom: azinär, papillär, bronchiolo-alveolär, solide mit Schleimbildung
+großzelliges Karzinom: Riesenzellkarzinom, klarzelliges Karzinom
+Andere Karzinomarten: adenosquamöses Karzinom, sarkomatoides Karzinom, neuroendokrines Karzinom (NEC)Die Unterscheidung in SCLC und NSCLC begründet sich in Unterschieden hinsichtlich biologischen Verhaltens, Prognose und Therapiemöglichkeiten.
+
+
+== TNM-Klassifikation ==
+Diese Klassifikation gilt sowohl für kleinzellige (SCLC) als auch nicht kleinzellige Karzinome (NSCLC) sowie bronchopulmonale Karzinoide. Nicht eingeschlossen sind Sarkome und andere seltene Tumoren.
+
+Anmerkungen:
+(1) T0: Manchmal gelingt es nicht, einen richtigen Primärtumor nachzuweisen. Bei der Untersuchung von ausgehustetem Sekret (Sputum) oder bei einer Bronchoskopie mit Spülungen können aber eindeutig Tumorzellen nachgewiesen werden.
+(2) T2: Der Hauptbronchus ist der große Bronchus nach der Gabelung (Karina) der Luftröhre.
+(3) Lungentumoren können durch ihr Wachstum Luftwege verstopfen. Die dahinter gelegene Lunge fällt dann zusammen (Atelektase). Ist der Bronchus nicht vollständig verstopft, so kommt es durch einen Sekretstau zu einer Entzündung, welche eine ganze Lunge oder Teile davon betreffen kann. Das Bild ähnelt einer Lungenentzündung. Daher muss bei jeder Lungenentzündung, die nicht innerhalb von 4 Wochen abheilt, ein Lungentumor ausgeschlossen werden.
+(4) N1: Lymphknoten in der Nähe der Bronchien(= peribronchial) der gleichen Seite(= ipsilaterale) oder des gleichseitigen Hilus (Lungenwurzel) oder Lymphknoten im Lungengewebe(= intrapulmonal).
+(5) N2: Das Mediastinum ist der Raum zwischen den Lungen. Ipsilaterale mediastinalen Lymphknoten liegen auf der gleichen Seite wie der Primärtumor. Subkarinale Lymphknoten befinden sich unterhalb der Bronchusgabelung.
+(6) N3: Kontralateral bedeutet auf der Gegenseite des Tumors. Mediastinalen Lymphknoten liegen zwischen beiden Lungen, Hiluslymphknoten liegen in der Lungenwurzel. Skalenus-Lymphknoten liegen neben den Musculi scaleni. Supraclavikuläre Lymphknoten befinden sich in der Schlüsselbeingrube.
+(7) M1a: nach Einbruch des Tumors in die Lungenhöhle oder Herzbeutelhöhle bildet sich oft ein Flüssigkeitserguss, in dem meistens Tumorzellen nachweisbar sind.
+
+
+=== Kleinzelliges Bronchialkarzinom (SCLC) ===
+
+Dieser auch Haferzellkarzinom oder oat cell carcinoma, im Klinikjargon auch Kleinzeller genannte Tumor macht 20 bis 25 Prozent der Bronchialkarzinome aus. Er geht von den neuroendokrinen APUD-Zellen (Zellen vom nach dem Histologen Nicholas Kultschitzky benannten Kultschitzky-Typ) aus, siedelt sich meist zentral in der Lunge an und umgibt klassischerweise manschettenartig die größeren Bronchien. Frühe lymphogene (über Lymphabflussbahnen) und hämatogene (über Blutgefäße) Metastasierung führt dazu, dass sich in der Regel schon vor seiner Entdeckung Metastasen gebildet haben (vorzugsweise in Gehirn, Knochen, Leber und Nebennierenrinde).
+Ein bestehendes Lambert-Eaton-Rooke-Syndrom kann ein erster Hinweis auf den Tumor sein.
+Aufgrund ihres neuroendokrinen Ursprungs können die Zellen des kleinzelligen Bronchialkarzinoms Hormone bilden, die normalerweise nicht in der Lunge gebildet werden (Paraneoplasie) und Auswirkungen auf den ganzen Körper haben können (beispielsweise führt die Produktion von ACTH zum Cushing-Syndrom oder des Antidiuretischen Hormons (ADH) zum Schwartz-Bartter-Syndrom). Das kleinzellige Bronchialkarzinom hat eine sehr schlechte Prognose und ist praktisch inoperabel, palliative Therapie der Wahl ist die Chemotherapie. Die Einteilung des kleinzelligen Bronchialkarzinoms erfolgt in der Regel nicht nach der TNM-Klassifikation. Man unterscheidet stattdessen extensive und limited disease (nur auf den Thorax begrenzt) bzw. very limited disease (nur auf eine Thoraxhälfte begrenzt).
+Histologisch sieht man dicht gelagerte meist fragile (Quetschartefakte!) kleine Tumorzellen mit hyperchromatischen (dunkelblauen) Zellkernen, die sich gegenseitig abplatten, mit feinstäubigem Chromatin (Salz-und-Pfeffer-Chromatin) und unscheinbaren/fehlenden Nukleolen. Immunhistochemisch lassen sich bei SCLCs oft neuroendokrine Marker (Chromogranin A, Synaptophysin, CD56) nachweisen sowie eine extrem hohe Wachstumsrate (Ki-67). Bezüglich CK18 findet man typischerweise eine perinukleäre punktförmige Reaktivität. CK7 kann positiv sein. Plattenepithelmarker wie CK5/6 und p63 sind meist negativ.
+
+
+=== Plattenepithelkarzinom ===
+
+Das Plattenepithelkarzinom ist mit ca. 40 bis 45 Prozent der häufigste nichtkleinzellige Bronchialtumor. Er entsteht nach chronischer Schleimhautreizung über die Plattenepithelmetaplasie aus einer Plattenepitheldysplasie. Häufig ist er an den Aufzweigungen der Subsegmentbronchien lokalisiert. Charakteristisch sind sein langsames Wachstum und seine frühe Metastasierung in die regionären Lymphknoten.
+Makroskopisch sind Ulzerationen, Nekrosen, Blutungen und pseudozystische Umwandlung bei diesem grauweißlichen Tumor häufig. Histologisch unterscheidet man in einen verhornenden Typ und in einen nichtverhornenden Typ. Letzterer bringt auf Grund seiner geringeren Differenzierung eine schlechtere Prognose mit sich. Die Fünfjahresüberlebensrate beträgt je nach Stadium (TNM; AJCC) zwischen 20 und 1 %.
+Histologisch sieht man bei gut differenzierten Tumoren an Plattenepithel erinnernde geschichtete Tumorzellverbände aus mittelgroßen bis großen Tumorzellen mit breitem eosinophilen Zytoplasma, eher hellen Zellkernen mit großen Nukleolen und ggf. charakteristische Interzellularbrücken und Verhornungszeichen mit Ausbildung von „Hornperlen“. Dysplasien bis hin zum Carcinoma in situ im Bronchusepithel sprechen für eine in der Lunge selbst entstandene Läsion. Ansonsten müssen (insbesondere bei fehlenden Risikofaktoren wie z. B. Rauchen, Asbestexposition, Z.n. Radio-/Chemotherapie oder chronischen Lungenerkrankungen) differentialdiagnostisch auch Metastasen von Plattenepithelkarzinomen anderer Lokalisation, z. B. aus dem HNO-Trakt, der Haut oder der Cervix uteri, in Betracht gezogen werden. Drüsige Strukturen und Schleimbildung sollten nicht zu sehen sein bzw. an ein Adenokarzinom denken lassen. Bei schlecht differenzierten Tumoren kann die Einordnung schwierig sein. Hierbei kann die Immunhistochemie helfen. Plattenepithelkarzinome sind meist positiv für Plattenepithelmarker wie CK5/6 und p63 und negativ für CK7. TTF1 ist eher selten nachweisbar. Die Wachstumsrate (Ki-67) ist deutlich erhöht, aber nicht so stark wie beim SCLC.
+
+
+=== Adenokarzinom ===
+
+Bis zu 20 Prozent der Lungenkarzinome sind Adenokarzinome. Sie entstehen aus schleimproduzierenden Zellen und entwickeln sich bevorzugt in Narbengewebe (z. B. alter Tuberkulose). Der Tumor liegt meist in der peripheren Lunge.
+Auch hier ist eine frühe Metastasierung typisch, die sowohl über die Lymphbahnen als auch über die Blutbahn erfolgt, und zwar bevorzugt in das Gehirn, die Leber und die Nebennierenrinde. Histologisch sieht man vor allem Drüsenformationen.
+Eine besondere Rolle spielt das vergleichsweise seltene bronchioloalveoläre Karzinom. Diese Sonderform, die ungefähr ein bis neun Prozent der untersuchten Bronchialkarzinome ausmacht, wächst langsam und innerhalb der anatomischen Strukturen. Radiologisch wird sie deshalb häufig mit einer Pneumonie verwechselt. Im Gegensatz zu anderen Bronchialkarzinomen besteht anscheinend kein ursächlicher Zusammenhang zu inhalativen Noxen.
+Histologisch sollten je nach Subtyp drüsige, papilläre oder auch solide atypische epitheliale Strukturen mit Zeichen einer Schleimbildung zu sehen sein. Immunhistochemisch sind Adenokarzinome meist positiv für CK7 und negativ für Plattenepithelmarker wie CK5/6 und p63. Die Wachstumsrate (Ki-67) ist deutlich erhöht, aber nicht so stark wie beim SCLC. Der Nachweis von TTF1 spricht für ein in der Lunge entstandenes Adenokarzinom (DD Metastase eines Schilddrüsenkarzinoms). Bei Verdacht auf Vorliegen einer Metastase oder eines die Lunge infiltrierenden malignen Pleuramesothelioms können weitere Marker zum Einsatz kommen, um die Lokalisation des Primärtumors näher einzugrenzen.
+
+
+=== Großzelliges Bronchialkarzinom ===
+
+Sie machen 10 bis 15 Prozent der Bronchialkarzinome aus und sind immer eine Ausschlussdiagnose. Auch sie metastasieren hämatogen in Leber, Gehirn und Knochen. Großzellige Bronchialkarzinome sind wahrscheinlich entdifferenzierte Adeno- oder Plattenepithelkarzinome, die lichtmikroskopisch nicht mehr als solche erkannt werden können. Sie zeigen histologisch große Zellen mit großen Kernen, viel Zytoplasma und reichlich Nukleoli. Immunhistochemisch und elektronenmikroskopisch zeigen sie aber noch minimale Differenzierungszeichen von Drüsen- oder Plattenepithel. Eine histologische Variante leitet sich wie das kleinzellige Bronchialkarzinom aus den neuroendokrinen Zellen ab und zeigt rosetten-, trabekel- oder nestförmiges Wachstum.
+
+
+=== Sonstige ===
+Die weiteren Karzinomarten sind selten und machen zusammen weniger als zehn Prozent der Bronchialkarzinome aus. Häufig gibt es auch Mischtypen. Wesentlich häufiger sind Metastasen anderer Tumoren aus dem Cava-Stromgebiet (Lungenmetastasen).
+
+
+== Diagnostik ==
+
+Eine wichtige Rolle bei der Diagnose eines Bronchialkarzinoms spielen die bildgebenden Verfahren. So sind das Röntgen des Thorax in zwei Ebenen und die Computertomografie (CT) des Thorax die Mittel der Wahl zum Erkennen und Lokalisieren von Bronchialkarzinomen. Die Positronen-Emissions-Tomographie (PET) kann darüber hinaus zum Aufspüren von Fernmetastasen verwendet werden. Die Bronchoskopie wird zur Gewinnung von Gewebeproben für die histologische Beurteilung des Tumors herangezogen.
+In der Labordiagnostik können die Tumormarker Neuronenspezifische Enolase (NSE) und CYFRA 21-1 zur Diagnosestellung mitverwendet werden, die Ergebnisse sind aber nicht sicher.
+Beim kleinzelligen Bronchialkarzinom können zusätzlich die Mediastinoskopie, die Craniale Computertomographie (CCT) oder die Magnetresonanztomografie (MRT) des Kopfes, eine Sonografie („Ultraschall“) des Abdomens zum Ausschluss von Lebermetastasen, CT des Abdomens zum Ausschluss von Leber- und Nebennierenmetastasen sowie eine Knochenszintigraphie zum Ausschluss von Knochenmetastasen hinzukommen.
+Die Liquid Biopsy kann unter bestimmten Bedingungen die Tumordiagnostik ergänzen, beispielsweise wenn kein Primärtumor gefunden wird, so beim nichtkleinzelligen Bronchialkarzinom. Hier erfolgt die Liquid Biopsy zum Nachweis einer EGFR-T790M-Mutation. Patienten mit EGFR-sensibilisierenden Mutationen, die mit TKIs der 1. oder 2. Generation behandelt wurden, sollten zum Zeitpunkt der klinischen oder radiologischen Progression auf eine T790M-Mutation getestet werden. Die Ergebnisse sollten die Behandlungsentscheidungen bestimmen. Tests auf das Vorhandensein von EGFR-T790M als Resistenzmechanismus können entweder bevorzugt aus zirkulierender Tumor-DNA (englisch Circulating free DNA, cfDNA) aus Plasma mittels der Liquid Biopsy oder aus der DNA aus dem Gewebe mittels konventioneller Biopsie durchgeführt werden.Bei Verdacht auf ein Bronchialkarzinom werden Untersuchungen durchgeführt, die folgende Fragen beantworten sollen:
+
+Um welche Art von Tumor handelt es sich? Wie gut ist der Tumor differenziert (Grading)? (Artdiagnostik)
+Wie weit ist der Tumor fortgeschritten? (Ausbreitungsdiagnostik, Staging, TNM-Klassifikation)
+Welche Möglichkeiten der Operabilität im Hinblick auf die Erhaltung der Lungenfunktion bestehen? (Bestimmung der funktionellen Operabilität)Trotz modernster Technologie der bildgebenden Verfahren ist die Vorhersagekraft der Computertomografie (CT) alleine zur Beurteilung mediastinaler Lymphknoten zur Stadieneinteilung nicht ausreichend, so dass hier der Mediastinoskopie oder dem EBUS eine große Bedeutung zukommt, falls im CT suspekte Lymphknoten auffallen. Inwieweit die Positronen-Emissions-Tomographie (PET) die Mediastinoskopie ersetzen kann, ist gegenwärtig Ziel verschiedener Untersuchungen. Von besonderer Bedeutung ist die PET, wenn nach einer Induktionstherapie oder Voroperation im Bereich des Mediastinums tumorfreie (negative) mediastinale Lymphknoten über die Indikation zur Operation entscheiden, da die Mediastinoskopie in diesen Fällen eine eingeschränkte Treffsicherheit aufweist. Die Kombination der Aussagen zur Morphologie und Funktion der Lymphknoten mittels Fusion von CT und PET könnte hier weitere Fortschritte ermöglichen.
+
+FrüherkennungEine frühere Erkennung von Bronchialtumoren bringt die Möglichkeit einer frühzeitigen und damit auch effektiven Therapie. Eine 2011 veröffentlichte Studie wurde frühzeitig und wie für diesen Fall vorgesehen gestoppt, nachdem sich schon vor dem geplanten Ende der Studie gezeigt hatte, dass die Früherkennung durch Computertomografie-Screening das Risiko starker Raucher, an Lungenkrebs zu sterben, um 20 Prozent senkte. Das bereits in dieser Studie angesprochene Risiko der Überdiagnostik wurde nun in einer neuen Studie bestätigt. So würden bis zu 18 Prozent der frühzeitig erkannten Lungentumoren keine Auswirkung auf Lebensqualität und Lebensalter haben, deren Therapie aber nicht unbeachtliche physische und psychische Belastungen mit sich bringen.
+
+
+== Kleinzelliges Bronchialkarzinom (SCLC) – Therapie ==
+Das kleinzellige Bronchialkarzinom ist bei Diagnosestellung in der Regel inoperabel (70 %). Es spricht jedoch häufig zunächst gut auf eine Chemotherapie oder auch eine Strahlentherapie an (fast immer palliativ). Allerdings müssen sehr hohe Bestrahlungsdosen appliziert werden, um den Tumor nachhaltig zu zerstören (Tumorvernichtungsdosis 48–63 Gy). Bei kurativer Zielsetzung sollte zudem eine prophylaktische kraniale Bestrahlung erfolgen, um zerebrale Rezidive zu reduzieren. Durch die thorakale Bestrahlung >40 Gy besteht ein kalkuliertes Risiko von 1/20, dass der Patient eine Lungenfibrose entwickelt, die mitunter tödlich enden kann. Weitere seltene Strahlenfolgen sind sowohl Myo-/Perikarditis als auch Myelitis, die mit einer Latenz von neun Monaten bis zu einem Jahr auftreten können. Weiter möglich ist eine Speiseröhrenverbrennung mit Schluckstörungen. Damit kann eine Lebensverlängerung um einige Monate bis zu einem Jahr erreicht werden. Eine Operation kommt nur ausnahmsweise in Betracht:
+
+Bei Zufallsbefund SCLC während einer OP zur Klärung eines zuvor unklaren, nur operativ diagnostizierbaren Lungenrundherds (OP dann nach den Regeln und mit der Radikalität wie bei NSCLC).
+Nach weitgehender Tumorzerstörung eines begrenzten SCLC (limited disease) durch Chemotherapie zur Vorbeugung gegen den fast obligaten und dann schlecht therapierbaren späteren Rückfall, solange dazu keine Lungenflügelentfernung notwendig ist.Polychemotherapie
+ACO-Schema (Adriamycin + Cyclophosphamid + Vincristin)
+CEV-Schema (Carboplatin + Etoposid + Vincristin)
+PE-Schema (Cisplatin + Etoposid)
+Cisplatin + Irinotecan
+Carboplatin + Etoposid
+bei Rezidiv TopotecanBestrahlung
+Lungenbefund
+Schädel (prophylaktisch oder lokal bei Metastasen)Kombination der Bestrahlung und Chemotherapie
+
+
+== Nichtkleinzelliges Bronchialkarzinom (NSCLC) – Therapie ==
+
+Im Folgenden werden die Therapieoptionen für die einzelnen Tumorstadien aufgezeigt. Die Darstellung orientiert sich an den detaillierten Leitlinien der amerikanischen und europäischen Fachgesellschaften.
+Die Therapie des NSCLC ist aufgrund ständig zunehmender Erkenntnisse erheblichen Veränderungen ausgesetzt. Der folgende Überblick gibt deshalb nur einen ungefähren Eindruck der therapeutischen Möglichkeiten.
+Die Therapie mit dem EGFR-Tyrosinkinasehemmer Osimertinib führte gegenüber der Behandlung mit Erlotinib oder Gefitinib zu einem medianen progressionsfreien Überleben von 18,9 Monaten im Vergleich zu 10,2 Monaten. Im November 2015 erteilte daraufhin die US-amerikanische Zulassungsbehörde Food and Drug Administration (FDA) eine beschleunigte Zulassung von Osimertinib für die Behandlung von Patienten bei fortgeschrittenem Lungenkrebs mit aktivierenden EGFR-Mutationen. Die Europäische Kommission folgte mit ihrer Zulassung. In Deutschland ist das Arzneimittel seit Februar 2016 zugelassen, seit 7. Juni 2018 als Erstlinientherapeutikum.
+Die Zulassung basiert auf Ergebnissen der Studie FLAURA. Osimertinib ist neben der EU in den USA, Japan, Kanada, Schweiz, Israel, Mexiko, Australien, Südkorea und weiteren Ländern als Erstlinientherapeutikum zugelassen.Die Stadieneinteilung entspricht dem  TNM-System (T: Größe des Tumors und seine Gewebsinfiltration: 0 = kein Tumor feststellbar, 1a = bis 2 cm, 1b = >2–3 cm, 2a = >3–5 cm, 2b = >5–7 cm, 3 = >7 cm und/oder zusätzl. Befall weiterer Bereiche; N: Lymphknotenbefall: 0 = kein Befall, 1 = Befall benachbarter Lymphknoten, 2 = Befall entfernter Lymphknoten, 3 = Befall supraklavikulärer Lymphknoten oder Lymphknoten auf der anderen Lungenseite; M: Metastasenbildung: 0 = keine Metastasen feststellbar, 1 = Metastasen feststellbar).
+
+
+=== Das okkulte nichtkleinzellige Lungenkarzinom ===
+Das okkulte nichtkleinzellige Lungenkarzinom ist durch die folgende klinische Stadieneinteilung definiert:
+
+TX, N1-3, M0
+TX, N0, M1
+TX, N1-3, M1„Okkult“ ist ein Bronchialkarzinom, wenn der Ursprungstumor nicht gefunden wurde und die Diagnose nur z. B. durch einen zytologischen Befund gestellt wurde. Die Diagnostik wird sich dann meist auf eine Röntgenaufnahme des Thorax und eine Bronchoskopie beschränken. Kurzfristige Nachuntersuchungen (z. B. mittels CT) sind erforderlich, da sich der Primärtumor im Verlauf der Erkrankung doch noch zeigen kann.
+Tumoren, die auf diese Weise entdeckt worden sind, befinden sich meist noch in einem frühen Stadium. Durch eine rechtzeitige Operation und vollständige chirurgische Entfernung sind diese Tumoren heilbar. Falls der Primärtumor gefunden werden kann, gestaltet sich die weitere Behandlung abhängig vom genauen Tumorstadium des Patienten.
+Patienten mit einem okkulten Bronchialkarzinom tragen ein erhöhtes Risiko für Karzinome an anderen Orten in der Lunge, so dass eine regelmäßige Nachsorge erforderlich ist.
+
+
+=== NSCLC Stadium 0 ===
+Das Stadium 0 ist in der folgenden Staging-Gruppe beschrieben:
+
+Tis, N0, M0Das NSCLC Stadium 0 entspricht dem Carcinoma in situ der Lunge. Diese Tumoren sind definiert durch ihr nichtinvasives Wachstum: Sie sind noch nicht in das umgebende Gewebe eingedrungen (Invasion) und haben noch nicht metastasiert. Deshalb sind die Chancen groß, dass ein solcher Tumor durch die chirurgische Entfernung geheilt werden kann.
+Nicht selten finden sich aber in der Lunge von Patienten mit einem In-situ-Karzinom weitere, unabhängige (primäre) Karzinome, von denen viele nicht mehr zu operieren (resektabel) sind.
+Bei wenigen als geeignet angesehenen Patienten wurde eine endoskopische Phototherapie mit einem Hämatoporphyrin-Derivat als mögliche Alternative zur chirurgischen Entfernung vorgeschlagen. Diese Behandlung, die derzeit in klinischer Erprobung ist, scheint am wirksamsten für sehr früh entdeckte zentral sitzende Tumoren zu sein, die sich weniger als einen Zentimeter in den Bronchus hinein erstrecken. Ob diese Behandlungsform wirklich geeignet ist, Lungenkrebs im frühen Stadium zu heilen, muss aber noch besser erforscht werden.
+Standardbehandlung:
+Chirurgische Entfernung (Segment- oder Keilresektion) mit dem Ziel, möglichst viel Lungengewebe zu sparen. Patienten mit einem Carcinoma in situ der Lunge haben ein sehr hohes Risiko für weitere Lungentumoren, so dass weitere Operationen notwendig werden können.
+Als experimentelle Behandlung kann man eine endoskopische photodynamische Therapie diskutieren.
+
+
+=== NSCLC Stadium I ===
+Das nichtkleinzellige Bronchialkarzinom im Stadium I umfasst die folgenden klinischen Stadieneinteilungen:
+
+T1, N0, M0 → IA
+T2, N0, M0 → IB
+
+
+==== Standardbehandlung ====
+Die übliche Behandlung im Stadium I ist die vollständige chirurgische Entfernung des Tumors. Wie vor jeder Operation muss der medizinische Allgemeinzustand des Patienten sorgfältig überprüft werden. Der Arzt muss dabei besonders auf die funktionelle Reserve der Lungen achten, um abzuschätzen, ob die chirurgische Behandlung einen Nutzen erwarten lässt. Der Tumorherd kann nur mit dem umgebenden Lungengewebe entfernt werden, so dass sich infolge der Operation auch die Vitalkapazität der Lunge verringert. Wenn die Lungenfunktion schon vor der Operation eingeschränkt ist, kann eine Operation schwierig oder unmöglich werden.
+Behandlungsmöglichkeiten:
+
+Lobektomie oder segmentale, Keil- oder Manschettenresektion, wie angemessen.
+Strahlentherapie in kurativer Intention (für potentiell resektable Patienten mit medizinischen Kontraindikationen für eine Resektion).
+„Im Rahmen der Strahlentherapie gibt es neue Techniken der Präzisionsbestrahlung, die eine genaue Eingrenzung auf das Tumorgewebe ermöglichen. So kann gesundes Gewebe besser geschont werden. Mit solchen Techniken ist zum Beispiel eine sogenannte hypofraktionierte Bestrahlung möglich; d. h., die notwendige Strahlendosis wird in wenigen Fraktionen verabreicht. Auf die Reparaturfähigkeit des gesunden Gewebes muss weniger Rücksicht genommen werden. Die Extremform der Präzisionsbestrahlung ist die sogenannte Radiochirurgie. Hier bekommt der Tumor meist innerhalb einer Sitzung von ca. 30–60 Minuten eine hohe Dosis verabreicht. Innovative Geräte sind mit Präzisionsrobotik, Bildortungssystem und Atmungskompensation entwickelt. Speziell atembewegliche Tumoren wie ein Bronchialkarzinom können sich mit dem Ein- und Ausatmen des Patienten mehrere Zentimeter bewegen. Um das Zielvolumen weiterhin präzise zu treffen, wird die äußere Atembewegung während einer radiochirurgischen Behandlung über eine 3D-Kamera erfasst und mit der internen Tumorposition abgeglichen. Für den Patienten verläuft eine Bestrahlung mittels Radiochirurgie daher ohne Fixierung oder künstlich induziertem Atemstillstand ab. Eine Radiochirurgie ist nicht-invasiv: keine Schmerzen, keine Narkose, keine Operation, aber mit sehr gut vergleichbaren Ergebnissen wie eine Operation.“
+Klinische Studien zur adjuvanten Chemotherapie nach Resektion.
+Studien zur adjuvanten Chemoprävention.
+Endoskopische photodynamische Therapie (derzeit in klinischer Prüfung; besonders geeignet für ausgewählte Patienten im Stadium T1, N0, M0, keine Standardtherapie)
+
+
+==== Operationsrisiko ====
+Die unmittelbare postoperative Sterblichkeit hängt vom Alter ab, man muss aber mit einer Mortalität von drei bis fünf Prozent nach Lobektomie (Entfernung eines Lungenlappens) rechnen. Patienten mit eingeschränkter Lungenfunktion wird der Arzt eher eine Segment- oder Keilresektion des Tumors vorschlagen.
+Belastungstests können helfen, Patienten mit eingeschränkter Lungenfunktion zu erkennen, die doch eine Lungenresektion tolerieren können. Die Verfügbarkeit der video-assistierten thorakalen Keilresektion erlaubt begrenzte Resektionen bei Patienten mit eingeschränkter Lungenfunktion, bei denen normalerweise keine Lobektomie durchgeführt werden kann.
+
+
+==== Heilungschancen, Rezidivrisiko ====
+Bei Patienten mit Lungenkrebs im Stadium I, die eine Lobektomie (Entfernung eines ganzen Lungenlappens) erhalten hatten, traten weniger oft Lokalrezidive (Wiederauftreten des Tumors an der Stelle des Ursprungstumors) auf als bei Patienten, bei denen nur eine begrenzte Resektion (Segment- oder Keilresektion) durchgeführt worden war. Bezüglich des Gesamtüberlebens konnten aber keine statistisch signifikanten Unterschiede festgestellt werden. Anderen wissenschaftlichen Untersuchungen zufolge besteht möglicherweise ein Überlebensvorteil für die Lobektomie bei Patienten, deren Tumor-Durchmesser größer als drei Zentimeter ist, nicht aber bei Tumoren, deren Durchmesser kleiner als drei Zentimeter ist. In jedem Fall war aber die Rate an Lokalrezidiven nach Lobektomie signifikant geringer, unabhängig von der Größe des Primärtumors.
+
+
+==== Behandlungsmöglichkeiten bei inoperablen Patienten ====
+Patienten mit inoperabler Erkrankung im Stadium I, die eine ausreichende Lungenreserve haben, können palliativ mit einer Strahlentherapie behandelt werden.
+Bei Patienten, die älter als 70 Jahre waren und an einem prinzipiell operablen Tumor (< 4 cm) litten, jedoch aus medizinischen Gründen nicht operiert werden konnten oder nicht operiert werden wollten, war das Fünfjahresüberleben nach Strahlentherapie vergleichbar mit der operativen Tumorentfernung.
+In den zwei größten zu diesem Problem retrospektiv (erst nach Abschluss der Behandlung) dokumentierten Fallserien erreichten Patienten mit inoperabler Erkrankung, die eine Strahlentherapie erhalten hatten, Fünfjahresüberlebensraten von 10 und 27 Prozent. In beiden Fallserien zeigte sich, dass Patienten mit T1, N0-Tumoren bessere Behandlungsergebnisse aufwiesen; in dieser Untergruppe wurden Fünfjahresüberlebensraten von 60 und 32 Prozent dokumentiert.
+
+
+==== Die Operation ergänzende (adjuvante) Therapie ====
+Viele Patienten, die chirurgisch behandelt worden sind, entwickeln im Verlauf dennoch erneute Tumoren am Ort des Ursprungstumors oder Fernmetastasen. Diesen Patienten wäre vielleicht mit einer ergänzenden Strahlen- oder Chemotherapie unmittelbar nach der Operation besser zu helfen.
+Eine zusammenfassende Analyse (Metaanalyse)
+
+der bislang zu diesem Thema vorliegenden wissenschaftlichen Studien verglich die postoperative Strahlentherapie mit der alleinigen Operation. Es zeigte bei Patienten mit Bronchialkarzinom im Stadium I oder II ein um sieben Prozent geringeres (!) Gesamtüberleben bei adjuvanter Strahlentherapie. Einschränkend muss man zu diesen Daten sagen, dass unklar ist, ob die Ergebnisse mit moderner Strahlentherapie vielleicht besser ausgefallen wären. In den letzten Jahren hat sich die Technik der Strahlentherapie sehr verbessert. Es gelingt heute besser als mit den älteren Geräten, das Zielvolumen der Bestrahlung auf den Tumor zu fokussieren und den Anteil des gesunden Gewebes im Strahlenfeld möglichst klein zu halten.
+
+
+=== NSCLC Stadium II ===
+Das NSCLC im Stadium II ist definiert durch die folgenden klinischen Stadiengruppen:
+
+T1, N1, M0
+T2, N1, M0
+T3, N0, M0Behandlung der Wahl für Patienten mit NSCLC im Stadium II ist die Operation. Vor der Operation ist es erforderlich, den medizinischen Allgemeinzustand des Patienten sorgfältig zu überprüfen. Besonders wichtig ist das Abschätzen der funktionellen Reserve der Lungen. Hiervon hängt ab, ob die chirurgische Behandlung einen Nutzen bringen kann. Die unmittelbare postoperative Sterblichkeit (das Risiko, an Komplikationen der Operation zu versterben) hängt vom Alter ab. Man muss mit einer Mortalität von fünf bis acht Prozent nach Pneumonektomie und von drei bis fünf Prozent nach Lobektomie rechnen.
+Patienten mit inoperablem Stadium II und ausreichender Lungenreserve können mit einer Strahlentherapie behandelt und hierdurch auch geheilt werden. Patienten in exzellentem Allgemeinzustand können mit einer Dreijahresüberlebensrate von bis zu 20 Prozent rechnen, wenn die Strahlentherapie wie geplant und mit dem Ziel, eine Heilung zu erreichen, durchgeführt werden konnte. In der bislang größten retrospektiven Fallserie wurden 152 Patienten mit aus medizinischen Gründen inoperablen NSCLC dokumentiert, die eine definitive Radiotherapie erhalten hatten. Die Fünfjahresüberlebensrate dieser Patienten erreichte 10 %; die Patienten mit T1-Tumoren (44 von 152 Patienten) erreichten ein krankheitsfreies Überleben von 60 %.
+Standard-Behandlungsoptionen:
+
+Lobektomie; Pneumonektomie oder segmentale, Keil- oder Manschettenresektion je nach Einschätzung der Chirurgen
+Strahlentherapie in kurativer Absicht (für potentiell operable Patienten, die medizinische Kontraindikationen gegen eine Operation aufweisen)
+Klinische Studien zur adjuvanten Chemotherapie mit oder ohne andere Behandlungsarten (Chemo-, Strahlentherapie) nach kurativer Operation
+Klinische Studien zur Strahlentherapie nach vollständiger Entfernung des sichtbaren Tumors
+
+
+=== NSCLC Stadium IIIA ===
+Das NSCLC IIIA wird durch die folgenden klinischen Stadiengruppen definiert:
+
+T1, N2, M0
+T2, N2, M0
+T3, N1, M0
+T3, N2, M0Patienten im klinischen Stadium IIIA (N2) haben eine Fünfjahresüberlebensrate von 10 bis 15 %. Patienten mit großem Mediastinaltumor (= Tumor auf dem Röntgenbild sichtbar). haben demgegenüber eine Überlebensrate von zwei bis fünf Prozent. Abhängig von den klinischen Begleitumständen werden Patienten mit nichtkleinzelligem Bronchialkarzinom (NSCLC) im Stadium IIIA mit Strahlentherapie, Chemotherapie, Operation und Kombinationen dieser Modalitäten behandelt. Obgleich bei den meisten Patienten mit einer Strahlentherapie kein vollständiges Tumoransprechen erreicht werden kann, gibt es doch einen reproduzierbaren Langzeitüberlebens-Vorteil bei fünf bis zehn Prozent der Patienten, die mit einer Standardtherapie (fraktionierte Bestrahlung bis 60 Gy) behandelt worden sind. Oft kommt es darüber hinaus zu einer guten Symptomkontrolle.
+Patienten in exzellentem Allgemeinzustand und solche, bei denen sich erst während der Operation zeigt, dass der Tumor nicht operativ entfernt werden kann, werden mit hoher Wahrscheinlichkeit von der Strahlentherapie profitieren.
+Die Langzeitergebnisse bei Patienten mit NSCLC im Stadium IIIA sind leider nach wie vor nicht günstig. Um einen Erkenntnisfortschritt zu ermöglichen, sollten diese Patienten, wann immer möglich, in klinischen Studien behandelt werden.
+Die zusätzliche Gabe von moderner Chemotherapie auf der Basis von Cisplatin zur Strahlentherapie kann das Überleben, verglichen mit der alleinigen Strahlentherapie, um bis zu zehn Prozent verbessern. Die optimale Reihenfolge von Chemo- und Strahlentherapie und die Durchführung der Chemotherapiegabe muss noch festgelegt werden; sie wird derzeit in klinischen Studien erforscht.
+Deren Ergebnisse sind bislang ermutigend. Eine kombinierte Therapie mit Chemotherapie und Operation und/oder Strahlentherapie sollte Patienten in gutem Allgemeinzustand mit NSCLC Stadium IIIA immer angeboten werden.
+
+
+==== Standard-Behandlungsoptionen ====
+alleinige Operation bei operablen Patienten ohne große Tumormasse („bulky disease“)
+alleinige Strahlentherapie bei Patienten, die keine neoadjuvante Chemotherapie plus Bestrahlung erhalten können
+Chemotherapie in Kombination mit anderen Modalitäten
+
+
+==== Sonderfall: Pancoast-/Sulcus superior-Tumoren (T3, N0 oder N1, M0) ====
+Tumoren des Sulcus superior stellen eine eigene Krankheitsgruppe innerhalb der Bronchialkarzinome dar. Sie müssen gesondert behandelt werden. Tumoren des oberen Brustkorbs wachsen eher invasiv an Ort und Stelle und neigen weniger zur Fernmetastasierung. Entsprechend kann eine lokal begrenzte Erkrankung besonders im Erkrankungsstadium T3, N0 noch heilbar sein. Strahlentherapie alleine oder gefolgt von der Operation oder die alleinige Operation in ausgewählten Fällen können mit Fünfjahresüberlebensraten von 20 Prozent oder mehr für manche Patienten eine Heilung bedeuten. Patienten mit stärker invasiven Tumoren in diesem Gebiet oder echten Pancoast-Tumoren haben eine schlechtere Prognose und profitieren im Allgemeinen nicht von einer primär chirurgischen Therapie. Eine Operation kann aber im Verlauf durchgeführt werden, um das vollständige Ansprechen des bestrahlten Tumors zu dokumentieren und das nekrotische Gewebe zu entfernen. Besonders bei Patienten im Stadium T4, N0 oder N1 kann die gleichzeitige Chemo- und Strahlentherapie, gefolgt von der Operation, gute Ergebnisse zeigen.
+Standard-Behandlungsoptionen:
+
+Strahlentherapie und Operation
+alleinige Strahlentherapie
+alleinige Operation (in ausgewählten Fällen)
+Chemotherapie in Kombination mit anderen Modalitäten
+Klinische Studien mit Behandlungen mit kombinierten Modalitäten
+
+
+==== Sonderfall: Tumoren der Brustwand (T3, N0 oder N1, M0) ====
+Patienten mit großen Primärtumoren, die direkt die Brustwand infiltrieren, können mit einer alleinigen Operation ein Langzeit-Überleben erreichen, vorausgesetzt, der Tumor wurde vollständig reseziert.
+Standard-Behandlungsoptionen:
+
+Operation.
+Operation und Strahlentherapie.
+alleinige Strahlentherapie.
+Chemotherapie in Kombination mit anderen Modalitäten.
+
+
+=== NSCLC Stadium IIIB ===
+NSCLC IIIB umfasst die folgenden klinischen Tumorstadien:
+
+jedes T, N3, M0
+T4, jedes N, M0Patienten mit NSCLC im Stadium IIIB sind mit einer alleinigen Operation nicht ausreichend therapiert. Sie werden am besten mit initialer Chemotherapie, Chemotherapie plus Strahlentherapie oder alleiniger Strahlentherapie behandelt. Die Behandlung wird abhängig von der genauen Lokalisation des Tumors und dem Allgemeinzustand des Patienten festgelegt. Die meisten Patienten in sehr gutem Allgemeinzustand kommen für eine Therapie mit kombinierten Modalitäten in Frage. Patienten mit einem malignen Pleuraerguss können nur selten mit Strahlentherapie, sondern sollten eher wie Patienten im Tumorstadium IV behandelt werden. Viele randomisierte Studien mit Patienten mit nichtoperablem NSCLC im Stadium III zeigen, dass die präoperative (neoadjuvante) oder gleichzeitige Behandlung mit einer Chemotherapie auf der Basis von Cisplatin und die Bestrahlung des Thorax mit einer Verbesserung der Überlebensrate einhergeht.
+Patienten mit einem Tumor im Stadium IIIB kommen darüber hinaus auch für eine thorakale Bestrahlung in Frage, um gegebenenfalls Symptome (Husten, Luftnot, Hämoptysen, Schmerzen) besser beherrschen zu können.
+
+T4 oder N3, M0Ein Patient mit Befall der supraklavikulären Lymphknoten, der sonst gut für die kurative Strahlentherapie geeignet ist, wird wahrscheinlich drei Jahre überleben. Obwohl die meisten dieser Patienten nicht vollständig auf die Strahlentherapie ansprechen, führt diese Behandlung doch oft zu einer Besserung der Tumorsymptome (Palliation). Patienten in sehr gutem Allgemeinzustand und diejenigen, bei denen erst während der Operation festgestellt wird, dass die Erkrankung doch inoperabel ist, werden sehr wahrscheinlich von der Strahlentherapie profitieren. Manche Patienten haben mit einer adjuvanten Chemotherapie einen bescheidenen Überlebensvorteil. Die Zugabe von Chemotherapie zur Strahlentherapie ging in einigen prospektiven klinischen Studien mit einer Verbesserung des langfristigen Überlebens einher, aber nicht in allen. Eine zusammenfassende Analyse (Metaanalyse) des bisherigen Wissensstandes zeigte einen absoluten Überlebensvorteil von vier Prozent nach zwei Jahren, wenn die Strahlentherapie um eine Chemotherapie auf der Grundlage von Cisplatin erweitert wurde. Die optimale Abfolge der einzelnen Therapiemodalitäten muss noch festgelegt werden und wird derzeit in klinischen Studien untersucht.
+Standard-Behandlungsoptionen:
+Erstlinientherapie
+
+alleinige Strahlentherapie
+Chemotherapie in Kombination mit Strahlentherapie
+Chemotherapie und gleichzeitige Strahlentherapie
+platinhaltige Chemotherapie und Therapie mit Bevacizumab (VEGF-Antikörper)
+alleinige ChemotherapieZweitlinientherapie
+
+Erlotinib (EGFR-Inhibitor)
+
+
+=== NSCLC Stadium IV ===
+Das Stadium IV des nichtkleinzelligen Bronchialkarzinoms ist definiert durch das folgende klinische Stadium:
+
+Jedes T, jedes N, M1Patienten mit metastasiertem NSCLC sprechen subjektiv und objektiv auf eine palliative Chemotherapie auf der Grundlage von Cisplatin oder Carboplatin an. Wissenschaftliche Studien haben gezeigt, dass bei Patienten im Stadium IIIB oder IV die Cisplatin-basierte Chemotherapie gegenüber der bestmöglichen unterstützenden Therapie einen geringen Vorteil hinsichtlich des Kurzzeit-Überlebens bewirkt. Obgleich die toxischen Nebenwirkungen unterschiedlich ausgeprägt sein können, sind die Ergebnisse der meisten Studien auf der Basis einer platinhaltigen Kombinationstherapie ähnlich. Die Therapieregime, die Cisplatin mit anderen Substanzen kombinieren, zeigen keine signifikanten Unterschiede im Ansprechen, der Ansprechdauer oder im Überleben. Patienten in gutem Allgemeinzustand und einer begrenzten Anzahl von Fernmetastasen haben ein besseres Ansprechen und Überleben, wenn sie eine Chemotherapie erhalten, verglichen mit anderen Patienten, die nur unterstützend (supportiv) behandelt werden.
+In einer groß angelegten wissenschaftlichen Untersuchung lag die Ansprechrate für alle Patienten bei 19 %, die mediane Überlebenszeit war 7,9 Monate, unabhängig von der verwendeten Medikamentenkombination, vorausgesetzt, die Behandlung enthielt ein Platinmedikament. Patienten mit einem reduzierten Allgemeinzustand erfuhren mehr toxische Nebenwirkungen und überlebten kürzer als Patienten in gutem Allgemeinzustand.
+Nach aktuellem Wissensstand kann kein spezielles Therapieprotokoll (auf der Basis eines Platin-Medikaments) als Standardtherapie empfohlen werden. Außerhalb klinischer Studien sollten nur Patienten in gutem Allgemeinzustand mit messbaren/evaluierbaren Tumorläsionen behandelt werden, die nach vollständiger Aufklärung über die zu erwartenden Risiken und den begrenzten Nutzen eine solche Therapie wünschen.
+Die Strahlentherapie kann effizient sein, um Symptome eines lokalen Befalls gezielt zu lindern, wie z. B. tracheale, ösophageale oder bronchiale Kompression; Knochen- oder Hirnmetastasen; Schmerzen; Stimmbandlähmung; Hämoptyse oder obere Einflussstauung. In einigen Fällen wurde eine endobronchiale Laser- und/oder Brachytherapie eingesetzt, um eine Verlegung der großen Atemwege (Luftröhre, Bronchien) zu behandeln. Diese therapeutische Option kann es einem Patienten in sonst gutem Allgemeinzustand ermöglichen, ein akzeptables Leben weiterzuführen.
+Im seltenen Fall, dass ein Patient gleichzeitig einen resektablen Lungentumor und eine solitäre Hirnmetastase hat, ist die Resektion der Metastase gleichzeitig mit dem Tumor indiziert. Eine geeignete postoperative Chemotherapie und/oder Strahlentherapie der Primärtumor-Stelle (und mit postoperativer Ganzhirnbestrahlung in täglichen Fraktionen von 1,8 bis 2,0 Gy) wird angewendet, um die langfristigen toxischen Auswirkungen auf das normale Hirngewebe zu vermeiden.
+Bei engmaschig beobachteten asymptomatischen Patienten kann die Therapie oft so lange verzögert werden, bis Symptome oder Zeichen der Tumorprogression auftreten.
+
+
+==== Standard–Behandlungsoptionen ====
+Strahlentherapie, primär in palliativer Intention bei lokalem Tumorwachstum
+Chemotherapie. Die folgenden Therapieprotokolle sind mit ähnlichen Überlebensraten assoziiert:
+Cisplatin plus Vinblastin plus Mitomycin C
+Cisplatin plus Vinorelbin
+Cisplatin plus Paclitaxel
+Cisplatin plus Docetaxel
+Cisplatin plus Gemcitabin
+Carboplatin plus Paclitaxel
+platinhaltige Chemotherapie und Therapie mit Bevacizumab (VEGF-Antikörper)
+Therapie mit Osimertinib (3. Generationen EGFR-Inhibitor)Das deutlich besser verträgliche Carboplatin (Dosierung nach AUC) ist vermutlich dem Cisplatin in der Wirkung nicht unterlegen.
+
+
+==== Neue Substanzen zur Therapie des fortgeschrittenen Bronchialkarzinoms ====
+In den letzten Jahren haben sich neue Medikamente zur Therapie des Bronchialkarzinoms etabliert. Die Basis für ihre Entwicklung war und ist die rasch zunehmende Kenntnis über die biologischen Grundlagen der Tumorentstehung. Diese Substanzen wirken sehr viel zielgerichteter als eine Chemotherapie und richten sich gegen bestimmte Oberflächenmerkmale des Tumors. Da die Tumorentstehung und -metastasierung ein sehr komplexes Geschehen ist, wurden bereits mehrere verschiedene Zielstrukturen identifiziert, die sich als Ansatzpunkt zur Tumorbekämpfung eignen. Einige der neu entwickelten Medikamente haben sich bereits in großen Studien bewährt und haben die Zulassung zur Therapie des Bronchialkarzinoms erhalten. Es handelt sich um Bevacizumab, Pemetrexed und Erlotinib.
+Bei Bevacizumab handelt es sich um einen monoklonalen Antikörper, der gegen den vaskulären endothelialen Wachstumsfaktor (VEGF, Vascular Endothelial Growth Factor) gerichtet ist. Der Antikörper fängt diesen für die Durchblutung des Tumors unerlässlichen Wachstumsfaktor ab, wodurch in der Folge keine neuen Blutgefäße mehr entstehen und auch bereits bestehende Gefäße im und zum Tumor hin verkümmern. Dadurch wird das Fortschreiten des Tumorwachstums verzögert. Insbesondere bei Patienten mit einem Tumor vom Adenokarzinomtyp konnte damit ein mittleres Überleben von mehr als 14 Monaten erreicht werden. Bevacizumab wird zusätzlich zu einer platinhaltigen Chemotherapie zur Erstlinienbehandlung von Patienten mit inoperablem fortgeschrittenen, metastasiertem oder rezidivierenden NSCLC, außer bei vorwiegender Plattenepithel-Histologie, angewendet.
+Erlotinib gehört zur Gruppe der Tyrosinkinase-Inhibitoren. Diese sind kleine Moleküle, die gezielt das Enzym Tyrosinkinase hemmen, das Signale, die über zellständige Rezeptoren ankommen, in die Zelle weiterleitet. Erlotinib hemmt spezifisch die Übertragung von Wachstumssignalen über die Tyrosinkinase des EGF(Epidermal Growth Factor)-Rezeptors, der auf Tumorzellen vermehrt vorkommt und der an der Entstehung und am Wachstum von Tumorzellen beteiligt ist. Auf diese Weise können Tyrosinkinase-Inhibitoren das Wachstum der Tumorzellen hemmen. Erlotinib ist in Deutschland für die Zweit- und Drittlinientherapie des fortgeschrittenen Lungenkrebs im Stadium IIIB/IV zugelassen, da die klinischen Studien eine signifikante Verbesserung der Überlebenszeit und der Lebensqualität zeigten.
+Pemetrexed entspricht aufgrund seines Wirkmechanismus eher einem modernen Chemotherapie-Medikament.
+Eine Vielzahl weiterer Medikamente zur zielgerichteten Therapie von Tumoren wie dem Bronchialkarzinom befindet sich in klinischer Erprobung. Der Stellenwert dieser modernen Therapeutika kann noch nicht abschließend beurteilt werden. Generell gilt für die meisten Medikamente, dass sie erheblich weniger Nebenwirkungen haben als die bislang bekannten Chemotherapeutika. Nicht alle Patienten scheinen nach den bislang bekannten Daten von einer zielgerichteten molekularen Therapie zu profitieren. Im Rahmen laufender wissenschaftlicher Studienprogramme versucht man, vorab z. B. anhand einer Gewebeprobe diejenigen Patienten zu identifizieren, die voraussichtlich den meisten Nutzen von der Behandlung haben könnten.
+
+
+=== Übersicht der Stadien und Therapien des NSCLC ===
+
+
+=== Nutzen der Chemotherapie im fortgeschrittenen Stadium ===
+
+
+==== Nutzen einer palliativen Chemotherapie ====
+Die systemische Behandlung des NSCLC begann in den 1970er Jahren, im Wesentlichen mit Doxorubicin- und Cyclophosphamid-haltigen Therapien. Meist war das objektive Ansprechen des Tumors nur von kurzer Dauer und ein Einfluss auf die Überlebenszeit nicht nachweisbar. Die Entdeckung des Cisplatin und seiner Wirksamkeit beim NSCLC führte zu dessen Einbeziehung in verschiedene Kombinations-Chemotherapien. Während die Ansprechraten höher waren als bei älteren Protokollen ohne Cisplatin, war auch die Toxizität stärker. Darüber hinaus gelang es in randomisierten Studien in dieser Zeit, die verschiedene Chemotherapieregimes verglichen, nicht, einen Überlebensvorteil zu dokumentieren, so dass der Nutzen der Chemotherapie für diese Erkrankung insgesamt in Frage gestellt war.
+
+
+==== Chemotherapie verglichen mit bestmöglicher supportiver Therapie ====
+Mehrere wissenschaftliche Studien haben Kombinationstherapien oder Behandlungen mit einzelnen Substanzen mit der bestmöglich unterstützenden Fürsorge (Best Supportive Care) verglichen.
+Nicht alle Untersuchungen zeigten einen Überlebensvorteil für die Chemotherapie, und wenn dieser nachweisbar war, war er eher klein, aber statistisch signifikant. Das häufige Auftreten behandlungsbedingter toxischer Nebenwirkungen in vielen Studien ließ die Frage aufkommen, ob die bescheidenen Überlebensvorteile überhaupt zu rechtfertigen seien. In vielen Studien wurde deutlich, dass sich die Symptome des Lungenkrebses unter der Therapie verbesserten.
+
+
+==== Optimale Dauer der palliativen Therapie ====
+Es ist nicht eindeutig geklärt, wie lange die Therapie optimalerweise durchgeführt werden sollte, um einerseits den maximalen Überlebensvorteil und bestmögliche Kontrolle der Tumorsymptome zu erreichen. Andererseits sollte, da die Chemotherapie in palliativer Absicht durchgeführt wird, d. h., um Symptome zu lindern und bei unheilbarer Erkrankung die Lebenszeit zu verlängern, eine kürzere Behandlungsdauer mit weniger toxischen Nebenwirkungen einhergehen. Diese Frage ist nur in wenigen Studien untersucht worden. Auf der Basis dieser Studien und der Leitlinien für die Behandlung des nichtresektablen NSCLC der Amerikanischen Gesellschaft für klinische Onkologie wird empfohlen, die Erstlinien-Therapie bei Patienten mit NSCLC im Stadium IV auf vier bis sechs Zyklen zu beschränken.
+
+
+== Ökonomische Aspekte ==
+2015 stellten Wissenschaftler für Deutschland fest: Der durchschnittliche Aufwand pro Lungenkrebsfall betrug etwa 20.000 Euro, variierte aber nach Behandlungsart deutlich. Strahlentherapie und die Operation, falls angewandt, schlugen mit etwa 26.000 beziehungsweise 20.000 Euro zu Buche. Etwa ein Fünftel der Patienten erhielt keine onkologische Therapie und kostete dann entsprechend nur etwa 4.200 Euro. Pro Jahr, das die Patienten überlebten, beliefen sich die Kosten im Schnitt auf 15.500 Euro. Ca. ein Drittel der Patienten wurde operiert. Die Prognose dieser Gruppe war im Vergleich mit anderen Behandlungsarten wie Bestrahlung oder Chemotherapie (insgesamt knapp 47% der Betroffenen) deutlich besser. Nicht in jedem Fall sei jedoch ein operativer Eingriff möglich oder sinnvoll. Wünschenswert wäre daher die Diagnosestellung in einem früheren, noch operablen Krankheitsstadium.
+
+
+== Literatur ==
+V. Kumar, A. K. Abbas, N. Fausto (Hrsg.): Robbins and Cotrane Pathologic Basis of Disease. 7. Auflage. Elsevier Saunders, 2005, ISBN 0-7216-0187-1, S. 757–766.
+M. Classen, V. Diehl, K. Kochsiek: Innere Medizin. 4. Auflage. Urban & Schwarzenberg, München 1998, ISBN 3-541-11674-9, S. 1459–1463.
+D. P. Berger, R. Engelhardt, R. Mertelsmann: Das Rote Buch: Hämatologie und Internistische Onkologie. 3. Auflage. Ecomed, Landsberg am Lech 2006, ISBN 3-609-51213-X.
+Stefan Fischer, Joachim Hartlapp, Wolfgang Wagner (Hrsg.): Interdisziplinäre Behandlung des Lungenkarzinoms. Pabst Science Publ., Lengerich 2015, ISBN 978-3-95853-039-3.
+Leitlinienprogramm Onkologie (Deutsche Krebsgesellschaft, Deutsche Krebshilfe, AWMF): Prävention, Diagnostik, Therapie und Nachsorge des Lungenkarzinoms. Langversion 1.0, 2018, AWMF-Registriernummer 020/007OL (PDF; 8,6 MB).
+
+
+== Weblinks ==
+
+
+=== Leitlinien/Empfehlungen zu Diagnostik, Therapie und Nachsorge ===
+S3-Leitlinie zur Prävention, Diagnostik, Therapie und Nachsorge des Lungenkarzinoms (PDF; 9,2 MB) der Deutschen Gesellschaft für Pneumologie und der Deutschen Krebsgesellschaft, AWMF-Register Nr. 020/007OL, Stand: 02/2018, gültig bis 12/2022
+
+
+=== Aktuelle Informationen, Therapiestudien, neue Medikamente ===
+Cancernet, Uniklinik Bonn: Grundlagen »nichtkleinzelliges (Memento vom 6. Januar 2013 im Webarchiv archive.today) und kleinzelliges (Memento vom 6. Januar 2013 im Webarchiv archive.today) Bronchialkarzinom«
+National Cancer Institute (NCI). (englisch)
+
+
+=== Pathologische Aufnahmen ===
+PathoPic – Bilddatenbank der Universität Basel: Histologische Bilder von Bronchialkarzinomen
+PathoPic – Bilddatenbank der Universität Basel: Makroskopische Bilder von Bronchialkarzinomen
+PathoPic – Bilddatenbank der Universität Basel: Zytologische Bilder von Bronchialkarzinomen
+
+
+=== Epidemiologie ===
+Lungenkrebs. Zentrum für Krebsregisterdaten (ZfKD) im Robert Koch-Institut (RKI)
+
+
+== Einzelnachweise ==

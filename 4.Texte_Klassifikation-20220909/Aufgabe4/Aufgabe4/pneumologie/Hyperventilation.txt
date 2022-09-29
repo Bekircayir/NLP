@@ -1,0 +1,119 @@
+Bei einer Hyperventilation (von altgriechisch ὑπέρ hypér, deutsch ‚über‘ und lateinisch ventilare ‚fächeln‘) handelt es sich um eine gesteigerte Belüftung der Lungen. Sie geht mit einer Abnahme des Kohlenstoffdioxid-Partialdruckes (CO2) und einem pH-Anstieg (respiratorische Alkalose) im Blut einher. Eine Hyperventilation kann sich als Störung der Atemregulation aus psychischen oder körperlichen Gründen ereignen (Hyperventilationssyndrom, primäre Hyperventilation), als Reaktion auf eine Unterversorgung zeigen (bei Erkrankungen des Herz-Kreislauf-Systems, sekundäre Hyperventilation) oder auch bei kontrollierter Beatmung auftreten.
+Neben dem akuten Hyperventilationssyndrom, das durch anfallsweise auftretende beschleunigte und vertiefte Atmung mit den typischen tetanischen Symptomen gekennzeichnet ist, wird das chronische Hyperventilationssyndrom unterschieden, das zur Gruppe der Somatisierungsstörungen gezählt wird und oft mit nicht eindeutigen Symptomen einhergeht. Die angstbedingte, akute Hyperventilation kann bisweilen ein zugrunde liegendes Problem (zum Beispiel Pneumothorax) überdecken.
+Das bei einem erhöhten Atmungsbedarf angepasste Atemvolumen beim Arbeiten (körperliche Belastung) ist keine Hyperventilation. Das Gegenteil (zu viel Kohlenstoffdioxid im Blut) heißt Hypoventilation. Das Phänomen einer zu schnellen Atmung, ohne Berücksichtigung der Kohlenstoffdioxidkonzentration im Blut, bezeichnet man als Tachypnoe.
+
+
+== Ursachen ==
+Eine Hyperventilation ist eine Störung der Atmung, die meist psychisch bedingt ist und früher wie andere funktionelle Atemstörungen als „Atemneurose“ bezeichnet wurde. Starke Affekte wie  Angst, Panik oder Erregung, aber auch Schmerzen können zu einer beschleunigten Atmung führen.
+Daneben kann eine Hyperventilation auch durch körperliche Erkrankungen wie Hirnentzündungen, Hirntumore, Schädel-Hirn-Trauma, Schlaganfall, Elektrolytstörungen, Vergiftungen und Infektionskrankheiten verursacht sein.
+Differenzialdiagnostisch müssen körperliche Störungen ausgeschlossen werden, die eine kompensatorische Steigerung der Atmung verursachen, wie etwa Herzinsuffizienz und Erkrankungen der Lunge.
+Ein besonderer Fall der (willentlichen, aber nicht beabsichtigten) Hyperventilation kann auftreten bei der Zirkularatmung, wie sie Blasinstrumentenspieler, vor allem beim Didgeridoo, verwenden. Einige Atemtherapien und Atemlehren verwenden absichtliche Hyperventilationen, so Kapalabhati, eine Übung der indischen Atemlehre Pranayama, oder das holotrope Atmen zur Erreichung von Transzendenzerfahrungen. Freitaucher (Taucher ohne Hilfsmittel) lehnen die Hyperventilation als einfache Möglichkeit zur Verlängerung der Tauchzeit ohne Geräteunterstützung wegen deren Gefährlichkeit weitgehend ab.
+
+
+== Atemregulation im Körper ==
+Das Atemminutenvolumen des Menschen wird primär durch die CO2-Konzentration im arteriellen Blut geregelt. Die Messung der CO2-Konzentration erfolgt zum einen durch im Hirnstamm gelegene zentrale Chemorezeptoren und zum anderen durch periphere Chemorezeptoren, die sich im Glomus caroticum und in den Glomera aortica befinden. Steigt der CO2-Gehalt im Blut, erhöht sich das Atemzeitvolumen (Vermittlung durch das Atemzentrum). Eine sekundäre Atemsteuerung (unter Normalbedingungen deutlich geringerer Einfluss) übernehmen Sauerstoff- (kann nur in peripheren Chemorezeptoren gemessen werden) und pH-Rezeptoren, die bei zu niedriger Sauerstoffversorgung bzw. zu niedrigem pH-Wert das Atemzeitvolumen erhöhen.
+
+
+== Pathophysiologie ==
+Eine überhöhte Luftwechselrate führt kaum zur Mehraufnahme von Sauerstoff in den Körper, da die Sättigung des Blutes mit Sauerstoff schon bei normaler Atmung etwa 97 % beträgt. Allerdings kommt es bei Hyperventilation zur vermehrten Abatmung von Kohlenstoffdioxid, welches ständig aus dem Blut in die Atemluft diffundiert. Dadurch kann der Anteil des Kohlenstoffdioxids im Blut unter den physiologischen Wert fallen, was zu einer Störung des Säure-Basen-Haushalts führt.
+Kohlenstoffdioxid (CO2) ist im Blut größtenteils als Kohlensäure (H2CO3) gebunden. Die im Blut gelöste Kohlensäure reagiert in Abhängigkeit von den Umständen entweder zu freiem Kohlenstoffdioxid oder zu Hydrogencarbonat (HCO3-). Bei der Umwandlung von Kohlensäure in Kohlendioxid wird ein H2O (Wasser) abgespalten. Bei der Umwandlung von Kohlensäure in Hydrogencarbonat wirkt die Säure als Protonendonator. Das abgegebene Proton (H+) verbindet sich mit dem umgebenden Wasser (H2O) zu Oxonium (H3O+).
+
+  
+    
+      
+        
+          C
+          
+            O
+            
+              2
+            
+          
+          +
+          2
+           
+          
+            H
+            
+              2
+            
+          
+          O
+          ⇋
+          
+            H
+            
+              2
+            
+          
+          C
+          
+            O
+            
+              3
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+          ⇋
+          H
+          C
+          
+            O
+            
+              3
+            
+            
+              −
+            
+          
+          +
+          
+            H
+            
+              3
+            
+          
+          
+            O
+            
+              +
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {CO_{2}+2\ H_{2}O\leftrightharpoons H_{2}CO_{3}+H_{2}O\leftrightharpoons HCO_{3}^{-}+H_{3}O^{+}} }
+  Wenn durch eine vertiefte bzw. beschleunigte Atmung zu viel Kohlendioxid mit der Atemluft abgegeben wird, verschiebt sich das Reaktionsgleichgewicht. Als Folge der Stoffmengenänderung reagiert H2CO3 so lange vermehrt zu CO2, bis sich ein neues Gleichgewicht einstellt. Dabei kommt es zwangsläufig zu einer Abnahme der Konzentration von HCO3- und H3O+. Je weniger H3O+ sich im Blut befindet, desto höher ist dessen pH-Wert. Infolge der Hyperventilation wird so zunehmend eine respiratorische Alkalose erzeugt, was ein potentiell lebensbedrohlicher Zustand ist.
+Zum Verständnis der Folgen der Hyperventilation ist eine grundlegende Kenntnis über den Zustand der Hirngefäße in Abhängigkeit von der CO2-Konzentration im Blut erforderlich: Eine hohe CO2-Konzentration geht im Allgemeinen mit einer niedrigen O2-Konzentration einher. In diesem Fall erweitern sich die Gefäße des Gehirns, um eine adäquate Versorgung der Nervenzellen mit Sauerstoff zu gewährleisten. Bei der Hyperventilation tritt nun der umgekehrte Fall ein: Die abnorm geringe CO2-Konzentration führt zu einer Konstriktion der Hirngefäße. Dies führt zu der paradoxen Situation, dass eine vermehrte Atemtätigkeit trotz maximaler Sauerstoffsättigung zu einer Unterversorgung des Gehirns mit Sauerstoff führt.
+
+Durch die pH-Verschiebung kommt es außerdem zu Störungen des Elektrolythaushaltes, insbesondere zu einer relativen Hypokalziämie (relativ, weil nicht die Konzentration des Calciums abnimmt, sondern der Anteil des frei gelösten ionisierten Calciums am Gesamt-Calcium im Blut) durch die vermehrte Bindung an negativ geladene Plasmaproteine. Dies ist dadurch zu erklären, dass Plasmaproteine bei erhöhten Blut-pH-Werten verstärkt Protonen an das Blut abgeben und damit eine negativ geladene Bindungsstelle frei wird.
+Calcium hat eine membranstabilisierende Wirkung. Sinkt nun die relative Konzentration, führt dies zu einer Übererregbarkeit des Nervensystems und der Muskulatur und damit zu den typischen neuromuskulären Symptomen (z. B. Krämpfe, „Pfötchenstellung“).
+
+
+== Symptome ==
+Bei den Betroffenen liegt eine hohe Atemfrequenz (Tachypnoe) vor, sie klagen gleichzeitig über starke Luftnot, den Zwang, tief einatmen zu müssen, und ein Engegefühl über der Brust. Gähnen, Seufzer und ein Reizhusten können ebenfalls auftreten. Typisch sind die neuromuskulären Symptome. Charakteristischerweise treten Gefühllosigkeit und Missempfindungen (Parästhesien, als „Ameisenlaufen“ empfunden) auf, begleitet von Verkrampfungen der Hände („Pfötchenstellung“) und Lippen („Karpfenmaul“), Zittern, Muskelschmerzen und gelegentlich Lähmungen der Extremitäten. Begleitend sind oft Kopfschmerz, Schwindel, Sehstörungen und Benommenheit, teilweise bis zur Synkope.
+Auch kardiale Symptome können auftreten und sich als thorakale Schmerzen (über dem Brustkorb), Herzstechen und Herzklopfen (Palpitationen) äußern.
+Bei chronischem Krankheitsbild können weiterhin Verdauungsprobleme (Aufstoßen, Blähungen, Schluckstörungen) auftreten, die oft dem Krankheitsbild des Reizdarmsyndroms entsprechen. Müdigkeit, Schläfrigkeit, Konzentrationsstörungen, Vergesslichkeit, Reizbarkeit, Wetterfühligkeit sowie phobische- oder Panikzustände sind ebenfalls mögliche Symptome des chronischen Verlaufs.
+
+
+== Behandlung ==
+Im Vordergrund der Behandlung einer akuten Hyperventilation steht eine Beruhigung des Betroffenen mit der Anleitung zu bewusst langsamer und verminderter Atmung. Wenn dies aufgrund von Angst und Erregung nicht möglich ist, ist eine Rückatmung (in eine Plastik- oder Papiertüte bzw. eine Hyperventilationsmaske oder Sauerstoffmaske bei ausgeschaltetem Sauerstoffzufluss) angezeigt. Durch das mehrmalige Ein- und Ausatmen der eigenen kohlenstoffdioxidhaltigen Atemluft steigt die CO2-Konzentration im Blut des Patienten wieder an, und die zuvor konstringierten Hirngefäße weiten sich wieder. Zuweilen ist eine pharmazeutische Sedierung, z. B. mit einem Benzodiazepin, notwendig. Heute nicht mehr praktiziert wird ein Ausgleich des Säure-Basen-Haushalts oder die intravenöse Verabreichung von Calcium.
+Das chronische Hyperventilationssyndrom wird durch psychotherapeutische Behandlung sowie mit Physio- und Atemtherapie und Entspannungsverfahren behandelt. Bei etwa 60 % der Patienten kommt es darunter zu einer Besserung.
+
+
+== Hyperventilation als Therapietechnik ==
+Im Rahmen körperpsychotherapeutischer Verfahren wie Bioenergetische Analyse (Alexander Lowen), Rebirthing und holotropes Atmen wird Hyperventilation bewusst in therapeutischer Absicht eingesetzt. Als Expositionstechnik kommt Hyperventilation in der Verhaltenstherapie zum Einsatz.
+
+
+== Literatur ==
+Jörg Michael Herrmann, A. Radvila: Funktionelle Störungen – Funktionelle Atemstörungen – Das Hyperventilationssyndrom. Dtsch Arztebl 1999; 96 (11): A-694/B-532/C-490
+
+
+== Einzelnachweise ==

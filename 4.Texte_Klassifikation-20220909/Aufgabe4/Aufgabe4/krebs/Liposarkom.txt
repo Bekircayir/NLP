@@ -1,0 +1,54 @@
+Das Liposarkom ist ein seltener bösartiger Tumor des Weichteilgewebes (Sarkom), der feingewebliche Merkmale von Fettzellen oder Fettzellvorstufen aufweist. Mit einem Anteil von 16–18 % ist das Liposarkom nach dem malignen fibrösen Histiozytom das zweithäufigste Weichteilsarkom.
+Die Erstbeschreibung des Liposarkoms als Krankheitsentität erfolgte 1857 durch Rudolf Virchow.
+
+
+== Epidemiologie ==
+Die Inzidenz des Liposarkoms wird international mit etwa 2,5 Neuerkrankungen je einer Million Einwohner und Jahr angegeben. Mit einem mittleren Erkrankungsalter von 50 Jahren handelt es sich um einen Tumor des Erwachsenen, der gleichwohl selten auch bei Kindern und jungen Erwachsenen beobachtet wird. Männer sind geringfügig häufiger betroffen als Frauen. Geographische oder ethnische Häufigkeitsunterschiede wurden bislang nicht berichtet.
+
+
+== Ätiologie ==
+Die der Entstehung eines Liposarkoms zugrunde liegenden Ursachen sind weitgehend ungeklärt. Beschrieben wird eine mögliche Beziehung zu vorausgegangenen Verletzungen und einer Exposition gegenüber ionisierender Strahlung. Das Lipom, ein gutartiger und ungleich häufigerer Fettgewebstumor, ist keine typische Vorläuferveränderung des Liposarkoms, soll aber laut einigen Autoren in Einzelfällen dessen Ausgangspunkt bilden können. Andere Quellen bestreiten diese Ansicht und verweisen darauf, dass ein Übergang eines Lipoms in ein Liposarkom bislang nie überzeugend dokumentiert werden konnte.
+
+
+== Pathologie ==
+Vom makroskopischen Bild her sind Liposarkome oft relativ gut und häufig sogar kapselartig begrenzte, knotige oder gelappte, gelbliche bis grau-weiße Tumoren, die je nach Lokalisation eine erhebliche Größe und ein Gewicht von mehreren Kilogramm erreichen können. Die scheinbar gute Abgrenzung kann sich insofern als trügerisch erweisen, als in der Umgebung des Haupttumors zuweilen kleinere Tumorabsiedlungen gefunden werden. Liposarkome finden sich bevorzugt im tiefen Weichgewebe der unteren Extremität (59 %), der oberen Extremität (16 %), dem Retroperitoneum (15 %) und dem Körperstamm (8 %). Besonders häufig sind die Oberschenkel betroffen (41 %).Durch die histologische (d. h. feingewebliche) Untersuchung lassen sich mehrere Subtypen des Liposarkoms unterschieden, die eine unterschiedliche Prognose zeigen und zum Teil auch bevorzugt in bestimmten Körperregionen auftreten:
+
+Der Grad der Dedifferenzierung eines Liposarkoms gibt an, wie stark sich das Tumorgewebe morphologisch vom reifen Fettgewebe unterscheidet. Dies ist deshalb bedeutsam, da mit zunehmender geweblicher Unreife auch ein zunehmend bösartigeres biologisches Verhalten des Tumors und eine schlechtere Prognose zu erwarten sind (aggressives lokales Wachstum, Rezidivneigung, Metastasierung).
+Für gut differenzierte Liposarkome werden zuweilen auch die Begriffe atypischer lipomatöser Tumor oder atypisches Lipom verwendet, da sie einerseits morphologisch einem Lipom sehr ähnlich sein können und zudem in Abwesenheit einer Tumorprogression nicht metastasieren, so dass ihnen ein prognostisch bedeutsames Merkmal maligner Tumoren fehlt.
+Es ist mittlerweile allgemein akzeptiert, dass rundzellige Liposarkome eine dedifferenzierte (geweblich unreifere und sich somit bösartiger verhaltende) Variante des myxoiden Liposarkoms darstellen.
+
+
+=== Molekularpathologie ===
+Genetische Veränderungen sind häufig und betreffen unter anderem eine Region auf dem langen Arm des Chromosoms 12 (12q13-15) mit Amplifikation des MDM2-Gens (murine double minute oncogene) und des für die Cyclin-abhängige Kinase 4 codierenden Gens CDK4. Die damit einhergehende Überexpression der entsprechenden Gene kann auf RNA- und Proteinebene nachgewiesen werden und unter Umständen zur Abgrenzung sowohl gegenüber gutartigen Lipomen als auch anderen Weichteilsarkomen beitragen.
+
+
+== Klinische Symptomatik ==
+Liposarkome werden häufig erst in fortgeschritteneren Stadien als tief gelegene, langsam wachsende tumoröse Gewebsmasse klinisch auffällig. Die genaue Symptomatik wird dabei vorwiegend von der Lokalisation des Tumors bestimmt. Mit dem Tumorwachstum möglicherweise einhergehende Allgemeinerscheinungen sind zum Beispiel Müdigkeit, Abgeschlagenheit, Gewichtsverlust, Übelkeit und Erbrechen.
+
+
+== Diagnose ==
+Bildgebende Verfahren wie die Computertomographie, die Magnetresonanztomographie, die Angiographie oder die Szintigraphie liefern diagnostische Hinweise und ermöglichen eine Einschätzung der Ausbreitung des Tumorleidens. Zur definitiven Diagnosesicherung ist in der Regel eine Biopsie und die histologische Untersuchung des gewonnenen Tumorgewebes durch einen Pathologen erforderlich.
+
+
+== Therapie ==
+Der erfolgversprechendste therapeutische Ansatz ist die vollständige chirurgische Entfernung des Tumors unter Einhaltung eines ausreichenden Sicherheitsabstandes. Weitere Therapieoptionen sind die lokale Bestrahlung und eine Chemotherapie.
+Obwohl das Liposarkom als das strahlensensibelste Sarkom gilt, konnte eine Steigerung der Überlebenszeit durch eine Radiotherapie in wissenschaftlichen Studien bislang nicht überzeugend gezeigt werden. Auch die Chemotherapie des Liposarkoms hat gegenwärtig noch experimentellen Charakter.
+
+
+== Prognose ==
+Die Heilungsaussichten sind neben der Möglichkeit einer kompletten chirurgischen Entfernung davon abhängig, welcher feingewebliche Subtyp des Liposarkoms vorliegt. Die gut differenzierten sowie die meisten myxoiden Liposarkome zeigen mit einer Fünf-Jahres-Überlebensrate von 100 beziehungsweise 88 Prozent eine günstige Prognose. Diese ergibt sich unter anderem daraus, dass diese Formen kaum zu Metastasenbildung neigen. Hingegen versterben etwa 50 Prozent der Patienten mit einem rundzelligen oder schlecht differenzierten Liposarkom binnen fünf Jahren an ihrem Tumorleiden.
+Metastatische Tumorabsiedlungen betreffen vor allem die Lunge (20 %), Knochen (8 %), Lymphknoten (6 %) und die Leber (5 %).
+
+
+== Literatur ==
+A. N. Khan u. a.: Liposarcoma, Soft Tissue. (12. März 2008);
+R. A. Schwartz u. a.: Liposarcoma. (18. April 2008);
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+
+Liposarcoma (englisch)
+Histopathology India: Liposarcoma (englisch)

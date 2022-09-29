@@ -1,0 +1,200 @@
+Kardiomyopathien (syn. Myokardiopathien, gr. kardía (καρδία) Herz, gr. mys (μυς) Muskel, gr. páthos (πάθος) Leiden) sind eine heterogene Gruppe von Krankheiten des Herzmuskels, die mit mechanischen und/oder elektrischen Funktionsstörungen einhergehen und üblicherweise, aber nicht zwingend, eine unangemessene Hypertrophie (Verdickung) oder Dilatation (Erweiterung) einer oder beider Herzkammern hervorrufen. Ihre Ursachen sind vielfältig und häufig genetisch bedingt. Kardiomyopathien begrenzen sich entweder auf das Herz oder sind Teil einer allgemeinen Systemerkrankung, führen oft zu kardiovaskulär bedingten Todesfällen oder einer fortschreitenden Behinderung durch Herzinsuffizienz.
+
+Abzugrenzen sind Erkrankungen, die eine direkte Folge anderer Herz-Kreislauf-Anomalien sind, wie Herzklappenerkrankungen, Bluthochdruck, angeborene Herzfehler oder die Folgen einer atherosklerotischen koronaren Herzkrankheit.
+
+Aufgrund zahlreicher neuer Erkenntnisse wurde diese aktualisierte Definition im März 2006 von der Amerikanischen Herzgesellschaft (AHA) vorgeschlagen und ist heute allgemein anerkannt. Neben oben genanntem werden in einer neuen Klassifikation primäre von sekundären Kardiomyopathien unterschieden. Die primären Kardiomyopathien wiederum werden in angeborene, erworbene und Mischformen unterteilt.
+
+
+== Geschichte ==
+In der Mitte des 18. Jahrhunderts war allein die chronische Myokarditis als Herzmuskelerkrankung bekannt. Um 1900 wurde der Begriff der primären Herzmuskelerkrankung geprägt, und erst 1957 kam der Begriff der Kardiomyopathie auf. Bis 1980 gab es mehrere Definitionen, als die WHO die Kardiomyopathie als „Herzmuskelerkrankung unbekannter Ursache“ bezeichnete. Die WHO-Klassifikation von 1995 erweiterte den Begriff auf „Herzmuskelerkrankungen, die zu Fehlfunktionen des Herzens führen“. Neue Erkrankungen wie die arrhythmogene rechtsventrikuläre und die restriktive Kardiomyopathie wurden eingeschlossen.
+
+
+== Primäre Kardiomyopathien ==
+
+
+=== Angeborene primäre Kardiomyopathien ===
+
+
+==== Hypertrophe Kardiomyopathie ====
+
+Die hypertrophische Kardiomyopathie (HCM) ist durch eine meist asymmetrische Verdickung der Muskulatur der linken Herzkammer charakterisiert.
+
+
+==== Arrhythmogene rechtsventrikuläre Kardiomyopathie ====
+
+Die arrhythmogene rechtsventrikuläre Kardiomyopathie (ARVCM), früher auch arrhythmogene rechtsventrikuläre Dysplasie (ARVD) genannt, ist eine überwiegend angeborene Erkrankung. In Venetien ist die Prävalenz mit 1:2000 bis 1:5000 besonders hoch. Es finden sich aber auch Fälle von ARVCM in Deutschland. Mit dem Fortschreiten der Erkrankung wird immer mehr Muskulatur der rechten Herzkammer durch Fettgewebe ersetzt, wodurch sich die rechte Herzkammer vergrößert. Selten finden sich Einschränkungen in der Pumpfunktion des Herzens. Häufiger ist der bei körperlicher Belastung, wie beispielsweise Leistungssport, ausgelöste plötzliche Herztod (PHT) oder „Beinahe“-PHT, insbesondere bei jungen Menschen. Die Diagnose kann mittels Echokardiografie, MRT, EKG und McKenna-Score gestellt werden. Zur Behandlung kann ein Kardioverter-Defibrillator implantiert werden. Sportliche Belastungen sollten vermieden werden. Eine Herztransplantation ist in vielen fortgeschrittenen Fällen die Ultima Ratio. Da die ARVCM in vielen Fällen vererbt wurde, empfiehlt sich eine Untersuchung von den Familienangehörigen der Betroffenen. In einigen Ländern, beispielsweise Italien und den Vereinigten Staaten, werden alle Mitglieder von Sportvereinen prophylaktisch untersucht.
+Eine Ursache für die Entstehung einer arrhythmogenen rechtsventrikulären Kardiomyopathie können Mutationen in Proteinen der Desmosomen sein. Desmosomen sind für den Zellkontakt der Zellen wichtig. Im Fall der ARVCM speziell für das Myokard. Bei der Naxos-Krankheit ist beispielsweise das DSP-Gen von einer Mutation betroffen, das für das Zelladhäsionsprotein Desmoplakin kodiert. Der Gendefekt führt bei den betroffenen Patienten zu einer arrhythmogenen rechtsventrikulären Kardiomyopathie. Mutationen im DES-Gen, das für das Intermediärfilament Desmin kodiert, können ebenfalls zu einer ARVCM führen.
+
+
+==== Linksventrikuläre Hypertrabekulation ====
+Angeborene, seltene Herzmuskelerkrankung mit schwammartig aufgetriebener Muskulatur vor allem in der Spitze der linken Herzkammer, die tiefe Aushöhlungen (Sinusoide) zwischen Muskelfasern (Trabekeln) aufweist, die mit der Herzhöhle verbunden sind. Bei der Isolierten Nonkompaktion des Herzmuskels (Syn: Non-Compaction-Kardiomyopathie, linksventrikuläre Hypertrabekulation, spongy myocardium) hat sich der Herzmuskel aus seinem losen Maschennetz während der frühen Embryonalphase nicht weiter verdichtet (schwammiges Myokard). Gehäuft bei Skelettmuskelerkrankungen, auch in Kombination mit komplexen zyanotischen Herzfehlern.
+Die Diagnose wird durch Echokardiografie, MRT oder Angiografie der linken Herzkammer bei einer Herzkatheteruntersuchung gestellt. Unklar ist der klinische Verlauf. Fälle von schwerem Herzversagen, Thromboembolie, Arrhythmien und plötzlichem Herztod sind bekannt. Familiär gehäufte Fälle wurden beschrieben, wobei Mutationen der Z-Scheibe, der Mitochondrien und des G4.5-Gens für Tafazzin isoliert werden konnten.
+
+
+==== Glykogenspeichererkrankungen ====
+Man unterscheidet PRKAG2 und Danon, eine Glykogenose Typ II.
+
+
+==== Leitungsdefekte ====
+Die Lenègre-Erkrankung ist ein primär progressiver Leitungsdefekt des His-Purkinje-Systems, der zur Verbreiterung des QRS-Komplexes im EKG führt mit langen Pausen, Bradykardie und Synkopen.
+Das Syndrom des kranken Sinusknotens (Sick-Sinus-Syndrom) gleicht phänotypisch einem Leitungsdefekt und kann autosomal-dominant auftreten.
+Auch das Wolff-Parkinson-White-Syndrom (WPW) kommt selten familiär gehäuft vor.
+
+
+==== Mitochondriale Myopathien ====
+Teilweise werden die Enzyme der Atmungskette auf den Genen der Mitochondrien kodiert. Mehrere Syndrome aufgrund entsprechender Gendefekte sind bekannt, darunter das
+
+Kearns-Sayre-Syndrom mit Pigmentdegenerationen der Netzhaut des Auges, Augenmuskellähmung und Kardiomyopathie, und das
+MELAS-Syndrom mit Myopathie, Enzephalopathie, Laktatazidose und schlaganfallartigen Episoden. Außer den vier durch das Akronym definierten Merkmalen sind eine hypertrophe Kardiomyopathie und eine diffuse Koronargefäßerkrankung typisch. Die Behandlung ist schwierig. Einige Patienten wurden mit kurzfristig bescheidenem Erfolg mit Coenzym Q behandelt. Eine Alternative stellt die Herztransplantation dar.
+
+
+==== Ionenkanaldefekte ====
+Es gibt eine wachsende Liste seltener erblicher und angeborener Herzrhythmusstörungen, die durch Gene für defekte Ionenkanalproteine kodiert werden. Auch ein kleiner Anteil von 5–10 % von Kindern mit dem plötzlichen Kindstod könnte durch Ionenkanaldefekte verursacht sein. Die klinische Diagnose eines Ionenkanaldefektes ist oft schon phänotypisch durch ein Standard-12-Kanal-EKG möglich. Einige dieser Fälle wurden zuvor als idiopathisches Kammerflimmern klassifiziert.
+
+
+===== Long-QT-Syndrom (LQTS) =====
+Das Long-QT-Syndrom ist wahrscheinlich die häufigste der Ionenkanalerkrankungen. Charakteristisch sind Verlängerungen der Kammerdepolarisation und des QT-Intervalls im 12-Kanal-EKG. Es kommt zu einer speziellen Form der Kammertachykardie (Torsade de pointes) und damit zu einem Risiko für Synkopen und für einen plötzlichen Herztod.
+Jervell- und Lange-Nielsen-Syndrom: selten, autosomal-rezessiv, assoziiert mit Taubheit. Zwei Gene, die einen langsam aktivierenden verzögerten Kaliumkanal kodieren.
+Romano-Ward-Syndrom: viel häufiger, autosomal-dominant, dreizehn verschiedene Gene, von denen unter anderem fünf (KCNQ1, KCNH2, KCNE1, KCNE2, KCNJ2) für verschiedene Kaliumkanäle (I(K)) kodieren, zwei (SCN5A, SCN3B) für kardiale Natriumkanäle (I(Na)) und einer (ANK2) für das Protein Ankyrin B, welches für die Verankerung von Ionenkanälen in der Zellmembran verantwortlich ist.
+
+
+===== Brugada-Syndrom =====
+
+Als klinische Entität ist das Brugada-Syndrom seit 1992 bekannt, es wird nach den beiden erstbeschreibenden Brüdern Pedro und Josep Brugada gelegentlich auch Brugada-Brugada-Syndrom genannt. Manchmal ist es für den plötzlichen Herztod vor allem junger Menschen verantwortlich. Charakteristisch sind rechtsschenkelblockähnliche Veränderungen im EKG, die gegebenenfalls durch einen Ajmalin-Test provoziert werden können. Verschiedene Gendefekte sind bekannt, sie wurden von Ramon Brugada, dem jüngsten der drei Brugada-Brüder, beschrieben.
+
+
+===== Asian SUNDS =====
+SUNDS = „sudden unexplained nocturnal death syndrome“. Vornehmlich bei jungen asiatischen Männern, vor allem aus Thailand, Japan, den Philippinen und Kambodscha. Plötzlicher Tod im Schlaf durch Kammertachykardie oder Kammerflimmern. Einige Fälle sind vom Erscheinungsbild her nicht zu unterscheiden vom Brugada-Syndrom. Das SUNDS hat als Todesart #818 mit dem Titel Tödlicher Traum Einzug in die Sendereihe "1000 Wege, ins Gras zu beißen" gefunden.
+
+
+===== Short-QT-Syndrom (SQTS) =====
+Erstbeschreibung im Jahre 2000. Das QT-Intervall im EKG ist auf unter 330 ms verkürzt. Es besteht eine große Gefahr für einen plötzlichen Herztod.
+
+
+===== CPVT =====
+CPVT = „Catecholaminergic Polymorphic Ventricular Tachycardia“, Erstbeschreibung durch Coumel 1978. Charakterisiert durch eine auffällige Verbreiterung des QRS-Komplexes im EKG sowie durch Synkopen, durch körperliche Anstrengung oder durch heftige Gefühlsbewegungen ausgelöste polymorphe Kammertachykardien bei Kindern und Jugendlichen sowie durch ein erhöhtes Risiko von plötzlichem Herztod. CPVT wird durch Mutationen im Gen RYR2 verursacht, welches für den kardialen (=Subtyp 2) Ryanodin-Rezeptor kodiert, der überwiegend in der Herzmuskulatur exprimiert wird. Die Vererbung der Mutation im Gen RYR2 innerhalb der betroffenen Familien folgt einem autosomal dominanten Vererbungsmuster, d. h., das Risiko für einen Angehörigen ersten Grades beträgt 50 %, ebenfalls die krankheitsverursachende Mutation ererbt zu haben. In 30 % der diagnostizierten Fälle von CPVT wird ein vorausgegangener plötzlicher Herztod bei Familienangehörigen beobachtet.
+
+
+=== Gemischte (angeborene und erworbene) primäre Kardiomyopathien ===
+
+
+==== Dilatative Kardiomyopathie ====
+
+Die dilatative Kardiomyopathie (DCM), bei der zunächst der linke Ventrikel (Herzkammer) (im Endstadium auch alle Herzhöhlen) erheblich erweitert ist (das Herz kann mit einem großen schlaffen Sack verglichen werden). Die Wandstärken sind meist nicht oder nur geringfügig verdickt (hypertrophiert). Das Herz zieht sich nur eingeschränkt zusammen (= systolische Funktionseinschränkung), oft kombiniert mit asynchronem Kontraktionsablauf der Kammern, bedingt durch eine Störung der Erregungsleitung infolge Linksschenkelblocks. Zahlenmäßig sind abgelaufene Herzmuskelentzündungen und chronischer Alkoholmissbrauch die häufigsten Ursachen. Es gibt auch angeborene Formen. Sekundäre Formen sind die „ischämische DCM“ infolge einer koronaren Herzerkrankung und der Endzustand eines Hochdruckherzens. Die DCM ist ein häufiger Grund für eine Herztransplantation, wenn der Zustand des Patienten mit Medikamenten, Koronarintervention oder kardialer Resynchronisationstherapie (CRT) nicht ausreichend gebessert werden kann. Die Diagnose wird nach klinischem Verdacht mit den typischen Symptomen durch bildgebende Verfahren (Echokardiografie, MRT, MSCT) und feingeweblich (Myokardbiopsie) gesichert. Eine koronare Herzkrankheit muss durch eine Herzkatheteruntersuchung ausgeschlossen werden, da sich hieraus eine kurative Behandlungsmöglichkeit der Ursache ergeben könnte.
+
+
+==== Restriktive Kardiomyopathie ====
+Die restriktive Kardiomyopathie (RCM) stellt sich mit normal großen Herzkammern und einer meist normalen systolischen Pumpfunktion dar. Durch vermehrten Einbau von Bindegewebe in die Herzmuskulatur verhärtet die Herzmuskulatur. Die hierdurch versteiften Herzkammern lassen sich in der Erschlaffungsphase (Diastole) des Herzens schlecht füllen, das Blut staut sich in den Vorhöfen, die hierdurch stark vergrößert sind. Die Wanddicke der linken Herzkammer ist normal und die Herzklappen sind regelrecht.
+Auffällig werden die Patienten durch Symptome einer Herzinsuffizienz wie belastungsabhängige Atemnot und Beinödeme. Die Erkrankung ist in den Industrieländern ausgesprochen selten und kann übersehen werden, wenn man nicht gezielt danach sucht. In tropischen Ländern ist die restriktive Kardiomyopathie hingegen weitaus häufiger und verursacht bis zu 20 % aller kardiovaskulären Todesfälle.
+Diagnostische Methoden sind die Echokardiografie, gegebenenfalls mit Gewebedoppler, eine Herzkatheteruntersuchung mit Hämodynamikmessung, gegebenenfalls eine Herzmuskelbiopsie und eine MRT.
+
+
+=== Erworbene primäre Kardiomyopathien ===
+
+
+==== Myokarditis: entzündliche Kardiomyopathie ====
+Die Herzmuskelentzündung ist ein akuter oder chronischer Prozess, der hervorgerufen werden kann durch eine große Bandbreite von
+
+Toxinen, z. B. Kokain,
+körpereigenen Substanzen, z. B. Interleukin-2,
+infektiösen Erregern wie
+Viren, z. B. Coxsackie-Virus, Adenovirus, Parvovirus B19, Humanes Herpesvirus 6 (HHV6), HIV, (die Beteiligung des Hepatitis-C-Virus ist umstritten)
+Bakterien, z. B. Diphtherie, Meningokokken, Psittakose, Streptokokken, Borrelien
+Rickettsien, z. B. Fleckfieber, Rocky-Mountain Spotted Fever
+Pilzen, z. B. Aspergillus, Candida
+Parasiten, z. B. Trypanosoma cruzi (Chagas-Krankheit), Toxoplasmose
+der Whipple-Erkrankung (intestinale Lipodystrophie)
+autoimmun (Riesenzellmyokarditis) oder im Rahmen einer
+Überempfindlichkeitsreaktionen z. B. auf Medikamente wie Antibiotika, Sulfonamide, Antikonvulsiva und Antirheumatika.Die endokardiale Fibroelastose bei Neugeborenen und Kleinkindern ist das Resultat einer intrauterinen Infektion mit dem Mumpsvirus.
+
+
+==== Stressprovoziert (Tako-Tsubo) ====
+Als Tako-Tsubo-Kardiomyopathie (Syn: Stress-Kardiomyopathie, Broken-Heart-Syndrom, apical ballooning) wird eine Herzmuskelerkrankung genannt, die meist bei postmenopausalen Frauen und häufig nach emotionalen Stresssituationen auftritt und sowohl hinsichtlich Beschwerdebild, EKG-Veränderungen als auch Laborwerten wie ein akuter Herzinfarkt imponiert. Es zeigt sich eine ballonartige Auftreibung der Herzkammerspitze wie bei einem schweren Vorderwandinfarkt, aber es finden sich keinerlei Engstellen oder Verschlüsse der Herzkranzgefäße. Als Ursache wird eine stresshormonbedingte, nur vorübergehende Verschließung der feinen Haargefäße der Herzkranzgefäße angenommen. Hierdurch kommt es zu einer vorübergehenden „Schockstarre“ (stunning) des Herzmuskels, der anders als beim echten Herzinfarkt nicht abstirbt (Nekrose), sondern sich wieder völlig erholen kann. Die Prognose ist in der Regel gut und in einigen Monaten ist die Herzmuskelstörung rückläufig. Die Sterblichkeit beträgt etwa 3 %. Die Diagnostik erfolgt durch Echokardiografie, Herzkatheteruntersuchung und Magnetresonanztomografie (MRT).
+
+
+==== Schwangerschafts-Kardiomyopathie ====
+Die Schwangerschafts- oder peripartale Kardiomyopathie ist eine seltene Ursache einer erworbenen dilatativen Kardiomyopathie mit systolischem Herzversagen bei Schwangeren im letzten Trimenon oder bis 5 Monate nach Entbindung (peripartale Kardiomyopathie). Die Ursache ist unklar, eine entzündliche Komponente (Myokarditis), immunaktivierende Prozesse und die Gestationshypertonie werden als Auslöser diskutiert. Meist sind übergewichtige Schwangere im Alter von über 30 Jahren betroffen, die bereits mehrfach entbunden wurden und eine Präeklampsie hatten. Etwa die Hälfte der Patientinnen erholt sich nach einem halben Jahr nahezu, in Einzelfällen kann es jedoch zu fortschreitendem Herzversagen mit Tod oder Herztransplantation kommen.
+
+
+==== Tachykardiomyopathie ====
+Eine Tachykardie-induzierte Kardiomyopathie (Synonym: Tachymyopathie) ist eine potentiell reversible Einschränkung vorwiegend der linksventrikulären Pumpfunktion, die im Rahmen einer länger anhaltenden tachykarden Herzrhythmusstörung, meist schnelles Vorhofflimmern, auftritt. Die Diagnose wird echokardiographisch zusammen mit dem EKG gestellt. Therapeutisch wird zunächst mit Herzglykosiden sowie mit Betablockern die Herzfrequenz gesenkt. Bei Betablocker-Unverträglichkeit können auch Calciumantagonisten vom Verapamil- oder Diltiazemtyp verwendet werden. Bei nicht ausreichender Frequenzsenkung kann auf Dronedaron oder Amiodaron zurückgegriffen werden. Im Weiteren wird eine Herzinsuffizienztherapie begonnen. Sollten sich nach kurzer Zeit keine Verbesserung und nach einigen Wochen unter optimaler Therapie keine weitgehende Normalisierung der Pumpleistung des Herzens einstellen, so muss nach anderen Ursachen gesucht werden.
+
+
+==== Neugeborene diabetischer Mütter mit schlechter Stoffwechsellage ====
+Diese vorübergehende und seltene Form einer nicht-familiären Kardiomyopathie wird bei Kindern beobachtet, deren diabetische Mütter während der Schwangerschaft eine schlechte Stoffwechsellage (zu hohe Blutzuckerwerte) hatten. Sie tritt häufig zusammen mit einer fetalen Makrosomie auf.
+
+
+== Sekundäre Kardiomyopathien ==
+Die wichtigsten und häufigsten der überaus zahlreichen sekundären Kardiomyopathien sind hier aufgelistet, wobei es sich teils um angeborene, teils um erworbene Erkrankungen handelt.
+
+
+=== Speichererkrankungen ===
+Die Hämochromatose, der Morbus Fabry, die Glykogenspeicherkrankheit vom Typ II (Morbus Pompe) und der Morbus Niemann-Pick sind zu erwähnen.
+
+
+==== Infiltrative Speichererkrankungen ====
+Hier werden die Amyloidose, der Morbus Gaucher, das Hurler-Pfaundler-Syndrom und der Morbus Hunter unterschieden.
+
+
+=== Toxisch ===
+Die Kardiotoxizität beschreibt die schädigende Wirkung einer Substanz (Medikamente, Drogen, Schwermetalle und Chemikalien) oder eines Krankheitserregers auf den Herzmuskel. Hieraus kann eine Kardiomyopathie resultieren.
+
+
+=== Endomyokardial ===
+Hier sind die Endomyokardfibrose zu nennen, bei der sich das Endokard (Herzinnenhaut) porzellangussartig verdickt hat und zu einer diastolischen Herzfunktionsstörung führt, sowie das hypereosinophile Syndrom (Löffler-Syndrom).
+
+
+=== Entzündlich – granulomatös ===
+Sarkoidose
+
+
+=== Endokrin ===
+Beim Diabetes mellitus, bei Funktionsstörungen der Schilddrüse (Hyperthyreose, Hypothyreose) und der Nebenschilddrüse (Hyperparathyreoidismus), beim Phäochromozytom und bei der Akromegalie sind Beteiligungen der Herzmuskulatur im Sinne einer Kardiomyopathie beschrieben worden.
+
+
+=== Kardiofazial ===
+Noonan-Syndrom und Lentiginose
+
+
+=== Neuromuskulär / neurologisch ===
+Die Friedreich-Ataxie, Muskeldystrophien nach Duchenne-Becker und nach Emery-Dreifuss, die Myotone Dystrophie Typ 1, eine Neurofibromatose und die Tuberöse Sklerose können mit einer Kardiomyopathie einhergehen.
+
+
+=== Mangelernährung ===
+Beriberi (Thiamin), Pellagra (Vitamin B3), Skorbut (Ascorbinsäure), Selenmangel (Keshan-Krankheit), Carnitinmangel und Kwashiorkor können eine Kardiomyopathie verursachen.
+
+
+=== Autoimmun / Bindegewebe ===
+Oft übersehen wird die Herzbeteiligung bei Erkrankungen aus dem rheumatischen Formenkreis: Systemischer Lupus erythematodes, Dermatomyositis, Rheumatoide Arthritis, Sklerodermie, Polyarteriitis nodosa und Amyloidose als Folge des Morbus Bechterew.
+
+
+=== Folgen einer Krebstherapie ===
+Anthrazycline wie Doxorubicin (Adriamycin), Daunorubicin und Cyclophosphamid sowie eine Strahlentherapie können den Herzmuskel schädigen.
+
+
+== Kardiomyopathie bei Haustieren ==
+ Bei Kleintieren zählen Kardiomyopathien zu den am häufigsten beobachteten Herzerkrankungen. Die Ausprägungen unterscheiden sich je nach Tierart und Rasse erheblich.
+
+
+=== Hunde ===
+Bei Hunden ist die dilatative Kardiomyopathie (kurz DKMP oder DCM) die dominierende Form dieser Herzerkrankung. Vor allem die Vertreter größerer Rassen neigen zu diesem Leiden, während Angehörige kleinerer Hunderassen häufiger von Degenerationserscheinungen des Endokards im Klappenbereich betroffen sind. Einen einfachen Anhaltspunkt gibt hier die sogenannte „Ein-Hand-Regel“. Kann der Hund mit einer Hand angehoben werden, hat er wahrscheinlich keine Kardiomyopathie.
+Die Erkrankung verläuft in unterschiedlichen Formen. Wird bei einem Dobermann-Pinscher die Erkrankung diagnostiziert, beträgt seine wahrscheinliche restliche Lebenszeit weniger als ein halbes Jahr. Andere Rassen wie Neufundländer oder Deerhounds zeigen einen wesentlich milderen Verlauf. Eine Sonderform stellt die dilatative Kardiomyopathie des Boxers dar, die eher an die arrhythmogene rechtsventrikuläre Kardiomyopathie des Menschen erinnert.
+Behandlung: Da eine grundlegende Therapie wie beim Menschen mittels Herztransplantation aus ethischen und finanziellen Gründen kaum durchgeführt wird, beschränkt sich die Behandlung auf die Verabreichung kontraktionsfördernder Medikamente (Pimobendan, Digoxin) sowie auf die medikamentöse Milderung der Folgeerscheinungen (Herzrhythmusstörungen, Lungenödem etc.). Da für einige Rassen die Erblichkeit der Erkrankung nachgewiesen wurde, haben einige Zuchtvereine Zuchtuntersuchungen initiiert.
+
+
+=== Katzen ===
+Bei Katzen ist die hypertrophe Kardiomyopathie die am häufigsten beobachtete Form der Erkrankung. Sie wird auch als Folgeerscheinung einer Schilddrüsenüberfunktion beobachtet (thyreotoxische Kardiomyopathie). Eine Sonderform gleicht der hypertroph-obstruktiven Kardiomyopathie des Menschen. Daneben sind auch die restriktive und die dilatative Kardiomyopathie bei Katzen beschrieben. Letztere wird aber als sekundäre Kardiomyopathie eingestuft, da sie die Folgeerscheinung eines Mangels an dem für Katzen sehr wichtigen Taurin ist. Da industrielle Fertigfuttermittel mit diesem Inhaltsstoff angereichert sind, wird diese Form der Erkrankung bei Katzen zunehmend seltener beobachtet. Weiterhin existieren Übergangsformen, die sowohl Zeichen einer Erweiterung als auch Zeichen einer Hypertrophie zeigen. Sie werden als intermediäre Kardiomyopathie bezeichnet. Katzen mit einer Herzerkrankung haben ein hohes Risiko für eine arterielle Thromboembolie.Die endokardiale Fibroelastose ist eine seltene Erkrankung von Katzen, die durch eine Verdickung der innersten Schicht des Herzens gekennzeichnet ist. Sie wird durch die Zubildung von elastischen Fasern des Endokards ausgelöst. Die Erkrankung wird zu den unklassifizierten Kardiomyopathien der Katze gerechnet und tritt bei Siamkatzen und Burmesen familiär gehäuft im Alter von 3 Wochen bis 4 Monaten auf.Ähnlich wie bei Hunden beschränkt sich die Therapie von Kardiomyopathien bei Katzen auf eine Medikamentengabe zur Verbesserung der Symptomatik (Verbesserung der systolischen oder diastolischen Funktion, Behandlung von Rhythmusstörungen) beziehungsweise auf die Therapie der Grunderkrankung (v. a. Schilddrüsenerkrankungen und Taurinmangel).
+Zur Behandlung der Kardiomyopathie bei Katzen werden Entwässerungsmedikamente (Diuretika), Beta-Blocker und ACE-Hemmer eingesetzt. Sie können den Krankheitsverlauf positiv beeinflussen und je nach Stadium der Krankheit dem Tier noch viele Monate bis Lebensjahre ermöglichen.
+
+
+== Literatur ==
+M. H. Crawford, J. P. DiMarco, W. J. Paulus (Hrsg.): Cardiology. Mosby, Edinburgh 2004, ISBN 0-323-02405-X.
+M. Dietel, N. Suttorp, M. Zeitz (Hrsg.): Harrisons Innere Medizin. Deutsche Ausgabe. McGraw Hill, ABW-Wissenschaftsverlag, Berlin 2005, ISBN 3-936072-29-9.
+V. Fuster, W. Alexander W, R. O’Rourke (Hrsg.): Hurst’s The Heart. 11. Auflage. McGraw-Hill, New York 2004, ISBN 0-07-142264-1.
+E. Topol (Hrsg.): Textbook of Cardiovascular Medicine. Lippincott Williams & Wilkins, Philadelphia 2002, ISBN 0-7817-3225-5.
+K. Werdan K, H. Trappe, H. Zerkowski: Das Herz. B.ch. Praktische Herz-Kreislauf-Medizin. Urban & Fischer, München/ Jena 2003, ISBN 3-437-21790-9.
+D. Zipes et al.: Braunwald’s Heart Disease, A Textbook of Cardiovascular Medicine. Elsevier Saunders, Philadelphia 2005, ISBN 0-8089-2305-6.
+B. Maron et al.: Contemporary definitions and classification of the cardiomyopathies: an American Heart Association Scientific Statement from the Council on Clinical Cardiology, Heart Failure and Transplantation Committee; Quality of Care and Outcomes Research and Functional Genomics and Translational Biology Interdisciplinary Working Groups; and Council on Epidemiology and Prevention. In: Circulation. Band 113, Nummer 14, April 2006, S. 1807–1816, ISSN 1524-4539. doi:10.1161/CIRCULATIONAHA.106.174287. PMID 16567565.LeitlinienS2k-Leitlinie Primäre Kardiomyopathien der Deutschen Gesellschaft für Pädiatrische Kardiologie (DGPK). In: AWMF online (Stand 2013)
+
+
+== Einzelnachweise ==

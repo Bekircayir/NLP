@@ -1,0 +1,12 @@
+Das Short-QT-Syndrom (SQTS) ist eine angeborene Herzerkrankung. Sie ist charakterisiert durch ein kurzes, herzfrequenzkorrigiertes QT-Intervall (QTc nach Bazett weniger als 370 ms) im EKG, das sich mit der Herzfrequenz kaum verändert, und ein hohes Risiko für einen plötzlichen Herztod durch Kammertachykardien bzw. Kammerflimmern. Eine weitere Auffälligkeit im EKG sind hohe, spitze T-Wellen, ähnlich denen bei der Hyperkaliämie. Zur Diagnose werden weitere Daten aus der Anamnese des Patienten und ggf. auch gendiagnostische Daten hinzugenommen.Die Erkrankung wurde im Jahr 2000 erstmals beschrieben. In molekulargenetischen Untersuchungen wurden Mutationen in Genen für bestimmte Kalium- und Calcium-Kanäle der Herzmuskelzellen gefunden. Das Short-QT-Syndrom wird anscheinend autosomal-dominant vererbt. Die Prävalenz ist unbekannt. Mit weniger als 200 publizierten Fällen weltweit (Stand: Juni 2017) scheint  es außerordentlich selten zu sein. Ein transgenes Kaninchemodell des Short-QT-Syndroms wurde 2019 veröffentlicht und könnte zur Analyse der Arrhythmieentstehung beitragen.
+
+
+== Literatur ==
+Barry J. Maron et al.: AHA Scientific Statement: Contemporary Definitions and Classification of the Cardiomyopathies. Circulation. 2006;113:1807-1816.
+
+
+== Siehe auch ==
+Long-QT-Syndrom
+
+
+== Quellen ==

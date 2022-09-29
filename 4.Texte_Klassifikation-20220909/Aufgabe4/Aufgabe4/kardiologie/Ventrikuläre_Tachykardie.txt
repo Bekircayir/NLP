@@ -1,0 +1,78 @@
+Die ventrikuläre Tachykardie (VT, Kammertachykardie; englisch ventricular tachycardia) ist eine tachykarde Herzrhythmusstörung, die als Reizbildungsstörung von den Herzkammern ausgeht. Sie kommt sowohl bei Gesunden vor, kann aber auch Anzeichen einer behandlungsbedürftigen Herzerkrankung sein.
+
+
+== Klassifikation ==
+
+Nach der Gestalt des Kammerkomplexes im EKG unterscheidet man:
+
+monomorphe VT: der Kammerkomplex erscheint immer gleich
+polymorphe VT: der Kammerkomplex verändert sich von Herzschlag zu HerzschlagNach der Dauer einer ventrikulären Tachykardie unterscheidet man:
+
+nichtanhaltende VT (nsVT von non-sustained): Dauer ≤ 30 Sekunden (> 2 hintereinander folgende Kammerkomplexe, Frequenz über 120 bpm)
+anhaltende VT (sVT von sustained): Dauer > 30 SekundenWeiterhin muss das Kammerflimmern und die pulslose ventrikuläre Tachykardie (pVT) abgegrenzt werden. Sowohl Patienten mit Kammerflimmern, als auch mit pVT haben einen Kreislaufstillstand und sind damit reanimationspflichtig. In diesem Rahmen kann eine schnelle Defibrillation lebensrettend sein.
+
+
+== Pathogenese ==
+Die Morphologie einer ventrikulären Tachykardie ist abhängig von der zugrundeliegenden Ursache.
+Bei monomorphen VTs erscheinen alle Kammerkomplexe gleich, da die Erregung entweder von einem einzelnen Gebiet mit gesteigerter Erregungsfähigkeit (Automatie) aus der linken oder rechten Herzkammer stammt oder durch einen Reentry-Mechanismus (kreisende Erregung) innerhalb der Herzkammer erzeugt wird.
+Polymorphe VTs, auf der anderen Seite, werden am häufigsten durch eine Störung der Kammermuskel-Repolarisation verursacht. Dies zeigt sich in der Regel im EKG in der Verlängerung der QT-Zeit. Eine Verlängerung der QT-Zeit ist entweder angeboren oder erworben (siehe dazu auch die Tabelle der Ursachen für einer ventrikulären Tachykardie). Die bekannteste Form stellt die Torsade-de-pointes-Tachykardie (Spitzenumkehrtachykardie) dar.
+
+
+== Symptome ==
+Je nach Schwere und Dauer einer VT variieren die Symptome von Herzrasen, über Luftnot, Herzschmerzen (Angina Pectoris), bis zum Lungenödem oder kardiogenem Schock.
+
+Im EKG ist die VT normalerweise regelmäßig (konstante Zykluslänge, Herzfrequenz 100–200 Schläge/min.) mit schenkelblockartig deformierten, breiten Kammerkomplexen (QRS ≥ 120 Millisekunden, „Haarnadelform“).
+Beweisend für eine VT:
+
+AV-Dissoziation (d. h., es sind P-Wellen als Zeichen der Vorhofaktivität zu erkennen, die beweisen, dass die Vorhöfe nicht in die Tachykardie einbezogen sind; Vorhöfe und Herzkammern schlagen nicht synchron).
+Bei inkompletter AV-Dissoziation kann eine Sinuserregung auf die Herzkammer übergeleitet werden. Man unterscheidet zwischen Erregung, welche vom Vorhof auf die Herzkammer (ventricular captures, “Capture-beat”, normale QRS-Morphologie) übergeleitet werden oder aus supraventrikulär und ventrikulär gemischten Komplexen (Fusionssystole) bestehen. Letztere erscheint im EKG als ein Mischbild aus normalem QRS-Komplex und Schenkelblock.
+
+
+== Differenzialdiagnose ==
+Die Unterscheidung von einer aus den Vorhöfen stammenden Tachykardie (Supraventrikuläre Tachykardie, SVT) ist teilweise schwierig. Die SVT weist typischerweise einen schmalen Kammerkomplex auf, kann aber bei so genannter aberranter Leitung auch einen breiten Komplex haben. Während eine SVT durch Vagusstimulus terminiert werden kann, gilt dies nicht für die VT!
+
+supraventrikuläre Tachykardie mit vorbestehendem Schenkelblock, bei aberranter Leitung oder bei Präexzitationssyndrom (antidrome WPW-Tachykardie, Vorhofflimmern mit schneller Überleitung)
+
+
+== Therapie ==
+Nicht-anhaltende ventrikuläre Tachykardien beim Herzgesunden bedürfen keiner Therapie. Eine lebensverkürzende Wirkung wurde bis jetzt nur bei bestimmten Herzerkrankungen und eingeschränkter Herzfunktion beobachtet.
+Alle anhaltenden ventrikulären Tachykardien sind ein internistischer Notfall. Bis zum Beweis des Gegenteils sollte jede Tachykardie mit breitem QRS-Komplex wie eine Kammertachykardie behandelt werden. In der Akuttherapie sollten als erstes eine eventuelle Digitalistherapie und die Serumelektrolyte (Kaliumspiegel) überprüft werden. Eine ausreichende Sauerstoffgabe per Nasensonde ist ebenso sinnvoll. Das Mittel der Wahl ist, von wenigen Ausnahmen abgesehen, die sofortige elektrische Kardioversion mittels Defibrillator.
+
+
+=== Antiarrhythmisch medikamentöse Therapie ===
+Mittel der 1. Wahl
+
+Patienten ohne Herzinsuffizienz: Ajmalin (unter EKG-Kontrolle 50 mg langsam intravenös über 5 Minuten).
+Patienten mit Herzinsuffizienz: Amiodaron (unter EKG-Kontrolle 300 mg langsam intravenös über 5 Minuten).Bei polymorpher VT oder Torsade-de-pointes-Tachykardie ist die Magnesiuminfusion das Mittel der Wahl.
+
+
+=== Elektrische Kardioversion / Defibrillation ===
+Indikation für eine Elektrokardioversion stellen ein drohender kardiogener Schock, drohendes Lungenödem, Versagen der medikamentösen Therapie dar. Die Elektrokardioversion wird in Kurznarkose durchgeführt und sollte mit einer initialen Energiedosis von
+
+200 Joule (biphasischer Defibrillator)
+360 Joule (monophasischer Defibrillator)erfolgen. Zur Sicherung des Therapieerfolges empfiehlt sich anschließend die Gabe von Amiodaron.
+
+
+== Vorbeugung ==
+Um einen ausreichenden Therapieerfolg zu gewährleisten, ist es wichtig, die zu Grunde liegende Ursache zu behandeln (z. B. interventionelle Wiedereröffnung eines Herzkranzgefäßes bei Herzinfarkt). Defibrillatoren können, bei häufigem Auftreten von tachykarden Episoden, dem Patienten implantiert werden. Ein solches System nennt sich ICD. Der ICD erkennt eine ventrikuläre Tachykardie und kann diese durch anti-tachykardes Pacing (ATP) oder durch Schockabgabe terminieren. Bei einem Zustand nach Herzinfarkt oder bei Patienten mit Herzinsuffizienz können Beta-Blocker das Neuauftreten eines plötzlichen Herztodes vermindern. Wenn es sehr häufig zu einer ventrikulären Tachykardie kommt, kann durch Katheterablation versucht werden, die Interventionsrate des ICD zu vermindern.
+
+
+== Literatur ==
+Gerd Herold: Innere Medizin. Köln 2010. 
+D. P. Zipes, P. Libby, R. O. Bonow, Eugene Braunwald: Braunwald’s Heart Disease, A Textbook of Cardiovascular Medicine. Elsevier Saunders, Philadelphia 2007, ISBN 978-0-8089-2305-3.
+
+
+=== Überblickswerke ===
+H. Tanner, G. Hindricks, H. Kottkamp: Häufige ventrikuläre Tachykardie: Antiarrhythmika oder Ablation? In: Herz. Volume 30, Number 7, 2005, doi:10.1007/s00059-005-2749-7
+P. M. Kistler, M. N. Obeyesekere: Pharmacologic management of tachycardia. In: Aust Fam Physician. 36(7), 2007, S. 500–505. Review. racgp.org.au (PDF; 308 kB) PMID 17619663
+H. J. Wellens, F. W. Bar, K. I. Lie: The value of the electrocardiogram in the differential diagnosis of a tachycardia with a widened QRS complex. In: Am J Med. 64 (1), 1978, S. 27–33. doi:10.1016/0002-9343(78)90176-6, PMID 623134.
+P. Brugada, J. Brugada, L. Mont, J. Smeets, E. W. Andries: A new approach to the differential diagnosis of a regular tachycardia with a wide QRS complex. In: Circulation. 83 (5), 1991, S. 1649–1659. PMID 2022022.
+
+
+=== Leitlinien ===
+Leitlinie: Kurzfassung der Leitlinien zur kardiopulmonalen Reanimation des “European Resuscitation Council” der Deutschen Gesellschaft für Kardiologie, leitlinien.dgk.org (PDF), Stand 2006
+S2k-Leitlinie Tachykarde Herzrhythmusstörungen bei Kindern und Adoleszenten der Deutschen Gesellschaft für Pädiatrische Kardiologie (DGPK). In: AWMF online (Stand 2013)
+S1-Leitlinie Tachykarde ventrikuläre Herzrhythmusstörungen – Indikationen zur ICD-Therapie der Deutschen Gesellschaft für Pädiatrische Kardiologie (DGPK). In: AWMF online (Stand 2013)
+
+
+== Einzelnachweise ==

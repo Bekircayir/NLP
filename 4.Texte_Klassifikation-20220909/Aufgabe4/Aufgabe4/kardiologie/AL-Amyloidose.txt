@@ -1,0 +1,90 @@
+Bei der AL-Amyloidose (auch Leichtketten-Amyloidose) handelt es sich um eine spezielle Form des hämatologischen Krankheitsbildes Amyloidose, wobei die hier beschriebene Unterform die häufigste Ausprägung der systemischen Amyloidosen darstellt und synonym auch als primäre Amyloidose bezeichnet wird. Sie ist abzugrenzen von der Leichtketten-Speicherkrankheit (light-chain deposition disease). Das Akronym AL steht für „Amyloid, bestehend aus Leichtketten“. Diese Leichtketten, die in ihrer freien Form von einem malignen Plasmazell-Klon gebildet werden, sind ursächlich für die Erkrankung. Freie Leichtketten finden sich allerdings auch in geringer Konzentration als natürliches Protein im Serum gesunder Patienten. Übergeordnet kann die AL-Amyloidose als Plasmazelldyskrasie, lymphoplasmozytische Erkrankung oder monoklonale Gammopathie bezeichnet werden. In den meisten Fällen tritt die AL-Amyloidose isoliert auf, steht aber auch bei 10–15 % der Fälle in Zusammenhang mit einem Multiplen Myelom und anderen monoklonalen Gammopathien.
+
+
+== Verbreitung ==
+Die AL-Amyloidose zählt zu den sogenannten seltenen Krankheiten. Für den deutschsprachigen Raum sind keine exakten Daten bekannt, da es für diese Erkrankung kein entsprechendes Register gibt. Es ist allerdings davon auszugehen, dass die Inzidenz bei etwa 5–13 Personen pro 1.000.000 Einwohner und Jahr liegt, wie sie auch bereits für die nordamerikanische Bevölkerung und in Großbritannien beschrieben wurde. Männer sind dabei etwas häufiger betroffen als Frauen, wobei die Wahrscheinlichkeit einer Erkrankung mit zunehmendem Alter, ähnlich wie bei der monoklonalen Gammopathie unklarer Signifikanz (MGUS), ansteigt. Das mediane Alter zum Zeitpunkt der Diagnose liegt bei 63–64 Jahren.
+
+
+== Ursache ==
+
+Ursächlich für die Erkrankung sind monoklonale freie Leichtketten (vom Typ Lambda (λ) oder Kappa (κ)) oder deren Fragmente, die von einer Form bösartig veränderter B-Zellen (den sogenannten monoklonalen Plasmazellen) produziert und ausgeschieden werden. Durch Fehlfaltung neigen diese zur Aggregation. Diese Aggregate bilden bei der AL-Amyloidose Fibrillen, die sich meist extrazellulär in fast allen Organen ablagern können. Dadurch wird deren Funktion zunehmend beeinträchtigt, was zu dem typischen Erscheinungsbild der Krankheit führt (siehe Abschnitt Klinische Erscheinungen). Die Aminosäure-Sequenz und die dreidimensionale Struktur der Leichtketten kann bei betroffenen Patienten beeinträchtigt oder sogar verkürzt sein. Infolgedessen kann es in der dreidimensionalen Struktur zur Ausbildung eines β-Faltblatts und nicht zu der üblichen α-Helix kommen. Diese strukturelle Abnormalität begünstigt die Aggregation und ist von diagnostischer Bedeutung beim Nachweis fehlgefalteter freier Leichtketten mittels Kongorot (siehe Abschnitt Untersuchungsmethoden).Betrachtet man die Bildung der Fibrillen im Detail, erweist sich der Prozess der Aggregation als hochkomplex, wobei die intrazelluläre Protein-Homöostase (Proteostase), extrazelluläre Chaperone sowie Matrix-Komponenten, Metall-Ionen, Scherkräfte, eine eingeschränkte Proteolyse und Zellinteraktionen eine Rolle spielen können. Bei der Mehrzahl der betroffenen Patienten (80 %) ist eine monoklonale freie Leichtkette vom Typ λ ursächlich für die Erkrankung. Zytogenetisch ist bei > 50 % aller Patienten eine Translokation der Chromosomen 11 und 14 (t(11;14)) nachweisbar. Weitere bekannte genetische Aberrationen sind die Translokation t(4;14), Zugewinn 1q21 und Deletion 17p13.
+
+
+== Krankheitsentstehung ==
+Zytogenetische Veränderungen sind, wie im vorherigen Abschnitt bereits beschrieben, bekannt und gelten als Initiatoren der Krankheitsentstehung. Zudem konnte gezeigt werden, dass die Produktion monoklonaler freier Leichtketten bereits viele Jahre auftritt, bevor es zur anschließenden Ablagerung kommt und sich Patienten mit Symptomen beim Arzt vorstellen. Eine Abgrenzung von maligner zu nicht-maligner Erkrankung wird dadurch erschwert und ist nicht mehr mit der klassischen Ansicht der Signifikanz monoklonaler Gammopathien zu vereinbaren. Sobald eine monoklonale Gammopathie unklarer Signifikanz diagnostiziert wurde, bei der eine erhöhte Konzentration einer freien Leichtkette vorliegt, wird eine regelmäßige, engmaschige Untersuchung der betroffenen Patienten empfohlen, da das Risiko zur Entwicklung einer AL-Amyloidose erhöht ist. Das "Screening" anhand kardialer und renaler Biomarker, dient hierbei als diagnostisches Mittel der Wahl (siehe auch Abschnitt Vorbeugung und Früherkennung).
+
+
+== Klinische Erscheinungen ==
+Ähnlich wie bei anderen monoklonalen Gammopathien sind die vom Patienten wahrgenommenen Symptome der AL-Amyloidose typisch aber auch sehr unspezifisch. Viele Patienten klagen über Müdigkeit und Schwächegefühl sowie Knochenschmerzen. Auch Ödeme, eine Parästhesie und Gewichtsverlust können unter Umständen bei betroffenen Patienten zum Zeitpunkt der Erstvorstellung beobachtet werden. Eine solche klinische Erscheinung kann zur Einleitung weiterer Untersuchungen dienen. Hier können dann auch die für die AL-Amyloidose typischen Ablagerungen in Organen – insbesondere in der Niere und im Herzen – sowie eine Polyneuropathie als Ursache der Parästhesie, bestätigt oder widerlegt werden. Ablagerungen in Niere und/oder Herzen können sich jeweils z. B. in einem nephrotischen Syndrom bzw. einer nicht-ischämischen Kardiomyopathie mit Hypertrophie in der Echokardiografie äußern. Liegt eine Beeinträchtigung der Nierenfunktion vor, kann die AL-Amyloidose auch zur Gruppe der monoklonalen Gammopathien renaler Signifikanz gezählt werden. Neben den zuvor genannten Leitsymptomen können eine Hepatomegalie oder erhöhte Werte der Alkalischen Phosphatase ohne morphologische Abnormalitäten sowie eine Proteinurie vorliegen, welche häufig fälschlicherweise dem abzugrenzenden Multiplen Myelom mit Cast-Nephropathie zugerechnet wird.
+
+
+== Prognose ==
+Laut einer schwedischen Studie liegt das mediane Überleben betroffener Patienten bei etwa 3 Jahren. Bis zu 30 % aller Patienten sterben sogar innerhalb des ersten Jahres nach Diagnosestellung. Wenn die Erkrankung nicht therapiert wird, versterben ungefähr 80 % der Patienten bereits innerhalb der ersten zwei Jahre nach Diagnosestellung, wobei dies in den meisten Fällen auf eine kardiale Dysfunktion zurückzuführen ist. Je früher die Diagnose erfolgt desto besser ist auch die Prognose für betroffene Patienten.
+Bei Diagnose und Einleitung einer Therapie vor Ausbildung einer fortgeschrittenen Kardiomyopathie, ist ein hämatologisches Ansprechen sowie ein Ansprechen auf Organebene möglich, was sich auch in einem längeren Überleben der Patienten widerspiegelt.* Durch moderne Therapeutika kann die Erkrankung bei rechtzeitiger Therapieeinleitung häufig gut kontrolliert werden.
+
+
+== Untersuchungsmethoden ==
+Eine umfassende diagnostische Abklärung sollte in Anbetracht der Schwere der Erkrankung bei einem dringenden Verdacht durchgeführt werden. Aufgrund der unspezifischen Symptomatik, die häufig bei älteren Patienten vorliegt, fällt eine Verdachtsäußerung deshalb unter Umständen erst spät. Ähnlich wie bei anderen monoklonalen Gammopathien enthält die Diagnostik neben der grundlegenden Anamnese mit körperlicher Untersuchung eine Reihe verschiedener Laborparameter, bildgebende Methoden sowie histologische Untersuchungen. Empfehlungen finden sich in Publikationen verschiedener nationaler sowie internationaler Forschungsgesellschaften. So wird beispielsweise bei allen Patienten, die bereits mit einer monoklonalen Gammopathie unklarer Signifikanz diagnostiziert sind, auf das potenzielle Vorliegen einer AL-Amyloidose hingewiesen. Das aktuell anerkannte diagnostische Spektrum setzt sich wie folgt zusammen:
+
+
+=== Laborparameter ===
+Zentrale Laborparameter zum Nachweis der monoklonalen freien Leichtketten bei Verdacht auf eine AL-Amyloidose sind:
+Immunfixationselektrophorese einer Serum- sowie einer 24h-Urin-Probe
+quantitative Bestimmung der freien Leichtketten Kappa- und Lambda im Serum (inkl. Berechnung des Quotienten (bzw. Ratio, rFLC) als auch der Differenz (dFLC) aus involvierter freier Leichtkette (iFLC) und nicht-involvierter freier Leichtkette (uFLC))Bei negativer Serum- als auch Urin-Immunfixationselektrophorese sowie normaler rFLC ist eine AL-Amyloidose unwahrscheinlich und weitere Untersuchungen nur bei bestehendem dringenden Verdacht empfohlen.
+
+Weitere mögliche Untersuchungen sind:
+
+Blutbild
+Differentialblutbild
+24h-Urin-Probe zur Quantifizierung der Gesamteiweiß- und Albumin-Ausscheidung sowie zur Diagnose einer Bence-Jones-Proteinurie
+Serumproteinelektrophorese bzw. Urinproteinelektrophorese (einer 24h-Urin-Probe)
+Bestimmung der/des
+Kardialen Biomarker (TNT, NT-ProBNP)
+Immunglobuline (IgG, IgA, IgM)
+Elektrolyte (inkl. Natrium, Kalium und Calcium)
+Nierenfunktion (Serum-Kreatinin, berechnete GFR und Harnstoff)
+Leberwerte (GOT, GPT, AP, γ-GT, LDH)
+Konzentration von Gesamteiweiß und Albumin im Serum
+Quick-Werts
+PTT
+Faktor X
+
+
+=== Bildgebende Diagnostik ===
+Projektionsradiographie oder sensitivere, wenn auch strahlenintensivere Low-Dose-CT zur Diagnostik von Osteolysen und zur Stabilitätsbeurteilung
+CT des Thorax
+Spirometrie bei Verdacht auf pulmonale Amyloidose
+MRT bei Verdacht auf Weichteil-Manifestationen
+Transthorakale Echokardiographie, EKG
+ggf. ein Kardio-MRT sowie ein 24h-EKG (bei Rhythmusstörungen und eingeschränkter Herzfrequenzvariabilität)
+Sonografie des Abdomen (Bestimmung von Leber- und Milz-Größe, Restharnmessung)
+Neurologische/elektrophysiologische Untersuchung
+
+
+=== Zytologische/histologische Untersuchungen ===
+Knochenmarkpunktion
+Biopsie zur Bestimmung des prozentualen Anteils klonaler Plasmazellen und Amyloid-Nachweis
+Multiparametrische Immunphänotypisierung des Knochenmarks zum Ausschluss einer zugrunde liegenden Lymphomerkrankung
+Optional: FISH-Untersuchung auf Translokationen t(11;14) sowie t(4;14), Zugewinn 1q21 und Deletion 17p13.
+Gewebebiopsie mit Kongorot-Färbung von subkutanem Fettgewebe, dem Rektum (tief) oder KnochenmarkDer Kongorotfärbung einer Gewebebiopsie ist hinzuzufügen, dass auch häufig auf Proben der vergangenen 1–2 Jahre zur nachträglichen Anfärbung zurückgegriffen werden kann, soweit solche Proben bereits vorliegen. Zur eindeutigen Diagnose ist eine Biopsie integraler Bestandteil. Bei einem positiven Befund (polarisationsoptische Doppelbrechung in grüner oder rot-gelblicher Farbe), muss das Amyloid (immunhistologisch oder ggf. mittels Massenspektrometrie) typisiert werden um die zugrundeliegende Amyloidose-Form zu bestätigen, da die Kongorotfärbung nicht spezifisch für die AL-Amyloidose ist.
+
+
+== Therapie ==
+Die effektivste Therapiemöglichkeit besteht in der Kombination aus autologer Stammzelltransplantation (soweit der Allgemeinzustand des Patienten diesen Eingriff erlaubt) und gleichzeitiger Chemotherapie, vergleichbar mit der, die auch beim Multiplen Myelom zum Einsatz kommt. Die Gabe von Melphalan und Dexamethason hat sich als effektiv für Patienten erwiesen, die nicht für eine autologe Stammzelltransplantation geeignet sind. Im Gegensatz dazu erwies sich eine Kombination aus Dexamethason und Bortezomib als besonders geeignet für eine gewisse Gruppe anderer Patienten. Seit Juli 2021 ist auch die Kombination des Antikörpers Daratumumab mit Cyclophosphamid, Bortezomib und Dexamethason zur Behandlung der AL-Amyloidose zugelassen. Therapieentscheidungen inkl. der am besten geeigneten Therapeutika-Kombination müssen immer für jeden Patienten individuell vom behandelnden Arzt getroffen werden.
+
+
+== Vorbeugung und Früherkennung ==
+Aufgrund der Komplexität der Krankheitsentstehung und dem mangelhaften Verständnis darüber, sind keine allgemeingültigen Maßnahmen zur Vorbeugung der Krankheit bekannt. Bestimmte Umwelteinflüsse wie Übergewicht, Pestizide, Strahlung, Autoimmunerkrankungen sowie häufige Entzündungen und Infektionen gelten als Risikofaktoren der monoklonalen Gammopathie unklarer Signifikanz, die der AL-Amyloidose vorausgeht. Bei MGUS-Patienten konnte zudem ein stark abnormer Quotient der freien Leichtketten (Kappa/Lambda < 0,01 bzw. > 100) als Risikofaktor der Progression zu einer AL-Amyloidose (sowie dem Multiplen Myelom) identifiziert werden.Eine frühzeitige Diagnose der Erkrankung, bzw. des nicht-malignen Vorläufers MGUS, ist entscheidend für den Krankheitsverlauf und den Zustand des Patienten. Eine späte Diagnose der Erkrankung, welche aufgrund der oft fehlgedeuteten Symptome häufig ist, stellt den Grund für den hohen Anteil Betroffener (ca. 25 %) mit einem fortgeschrittenen Erkrankungsstadium dar. Die Ausbildung erster Fibrillen begünstigt die Ausbildung weiterer Ablagerungen, weswegen eine umgehende Therapieeinleitung notwendig ist um weitere negative Folgen zu unterbinden. Je stärker die Produktion pathogener freier Leichtketten unterbunden werden kann, desto positiver der zu erwartende Allgemeinzustand des Patienten. Selbst geringe Konzentrationen pathogener freier Leichtketten können noch für die Ausbildung weiterer Ablagerungen genügen. Amyloide Firbrillen gelten zwar als resistent gegen Abbau, scheinen allerdings bei gutem Therapieansprechen nach und nach vom Körper reabsorbiert zu werden.Da kardiologische Folgen der AL-Amyloidose als besonders schwerwiegend zu erachten sind und für Betroffene eine geringe Lebenserwartung bedeuten, empfehlen die Experten des Amyloidosis Research Consortium generell alle Patienten mit Herzinsuffizienz (mit konzentrischer Hypertrophie oder NYHA I-II oder mit beiden Befunden) auf das Vorliegen erhöhter freier Leichtketten untersucht werden. Bei Vorliegen einer MGUS mit einem abnormalen Quotienten der freien Leichtketten, wird von Experten ein "Screening" dieser Patienten auf die Biomarker NT-proBNP (präsymptomatisch abnormal bei kardiologischen Komplikationen) und Albumin (präsymptomatisch abnormal bei renalen Komplikationen) empfohlen. Einem schwerwiegenden Krankheitsverlauf kann dadurch unter Umständen vorgebeugt und somit eine bessere Lebensqualität erreicht werden.
+Es konnte gezeigt werden, dass Patienten in Risikogruppen (Alter, MGUS-Befund liegt bereits vor, Herzinsuffizienz etc.) von einer regelmäßigen Untersuchung profitieren, da eine maligne Erkrankung frühzeitig erkannt und entsprechende Maßnahmen ergriffen werden können.
+
+
+== Weblinks ==
+Onkopedia - Deutschsprachige Leitlinien zur AL-Amyloidose
+International Myeloma Foundation Deutschsprachiges Patientenhandbuch
+Wikilite: AL-Amyloidose - Englischsprachige Seite mit detaillierten Informationen zur AL-Amyloidose und monoklonalen Gammopathien im Allgemeinen
+Myelom Deutschland e. V. Weiterführende Informationen zur AL-Amyloidose für Patienten
+Arbeitsgemeinschaft Multiples Myelom Weiterführende Informationen zur AL-Amyloidose für Patienten
+Deutsche Krebshilfe Plasmozytom/Multiples Myelom. Antworten. Hilfen. Perspektiven - Blauer Ratgeber #22
+
+
+== Einzelnachweise ==

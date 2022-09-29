@@ -1,0 +1,56 @@
+Die NCR Corporation (kurz für National Cash Register, NYSE: NCR) ist ein international tätiges US-amerikanisches Unternehmen mit Hauptsitz in Duluth (Georgia), das derzeit (Stand 2010) weltweit ca. 30.200 Mitarbeiter beschäftigt. Das Unternehmen ist im Aktienindex S&P 500 gelistet. NCR zählt zu den 10 renommiertesten Technologieunternehmen weltweit.
+
+
+== Geschäftsfelder und Wettbewerb ==
+Das Portfolio der Firma umfasst Geldautomaten, Einzelhandelssysteme, Data-Warehousing-Systeme, Kassensysteme für die Gastronomie, IT-Dienstleistungen, Travel-Lösungen und wird von NCR mit dem Begriff Consumer Transaction Technology zusammengefasst. Das Unternehmen erzielte 2014 einen Umsatz von 6,59 Mrd. US-Dollar nach GAAP. Im Qualitätsmanagement setzt NCR auf die Six-Sigma-Philosophie.
+Die NCR Corporation ist Weltmarktführer im Finanz-SB-Bereich (Quelle: Nilson Report), Scannerkassen (Quelle: Venture Development Corp.), Data Warehousing (Quelle: Gartner), mit 100.000 Kunden einer der führenden Anbieter von Gastonomie-Kassenlösungen und umfasst folgende Unternehmenszweige:
+Financial Services (Lösungen für die Finanzbranche)
+Geldautomaten, Kontoauszugsdrucker etc.
+
+Retail (Lösungen für den Einzelhandel)
+Kassen-Verbundsysteme bestehend aus Registrierkassen mit angeschlossener Peripherie wie POS-Terminals, Barcodelesegerät und Back-Office-PCs, elektronische Regalauszeichnungssysteme, Webkioske, Selbstbedienungskassen etc.
+
+Hospitality (Lösungen für die Gastronomie)
+POS-Systeme, Küchendisplays, Gäste- und Tischmanagement, Bezahllösungen, Funkhandhelds/Funkboniersysteme (Orderman GmbH ist Teil der NCR Corporation), etc.
+
+Travel (Lösungen für die Tourismusbranche)
+Lösungen für Fluglinien, Flughäfen und für Fluggäste, u. a. Selbstbedienungs-Check-in, interaktive Orientierungssysteme und mobiler Boarding-Pass
+
+Telecom & Technology (Telekommunikations- und IT-Lösungen)
+Implementierung und Wartung von IT-Lösungen und Produkten
+
+Small Business (Lösungen für Kleinbetriebe)
+POS-Software für Kleinbetriebe
+
+Die Hauptwettbewerber des Unternehmens sind Wincor Nixdorf und Diebold im Finanz-SB-Bereich, IBM und Wincor Nixdorf im Retail Bereich.
+Teradata, ehemals zuständig für die Produkte Data Warehousing und Customer-Relationship-Management Systems, ist seit Oktober 2007 ein eigenes an der Börse notiertes Unternehmen und von NCR abgespalten.
+
+
+== Geschichte ==
+
+Die NCR besteht bereits seit mehr als 130 Jahren und kann als ältestes IT-Unternehmen der Welt angesehen werden.
+Nachdem James Ritty 1879 die Registrierkasse erfunden und am 30. Januar 1883 zusammen mit John Birch ein Patent darauf erhalten hatte, gelangte die von ersterem gegründete und geleitete Firma in die Hände von Jacob H. Eckert aus Cincinnati, der sie in National Manufacturing Company umbenannte, schon 1884 aber an John Henry Patterson verkaufte. Patterson führte sie nun als National Cash Register Company (NCR) weiter, die die ersten mechanischen Registrierkassen nun in großem Umfang fabrizierte. Das Geschäft florierte und die NCR expandierte bald auch nach Europa. 1896 wurde in Deutschland die Nationale Registrierkassen GmbH (NRK) gegründet.
+Patterson etablierte in seinem Unternehmen moderne Vertriebsmethoden, die für die damalige Zeit ungewöhnlich waren. Alle Verkäufer mussten stets auf ein gepflegtes Äußeres achten, an regelmäßigen Schulungen teilnehmen und Pattersons Verkaufsmaximen – in Form eines kleinen gedruckten Büchleins, intern „die Bibel“ genannt – verinnerlichen. Auch nutzte Patterson bereits massiv das Prinzip der Werbung in Form von Prospekten, die er an Händler überall in den Staaten sandte, und erfand nebenbei das Flipchart.
+John H. Patterson war auch bekannt für seine rigorose „hire and fire“-Praktik. Zu den von ihm wegen Streitigkeiten entlassenen Mitarbeitern zählte Thomas J. Watson, der daraufhin zu CTR wechselte, die er jedoch bald in IBM umbenannte. Sowohl Watson als auch Patterson wurden wegen unfairer Geschäftspraktiken zu je einem Jahr Gefängnis verurteilt. Sie fochten jedoch das Urteil an und konnten sich mit Kaution freikaufen.
+Die Produktpalette der NCR wurde fortwährend weiterentwickelt und vergrößert. 1906 entwickelte Charles F. Kettering die erste elektrische Registrierkasse, die von einem Motor angetrieben wurde; später folgten elektronische Registrierkassen. Im Jahr 1911 hatte die NCR bereits über eine Million Registrierkassen verkauft und beschäftigte 6.000 Angestellte, der Marktanteil in den USA lag bei 95 Prozent.
+1953 stieg das Unternehmen in die elektronische Datenverarbeitung ein und war auch dort einer der Pioniere. 1974 brachte die NCR die ersten kommerziellen Barcodeleser auf den Markt. 1982 lief der erste NCR UNIX Super-Microcomputer vom Band. 1991 wurde NCR von AT&T übernommen und 1994 in AT&T Global Information Solutions (GIS) umbenannt. Ende 1996 trennte sich die AT&T GIS wieder von AT&T und firmierte erneut unter NCR. 1997 zog sich die Firma aus dem PC-Geschäft zurück.
+Die NCR Corporation hält alleine in den USA 1.450 Patente. Zu den jüngsten Innovationen zählen NCR Kalpana, eine neuartige Geldautomatenlösung, und NCR Orderman7, ein speziell für die Gastronomie entwickeltes Handheld zur effizienten Bestellannahme.
+Seit August 2005 ist Bill Nuti CO (Chief Officer, Vorstand) des Unternehmens.
+
+
+=== Geschichte der NCR in Augsburg ===
+
+Die NRK, die deutsche Tochter der NCR, siedelte 1945 von Berlin in die US-amerikanische Besatzungszone um, zunächst ins fränkische Gunzenhausen, 1947/1948 schließlich nach Augsburg. So machte sie Augsburg zur „Stadt der Registrierkassen“, das Augsburger Werk war das größte seiner Art in Europa. Der Architekt des Verwaltungsgebäudes, des Casinos mit Bühne, der Gebäude „Fabrik 1“, „Fabrik 2“ und des Hochhauses war Carl Weber (1904–1987).
+Mitte der 1950er Jahre entstanden durch NCR enge Kontakte zwischen der Stadt Augsburg und Dayton, die 1964 in einer Städtepartnerschaft zwischen den beiden Städten gipfelten. Der durch das US-amerikanische (Kasernen-) Viertel des Augsburger Stadtteils Kriegshaber verlaufende Abschnitt der heute ausgebauten B17-Westtangente trägt den Namen Dayton-Ring.
+In den 1960er und 1970er Jahren beschäftigte NCR allein am Standort Augsburg 5000 Mitarbeiter (nach anderen Quellen sogar 7000 Mitarbeiter). In den 1980er und 1990er Jahren wurde der Standort jedoch wieder stark reduziert. Die Gebäude Fabrik 1 und Fabrik 2 wurden 2000 abgebrochen, Halle 1 wurde 2001 abgebrochen; das Versammlungsgebäude, in dem früher Konzerte und zur Faschingszeit große Bälle stattfanden, und das Schulungsgebäude wurden 2002 abgebrochen. Für kurze Zeit verschwand der NCR-Schriftzug und überall war der Schriftzug AT&T (am Hochhaus sogar beleuchtet) zu finden. 2007 beschäftigte die NCR GmbH noch ca. 350 Mitarbeiter in Augsburg. Die verbliebenen Grundstücke und die beiden letzten noch nicht abgerissenen Gebäude wurden im Herbst 2004 verkauft. Das zehngeschossige Hochhaus wurde bis 2015 zurückgemietet und trug bis dahin wieder den beleuchteteten NCR Schriftzug.
+Im Herbst 2015 zog NCR daraus aus, verließ Kriegshaber und zog in frei gewordene Räume des insolventen Weltbild-Verlags in Augsburg-Lechhausen.
+Im Januar 2016 wurde mit dem Abtrangen des Hochhauses begonnen (Beginn der eigentlichen stockwerkweisen Abrissarbeiten, nach der zuvor erfolgten Entkernung). Ende September 2016 war der Abbruch beendet.
+
+
+== Weblinks ==
+
+Offizielle Website
+Offizielle Hospitality Europe Website
+
+
+== Einzelnachweise ==

@@ -1,0 +1,18 @@
+Beim Purple urine bag syndrome (PUBS) handelt es sich um ein seltenes Phänomen, das bei Patienten mit Harnkathetern in Kombination mit Harnwegsinfektionen auftreten kann, und welches sich durch eine violette Verfärbung des Urines auszeichnet. Dies geschieht als Folge einer enzymatischen Reaktion der den Harnwegsinfekt auslösenden Bakterien.
+
+
+== Pathophysiologie ==
+Durch die Nahrung aufgenommenes Tryptophan wird im Verdauungstrakt durch Bakterien zu Indol umgewandelt. Dieses wird durch den Blutkreislauf zur Leber transportiert, wo es weiter zu Indoxylsulfat umgewandelt wird. Dieses wird schließlich renal eliminiert und im Harn ausgeschieden. Durch Bakterien, die in Folge der Infektion auch den Harnkatheter besiedeln, wird das Enzym Indoxylphosphatase produziert. Dieses Enzym wandelt das Indoxylsulfat im Urin in den roten Farbstoff Indirubin und den blauen Farbstoff Indigo um, woraus eine violette Farbe resultiert.Mehrere Bakterien sind dazu in der Lage, häufig werden Klebsiella pneumoniae, Proteus mirabilis, Escherichia coli, Pseudomonas aeruginosa, Morganella morganii, oder Providencia spp. nachgewiesen.Erstmals wurde das Phänomen im Jahr 1978 beschrieben.
+PUBS tritt häufiger bei Frauen, vor allem unter Pflegeheimbewohnern, auf. Als weitere Risikofaktoren gelten Dauerkatheterisierung, Immobilität, Obstipation, Nierenerkrankungen, Urin mit alkalischem pH-Wert oder Verwendung von Harnkathetern aus Polyvinylchlorid.
+
+
+== Symptome und Behandlung ==
+Es handelt sich beim PUBS um eine Blickdiagnose. Der violett verfärbte Katheter und Harnbeutel wird für gewöhnlich bei der Pflege des Patienten bemerkt. Das PUBS ist prinzipiell harmlos, für den Patienten resultiert das Phänomen meistens in keinerlei zusätzlichen Symptomen außer den ohnehin durch den Harnwegsinfekt bestehenden Beschwerden.
+Einige Untersuchungen legen jedoch einen Zusammenhang mit antibiotikaresistenten Keimen nahe.Als Behandlung werden Antibiotika entsprechend dem Antibiogramm des auslösenden Bakteriums (beispielsweise Ciprofloxacin) zur Therapie des zugrundeliegenden Infektes verabreicht, außerdem sollte der Katheter gewechselt werden.
+
+
+== Siehe auch ==
+Blaue-Windeln-Syndrom
+
+
+== Einzelnachweise ==

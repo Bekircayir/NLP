@@ -1,0 +1,47 @@
+Supraventrikuläre Tachykardie (Abk. SV-Tachykardie oder SVT) ist ein Begriff aus der Medizin und bezeichnet eine ganze Gruppe verschiedener Herzrhythmusstörungen. Gemeinsam ist ihnen ein unangemessen schneller Puls von mehr als 100 Schlägen in der Minute und ein Ursprung der Rhythmusstörung oberhalb der Herzkammern (vgl. Aufbau des Herzens).
+
+
+== Formen und Nomenklatur ==
+Die Zuordnung einzelner Rhythmusstörungen zu den SVT wird uneinheitlich gehandhabt. Je nach Ursprungsort und beteiligten Strukturen des Erregungsleitungssystems wird u. a. zwischen
+
+Sinusknoten-Reentrytachykardien,
+Inadäquate Sinustachykardie,
+fokalen atrialen Tachykardien,
+atrialen Makro-Reentrytachykardien,
+junktionalen ektopen Tachykardien,
+AV-Knoten-Reentrytachykardien und
+AV-Reentrytachykardien bei akzessorischer Leitungsbahnunterschieden. Meist werden auch die Sinustachykardie sowie Tachykardien bei Vorhofflattern und Vorhofflimmern als SVT bezeichnet.
+Nicht mehr üblich sind die historischen Bezeichnungen Bouveret-Syndrom oder paroxysmale Tachykardie vom Typ Bouveret-Hoffmann für atriale Tachykardien mit abruptem Beginn und Ende.
+Als paroxysmal werden Tachykardien mit plötzlichem Beginn und ebenso plötzlichem Ende bezeichnet. Der Begriff Reentry (von engl.: Wiedereintritt) beschreibt im Zusammenhang mit Tachykardien eine unübliche „kreisende Erregung“ im Herzen.
+
+
+== Symptome ==
+Die von der Tachykardie verursachte Beschleunigung des Pulses wird von den meisten Patienten sofort als „Herzjagen“ oder „Herzrasen“ bemerkt. Bei Vorhofflimmern ist der Puls dabei unregelmäßig und häufig unterschiedlich kräftig zu tasten, bei den übrigen Formen regelmäßig. Allerdings kann die Tachykardie auch stunden- und sogar tagelang unbemerkt bleiben. Luftnot (Dyspnoe) oder ein Engegefühl in der Brust (Angina Pectoris) können hinzutreten, wenn es durch die Tachykardie zu einer Herzinsuffizienz oder Mangeldurchblutung des Herzmuskels kommt. Bei hohen Pulsfrequenzen ist ein Schwindelgefühl bis hin zur Bewusstlosigkeit (Synkope) häufig. Nach dem Ende der Tachykardie verspüren viele Patienten einen auffälligen Harndrang.
+
+
+== Diagnose ==
+
+Zwar lässt sich die Tachykardie bereits bei der Pulsmessung im Rahmen der körperlichen Untersuchung diagnostizieren, eine Unterscheidung zwischen ventrikulärer und supraventrikulärer Tachykardie oder auch eine genauere Differenzierung der SVT ist nur mit Hilfe des 12-Kanal-Elektrokardiogramms möglich. Dort weist die SV-Tachykardie in der Regel schmale QRS-Komplexe (vgl. EKG-Nomenklatur) auf, die denen des normalen Sinusrhythmus gleichen. Besteht allerdings gleichzeitig ein Schenkelblock mit verbreiterten QRS-Komplexen, so ist die SV-Tachykardie zunächst nicht von der ventrikulären Tachykardie zu unterscheiden. In diesem Fall hilft oft eine genaue Formanalyse der QRS-Komplexe, wobei die folgenden Kriterien für eine ventrikuläre Tachykardie sprechen:
+
+QRS-Breite > 140 Millisekunden (ms) bei Rechtsschenkelblock bzw. > 160 ms bei Linksschenkelblock
+RS-Intervall > 100 ms in einer Brustwandableitung
+Negativer QRS-Komplex in allen Brustwandableitungen (negative Konkordanz)
+Ventrikuläre Fusionsschläge oder AV-Dissoziation.Zur Differenzialdiagnose supraventrikulärer Tachykardien kann man Adenosin verabreichen. Dies verursacht einen wenige Sekunden andauernden AV-Block III°. Hierdurch sind im EKG lediglich Vorhofaktionen sichtbar, die weiteren Aufschluss geben. Eine AV-Knoten-Reentry-Tachykardie (AVNRT) lässt sich hierdurch beenden und somit als Diagnose sichern.
+
+
+== Therapie ==
+Sinustachykardien bedürfen in der Regel keiner besonderen Therapie.  Allerdings wird versucht, eine evtl. zugrundeliegende Ursache zu identifizieren und ggf. zu therapieren. Abgesehen von der Ausnahme der seltenen Inadäquate Sinustachykardie. Bei Patienten mit IST ist meist eine Therapie nötig. Die Grundzüge der Behandlung von Vorhofflimmern und Vorhofflattern sind im Artikel Vorhofflimmern dargelegt.
+Die Mehrzahl der Patienten mit den übrigen genannten SV-Tachykardien benötigt entweder keine oder lediglich im Anfall eine vorübergehende medikamentöse Therapie. Dabei werden u. a. Adenosin, Amiodaron, Flecainid oder Propafenon eingesetzt, gelegentlich auch Betablocker oder Verapamil. Bei häufig auftretenden und störenden Anfällen kann eine medikamentöse Prophylaxe mit einem Betablocker oder einem anderen Antiarrhythmikum versucht werden, deren Erfolg allerdings nicht vorhersehbar ist.
+Nur bei unbefriedigender Wirkung der Medikamente oder inakzeptablen Nebenwirkungen wird eine invasive Therapie entweder im Rahmen einer Herzkatheterbehandlung oder in Form einer Herzoperation in Betracht gezogen. Eine Minderheit der Patienten kann allerdings durch eine Katheterablation so nachhaltig und mit geringem Risiko behandelt werden, dass diese einer medikamentösen Therapie vorzuziehen ist.
+
+
+== Vorbeugung ==
+SV-Tachykardien können durch Einflüsse des vegetativen Nervensystems ausgelöst werden. Betroffene Patienten sollten deswegen Aufregungen und Stress-Situationen möglichst aus dem Weg gehen. Auch der Konsum von Alkohol, Nikotin und Koffein sollte zumindest versuchsweise eingeschränkt werden, da er die Tachykardien auslösen kann.
+Tachykardien können auch in Verbindung mit dem Konsum von Amphetamin, Heroin und Kokain sowie Cannabis (Wirkstoff Cannabinol) auftreten.
+
+
+== Literatur ==
+S2k-Leitlinie Tachykarde Herzrhythmusstörungen bei Kindern und Adoleszenten der Deutschen Gesellschaft für Pädiatrische Kardiologie (DGPK). In: AWMF online (Stand 2013)
+
+
+== Einzelnachweise ==

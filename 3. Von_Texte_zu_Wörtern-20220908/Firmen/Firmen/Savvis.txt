@@ -1,0 +1,11 @@
+Savvis war ein US-amerikanisches Unternehmen mit Hauptsitz in Town and Country, im US-Bundesstaat Missouri, das als Tier-1-Carrier eines der größten Internet-Backbones betrieb. Das Netzwerk umfasste rund 27.000 Kilometer Glasfaserkabel in 45 Ländern. Darüber hinaus unterhielt Savvis 29 Rechenzentren in den USA, Europa und Asien mit einer Fläche von insgesamt über 130.000 Quadratmetern. Zum Kundenkreis gehörten Großunternehmen und Behörden.
+
+
+== Geschichte ==
+Das Unternehmen wurde 1995 unter dem Namen Diamond.Net als Internetzugangsanbieter für Unternehmen gegründet. Als ersten großen Kunden konnte Diamond.Net Apple gewinnen, wodurch sich Großaufträge von weiteren Unternehmen wie Amazon.com ergaben. 1996 stieg ein Investor bei Diamond.Net ein, veranlasste die Umbenennung in Savvis und forcierte die weitere Expansion.
+Im April 1999 wurde Savvis von Bridge Information Systems übernommen und im Februar 2000 an die Börse gebracht.
+Anfang 2004 kaufte Savvis die US-amerikanische Tochtergesellschaft von Cable & Wireless für 155 Mio. US-Dollar auf, darunter 3.000 Verträge mit Großkunden, 15 Rechenzentren und das weltweite Tier-1-Backbone. Cable & Wireless USA hatte 1998 das Backbone von MCI übernommen und 2001 den insolventen Webhoster Exodus aufgekauft, der neben Rechenzentren ebenfalls ein eigenes Backbone betrieb.
+2011 wurde Savvis von CenturyLink übernommen.
+
+
+== Einzelnachweise ==

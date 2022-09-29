@@ -1,0 +1,29 @@
+Bronchospasmus ist ein medizinischer Fachbegriff, der das Verkrampfen der Muskeln, welche die Atemwege umspannen, bezeichnet. Ein Bronchospasmus kommt bei Asthma bronchiale vor, aber auch beim Einatmen von Dämpfen und Rauch. Operative oder sonstige manipulative Eingriffe im Bereich der Atemwege, wie endotracheale Intubation bei zu flacher Narkose, können ebenfalls die Ursache sein.Hierbei verengt sich durch die Verkrampfung der bronchienumspannenden Muskulatur der Durchmesser der Atemwege und erzeugt eine Erhöhung des Atemwiderstandes (Obstruktion). Aus diesem Zusammenhang lassen sich somit obstruktive Lungenerkrankungen ableiten.
+
+
+== Mögliche Ursachen ==
+Ursprung eines Bronchospasmus können mechanische wie chemische Irritationen sein sowie diverse Medikamente (u. a. Opiate oder Antibiotika mit Histaminfreisetzung). Besonders anfällig für Bronchospasmen sind Patienten mit Asthma bronchiale, akutem Atemwegsinfekt, chronisch obstruktiver Lungenerkrankung, Nikotinabusus, allergischer Rhinitis oder Neigung zu allergischen Reaktionen.
+
+
+== Diagnose ==
+Erkennungszeichen eines Bronchospasmus während einer Beatmung sind Erhöhung von Atemwegswiderstand und Beatmungsdrücken sowie Abnahme des verabreichten Atemhubvolumens.
+Typisch sind auch Giemen und Brummen in der Expiration (beim Vollbild silent chest fehlend). Es drohen Hyperkapnie (erhöhter Kohlenstoffdioxidgehalt im Blut) und Hypoxie (Mangelversorgung des Gewebes mit Sauerstoff).
+
+
+== Therapie ==
+Möglich ist eine manuelle Beatmung mit hoher inspiratorischer Sauerstoffkonzentration. Während einer Operation kann die Narkose bei beginnendem Bronchospasmus, etwa mit volatilen Anästhetika, vertieft werden, beispielsweise mit dem bronchodilatatorisch wirkenden Anästhetikum Ketamin; auch Beta-2-Mimetika können die Bronchien wieder erweitern.
+
+
+== Prophylaxe ==
+Vor Operationen bei prädisponierten Patienten kann prophylaktisch eine suffiziente Prämedikation, etwa mit einem Beta-2-Mimetikum, durchgeführt werden. Regionalanästhesie ist vorzuziehen.
+
+
+== Literatur ==
+Franz-Josef Kretz, Karin Becke: Anästhesie und Intensivmedizin bei Kindern. Thieme, 2007, ISBN 978-3-13-110232-4. S. 185 f.
+Reinhard Larsen: Anästhesie und Intensivmedizin für Schwestern und Pfleger. Springer-Verlag, 2013, ISBN 978-3-662-21608-8. S. 532.
+Reinhard Larsen, Thomas Ziegenfuß: Beatmung: Grundlagen und Praxis. Springer Science & Business Media, 2009, ISBN 978-3-540-88811-6.
+Jürgen Schüttler: Der Narkosezwischenfall. Thieme, 2003, ISBN 3-13-125181-6.
+Hans Walter Striebel: Anästhesie – Intensivmedizin – Notfallmedizin. Springer, 2012, ISBN 978-3-7945-2890-5.
+
+
+== Einzelnachweise ==

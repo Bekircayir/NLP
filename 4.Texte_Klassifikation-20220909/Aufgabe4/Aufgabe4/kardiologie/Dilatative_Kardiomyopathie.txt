@@ -1,0 +1,52 @@
+Die dilatative Kardiomyopathie (DCM) ist eine krankhafte Erweiterung (Dilatation) des Herzmuskels, besonders des linken Ventrikels. Durch einen systolischen Pumpfehler kommt es zum fortschreitenden Verlust der Auswurfleistung. Hinzu kommt meist auch eine Störung der diastolischen Funktion (diastolische Herzinsuffizienz).
+Die Erkrankung ist auch in der Veterinärmedizin bekannt, dort allerdings meist erblich. Siehe dazu Dilatative Kardiomyopathie (Veterinärmedizin)
+
+
+== Ursachen ==
+Man unterscheidet zwischen primären (angeborenen) Formen der Kardiomyopathie und sekundären Formen, die Folge von Grunderkrankungen sind. Für die primäre Form sind viele Gendefekte bekannt, die teilweise auch andere Herzmuskelerkrankungen wie die hypertrophe Kardiomyopathie verursachen können. Die sekundäre Form kann folgende Ursachen haben:
+
+Herzerkrankung mit Klappenfehlern wie z. B. Aortenklappeninsuffizienz, Pulmonalklappeninsuffizienz und nachfolgender Volumenbelastung des Ventrikels
+Pendelblut bei Ventrikelseptumdefekten und Shuntvolumina
+Infektiös: Viren (Coxsackie-Virus, Influenzaviren, Adenoviren, ECHO-Viren), Bakterien (Staphylokokken, Enterokokken, Borrelia burgdorferi), Pilze oder Protozoen (Toxoplasmose, Chagas-Krankheit)
+Toxisch (Alkohol, Anthracycline, Phosphor, Drogen)
+Ischämisch (rezidivierende Infarkte, Mikroangiopathie)
+Metabolisch (Beri-Beri, Unterernährung)
+Indirekt durch rhythmogene Störungen: eine anhaltende schnelle Herzrhythmusstörung wie tachykardes Vorhofflimmern (Tachykardiomyopathie)
+indirekt durch Vorhofhypertrophie
+Immunologisch (systemischer Lupus erythematodes, Panarteriitis nodosa, progressive systemische Sklerose, Dermatomyositis)
+Endokrin (Hypothyreose, Hyperthyreose, Phäochromozytom, Akromegalie)
+Neuromuskulär: Duchenne-Muskeldystrophie, Becker-Muskeldystrophie, Myotone Dystrophie Curschmann-Steinert
+
+
+== Symptome/Diagnose ==
+Im Vordergrund stehen die Symptome der Herzinsuffizienz (vor allem Luftnot) durch Verminderung der Auswurffraktion des linken Ventrikels auf bis zu 30 Prozent. Trotz der Vergrößerung der enddiastolischen Volumina der vier Herzhöhlen reduziert sich das Herzzeitvolumen. Durch die Erweiterung des Herzens kommt es zu einer relativen Mitralklappeninsuffizienz und zu einer Trikuspidalklappeninsuffizienz. Am Ende der Diastole kommt es durch Kontraktion der Vorhöfe zu einem dritten Herzton, wodurch man bei der Auskultation einen Galopprhythmus wahrnimmt. Die Pulsamplitude (Pulsdruck) ist klein.
+
+
+=== EKG ===
+Im EKG findet man oft einen Linksschenkelblock und Zeichen der Vergrößerung des linken Ventrikels. Oft liegt ein Vorhofflimmern mit absoluter Arrhythmie vor.
+
+
+=== Bildgebung ===
+
+Im Röntgen-Thorax ist der Herzschatten verbreitert. In der Echokardiographie und in der Kernspintomographie sieht man eine Erweiterung der Ventrikel und der Vorhöfe. Die Wand des linken Ventrikels ist meist verdünnt, der linke Ventrikel kugelig umgeformt und allseits vermindert beweglich (kontraktil).
+Die Auswurffraktion ist reduziert. Der Abstand zwischen vorderem Mitralsegel und Septum ist vergrößert. Oft liegen eine Mitralklappeninsuffizienz und eine Trikuspidalklappeninsuffizienz vor.
+
+
+=== Biopsie ===
+In der Herzmuskelbiopsie kann man die Typen nichtfibrosierend, diffus fibrosierend und fokal fibrosierend unterscheiden. Darüber hinaus sieht man schmale Herzmuskelzellen mit großen Kernen.
+
+
+=== Komplikationen ===
+Wichtige Komplikationen sind Herzinsuffizienz, Herzrhythmusstörungen und Thrombenbildung in den erweiterten Herzhöhlen mit der Gefahr eines Herzinfarktes.
+
+
+== Therapie ==
+Bei den sekundären Formen wird die ursächliche Erkrankung behandelt. Ansonsten werden Herzinsuffizienz und Herzrhythmusstörungen medikamentös mit ACE-Hemmern oder Sartanen und mit Betarezeptoren-Blockern behandelt. Zudem ist eine Prophylaxe der Thrombenbildung in Form einer Antikoagulation indiziert. Ein neuerer Therapieansatz ist die Myokardregeneration mit Hilfe autologer Stammzelltransplantation, deren Effizienz jedoch noch in größeren Studien belegt werden muss. Bei weiter fortschreitender Erkrankung kommen die Herztransplantation oder die Implantation eines Kunstherzens in Betracht.
+In der Veterinärmedizin ist der Inodilatator Pimobendan Mittel der ersten Wahl. Zusätzlich wird die regelmäßig anzutreffende und durch Vorhofflimmern ausgelöste (supraventrikuläre) Tachykardie mittels des gleichfalls positiv inotrop wirkenden Digitalis behandelt. Daneben kommen auch hier ACE-Hemmer und Beta-Blocker zum Einsatz.
+
+
+== Literatur ==
+M. R. Taylor, E. Carniel, L. Mestroni: Cardiomyopathy, familial dilated. In: Orphanet Journal of Rare Disorders. Band 1, Heft 27, 13. Juli 2006, PMID 16839424, PMC 1559590 (freier Volltext). 
+
+
+== Einzelnachweise ==

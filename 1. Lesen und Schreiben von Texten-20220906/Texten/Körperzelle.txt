@@ -1,0 +1,21 @@
+Woher kennt eine K”rperzelle ihre Funktion?
+
+Haut, Knochen, Gewebe, Organe: Unser K”rper besteht aus Milliarden Zellen. Sie bek„mpfen Viren, bewegen unsere Muskeln und lassen uns wachsen. Doch woher weiá eine Zelle, dass sie fr den Haarwuchs zust„ndig ist und nicht fr den Herzschlag? 
+
+
+
+Der menschliche K”rper besteht aus Milliarden von Zellen, alle tragen in ihrem Zellkern denselben Bauplan des gesamten K”rpers. Trotzdem sind sie nicht alle gleich: Es gibt Herzzellen, Hautzellen, Nervenzellen und viele andere Spezialisten, die teilweise sehr unterschiedliche Aufgaben erfllen mssen: Eine Herzzelle muss sich beispielsweise rhythmisch zusammenziehen k”nnen, ganz anders die Zelle einer Haarwurzel: Sie ist fr die Bildung des Haars verantwortlich. Doch woher weiá eine Haarwurzelzelle, dass sie keine Herzzelle ist - und umgekehrt?
+
+Jede Zelle eines K”rpers besitze zwar die gleiche DNA, auf der die Erbinformationen gespeichert sind, sagt Michael Kessel vom Max-Planck-Institut fr biophysikalische Chemie in G”ttingen. "Auf ihr sitzen aber auch Schaltermolekle, die bestimmte Informationen an- oder abschalten." Bei einer Herzzelle seien dadurch beispielsweise Gene fr die Herzfunktionen aktiviert, andere Programme dagegen abgeschaltet, erkl„rt der Entwicklungsbiologe.
+
+Es ist im Prinzip wie bei einem Computer: Auf seiner Festplatte sind ebenfalls viele unterschiedliche Programme gespeichert, doch damit sie arbeiten, muss man sie starten. Die Grundfunktionen, die alle Programme verwenden, bernimmt beim Computer das Betriebssystem. hnlich ist das auch bei der Zelle: Einige Grundprogramme, wie beispielsweise die fr den Stoffwechsel, mssen in jeder Zelle ablaufen, die Spezialisierung der Zelltypen erfolgt dann ber Spezialprogramme, im K”rper heiáen sie aktive Gene.
+
+Spezialisierung beginnt im Mutterleib
+
+Die Zelle weiá schon frh, was sie werden soll. "Die Spezialisierung beginnt schon sehr frh w„hrend der Embryonalentwicklung im Mutterleib", sagt Kessel. Die Eizelle selbst besitzt noch keine Schaltermolekle, die den Zelltyp festlegen. Nach der Befruchtung beginnt sie sich aber zu teilen, sehr schnell bekommt der entstehende Zellhaufen eine Struktur: Die Zellen teilen sich in Fraktionen auf. "Hier beginnen die ersten Festlegungen, die einer Zelle eine bestimmte Funktion in dem winzigen K”rper zuweisen", erkl„rt Kessel.
+
+Bestimmte Zellen eines Embryos, die noch die F„higkeit besitzen, sich in viele unterschiedliche Zelltypen zu entwickeln, nennt man Stammzellen. Je nach ihrer Position im Zellhaufen geben ihnen bestimmte Botenstoffe Schritt fr Schritt immer feinere Funktionszuweisungen. "Wie genau diese Regelprozesse zur Ausbildung eines K”rpers mit seinen komplexen Strukturen fhren, ist allerdings immer noch ein Forschungsgebiet mit vielen offenen Fragen", sagt Kessel.
+
+Mit biotechnologischen Verfahren ist es heutzutage sogar m”glich, einige Schaltermolekle wieder von der DNA zu entfernen. So k”nnen Wissenschaftler im Labor Hautzellen eines Menschen wieder in Zellen verwandeln, aus denen sich noch andere Zelltypen bilden k”nnen - sie k”nnen also knstlich Stammzellen erzeugen. Von dieser Technik erhoffen sie sich, eines Tages beispielsweise Organe fr Transplantationen zchten zu k”nnen.
+
+Quelle: https://www.spiegel.de/lebenundlernen/schule/1000-fragen-woher-kennt-eine-koerperzelle-ihre-funktion-a-804316.html

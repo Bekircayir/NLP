@@ -1,0 +1,63 @@
+Das Neuroblastom ist mit sieben bis acht Prozent aller Krebserkrankungen im Kindesalter die dritthäufigste bösartige Neubildung bei Kindern. Vom autonomen Nervengewebe – der embryonalen Neuralleiste – ausgehend handelt es sich um einen Tumor, dessen Zellen (sogenannte Neuroblasten) in einem unreifen Stadium verblieben sind. Er ist vor allem in den Nebennieren, entlang der Wirbelsäule, im Kopf-, Hals- und Nackenbereich sowie im Brust-, Bauch- und Beckenraum entlang des zervikalen, thorakalen und abdominalen Grenzstranges sowie in den Paraganglien anzutreffen. Circa 70 Prozent liegen außerhalb des Bauchraumes im Retroperitonealraum und etwa 20 Prozent zwischen den Lungenflügeln im Mediastinum.
+
+
+== Häufigkeit ==
+Von einem Neuroblastom ist etwa eines von 100.000 Kindern betroffen, in Deutschland jährlich rund 150 Kinder. Ein Drittel dieser Kinder erkrankt bereits im ersten Lebensjahr, 90 Prozent der Tumoren treten vor Schulbeginn auf, das mittlere Erkrankungsalter liegt bei zwei Jahren. Mit zunehmendem Alter sinkt das Risiko einer Erkrankung, jedoch können in seltenen Fällen auch Erwachsene betroffen sein. In der Hälfte der Fälle sind zum Zeitpunkt der Diagnose bereits Metastasen vorhanden, besonders in den regionalen und entfernten Lymphknoten, in Knochenmark, Knochen, Leber, Haut, selten im Zentralnervensystem.
+
+
+== Symptomatik ==
+Das Beschwerdebild des Neuroblastoms wird durch den Ort des Primärtumors oder der Metastasen bestimmt. Bei im Grenzstrang gelegenen Tumoren finden sich neurologische Symptome bis zur Querschnittsymptomatik durch das Einwachsen in den Wirbelsäulenkanal, bei Auftreten im Halsbereich in 15 bis 20 Prozent ein Horner-Syndrom; bei Auftreten im Brustbereich kann es zu Luftnot, bei im Bauchbereich oder retroperitoneal gelegenen Tumoren zu Bauch- und Rückenschmerzen, Harnwegs-, Darmproblemen kommen. Metastasen verursachen einen reduzierten Allgemeinzustand, Schmerzen, Blässe, Fieber und Gewichtsabnahme. Bluthochdruck oder Durchfälle können durch die hormonelle Aktivität des Tumors auftreten. Brillenhämatome sind Hinweis auf ein retrobulbäres Neuroblastom.
+
+
+== Diagnostik ==
+
+Die Diagnose erfolgt in den Frühstadien meist zufällig mittels Ultraschall, Computertomografie (CT) oder Magnetresonanztomografie (MRT), die aus anderen Anlässen angefertigt wurden. In der Folge führt die MIBG-Szintigraphie zur Lokalisierung des Primärtumors und der eventuell schon vorhandenen Metastasen. Die Skelett-Szintigraphie mittels Technetium-Phosphonaten wird zur Unterscheidung zwischen Knochenmarks- und Knochenmetastasen herangezogen. Bezüglich Laboruntersuchungen ist zu erwähnen, dass die bis vor kurzem zum Tumorscreening eingesetzten Tumormarker Vanillinmandelsäure, Homovanillinsäure, Dopamin und die neuronspezifische Enolase (NSE) noch ihre Bedeutung zur Therapie- und Verlaufskontrolle haben (siehe unten). Ein weiterer Tumormarker ist das Ferritin. Sowohl NSE als auch Ferritin dienen vor allem der Verlaufskontrolle.
+Eine Knochenmarkpunktion ist bei Verdacht auf ein Neuroblastom unerlässlich. Sie dient zum Nachweis (Stadium IV) oder Ausschluss eines Befalls des Knochenmarks durch das Neuroblastom. Typischerweise erfolgt im Gegensatz zum Standardvorgehen bei Knochenmarkpunktion eine Punktion an vier Stellen des Beckenkamms (zwei Punktionsstellen vorderes Becken, zwei Punktionsstellen hinteres Becken). Ein Befall liegt dann vor, wenn sich in einer der vier Punktionsstellen zytologisch, immunohistochemisch oder molekularbiologisch Neuroblastomzellen nachweisen lassen. Auf eine Knochenmarkpunktion kann nur ausnahmsweise verzichtet werden.
+
+Bei der mikroskopischen Untersuchung besteht das Tumorgewebe häufig aus Zellen mit dichten Kernen, die nur wenig Zytoplasma enthalten. Charakteristisch ist die Ausbildung eines Pseudorosetten-Musters. Vereinzelt finden sich einzelne Ganglienzellen. Sollten zahlreiche Ganglienzellen vorhanden sein, kann der Tumor bereits zu einem Ganglioneuroblastom ausdifferenziert sein.
+
+
+== Stadieneinteilung, Therapie, Prognose ==
+Das International Neuroblastoma Staging System (INSS) unterscheidet zwischen folgenden Krankheitsstadien:
+
+1: Lokalisierter Tumor auf Ursprungsort begrenzt,
+2a: Lokalisierter Tumor infiltriert Umgebung, ohne die Mittellinie zu überschreiten, kein Lymphknotenbefall,
+2b: Lokalisierter Tumor infiltriert Umgebung, ohne die Mittellinie zu überschreiten, homolateraler Lymphknotenbefall,
+3: Lokalisierter Tumor überschreitet Mittellinie, regionale Lymphknoten können beidseits befallen sein,
+4: Hämatogene Fernmetastasen,
+4-S: wie 1 oder 2, aber mit Fernmetastasen in Leber, Haut; darf dabei nur minimal auf das Knochenmark übergreifen; tritt nur im Säuglingsalter auf und kann sich spontan rückbilden, sodass bei klinisch stabilen Säuglingen und sorgfältiger Überwachung abgewartet werden kann.Die histologische Einteilung („Grading“) erfolgt nach Hughes, des Weiteren werden molekulargenetische Untersuchung des Tumormaterials durchgeführt.
+Therapie: Im Stadium 1 und 2 wird die alleinige operative Tumorentfernung angestrebt, in den höheren Stadien wird der Operation eine Chemotherapie vorgeschaltet. Im Stadium 4 kann bei ausgewählten Tumorlokalisationen zusätzlich eine Strahlentherapie angewandt werden. Im Anschluss erfolgt eine autologe Stammzelltransplantation mit vorheriger Konditionierung durch eine Hochdosischemotherapie. Diese wird häufig mit einer MIBG-Therapie (Radiorezeptortherapie) kombiniert. Im Rezidivfall kommen die haploidente Stammzelltransplantation, die Antikörpertherapie und ggf. eine nochmalige MIBG-Therapie infrage. Zur Erhaltungstherapie stehen Retinoide und das Arsentrioxid zur Verfügung. Prognose: Die 5-Jahres-Überlebensrate beträgt für alle Stadien zusammen ca. 55 % und hängt sehr stark vom Stadium selbst ab: Im Stadium 1 bis 2 meist über 90 %, im Stadium 3 ca. 75 %, im Stadium 4 weniger als 20 %.
+Ein entscheidender Tumormarker ist das Onkogen n-myc. Eine starke Amplifikation ist gleichbedeutend mit einem ungünstigen Verlauf und einer hohen Rezidiv-Wahrscheinlichkeit.
+Falls eine MYCN Amplifikation nicht festgestellt wurde, beträgt die 5-Jahres-Überlebensrate ca. 72 %, falls ja, nur ca. 31 %.
+Die Chance auf eine Spontanheilung ist im Gegensatz zu anderen Krebsarten sehr hoch. Im Stadium 2a sind in 50 %, im seltenen Stadium 4 S sogar bei 80 % der Fälle Spontanheilungen zu erwarten.
+
+
+== Neuroblastomscreening ==
+Aufgrund dieser stadienabhängigen Verschlechterung der Überlebensrate wurde intensiv nach verlässlichen Früherkennungsmethoden gesucht. An der Kinderklinik in Graz wurde schließlich ein Neuroblastomscreening entwickelt und 1991 eingeführt. In den Jahren 1991 bis 1995 ergab sich bei 125.201 Erstanalysen nur ein einziges falsch-negatives Ergebnis; in 16 Fällen wurde eine Erkrankung festgestellt und rechtzeitig behandelt.
+Der Test war einfach und billig: Im Harn feststellbare Tumormarker – Vanillinmandelsäure (VMS) und Homovanillinsäure (HVS) – als Abbauprodukte von durch den Tumor selbst gebildeten Hormonen wurden in einem kombinierten Verfahren getestet, indem ein Teststreifen im Alter zwischen 7 und 12 Monaten von den Eltern in die Windel eingelegt wurde. Die Kosten für ein österreichweites Screening wären mit ca. 350.000 € extrem günstig und gleich hoch gewesen wie die intensivmedizinische Behandlung zweier fortgeschrittener Tumorerkrankungen.
+Dieses Screening konnte die Erwartungen nicht erfüllen, wie zwei im April 2002 im NEJM veröffentlichte unabhängige und wesentlich größere Studien zeigten. Weder im kanadischen Québec noch in sechs deutschen Bundesländern konnte durch das Screening gegenüber den Vergleichsgruppen eine Senkung der Sterblichkeit erreicht werden.
+Für die deutsche Studie wurden rund 1,5 Millionen Kinder mit dem genannten Urintest untersucht, um ein Neuroblastom frühzeitig zu erkennen. Etwa 150 Neuroblastome wurden in dieser Gruppe diagnostiziert und etwa 100 dieser Kinder wurden durch Operationen oder Chemotherapien behandelt. Eine Kontrollgruppe umfasste ca. 2,1 Millionen Kinder, bei denen nicht aktiv nach einem Neuroblastom gesucht wurde und die folglich nicht behandelt wurden, sofern kein Neuroblastom auf herkömmlichem Weg diagnostiziert wurde.
+Die Gesamtsterblichkeit konnte in der Gruppe, die am Screening teilgenommen hatte, gegenüber der Kontrollgruppe nicht gesenkt werden. Der Grund dafür ist, dass die Behandlungserfolge derjenigen Neuroblastome, die ohne Behandlung zum Tod geführt hätten, nicht größer waren als die Risiken bei der Behandlung – teils bis zum Tod der Patienten führend – derjenigen Neuroblastome, die sich ohne Behandlung von selbst zurückgebildet hätten. Die Mediziner, die diese Studie durchgeführt haben, raten deshalb beim gegenwärtigen Stand der Behandlungsmöglichkeiten von einem Screening nach Neuroblastomen ab.
+
+
+== Besondere Aspekte ==
+Die richtige Interpretation der Überlebensdaten klinischer Krebsstudien kann schwierig sein, und Fallstricke im Zusammenhang mit der Natur der Kaplan-Meier-Analysen können zu falschen Schlussfolgerungen führen. Bei der Auswertung einer randomisierten kontrollierten Studie zur Behandlung von Hochrisikopatienten mit Neuroblastom stießen die Autoren einer Methodenstudie auf einige statistische Probleme, die offensichtlich schwer zu erkennen waren und möglicherweise mit einer Fehlinterpretation der Überlebensfunktionen verbunden sind. Zu diesen Themen gehörten die angenommene Kreuzung von Überlebenskurven, die Änderung des statistischen Ansatzes in der Nachuntersuchung, die unterschiedliche Vorbehandlung zwischen den Gruppen und das ereignisfreie Überleben als primäres Ergebnis.
+
+
+== Literatur ==
+
+
+=== Leitlinien ===
+S1-Leitlinie Neuroblastom der Gesellschaft für Pädiatrische Onkologie und Hämatologie (GPOH). In: AWMF online (Stand 2011)
+
+
+=== Fachartikel ===
+J. M. Maris: Recent advances in neuroblastoma. In: The New England journal of medicine. Band 362, Nummer 23, Juni 2010, S. 2202–2211, ISSN 1533-4406. doi:10.1056/NEJMra0804577. PMID 20558371. (Review).https://www.kinderkrebsinfo.de/sites/kinderkrebsinfo/content/e1676/e9032/e68518/e5376/download5379/Protokoll_NB97_ger.pdfThorsten Simon, Catherina Annika Niemann, Barbara Hero, Günther Henze, Meinolf Suttorp, Freimuth H. Schilling, Frank Berthold: „Short- and long term outcome of patients with spinal cord compression by neuroblastoma“ In: „Developmental Medicine & Child Neurology.“ Nummer 54, Februar 2012, S. 347–352
+
+
+== Weblinks ==
+
+Neuroblastom-Kurzinformation bei www.kinderkrebsinfo.de
+
+
+== Einzelnachweise ==

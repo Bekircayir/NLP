@@ -1,0 +1,39 @@
+Der Begriff Adenokarzinome des ösophagogastralen Übergangs bezeichnet eine spezielle Unterart der Krebserkrankungen der Speiseröhre. Eine weitere wichtige Gattung sind die Plattenepithelkarzinome.
+
+
+== Ätiologie und Pathogenese ==
+Unter normalen Umständen ist die Speiseröhre durchgängig mit Plattenepithel ausgekleidet, das eine hohe mechanische Belastbarkeit garantiert. Es ist allerdings gegen den Einfluss von Magensäure wenig widerstandsfähig. Unter dem Einfluss einer länger bestehenden Reflux-Erkrankung, also dem unphysiologischen Rückfluss von Magensäure in die Speiseröhre, das sich in Sodbrennen äußert, wird das Plattenepithel zu magenähnlichem Epithel umgewandelt. Diese Umwandlung wird Barrett-Metaplasie genannt. Es entstehen umschriebene Bereiche adenoiden Epithels, die mit einer geringen Wahrscheinlichkeit entarten.
+
+
+== Lokalisation ==
+Die Bezeichnung dieser Krankheitsentität ist chirurgischer Natur und daher per definitionem lokalisationsbezogen. Da dem Säure-Reflux aus dem Magen eine entscheidende Bedeutung zukommt, treten Adenokarzinome bevorzugt im distalen Teil der Speiseröhre auch im Bereich der Magenkuppe auf. Anhand der Lage des Tumorlagers in Bezug zum Übergang Speiseröhre-Magen wird folgende Einteilung getroffen:
+
+AEG I:   syn.: Barrett-Karzinom. Tumorzentrum oder Hauptteil der Tumormasse im distalen Ösophagus
+AEG II:  syn.: Kardia-Karzinom. Tumorzentrum oder Tumormasse direkt am Übergang
+AEG III: Tumorzentrum innerhalb des Magens, hier ist die Abgrenzung zum subkardialen, eigentlichen Magenkarzinom zu treffen.
+
+
+== Diagnostik ==
+Symptome sind in aller Regel Schluckbeschwerden, die allerdings erst in einem relativ späten Stadium der Erkrankung auftreten. Diagnostische Verfahren sind Endoskopie, Endosonographie, ggf. Computertomographie und als unverzichtbares Mittel der eindeutigen Klassifikation die Biopsie.
+
+
+== Therapie ==
+Tumore der Speiseröhre unterhalb der Aufzweigung der Luftröhre sind in der Regel chirurgisch radikal resezierbar. Um die Tumormasse zu verkleinern, wird vor der Operation häufig eine Radiochemotherapie, also eine Chemotherapie mit unterstützender Bestrahlung, durchgeführt. AEG des Typs I werden einer subtotalen Ösophagektomie zugeführt, das heißt, dass nur der vom Tumor infiltrierte Teil der Speiseröhre entfernt wird. Die Karzinome vom Typ II und III benötigen eine transhiate erweiterte Gastrektomie, bei dem ein großer Teil des Magens mitsamt der unteren Speiseröhre entfernt wird. Die Speisepassage wird durch die Verbindung des Speiseröhrenstumpfes mit dem Restmagen oder durch das Zwischenschalten eines Dünndarm-Abschnittes ermöglicht.
+
+
+== Prognose ==
+Die chirurgische Therapie ist mit einer perioperativen Mortalität von unter 5 % behaftet, wenn sie in einem erfahrenen Zentrum durchgeführt wird. Gelingt die komplette Entfernung des Tumors, beträgt die 5-Jahres-Überlebensrate 40 %. Dabei hängt die individuelle Prognose stark vom Befall der Lymphknoten ab. So beträgt die 5-Jahres-Überlebensrate bei Patienten mit einem Adenokarzinom der Stufe I immerhin 80 %.
+In den letzten Jahren hat sich bei frühen bösartigen Veränderungen im Barrett-Ösophagus (sogenannte hochgradige intraepitheliale Neoplasie und auf die Mukosa beschränktes Adenokarzinom) die endoskopische Therapie etabliert. An erster Stelle ist vor allem die endoskopische Resektion zu nennen. Mit dieser Methode wird während einer normalen endoskopischen Untersuchung der Tumor zunächst eingesaugt und dann mit einer Schlinge reseziert. Die endoskopische Therapie ist mittlerweile gut untersucht und auch die Langzeitergebnisse belegen deren Effektivität und Sicherheit. Der Vorteil gegenüber einer konventionellen Operation, die mit einer Sterblichkeitsrate von 5–20 % und einer Komplikationsrate von 30–50 % einhergeht, ist die geringe Belastung des Patienten ohne schwerwiegende Komplikationen. Bei bösartigen Veränderungen, die tiefer in die Wandschichten der Speiseröhre einwachsen (in die Submukosa) sollte jedoch eine chirurgische Therapie in einem erfahrenen chirurgischen Zentrum (mehr als 20 Speiseröhrenresektionen pro Jahr) durchgeführt werden, da in diesem Fall das Risiko einer Lymphknotenmetastasierung (etwa 30 %) gegeben ist.
+
+
+== Siehe auch ==
+Magenkarzinom
+Ösophaguskarzinom
+
+
+== Quellen ==
+J. R. Siewert: Chirurgie. Heidelberg 2001, ISBN 3-540-67409-8, S. 569ff.
+O. Pech, A. Behrens, A. May, L. Nachbar, L. Gossner, T. Rabenstein, H. Manner, E. Guenter, J. Huijsmans, M. Vieth, M. Stolte, C. Ell: Long-term results and risk factor analysis for recurrence after curative endoscopic therapy in 349 patients with high-grade intraepithelial neoplasia and mucosal adenocarcinoma in Barrett's oesophagus. In: Gut. (2008); 57(9), S. 1200–1206.
+C. Ell, A. May, O. Pech, L. Gossner, E. Guenter, A. Behrens, L. Nachbar, J. Huijsmans, M. Vieth, M. Stolte: Curative endoscopic resection of early esophageal adenocarcinomas (Barrett's cancer). In: Gastrointest Endosc. (2007); 65, S. 3–10.
+J. D. Birkmeyer, A. E. Siewers, E. V. Finlayson, T. A. Stukel, F. L. Lucas, I. Batista, H. G. Welch, D. E. Wennberg: Hospital volume and surgical mortality in the United States. In: N Engl J Med. (2002);346(15), S. 1128–1137.
+J. D. Birkmeyer, T. A. Stukel, A. E. Siewers, P. P. Goodney, D. E. Wennberg, F. L. Lucas: Surgeon volume and operative mortality in the United States. In: N Engl J Med. (2003);349(22), S. 2117–2127.

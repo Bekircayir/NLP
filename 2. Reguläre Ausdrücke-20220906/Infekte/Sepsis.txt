@@ -1,0 +1,161 @@
+Die Sepsis ist ein lebensbedrohlicher Zustand, der entsteht, wenn die körpereigenen Abwehrreaktionen gegen eine Infektion die eigenen Gewebe und Organe schädigen. Sie ist eine der schwersten Komplikationen von Infektionskrankheiten, die durch Bakterien, Viren, Pilze oder Parasiten ausgelöst wurden. Zu den häufigsten Infektionsquellen einer Sepsis gehören die Lungenentzündung, Infektionen des Magendarmtrakts und des Urogenitaltrakts, ferner auch Infektionen von Haut- und Weichteilgewebe, des zentralen Nervensystems und sogenannte katheterassoziierte Infektionen. Sepsis muss als Notfall behandelt werden.
+Eine Sepsis entsteht, wenn die körpereigenen Abwehrsysteme eine Infektion und deren Folgen nicht mehr lokal begrenzen können. Es kommt zu einer überschießenden Abwehrreaktion des Körpers, die das eigene Gewebe und Organe schädigt. Wird die Sepsis nicht rechtzeitig erkannt und behandelt, kann dies zum Mehrfachorganversagen und/oder einem septischen Kreislaufschock führen und tödlich enden. Häufige Symptome sind Fieber, mentale Veränderungen, schwere, schnelle Atmung, hohe Herzfrequenz und schweres Krankheitsgefühl. Bei Neugeborenen, sehr alten Menschen und Menschen mit geschwächtem Immunsystem kann jedoch auch eine Sepsis ohne offensichtliche Zeichen einer Infektion vorliegen und auch die Körpertemperatur kann normal oder erniedrigt sein. Ein erhöhtes Risiko für Sepsis haben Früh- und Neugeborene, Menschen in höherem Alter und Menschen mit einem geschwächten Immunsystem auf Grund von chronischen Erkrankungen, Diabetes mellitus, Krebs oder HIV.
+Die Intensivmedizin kann durch vorübergehenden Ersatz oder Unterstützung der Organfunktionen (Beatmung, Nierenersatztherapie, Kreislauftherapie, Gerinnungstherapie) kritische Phasen überbrücken. Trotzdem versterben ca. 25 % der Patienten mit Sepsis und 45 % der Patienten mit schwerer Sepsis unter maximaler Therapie. Der frühestmögliche Therapiebeginn ist entscheidend für das Überleben.
+Sepsis ist eine der häufigsten und kostenintensivsten Erkrankungen im stationären Sektor. Die Weltgesundheitsorganisation erklärte die Erkrankung daher 2017 zu einer der führenden Prioritäten in den Gesundheitssystemen der Mitgliedsstaaten, um Prävention, Diagnostik, Therapie, Erfassung und Nachsorge von Sepsispatienten zu verbessern.
+
+
+== Zum Begriff ==
+Der Begriff (altgriechisch σῆψις sēpsis „Fäulnis“) geht auf Hippokrates zurück. Umgangssprachlich, fachlich jedoch falsch, wird Sepsis oft als „Blutvergiftung“ bezeichnet und ist mit der Vorstellung verbunden, dass diese primär durch infizierte Wunden ausgelöst werde.
+
+
+== Epidemiologie ==
+2015 wurden in Deutschland 75.000 Sepsis-Todesfälle dokumentiert. Das sind mehr Todesfälle als die aufgrund von Lungen-, Darm-, Brust- und Prostatakrebs zusammen. Bei ca. 15 % der 2015 in Deutschland im Krankenhaus verstorbenen Patienten lag eine Sepsis vor. Diese Schätzungen sind jedoch eher noch zu niedrig angesetzt: Jüngste Studien zeigen, dass weniger als 50 % der anhand von Patientenakten identifizierten Patienten mit einer Sepsis in den offiziellen, von der WHO vorgegebenen Registern (International Classification of Diseases, ICD 10) zur Erfassung der Krankheitslast dokumentiert werden.Die auf Basis der Krankenhausentlassungsdiagnosen für Deutschland ermittelten Erkrankungshäufigkeiten ergeben 370 Sepsisfälle pro 100.000 Einwohner für das Jahr 2015, von denen ca. 158 die Kriterien für eine schwere Sepsis erfüllen. Die auf der Erfassung in den Krankenakten basierenden Hochrechnungen ergeben jedoch deutlich höhere Fallzahlen. In den USA sind dies 517 pro 100.000 Einwohner. Dies entspricht 1,67 Millionen Krankheits- und 260.000 Todesfälle in den USA. Die Extrapolation der Zahlen, die sich aus auf Krankenakten basierten Erhebungen in Schweden ergaben, legen für Europa ca. 4 Millionen Krankheits- und 678.000 Todesfälle nahe. Die Krankenhaussterblichkeit bei schwerer Sepsis ist in Deutschland mit 42 % im Vergleich zu Australien (18 %), England (32 %) und den USA (23 %) auffällig hoch.Im Jahr 2017 gab es ca. 49 Millionen Sepsis-Erkrankungen weltweit, von denen ca. 11 Millionen tödlich endeten. Mehr als 20 Millionen Betroffene waren Säuglinge und Kinder bis 5 Jahre und ca. 5 Millionen Kinder und Jugendliche zwischen 5 und 19 Jahren. 3 Millionen bzw. 450.000 verstarben an einer Sepsis. Die bisherigen Schätzungen basierten hauptsächlich auf Abrechnungsdaten von hospitalisierten Erwachsenen in sieben Ländern mit hohem Einkommen und gingen von jährlich 19,4 Millionen Sepsisfällen und 5,3 Millionen sepsisbedingten Todesfällen aus. In Südostasien und den südlich der Sahara gelegenen afrikanischen Ländern verursachten 2015 Infektionskrankheiten bzw. Sepsis bei Neugeborenen und Kindern unter 5 Jahren mehr als 50 % aller Todesfälle.
+
+
+== Ursachen ==
+In der WHO-Sepsis-Resolution „Verbesserung der Prävention, Diagnose und des klinischen Managements von Sepsis“ und dem begleitenden Bericht wird deutlich gemacht, dass Sepsis die gemeinsame, oft tödliche Endstrecke der meisten Infektionskrankheiten ist und sowohl Bakterien, Viren, Pilze, und Parasiten (z. B. Malariaerreger) eine Sepsis verursachen können. Es wird auch deutlich gemacht, dass
+
+Streptococcus pneumoniae, Haemophilus influenzae, Staphylococcus aureus, Escherichia coli, Salmonella spp. und Neisseria meningitidis die häufigsten bakteriellen Erreger sind,
+Sepsis bzw. septischer Schock häufig durch saisonale Influenza/Grippe-Viren, Dengue-Viren und andere hochgradig ansteckende meldepflichtige Erreger, wie Vogel- und Schweinegrippeviren, Coronaviren und in jüngster Zeit Ebola- und Gelbfieber-Viren bedingt sind und
+Sepsis sich häufig außerhalb des Krankenhauses aus der Verschlechterung häufiger und vermeidbarer Infektionen der Atemwege, des Harntrakts, des Bauchraums, der Haut und von Wunden entwickelt. Auch Infektionen des Gehirns, der Herzklappen und infizierte Implantate, wie Gefäß- und Gelenkprothesen sowie Gefäßkatheter und Venenverweilkatheter, können Ausgangspunkt für eine Sepsis sein.
+
+
+== Definitionen ==
+Nach der 2016 aktualisierten Definition gilt:
+
+Bis 1992 galt in Deutschland die Sepsisdefinition nach Hugo Schottmüller aus dem Jahr 1914, für die der Nachweis eines Infektionserregers in der Blutkultur Voraussetzung für die Diagnose Sepsis war:
+
+1992 erfolgte im Rahmen einer US-amerikanischen Konsensuskonferenz eine Sepsisdefinition, die auf dem Nachweis bzw. Verdacht auf eine Infektion und dem Vorliegen von mindestens zwei von vier Kriterien für eine sogenannte systemische Inflammationsreaktion (SIRS) basierte. Als SIRS-Kriterien gelten Fieber oder Untertemperatur, erhöhte Herzfrequenz, erhöhte Atemfrequenz und eine erhöhte oder erniedrigte Zahl von Leukozyten im Blutbild. Unterschieden wurde Sepsis ohne Organdysfunktion, schwere Sepsis (d. h. Sepsis mit mindestens einer Organdysfunktion) und der septische Schock. Diese 2009 noch einmal unwesentlich geänderten Definitionen wurden 2016 in einer dritten Konsensus-Konferenz dahingehend modifiziert, dass Voraussetzung für die Definition einer Sepsis nicht länger das Vorliegen von mindestens 2 der 4 SIRS Kriterien ist. Als Voraussetzung für Sepsis gilt das Vorliegen von mindestens einer Organdysfunktion, der Begriff schwere Sepsis wurde verlassen und der Begriff septischer Schock beibehalten. Konsequenterweise wurden auch die Begriffe Blutstrominfektion und Septikämie verlassen. Auf diese Definition wurde auch in der WHO-Sepsis-Resolution „Verbesserung der Prävention, Diagnose und des klinischen Managements von Sepsis“ Bezug genommen.
+
+
+== Pathophysiologie ==
+Die pathophysiologischen Reaktionen bei einer Sepsis sind im Wesentlichen durch die Art und Virulenz des die Infektion auslösenden Erregers und den Immunstatus bzw. die Abwehrreaktionen des Körpers (Wirtsantwort) auf den eindringenden Erreger bestimmt. Bei Menschen mit normaler Immunkompetenz ist die frühe Phase meist durch Zeichen der Hyperinflammation geprägt, die zu dem Begriff systemische Inflammationsreaktion – engl. abgekürzt SIRS – führte. Sehr schnell wurde jedoch deutlich, dass diese Reaktion bei immunkompetenten Patienten bereits in der Frühphase von einer immunmodulatorischen Gegenreaktion begleitet ist und als „Compensatory Anti-inflammatory Response Syndrome“ (CARS) bezeichnet wurde. In den ersten 24 Stunden nach Sepsisbeginn überwiegt die Hyperinflammation, während sich in den folgenden Tagen ein von einer Immunsuppression gekennzeichneter Immunstatus einstellen kann. Im Rahmen der Wirtsantwort kommt es nicht nur zu einer Stimulierung aller Faktoren des angeborenen und adaptiven Immunsystems, sondern es kommt auch zu einer komplexen Interaktion zwischen dem Immunsystem und dem Gerinnungssystem, das zu einer Stimulierung von prokoagulatorischen und antikoagulatorischen Faktoren des Gerinnungssystems führt und durch die Zeichen einer Verbrauchskoagulopathie mit einer disseminierten intravasalen Gerinnung und einer endothelialen Dysfunktion gekennzeichnet ist.Diese auch als Sepsis-Kaskade bezeichneten Reaktionen im Rahmen der Wirtsantwort werden durch eine Reihe von mikrobiellen Faktoren ausgelöst, die als pathogen-associated molecular patterns (PAMPs) zusammengefasst werden. Dazu gehören Lipopolysaccharide und Flagellin bei Gram-negativen Bakterien und Muramyl-Dipeptide aus der Zellwand von Gram-positiven Bakterien und auch bakterielle DNS. Diese PAMPs werden von den sogenannten pattern recognition receptors (PRRs) des angeborenen Immunsystems erkannt. In der Folge kommt es zur Stimulierung von Transkriptionsfaktoren wie Nuclear factor-kappa B und activator protein-1, die zu einer verstärkten Hochregulierung von pro- und antiinflammatorischen Zytokinen führen, dem sogenannten Zytokinsturm.Diese Wirtsantwort führt durch die folgenden Mechanismen zu dem für die Sepsis charakteristischen multiplen Organversagen: Die endotheliale Dysfunktion trägt über eine erhöhte Permeabilität der Lungenkapillargefäße zum Flüssigkeitsaustritt in die Alveolen der Lunge bei und führt zum Lungenödem bzw. zum Acute Respiratory Distress Syndrome (ARDS). Die Beeinträchtigung der zellulären Sauerstoffverwertung der Leber und die Beeinträchtigung der Transportersysteme für die Ausscheidung der Gallensalze führen zum akuten Leberversagen und der damit einhergehenden Gelbverfärbung der Haut. Die Störungen der Sauerstoffversorgung der Tubuluszellen der Nieren führen zum akuten Nierenversagen. Die Vasodilatation der venösen und arteriellen Gefäße und der intravasale Flüssigkeitsverlust durch die erhöhte Permeabilität der Mikrozirkulation führen zu einem Rückgang der Pumpleistung des Herzens und einem Abfall des Blutdrucks. Die negative inotrope Wirkung von einigen Zytokinen, die Störungen des Calciumtransports mit Beeinträchtigung der Produktion von Adenosintriphosphat (ATP) führen zur Schwächung der Funktion des Herzmuskels und können Herzversagen verursachen. Im Gastrointestinaltrakt kann die erhöhte Permeabilität der Darmschleimhaut zur Veränderung der Darmflora und zu mukosalen Blutungen sowie zu einem paralytischen Ileus führen. Im zentralen Nervensystem kommt es zu einer direkten Schädigung der Gehirnzellen und Störungen von Neurotransmittern, die die mentalen Veränderungen auslösen.
+
+
+== Diagnosekriterien ==
+Im Rahmen der neuen Sepsis-Definition wurde auch der Vorschlag zur Quantifizierung von sepsis-bedingten Organfunktionsstörungen gemacht. Hierzu wird zum Gebrauch auf der Intensivstation oder für klinische Sepsisforschung der sogenannte Sequential [Sepsis-related] Organ Failure Assessment Score – kurz SOFA – vorgeschlagen. Für jedes Organsystem können jeweils bis zu 4 Punkte für die Funktionseinschränkung der folgenden Organsysteme vergeben werden:
+
+Atmung (Horovitz-Quotient, PaO2/FiO2)
+Gerinnung (Thrombozytenzahl)
+Leber (Bilirubinwert)
+Herzkreislauf (Blutdruck bzw. Katecholaminbedarf)
+Gehirn (Glasgow Coma Scale)
+Niere (Kreatininwert bzw. Urinmenge)Eine Sepsis wird dann diagnostiziert, wenn es zu einem akuten Anstieg um zwei oder mehr Punkte auf obiger Skala bei gleichzeitig bestätigter oder vermuteter Infektion kommt. Zusätzlich wurde ein vereinfachter quick SOFA-Score (qSOFA) mit nur drei klinischen Anzeichen für eine Organfunktionsstörung vorgeschlagen, der helfen soll, Patienten außerhalb von Intensivstationen zu identifizieren. Die Kriterien für den qSOFA sind:
+
+Akute Bewusstseinsveränderungen
+Atemfrequenz ≥22/min
+systolischer Blutdruck ≤100 mmHg.Zur Verdachtsdiagnose Sepsis reicht per neuer Sepsisdefinition bei bestätigter oder vermuteter Infektion das Vorhandensein eines der 3 Symptome als ein deutlicher Warnhinweis für eine Sepsis. Bestehen zwei oder alle drei dieser Symptome ist die Gefährdung des Patienten besonders groß und eine sofortige medizinische Behandlung dringend geboten.
+Im Rahmen der Evaluierung dieses Scores hat sich gezeigt, dass der Score zwar für die Prognose den sog. SIRS-Kriterien überlegen ist, aber für die frühzeitige Identifizierung zu unspezifisch ist. Zur Früherkennung einer schweren Infektion bzw. einer frühen Sepsis sind die SIRS-Kriterien und/oder der sogenannte National Early Warning Score (NEWS), wie er im Vereinigten Königreich und anderen angelsächsischen Ländern Verwendung findet, besser geeignet.Es gibt kein einzelnes spezifisches Leitsymptom für Sepsis, deshalb muss der Verdacht für eine Sepsis auf Basis der Kombination von einzelnen klinischen Symptomen gestellt werden, die in unterschiedlicher Ausprägung und Häufigkeit vorliegen können.
+
+Nur wenigen ist bekannt, dass Sepsis ein lebensgefährlicher Notfall wie Herzinfarkt und Schlaganfall ist, der sofort behandelt werden muss.
+
+
+== Diagnosesicherung ==
+Die Verdachtsdiagnose einer Sepsis muss durch die ärztliche, klinische Untersuchung des Patienten gesichert und durch Unterstützung von bildgebenden Verfahren wie Ultraschall, Röntgen, Computertomografie (CT) oder Magnetresonanztomographie (MRT) versucht werden, den auslösenden Infektionsherd zu identifizieren. Zusätzlich ist es von großer Bedeutung, durch mikrobiologische Verfahren den auslösenden Infektionserreger zu finden. Weitere wichtige Maßnahmen zur Abklärung des Vorliegens einer Infektion sind labordiagnostische Blutuntersuchungen zur Bestimmung von Entzündungsparametern und Laborparametern, die auf Organfunktionsstörungen hinweisen. Von den mehr als hundert vorgeschlagenen Biomarkern einer Sepsis sind nur wenige ausreichend untersucht und haben bisher den Weg in den klinischen Alltag gefunden. Dazu gehören C-reaktives Protein, Procalcitonin und die Zytokine IL-6 und IL-8.Trotz Fortschritten von molekulardiagnostischen Techniken ist nach wie vor die klassische Bebrütung von Blutkultur und Materialien aus anderen Körperkompartimenten der Goldstandard für die Erregeridentifizierung bei Sepsis und Infektionen. Der Nachteil dieses Verfahrens besteht vor allem in seiner Langsamkeit; meist dauert die Erregeridentifizierung deutlich länger als 24 Stunden. Jedoch sind eine ganze Reihe von Verfahren in der Entwicklung und klinischen Evaluierung, die versprechen die Erregerdiagnostik, die eine wichtige Voraussetzung für eine effektive Sepsistherapie ist, schneller und sensitiver zu machen und darüber hinaus auch die Testung der Empfindlichkeit der Erreger gegenüber mikrobiellen Substanzen zu beschleunigen.Von den in der Klink derzeit eingesetzten Sepsismarkern ist Procalcitonin am umfassendsten evaluiert. Dabei hat sich gezeigt, dass es den Einsatz von Antibiotika zu reduzieren hilft und dies mit einer Verbesserung der Überlebenschancen einhergehen kann.
+
+
+== Therapie ==
+Rechtzeitige Diagnose und Therapie erhöhen die Überlebenschancen. Aktuelle internationale und nationale Behandlungsrichtlinien empfehlen eine Reihe von Kernmaßnahmen, die möglichst schnell bzw. innerhalb eine Stunde nach der Diagnosestellung erfolgen sollten. Die wichtigsten Elemente dieser Bündelstrategie sind:
+
+Blutabnahme für Blutkulturen vor der Antibiotikagabe und zur Bestimmung von Laktat im Blut
+Kalkulierte Therapie mit einem Breitbandantibiotikum
+Intravenöse Gabe von kristalloider Flüssigkeit bei Zeichen für einen Volumenmangel bzw. einer ungenügenden Durchblutung der Gewebe
+Gabe von Sauerstoff bei Anzeichen von SauerstoffmangelNeben der Antibiotika- und Flüssigkeitstherapie gehören zur Behandlung der Sepsis – wenn angezeigt – die Drainage von Abszessen und infizierten Flüssigkeitsansammlungen, die Entfernung von infizierten Kathetern und Implantaten und die chirurgische Herdsanierung wie z. B. die Entfernung einer entzündeten Gallenblase oder des Blinddarms und eine Unterstützung bzw. der Ersatz von ausgefallenen Organsystemen. Dazu gehören Nierenersatzverfahren bei Nierenversagen, künstliche Beatmung bei Lungenversagen und ggf. auch die Gabe von Blut oder Blutprodukten und eine adäquate Ernährung – vorzugsweise über eine Magensonde und wenn nötig auch intravenös.
+
+
+=== Adjunktive Therapien ===
+Bei schwerem septischen Schock wird auf Basis aktueller Studien und Metaanalysen auch eine begleitende Therapie mit Hydrocortison empfohlen, da diese den Bedarf an kreislaufstabilisierenden Katecholaminen reduzieren und dazu beitragen können, die Beatmungs- und Aufenthaltsdauer auf der Intensivstation zu reduzieren. Für die Effektivität einer Vielzahl anderer sogenannter adjunktiver, immunmodulatorischer Therapieverfahren gibt es keinen wissenschaftlich belastbaren Nachweis. Dies gilt auch für Verfahren zur Elimination von Endotoxin oder Zytokinen durch Endotoxinfilter, Hemoadsorptionsverfahren mit Zytokinadsorptionsfiltern und frühe Hämodialyse. Ältere Verfahren wie Early Goal-Directed Therapy sind obsolet.
+
+
+== Folgeerkrankungen und Langzeitfolgen ==
+Nach der Entlassung aus dem Krankenhaus erleidet etwa die Hälfte der Patienten mit Sepsis keine gravierenden Folgen. Etwa ein Drittel stirbt im folgenden Jahr und ca. ein Sechstel trägt schwere, langanhaltende gesundheitliche Schäden davon (z. B. funktionelle, kognitive und psychische Beeinträchtigungen wie Angststörungen, Depressionen oder posttraumatische Belastungsstörungen). Etwa 40 % der Patienten werden innerhalb von 90 Tagen nach der Entlassung erneut stationär aufgenommen. Zudem ist bei Sepsisüberlebenden das Risiko für eine erneute Infektion, akutes Nierenversagen und kardiovaskuläre Ereignisse erhöht.Folgeerkrankungen nach Sepsis stellen nationale Gesundheitssysteme vor eine erhebliche Herausforderung. Zudem können die Alltagsfähigkeiten und die Lebensqualität von Betroffenen durch Sepsisfolgen deutlich eingeschränkt sein. Durch das mangelnde Wissen über Sepsisfolgen fehlen zudem konkrete, sepsisspezifische Rehabilitationsangebote. Sofern Sepsisüberlebende in Reha-Einrichtungen behandelt werden, geschieht dies meist in Einrichtungen, die sich auf die Behandlung spezieller Organsysteme und Krankheitsfolgen von z. B. Herzinfarkt, Schlaganfall oder schweren Traumata spezialisiert haben.
+
+
+== Kosten ==
+Sepsis ist eine der häufigsten und kostenintensivsten Erkrankungen im stationären Sektor. Kostenfaktoren sind die häufigen Wiedereinweisungen und die langanhaltenden Krankheitsfolgen wie Langzeitbeatmung und Dialysepflichtigkeit, aber auch langfristige Arbeitsunfähigkeit und Frühberentung. Mit jährlichen Kosten in Höhe von 24 Milliarden Dollar steht Sepsis in den USA an Nummer eins bei den Krankenhausbehandlungskosten. In Deutschland wurden die direkten Behandlungskosten für Sepsis im ambulanten und stationären Bereich im Jahr 2013 auf 7.5 Milliarden Euro geschätzt. Die Kosten der langfristigen Folgen einer Sepsis sind wahrscheinlich deutlich höher. Derzeit liegen dazu aber keine Berechnungen für Deutschland vor.
+
+
+== Bedeutung der Vorbeugung und Risikofaktoren ==
+Die WHO geht in der Sepsisresolution davon aus, dass die Mehrzahl der sepsisbedingten Todesfälle vermeidbar sind. Die wesentlichen Elemente hierzu sind die Vermeidung von Infektionen durch Impfung und strikte Beachtung der Hygieneregeln im Krankenhaus sowie allen Behandlungs- und Pflegeeinrichtungen im Gesundheitswesen und bei der häuslichen Pflege. In stärker ressourcenlimitierten Ländern erfordert dies den Zugang zu sauberem Wasser und das Vorhandensein von sanitären Mindeststandards. Für alle Regionen der Welt gilt, dass durch Sepsisfrüherkennung und -behandlung sowie Zugang zu geeigneten Behandlungseinrichtungen die Sepsissterblichkeit erheblich reduziert werden kann.
+In Deutschland ist das Wissen zu Vorbeugung und Früherkennung von Sepsis gering. Eine repräsentative Befragung bei über 60-Jährigen im Jahr 2017 ergab, dass zwar 88 % den Begriff Sepsis kannten, doch Ursachen und Symptome der Erkrankung sind weitgehend unbekannt. Nur 17 % der Bundesbürger wissen, dass Sepsis durch Infektionen ausgelöst wird, gegen die man sich beispielsweise durch Impfungen gegen Pneumokokken und Influenza schützen kann. Dies erklärt teilweise die in Deutschland mit 31,4 % deutlich niedriger Impfquote gegen Pneumokokken im Vergleich zu den USA (63,6 %), England (69,8 %) und Australien (56,0 %). Auch die Impfquote gegen Influenza ist in Deutschland mit 31,4 % niedriger als in den USA (69,1 %), England (71,1 %) und Australien (74,6 %). Insbesondere für Risikogruppen von Sepsis, denen etwa 34,5 Millionen Bundesbürger zuzurechnen sind, gibt es spezifische Impfempfehlungen der Ständigen Impfkommission (STIKO) am RKI.Als Risikofaktoren für Sepsis gelten höheres Lebensalter, chronische Erkrankungen der Lunge, des Herzens, der Leber, der Nieren, Diabetes mellitus, Alkoholismus, die Behandlung mit immunsuppressiven Medikamenten und Milzlosigkeit. Krebs- und HIV-Patienten haben ebenfalls ein deutlich erhöhtes Infektions- und Sepsisrisiko.Auftreten und Krankheitsverlauf werden durch die Abwehrkräfte des Patienten und die Aggressivität (Virulenz) des verursachenden Krankheitserregers bestimmt. Chronische Krankheiten – wie chronisch obstruktive Lungenerkrankung, Krebs, Leberzirrhose, AIDS und andere Erkrankungen des Immunsystems – bringen ein erhöhtes Sepsisrisiko mit sich. Auch demografische und soziale Faktoren – wie (männliches) Geschlecht, Ernährung, Lebensstil (zum Beispiel Tabak- und Alkoholkonsum) und Armut – erhöhen die Anfälligkeit für Infektionen und Sepsis.
+
+
+== Internationale Strategien ==
+
+
+=== Die WHO-Sepsis-Resolution ===
+Im Jahr 2017 hat die Weltgesundheitsorganisation die Resolution „Verbesserung der Prävention, Diagnose und des klinischen Managements von Sepsis“ verabschiedet. Gründe dafür waren die enorme sepsis-bedingte Krankheitslast und die Erkenntnis, dass die Mehrzahl der Todesfälle vermeidbar ist. Auf globaler Ebene hat die WHO dieser Resolution eine hohe Priorität eingeräumt. Sie fordert ihre 194 Mitgliedsstaaten darin dringend auf, diese Forderungen in ihre nationalen Gesundheitsstrategien zu integrieren.Forderungen der WHO Sepsis-Resolution:
+Verbesserung der Früherkennung durch die Nutzung des Wortes Sepsis, Steigerung der Aufmerksamkeit und Aufklärung über die Frühsymptome von Sepsis in allen medizinischen und gesellschaftlichen Bereichen
+Steigerung der Impfraten bei Risikogruppen gegen die saisonale Grippe (Influenza), Pneumokokken und andere Infektionen, die zur Sepsis führen können
+Vermeidung von nosokomialen Infektionen im Krankenhaus, in Pflegeeinrichtungen und im ambulanten Bereich durch eine Verbesserung der Vorbeugungsmaßnahmen
+Optimierung der Therapie mit Antibiotika durch gezielten, zeitgerechten Einsatz
+Reduzierung von Antibiotikaresistenzen durch Vermeidung missbräuchlicher Verordnung
+Entwicklung effektiver Strategien zum Umgang mit Patienten, die mit multiresistenten Keimen infiziert sind, und effektives Management von Erregerausbrüchen multiresistenter Keime
+Weiterentwicklung effektiver Vorbeugungs- und Eindämmungsstrategien für Pandemien und Epidemien
+Nutzung und Verbesserung des ICD-Klassifizierungssystems, um die Entwicklung der Sepsishäufigkeit und -sterblichkeit sowie der Antibiotikaresistenz zu verfolgen
+Förderung der Sepsisforschung und Entwicklung von innovativen, effektiven Diagnostika und Therapeutika
+Schaffung von geeigneten Versorgungsstrukturen für Sepsisüberlebende
+
+
+=== World Sepsis Day / Welt-Sepsis-Tag ===
+Seit 2012 findet jährlich am 13. September der Welt-Sepsis-Tag statt, um auf die Erkrankung und deren schwerwiegende Folgen aufmerksam zu machen. Hierzu finden zahlreiche internationale Aktionen sowie alle zwei Jahre ein web-basierter World Sepsis Congress zum Thema Sepsis statt. Der Welt-Sepsis-Tag wird von der Global Sepsis Alliance koordiniert.
+
+
+=== Global Sepsis Alliance ===
+Die Global Sepsis Alliance (GSA) vereint die Mitglieder der globalen Sepsis-Gemeinschaft, in der sich über 100 Betroffenenorganisationen und medizinische Fachgesellschaften zahlreicher Fachgebiete im Kampf gegen die Sepsis zusammengeschlossen haben. Sie war die treibende Kraft für das Zustandekommen der WHO-Sepsis-Resolution.
+Unter dem Dach der GSA wurden zudem die African Sepsis Alliance (ASA) und die European Sepsis Alliance (ESA) gegründet, die sich jeweils aus den Mitgliedern der Region/des Kontinents zusammensetzen.
+
+
+== Nationale Strategien ==
+Da in Deutschland jährlich 15.000–20.000 Patienten als vermeidbar gelten, fordert ein breites Bündnis von über 30 medizinischen Fachgesellschaften, Berufsverbänden, Fachexperten und Patientenorganisationen einen Nationalen Sepsisplan unter der Regie der Sepsis-Stiftung und unter der Schirmherrschaft des Aktionsbündnisses Patientensicherheit (APS) einen Nationalen Sepsisplan. Im Juni 2018 hat die Gemeinsame Konferenz der Gesundheitsminister (GMK) das Bundesministerium für Gesundheit (BMG) aufgefordert am Robert Koch-Institut eine Expertenkommission einzurichten, um über die Umsetzung der Forderungen aus der WHO-Resolution zu beraten. Konkrete Schritte hierfür sind jedoch bisher nicht erfolgt.
+Da in Deutschland die Sepsissterblichkeit im Verhältnis zu anderen einkommensstarken Ländern hoch ist und der wissenschaftliche Beleg für die Effektivität von Qualitätsverbesserungsmaßnahmen auf Länder- und Krankenhausebene besteht, haben 2017 die Patientenvertreter im Gemeinsamen Bundesausschuss (G-BA) mit Unterstützung der Sepsis-Stiftung einen Antrag für eine bessere Qualitätssicherung beim G-BA eingebracht. Inzwischen wurde das Institut für Qualitätssicherung und Transparenz im Gesundheitswesen (IQTIG) vom G-BA beauftragt, Maßnahmen zur Entwicklung eines Qualitätssicherungsverfahrens bei der Behandlung der Sepsis zu entwickeln.
+
+
+== Patientenorganisationen, Fachgesellschaften und Forschungsverbünde ==
+In Deutschland haben sich 2005 weltweit erstmalig Menschen, die von Sepsis betroffen sind oder waren, zusammengeschlossen, woraus sich die Deutsche Sepsis-Hilfe e. V. gebildet hat. 2012 wurde die Sepsis Stiftung als gemeinnützige Organisation in Jena gegründet, die sich zum Ziel gesetzt hat, „Todesfälle durch Sepsis nachhaltig zu reduzieren“. Dafür engagiert sie sich für Forschung und Wissenschaft sowie für Aufklärung und Prävention. Die Gründungsmitglieder der Sepsis Stiftung waren die Deutsche Sepsis-Gesellschaft und das Universitätsklinikum Jena. Unter dem Dach der Sepsis-Stiftung arbeitet das ehemalige Kompetenznetzwerk für klinische Sepsisforschung „SepNet“ als unabhängige Studiengruppe. Die Sepsis-Hilfe e. V. ist im Kuratorium der Sepsis Stiftung vertreten. Die Deutsche Sepsis-Gesellschaft (DSG) ist eine medizinische Fachgesellschaft, die sich zum Ziel gesetzt hat, „das Verständnis für das Krankheitsbild Sepsis sowohl in der Öffentlichkeit als auch in der medizinischen Fachwelt (zu) bilden und schärfen“. Die DSG wurde 2001 gegründet und hält alle 2 Jahre den Weimarer Sepsis-Update Kongress. Die Sepsis Hilfe e. V., die Sepsis Stiftung und die Deutsche Sepsis-Gesellschaft sind Mitgliedsorganisationen der Global Sepsis Alliance.
+Obwohl die Sepsis für viele Facharztgruppen ein relevantes Problem ist, wird Sepsis von keiner Medizindisziplin als Schwerpunktaufgabe begriffen.
+
+
+=== Forschungsverbünde und Fachgesellschaften ===
+Center for Sepsis Control and Care (CSCC)
+Mitteldeutsche Sepsis Kohorte (MSC)
+Deutsches Qualitätsbündnis Sepsis (DQS)
+Deutsche Sepsis-Gesellschaft (DSG)
+Europäische Gesellschaft für Intensivmedizin (ESICM)
+Internationales Sepsis-Forum (ISF)
+Forschungsbereich „Infektionen und Sepsis“ im Genomforschungsnetz
+Österreichische Sepsis-Gesellschaft / Sepsisnetz Österreich
+
+
+=== Weitere Organisationen und Verbünde auf internationaler Ebene ===
+National Health Service, der in enger Kooperation mit Betroffenenorganisationen auch Laien und Schulkinder über die Vorbeugungsmöglichkeiten und Frühsymptome einer Sepsis aufklärt
+Centers for Disease Control and Prevention (CDC)
+UK Sepsis Trust
+Sepsis Alliance
+Rory Staunton Foundation
+
+
+== Siehe auch ==
+Bei der Abklärung folgender Krankheiten (bzw. Syndrome) ist auch an eine Sepsis zu denken:
+
+Akutes Abdomen
+Lungenentzündung
+Harnwegsinfekt
+Meningitis
+
+
+== Literatur ==
+Marianne Abele-Horn: Antimikrobielle Therapie. Entscheidungshilfen zur Behandlung und Prophylaxe von Infektionskrankheiten. Unter Mitarbeit von Werner Heinz, Hartwig Klinker, Johann Schurz und August Stich, 2., überarbeitete und erweiterte Auflage. Peter Wiehl, Marburg 2009, ISBN 978-3-927219-14-4, S. 36–40.
+
+
+== Weblinks ==
+
+Deutsche Sepsis-Hilfe – Die international erste und bis dato einzige Anlaufstellen für Sepsis-Betroffene, -angehörige und -hinterbliebene ist. Der gemeinnützige Verein informiert laiengerecht und zu allen Fragen bei/nach Sepsis. Für Hilfesuchende wurde zudem ein Info-Telefon eingerichtet.
+Deutsche Sepsis-Gesellschaft – Die medizinische Fachgesellschaft zielt auf ein besseres Verständnis in der Öffentlichkeit und in der Medizin. Sie publizierte u. a. die Leitlinien zu Sepsis, organisiert Weiterbildungen, wie auch den Internationalen Sepsis-Kongress in Weimar und informiert über das Krankheitsbild der Sepsis.
+SepNet Studiengruppe – Die Studiengruppe kann als Weiterführung des Kompetenznetzwerkes Sepsis (SepNet) angesehen werden. Sie führt medizinische Studien zur Diagnose und Therapie der Sepsis durch.
+Center for Sepsis Control and Care (CSCC) Das integrierte Forschungs- und Behandlungszentrum zu Sepsis, welche durch das Bundesministerium für Bildung und Forschung (BMBF) gefördert wird.
+Sepsis-Stiftung
+Viel mehr als rote Streifen. wissenschaft.de, 10. Januar 2009
+
+
+== Einzelnachweise ==

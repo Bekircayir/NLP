@@ -1,0 +1,52 @@
+Das Kartagener-Syndrom, auch Kartagener-Trias genannt, ist ein angeborenes Syndrom mit seitenverkehrter Anlage der inneren Organe (Situs inversus), Bronchiektasen und Unterentwicklung oder Nichtausbildung der Nasennebenhöhlen und Warzenfortsatzzellen sowie Nasenpolypen, einhergehend mit chronischer polypöser Nasennebenhöhlen-Entzündung (Sinusitis). Die Bewegung des Flimmerepithels (der Cilien) in den Atemwegen ist gestört. Daneben kann wegen einer möglichen Bewegungsstörung der Samenzellen eine verminderte Fruchtbarkeit (Fertilität) vorliegen. Das Kartagener-Syndrom tritt häufig im Rahmen einer primären ciliären Dyskinesie (PCD) auf.
+Benannt ist das Syndrom nach dem Internisten Manes Kartagener (1897–1975), der dem Lehrkörper der medizinischen Fakultät Zürich angehörte, sich insbesondere der Erforschung der Bronchiektasen widmete und das Syndrom 1933 beschrieben hatte.
+
+
+== Vorkommen ==
+Die Häufigkeit (Prävalenz) liegt bei 1:15.000 bis 20.000. In Deutschland gibt es etwa 4.000 Patienten, davon etwa 900 im Kindes- und Jugendalter.
+
+
+== Ätiologie (Krankheitsursache) ==
+Die primäre ciliäre Dyskinesie ist eine angeborene Erkrankung. Sie wird autosomal-rezessiv vererbt: Kinder erkranken nur dann, wenn sie von jedem Elternteil ein verändertes Gen erben. Auf Chromosom 5 konnte ein Genort lokalisiert und die verantwortlichen Gene (DNAH5 und DNAH11 kodieren für Untereinheiten des Dynein-Komplexes) identifiziert werden.
+Die Flimmerhärchen (Zilien) des Epithels der Atmungsorgane (Nasenschleimhaut, Bronchien und Lunge) sind aufgrund einer fehlenden Untereinheit des Motorproteins Dynein, das für die Beweglichkeit der Mikrotubuli sorgt, geschädigt. Durch den fehlenden Schleimtransport fehlt die Reinigung dieser Organe und es treten chronische Entzündungen auf.
+Der Situs inversus beim Kartagener-Syndrom ist durch den fehlenden Schlag der Flimmerhärchen (Zilien) auf Zellen im Bereich des Primitivknotens während der Embryonalentwicklung bedingt. Diese Flimmerhärchen erzeugen normalerweise einen nach links gerichteten Flüssigkeitsstrom, der die Festlegung der Links-Rechts-Achse des Embryos und damit auch die Links-Rechts-Asymmetrie des menschlichen Körpers bewirkt. Fehlt dieser Flüssigkeitsstrom, erfolgt die Festlegung von Links und Rechts zufällig, weshalb in circa der Hälfte der Fälle einer PCD das vollständige Bild eines Kartagener-Syndroms mit Situs inversus vorliegt.
+
+
+== Beschwerden und Symptome ==
+Schon beim Säugling besteht ein auffallender Husten. Es kommt zu wiederkehrenden Infekten der oberen und unteren Atemwege, einschließlich der Nasennebenhöhlen (Sinusitis). Auch Mittelohrentzündungen (Otitis media) sind häufig.
+Durch die ständigen Infekte bilden sich Aussackungen an den Bronchien (Bronchiektasen). Auch Bluthusten kann auftreten, später – ähnlich wie bei der Mukoviszidose – ein Sauerstoffmangel (Hypoxämie) mit typischen Anzeichen (Leistungsschwäche oder Trommelschlägelfinger mit Uhrglasnägeln) und als dessen Folge Lungenhochdruck und Rechtsherzversagen.
+Da auch die Bewegung der Cilien in den Eileitern gestört ist, kommt es bei Frauen vermehrt zu Eileiterschwangerschaften.
+
+
+== Diagnostik (Krankheitserkennung) ==
+Bei Fällen ohne Situs inversus ist die Krankheit nicht leicht zu erkennen. In der Luft der Nasenhöhle kann als Suchtest Stickstoffmonoxid (NO) gemessen werden, das bei PCD noch stärker erniedrigt ist als bei einer cystischen Fibrose. Bei schweren chronischen Verlaufsformen von Bronchitis und Sinusitis müssen zur Sicherung der Diagnose PCD aufwändige Untersuchungen durchgeführt werden. An entsprechend ausgerüsteten Zentren stehen insbesondere zur Verfügung:
+
+elektronenmikroskopische Untersuchung einer Gewebeprobe (Biopsie)
+Cilienschlaganalyse
+Antikörper-Nachweis des Gens DNAH5Etwa ein Drittel der Fälle wird erst im Erwachsenenalter erkannt.
+
+
+== Therapie ==
+Die Behandlung entspricht im Wesentlichen dem Vorgehen bei chronischer Bronchitis oder Sinusitis (physikalische Therapie, Schleimlösung, Antibiotika, Polypentfernung usw.)
+
+
+== PCD und Kartagener-Syndrom bei Tieren ==
+PCD kommt gelegentlich auch bei Haushunden vor, wobei in etwa der Hälfte der Fälle auch ein Situs inversus, also ein Kartagener-Syndrom, beobachtet wird. Häufiger betroffene Hunderassen sind English Springer Spaniel, Bobtail, Shar Pei und Bichon Frisé. Katzen sind sehr selten betroffen.
+Die Symptome können nur schwach ausgebildet sein und sich mit dem Alter verschlechtern. Typische Beschwerden sind anhaltender schleimig-eitriger Nasenausfluss, produktiver Husten, verminderte Leistungsfähigkeit und Dyspnoe. Die Therapie erfolgt symptomatisch wie beim Menschen.
+Schneckenkönige bilden ihr im Gegensinn gedrehtes Gehäuse und gleichzeitig vorkommenden Situs inversus aus demselben Grund (fehlende Untereinheit des Motorproteins Dynein, Bewegungsstörung der Cilien) aus.
+
+
+== Siehe auch ==
+Kartagener Syndrom & Primäre Ciliäre Dyskinesie (Verein)
+
+
+== Literatur zur Geschichte des Syndroms ==
+Stefan Schriml: Studien zur Geschichte des Kartagener-Syndroms und des Immotile-Cilia-Syndroms. Medizinische Dissertation Würzburg 1991.
+
+
+== Weblinks ==
+Kartagener-Syndrom. In: Online Mendelian Inheritance in Man. (englisch)
+Bundesverband KS & PCD e. V.
+
+
+== Einzelnachweise ==

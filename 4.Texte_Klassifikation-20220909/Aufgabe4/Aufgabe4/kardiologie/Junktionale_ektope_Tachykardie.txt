@@ -1,0 +1,16 @@
+Die junktionale ektope Tachykardie (JET) ist eine seltene Herzrhythmusstörung, welche insbesondere postoperativ nach kardiochirurgischen Eingriffen, besonders im Kindesalter, vorkommt.
+
+
+== Ätiologie ==
+Der JET liegt zumeist eine Reizung des Erregungsleitungssystems, insbesondere des Atrioventrikularknotens zugrunde. Die Tachykardie geht daher vom Erregungsleitungssystem aus.
+
+
+== Diagnostik ==
+Die Diagnosestellung erfolgt über das EKG. Hier zeigt sich typischerweise eine Tachykardie mit schmalen QRS-Komplexen. Die Erregung von Herzvorhöfen und Herzkammern ist dissoziiert.
+
+
+== Therapie ==
+Postoperativ kann häufig die Tachykardie schon durch eine milde Hypothermie terminiert werden. Ansonsten gilt Amiodaron als Mittel der Wahl. Auch die Nutzung eines speziell modifizierten passageren Herzschrittmachers zur R-Zacken-abhängigen Vorhoferregung ist möglich. Insgesamt variiert die Therapie der JET zwischen den einzelnen kardiochirurgischen Abteilungen stark.
+
+
+== Einzelnachweise ==

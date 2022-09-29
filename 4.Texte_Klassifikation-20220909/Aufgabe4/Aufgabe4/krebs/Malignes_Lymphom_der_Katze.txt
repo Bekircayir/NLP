@@ -1,0 +1,77 @@
+Das maligne Lymphom der Katze (Syn. felines Lymphosarkom) ist eine bösartige (maligne) Tumorerkrankung bei Katzen (Felidae), bei der sich zumeist solide Tumoren in den lymphatischen Organen (Lymphosarkome) bilden. Es ist die häufigste Tumorerkrankung bei Hauskatzen, etwa ein Drittel aller Neoplasien sind bei diesen maligne Lymphome. Hauskatzen sind innerhalb der bislang untersuchten Arten am häufigsten von dieser speziellen Tumorform betroffen. Die Erkrankung ist vergleichbar mit den Non-Hodgkin-Lymphomen des Menschen. Das klinische Bild ist sehr variabel und hängt von der Lokalisation und Größe des Tumors ab. Die Heilungsaussicht mit einer Chemotherapie ist nicht immer befriedigend, bei malignen Lymphomen des Wirbelkanals ist sie schlecht.
+
+
+== Ätiologie ==
+Ein möglicher Auslöser des malignen Lymphoms ist das feline Leukämievirus (FeLV), ein Retrovirus. Nach einer schottischen Studie sind in Europa aber nur ein Drittel der betroffenen Katzen FeLV-positiv, in Nordamerika dagegen 70 %. Jedoch lässt sich auch bei den meisten der seronegativen Katzen ein für FeLV typisches Antigen, das sogenannte FOCMA (feline oncornavirus-associated cell membrane antigen), nachweisen. Es wird vermutet, dass bei der Mehrzahl der Fälle der Organismus in der Lage war, das Virus zu eliminieren, allerdings erst nachdem das Virus eine maligne Transformation der lymphatischen Zellen ausgelöst hat.
+In Abhängigkeit vom Vorhandensein eines FeLV-Antikörper-Titers ergibt sich eine zweigipflige (bimodale) Altershäufigkeit. Während die meisten Erkrankungen bei FeLV-positiven Tieren im Alter von 3 Jahren auftreten, liegt das mittlere Alter bei FeLV-negativen Tieren bei 7 Jahren. Prinzipiell sind alle Katzenrassen empfänglich. Mit dem Rückgang der FeLV infolge Impfungen ist das Auftreten maligner Lymphome jedoch nicht zurückgegangen. Vor allem bei älteren Tieren sind nach aktuellen Studien nur noch wenige Tiere mit einem malignen Lymphom auch FeLV-positiv. In jüngerer Zeit treten vor allem Lymphome im Darm auf, Zusammenhänge mit entzündlichen Darmerkrankungen und Katzenfutter und chronischen Entzündungen werden augenblicklich diskutiert.
+Ein weiteres katzenspezifisches Virus, das feline Immundefizienz-Virus (FIV) wird in deutlich geringerem Ausmaß ebenfalls mit der Entstehung von malignen Lymphomen in Zusammenhang gebracht. Auch eine kombinierte Wirkung beider Viren wird diskutiert.
+
+
+== Einteilung ==
+Für das maligne Lymphom sind mehrere Einteilungsschemata möglich, die auf unterschiedlichen Kriterien beruhen.
+Nach der Lokalisation der Tumoren findet ein modifiziertes WHO-Schema Anwendung. Die Häufigkeit der einzelnen Formen ist regional unterschiedlich. Die folgende Liste ist nach der Anzahl der weltweit berichteten Fälle geordnet.
+
+Mediastinales malignes Lymphom: Hier liegt der Tumor im Mittelfell (Mediastinum).
+Gastrointestinales malignes Lymphom: Hier sind Magen (lat. Gaster) und Darm (Intestinum) Sitz des Primärtumors.
+Peripheres malignes Lymphom: Bei dieser Form sind die peripheren Lymphknoten betroffen.
+Leukämische Leukose: Bei dieser Form kommt es zu einer Vermehrung der weißen Blutzellen im Blut (Leukämie).
+Sonstige maligne Lymphome: In diese Gruppe werden Lymphosarkome eingeordnet, die nicht in einem lymphatischen Organ, sondern beispielsweise in der Haut, im Zentralnervensystem oder der Niere lokalisiert sind.Nach der Rappaport-Einteilung unterscheidet man gut oder schlecht differenzierte, knotenförmige (noduläre) oder diffuse sowie großzellig-histiozytäre und kleinzellig-lymphozytäre maligne Lymphome.
+Nach der Dignität werden geringgradig (etwa 10 %), mittelgradig (35 %) und hochgradig maligne (55 %) Lymphome unterschieden.
+Nach den Ausgangszellen werden T-Zell-Tumoren, die vermutlich den Hauptteil stellen, und B-Zell-Tumoren unterschieden. Letztere sind vor allem bei FIV-assoziierten und gastrointestinalen malignen Lymphomen anzutreffen. Eine genauere Aussage kann hier allerdings noch nicht erfolgen, weil die wenigsten Studien molekulare Marker für diese Lymphozyten-Untertypen verwendeten.
+
+
+== Klinik ==
+
+
+=== Klinische Stadien ===
+Nach dem Ausmaß der Erkrankung und der lokalisationsabhängigen Prognose unterscheidet man 5 Stadien, wobei das Stadium I die beste, das Stadium V die schlechteste Prognose hat.
+
+
+=== Mediastinales malignes Lymphom ===
+Ein mediastinales malignes Lymphom geht von den lymphatischen Organen im Mittelfell aus. Häufig ist es der Thymus, aber auch die Mediastinal- (Lymphonodi mediastinales) oder Brustbeinlymphknoten (Lymphonodi sternales) können Ausgangspunkt sein. Diese Form tritt besonders bei den jüngeren, FeLV-positiven Tieren auf.
+Klinisch äußern sich diese Lymphome in allgemeiner Schwäche und Anorexie. Infolge der Einengung der Lungen und der Luftröhre in Atemnot oder erhöhter Atemfrequenz. Infolge der Einengung der Speiseröhre kann Regurgitieren oder Trinkunlust auftreten. Die Schleimhäute können blass oder aufgrund eines Sauerstoffmangels bläulich verfärbt sein (Zyanose). Bei der Perkussion des Brustkorbs können Veränderungen auftreten.
+Eine Röntgenuntersuchung zeigt eine Verschattung im präkardialen (vor dem Herz befindlichen) Mittelfell. Differentialdiagnostisch müssen hier Flüssigkeitsansammlungen (Hydro-, Pyo-, Chylothorax, Feline infektiöse Peritonitis) und Zwerchfellhernien ausgeschlossen werden. Eine Ultraschalluntersuchung kann zur Darstellung des Tumors dienlich sein, vor allem wenn er mit einer Flüssigkeitsansammlung kombiniert ist.
+Eine Diagnose ist anhand einer Biopsie des Tumors mittels Feinnadelaspiration und anschließender zytologischer Untersuchung möglich.
+
+
+=== Gastrointestinales malignes Lymphom ===
+In diese Gruppe werden Lymphosarkome des Magen-Darm-Kanals oder der dazugehörigen Lymphknoten (Lymphocentrum coeliacum, mesentericum craniale und caudale) eingeordnet. Einige Autoren ordnen auch Lymphosarkome der Leber in diese Gruppe ein. Sie sind bei FeLV-positiven Tieren eher selten (10 % der Fälle), bilden aber die häufigste Lokalisation bei älteren Tieren.
+Das Erscheinungsbild ist überaus vielfältig. Hochdifferenzierte Formen stammen aus den intraepithelialen Lymphozyten der Darmschleimhaut, können diffus im gesamten Darm verteilt sein und lassen sich oft nur schwer von chronisch-entzündlichen Darmerkrankungen unterscheiden (kleinzelliges, low-grade Lymphom). Den gleichen Ursprung haben oft auch von der Zellgröße mittelgroße (intermediäre) Lymphome; beide Formen werden daher auch als epitheliotrop bezeichnet. Dagegen liegt der Ursprung der hochgradigen (high-grade) Formen in den Lymphozyten der Submukosa der Darmschleimhaut und bildet häufiger solide Tumoren aus. Eine weitere Form geht von großen granulierten Lymphozyten der Submukosa aus und wird daher als LGL-Form (large granular lymphocytes) bezeichnet. Etwa 20 % der Fälle betreffen den Magen, die übrigen den Darm. Während high-grade-Lymphome oft B-Zell-Lymphome sind, findet sich unter den intermediären und den low-grade-Lymphomen auch ein hoher Anteil an T-Zell-Typen.Das klinische Bild hängt von der Lokalisation ab. Neben Fressunlust und Abmagerung kann Erbrechen (v. a. bei soliden Tumoren), Durchfall (diffuse) und bei Blutungen auch Anämie auftreten.
+Größere solide Tumoren können unter Umständen bereits durch die Bauchwand ertastet werden. Weitere Hinweise können eine Sonografie, eine Endoskopie oder eine Bauchhöhleneröffnung geben. Die Diagnose wird wiederum durch Biopsie und Zytologie gestellt.
+
+		
+		
+		
+		
+
+
+=== Peripheres malignes Lymphom ===
+Beim peripheren malignen Lymphom (auch multizentrische Leukose) sind die Lymphknoten außerhalb der Körperhöhlen betroffen. Diese Lokalisation ist bei Katzen, im Gegensatz zum malignen Lymphom bei Hunden, selten. Klinisch äußert sich die Erkrankung unspezifisch, es treten zumeist schmerzlose Vergrößerungen der Lymphknoten auf. Später können Metastasen in Leber, Milz und Knochenmark auftreten.
+Die Diagnose erfolgt durch Biopsie oder Entfernung des ganzen Lymphknotens und anschließender histologischer Untersuchung.
+
+
+=== Leukämische Leukose ===
+
+Bei der leukämischen Leukose (oder Lymphoid-leukämischen Form) ist primär das Knochenmark betroffen und entartete Lymphozyten zirkulieren im Blut (Leukämie). Fieber, Schwäche, Anorexie, Gelbsucht, Fieber, Blutarmut (Anämie) und blasse Schleimhäute sind häufig.
+
+
+=== Sonstige maligne Lymphome ===
+Maligne Lymphome der Niere machen etwa 15 % der Fälle aus und treten vor allem bei älteren Tieren auf. Die Blutwerte für Harnstoff und Kreatinin sind erhöht. In fortgeschrittenen Fällen kommt es zu einem Nierenversagen.
+Maligne Lymphome des Zentralnervensystems kommen meist bei FeLV-positiven jüngeren Tieren vor oder in Anschluss an eine Chemotherapie von Nieren-Lymphosarkomen. Die Tumoren treten vor allem im Wirbelkanal auf und das klinische Bild hängt sehr stark von der Lokalisation und vom Ausmaß der Kompression des Rückenmarks ab. Die neurologischen Ausfälle reichen von Paresen, Ataxien bis hin zu Hyperästhesien. Röntgenologisch lassen sich zumeist keine Veränderungen der Wirbel nachweisen, allenfalls eine Myelografie kann Hinweise auf einen raumfordernden Prozess bringen. Differentialdiagnostisch sind eine Reihe von anderen zentralnervösen Erkrankungen auszuschließen, wobei man sich am besten am VETAMIN-D-Schema orientiert.
+Maligne Lymphome der Haut sind selten und treten allenfalls bei sehr alten Katzen (>11 Jahre) auf. In der Oberhaut können sogenannte Pseudo-Abszesse auftreten oder auch tieferliegende und eher diffus verteilte Ansammlungen von Lymphozyten.
+Weitere mögliche Lokalisationen maligner Lymphome sind die Nasenhöhle, die Bindehaut und das Auge.
+
+
+== Therapie ==
+Bei FeLV-positiven Tieren ist ein Therapieversuch nur sinnvoll, wenn eine von anderen Katzen getrennte Haltung möglich ist (einzeln lebende Wohnungskatze), da diese Tiere ansonsten eine Gefahr für die Katzenpopulation darstellen.
+Als Mittel der Wahl hat sich die Chemotherapie erwiesen. Im Gegensatz zur Humanmedizin zeigt diese Behandlung nur geringe Nebenwirkungen und wird von den Katzen gut vertragen. Bislang wurden verschiedene Protokolle für die Chemotherapie vorgeschlagen, umfassende klinische Studien zur Vergleichbarkeit stehen aber noch aus. Ein verbreitetes Behandlungsschema ist die Kombination aus Vincristin, Cyclophosphamid und Prednisolon. Mit diesem sogenannten COP-Protokoll konnten Remissionsraten von bis zu 80 % erreicht werden, besonders erfolgversprechend ist es bei mediastinalen und peripheren malignen Lymphomen. Nach Remission wird zumeist eine monatliche Behandlung mit Doxorubicin oder Idarubicin zur Verhinderung von Rezidiven durchgeführt. Beim intermediär-großzelligen gastrointestinalen Lymphom erwies sich in 50 % der Fälle auch Lomustin als wirksam, bei guter Verträglichkeit. Der Erfolg einer Chemotherapie ist aber nicht vorhersehbar und die Remissionsraten sind geringer als bei Hunden.Für die Therapie kleinzelliger Lymphome des Magen-Darm-Traktes hat eine weniger aggressive Therapie mittels Chlorambucil und Prednisolon eine vergleichsweise günstige Prognose.Lokale Therapien (chirurgische Entfernung, Bestrahlung) können bei einzelnen Tumoren angezeigt sein, aber auch hier ist anschließend eine Chemotherapie zur Rezidivverhinderung angebracht.
+Die Behandlung maligner Lymphome des Wirbelkanals ist bislang wenig erfolgreich.
+
+
+== Literatur ==
+K. P. Richter: Feline gastrointestinal lymphoma. Veterinary Clinics of North America: Small Animal Practice. Band 33, September 2003, S. 1083–1098. PMID 14552162.
+G. H. Shelton: Feline immunodeficiency virus and feline leukemia virus infections and their relationships to lymphoid malignancies in cats: a retrospective study (1968–1988). In: Journal of Acquired Immune Deficiency Syndromes. Band 3, Nr. 6, 1990, PMID 2159993, S. 623–630.
+E. Teske: Hämatopoietische Tumoren. In: M. Kessler (Hrsg.): Kleintieronkologie. Enke Verlag, Stuttgart 2013, ISBN 978-3-8304-1137-6, S. 502–510.
+
+
+== Einzelnachweise ==

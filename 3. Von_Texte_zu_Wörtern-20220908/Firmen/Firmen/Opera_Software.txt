@@ -1,0 +1,22 @@
+Die Opera Software ist der Entwickler der Webbrowser Opera, Opera Mini und Opera Coast. Die Firma betreibt außerdem den Mobilanzeigen-Dienst Opera Mediaworks. Der Hauptsitz des Unternehmens befindet sich in der norwegischen Hauptstadt Oslo.
+
+
+== Geschichte ==
+Die Gesellschaft „Opera Software“ wurde am 30. August 1995 von Geir Ivarsøy und Jon Stephenson von Tetzchner gegründet. Die beiden waren bis dahin Mitarbeiter in der Forschungsabteilung von Telenor in Kjeller gewesen, wo sie für Telenor eine Vorstufe des Browsers mit der Projektbezeichnung „Nettleser MultiTorg Opera“ entwickelt hatten. Als dieses Projekt jedoch von Telenor aus Kostengründen reduziert und auf unbestimmte Zeit verschoben wurde, gelang es den beiden, die Rechte an dem Programm zu übernehmen und ihre eigene Firma zu starten, um das Programm weiterzuentwickeln. Bereits 1997 veröffentlichte die neue Gesellschaft ihre erste offizielle Version von Opera, 2.1 für Windows.
+Seit dem 11. März 2004 werden die Aktien der Gesellschaft an der Börse in Oslo gehandelt. Damals hatte das Unternehmen knapp 150 Mitarbeiter. Neben dem Büro in Norwegen unterhielt es zwei Büros in Schweden. Im Jahr 2005 kamen Büros in China, Japan und den USA hinzu. Im folgenden Jahr wurden weitere Büros in Indien, Polen und Südkorea eröffnet. Ende 2008 hatte das Unternehmen 627 Mitarbeiter.
+Schon im Jahr des Börsengangs trug der Bereich der Personal Computer nur zu einem Drittel zum Umsatz des Unternehmens bei, während der Rest des Umsatzes bei anderen internetfähigen Geräten wie Mobiltelefonen, Spielkonsolen und Set-Top-Boxen gemacht wurde.
+Anfang Januar 2010 übernahm Lars Boilesen von Mitbegründer Jon S. von Tetzchner die Geschäftsführung bei Opera Software ASA.
+Nach einer Neubewertung der Geschäftsstrategie ab 7. August 2015 aufgrund einer enttäuschenden Geschäftsentwicklung stimmten Ende Mai 2016 die erforderlichen über 90 % der Aktionäre kurz vor Ablauf der verlängerten Angebotsfrist einem Verkauf an das chinesische Konsortium Golden Brick Silk Road Equity Investment Fund II LLP, bestehend aus unter anderen dem chinesischen Investmentfonds Golden Brick Silk Road Fund Management LLP aus Shenzhen, dem auf Mobilspiele spezialisierten Unternehmen Beijing Kunlun Tech, der Cybersicherheitsfirma Qihoo 360 Software Co. Ltd. aus Peking sowie der Yonglian Investment Co. Ltd. aus Yinchuan, zu. Das Konsortium hatte im Februar 10,5 Mrd. Kronen (1,1 Mrd. Euro) geboten. Bis zum 30. September 2016 erwirbt es Firmenbereiche und rund 1.000 der 1.560 Opera-Mitarbeiter; übernommen werden die Bereiche Browser, Performance- und Datenschutz-Apps, das Lizenzgeschäft und Operas 29,09 %-Anteil am chinesischen Joint Venture nHorizon. Eigenständig bleiben der Bereich Mediaworks (Werbung), Opera TV, Apps und Spiele. Opera-CEO Lars Boilesen steht bis Ende 2016 beiden Unternehmensteilen vor, danach dem eigenständig bleibenden Bereich.
+
+
+== Siehe auch ==
+Presto (Software) – HTML-Rendering-Engine von Opera bis Version 12.17 (April 2014)
+Blink (Software) – HTML-Rendering-Engine von Google Chrome und Opera ab Version 15 (2013)
+
+
+== Weblinks ==
+
+Offizielle Website
+
+
+== Einzelnachweise ==

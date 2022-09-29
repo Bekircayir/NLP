@@ -1,0 +1,35 @@
+Unter einer Sauerstoffvergiftung (Sauerstofftoxikose) versteht man die schädigende Wirkung hoher Sauerstoffkonzentrationen in der Atemluft auf den Körper. Diese treten vor allem unter erhöhtem Druck ein, aber auch über längere Zeit bei normalem Druck, wenn der Teildruck (Partialdruck) des Sauerstoffs durch die Abwesenheit anderer Gase erhöht ist.
+
+
+== Ursache ==
+Die Erkrankung tritt vor allem im Rahmen einer intensivmedizinischen Überdruckbeatmung oder auch beim Gerätetauchen mit Pressluft in einer Tauchtiefe ab 57 m bei einem Umgebungsdruck von circa 6,7 bar und einem Partialdruck zwischen 1,4 bar und 1,6 bar auf. Die hierbei freiwerdenden Sauerstoffradikale führen nach Erschöpfung der Antioxidationssysteme zur Symptomatik an zentralem Nervensystem, Lunge und Auge.
+In der Raumfahrt wurde und wird teilweise reine Sauerstoffatmosphäre verwendet (Gemini-Programm, Apollo-Programm, Außenbordeinsatz), allerdings unter vermindertem Druck, der bis 0,65 bar keine toxischen Wirkungen bei mehrtägiger Anwendung zeigte. Der normale Luftdruck liegt bei etwa 1 bar (100 kPa) und der Sauerstoff-Partialdruck (pO2) bei etwa 0,21 bar (21 kPa).
+
+
+== Klinische Erscheinungen ==
+
+
+=== Paul-Bert-Effekt ===
+Atmet man bei funktionierender Lunge über längere Zeit ein Gasgemisch mit erhöhtem Sauerstoffpartialdruck ein, kann eine Sauerstoffvergiftung eintreten. Kurzfristig kommt es hierdurch zu zentralnervösen Symptomen, welche man Paul-Bert-Effekt nennt. Diese sind Tunnelblick, Ohrgeräusche, Übelkeit, Schwindel, Erbrechen, Persönlichkeitsveränderungen, Erregung, Angst, Verwirrtheit, Sauerstoffkrämpfe und Fieber. Diese Problematik sollte im Rahmen moderner intensivmedizinischer Maßnahmen durch regelmäßige Kontrolle des Sauerstoffpartialdrucks im Blut pO2 im Rahmen einer Blutgasanalyse vermeidbar sein. Beim Tauchsport mit Nitrox muss zur Verhinderung der Symptomatik die maximale Tauchtiefe (MOD Maximum Operating Depth) eingehalten werden.
+
+
+=== Lunge ===
+Ist bei einer schweren respiratorischen Insuffizienz mit verminderter Sauerstoffaufnahme eine längerfristige Beatmung mit hohem Sauerstoffanteil notwendig, kann es über eine Schädigung der Alveolarmembran zu einem toxischen Lungenödem und chronischer Beatmungslunge kommen (Lorrain-Smith-Effekt). Im Weiteren kann eine bronchopulmonale Dysplasie auftreten.
+
+
+=== Augen ===
+Beim unreifen Auge des Frühgeborenen kann es durch unkontrollierte Neubildung von Gefäßen in der Netzhaut zur Retinopathia praematurorum kommen.
+
+
+== Siehe auch ==
+Hyperbare Oxygenierung
+Acute Respiratory Distress Syndrome
+
+
+== Literatur ==
+Sauerstofftoxikose. In: Roche Lexikon Medizin. 5. Auflage. Elsevier / Urban & Fischer Verlag, München / Jena 2003, ISBN 3-437-15072-3.
+Pschyrembel Klinisches Wörterbuch. 259. Auflage. Walter de Gruyter Verlag, Berlin / New York 2002, ISBN 3-11-016523-6 (CD-ROM-Version).
+en:Oxygen toxicity. sehr ausführlicher Artikel in der englischsprachigen Wikipedia.
+
+
+== Einzelnachweise ==

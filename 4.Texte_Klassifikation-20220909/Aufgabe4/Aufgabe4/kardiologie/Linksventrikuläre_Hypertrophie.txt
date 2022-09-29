@@ -1,0 +1,41 @@
+Als linksventrikuläre Hypertrophie (LVH), auch Linksherzhypertrophie genannt, bezeichnet man die Gewebevergrößerung (Hypertrophie), die den Herzmuskel (Myokard) der linken Herzkammer (Ventrikel) betrifft. Die LVH ist eine besondere Form der Kardiomegalie (abnormale Herzvergrößerung).
+
+
+== Epidemiologie ==
+Etwa 20 bis 60 % der Patienten mit chronischem Bluthochdruck haben eine linksventrikuläre Hypertrophie.
+
+
+== Pathologie ==
+
+Bei der linksventrikulären Hypertrophie handelt es sich um einen Adaptationsmechanismus (Anpassung) des Herzens auf eine erhöhte chronische Belastung des Herzmuskels der linken Herzkammer. Auslöser für diese erhöhte Belastung können sowohl hämodynamische, als auch nicht-hämodynamische Prozesse sein. Beispielsweise kann arterielle Hypertonie (Bluthochdruck), ein Herzklappenfehler, eine hypertrophe Kardiomyopathie, aber auch (seltene) Speichererkrankungen (z. B. Morbus Fabry) eine Linksherzhypertrophie bewirken. Die Herzmuskelmasse nimmt als Folge der erhöhten Beanspruchung zu. Der wesentliche Unterschied zu einem Sportherz, einer nicht-pathologischen Kardiomegalie, ist, dass dabei die diastolischen und systolischen Funktionen durch eine Hypertrophie des zwischen dem Muskelgewebe gelegenen Binde- und Fettgewebes verändert werden. Außerdem wird die makro- und mikrovaskuläre Blutzirkulation gestört.Die Masse des Herzens steigt auch beim gesunden Menschen proportional zu seinem Alter an. Dieser Anstieg der Masse wird im Wesentlichen durch die Zunahme der Wandstärke des linken Herzventrikels hervorgerufen. Die Ursache hierfür ist ein mit dem Alter einhergehender Elastizitätsverlust des Herzmuskels und der arteriellen Blutgefäße, die den Blutdruck im Ruhezustand und besonders bei körperlicher Anstrengung ansteigen lassen.Bei der Pathogenese spielen neben der unmittelbaren Korrelation zum systolischen Blutdruck auch andere Faktoren wie Alter, Geschlecht, Ethnie, Body-Mass-Index, die Stimulation des Renin-Angiotensin-Aldosteron-Systems und des sympathischen Nervensystems eine wichtige Rolle.Die erhöhte Druckbelastung des Herzens führt zunächst zu einer Zunahme der Muskelfaserdicke. Die Muskelfaserlänge und das Kammervolumen verändern sich dabei nicht. Die Hypertrophie des Herzmuskels ist konzentrisch. Ist die Druckbelastung so hoch, dass die Kontraktionskraft des Muskels nicht mehr ausreicht, so verbleibt nach der Systole (die Auswurfphase des Herzens, bei der das Herz sich zusammenzieht) vermehrt Blut in der Kammer, das enddiastolische Volumen steigt an und eine Gefügedilatation (Umordnung im Gefüge der Herzmuskulatur) entwickelt sich.
+
+
+== Klinische Relevanz ==
+Neben dem Alter ist die linksventrikuläre Hypertrophie der wichtigste Prädiktor für kardiovaskuläre Erkrankungen hypertensiver Patienten. Sie ist ein unabhängiger Risikofaktor für koronare Herzkrankheit, plötzlichen Herztod, Herzinsuffizienz und Schlaganfall und somit für die kardiovaskuläre Morbidität und Mortalität in ihrer Gesamtheit.
+
+
+== Diagnose ==
+Im Elektrokardiogramm zeigt eine linksventrikuläre Hypertrophie einen erhöhten Sokolow-Lyon-Index über 3,5 mV und einen Lewis-Index über 1,6 mV. Mittels bildgebender Verfahren wie Echokardiografie (Ultraschalluntersuchung des Herzens) oder kardialer Magnetresonanztomographie (MRT) kann die linksventrikuläre Hypertrophie sichtbar gemacht werden.
+
+
+== Behandlung ==
+Abhängig von der Ursache der LVH kann diese Form der Kardiomegalie vorübergehend sein. Eine Reduzierung des Blutdrucks kann eine Rückbildung der Gewebevergrößerung bewirken. Die ideale Behandlung der linksventrikulären Hypertrophie gibt es noch nicht. Üblicherweise werden Betablocker und Calciumantagonisten, wie beispielsweise Verapamil, verordnet. Sie verbessern die diastolische Füllung und die koronare Durchblutung, ohne die Hypertrophie weiter zu stimulieren. ACE-Hemmer reduzieren den Blutdruck und erhöhen die Auswurfleistung des Herzens.
+
+
+== Medizingeschichte ==
+Der britische Arzt und „Vater der Nephrologie“ Richard Bright (1789–1858) erkannte 1827 als Erster den Zusammenhang zwischen linksventrikulärer Hypertrophie und Dilatation der Aorta bei Patienten mit terminalem Nierenversagen.
+1933 konnten Alfred Chanutin und Edwin E. Barksdale von der University of Virginia experimentell feststellen, dass mit zunehmendem arteriellen Blutdruck der Durchmesser der linksventrikulären Muskelfasern ansteigt.
+
+
+== Weiterführende Literatur ==
+C. Cuspidi, A. Vaccarella u. a.: Resistant hypertension and left ventricular hypertrophy: an overview. In: Journal of the American Society of Hypertension. Band 4, Nummer 6, 2010 Nov-Dec, S. 319–324, ISSN 1933-1711. doi:10.1016/j.jash.2010.10.003. PMID 21130978. (Review).
+F. Weidemann, M. Niemann u. a.: The different faces of echocardiographic left ventricular hypertrophy: clues to the etiology. In: Journal of the American Society of Echocardiography. Band 23, Nummer 8, August 2010, S. 793–801, ISSN 1097-6795. doi:10.1016/j.echo.2010.05.020. PMID 20591620. (Review).
+A. Milan, M. A. Caserta u. a.: Anti-hypertensive drugs and left ventricular hypertrophy: a clinical update. In: Internal and emergency medicine. Band 5, Nummer 6, Dezember 2010, S. 469–479, ISSN 1970-9366. doi:10.1007/s11739-010-0405-6. PMID 20480263. (Review).
+S. M. Artham, C. J. Lavie u. a.: Clinical impact of left ventricular hypertrophy and implications for regression. In: Progress in cardiovascular diseases. Band 52, Nummer 2, 2009 Sep-Oct, S. 153–167, ISSN 1532-8643. doi:10.1016/j.pcad.2009.05.002. PMID 19732607. (Review).
+E. H. Estes, K. P. Jackson: The electrocardiogram in left ventricular hypertrophy: past and future. In: Journal of electrocardiology. Band 42, Nummer 6, 2009 Nov-Dec, S. 589–592, ISSN 1532-8430. doi:10.1016/j.jelectrocard.2009.06.016. PMID 19643433. (Review).
+E. Ritz: Left ventricular hypertrophy in renal disease: beyond preload and afterload. In: Kidney International. Band 75, Nummer 8, April 2009, S. 771–773, ISSN 1523-1755. doi:10.1038/ki.2009.35. PMID 19337217. (Review).
+J. Rawlins, A. Bhan, S. Sharma: Left ventricular hypertrophy in athletes. In: European journal of echocardiography : the journal of the Working Group on Echocardiography of the European Society of Cardiology. Band 10, Nummer 3, Mai 2009, S. 350–356, ISSN 1532-2114. doi:10.1093/ejechocard/jep017. PMID 19246500. (Review).
+L. M. Ruilope, R. E. Schmieder: Left ventricular hypertrophy and clinical outcomes in hypertensive patients. In: American journal of hypertension. Band 21, Nummer 5, Mai 2008, S. 500–508, ISSN 0895-7061. doi:10.1038/ajh.2008.16. PMID 18437140. (Review).
+
+
+== Einzelnachweise ==

@@ -1,0 +1,208 @@
+Eine Abgasnorm (z. B. Euro-Norm) legt für Kraftfahrzeuge und Schiffe Grenzwerte für den Ausstoß von Luftschadstoffen fest.
+In der EU gelten Grenzwerte für Kohlenstoffmonoxid (CO), Stickstoffoxide (NOx), Kohlenwasserstoffe (CnHm), die Partikelmasse (PM) und die Partikelanzahl (PN). Die Grenzwerte unterscheiden sich dabei sowohl nach der Art des Motors (Otto- oder Dieselmotor) als auch nach Kraftfahrzeugtyp (Pkw, Lkw, Motorräder oder Mopeds) und unterliegen einer zunehmenden Verschärfung.
+Die Schadstoffwerte werden bei der Typprüfung im Fahrzyklus gemessen. Bei Lastkraftwagen und Bussen werden ab Abgasnorm Euro 6 die Werte zusätzlich auch während einer Realfahrt gemessen (Emissionen im praktischen Fahrbetrieb „RDE“). Für Pkw ist dies erst ab der Abgasnorm Euro 6d-TEMP der Fall. Der Fahrzeughersteller muss die Einhaltung der Grenzwerte für eine festgelegte Zeitspanne und Kilometerleistung garantieren. Je nach Fahrzeugtyp ist ab einem bestimmten Baujahr eine On-Board-Diagnose (OBD) zur ständigen Funktionskontrolle aller abgasrelevanten Systeme vorgeschrieben.
+Die Abgasnormen in der EU legen keine Grenzwerte für den Ausstoß des Treibhausgases Kohlenstoffdioxid (CO2) fest. Bestimmungen dazu sind in der Verordnung (EU) 2019/631 Festsetzung von CO2-Emissionsnormen für neue Personenkraftwagen und den Richtlinien zum Flottenverbrauch geregelt.
+
+
+== Geschichte ==
+In Kalifornien wurden aufgrund der Anfälligkeit der Stadt Los Angeles für Sommersmog bereits in den 1960er Jahren die ersten Abgasgrenzwerte für Kraftfahrzeuge festgelegt. Dazu wurde 1967 die „California Air Resources Board“ – CARB gegründet. Daneben gibt es heute die Bundesbehörde Environmental Protection Agency (EPA). In Europa stand zu dieser Zeit vor allem die Rauchdichte von Dieselmotoren im Fokus gesetzlicher Maßnahmen. 
+Die ersten einheitlichen Abgasvorschriften für Pkw in der Europäischen Gemeinschaft (EG) traten 1970 mit der Richtlinie 70/220/EWG in Kraft. Begrenzt wurden die Emissionen von Kohlenmonoxid und Kohlenwasserstoffen. Eine Verschärfung dieser Grenzwerte erfolgte 1974 durch die Richtlinie 74/290/EWG. Im Jahre 1977 wurden mit der Richtlinie 77/102/EWG Stickstoffoxide als zusätzlich zu begrenzende Abgasinhaltsstoffe eingeführt. Grenzwerte für Partikel (Ruß) aus Dieselmotoren wurden 1988 mit der Richtlinie 88/436/EWG eingeführt.
+Für Lastkraftwagen und Busse wurden 1988 mit der Richtlinie 88/77/EWG Grenzwerte für Abgasinhaltsstoffe erstmals europaweit festgelegt. Für Motorräder und Mopeds gibt es seit 1997 durch die Richtlinie 97/24/EG europaweit festgelegte Abgasgrenzwerte.
+Im Jahr 2022 soll die EURO-7-Norm erarbeitet und verabschiedet werden und diese soll dann 2025 in Kraft treten.
+
+
+== Europäische Union ==
+
+In der EU legt Verordnung (EU) 2018/858 einen gemeinsamen Rechtsrahmen für die Typgenehmigung von Pkw, Lkw, Bussen und Anhängefahrzeugen (ausgenommen Land- oder Forstwirtschaftliche Zulassung) fest. Die Emissionsgrenzwerte für diese Fahrzeuge werden in der Verordnung (EG) Nr. 715/2007 festgelegt. Sie gilt mit den ergänzenden Verordnungen (EG) Nr. 595/2009 und (EU) 2017/1151.Den Rechtsrahmen für die Typgenehmigung von zwei- und dreirädrigen Fahrzeugen legt die Verordnung (EU) Nr. 168/2013 fest.Während für Pkw sowie für Motorräder und Mopeds die Abgasgrenzwerte fahrstreckenbezogen sind (Schadstoff pro Kilometer), werden bei Lastkraftwagen und Bussen die Abgasgrenzwerte auf die abgegebene Arbeit des Motors bezogen (Schadstoff pro Kilowattstunde). Bei Pkw werden die Grenzwerte mit einem Rollenprüfstandstest ermittelt, wohingegen bei Lkw und Bussen die Tests auf einem Motorenprüfstand durchgeführt werden.
+Bei der Abgasmessung an Pkw wurden bis einschließlich Abgasnorm Euro 2 die Motoren 40 Sekunden im Leerlauf warmgelaufen, bevor die Abgasmessung gestartet wurde. Mit der Abgasnorm Euro 3 entfiel dieser Vorlauf. Da der Katalysator beim Motorstart noch kalt ist und damit keine Schadstoffe umwandeln kann, sind die ersten Sekunden nach dem Start mit einem besonders hohen Schadstoffausstoß verbunden. Dies erklärt auch, warum bei der Abgasnorm Euro 3 ein höherer Ausstoß von Kohlenstoffmonoxid als bei Euro 2 erlaubt ist.
+Neben den europäischen Normen gibt es für Pkw noch die D-Normen, die ausschließlich in Deutschland existieren und eine nationale Vorablösung darstellten. Die Grenzwerte von D3 und Euro 3 bzw. D4 und Euro 4 sind in etwa vergleichbar (siehe Tabellen). Allerdings erfolgte die Abgasmessung bei D3 noch nach einem 40-Sekunden-Vorlauf. Bei der Neuzulassung wurde D3 und D4 ab 2001 durch Euro 3 und ab 2005 durch Euro 4 abgelöst.
+Alle Werte als Masseausstoß in Gramm je Kilometer (g/km), Partikelanzahl PN in Partikel pro Kilometer (1/km):
+
+HC = Kohlenwasserstoffe (englisch: hydrocarbons)
+HC+NOx = Summe der Kohlenwasserstoffe und der Stickstoffoxide
+NOx = Stickstoffoxide
+CO = Kohlenstoffmonoxid
+NMHC = Nichtmethankohlenwasserstoffe
+PM = Partikelmasse (Fein-)Staub (englisch: particulate matter)
+PN = Partikelanzahl (englisch: particle number)
+
+
+=== PKW ===
+Bei Pkw mit Ottomotor unterscheidet die EU-Verordnung zwischen Motoren mit Saugrohreinspritzung (auch indirekte Einspritzung, englisch: port fuel injection [PFI]) und Motoren mit Benzindirekteinspritzung (englisch:  gasoline direct injection [GDI]). Für Fahrzeuge mit Saugrohreinspritzung gelten keine Grenzwerte für die Partikelmasse und die Partikelanzahl, da sie üblicherweise nur einen niedrigen Feinstaubausstoß aufweisen.
+Abgasnormen für die Fahrzeugklassen M, N1, Gruppe I (Stand: 21. Bekanntmachung des Kraftfahrtbundesamtes):
+
+
+=== Leichte Nutzfahrzeuge ===
+Zulässige Gesamtmasse ≤1305 kg (Kategorie N1 Klasse I)
+
+Zulässige Gesamtmasse = 1305–1760 kg (Kategorie N1 Klasse Il)
+
+Zulässige Gesamtmasse > 1760 kg (Kategorie N1 Klasse Ill & N2)
+
+
+=== Leichtkraftrad und Motorrad ===
+Mit der Abgasnorm Euro 5 gelten die gleichen Grenzwerte für alle Fahrzeuge der EG-Fahrzeugklasse L. Zu dieser zählen alle zweirädrigen und dreirädrigen Kraftfahrzeuge sowie leichte vierrädrige Kraftfahrzeuge.
+
+
+=== Kleinkraftrad ===
+Bei Kleinkrafträdern entfällt die Abgasnorm Euro 3. Mit der Abgasnorm Euro 5 gelten die gleichen Grenzwerte für alle Fahrzeuge der EG-Fahrzeugklasse L. Zu dieser zählen alle zweirädrigen und dreirädrigen Kraftfahrzeuge sowie leichte vierrädrige Kraftfahrzeuge.
+
+
+=== Lkw und Busse ab 3,5 t ===
+Die Einführung der Abgasnorm Euro VI bedeutete eine wesentliche Verschärfung. Die Abgase werden erstmals nicht nur im Labor geprüft, sondern mittels PEMS auch im realen Verkehr (RDE).
+Nach derzeitigem Stand der Technik (2017) ist die Einhaltung der Grenzwerte für Euro VI nur mit einer Kombination aus Oxidationskatalysator, einem geschlossenen Dieselrußpartikelfilter sowie einer Anlage zur Abgasnachbehandlung mittels selektiver katalytischer Reduktion (SCR) zu erreichen.
+Die Abkürzungen der Testzyklen stehen für ESC (European Stationary Cycle), ETC (European Transient Cycle), WHSC (World Harmonized Stationary Cycle), WHTC (World Harmonised Transient Cycle) und ELR (European Load Response Test).
+
+
+=== Mobile Maschinen und Geräte (NRMM) ===
+Der Begriff mobile Maschinen und Geräte (Non-Road-Mobile-Machinery – NRMM) ist ein Begriff, der in den europäischen Emissionsnormen verwendet wird, um die Emissionen von Motoren zu kontrollieren, die nicht hauptsächlich auf öffentlichen Straßen eingesetzt werden. Diese Definition umfasst sowohl Geländefahrzeuge und Arbeitsmaschinen, als auch Schienenfahrzeuge und die inländische Schifffahrt.
+Die europäischen Normen für nichtstraßengebundene Dieselmotoren umfassen schrittweise strenge Stufen, die als Normen der Stufen I–V bekannt sind. Die Stufe I/II war Teil der Richtlinie von 1997 (Richtlinie 97/68/EG). Sie wurde in zwei Stufen umgesetzt, wobei die Stufe I 1999 und die Stufe II zwischen 2001 und 2004 umgesetzt wurde. Im Jahr 2004 verabschiedete das Europäische Parlament die Normen der Stufe III/IV. Die Standards der Stufe III wurden weiter in Stufe III A und III B unterteilt, die zwischen 2006 und 2013 schrittweise eingeführt wurden. Die Standards der Stufe IV werden ab 2014 durchgesetzt. Die Normen der Stufe V (Verordnung (EU) 2016/1628) werden ab 2018 schrittweise eingeführt und ab 2021 vollständig durchgesetzt.
+
+
+==== Kategorien ====
+Kategorie NRG-Motoren über 560 kW, die in Stromaggregaten verwendet werden;
+Kategorie NRSh-SI-Motoren unter 19 kW ausschließlich zur Verwendung in handgehaltenen Maschinen;
+Motoren der Kategorie NRS-SI unter 56 kW, die nicht in der Kategorie NRSh enthalten sind;
+Kategorie IWP-Motoren über 19 kW, die für den direkten oder indirekten Antrieb von Binnenschiffen verwendet werden;
+Kategorie IWA-Hilfsmotoren über 19 kW zur Verwendung in Binnenschiffen;
+Kategorie RLL-Motoren für den Antrieb von Eisenbahnlokomotiven;
+Kategorie RLR-Motoren für den Antrieb von Triebwagen;
+Kategorie SMB-SI-Motoren für den Einsatz in Schneemobilen;
+Motoren der Kategorie ATS-SI, die in Gelände- und Nebenfahrzeugen verwendet werden
+Kategorie NRE-Motoren für mobile Maschinen und Geräte, die nicht unter einen der unten aufgeführten Punkte fallen;
+
+
+==== Grenzwerte ====
+
+
+===== Grenzwerte für mobile Arbeitsmaschinen ohne inländische Schifffahrt =====
+Bei Motorkategorien, für die ein A-Faktor definiert ist, wird der in der Tabelle angegebene HC-Grenzwert für voll- und teilgasbetriebene Motoren durch den aus der Formel berechneten ersetzt:
+HC = 0,19 + (1,5 × A × GEV)
+wobei die GEV das durchschnittliche Gas-Energie-Verhältnis über den entsprechenden Zyklus ist. Wenn sowohl ein stationärer als auch ein instationärer Prüfzyklus angewendet wird, ist die GEV aus dem instationären Warmstart-Prüfzyklus zu bestimmen. Wenn der berechnete HC-Grenzwert den Wert von 0,19 + A überschreitet, wird der Grenzwert für HC auf 0,19 + A gesetzt.
+
+
+===== Grenzwerte für inländische Schifffahrt nach Stage IIIA =====
+
+
+===== Grenzwerte für inländische Schifffahrt nach Stage V für Antrieb (Kat. IWP) und Hilfsaggregate (IWA) =====
+
+
+===== Grenzwerte für Motoren in Lokomotiven und Triebwagen (RLL und RLR) =====
+Stage-V-Emissionsgrenzwerte gelten ab 2021 für Motoren in Lokomotiven (RLL) und Triebwagen (RLR), egal welcher Leistung und welchen Verbrennungskonzepts. Hilfsmotoren, die in Lokomotiven und Triebwagen verbaut sind, werden in die Kategorien NRE oder NRS eingruppiert.
+
+
+=== Sonstiges ===
+
+
+==== Vorschriften zur ungewollten Kraftstoffverdampfung ====
+
+Auch die Emissionen von Benzindämpfen aus dem Tank eines stehenden Fahrzeuges können begrenzt werden. Um diese zu reduzieren, wird ein Aktivkohlefilter eingebaut, der die Dämpfe speichern kann und bei laufendem Motor die Dämpfe der Verbrennung zuführt und so den Speicher regeneriert.
+
+
+=== Abweichungen zwischen Labor und Realität ===
+
+Im Jahr 1990 berichtete Auto Motor Sport über den Abgastest eines Toyota Carina 1.6, einem damals neuen Mager-Benziner, und schrieb, die Schadstoff-Optimierung beschränke sich offenbar auf den amtlich vorgeschriebenen Prüfzyklus. Auto Motor Sport. Nr. 21, 5. Oktober 1990, S. 37. 
+Im Jahr 2000 veröffentlichte Motorradonline einen Abgastest zu mehreren Motorrädern, bei dem sich in einem Fall beim Warmstart mit über 30 g/km ein 34 Mal so hoher Ausstoß von Kohlenmonoxid wie beim Kaltstart zeigte. Die Autoren gehen von einer Erkennung des Prüfzyklus aus.Im Jahr 2005 berichtete der TÜV über den Test von 4 PKW. Dabei zeigte sich bei einem Diesel-Fahrzeug, dass die Strategie zur NOx-Emissionsminderung auf den Prüfzyklus optimiert zu sein scheint. Bei Benzinern wurde ein hoher Kohlenmonoxid-Ausstoß beobachtet, insbesondere wenn bei hohen Außentemperaturen die Klimaanlage benutzt wurde.Im Jahr 2010 berichtete der Spiegel über Messungen des ADAC an Diesel-PKW der Abgasnorm Euro 6, bei denen im Autobahntestzyklus bis zu 15-Mal so viele Stickoxide ausgestoßen wurde wie der Grenzwert für den Prüfzyklus zur Typzulassung vorsieht.Im Jahr 2011 berichtete die Deutsche Umwelthilfe, bei einem Benziner (BMW 116i) im ADAC-Autobahntestzyklus einen Stickoxid-Emissionen gemessen zu haben, die 30 Mal höher als der für das Fahrzeug gültige Grenzwert lagen.Eine im Jahre 2011 vom wissenschaftlichen Dienst der Europäischen Kommission durchgeführten Untersuchung ergab, dass die NOx-Emissionen von Diesel-Pkw bei realen Straßenfahrten deutlich über den für die Typprüfung im Labor geltenden Grenzwerten liegen.Eine im Oktober 2014 vom ICCT (International Council on Clean Transportation) veröffentlichte Studie kam zu dem Ergebnis, dass der reale NOx-Ausstoß von Euro-6-Dieselfahrzeugen im Durchschnitt um den Faktor 7 über dem Limit von Euro 6 liegt. Im September 2015 veröffentlichte das ICCT ein White Paper, laut dem 22 von 32 getesteten Modellen den Grenzwert für NOx nur im Labor schafften.Am 20. September 2015 gab Volkswagen nach Ermittlungen der EPA zu, das Motorsteuergerät von 11 Millionen Dieselfahrzeugen so programmiert zu haben, dass es eine Prüfsituation auf dem Rollenprüfstand erkennt und auf ein anderes Kennfeld umschaltet. Diese sogenannte Abschalteinrichtung ist weder in den USA noch in Europa erlaubt. Die so ausgelieferten Fahrzeuge überschritten im realen Verkehr die erlaubten US-Grenzwerte um das bis zu 35-fache. Im Zuge dieses Abgasskandals trat der Vorstandsvorsitzende der Volkswagen AG Martin Winterkorn von seinem Posten zurück.
+2015 forderten europäische Regierungen im Zuge des Abgasskandals neue Regeln für die Prüfung von Emissionen im praktischen Fahrbetrieb („RDE“) in Bezug auf Normen für Stickoxide ein. Die neuen Regeln sollen zwar Prüfungen von Stickoxidemissionen im praktischen Fahrbetrieb durchsetzen, andererseits aber Spielräume für die Überschreitung von erlaubten Grenzwerte für Stickoxidemissionen im praktischen Fahrbetrieb definieren. Ein Fachausschuss einigte sich im Oktober 2015 auf einen Konformitätsfaktor von 2,1 für die Typenzulassung neuer Modelle ab September 2017, und für alle Neuzulassungen ab September 2019; das heißt, dass diese Fahrzeuge ab dem betreffenden Zeitpunkt um 110 % mehr Stickoxide als durch die Grenzwerte vorgesehen ausstoßen dürfen. Ab Januar 2020 gilt ein Konformitätsfaktor von 1,5 für die Typenzulassung neuer Modelle, so dass die Grenzwerte um 50 % überschritten werden dürfen; dies gilt ab Januar 2021 für alle Neuzulassungen. Die Europäische Kommission betonte, dass dies einen deutlichen Fortschritt gegenüber der damaligen Überschreitung der Grenzwerte um durchschnittlich 400 % darstelle.Anfang Februar 2016 lehnte das Europäische Parlament einen durch den Umweltausschuss vorgelegten Veto-Antrag gegen diese neuen Regeln ab und machte so den Weg für sie frei. Im Vorfeld hatten viele Stimmen aus der Automobilindustrie, aus der Europäischen Kommission und aus den nationalen Regierungen sich deutlich für eine Annahme der neuen Regeln ausgesprochen; andere hatten kritisiert, dass die neuen Regeln im Vergleich zum ursprünglichen Regelungsvorschlag so verwässert seien und die Automobilindustrie so wenig einschränkten, dass sie faktisch nicht rechtmäßig seien; so war der Rechtsausschuss (JURI) noch kurz vor der Abstimmung über das Veto mit nur knapper Mehrheit zum Schluss gekommen, dass die Neuregelung unzulässig sei, da sie gegen die Verordnung (EG) Nr. 715/2007 verstoße. Diese erhöhten Grenzwerte im realen Straßenverkehr wurden am 13. Dezember 2018 vom EU-Gericht für unzulässig erklärt.Eine 2020 von der Umweltorganisation Transport & Environment (T&E) veröffentlichte Studie prüfte die Emissionen nach Abgasnorm Euro 6d-TEMP an zwei Fahrzeugen. Die hier verwendeten Partikelfilter müssen nach mehreren hundert Kilometer vom angesammelten Ruß freigebrannt werden. Während des Freibrennens stiegen die Feinstaubemissionen nach Darstellung der Studie stark an und lagen über den zulässigen Grenzwerten. Die Emissionen während einer 85 Kilometer langen Testfahrt, auf der eine Regeneration auftrat, lagen um 32 bis 115 Prozent über den Grenzwerten der Feinstaubemissionen. Da eine Regeneration im Schnitt alle 400 bis 500 Kilometer auftrat, bedeutet das, dass diese Überschreitung auf 1 von 5 Testfahrten auftrat. Feinstaub-Emissionen zwischen den Regenerationen wurden nicht separat angegeben, liegen bei Diesel-Fahrzeugen aber üblicherweise sehr niedrig. Im langfristigen Schnitt ist daher davon auszugehen, dass die Feinstaub-Emissionen deutlich unter dem Grenzwert lagen. Daher handelte es sich hierbei um keine Verletzung der Abgasnorm. Die während der Regeneration emittierten Partikel seien verhältnismäßig groß und stellen eine nur geringe Gesundheitsgefahr dar. Zudem wurde durch eine nicht optimale Ammoniakeinspritzung während des Freibrennvorgangs zu einer Emission von Ammoniak über die Abgasanlage festgestellt, wodurch potenziell eine Gesundsheitsgefahr ausgehen könne.Eine 2020 von IFP Energie Nouvelles veröffentlichte Studie an 22 Fahrzeugen der Abgasnorm Euro 6d-TEMP zeigt für Benziner im Schnitt einen 2,8× so hohen Ausstoß an Feinstaubpartikeln wie für Diesel-Fahrzeuge, wenn die Regenerationen des Partikelfilters mit eingerechnet werden. Diesel-Fahrzeuge stießen mit 0,58*1011 nur etwa 10 % der erlaubten Partikelanzahl aus. Ohne Berücksichtigung der Partikelfilterregeneration stoßen die getesteten Benziner 15 Mal so viele Partikel aus wie die Diesel-Fahrzeuge. Die Studie zeigte auch, dass Benziner etwas mehr Ammoniak ausstoßen als Diesel-Fahrzeuge.
+Abgasnormen und Abgastests berücksichtigen nur Auspuff-Emissionen. Bezüglich Feinstaub zeigt eine OECD-Studie von 2020, dass 95–98 % der PM10-Emissionen und 88–96 % der PM2.5-Emissionen von Fahrzeugen der Abgasnorm Euro 6d-TEMP nicht aus dem Auspuff kommen, sondern Abrieb von Reifen, Bremsen, Kupplung und Straße darstellen. Die Studie geht von zunehmenden Feinstaub-Emissionen durch Elektromobilität aus, wobei bereits berücksichtigt sei, dass Elektrofahrzeuge keinen Kupplungsabrieb aufwiesen und Rekuperation beim Bremsen den Bremsabrieb verringere.
+
+
+==== Umweltbundesamt ====
+Für Deutschland ermittelte das Bundesumweltamt 2017 und 2019 die Diskrepanzen zwischen geltenden Grenzwerten und tatsächlichem Ausstoß. Demnach stoßen Dieselautos der Abgasnormen Euro 4, Euro 5 und Euro 6 (ohne 6d-TEMP und neuere) in Deutschland in der Realität 674, 950 bzw. 614 mg Stickoxide pro km aus, während die Stickoxidgrenzwerte bei 250, 180 bzw. 80 mg NOx pro km liegen. Für 8 getestete Euro 5 – Fahrzeuge mit EA189-Motor, bei denen ein Software-Update ausgeführt wurde, gibt das Umweltbundesamt einen Wert von 588 mg NOx/km an.
+
+Mit * markierte Werte wurden in der neueren Veröffentlichung nicht aktualisiert oder erwähnt und stammen daher von 2017.
+Diese Tabelle berücksichtigt die CF-Faktoren von 2,1 und 1,43 nicht. Dabei war immer klar in der Abgasgesetzgebung für Fahrzeuge, dass Testwerte in neuen Automobilen niedriger sind als reale Werte in anderen Lastzuständen, die erst seit einigen Jahren mobil gemessen werden können.
+Pkw der Abgasnormen Euro 4/5/6, ausgenommen Euro 6d-TEMP, erfüllen im Realverkehr selbst die Vorgaben von Euro 3 (500 mg/km) nicht. Separate Werte für Fahrzeuge mit Euro 6c wurden nicht veröffentlicht. Eine Studie des International Council on Clean Transportation (2016) zu NOx-Emissionen bei schweren Lkw und Bussen der Schadstoffklasse Euro 6 ermittelte im Realverkehr 210 mg/km NOx, weniger als die Hälfte der gemessenen Pkw.2019 berichtete das Umweltbundesamt, dass die Grenzwerte bei Diesel-Pkw bisher erst von der Abgasnorm Euro 6d-TEMP eingehalten wird. Zum Zeitpunkt der Veröffentlichung entsprachen nur etwa 5 Prozent der Diesel-Pkw dieser Abgasnorm. Pro Kilometer erzeugen sie durchschnittlich noch 46 Milligramm NOx-Emissionen im praktischen Fahrbetrieb.
+Fahrzeuge mit Nachrüstsätzen für Euro 4 und 5 müssen 270 mg pro km einhalten. Nur wenige Fahrzeuge wurden bisher nachgerüstet. Die Nachrüstfirmen stehen bei andauernder Misere vor der Insolvenz. VW-Kunden nehmen lieber eine Entschädigung anstatt die Nachrüstung vorzunehmen.
+
+
+=== Schadstoffklassen und Plaketten ===
+
+In Deutschland ist seit dem 1. März 2007 die Verordnung zur Kennzeichnung der Kraftfahrzeuge mit geringem Beitrag zur Schadstoffbelastung in Kraft getreten. Diese sieht regionale Verkehrsverbote sowie abhängig von der erfüllten Abgasnorm Ausnahmen davon vor, die durch farbige Plaketten kenntlich gemacht werden. Die Plakette wird abhängig von der Schadstoffklasse – genauer der Emissionsschlüsselnummer in den Fahrzeugpapieren – von den Zulassungsstellen, Prüforganisationen oder zur Untersuchung des Motormanagements und Abgasreinigungssystems berechtigten Werkstätten ausgegeben:
+
+Durch die Nachrüstung eines Dieselrußpartikelfilters kann zudem eine bessere Partikelminderungsstufe erreicht und dann eine bessere Plakette ausgegeben werden. Ein Fahrzeug mit Abgasnorm Euro 3 – gelbe Plakette – kann z. B. durch Nachrüstung den Partikelausstoß von Euro 4 erreichen und bekommt dann eine grüne Plakette.
+
+
+=== Einfluss auf die Kraftfahrzeugsteuer in Deutschland ===
+
+Lange Zeit wurde die Kraftfahrzeugsteuer für Pkw in Deutschland nach der Abgasnorm und dem Hubraum bestimmt. Inzwischen gelten abweichende Steuersätze jedoch nur noch für Fahrzeuge, die die Euro-3-Abgasnorm nicht erfüllen, sowie für Diesel-Pkw ohne Rußpartikelfilter. Stattdessen ist heute die verbrauchsabhängige CO2-Emission eine bedeutende Variable.
+
+
+== USA ==
+Bei den USA ist die Besonderheit zu berücksichtigen, dass es hier unterschiedliche Welten bezüglich der Emissionsstandards gibt. Aus historischen Gründen hat der Staat Kalifornien für seinen Geltungsbereich eine autonome Abgasgesetzgebung mit eigenen Grenzwerten, Standards und Abgasklassen. Ebenfalls gibt es zur Weiterentwicklung und zur Überwachung der Standards eine autonome Behörde – die CARB (California Air Resources Board). Anderen Staaten wird die Möglichkeit eingeräumt, sich den kalifornischen Abgasbestimmungen ebenfalls anzuschließen. Sie unterliegen damit der CARB und nicht mehr der Behörde der übrigen Staaten. Dieses ist die Environmental Protection Agency (EPA). Seit 1994 galt hier die erste nationale Abgasnorm (Tier I; seit 2004 wird der Tier II eingeführt), zuvor wurden ausschließlich regionale Bestimmungen einzelner Staaten angewendet.
+Die Bilder zeigen die unterschiedlichen Schadstoffgrenzwerte in ihren Stufen, und zwar die bundesamerikanischen (EPA) und kalifornischen Standards im Vergleich. Zusätzlich sind die europäischen Limitierungen noch mit aufgenommen. Zu berücksichtigen ist, dass es weder im Amerika der 49 Staaten noch in Kalifornien eine Unterscheidung zwischen diesel- und ottomotorbetriebenen Kraftfahrzeugen gibt.
+
+Prinzipiell unterschiedlich zu europäischen Abgasnormen ist die Möglichkeit eines schrittweisen Einführens (englisch „phase-in“) neuer, verschärfter Normen. Das heißt, dass nicht von einem bestimmten Zeitpunkt an alle neu registrierten Fahrzeuge diesen Normen zu genügen brauchen, sondern immer nur ein bestimmter prozentualer Anteil, der dann aber von Jahr zu Jahr steigt. Außerdem werden zu bestimmten Abgasbestandteilen noch sogenannte „Flottenmittelwerte“ eingeführt. Die aktuelle Norm Tier 3 wurde 2017 eingeführt, aufgrund des Phase-Ins werden aber erst 2025 100 % aller neuzugelassenen Fahrzeuge nach dieser Norm zertifiziert werden müssen. Bis auf die Partikelmasse (PM) ist die Tier-3-Norm eins-zu-eins Deckungsgleich mit der 2015 von der CARB eingeführten LEV-III-Norm. Dies soll es Autoherstellern erleichtern, in allen 50 Staaten die gleichen Fahrzeuge zu verkaufen.
+
+
+=== USA, Federal ===
+Abkürzungen: NOx: Stickoxide; NMOG: alle Kohlenwasserstoffe außer Methan (Non-Methane Organic Gases); CO: Kohlenmonoxid; PM: Partikelmasse; HCHO: Formaldehyd; LDV: Light Duty Vehicle; LDT: Light Duty Truck; MDPV: Medium Duty Passenger Vehicles
+
+
+=== USA, Kalifornien ===
+
+Bedingt durch seine geographische Lage und der dadurch bedingten zahlreich auftretenden Inversionswetterlagen litt Kalifornien bereits in den 1930er Jahren unter einer enormen Luftverschmutzung. Schuld daran war der drastisch angestiegene Straßenverkehr insbesondere in den Ballungsgebieten Los Angeles, San Francisco und San Diego. Diese Situationen führten zu gesundheitlicher Beeinträchtigung der Bevölkerung und zahlreichen Todesfällen. Dieser Umstand führte zur Unterzeichnung des Air Pollution Control Act im Jahr 1947. Als Folge wurde dem Staat Kalifornien 1950 die Gesetzgebungskompetenz vom Bund übertragen, wodurch Kalifornien in die Lage versetzt wurde, unabhängig von der Gesetzgebung des Bundes eine eigene Umweltschutzgesetzgebung aufzubauen, mit eigenen Standards, Verfahren und Grenzwerten sowie eine eigene Behörde zu installieren, diese Standards zu überwachen und weiterzuentwickeln.
+Unter der Regierung von Gouverneur Ronald Reagan wurde dann der California Air Resources Board 1967 durch Verschmelzung zweier Behörden ins Leben gerufen. Um die durch den oftmals auftretenden Smog bedingten gesundheitlichen Beeinträchtigungen der Bevölkerung mittelfristig zu mindern, wurde 1988 der California Clean Air Act erlassen. Vor diesem Hintergrund wurde ein Programm entwickelt, das in mehreren Schritten Fahrzeuge mit niedrigen Emissionen forderte, die mit unterschiedlichen Standards bis hin zum Zero-Emission-Vehicle (ZEV) – also Nullemissionsfahrzeugen – eingeführt werden. Dieses Programm hieß in der ersten Stufe Low-Emission-Vehicle I (LEV I), wurde durch sog. Phase-In ab 1995 verpflichtend eingeführt für Passenger Cars (Pkw) und Light-Duty-Vehicles (leichte Nutzfahrzeuge). LEV I wurde dann ab 2004 abgelöst durch LEV II mit nochmals verschärften Grenzwerten. Ein Phase-Out (für LEV I) mit gleichzeitigem Phase-In (für LEV II) fand dann in den Jahren 2004 bis 2007 statt. 2015 wurde mit LEV III der aktuelle Emissionsstandard eingeführt. Auch hier ist zwischen den Jahren 2015 und 2019 eine Übergangsphase der beiden Kategorien im Gange.
+
+Abkürzungen
+NOx: Stickoxide; NMOG: alle Kohlenwasserstoff außer Methan (Non-Methane Organic Gases); CO: Kohlenmonoxid; PM: Partikelmasse; HCHO: Formaldehyd
+LEV: Low Emission Vehicle (Fahrzeug mit niedriger Emission); ULEV: Ultra Low Emission Vehicle; SULEV: Super Ultra Low Emission Vehicle; ZEV: Zero Emission Vehicle
+
+
+== China ==
+
+
+=== Straßenfahrzeuge ===
+In China wurden Emissionsstandards erst im Jahr 2008 mit der Abgasnorm Beijing 4 eingeführt. Sie wurden 2009 in Shanghai unverändert als Shanghai 4 und 2010 landesweit als China 4 eingeführt. Sie orientiert sich an der europäischen Abgasnorm Euro 4. Ab 2013 wurde zunächst Beijing 5, dann Shanghai 5 und zuletzt China 5 festgelegt, welche sich ebenfalls an den europäischen Normen orientieren. Zum 1. Juli 2020 trat landesweit die Norm China 6a in Kraft. Im Zuge dessen wurde auch der Testzyklus WLTP eingeführt, welcher allerdings in einigen Punkten von dem ursprünglichen Prüfzyklus abweicht. Es gab keine Übergangsregelungen, die Norm 6a war sofort für neu produzierte und importierte Fahrzeuge gültig. Bereits produzierte und importierte Fahrzeuge durften noch bis Ende 2020 verkauft und zugelassen werden. Seit der Norm China 6 gelten für Otto- und Dieselmotoren dieselben Grenzwerte. 2021 führte China den Zyklus CLTC für schwere Nutzfahrzeuge ein (neben batterieelektrischen und Brennstoffzellenfahrzeugen).
+Für den 1. Juli 2023 ist die Einführung der weiter verschärften Norm China 6b vorgesehen.
+
+
+=== Inländischer Schiffsverkehr ===
+Die China I/II-Normen sind an die US-Marinenormen angelehnt, wobei China I der US-Tier-2-Norm entspricht. Die China I/II-Vorschriften wurden 2016 verabschiedet und treten 2018 (China I) und 2021 (China II) in Kraft.
+Die Normen gelten für neue und überholte Schiffsmotoren (Antrieb- und Hilfsmotoren) der Kategorien 1 und 2 auf Schiffen, die in China registriert sind und in chinesischen Hoheitsgewässern betrieben werden.
+Die Motorkategorien basieren auf den US-Bezeichnungen und sind wie folgt definiert:
+
+   Schiffsmotoren der Kategorie 1 – Nennleistung ≥ 37 kW und ein Hubvolumen Vh von weniger als 5l pro Zylinder.
+   Schiffsmotoren der Kategorie 2 – Hubvolumen pro Zylinder ≥ 5l und weniger als 30l.Die nachfolgende Tabelle zeigt die China II-Norm, ein Limit für PN existiert aktuell nicht. Die China I/II-Normen gelten nicht für Hochseeschiffe, für Schiffe, die nur in Notfällen eingesetzt werden, oder für kleine Schiffsmotoren unter 37 kW.
+Zudem ist über einen 2500h-Dauerlauf eine Useful life von 10.000h oder 10 Jahren nachzuweisen.
+Weiterhin existiert für die Küste Chinas eine sogenannte Domestic emission control area (DECA) in der gesonderte Regeln, insbesondere bzgl. des Kraftstoffschwefelanteils gelten. Diese DECA ist nicht mit einer IMO-ECA zu verwechseln.
+
+
+== Russland ==
+Aufgrund der Sanktionen im Zusammenhang mit dem russischen Überfall auf die Ukraine 2022 wurden in Russland  die Umweltanforderungen für Neufahrzeuge gelockert; anstelle der gültigen Euro-5-Klasse sollten auch Autos hergestellt werden, welche mit weniger zuvor importierter Regeltechnik auskommen, bis zurück zu Euro-0.
+
+
+== Marine (Hochseeschifffahrt) ==
+Die Abgasemissionen von Hochseeschiffen werden durch die UNO-Organisation IMO (International Maritime Organization) festgelegt und gelten für alle Motoren > 160kW.
+
+Prinzipiell wird in zwei unterschiedliche Bereiche unterschieden: Globale Grenzwerte und Grenzwerte, die in sogenannten Emission Control Areas (ECA) einzuhalten sind. Aktuell existiert für NOx eine ECA (NECA) vor den Küsten Nordamerikas und für Schwefel zusätzlich in der Nord- und Ostsee (SECA).
+Die Schwefelgrenzwerte gelten für alle Schiffe, egal welchen Baujahres und können sowohl durch den passenden Kraftstoff, als auch durch den Einsatz von Abgaswäschern, die die Schwefeloxide aus dem Abgas entfernen, eingehalten werden.
+
+Die Schwefelemissionen des Schiffes sind entweder durch Kraftstoffnachweise (Bunker notes) oder eine permanente Schwefelemissionsmessung nachzuweisen. Verletzungen der Schwefelgrenzwerte werden durch die lokalen Behörden bestraft, allerdings schwankt die Höhe der Strafe stark, wie z. B. Norwegen (80.000€), China (1.300–13.000€), USA gegen Carnival Corporation (20 Millionen US-Dollar, neben Schwefel auch andere Umweltvergehen). Bei der Verwendung von Scrubbern sind zudem meist Vorschriften bzgl. deren Abwasser einzuhalten, deren Verletzung ebenfalls empfindliche Strafen nach sich ziehen kann. Bzgl. der Verletzung der Umweltauflagen ist auffällig, dass ein Großteil der dokumentierten Verletzungen von Kreuzfahrtschiffbetreibern begangen wurde (z. B. Carnival mit einer Gesamtstrafsumme von 60 Millionen US-Dollar), obwohl diese Schiffe nur einen Bruchteil der gesamten Schiffsflotte ausmachen.Demgegenüber gelten bei NOx, insbesondere im Vergleich zu europäischen Grenzwerten, die ab einem bestimmten Stichtag für alle Kraftfahrzeuge gelten, bzgl. der IMO-NOx-Regularien folgende Besonderheiten.
+
+Die Grenzwerte gelten nicht ab Inbetriebsetzung des Schiffes, sondern ab dessen Kiellegung. Dies führt in der Praxis dazu, dass vor Inkrafttreten strengerer Grenzwerte viele Kiele auf Halde produziert werden. Hierbei handelt es sich üblicherweise um einen Stahlträger, der mit einer eindeutigen IMO-Nummer geprägt wird. Dieser Kiel kann eingelagert und erst Jahre später für den Bau eines Schiffes verwendet werden. Dies hat zur Folge, dass selbst Jahre nach Inkrafttreten neuer NOx-Regularien noch Schiffe nach den alten Regularien gebaut werden bzw. in Betrieb gehen dürfen.
+Im Unterschied zu den Vorschriften bzgl. Schwefel müssen die Schiffe bei der Einfahrt in eine NECA nicht die aktuellen Grenzwerte erfüllen, sondern nur die, die zum Zeitpunkt ihrer Kiellegung galten.
+Bei einer Major conversion des Schiffes (wenn z. B. die Hauptmaschine getauscht wird), sind die aktuellen Grenzwerte einzuhalten.
+Die NOx-Grenzwerte sind drehzahlabhängig und sinken mit der Drehzahl n des Motors. D. h. große, langsamlaufende Motoren dürfen mehr NOx-emittieren, als kleine, schnelllaufende.Unter den oben genannten Einschränkungen gelten aktuell in NECAs die TierIII-Grenzwerte, während auf dem Rest der Weltmeere TierII einzuhalten ist. Während die Grenzwertstufen I und II noch innermotorisch eingehalten werden können, werden für TierIII SCR-Systeme (Zwei- und Viertaktmotoren), eine Abgasrückführung (Zweitaktmotoren) oder ein Wechsel in den Gasbetrieb (Dual-Fuel-Viertaktmotoren) eingesetzt.
+Darüber hinaus werden die CO2-Emissionen der Schiffe über den sogenannten Energy Efficiency Design Index EEDI festgelegt, über den zukünftig auch die Emissionen des Treibhausgases Methan geregelt werden sollen.
+Für CO und HC existieren keine IMO-Grenzwerte, für Ruß (Black carbon) wird aktuell ein Grenzwert diskutiert. Der Grund hierfür liegt darin, dass die Schifffahrt und damit die Rußimmissionen speziell im Bereich des Nordpolarmeers stark zunehmen. Der Ruß schlägt sich auf den Eisflächen nieder und färbt diese grau ein. Dadurch erhöht sich die absorbierte Wärmemenge aus der eingestrahlten Sonnenenergie, was zu einem beschleunigten Abschmelzen führt.
+
+
+== Siehe auch ==
+Fahrzeugkatalysator
+Abgasrückführung
+Sekundärluftsystem
+Abgasskandal
+
+
+== Weblinks ==
+
+dieselnet – Amerikanische Webseite, auf der alle existierenden Abgasnormen zusammengetragen sind (englisch)
+2017|2018 Worldwide Emissions Standards Passenger Cars and Light Duty Vehicles (Memento vom 28. Juli 2017 im Internet Archive), 2016|2017 Worldwide Emissions Standards Heavy Duty and Off-Highway Vehicles (PDF [7,85 MB, 3,21 MB]; englisch)
+Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20. Juni 2007 – Euro-5-Stufe und Euro-6-Stufe der Emissionsgrenzwerte für leichte Kraftfahrzeuge
+Richtlinie 99/96/EG des Europäischen Parlaments und des Rates vom 13. Dezember 1999. Enthält für schwere Kraftfahrzeuge die Grenzwerte für Euro IV, V und EEV in Anhang 1 6.2.1.
+Verordnung für Euro VI für schwere Kraftfahrzeuge. Die Verordnung ist im Gesetzgebungsverfahren und enthält in Anlage 1 die Grenzwerte.
+Verringerung der Schadstoffemissionen von leichten Kraftfahrzeugen. Zusammenfassung der Gesetzgebung. In: EUR-Lex. Amt für Veröffentlichungen der Europäischen Union, 22. November 2007, abgerufen am 24. Februar 2008. 
+
+
+== Einzelnachweise ==

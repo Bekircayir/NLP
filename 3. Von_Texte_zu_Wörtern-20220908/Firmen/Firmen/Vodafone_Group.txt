@@ -1,0 +1,90 @@
+Die Vodafone GmbH ist ein deutsches Tochterunternehmen der britischen Mobilfunkgesellschaft Vodafone Group. Sie bietet in Deutschland Mobilfunk, DSL, LTE, Kabelinternet, Festnetztelefonie, Kabelfernsehen und IPTV an. Vodafone ist mit 41,89 Mio. Kunden (Stand: 2. Quartal 2016) der zweitgrößte Mobilfunkanbieter Deutschlands (nach Telefónica Deutschland).
+Die Konzern-Standorte der heutigen Vodafone GmbH befinden sich in Düsseldorf-Heerdt (Vodafone-Campus und Zentrale), Eschborn und Berlin (Konzernrepräsentanz). Daneben gibt es insgesamt acht Regional-Niederlassungen: Hamburg und Langenhagen (Region Nord), Berlin (Region Nord-Ost), Dortmund (Region Nord-West), Eschborn/Frankfurt (Region Rhein-Main), Radebeul/Dresden (Region Ost), München (Region Süd), Stuttgart (Region Süd-West) sowie Ratingen/Düsseldorf (Region West).
+
+
+== Geschichte Mobilfunk ==
+Gegründet wurde die Vodafone GmbH unter der Firma Mannesmann Mobilfunk GmbH als Mobilfunk-Tochterunternehmen des ehemaligen Mannesmann-Konzerns. Im Jahr 1988 wurde vom Bundesministerium für Post und Telekommunikation eine Lizenz für ein GSM-Netz ausgeschrieben. Es bildeten sich daraufhin mehrere Bewerberkonsortien, unter anderem ein Konsortium unter der Führung der Mannesmann AG. Am 8. Dezember 1989 erhielt das Mannesmann-Konsortium den Zuschlag für die GSM-Lizenz. Noch im Dezember 1989 ging aus dem erfolgreichen Bewerberkonsortium die Mannesmann Mobilfunk GmbH (MMO) als erster privater deutscher Netzbetreiber mit Sitz in Düsseldorf hervor. Vorsitzender der Geschäftsführung war Peter Mihatsch. Bis Ende 1990 war die Beschäftigtenzahl bereits auf 350 angestiegen. Im Februar 1991 wurde die GSM-Lizenz auch auf das Beitrittsgebiet der deutschen Wiedervereinigung erweitert.
+Nach A-, B- und C-Netz der Deutsche Bundespost wurde nun das digitale Mobilfunknetz „D-Netz“ nach GSM-Standard in Deutschland aufgebaut. Erstmals hatte die Bundespost damit im Mobilfunk-Bereich mit Mannesmann einen Konkurrenten – zur Abgrenzung wurden die Netze jeweils mit den Kurzbezeichnung „D1“ (Bundespost) bzw. „D2“ (Mannesmann) vermarktet. Der kommerzielle Betrieb des D2-Netzes begann mit der Auslieferung der ersten Endgeräte am 30. Juni 1992. Gegen Ende des Jahres 1992 konnte bereits der 100.000. Kunde im D2-Netz eingebucht werden.
+Die Mobiltelefone wurden zunächst über Fernsehhändler und Kaufhäuser zu einem Preis von knapp unter 3000 DM angeboten. Mit etwa 200 Antennenstationen begann D2 zunächst in einigen deutschen Großstädten wie Hamburg, Bremen, Hannover, Frankfurt am Main und Stuttgart. Schon Ende 1992 erreichte das D2-Netz 80 Prozent Deutschlands. Die Gebühren lagen unter denen des bestehenden C-Netzes der Post. Von Anfang an waren Übergänge an das Festnetz der Telekom vorgesehen. Ab Dezember 1993 schrieb das Unternehmen schwarze Zahlen.
+
+Bei Mannesmann wandelte sich der Produktname, von zunächst „D2 privat“ zu „D2 Mannesmann“; das Wort „privat“ hatte seine Zugkraft verloren. Die Mannesmann-Konkurrentin Deutsche Bundespost betrieb ihr GSM-Netz zunächst unter der Marke „D1“ – zuständig für D1 war bei der Bundespost das Zentralamt für Mobilfunk, bei der Nachfolgerin Telekom wurde das GSM-Netz u.a. als „T-D1“ bei der DeTeMobil geführt, und schließlich als „T-Mobile“. Bis zur Übernahme von Mannesmann durch Vodafone im Februar 2000 wechselten sich D1- und D2-Netz in der Marktführerstellung mehrfach ab.
+Für Vodafone bedeutete dieser Zukauf eine enorme Steigerung des Marktanteils, zumal damit gleich mehrere Firmenbeteiligungen von Mannesmann an Mobilfunkunternehmen außerhalb Deutschlands übernommen wurden. Einige Beteiligungen wurden integriert (z. B. Omnitel in Italien oder SFR in Frankreich), andere Konzernteile mussten aufgrund behördlicher Auflagen verkauft werden (Orange in Großbritannien) oder wurden freiwillig verkauft (Telering in Österreich).
+Mit dem Markenwechsel von D2 zu Vodafone wurde 2002 die Mannesmann Mobilfunk GmbH in Vodafone D2 GmbH umbenannt.
+
+
+== Geschichte Festnetz ==
+Der Festnetzbereich von Vodafone ist damals aus einem Joint Venture von Mannesmann und Deutsche Bank namens Communications Network International (CNI) hervorgegangen. Im Juni 1996 hatte die CNI 49 Prozent der DBKom, dem ausgegliederten Telekommunikationsbereich der Deutschen Bahn übernommen. Hieraus entstand im Jahre 1996/1997 die damalige Mannesmann Arcor AG & Co. KG, als Keimzelle des heutigen Unternehmensbereichs. Nach der Übernahme von Mannesmann durch Vodafone wurde sie in Arcor AG & Co. KG umbenannt.
+
+Arcor hatte sich im Laufe der Zeit einige Beteiligungen und Übernahmen gesichert. Als größte Übernahmen sind hier die o.tel.o communications GmbH & Co., callisto germany.net GmbH und ISIS Multimedia Net GmbH & Co. KG zu nennen. o.tel.o wurde operativ im Jahr 2001 in Arcor integriert und spielt seitdem im Festnetz keine eigene Rolle mehr. Arcor dehnte sich im Regierungsbezirk Düsseldorf mit der Übernahme von ISIS, einem ehemaligen regionalen Carrier an Rhein und Ruhr, im Dezember 2005 aus. Die Verschmelzung mit dieser erfolgte rückwirkend zum 1. April 2005, dem damaligen Beginn des Arcor-Geschäftsjahres.
+Nachdem zuerst die Überlegungen bestanden, Arcor komplett zu verkaufen, entschied sich die Vodafone Group im Jahre 2008 dazu, die restlichen Anteile der Deutschen Bank AG zu übernehmen und Arcor mit der deutschen Tochter zu fusionieren.
+Im Laufe des Jahres 2009 wurde die Arcor AG & Co. KG zunächst in Vodafone AG & Co. KG umbenannt, um dann am 10. Dezember 2009 mit der Vodafone D2 GmbH zu fusionieren. Damit kam das Aus für die Marke Arcor; Vodafone integrierte dessen Produkte in die eigene Produktpalette.
+So entstand der erste voll integrierte Telekommunikationsanbieter in Deutschland, der in der Lage ist Festnetz, Mobilfunk und TV aus einer Hand anzubieten.
+Arcor war seit Beginn der vollständigen Liberalisierung des TK-Sektors im Festnetzbereich der größte alternative Wettbewerber der Deutschen Telekom in Deutschland. Seit April 2005 gehörte Arcor auch zu den Providern für IP-Telefonie (auch als „Voice over IP“, kurz: VoIP bekannt). Bei Arcor wurde dieser Dienst als „Arcor-Sprache VoIP“ etabliert und zunächst in den „Persönlichen Internet Assistenten“ (kurz: PIA) integriert. Durch den Wechsel zur NGN-Technik bei der Bereitstellung herkömmlicher Sprachtelefonie an Teilnehmeranschlüssen mit abonniertem DSL wurde IP-Telefonie seit Ende 2006 jedoch zunehmend als Regeltechnologie genutzt. Arcor war hier marktführend.
+Unter dem Markennamen Arcor wird noch immer ein Webportal (arcor.de) betrieben, worüber auch Zugang zu verschiedenen Webdiensten besteht. So begann Arcor nach der Übernahme von germany.net erst mit nexgo, später unter dem Webportal arcor.de auch als Webhoster aufzutreten. Dieses Tätigkeitsfeld wird jedoch zum 31. Januar 2017 komplett eingestellt, was das Aus für kostenpflichtig wie auch für die unter der URL home.arcor.de gratis eingestellten privaten Websites bedeutet. Alle anderen Dienste wie die E-mail-Accounts werden jedoch weitergeführt.
+
+
+== Geschichte Kabel ==
+Im September 2013 erreichte Vodafone eine Aktienmehrheit von 75 Prozent an dem deutschen Unternehmen Kabel Deutschland. Seit dem 2. September 2015 ist nun die Vodafone Kabel Deutschland GmbH für die Kabel-Festnetz- und Kabel-TV-Angebote verantwortlich.
+
+Durch diese letzte Übernahme ist Vodafone nun auch in der Lage, unabhängig von der „letzten Meile“ der Telekom in 13 Bundesländern Angebote aus Telefon, Internet und Fernsehen anzubieten mit Übertragungsgeschwindigkeiten, die das herkömmliche Festnetz via DSL, VDSL und Vectoring nicht bietet.
+Durch die Übernahme konnte Vodafone seinen Marktanteil am deutschen Breitbandmarkt leicht ausbauen. Vodafone verlor in den Jahren vor der Übernahme im DSL-Geschäft Breitbandkunden und Marktanteile, während die Kundenzahl bei Kabel Deutschland stieg.
+Seit dem 2. September 2015 wird die Marke Kabel Deutschland nach außen hin nicht mehr aktiv genutzt. Einzig im Geschäft mit der Immobilienwirtschaft wird der Name noch verwendet. Die ehemalige Kabel Deutschland Vertrieb und Service GmbH firmiert seither als Vodafone Kabel Deutschland GmbH. Die neue Gesellschaft nutzt auch das Logo des Mutterkonzerns ohne den Zusatz „Kabel Deutschland“.
+
+
+== Festnetz(e) ==
+Vodafone gehört zu den Telefonanbietern, die über ein eigenes Festnetz bis auf die Ebene der Teilnehmervermittlungsstellen verfügen, ab dort jedoch die Anschlussleitung der Deutschen Telekom nutzt. Die sogenannte „letzte Meile“.
+Heute betreibt Vodafone ein bundesweites Festnetzkonzentrationsnetz mittels klassischer ISDN-Technik und parallel auch als IP-NGN-Netz über VoIP. Die Internetanbindung erfolgt über ADSL/ADSL2+, SDSL (nur für Geschäftskunden) sowie VDSL2 und VDSL2-Vectoring (Kontingentmodell) und in einigen Neubaugebieten auch FTTx. Neben der Deutschen Telekom ist Vodafone mit seiner IPTV-Plattform „Vodafone TV“ nach der Einstellung von „Alice TV“ durch „o2“ zum 31. Dezember 2013 der einzige verbliebene Entertain-Konkurrent der Telekom. Das Vodafone-Backbone wird zunehmend auch zur Anbindung der schnellen Mobilfunknetze (3G/4G) genutzt, da die bisherige Richtfunkanbindung kapazitätsmäßig und qualitativ nicht mehr ausreicht, um die neuen SRAN-Module für den Mobilfunk anzubinden. Mit dem Erwerb von Kabel Deutschland wird zum einen der nationale Festnetz-Backbone von Vodafone gestärkt und zum anderen um direkte Teilnehmeranschlussleitungen (Kabelanschlüsse in den Haushalten) ergänzt. In 13 von 16 Bundesländern ist Vodafone damit künftig im Stande, auf das TAL-Vorleistungsprodukt der Deutschen Telekom zu verzichten und damit jährlich Entgelte in Höhe von rund einer halben Milliarde Euro gegenüber der Telekom einzusparen.
+
+
+== Mobilfunknetze ==
+Vodafone betreibt bundesweite Mobilfunknetze nach dem GSM-, dem UMTS- und dem LTE-Standard. Diese werden sowohl von der Vodafone GmbH, als auch von der mobilcom-debitel GmbH und der Drillisch Online AG (Telco) genutzt.
+Die Netze im Einzelnen:
+
+
+=== GSM ===
+Für GSM werden die Frequenzbereiche bei 900 MHz und bei 1800 MHz genutzt. Das GSM-Netz umfasst dabei ca. 20.000 und das UMTS-Netz mehr als 13.000 Basisstationen.
+
+
+=== UMTS ===
+Die UMTS-Dienste werden im Frequenzbereich bei 2100 MHz angeboten.
+Die Vodafone Deutschland GmbH hat im April 2013 damit begonnen, das UMTS-Netz um den Sprachstandard HD Voice zu erweitern. Der Ausbau soll noch im Sommer 2013 fertiggestellt sein. Mit der bundesweiten Versorgung im UMTS-Netz ist ab spätestens August 2013 zu rechnen. Mittlerweile wird das UMTS-Netz immer mehr abgebaut und durch das neuere und leistungsfähigere LTE (4G-Netz) abgelöst.
+
+
+=== LTE ===
+Für LTE wurden im Jahre 2010 Frequenzen im Bereich 800 MHz und 2600 MHz ersteigert.
+Seit 2011 läuft die Erweiterung des Vodafone-Mobilfunknetzes auf den Netzstandard LTE (Long Term Evolution) der vierten Generation (3.9G-Standard). Dabei werden bestehende Vodafone-Mobilfunk-Basisstationen um LTE-Module erweitert, erneuert und neue bisher nicht versorgte Standorte erschlossen. Eine Vorgabe der Bundesnetzagentur ist dabei die gleichmäßige Versorgung der ländlichen Gebiete und der Städte. Nach eigener Aussage wurde Anfang 2015 eine LTE-Flächendeckung von 70 % erreicht, alle Großstädte und 2300 Gemeinden sind bereits ausgebaut. Seit April 2013 bietet Vodafone LTE-Geschwindigkeiten nach Tarifen gestaffelt bis maximal 50 MBit/s und entsprechendem Datenvolumen an. Im Dezember 2014 kündigte Vodafone an, die maximale Übertragungsgeschwindigkeit für alle Kunden in Red-Tarifen auf 100 MBit/s zu erhöhen. 2016 wurden die Geschwindigkeiten im LTE Netz zuerst auf 375 Mbit/s gesteigert und im November 2016 begann der Ausbau aus 500 MBit/s. Vodafone bietet den maximalen LTE Speed auch bei den Callya Prepaidkarten an.
+Im Mai 2016 gab Vodafone bekannt, 87 % der Fläche Deutschlands mit LTE zu versorgen. Bei der Frequenzauktion 2015 hat Vodafone Lizenzen für 10 MHz im Bereich 700 MHz, 10 MHz im Bereich 900 MHz, 20 MHz im Bereich 1500 MHz und 25 MHz auf 1800 MHz ersteigert.
+
+
+=== Mobilgeräte ===
+In einigen Märkten bietet Vodafone eigene Android-basierte Vertragsgeräte an, die von TCL Communication Ltd. im Auftrag gefertigt werden. In Deutschland sind diese Geräte unter der Bezeichnung Vodafone Smart auf dem Markt.
+
+
+== Unternehmensdaten ==
+Vodafone beschäftigt 11.000 Mitarbeiter in Deutschland. Im Geschäftsjahr 2012/2013 erwirtschaftete das Unternehmen einen Umsatz von 9,641 Milliarden Euro. Vodafone hat derzeit am Mobilfunkmarkt einen Marktanteil von rund 27 % (2. Quartal 2015). Mit 30.320.000 Kunden ist Vodafone die Nummer drei im deutschen Markt. Der Marktanteil ging von 61,6 % im Jahr 1992 über 40,8 % im Jahr 1999 kontinuierlich auf den aktuellen prozentualen Anteil zurück.
+
+
+== Executive Committee ==
+
+
+== Kritik ==
+
+Da der mobile Internetzugang über EDGE und teilweise auch über UMTS im Netz von Vodafone im Herbst 2012 oft überlastet und an manchen Standorten kaum nutzbar war, begann das Unternehmen nach eigenen Angaben umgehend die größte Netzmodernisierung der letzten Jahre.
+Während Vodafone mit der vielfältigen Nutzbarkeit des Internets über Mobilfunk wirbt, werden beim Transport der Datenpakete tatsächlich diejenigen mit bestimmten Inhalten ausgebremst oder völlig blockiert, was der Netzneutralität widerspricht. Im Speziellen verbietet Vodafone bei dem als schnellen Festnetzersatz vermarkteten LTE-Anschluss sogar grundsätzlich die Kommunikation zwischen privaten Computern (Peer-to-Peer) und damit jegliche Form der Direktkommunikation, inklusive Instant Messaging oder Videokonferenzen. Die dazu nötige Überwachungstechnik nennt sich Deep Packet Inspection und wird vorrangig von diktatorischen Regimes zur Zensur und zum Aufspüren von politischen Gegnern eingesetzt.
+Bei den Routern Easybox 802 und 803 hat Vodafone seit Dezember 2012 nach Angaben des Bundesamtes für Sicherheit in der Informationstechnik Kenntnis über Sicherheitslücken in der Wi-Fi Protected Setup (WPS)-Konfiguration. Die Sicherheitslücke ermöglicht es Angreifern unbemerkt von den Inhabern deren Internetzugänge zu benutzen. Bis Dezember 2014 wurde die Sicherheitslücke nicht behoben.
+Im September 2013 erfolgte ein Angriff auf die Kundendatenbank des Unternehmens, wodurch der Täter Zugriff auf zwei Millionen Datensätze, die Adressen, Geburtsdaten und Bankverbindungen umfassten, erlangte. Kreditkartendaten, Passwörter und PIN-Codes waren nach Angaben von Vodafone nicht betroffen.
+
+
+== Logos ==
+
+
+== Literatur ==
+Thomas Heuzeroth: Der Mobilfunker. Obwohl die Geschäfte von Vodafone in Deutschland gut laufen, setzt der Konzern mit Jens Schulte-Bockum einen neuen Chef an die Spitze. Der ähnelt seinem Vorgänger. In Welt am Sonntag, 18. März 2012, S. 32. Online
+
+
+== Weblinks ==
+
+Website der Vodafone GmbH
+
+
+== Einzelnachweise ==

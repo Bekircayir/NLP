@@ -1,0 +1,27 @@
+Bronchopulmonale Dysplasie (BPD) ist eine chronische Lungenkrankheit, die vor allem bei frühgeborenen Kindern mit geringem Geburtsgewicht auftritt, wenn diese Kinder über längere Zeit künstlich beatmet werden, um zum Beispiel das Neugeborenen-Atemnotsyndrom (IRDS) zu behandeln. Sie kann zu einer langwierigen Schädigung der Lunge bis ins frühe Erwachsenenalter bzw. bei fortschreitender Lungenveränderung zum Tode führen. In Abhängigkeit von Schweregrad und Wirksamkeit der Behandlung kann vielfach im Laufe des 1. Lebensjahres eine Besserung erreicht werden.
+
+
+== Häufigkeit ==
+Die Häufigkeit von BPD nimmt mit zunehmendem Gestationsalter der Kinder ab. Ca. 15–30 % der Frühgeborenen mit einem Geburtsgewicht < 1000 g oder < 32 Schwangerschaftswochen erkranken an einer BPD, bei Frühgeborenen oberhalb von 32 Schwangerschaftswochen tritt BPD kaum auf.  Eine unreife Lunge mit Mangel an Surfactant ist wesentlicher Risikofaktor für das Auftreten von BPD. Hoher Beatmungsdruck, hohe Sauerstoffkonzentrationen und lange Dauer der künstlichen Beatmung, ein nicht verschlossener Ductus arteriosus, sowie Infektionen der Lunge sind weitere Faktoren. Die Entstehung der BPD ist das Resultat von Umbauvorgängen mit entzündlicher Bildung von Bindegewebe nach anfänglicher Wassereinlagerung in einer unreifen Lunge, die chemischen (Sauerstoffradikale), mechanischen (Drucktrauma, Volumentrauma) und biologischen (mikrobielle Erreger) Schädigungen ausgesetzt ist. Betroffen sind die Lungenbläschen, die Atemwege und die Blutgefäße der Lunge, die sich verengen und damit dann auch zu einem erhöhten Druck im Lungenkreislauf und einer Belastung für die rechte Herzkammer führen können.
+
+
+== Diagnose ==
+Klinische Symptome können erhöhte Atemfrequenz, vertiefte angestrengte Atmung mit Einziehungen am Brustkorb, vermehrtes Bronchialsekret, Husten, Wachstumsverzögerung und livide Haut- und Schleimhaut sein. Im Röntgenbild der Lunge finden sich u. a. diffus Überblähungsbezirke neben unzureichend belüfteten Bereichen (Atelektasen).
+Diagnose und Einteilung erfolgen anhand des zu einer ausreichenden Sauerstoffsättigung des Blutes notwendigen Sauerstoffbedarfs zu einem festgelegten Alter des Kindes. Definitionsgemäß ist dabei der Bedarf zum Zeitpunkt eines korrigierten Alters von 36 Schwangerschaftswochen (SSW) maßgebend. Man unterscheidet zwischen einer milden (mit 36 SSW kein erhöhter Sauerstoffbedarf mehr), moderaten (weniger als 30 % Sauerstoff in der Einatemluft notwendig) und schweren Verlaufsform (mehr als 30 % und/oder Beatmung bzw. Atemunterstützung durch CPAP notwendig).
+
+
+== Vorbeugung ==
+Maßnahmen zur Vorbeugung gegen BPD sind: Vermeidung von Frühgeburtlichkeit, Lungenreifeinduktion vor der Geburt mit Gabe von Kortikosteroiden an die Mutter, Vermeidung von Infektionen, schonende möglichst kurzzeitige Beatmung unter Inkaufnahme auch von erhöhten Kohlendioxid-Blutgaswerten, frühzeitige Diagnose und Verschluss eines offen gebliebenen Ductus arteriosus, eventuell Vitamin-A-Gaben an das Kind.
+Die Anwendung von Surfactant bei Frühgeborenen mit Atemnotsyndrom, die Ende der 1980er Jahre eingeführt wurde, hat die Überlebenschancen frühgeborener Kinder mit BPD erheblich verbessert, verhindert allerdings nicht das Auftreten von BPD.Die Behandlung mit systemischen Kortikosteroiden wie Dexamethason führt zu einer schnellen Verbesserung der Lungenfunktion und kann bei sehr früher Gabe (in den ersten 96 Lebensstunden) auch zu einer Verringerung des Auftretens von BPD führen, allerdings sind bei frühzeitiger Gabe auch die Nebenwirkungen schwerer und häufiger.
+Eine systemische Kortikoidbehandlung begünstigt das Auftreten von Zerebralparesen.
+
+
+== Therapie ==
+Die Gabe von Sauerstoff zur Aufrechterhaltung einer Sauerstoffsättigung des Blutes von > 92 % ist die vordergründige Therapie. Kortikosteroide (systemisch bzw. Inhalation) wirken dem chronisch-entzündlichen Prozess entgegen, dürfen aber nicht unkritisch eingesetzt werden. Auf die Nebenwirkungen wie z. B. Hyperglykämien, Magengeschwüre und Darmblutungen, Entwicklung einer Osteoporose usw. ist dabei zu achten. Entwässernde Medikamente (Diuretika) sollen ein Lungenödem behandeln. Bei Verengung der Atemwege kommt die Inhalation mit Bronchospasmolytika in Frage. Eine physiotherapeutische Behandlung sollte frühzeitig und kontinuierlich durchgeführt werden. Gefäßerweiternde Medikamente können ggf. einen erhöhten Druck im Lungenkreislauf senken. Wegen des erhöhten Energiebedarfs der erkrankten Kinder ist auf eine energiereiche Ernährung zu achten. Vor Entlassung aus der Klinik sind die ersten Impfungen gegen Keuchhusten, Pneumokokken- und Hämophilus influenzae-Infektionen durchzuführen. Da Kinder mit BPD durch RSV-Infektionen stark gefährdet sind, ist in den Wintermonaten im ersten Lebensjahr bei schweren Verlaufsformen auch die vorbeugende Gabe von monoklonalen Antikörpern gegen diese Virusinfektion zu erwägen. Ab dem 6. Lebensmonat ist die Impfung gegen Influenza empfehlenswert.
+
+
+== Siehe auch ==
+Wilson-Mikity-Syndrom
+
+
+== Einzelnachweise ==

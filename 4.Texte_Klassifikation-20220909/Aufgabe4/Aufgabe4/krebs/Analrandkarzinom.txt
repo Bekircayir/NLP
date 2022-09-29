@@ -1,0 +1,47 @@
+Das Analrandkarzinom (engl. carcinoma of the anal margin oder carcinoma of the perianal area) ist ein Hautkarzinom mit vorwiegend flächiger und ulzeröser Ausbreitung.
+Es gehört zusammen mit dem Analkanalkarzinom zu den Analkarzinomen. Das Analrandkarzinom entsteht meist aus einer perianalen intraepithelialen Neoplasie (PAIN, eine Gewebeneubildung innerhalb der den Anus umgebenden Epithelzellen (eine Präkanzerose)).
+Die Erkrankung ist relativ selten.
+
+
+== Definition und Beschreibung ==
+Analrandkarzinome werden als maligne Tumoren definiert, die unterhalb (distal) der Linea anocutanea und 5 cm in deren Umkreis entstehen. Maligne Tumoren, die proximal (oberhalb, in oraler Richtung) der Linea anocutanea und unterhalb der Linea dentata liegen, sind definitionsgemäß Analkanalkarzinome.
+In den meisten Fällen handelt es sich um Plattenepithelkarzinome, die auch als Spinaliome oder Stachelzellkarzinome bezeichnet werden. Wesentlich seltener sind Adenokarzinome. Analrandkarzinome wachsen relativ langsam und metastasieren bevorzugt in Lymphknoten der Leistenregion. Fernmetastasen sind eher selten und betreffen im Wesentlichen Leber und Lunge.
+
+
+== Häufigkeit ==
+Etwa jedes fünfte Analkarzinom ist ein Analrandkarzinom. Männer und Frauen sind gleich häufig betroffen. Der Altersgipfel liegt zwischen dem 60. und 70. Lebensjahr. Etwa 0,2 bis 0,4 % aller gastrointestinalen Karzinome sind Analrandkarzinome. Die Inzidenz liegt bei etwa 0,2 pro 100.000 Einwohner und Jahr.
+
+
+== Ursachen ==
+Die genaue Ätiologie des Analrandkarzinoms ist unklar. Bedeutende Risikofaktoren sind vorgeschädigte Bereiche der Perianalhaut. Dazu gehören chronische Entzündungen, wie beispielsweise Morbus Crohn und Infektionen mit Humanen Papillomviren (HPV), speziell mit den krebserregenden Hoch-Risiko-Typen 16, 18 und 58. Entsprechend können Feigwarzen (Condylomata acuminata), die durch die HPV-Hoch-Risiko-Typen entstehen, der Ausgangspunkt für die Entartung des Plattenepithels sein. Auch eine Knötchenflechte (Lichen ruber planus) eine Acne inversa, und ein Lichen sclerosus, sowie Infektionen mit dem Herpes-simplex-Virus Typ 2 können den Boden für die Entstehung eines Analrandkarzinoms bilden. Ein weiterer bedeutender Risikofaktor ist eine Immunsuppression, beispielsweise nach einer Organtransplantation, oder bei immuninkompetenten HIV-positiven Patienten
+
+
+== Symptomatik und Diagnose ==
+In der Vorstufe der perianalen intraepithelialen Neoplasie (PAIN, der Begriff Präkanzerose gilt als veraltet) liegen ekzemartige Hautveränderungen vor. Ein sich daraus entwickelndes Analrandkarzinom präsentiert sich als warzenartiger (verruköser) hautfarbener bis rötlicher Knoten, der von derber, seltener glatter Morphologie ist. Das Karzinom breitet sich über Monate und Jahre peripher und in die Tiefe aus. Dabei kann es tiefer liegende Gewebe und Organe infiltrieren. Mit dem Beginn der Geschwürbildung (Exulzeration) stellen sich bei den Patienten Juckreiz, Nässen, Blutungen und Schmerzen ein.Der behandelnde Arzt, meist ein Dermatologe oder Proktologe, führt in der Regel eine genaue Inspektion und Palpation des Anus durch. Mit Hilfe der Entnahme einer kleinen Gewebemenge kann die Verdachtsdiagnose histologisch abgesichert werden. Für die Behandlung des Tumors ist die Kenntnis seines Ausbreitungsgrades (Klassifikation) und seiner Dicke notwendig. Mit Hilfe der Gewebeprobe kann der Differenzierungsgrad (Grading) des Tumors bestimmt werden. Hat der Tumor eine Dicke von 2 cm überschritten, so wird eine Ultraschalluntersuchung der Lymphknoten in der Leistengegend (inguinale Lymphknotensonografie) empfohlen. Damit kann festgestellt werden, ob der Tumor Metastasen in den Lymphknoten gebildet hat. Bei Tumoren der Klasse 4 werden meist bildgebende Verfahren wie Magnetresonanztomographie oder Computertomographie eingesetzt, um mögliche Fernmetastasen aufzuspüren.Bei der Differentialdiagnose sind Basaliome, anorektale Melanome, Keratoakanthome, Warzen und nach außen wachsende Analkanalkarzinome zu unterscheiden.
+
+
+== Klassifikation ==
+Die TNM-Klassifikation des Analrandkarzinoms:
+
+
+== Therapie ==
+Wenn die Ergebnisse der histologischen und gegebenenfalls bildgebenden Untersuchungen vorliegen, das Ausmaß und die Differenzierung des Analrandkarzinoms somit bekannt sind, kann – abhängig vom Diagnoseergebnis – die Behandlung erfolgen. Das vollständige Herausschneiden des Tumors (Exzision) ist beim Analrandkarzinom die Methode der Wahl und Standardtherapie. Der Exzisionsrand muss dabei histologisch betrachtet tumorfrei sein. Bei der Entfernung des Karzinoms wird daher meist ein Sicherheitsabstand von 1 cm eingehalten. Ein Ziel der Operation ist es, die Stuhlkontinenz des Patienten zu erhalten. Ist dieses Ziel durch operative Maßnahmen gefährdet, so kann alternativ eine Strahlentherapie erfolgen. In vielen Fällen kann die bei der Exzision entstehende Wunde offen bleiben oder direkt vernäht werden. Eine Lappenplastik ist daher meist nicht notwendig.Zusätzlich zur chirurgischen Entfernung kann die photodynamische Therapie (PDT) angewendet werden. Die PDT kann auch zur Behandlung von perianalen intraepithelialen Neoplasien (Präkanzerosen) eingesetzt werden.Sind die regionären Lymphknoten befallen, so wird in den meisten Fällen eine radikale Lymphadenektomie (operative Entfernung der betroffenen Lymphknoten) durchgeführt. Unter Umständen können strahlentherapeutische Maßnahmen erfolgen.Analrandkarzinome der Klasse T3, die den Schließmuskelapparat infiltriert haben, oder der Klasse T4 (Befall anderer Organe) werden meist wie ein Analkanalkarzinom behandelt.
+
+
+== Prognose ==
+Aufgrund der geringen Häufigkeit der Erkrankung finden sich in der Literatur keine zuverlässigen Daten bezüglich Letalität und Überlebensrate. Wie bei den meisten Krebserkrankungen hängt die Prognose von den Faktoren Tumorgröße, Primär- oder Rezidivtumor, Ausbreitungsstadium, histologische Differenzierung und Immunstatus ab.
+
+
+== Weiterführende Literatur ==
+D. Leonard, D. Beddy, E. J. Dozois: Neoplasms of anal canal and perianal skin. In: Clinics in Colon and Rectal Surgery. Band 24, Nummer 1, März 2011, S. 54–63, ISSN 1530-9681. doi:10.1055/s-0031-1272824. PMID 22379406. PMC 3140334 (freier Volltext).
+V. Wienert: Perianal squamous cell carcinoma. In: Journal der Deutschen Dermatologischen Gesellschaft. Band 4, Nummer 11, November 2006, S. 984–985, ISSN 1610-0387. doi:10.1111/j.1610-0387.2006.06096.x. PMID 17081276. (Review).
+G. Plewig, P. Thomas (Hrsg.): Fortschritte der praktischen Dermatologie und Venerologie 2006. Band 20, Gabler Wissenschaftsverlage, 2007, ISBN 3-540-30514-9, S. 774. eingeschränkte Vorschau in der Google-Buchsuche
+G. H. Hoffman: Perianal Cancers—Multimodality Treatment. In: Clinical Review. Band 38, Nummer 4, 2011.
+C. S. Nahas, O. Lin u. a.: Prevalence of perianal intraepithelial neoplasia in HIV-infected patients referred for high-resolution anoscopy. In: Diseases of the Colon and Rectum. Band 49, Nummer 10, Oktober 2006, S. 1581–1586, ISSN 0012-3706. doi:10.1007/s10350-006-0658-3. PMID 16977374.
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+Squamous Cell Carcinoma of the Anal Margin. (englisch)

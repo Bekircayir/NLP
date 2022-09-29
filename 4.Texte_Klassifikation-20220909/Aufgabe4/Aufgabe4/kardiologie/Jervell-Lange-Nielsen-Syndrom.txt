@@ -1,0 +1,45 @@
+Das Jervell-Lange-Nielsen-Syndrom (JLNS) ist eine sehr seltene angeborene Erkrankung mit einer Kombination von QT-Zeit-Verlängerung, ventrikuläre Tachyarrhythmie und angeborener Innenohrschwerhörigkeit.Die Erkrankung gilt als Variante des Familiären Long-QT-Syndroms mit früherem Krankheitsbeginn und schwererem Verlauf.Synonyme sind: Kardio-auditives Syndrom; Surdikardiales Syndrom; QT-Intervall, verlängertes – Schwerhörigkeit; Jervell-und-Lange-Nielsen-Syndrom
+Die Bezeichnung bezieht sich auf die Autoren der Erstbeschreibung aus dem Jahre 1957 durch die norwegischen Internisten Anton Jervell und Fred Lange-Nielsen. Sie hatten eine achtköpfige Familie in Norwegen beschrieben, in der vier Kinder gehörlos waren. Mitglieder der Familie fielen wegen wiederholter Schwindelattacken und Bewusstlosigkeiten auf und zeigten im EKG eine deutliche Verlängerung des QT-Intervalls. Drei dieser Kinder starben an einem plötzlichen Herztod.
+
+
+== Verbreitung ==
+Die Häufigkeit wird mit 1 – 9 zu 100.000 angegeben, die Vererbung erfolgt  autosomal-rezessiv.
+Etwa sieben Prozent der kongenitalen Long-QT-Syndrome werden dem JLNS zugerechnet, circa 0,25 Prozent aller schwerhörigen Kinder leiden an dieser Erkrankung.
+Eine Variante mit autosomal-dominanter Vererbung wird als Romano-Ward-Syndrom bezeichnet.
+
+
+== Ursache ==
+Je nach zugrunde liegender Mutation können folgende Typen unterschieden werden:
+
+Typ 1 mit Mutationen im KCNQ1-Gen auf Chromosom 11 Genort p15.5–p.15.4 zugrunde.
+Typ 2 mit Mutationen im KCNE1-Gen auf Chromosom 21 an q22.12.
+
+
+== Klinische Erscheinungen ==
+Klinische Kriterien sind:
+angeborene Innenohrschwerhörigkeit beidseitig
+synkopale Anfälle bei Stress, Anstrengung oder Kälte
+oft erhebliche QT-Verlängerung (>500 ms) mit Tachyarrhythmien (ventrikuläre Tachykardie, Torsades de pointes und Kammerflimmern)
+Krankheitsbeginn bei fast der Hälfte innerhalb der ersten drei Lebensjahre
+
+
+== Differentialdiagnose ==
+Abzugrenzen sind andere Formen der Schallempfindungs-Schwerhörigkeit, das Romano-Ward-Syndrom und andere Formen des QT-Syndroms, Elektrolytstörungen, Orthostatische Dysregulation, vasovagale Synkope oder durch Arzneimittel bedingte Verlängerung der QT-Zeit.
+
+
+== Therapie ==
+Zur Behandlung der Schwerhörigkeit stehen Cochlea-Implantate zur Verfügung, die Herzprobleme sind auch mit Beta-Blockern und Implantation eines Kardioverter-Defibrillators schwieriger anzugehen.
+
+
+== Literatur ==
+J. Kanovsky, T. Novotny, J. Kadlecova, R. Gaillyova: A new homozygous mutation of the KCNQ1 gene associated with both Romano-Ward and incomplete Jervell Lange-Nielsen syndromes in two sisters. In: Heart rhythm, Band 7, Nr. 4, April 2010, S. 531–533, doi:10.1016/j.hrthm.2009.11.034, PMID 20138589.
+E. Schulze-Bahr, W. Haverkamp, H. Wedekind, C. Rubie, M. Hördt, M. Borggrefe, G. Assmann, G. Breithardt, H. Funke: Autosomal recessive long-QT syndrome (Jervell Lange-Nielsen syndrome) is genetically heterogeneous. In: Human genetics, Band 100, Nr. 5–6, Oktober 1997, S. 573–576, PMID 9341873.
+K. Theisen, H. Jahrmärker: Re-entry-Mechanismus ventrikulärer Tachykardien bei inhomogener Repolarisation. Unter besonderer Berücksichtigung des Jervell-Lange-Nielsen-Syndroms und ähnlicher Zustände und ihrer Therapie. In: Deutsche Medizinische Wochenschrift, Band 100, Nr. 20, Mai 1975, S. 1141–1147, doi:10.1055/s-0028-1106349, PMID 1092539 (Review).
+
+
+== Weblinks ==
+Genetics Home Reference
+Rare Diseases
+
+
+== Einzelnachweise ==

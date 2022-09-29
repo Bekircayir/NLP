@@ -1,0 +1,35 @@
+Imagination Technologies (kurz "ImgTec") ist ein englisches Unternehmen, das sich auf die Entwicklung und Lizenzvergabe von geistigem Eigentum (engl. "intellectual property" = IP) spezialisiert hat. Die Aktien des Unternehmens werden unter dem Kürzel IMG an der London Stock Exchange gehandelt.
+
+
+== Geschichte ==
+Imagination Technologies wurde bereits 1985 als VideoLogic Limited gegründet. Damals konzentrierte man sich auf die Entwicklung und den Vertrieb von Multimedia-Produkten für PCs, so dass das Produktsortiment vor allem Grafikkarten und spezielle Videobeschleuniger umfasste.
+Im Juli 1994 ging das Unternehmen an die Börse. Am 18. November 1996 brachte das Unternehmen dann zusammen mit NEC mit dem NEC PowerVR PCX1 den ersten 3D-Grafikchip der PowerVR-Serie auf den Markt. VideoLogic hatte die entsprechende Technologie entwickelt, NEC fertigte und verkaufte die fertigen Grafikchips und VideoLogic wiederum verkaufte entsprechende Grafikkarten der Apocalypse-Serie.
+Am 31. August 1999 gab VideoLogic dann die Umbenennung in Imagination Technologies und eine Restrukturierung des Unternehmens bekannt: Die Grafikentwicklung wurde als Tochterunternehmen mit dem Namen PowerVR Technologies ausgegliedert während man unter dem früheren Namen VideoLogic Systems ein Tochterunternehmen etablierte, dass für den Verkauf von Produkten mit Technologien von Imagination Technologies verantwortlich war. Imagination Technologies fungierte von nun an als Holding und sorgte für die entsprechende Zusammenarbeit der Tochterfirmen.
+Am 23. März wurde Ensigma, spezialisiert auf die Entwicklung von DSPs, übernommen und als dritte Tochterfirma (Ensigma Technologies) dem Unternehmen eingegliedert. Da Ensigma sich mehr auf die Entwicklung von Kommunikationstechnologien spezialisierte, wurde für die weitere Entwicklung von allgemeinen DSPs am 3. Mai 2001 das Tochterunternehmen Metagence Technologies gegründet.
+Nachdem sich im Lauf der Zeit der Fokus von Grafikprodukten mehr in Richtung allgemeine Audioprodukte verlagert hatte, beschloss man am 15. Juli 2002 die Umbenennung von VideoLogic Systems in PURE Digital. VideoLogic ist nun nur noch ein Markenname für einige Produkte von PURE Digital. Seit Anfang 2008 tritt das Unternehmen nur noch unter dem Namen Pure auf.
+Im November 2012 gab Imagination Technologies den Kauf von MIPS Technologies für 60 Millionen US-Dollar bekannt.  Zusätzlich übernimmt Imagination Technologies 82 Patente von Mips Technologies die in direktem Bezug zur MIPS-Architektur stehen. Für 350 Millionen US-Dollar gehen die verbleibenden 498 Patente an die Bridge Crossing LLC zu denen unter anderem ARM Limited, ein direkter Konkurrent zu PowerVR, gehört. Die Rechte diese 498 Patente zu nutzen erwirbt Imagination Technologies auch. Imagination Technologies wird sich damit besser im CPU IP Markt positionieren können. Die Transaktion wird voraussichtlich im ersten Quartal 2013 abgeschlossen sein.
+
+
+== Tochterunternehmen ==
+Imagination Technologies umfasst folgende Tochterunternehmen:
+Ensigma Technologies: Entwicklung multithreaded DSPs und GPPs
+IMGWorks: Entwicklung und Anpassung von SoC-Lösungen
+Metagence Technologies: Entwicklung von Kommunikationslösungen
+PowerVR Technologies: Entwicklung von Grafiklösungen
+Pure: Vermarktung von Produkten mit Technologien von ImgTec
+
+
+== Geschäftsbereiche ==
+Momentan konzentriert sich Imagination Technologies und die Tochterunternehmen auf die Entwicklung und Lizenzvergabe von Technologien in folgenden Geschäftsbereichen:
+Mobiltelefone und PDAs
+Digitales Video: Fernsehen, DVD und Set-Top-Boxen
+Digitales Radio
+Kraftfahrzeug-Navigationssysteme
+
+
+== Lizenznehmer ==
+Viele namhafte Firmen der Halbleiterindustrie gehören zu den Lizenznehmern von ImgTec. Dies sind unter anderem Centrality, Digital One, Freescale, Frontier Silicon, Future Waves, Intel, Microchip, Mavrix, NEC, NXP, Renesas, Samsung, SEGA, Sharp, Sunplus, Texas Instruments und Apple.
+Da die entwickelten Technologien unter dem Namen der jeweiligen Lizenznehmer verkauft und eingesetzt werden, gehört ImgTec zu den in der Öffentlichkeit eher unbekannteren Unternehmen.
+
+
+== Einzelnachweise ==

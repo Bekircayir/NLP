@@ -1,0 +1,34 @@
+Der E-Cannonball ist eine Elektroautorallye, die seit 2018 jährlich stattfindet und von den beiden YouTubern Ove Kröger und Michael Schmitt (2019 ausgestiegen) gegründet wurde. Ziel der Veranstaltung ist es, die Tauglichkeit von Elektroautos bei Fahrten, die über die Reichweite eines einmal vollgeladenen  Antriebsakkus hinausgehen, über den Kreis der Elektromobilisten hinaus bekannt zu machen. Zudem dient die Veranstaltung als Stresstest für die öffentlich zugängliche Ladestation-Infrastruktur, denn während eines kurzen Zeitraums sind viele Fahrzeuge auf derselben Strecke unterwegs und wollen aufgeladen werden.
+
+
+== Hintergrund ==
+Der Name bezieht sich auf die Cannonball-Rennen quer durch die USA der 1970er Jahre.
+Beim E-Cannonball handelt es sich um eine abgewandelte Form einer Gleichmäßigkeitsfahrt, bei der in Abhängigkeit von der Technik hohe Geschwindigkeiten zu kürzeren Reichweiten und Zeitverlusten durch öfter nötigen Ladevorgänge führt. Jedes Elektroauto hat ein optimales Verhältnis zwischen Fahrgeschwindigkeit/Energieverbrauch und Ladegeschwindigkeit/Akkugröße, das die kürzeste Reisezeit ermöglicht. Die Fahrer mit der besten Taktik sind jene, die ihr E-Auto möglichst dicht an diesem Sweet Spot bewegen und ggf. beim Nachladen losfahren, bevor die Ladeleistung aufgrund hohen Akkustandes sinkt. Es kommt also kaum auf die Motorleistung der jeweiligen Fahrzeuge an. Vielmehr ist eine möglichst günstige Fahrt und Kalkulation der entscheidende Faktor für das Abschneiden, neben der Verfügbarkeit von Ladesäulen.
+Ein weiteres taktisches Element ist die Wahl der Route zum Ziel, die von den Teilnehmern eigenständig bestimmt werden darf. Da die Fahrzeuge im Minutenabstand losfahren, und bei jedem Ladestop geschätzt rund eine halbe Stunde aufladen, wird die Reisezeit verlängert, wenn man in eine Warteschlange vor einer Ladestation gerät. Daher kann es sinnvoll sein, von der kürzesten bzw. schnellsten Route abzuweichen. 
+
+
+== Auflagen ==
+
+
+=== 2018 ===
+Am 17. November 2018 starteten die 29 teilnehmenden E-Autos am frühen Morgen im Minutentakt nacheinander vom Parkhaus  „Alte Meierei“ in Ahrensburg bei Hamburg und fuhren bei freier Routenwahl zum Ziel in einem Vorort von München.  Da jedes Fahrzeug ständig seinen GPS-Standort an einen zentralen Server übermittelte, konnten Zuschauer im Internet die Teilnehmer auf einer Karte verfolgen. Die schnellste Teilnehmercrew bewältigte die Strecke in einer Reisezeit (Zeitspanne zwischen Abfahrt und Ankunft inklusive Pausen zum Wiederaufladen des Akku) von 10 Stunden und 17 Minuten, bei 837 zurückgelegten Kilometern.
+Veranstalter Ove Kröger hatte ein Kamerateam des TV-Automagazins Grip an Bord seines Tesla Model S, dessen Laufleistung bereits deutlich über 300.000 km lag und den Ladezustand nahe Null nicht mit hinreichender Genauigkeit anzeigte. Er blieb 50 Meter vor dem Tesla Supercharger in Hilpoltstein liegen. Bevor sich der Bordcomputer herunterfuhr, gelang es, das Fahrzeug in den Abschleppmodus zu versetzen. So konnte das Auto direkt an eine Ladesäule geschoben werden. Der Ladevorgang startete dann auf Anhieb.
+
+
+=== 2019 ===
+Am 28. September 2019 starteten die Teilnehmer von der Insel Mainau (Bodensee). Es durften sich 60 E-Autoteams anmelden. Das Ziel war ein Hotel in Blankenfelde in Brandenburg, nahe der A 10 bei Berlin.
+
+
+=== 2020 ===
+Der E-Cannonball 2020 fand vom 25. bis 27. September statt. Diesmal unter der Devise „Go West“, von Blankenfelde südlich von Berlin nach Moers am Niederrhein, jeweils Standorte der Hotelkette Van der Valk. Zudem mussten alle Teams die Stadt Einbeck in ihre Route aufnehmen, um dort vor einer Filiale des Hauptsponsors Euronics ein Sofortbild schießen zu lassen. Die Fahrzeuge mit  höheren Akkukapazitäten mussten darüber hinaus als Sonderprüfung einen Abstecher in den Harz (Mittelgebirge) absolvieren. Diese Zusatzaufgaben wurden den Teilnehmern erst im Moment ihres Starts am Samstagmorgen mitgeteilt.
+Die gesamte Veranstaltung wurde per Live-Stream auf dem offiziellen YouTube-Kanal begleitet und erreichte über 70.000 Aufrufe. Ebenso war jedes Fahrzeug mit einem Trackingsystem ausgestattet, sodass Zuschauer die Teilnehmer auf einer Karte verfolgen konnten.
+
+
+== Weblinks ==
+Offizielle Website
+Kanal von E-Cannonball auf YouTube
+E-Cannonball 2018: E-Rallye von Nord nach Süd, smarter-fahren.de
+GRIP-Beitrag über den E-Cannonball 2018
+
+
+== Einzelnachweise ==

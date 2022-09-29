@@ -1,0 +1,37 @@
+Die Sicherheitslenksäule verhindert, dass die Lenksäule eines Automobils bei einem Frontalzusammenstoß in den Fahrgastraum eindringt. Sie ergänzt andere Sicherheitseinrichtungen wie Sicherheitsgurt und Airbag.
+Das grundlegende Konzept der Sicherheitslenksäule geht auf eine Idee des Konstrukteurs Béla Barényi aus dem Jahr 1947 zurück.
+
+
+== Geschichte ==
+Zu Beginn der Automobilisierung war die Lenksäule des Fahrzeugs bei Zusammenstößen noch kaum ein Problem; Zusammenstöße gab es im Vergleich zu heute weniger häufig und vorwiegend mit kleiner Geschwindigkeit. Mit zunehmender Anzahl Autos, die mit höheren Geschwindigkeiten fuhren, wurden Sicherheitssysteme immer wichtiger. In den 1960er Jahren setzte sich der Sicherheitsgurt als Rückhaltesystem durch, ergänzt ab den 1980er Jahren durch den Airbag. Gleichzeitig versuchte man, die Verletzungsgefahr bei einer in den Fahrgastraum eindringenden Lenksäule zu vermindern.
+Ein erster Ansatz waren schüsselförmige Lenkräder (ab 1959 im VW Käfer und Lloyd Arabella), auf die der Brustkorb des Fahrers bei einem Zusammenstoß prallt. Die in der Schüssel vertiefte Nabe konnte sich, indem sich die (üblicherweise drei) Speichen des Lenkrades verbogen, noch etwas dem Fahrer nähern, ohne ihn zu verletzen. Ein anderer Ansatz und ein Vorläufer des Airbags waren Lenkräder mit einer gepolsterten, großflächigen Nabe, dem Pralltopf. Erst die Erfindung der Sicherheitslenksäule konnte jedoch das Problem der in den Fahrgastraum eindringenden Lenksäule lösen.
+
+
+== Systeme ==
+Seit den 1960er Jahren haben sich verschiedene Systeme der Sicherheitslenksäule herausgebildet. Die wichtigsten sind das Maschengitterrohr, die abgewinkelte Lenksäule, das Wellrohr und die Ausklinkkupplung. Sie verhindern das Eindringen der Lenksäule in den Fahrgastraum durch deren Verkürzung oder Verschiebung. Heute werden oft mehrere Systeme in Kombination verwendet, wobei sie zusätzlich durch eine versenkte oder gepolsterte Lenknabe gestützt werden.
+Eine andere Form einer Sicherheitslenksäule war das in den 1980er Jahren von Audi entwickelte System Procon-ten. Dieses zog Lenksäule und Lenkrad durch ein um den Motorblock gelegtes Stahlseil bei einem Zusammenstoß in Richtung Armaturenbrett zurück und straffte die Sicherheitsgurte. Mit dem aufkommenden Airbag, der für den Fahrer normalerweise im Lenkrad integriert ist, war dieses System jedoch nicht vereinbar. Audi löschte 2002 die Eintragung der Marke.
+
+
+=== Maschengitterrohr ===
+Beim Maschengitterrohr ist ein Teil der Lenksäule aus einer Art Streckmetall gefertigt. Im Falle einer Kollision wird das Lenkrohr verkürzt, indem das Maschengitter zusammengedrückt wird. Lenksäulen mit einem solchen Sicherheitselement hatten unter anderem seit 1967 der VW Käfer und 1968 der VW 411.
+
+
+=== Abgewinkelte Lenksäule ===
+Bei diesem System wird eine mehrteilige Lenksäule mit mindestens zwei Kardangelenken eingebaut, wenn das Lenkgetriebe auf direktem Wege nicht zu erreichen ist. Diese Konstruktion dient gleichzeitig als Sicherheitslenksäule: Eine Verschiebung des unteren Teils der Lenksäule setzt sich durch die Knickung ähnlich wie beim Zusammenfalten eines Zollstockes nicht auf den oberen, das Lenkrad tragenden Teil der Lenksäule fort. Ein derartiges System war u. a. beim Porsche 911 (1963) sowie beim VW Käfer 1302 (1970) und 1303 eingebaut.
+
+
+=== Wellrohr ===
+Das Wellrohr funktioniert wie das Maschengitterrohr. Es absorbiert die Energie, mit der die Lenksäule in den Fahrgastraum gedrückt wird, indem es sich verformt. Es lässt sich zusammendrücken, knickt aber auch aus.
+
+
+=== Ausklinkkupplung ===
+Bei der Ausklinkkupplung besteht die Lenksäule aus zwei Teilen, die aneinander befestigt sind, sich aber gegeneinander verschieben können. 
+
+
+== Literatur ==
+Hans-Hermann Braess, Ulrich Seiffert: Vieweg Handbuch Kraftfahrzeugtechnik. 2. Auflage, Friedrich Vieweg & Sohn Verlagsgesellschaft mbH, Braunschweig/Wiesbaden 2001, ISBN 3-528-13114-4
+Karl-Heinz Dietsche, Thomas Jäger, Robert Bosch GmbH: Kraftfahrtechnisches Taschenbuch. 25. Auflage, Friedr. Vieweg & Sohn Verlag, Wiesbaden 2003, ISBN 3-528-23876-3
+
+
+== Weblinks ==
+Sicherheitslenksäule mit Gitterrohr beim Opel Manta

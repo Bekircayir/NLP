@@ -1,0 +1,25 @@
+Die Omron K.K. (jap. オムロン株式会社, Omuron Kabushiki kaisha, engl. OMRON Corporation) ist ein weltweit tätiges Unternehmen mit mehreren Geschäftsfeldern. Diese sind: Industrieautomation, elektronische Komponenten, öffentliche Systeme und Medizintechnik. Hauptsitz ist in Kyōto, Japan. Der Firmenname wurde von „Omuro“ (御室) abgeleitet, einer Gegend bzw. einem Stadtteil von Kyōto
+
+
+== Geschichte ==
+Es wurde 1933 von Kazuma Tateishi (立石 一真) als Tateishi Denki Seisakujo (立石電機製作所, dt. „Elektrogerätewerk Tateishi“) gegründet. Über 50 % des Umsatzes werden außerhalb Japans erwirtschaftet. In Europa ist es seit 1974 tätig.
+In den 1980er-Jahren wurde OMRON in Deutschland durch die Kleinsteuerung C20 bekannt. Anfang der 1990er-Jahre wurde versucht, die Fuzzy-Technologie in der Automatisierungstechnik einzuführen.
+
+
+== Produkte der Automatisierungstechnik ==
+Folgende Produkte werden in Europa hauptsächlich vertrieben: Speicherprogrammierbare Steuerung, Bediengeräte (HMI), Frequenzumrichter, Servo, Bildverarbeitung, Sicherheitstechnik, Temperaturregler, Zähler und Zeitrelais, Lichtschranke, Näherungsschalter, Relais und Schalter.
+Im Gegensatz zu anderen SPS-Herstellern wird für die Bitverarbeitung kein Mikrocontroller eingesetzt, sondern speziell für OMRON entwickelte ASICs. Dadurch können Bitbefehle besonders schnell abgearbeitet werden.
+
+
+== Produkte der Medizintechnik ==
+In Deutschland erfolgt der Vertrieb durch die OMRON Medizintechnik Handelsgesellschaft mbH. Im Angebot sind Blutdruckmessgeräte, verschiedene Inhalationsgeräte, TENS-Geräte, Fiebermessgeräte, medizinische Waagen (auch Körperfettwaagen), mobile EKG-Geräte und Fitnesstracker.
+
+
+== Literatur ==
+Kazuma Tateisi: Unternehmensevolution, ECON Verl. 1992, ISBN 3-430-19045-2
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==

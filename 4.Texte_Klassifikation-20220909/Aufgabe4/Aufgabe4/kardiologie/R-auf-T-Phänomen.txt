@@ -1,0 +1,6 @@
+Das R-auf-T-Phänomen bezeichnet eine Herzrhythmusstörung, bei der noch während der Repolarisation der vorangegangenen Herzaktion eine erneute Erregung der Herzkammern einfällt. Weil zu diesem frühen Zeitpunkt ein Teil des Herzmuskels noch nicht erregbar ist, kann eine vorzeitig einfallende Kammeraktion lebensbedrohliche Herzrhythmusstörungen (z. B. Kammerflimmern oder Torsade de pointes) auslösen ("vulnerable Phase").
+Im EKG zeigt sich dieses Phänomen, wenn eine ventrikuläre Extrasystole (R) noch während der Repolarisationsphase der vorangegangenen Herzaktion (T-Welle) einfällt. Nicht alle vorzeitigen Kammeraktionen können diese gefährlichen Rhythmusstörungen auslösen, das Risiko ist erhöht bei Ischämie des Herzmuskels oder bei verlängerter Repolarisationsdauer (Long-QT-Syndrom). Die Rhythmusstörung kann auch ausgelöst werden, wenn ein äußerer Stimulus wie z. B. eine Kardioversion in die vulnerable Phase des Herzzyklus fällt.
+In der Lown-Klassifikation der ventrikulären Herzrhythmusstörungen charakterisiert das R-auf-T-Phänomen die fünfte, bedrohlichste Klasse.
+
+
+== Einzelnachweise ==

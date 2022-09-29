@@ -1,0 +1,56 @@
+Telefonaktiebolaget L. M. Ericsson (Ericsson) ist ein schwedisches Unternehmen mit Sitz in Stockholm. Mobilfunktechnologie, Internet- und Multimediakommunikation und Telekommunikation bilden das Kerngeschäft. Entwicklungen aus diesen Bereichen richten sich primär an Unternehmen, Netzbetreiber und Serviceprovider. Ericsson war bis zum 15. Februar 2012 ebenfalls mit dem Gemeinschaftsunternehmen Sony Ericsson auf dem Privatkundenmarkt im Segment der Mobiltelefone vertreten.
+Gegründet wurde das Unternehmen 1876 von Lars Magnus Ericsson. Ericsson ist in mehr als 180 Ländern aktiv und beschäftigt mehr als 109.000 Mitarbeiter.
+
+
+== Geschäftstätigkeit ==
+
+Ericsson beliefert Netzbetreiber und Diensteanbieter mit mobilen und breitbandigen „end-to-end“ Lösungen. Das Unternehmen liefert diese Lösungen für alle bestehenden Mobilnetze (inklusive GSM (2G) und UMTS (3G)-Systeme) sowie Breitband Multiservice Netze und Netzzugänge. Das Portfolio umfasst Technologie- und Business-Consulting, Netzwerk-Infrastruktur, Multimedia und Internettechnologien sowie Endgeräteplattformen, multimediale Anwendungen und verschiedene Dienstleistungen.
+Unter den Ericsson-Kunden befinden sich die zehn größten Mobilnetzbetreiber der Welt; mehr als 40 Prozent aller mobilen Telefongespräche werden über Ericsson-Netze geführt.
+Insgesamt setzte Ericsson 2008 208 Milliarden Schwedische Kronen (rund 20 Milliarden Euro) um. Das Joint-Venture Sony Ericsson, an dem Ericsson zu 50 Prozent beteiligt war, setzte 13 Milliarden Euro jährlich um. Allerdings kaufte Sony die Anteile von Ericsson für 1,05 Milliarden Euro, sodass sich das Joint Venture 2012 auflöste.
+Das Unternehmen teilt sein Geschäft in drei Geschäftsfelder auf:
+Das Business Segment Networks umschließt Herstellung und Aufbau der Netze, die einen Zugang zu der Informationsübertragung ermöglichen. Die Dienstleistungen zur Inbetriebnahme der Netzinfrastruktur sind eingeschlossen. Es trägt 69 Prozent zum Gesamtumsatz bei. Der größte Markt ist Asien-Pazifik mit 33 Prozent. In Westeuropa werden 22 Prozent des Umsatzes erwirtschaftet. Der Bereich von Mittel- und Osteuropa einschließlich des Nahen Ostens und Afrikas trägt 28 Prozent bei, Lateinamerika 10 Prozent, Nordamerika 7 Prozent.
+Das Business Segment Professional Services umfasst die Palette an Dienstleistungen rund um die strategische Planung, den Aufbau und Betrieb von Telekommunikationseinrichtungen. Ericsson bietet ein Managed-Services-Angebot, welches neben dem Betrieb der verschiedensten Netze und der Möglichkeit, Netzkapazitäten je nach Bedarf abzufordern, auch das Hosting von Anwendungen, Lösungen und Plattformen umfasst. Weiterhin werden Leistungen im Kundensupport, der Systemintegration, der Beratung sowie Schulung angeboten. Das Segment trägt 23 Prozent zum Gesamtumsatz bei, davon stammen 41 Prozent aus Westeuropa, Mittel- und Osteuropa, Naher Osten und Afrika 19 Prozent, Asien-Pazifik 21 Prozent, Lateinamerika 10 Prozent, Nordamerika 9 Prozent.
+Im Business Segment Multimedia verkauft das Unternehmen internetbasierende Anwendungen, um Multimediainhalte für Mobilfunk- und Festnetz-Anwendungen zu erstellen und auf den Endgeräten zu verarbeiten. Der Bereich trägt 8 Prozent zum Gesamtumsatz bei und wird vor allem in Westeuropa (46 Prozent), Mittel- und Osteuropa, Naher Osten und Afrika (25 Prozent), und Asien-Pazifik (15 Prozent) erwirtschaftet, Latein- und Nordamerika tragen je 7 Prozent bei.
+Anfang 2009 führten Ericsson und STMicroelectronics ihre Halbleitersparten für Mobilfunkendgeräte in dem Joint-Venture ST-Ericsson zusammen. Dieses wurde 2013 wieder aufgelöst.
+
+
+== Ericsson in Deutschland ==
+Der Verkauf von Ericssonprodukten nach Deutschland war zu Zeiten des Telekommunikationsmonopols nur wenig umfangreich, da die Deutsche Reichspost und später die Deutsche Bundespost durch ihre Monopolstellung die Aufträge hauptsächlich an Siemens vergab. Erst mit dem Einzug der Mobiltelefonie gelang Ericsson der Durchbruch: Während der Aufbau des D1-Netzes der DeTeMobil an Siemens, Alcatel, Lucent und Motorola ging, konnte Ericsson sich 1990 für den Ausbau des D2-Netzes von Mannesmann Mobilfunk qualifizieren.
+In Deutschland ist Ericsson seit 1950 präsent. 1955 ließ man sich in Düsseldorf nieder, wo sich noch heute der Hauptsitz von Ericsson in Deutschland befindet. Des Weiteren gehört seit 1991 ein Forschungs- und Entwicklungszentrum in Herzogenrath zum Konzern; dieses wiederum besaß bis Ende 2010 einen Ableger direkt im benachbarten Aachen. Dazu kamen 2005 die Prototype Unit Nürnberg und 2006 durch die Übernahme des Konkurrenten Marconi Corporation plc ein weiterer großer Standort in Backnang bei Stuttgart.
+Nur anderthalb Jahre nach der Übernahme von Marconi kündigte das Management von Ericsson jedoch an, den Standort Backnang teilweise auszugliedern und eventuell verkleinern zu wollen. Nach massiven Protesten der Mitarbeiter gab der Ericsson-Konzern zunächst im September 2007 bekannt, seinen Standort Backnang in ein eigenständiges Forschungs- und Entwicklungszentrum umzuwandeln.
+Im März 2008 gab Ericsson jedoch die Entscheidung zur Schließung des Standorts Backnang bekannt. Die Entwicklung soll geschlossen werden, der Vertrieb in reduziertem Umfang an einen anderen Standort im Raum Stuttgart verlagert werden. Eines der wenigen Produkte, die Ericsson am Standort Backnang erhalten will, ist das Netzmanagement-System „ServiceOn“.
+Beim allgemeinen Abschwung der Telekommunikationsbranche kurz nach der Jahrtausendwende wurden die F&E-Niederlassungen in Hildesheim und Nürnberg im Zuge von Konsolidierungsmaßnahmen geschlossen. Der Standort Nürnberg wurde im Herbst 2005 wieder eröffnet und beschäftigte Ende 2008 über 250 Mitarbeiter. Von 2009 bis 2013 war der Standort Nürnberg Teil des Joint-Ventures ST-Ericsson. Nach dem Ausstieg von STMicroelectronics aus dem Joint-Venture übernahm Ericsson im August 2013 wieder den Standort in Nürnberg als Teil des eigenständigen Geschäftsbereichs Modems. Im September 2014 gab der Konzern schließlich die erneute Schließung des Standorts Nürnberg bekannt.
+Im Juli 2007 übernahm Ericsson den Frankfurter Softwarehersteller LHS Telekommunikation, der zu dieser Zeit weltweit ca. 1000 Mitarbeiter beschäftigte, davon etwa 400 in Deutschland. Hauptprodukt von LHS ist BSCS, ein Kundenverwaltungs- und Abrechnungssystem für Mobilfunkoperatoren. Am 5. Januar 2011 wurde LHS in Ericsson Telekommunikation GmbH & Co. KG umbenannt, aus welcher bereits 2010 der Kundendienst- und Vertriebsbereich ausgegliedert und in die Ericsson GmbH Düsseldorf eingegliedert wurde.
+
+
+== Ericsson Austria ==
+Ericsson Austria ging aus dem Telekommunikationsunternehmen Deckert & Homolka hervor, das 1872 in Wien gegründet wurde und in Kindberg in der Steiermark produzierte. Im Jahr 1908, als Deckert & Homolka eine Kooperation mit Ericsson einging, beschäftigte das Unternehmen bereits an die 1.000 Mitarbeiter. Aus dieser Kooperation ging 1911 das Unternehmen Ericsson Österreich Elektrizitäts AG hervor. An dem Unternehmen erwarb im Jahr 1939 Eduard Schrack Anteile. In den Jahren 1948 bis 1978 war dieses Unternehmen als Schrack AG wieder selbständig. Im Jahr 1978 begann unter Eduard Harald Schrack, dem Sohn Schracks, die Zusammenarbeit mit Ericsson erneut. In den Jahren 1991 bis 1997 übernahm Ericsson Schrack Elektronik, wie es ab 1980 hieß nahezu zu 100 %. Im Jahr 1994 wurde der Geschäftsbereich Sicherheits- und Kommunikationssysteme als selbständiges Unternehmen mit dem Namen Schrack Seconet ausgegliedert und verkauft. Ebenso der zuerst an Rexel verkaufte Teil, der heute als Schrack Technik wieder selbständig arbeitet. Seit 1996 firmiert das Unternehmen unter Ericsson Austria.
+Im Jahr 2007 erzielte Ericsson Austria mit 88 Mitarbeitern einen Umsatz in Österreich von 102 Millionen Euro. Unternehmensstandort ist Wien.
+
+
+== Geschichte ==
+Durch einen Brand bei einem Zulieferer in Albuquerque im US-Bundesstaat New Mexico im Jahr 2000 war Ericsson gezwungen, seine Mobiltelefonsparte aufzugeben. Nach dem Brand hatte das Unternehmen zu langsam reagiert und konnte – anders als Konkurrent Nokia – nicht auf Alternativ-Lieferanten zugreifen. Die Verluste in Höhe von mehreren Hundert Millionen US-Dollar wurden dabei zum Teil durch Versicherungen übernommen. Damit ergab sich im Jahr 2001 – abgesehen von den Anschlägen am 11. September – eine Rekordversicherungssumme. Die Entstehung von Sony Ericsson wird als Folge des Brandes angesehen.
+
+
+== Bildergalerie ==
+Einige klassische Ericsson-Produkte:
+
+
+== Siehe auch ==
+Bluetooth
+Erlang (Programmiersprache)
+Ivar Kreuger
+Familie Wallenberg
+
+
+== Literatur ==
+John Meurling, Richard Jeans: The Ericsson Chronicle: 125 Years in Telecommunications. Informationsförlaget, Stockholm 2000, ISBN 91-7736-464-3. Firmenchronik zum 125-Jahre-Jubiläum
+John Meurling, Richard Jeans: The Mobile Phone Book. The Invention of the Mobile Telephone Industry. London 1994, ISBN 0-9524031-0-2. Das Entstehen der Mobilfunkindustrie aus Sicht von Ericsson
+
+
+== Weblinks ==
+
+Ericsson Deutschland, Österreich, Schweiz
+
+
+== Einzelnachweise ==

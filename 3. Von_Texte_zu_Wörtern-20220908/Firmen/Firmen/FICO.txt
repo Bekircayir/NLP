@@ -1,0 +1,27 @@
+FICO, zuvor Fair Isaac and Company genannt, ist ein 1956 gegründetes Analytics-Software-Unternehmen mit Hauptsitz in San José, Kalifornien. FICO besitzt den größten Marktanteil bei analytik-basierter Software für Betrugserkennung. Das Unternehmen entwickelte den FICO Score, um Strategien und Prozesse im Kreditgeschäft von Finanzdienstleistern in den USA zu verbessern.
+Das Unternehmen hat Niederlassungen in Roseville, Minnesota, San Diego, San Rafael, Kalifornien, Fairfax, Virginia, New York City und Austin, Texas. Weitere Standorte befinden sich in Australien, Brasilien, Kanada, China, Deutschland, Indien, Italien, Japan, Korea, Litauen, Malaysia, den Philippinen, Russland, Singapur, Südafrika, Spanien, Taiwan, Thailand, Türkei und Großbritannien.
+
+
+== Geschichte ==
+Aktien des Unternehmens werden seit 1986 an der New Yorker Börse (New York Stock Exchange, NYSE) gehandelt. 1989 startete Fair Isaac and Company den FICO Score. 2003 wechselte das Unternehmen seinen Namen zu FICO und zog in den neuen Hauptsitz nach San Jose, Kalifornien.
+2013 erreichte FICO Platz 25 in der IDC Fintech Liste der Top 100 Technologie-Anbieter der Welt für die Finanzdienstleistungsbranche sowie Platz 64 der Liste von Top-Unternehmen im Silicon Valley (2014).
+Anfang 2015 übernahm FICO den in Bensheim ansässigen Hersteller von Compliance-Lösungen TONBELLER AG.
+
+
+== Produkte ==
+FICO Score
+FICO TRIAD Customer Manager
+FICO Origination Manager
+FICO Debt Manager
+FICO Model Builder
+FICO Xpress Optimization Suite
+FICO Blaze Advisor
+FICO Model Central
+FICO Falcon Fraud Manager
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+Unternehmenswebsite von FICO

@@ -1,0 +1,47 @@
+Unter einer Atelektase (von griechisch ἀτελῆς, ateles „unvollständig“ (alpha privativum und τελος, telos „Ende, Ziel“); ἐκτάσις (von εξ, ex- oder ek- „aus, von“, und τασις, tasis „Dehnung“), ektasis „Ausdehnung“) versteht man einen kollabierten Lungenabschnitt, der mit wenig oder keiner Luft gefüllt ist. Die Alveolarwände liegen aneinander an.
+
+
+== Formen ==
+
+
+=== Angeborene Atelektase ===
+Die angeborene Atelektase wird auch als primäre Atelektase oder fetale Atelektase bezeichnet. Die Lungenanteile sind nach der Geburt nicht oder nur unvollständig belüftet. Ursächlich kommen zentrale Atemstörungen (z. B. Schädigung des Atemzentrums), Fruchtwasseraspirationen, Lungenfehlbildung und Lungenunreife (Surfactant-Mangel) in Frage.
+Eine besondere Form der primären Atelektase findet sich als typischer Befund bei einer Totgeburt: Da die Lunge im Fetalleben physiologischerweise zwar entfaltet ist, aber keine Luft enthält (sondern Fruchtwasser), kann dieser Befund auch gerichtsmedizinisch verwertet werden, um eine vorhandene Atemtätigkeit nach der Geburt nachzuweisen oder auszuschließen.
+
+
+=== Erworbene Atelektasen ===
+Eine erworbene Atelektase wird auch als sekundäre Atelektase bezeichnet. Alle erworbenen Atelektasen haben eine minimale Restluft in den atelektatischen Lungenabschnitten und sind prinzipiell reversibel.
+
+Entspannungsatelektase: Nach Verletzung der Thoraxwand gelangt Luft in den Pleuraspalt (Pneumothorax). Der Lungenflügel wird nicht mehr an der Thoraxwand gehalten und kollabiert.
+Kompressionsatelektase: Durch Pleuraerguss, Tumoren der Pleura oder des Mediastinums wie auch vergrößerte mediastinale Lymphknoten, durch Thoraxdeformitäten. Es entstehen luft- und blutarme Abschnitte.
+Resorptionsatelektase:  Bei Beatmung mit 100 % Sauerstoff fehlt das sonst in den Alveolen vorhandene N2. Wenn nun das gesamte O2 in die Kapillaren diffundiert, kollabieren die Alveolen. Physiologischerweise werden sie also durch Stickstoff offengehalten.
+Obstruktionsatelektase: Nach Verlegung eines Bronchus, z. B. durch eitrige Bronchitiden bei  chronischer Bronchitis, vergrößerten Hiluslymphknoten (z. B. bei Tuberkulose, Sarkoidose oder Metastasen), Tumoren oder Fremdkörpern, wird die distale Luft gefangen und resorbiert. Der im Versorgungsgebiet des Bronchus liegende Lungenanteil schrumpft.
+Mikroatelektase: Durch unzureichende Atmung bzw. unzureichendes Beatmungsvolumen entstandene Atelektase, die sich im Röntgenbild nur durch einen Zwerchfellhochstand zeigt.Bei Intensivpatienten ist die Atelektase die häufigste pulmonale Komplikation nach Operationen.
+
+
+== Diagnostik ==
+
+Bei der Perkussion hört man eine Dämpfung des Lungenschalls. Bei der Palpation besteht eine Abschwächung des Stimmfremitus. Das Atemgeräusch ist bei der Auskultation der Lunge abgeschwächt. Im Röntgenbild des Thorax sind als direkte Zeichen eine Transparenzminderung und Verlagerung der Lappenspalten sowie als indirekte Zeichen ein Zwerchfellhochstand, eine Mediastinalverlagerung, ein kompensatorisches Emphysem, eine Hilusverlagerung und eine Engstellung der Rippen zu sehen. Differenzialdiagnostisch muss an eine Pneumonie gedacht werden, Atelektasen zeigen im Gegensatz zu dieser kein Bronchopneumogramm. Alternativ oder ergänzend zum Röntgenbild kann man eine Computertomografie-Aufnahme anfertigen. Im Ultraschall sieht man Atelektasen im Bereich eines Pleuraergusses als nicht belüftete, volumenverminderte Lungenabschnitte.
+
+
+== Folgen ==
+Die meisten Atelektasen lösen sich wieder von selbst auf oder werden durch medizinisch-pflegerische Maßnahmen beseitigt.
+Als Komplikation kann es zu einer Entzündung und Ödemen, später zur Fibrosierung kommen. Je nach Größe der Atelektase ist die Oberfläche des Gasaustausches verringert, was zu einem Rechts-Links-Shunt, zu Hypoxie und zur zentralen Zyanose führen kann. Im atelektatischen Lungenabschnitt wird die Lungendurchblutung durch Vasokonstriktion gedrosselt (Euler-Liljestrand-Mechanismus). Dadurch nimmt der Widerstand in der Lungenstrombahn und damit die Rechtsherzbelastung zu. Es kann zu einem Cor pulmonale kommen. In den nicht belüfteten Lungenanteilen können Pneumonien (Lungenentzündungen) entstehen.
+
+
+== Therapie ==
+Physikalische Maßnahmen (Lagewechsel, Kaltwasseranwendungen, Klopfmassagen, Atemübungen) sind sehr wirkungsvoll. Die Wirkung einer Mukolyse (= Schleimverflüssigung) ist umstritten. Bei Rippenfrakturen oder Pleuritis ist eine Schmerzbehandlung notwendig. Als Medikamente kann man Theophyllin, Betasympathomimetika und Antibiotika bei bakterieller Infektion einsetzen. Mittels Bronchoskopie werden das Absaugen des Eiters oder zähen Sekrets sowie die Entfernung von Fremdkörpern durchgeführt. Ebenso hat sich zur Wiedereröffnung (Rekrutierung) und zum Offenhalten betroffener Alveolen die Anwendung von PEEP bzw. CPAP als eine zusätzliche Therapiestrategie bewährt.
+Beim atelaktesebedingten hypoxischen Lungenversagen erfolgt eine maschinelle, falls möglich nichtinvasive, Beatmung.
+
+
+== Literatur ==
+Müller, Fraser, Colman, Paré: Radiologic Diagnosis of Diseases of the Chest. W. B. Saunders Company, 2001, ISBN 0-7216-8808-X.
+Wegener: Ganzkörpercomputertomographie. Blackwell Wissenschaft, Berlin 1992, ISBN 3-89412-105-X.
+Wolfgang Oczenski: Atmen – Atemhilfe: Atemphysiologie und Beatmungstechnik. 9. Auflage. Georg Thieme Verlag, 2012, ISBN 978-3-13-137699-2.
+Rudolf Frey: Lungenatelektase und -kollaps. In: Ludwig Heilmeyer (Hrsg.): Lehrbuch der Inneren Medizin. Springer-Verlag, Berlin/Göttingen/Heidelberg 1955; 2. Auflage ebenda 1961, S. 709–712.
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==

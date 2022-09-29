@@ -1,0 +1,26 @@
+Die Dialog Semiconductor plc. ist ein Fabless-Hersteller von anwendungsspezifischen integrierten Mixed-Signal-Schaltungen mit operativem Sitz im britischen Reading und Verwaltungszentrale in Kirchheim unter Teck. Verwendung finden die Produkte des Unternehmens vor allem im Multimedia- und Hörfunkbereich. Dabei hat sich das Unternehmen in den letzten Jahren auf die Geschäftsfelder Mobilfunk und Automobil spezialisiert.
+Dialog Semiconductor zählt zu den am schnellsten wachsenden Unternehmen und konnte seinen Umsatz innerhalb von 5 Jahren um 78 % steigern.
+
+
+== Geschichte ==
+Im Jahr 1981 stieg die International Microelectronic Products Inc. (IMP) mit Sitz im Silicon Valley in den USA, ein Anbieter von CMOS-Halbleitern, in das europäische Geschäft ein. 1986 wurde das Europageschäft in eine eigene Gesellschaft namens IMP Europe überführt. Kurz darauf wurde die Gesellschaft von der Daimler-Benz AG übernommen, die IMP Europe in die damalige Tochtergesellschaft Temic – Telefunken Microelectronic – eingliederte. Durch ein Management-Buy-out, das unter anderem von dem Finanzinvestor Apax Partners und von dem Telekommunikationskonzern Ericsson finanziert wurde, entstand im Jahr 1990 Dialog Semiconductor. 1992 wurde diese Gesellschaft wiederum von Temic Telefunken übernommen. Im Jahr 1998 wurde Temic Telefunken aufgespalten und Dialog Semiconductor in der Folge wieder eigenständig.
+Im Jahr 1999 folgte der Börsengang von Dialog Semiconductor im Prime Standard an der Frankfurter Wertpapierbörse und am 21. September 2009 die Aufnahme in den TecDax.
+Dialog Semiconductor übernahm 2011 SiTel, einen Anbieter von Halbleitern für drahtlose Geräte, und 2013 für 345 Millionen US-Dollar das US-amerikanische Unternehmen iWatt, einen Anbieter von Netzteilkomponenten und LED-Technik.
+Eine im Jahr 2014 geplante „Fusion unter Gleichen“ mit dem österreichischen Halbleiterhersteller ams scheiterte.
+Eine im September 2015 vereinbarte Übernahme des US-amerikanischen Konkurrenten Atmel für 4,6 Milliarden US-Dollar wurde im Januar 2016 abgebrochen. Der als zu hoch kritisierte Kaufpreis war von Microchip Technology überboten worden. Für das Nicht-Zustandekommen der Übernahme muss Atmel eine Vertragsstrafe von 137 Millionen Euro an Dialog zahlen. Durch den Kauf von Atmel sollte die Abhängigkeit vom wichtigsten Kunden Apple mit einem (geschätzten) Anteil von 78 % des Umsatzes auf 40 % reduziert werden.
+
+
+== Produkte ==
+Als Fabless-Hersteller unterhält Dialog Semiconductor keine eigenen Fabriken, sondern lässt seine Chips von dem Auftragsfertiger TSMC in Taiwan fertigen und auch in Asien montieren.
+Das Unternehmen stellt folgende Produkte her:
+Verstärker und Codecs für Audioprodukte
+Komponenten für Netzteile
+Integrierte Schaltungen für drahtlose Geräte
+Prozessoren für VoIP-Geräte
+Schaltungen für Touchscreens
+Treiber für Bildschirme
+System-on-a-Chip-Produkte
+Dialog Semiconductor produziert u. a. für Apple, dem mit einem Umsatzanteil von etwa 78 % wichtigsten Kunden des Unternehmens.
+
+
+== Einzelnachweise ==

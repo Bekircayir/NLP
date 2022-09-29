@@ -1,0 +1,33 @@
+Die Strahlenpneumonitis, synonym Bestrahlungspneumonie ist die Bezeichnung für eine interstitielle Lungenerkrankung. Sie kann nach großvolumiger Bestrahlung innerhalb einer Strahlentherapie als akute oder chronische Nebenwirkung auftreten.
+
+
+== Definition ==
+Die Strahlenpneumonitis stellt eine toxisch-entzündliche Reaktion des Lungenparenchyms nach Bestrahlung eines Bronchialkarzinoms, Mammakarzinoms, Ösophaguskarzinoms oder eines Mediastinaltumors (z. B. eines Lymphoms) dar. Strahlengesamtdosis, Größe des Bestrahlungsfeldes und Fraktionierung bestimmen die Manifestationswahrscheinlichkeit. Unterhalb einer Gesamtdosis von 20 Gy tritt diese Strahlenreaktion nicht und über 60 Gy (angewandt innerhalb von sechs Wochen) tritt sie nahezu regelmäßig auf. Die Latenz zwischen Bestrahlungsende und Auftreten einer Strahlenpneumonitis liegt bei wenigen Tagen bis zu sechs Monaten, meistens jedoch bei vier bis sechs Wochen.
+
+
+== Pathogenese ==
+Funktionsstörungen der Endothelzellen und Pneumozyten, der strahlenempfindlichsten Strukturen der Lungenbläschen, führen im akuten Stadium zu einem interstitiellen und alveolären Ödem. Im weiteren Verlauf tritt eine von Lymphozyten und Makrophagen dominierte Alveolitis auf, die in eine proliferativ-fibrosierende Phase übergeht.
+Die Strahlenpneumonitis beschränkt sich in der Regel auf das bestrahlte Areal. Veränderungen außerhalb des Bestrahlungsfeldes können jedoch auftreten und deuten auf einen klinisch schwergradigen Verlauf hin. Gedeutet werden diese Befunde als Immunreaktion auf Neoantigene, die durch Bestrahlung entstanden sind.
+
+
+== Symptome ==
+Anders als bei einer akuten Lungenentzündung bleiben viele Patienten mit radiologischen Zeichen der Strahlenreaktion symptomlos, manche entwickeln einen trockenen Reizhusten, Schwäche und Kurzatmigkeit bis zur Dyspnoe. Im weiteren Verlauf kommt es entweder zur kompletten Ausheilung, oder infolge fortschreitender Fibrosierung und Gefäßsklerosierung zur Lungenfibrose.
+
+
+== Diagnostik ==
+Aufgrund des zeitlichen Zusammenhangs ist die Diagnose leicht. Radiologisch finden sich nach Ablauf der akuten Phase streifige Verdichtungen, die mit Schrumpfungen einhergehen. Lungenfunktionell bestehen eine restriktive Störung und eine ausgeprägte Hypoxämie.
+
+
+== Therapie ==
+Die Therapie besteht in der Regel in der Gabe von Glukokortikoiden (1 mg/kg Körpergewicht), der Effekt ist jedoch häufig unbefriedigend. Bei akuter Manifestation und großer Ausdehnung der Strahlenpneumonitis kann bei realistischer Prognose eine Intubation mit Beatmung notwendig werden. Zur Vermeidung einer bakteriellen Superinfektion wird eine zusätzliche antibiotische Behandlung empfohlen.
+
+
+== Literatur ==
+W. Berdel u. a. (Hrsg.): Innere Medizin. Urban & Fischer in Elsevier, München 2006, ISBN 3-437-44405-0.
+P. Hammerl, F. Grimminger, H.-D. Walmrath, W. Seeger: Lungenparenchymkrankheiten. In: Wolfgang Gerok, Christoph Huber, Thomas Meinertz, Henning Zeidler (Hrsg.): Die Innere Medizin: Referenzwerk für den Facharzt. Schattauer, Stuttgart 2007, ISBN 978-3-7945-2222-4.
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==

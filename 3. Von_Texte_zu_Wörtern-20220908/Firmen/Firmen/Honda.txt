@@ -1,0 +1,180 @@
+Das Unternehmen Honda (jap. 本田技研工業株式会社, Honda Giken Kōgyō Kabushiki-gaisha, dt. „Honda Forschung und Industrie“, engl. Honda Motor Co., Ltd.), gelistet im Nikkei 225, ist ein japanischer Konzern (u. a. Hamamatsu), der Automobile, Motorräder, Außenbordmotoren, Mikro-Kraft-Wärme-Kopplungs-Anlagen und Motorgeräte für den Weltmarkt entwickelt, fertigt und vermarktet. Die Tochterfirma Honda Aircraft Company baut außerdem auch ein Geschäftsreiseflugzeug.
+Gemessen am Börsenwert ist Honda der zweitgrößte Automobilhersteller der Welt.
+Mit einer Jahresproduktion von 22 Millionen Motoren ist Honda außerdem der größte Motorenhersteller der Welt. In seinen Fertigungsstätten in 30 Ländern der Welt beschäftigt Honda rund 179.000 Mitarbeiter. Hauptsitz der Firma ist Tokio. Anfang 2014 waren in Deutschland 679.524 Honda-Krafträder zugelassen, was einem Anteil von 16,8 % entspricht.
+Der Firmensitz der Honda Deutschland GmbH, mit ca. 162 Arbeitsplätzen, ist seit 2013 in Frankfurt am Main. Der Präsident ist seit April 2014 der Japaner Hirokazu Tomiki. Die deutsche Forschungsabteilung Honda R&D Europe, mit mehr als 100 Ingenieuren und Wissenschaftlern, befindet sich weiterhin in Offenbach am Main.
+
+
+== Geschichte ==
+Honda wurde am 24. September 1948 gegründet und trägt den Namen des Gründers, Sōichirō Honda. Am Anfang der Firmengeschichte produzierte Honda Motoren zum Antrieb von Fahrrädern.
+Neben Toyota ist Honda einer der wenigen unabhängigen japanischen Automobil- und Motorradhersteller. Dies ist begründet in der Tatsache, dass das Unternehmen während der Restrukturierung des internationalen Auto- und Motorradmarktes erfolgreich war und es geschafft hat, nicht mit anderen Unternehmen fusionieren zu müssen oder durch Akquisitionen fremder Investoren seine Unabhängigkeit zu verlieren. Seit 1986 verwendet Honda für seine Luxusautomobile den Markennamen Acura. Diese werden nur in Nordamerika und Hongkong vertrieben.
+
+
+== Firmenprofil ==
+Hondas Profil in der Öffentlichkeit ist auch geprägt durch seine Aktivitäten im Motorsport.
+Honda trat auch mit einem eigenen Team in der Formel 1 (siehe Honda Racing F1) und in der Formel 2 als Motorenlieferant an. Ende der 1980er und Anfang der 1990er Jahre dominierte Honda mit seinen Motoren die Formel 1 und gewann sechs Weltmeisterschaften. Aushängeschilder von Honda waren damals Nelson Piquet und Nigel Mansell, sowie Ayrton Senna und Alain Prost, die in der letzten Turbosaison der Formel 1 im Jahr 1988 15 von 16 Rennen gewinnen konnten. Ayrton Senna trug neben dem Gewinn der Weltmeisterschaft maßgeblich zur Entwicklung des Honda NSX bei. Im Dezember 2008 stellte Honda die Formel-1-Aktivitäten als Folge der herrschenden Finanzkrise aus Kostengründen ein.
+Als weltweit größter Motorradhersteller bietet Honda Modelle in allen Klassen und Kategorien an. Das derzeit schnellste Motorrad der Produktion ist die bereits 1997 präsentierte CBR1100XX Blackbird mit 286 km/h Höchstgeschwindigkeit.
+Supersportmodelle sind die CBR600 und die Honda „Fireblade“ (CBR1000RR). Die Fireblade, ein Superbike, etwa, das mit nominell 172 PS ein Leistungsgewicht von etwa 1 kg pro PS erreicht hat eine Höchstgeschwindigkeit (Modell 2006) von ca. 284 km/h.
+Flaggschiff der Honda-Tourenmotorräder ist die Gold-Wing-Baureihe, gebaut in Kumamoto (Japan). Aktuell hat dieser Luxustourer als Antrieb einen 1,8 Liter Sechszylinder Boxermotor mit 87 kW (118 PS). Das Trockengewicht dieses Motorrades beträgt 363 kg, und es verfügt über einen Rückwärtsgang zum Rangieren.
+Außerdem hält Honda einen Weltrekord: Im Honda S2000 arbeitet ein Benzinmotor ohne Aufladung mit der derzeit höchsten Literleistung in einem Serienauto. Der 2,0 Liter Reihen-Vierzylinder leistet 240 PS bei 8300 min−1 und hat somit eine Leistung von 120 PS pro Liter Hubraum. Beim bedeutendsten Motorenwettbewerb der Welt, dem jährlich stattfindenden „Engine of the Year“-Award, konnte der ausschließlich im Honda S2000 verbaute Motor 5 Mal in Folge (2000–2004) in der Hubraumklasse 1,8 bis 2,0 Liter den 1. Platz für sich beanspruchen.
+Im Jahr 2000 stellte Honda den humanoiden Roboter ASIMO vor.
+
+
+== Technologien ==
+CBS - Combined Brake System: Dieses System verteilt die Bremskräfte auf beide Bremsen und Räder einspuriger Fahrzeuge auch beim Betätigen nur eines Bremshebels.
+CMBS - ein Kollisionswarn- und Schutzsystem mit mehreren Warnstufen.
+CVCC - siehe Compound Vortex Controlled Combustion: Bei diesem schichtladeähnlichen Verfahren zur Abgasreduktion bei Vergasermotoren wird das magere Gemisch in der Hauptkammer über eine Fackeldüse durch die (fette) Verbrennung in der Vorkammer gezündet.
+Real Time 4WD - Automatisch zuschaltendes, geregeltes Allradantriebssystem.
+VTEC - Variable Valve Timing and Lift Electronic Control: Diese variable Ventilsteuerung kann in einigen Ausführungen auch alle Ventile geschlossen halten, um einzelne oder alle Zylinder abzuschalten (Zylinderabschaltung).
+i-DSI - Dual & Sequential Ignition: Zwei Zündkerzen je Zylinder zünden zeitlich versetzt oder bei hohen Drehzahlen gleichzeitig, um den Verbrennungsverlauf variabel zu steuern.
+IMA - Integrated Motor Assist: Dieser parallele Hybridantrieb arbeitet mit einem Elektromotor, der deutlich kleiner dimensioniert ist als der Verbrennungsmotor. In Europa wird IMA eingesetzt in den Modellen Civic IMA (seit 2006 Civic Hybrid), Insight (seit 2009), CR-Z (seit 2010) und Jazz Hybrid (seit 2011).
+Die interne Fahrzeugidentifikationsnummer V.I.N. verwendete Honda von 1979 bis 1995. Seitdem werden Fahrzeug-Identifizierungsnummern nach internationalen Normen verwendet.
+4WS - Four Wheel Steering System: ein anfangs mechanisches, später elektronisches 4-Rad-Lenksystem, das einen engeren Wendekreis und schnellere Kurvenfahrten ermöglicht. Verwendet beim Honda Prelude BA4 1989 bis BB8 2000.
+
+
+== Pkw-Modelle ==
+
+
+=== Kleinwagen ===
+N360
+N600
+Life
+Z360
+Z600
+Jazz/City
+Logo
+FCX
+That’s
+
+
+=== Kompaktklasse ===
+Today
+Civic
+Civic Hybrid
+Concerto
+Insight
+
+
+=== Untere Mittelklasse ===
+1300
+
+
+=== Mittelklasse ===
+Quint/Quintet
+Integra
+Accord
+
+
+=== Obere Mittelklasse ===
+Vigor
+Legend
+
+
+=== Sportcoupé ===
+Civic Coupé und Type R
+CRX
+Integra Type R
+Prelude
+Accord Coupé und Type R
+CR-Z
+
+
+=== Sportwagen/Roadster ===
+Beat
+S500
+S600
+S800
+S2000
+NSX
+NSX-R
+NSX (ab 2016)
+
+
+=== Van ===
+FR-V
+Odyssey
+Shuttle
+Stream
+
+
+=== SUV ===
+Horizon
+HR-V
+CR-V
+Crossroad
+Element
+Passport
+Pilot
+Ridgeline
+
+
+=== Konzeptfahrzeug ===
+S360
+Sports 4
+HSC
+Small Hybrid Sports Concept
+Honda Dualnote 2001
+
+
+== Motorrad-Modelle ==
+
+
+== Rennsport ==
+
+
+=== Automobilrennsport ===
+Honda engagierte sich mehrfach in verschiedenen Klassen des Automobilsports. Dabei verfolgte das Unternehmen über die Jahrzehnte sehr unterschiedliche Konzepte. Teilweise lieferte es lediglich Motoren für bestehende Teams, die die Triebwerke in eigenen Autos unter eigener Leitung einsetzten; daneben betrieb Honda aber in der Formel 1 auch wiederholt ein sog. Werksteam, das eigene Motoren und eigene Autos an den Start brachte:
+Das werksseitige Engagement in der Formel 1 erfolgte über das Team Honda Racing F1, das von 1964 bis 1968 und von 2005 bis 2008 in der Formel 1 engagiert war.
+Ein werksseitig unterstütztes Formel 1-Team war der britische Rennstall Spirit, der 1981 mit dem Zweck gegründet wurde, Hondas neues Formel-1-Triebwerk in der Praxis mit einem kleinen Rennstall zu testen und weiterzuentwickeln, bevor es für die Formel-1-Saison 1983 an das Top-Team Williams weitergegeben wurde.
+Als Motorenlieferant für die Formel 1 rüstete Honda unter anderem die Teams von Williams, Lotus, McLaren und British American Racing aus. Aus letzterem ging 2005 der bis 2008 aktive Rennstall Honda Racing F1 hervor.
+Als Motorenlieferant für die Formel 2 (1000 cm³) rüstete Honda 1965 und 1966 den Rennstall von Brabham aus. 1966 fuhren die Rennfahrer Jack Brabham und Denis Hulme mit dem Brabham-Honda BT18 insgesamt 11 Siege bei 12 Rennen ein. Jack Brabham gewann im selben Jahr die Formel-2-Meisterschaft.
+Neben diesen Formel 1 Top-Teams erhielten auch in einzelnen Jahren weitere Teams wie Tyrrell, Arrows, Jordan Grand Prix und Prost Grand Prix Motoren, die von Honda konzipiert worden waren. Sie wurden allerdings von Mugen geliefert, einem selbständigen Unternehmen, das von Soichiro Hondas ältestem Sohn Hirotoshi Honda geleitet wurde.
+Im Langstreckensport werden komplette Fahrzeuge durch die USA basierte Honda Performance Development entwickelt. Diese wurden ursprünglich unter der Marke Acura an den Start gebracht.
+Im Mai 2013 gaben McLaren und Honda auf einer gemeinsamen Pressekonferenz bekannt, dass McLaren ab der Saison 2015 Motoren von Honda erhalten wird. Honda wird zudem auch mindestens ein weiteres Team mit Motoren beliefern.
+
+
+=== Formel 1 ===
+
+
+=== Formel 2 ===
+
+
+=== Motorradrennsport ===
+
+
+==== Honda-Motorrad-Renngeschichte der 125-cm³-Klasse ====
+1959 nahm Honda zum ersten Mal am populären Rennen der Tourist Trophy auf der Isle of Man Clypse Rennstrecke (17,63 km) in der 125er Klasse teil. Die Rennmaschine RC141 war mit einem ein 2-Zylinder-DOHC-Parallel-Twin bestückt und hatte eine Königswelle zum Zylinderkopf mit zwei Ventilen pro Zylinder. Der Motor hatte eine Verdichtung von 10,5:1, entwickelte 18 PS bei 13.000 min−1 und hatte ein 6-Gang Getriebe. Da im Training erkannt wurde, dass man damit nicht konkurrenzfähig war, wurden neue Zylinderköpfe mit 4 Ventilen pro Zylinder aus Japan eingeflogen. Der Motor hatte nun 18,5 PS bei 14.000 min−1 und wog 87 kg. Diese Rennmaschine hieß nun RC142 und war die Maschine, die Hondas Renndebüt in Europa hatte. Der Kopf der Honda-Rennfahrergruppe war der 30 Jahre alte Amerikaner Bill (William Hunt), dem General Manager von American Honda und Gewinner des Asama-Rennens in Japan 1958. Die weiteren Fahrer waren Naomi Taniguchi, Junzo, Giichi Suzuki, Teisuke Tanaka, letzterer mit einer RC141 2-Ventiler. Tanaka vertrat Kunihiko Akiyama, der kurz vor der Abreise des Teams aus Japan tödlich verunglückte. Um die Rennstrecke zu erkunden, wurde die neue CB 92 eingesetzt. Im Rennen fuhr Naomi Taniguchi durch den sechsten Platz den ersten Punkt in der Weltmeisterschaft für Honda ein. Seine Durchschnittsgeschwindigkeit war 109,9 km/h. Durch einen weiteren siebten Platz durch Giichi Suzuki mit 107,4 km/h, den achten durch Teisuke Tanaka mit 105,7 km/h und den elften Platz durch Junzo Suzuki mit 102,7 km/h, gewann die Honda-Mannschaft den Teampreis und den ersten Pokal. Das Honda-Team wurde von Kiyoshi Kawashima, dem späteren Präsident des Unternehmens geleitet.
+1960 nahm das Honda-Team wieder an der Isle of Man TT teil. Sie hatten die RC143 dabei, mit einem überarbeiteten 2-Zylinder Parallel-Twin DOHC, die 22 PS bei 14.000 min−1 produzierte und 93 kg wog. Der Australier Tom Phillis, Naomi Taniguchi, Giichi Suzuki, Teisuke Tanaka, Moto Kitano und Shimakazi waren die Rennfahrer. Phillis qualifizierte sich als zweitschnellster im Training, aber durch Zündkerzenprobleme erreichte er im Rennen nur den zehnten Platz.
+1961 fuhr Tom Phillis mit der Startnummer 60 in Barcelona den ersten Sieg im ersten Rennen der Saison für Honda ein. Er gewann auch die erste Straßenweltmeisterschaft für Honda in der 125er Klasse auf der RC143 und RC144, mit 21 PS bei 14.000 min−1. Die spätere 2RC143 mit der Startnummer 26 hatte 23 PS bei 14.000 min−1. In diesem Jahr gewann Honda 8 von 11 Rennen und die Konstrukteurs- und Fahrerweltmeisterschaft. Das Rennen der Isle of Man TT Ultra Leichtgewichts-Klasse gewann Mike Hailwood (Mike the Bike) auf einer RC 143 vom Vorjahr, die er von Luigi Taveri bekommen hatte. Taveri kam auf den zweiten Platz, gefolgt von Tom Phillis und Jim Redman, alle auf der RC144.
+1962 gewann Luigi Taveri mit der RC145 die Weltmeisterschaft in der 125er-Klasse, die er mit sechs Siegen für sich entschied. Es war geplant, dass der japanische Fahrer Takahashi diese Klasse gewinnen sollte. Er gewann auch die ersten beiden GPs, hatte aber auf der Isle of Man einen schrecklichen Unfall, der dieses Vorhaben beendete. Taveri mit der Nr. 6 fuhr auf den ersten Platz und die ersten fünf Plätze belegten in der 125er Isle of Man TT Ultra Leichtgewichts-Klasse Honda-Fahrer. Die RC145 hatte 24 PS bei 14.000 min−1, die jedes von 10 Rennen in dieser Saison gewann.
+1964 gewann wieder Luigi Taveri mit der RC146 die Weltmeisterschaft in der 125er Klasse. Die RC 146 war die erste Honda 125er Vierzylinder und hatte 27 PS bei 17.000 min−1, die Ende 1963 auf der Rennpiste erschienen war. Sie hatte 7 Gänge und wog nur 87 kg. Die spätere 4RC146 hatte 28 PS bei 18.000 min−1. Mit dieser Maschine mit der Startnummer 4 belegte er 1965 in 125er Isle of Man TT Ultra Leichtgewichts-Klasse den 2. Platz. Es war das beste Ergebnis in dieser Saison gegen die nun stark aufkommenden Zweitakter.
+1966 gewann wieder Luigi Taveri mit der RC149 die Weltmeisterschaft in der 125er-Klasse. Die RC149 war die erste Honda 125er Fünfzylindermaschine und hatte über 34 PS bei 20.500 min−1, die schon im Oktober 1965 auf der Rennpiste ihre Premiere hatte. Acht Gänge und ein Trockengewicht von 85 kg brachten ihr die Konstrukteurs- und Fahrerweltmeisterschaft.
+
+
+==== Fahrerweltmeistertitel im Motorrad-Straßenrennsport ====
+
+
+== Weitere Geschäftsbereiche ==
+
+Unter der Bezeichnung Power Equipment (dt. wörtlich: Kraft-Ausrüstung(en)) sind durch Motoren angetriebene Geräte aus dem Gartenbereich, in der Industrie verwendete Ausrüstungen und Antriebe, sowie unter dem Begriff Marine Bootsmotore und Schlauchboote versammelt.
+
+Die Honda Aircraft Company, eine 100-prozentige Tochtergesellschaft mit Sitz in Greensboro im US-Bundesstaat North Carolina, entwickelt ein Geschäftsreiseflugzeug, den Honda HA-420 Hondajet.
+
+Außerdem sponsert Honda ein eigenes Downhill-Mountainbiketeam. „Team G Cross Honda“ nannte sich das Downhill-Mountainbiketeam von Honda, das bis 2008 mit Bikern wie Greg Minnaar, Matti Lehikoinen und Brendan Fairclough im Mountainbike-Weltcup sehr erfolgreich war. So gewann das Team 2007 zum Zweiten Mal in Folge den Gesamtweltcup im Downhill. Das Honda-Mountainbike wurde ausschließlich für den Einsatz im Downhill-Weltcup gebaut und war somit am Markt nie erhältlich. Die Agentur 23 Degrees Sports Management hat Ende 2007 überraschend eine Pressemitteilung veröffentlicht, in der zu lesen ist, dass sich Honda wieder komplett aus dem Mountainbike-Sport zurückziehen werde.
+
+
+== Literatur ==
+Joachim Kuch: Honda Motorräder seit 1970, Typenkompass, Motorbuch Verlag 2003, ISBN 3-613-02337-7
+Joachim Kuch: Autos aus Japan 1965-1985, Schrader Motor-Chronik, Bd.96, Motorbuch Verlag 2002, ISBN 3-613-87198-X
+Tests von Honda in auto motor und sport
+
+
+== Weblinks ==
+
+Honda Deutschland
+Offizielle Seite (Schweiz)
+Offizielle Seite (Österreich)
+Linkkatalog zum Thema Honda-Autos bei DMOZ
+Linkkatalog zum Thema Honda-Motorräder bei DMOZ
+
+
+== Einzelnachweise ==

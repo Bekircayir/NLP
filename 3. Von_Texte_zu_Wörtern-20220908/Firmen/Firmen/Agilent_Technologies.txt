@@ -1,0 +1,21 @@
+Die Agilent Technologies, Inc., kurz auch Agilent, ist ein amerikanisches Technologieunternehmen mit Sitz in Santa Clara, Kalifornien. Es beschreibt sich selbst als „Entwickler, Hersteller und Anbieter von Geräten, Systemen und Lösungen im Bereich analytische Messtechnik.“
+
+
+== Geschichte ==
+Agilent entstand im Jahr 1999 als Ableger aus fünf Abteilungen der 1939 gegründeten Firma Hewlett-Packard. Seit dem 2. Juni 2000 ist Agilent Technologies ein selbständiges Unternehmen. Die 1950 aus der Übernahme von Sanborn durch HP hervorgegangene Abteilung Healthcare/Medical Products wurde im Jahre 2001 an Philips Medical Systems verkauft, 2005 wurde die Agilent Technologies Semiconductor Products Group durch Kohlberg Kravis Roberts & Co. (KKR) und Silver Lake Partners akquiriert und der Halbleiterhersteller Avago gegründet. 2006 wurde aus der Abteilung für SOC- und Memory-Tester ein eigenständiges Unternehmen gegründet, welches ab Mitte 2006 als Verigy an der NASDAQ gelistet wurde (heute aufgekauft durch Advantest). Im Juni 2007 übernahm Agilent die deutsche adaptif PHOTONICS GmbH, im Mai 2010 die Varian Inc. Im Jahr 2014 spaltete das Unternehmen den Geschäftsbereich der elektronischen Messtechnik ab. Daraus entstand das Unternehmen Keysight Technologies.
+Aktuell (2015) sind etwa 12.000 Mitarbeiter in allen Standorten weltweit beschäftigt. Agilent Technologies in Deutschland beschäftigt rund 1000 Mitarbeiter, die meisten davon in Waldbronn. Weitere Agilent-Niederlassungen befinden sich in Böblingen, Frankfurt, Düsseldorf-Ratingen und München.
+Seit 2015 ist Mike McMullen als Nachfolger von William P. Sullivan Vorstandsvorsitzender von Agilent Technologies.
+
+
+== Produkte ==
+Hauptprodukte von Agilent sind unter anderem DNA/RNA Microarrays, Vakuumpumpen, Flüssig- (HPLC High Pressure oder Performance Liquid Chromatography) und Gaschromatographie-Massenspektrometrie-Kopplung (GC-MS). Die Investmenttochter Agilent Ventures unterstützt High Tech Start Up Gesellschaften.
+Zum Produktbereich des Geschäftsbereiches LSCA (Life Science/Chemical Analysis) gehören sowohl klassische Kapillar-Elektrophorese (CE Kapillarelektrophorese) als auch Microfluidic-Produkte wie Bioanalyzer und Chip-LC/MS (Chip-Liquid Chromatography/Mass Spectrometry).
+Durch die zahlreichen von Agilent angebotenen Kopplungstechniken von Massenspektrometern mit Chromatographiegeräten ist das Unternehmen einer der weltweit führenden Hersteller von Massenspektrometern. Unter anderem werden Massenspektrometer mit der Quadrupol- (MSD), der Ionenfallen- (ion trap) und der Flugrohrtechnik (TOF, time of flight) sowohl in Form einfacher als auch mehrfacher Massenspektrometer (Q-TOF: Quadrupol mit Flugrohr, QQQ: drei Quadrupole in Reihe) angeboten. Analysegeräte können in Form von Gaschromatographen (GC), Flüssigkeitschromatographen (HPLC), Kapillarelektrophorese (CE) und ICP-MS gekoppelt werden. Für die Chromatographie werden auch andere Detektoren angeboten.
+
+
+== Weblinks ==
+
+Website der Agilent Technologies, Inc.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,33 @@
+Nihon Victor K.K. (jap. 日本ビクター株式会社, Nihon bikutā kabushiki kaisha; engl. Victor Company of Japan, Limited, JVC) war ein Unternehmen mit Sitz im japanischen Yokohama, das Unterhaltungselektronik und medientechnische Geräte entwickelte und vertrieb. Im Jahr 2008 hatte es etwa 19.000 Angestellte.
+
+
+== Geschichte ==
+
+
+=== Tochtergesellschaft der VTMC ===
+Das Unternehmen wurde am 13. September 1927 als Tochtergesellschaft der US-amerikanischen Victor Talking Machine Company (VTMC) gegründet, löste sich aber mit Beginn des Zweiten Weltkrieges von seiner Muttergesellschaft. Anfangs befasste JVC sich mit der Herstellung von Schallplatten und deren Verbesserung, z. B. der Entwicklung des 45/45-Stereoformates. Viele markterfolgreiche Innovationen folgten und haben JVC stetig wachsen lassen.
+
+
+=== Tochtergesellschaft der Matsushita Electric Industrial ===
+1954 wurde JVC von Matsushita Electric Industrial (heute Panasonic Corporation) übernommen.
+1976 brachte JVC den ersten VHS-Videorekorder für den Heimgebrauch mit der Modellbezeichnung HR-3300 auf den Markt. Durch eine Politik der großzügigen Lizenzvergabe an andere Hersteller verdrängte das VHS-System in nur wenigen Jahren die bereits bestehenden magnetischen Bildaufzeichnungssysteme von Philips (VCR) und Sony (Betamax). Auch das nach VHS von Grundig und Philips eingeführte Video 2000 konnte sich gegen das JVC-Format nicht durchsetzen. Aufgrund des kommerziellen Erfolges und der damit einhergehenden großen Verbreitung wurde VHS weltweit zur Quasi-Norm für Heim-Videorekorder.
+Nicht unerwähnt bleiben soll die zumindest umstrittene Rolle von JVC als Wegbereiter zur weltweiten Verbreitung des analogen Kopierschutzes Macrovision. Auf Druck der Filmindustrie wurde 1985 der VHS-Standard von JVC modifiziert. VHS-Lizenznehmer mussten die AGC (Automatic Gain Control) so ändern, dass sie verlässlich auf die Macrovision-Impulse ansprach. (Die AGC ist technisch das Gegenstück zur automatischen Aussteuerung bei Magnetbandgeräten und sollte ohne Zutun des Anwenders korrekte Videopegel und damit die richtige Helligkeit der Aufnahme sicherstellen.) Bis zu diesem Zeitpunkt hing es von der AGC-Schaltung des jeweiligen Videorecorders ab, ob er auf die Kopierschutzsignale wie von Macrovision Corporation gewünscht reagierte oder nicht.
+Ab 1986 entwickelte JVC ein verbessertes VHS-Format (S-VHS, erstes Modell: HR-S5000 PAL bzw. HR-S7000 NTSC) und das kleinere VHS-C-Format für tragbare Recorder und Camcorder. 1995 folgte der erste Digital-Camcorder im Taschenformat (JVC GR DV-1) und seit 2002 Plasmabildschirme. Im Bereich der Unterhaltungselektronik brachte JVC 1991 die weltweit erste Micro-Hi-Fi-Anlage (UX-1) auf den Markt.
+JVC engagiert sich auch als Sponsor für Sport-Großereignisse wie der UEFA Fußball-Europameisterschaft (seit 1980), dem FIFA-Weltcup (seit 1982), der Fußball-Weltmeisterschaft 2002 in Korea/Japan und ist seit 1978 regelmäßig Veranstalter des Tokyo Video Festivals und des JVC Jazz Festivals in Singapur. JVC sponsert auch den niederländischen Rennfahrer Christijan Albers.
+1984 bis 2008 war JVC Sponsor der JVC Jazz Festivals.
+Als europäische Ableger wurden 1977 die JVC (U.K.) Limited und 1978 die JVC-Deutschland GmbH (Zunächst in Frankfurt am Main, seit 1993 in Friedberg) gegründet.
+
+
+=== Tochtergesellschaft der JVC Kenwood Corporation ===
+Wegen hoher Verluste von JVC begann Matsushita 2007 mit einem teilweisen Verkauf an Kenwood und damit einer Reduzierung seiner Firmenanteile. Am 1. Oktober 2008 wurde von JVC und Kenwood die gemeinsame Jointventuregesellschaft JVC Kenwood Holdings K.K. (JVC・ケンウッド・ホールディングス株式会社, JVC Ken’uddo hōrudingusu kabushiki-gaihsa, engl. JVC KENWOOD Holdings Inc.) gegründet. Die Vereinigung von JVC und Kenwood endete mit der Umbenennung der Holding in die JVC Kenwood Corporation. Die JVC Ltd. ist seitdem neben der Kenwood Corporation und J & K Car Electronics Corporation eines der drei Tochterunternehmen der JVC Kenwood Corporation bzw. JVC Kenwood Group.
+
+
+== Weblinks ==
+
+JVC Japan
+JVC Deutschland
+JVC Professional Europe
+JVC Hifi Classics, private project
+
+
+== Einzelnachweise ==

@@ -1,0 +1,13 @@
+Das Lown-Ganong-Levine-Syndrom ist ein 1952 von Lown, Ganong und Levine beschriebenes Syndrom aus der Gruppe der Präexzitationssyndrome. Die klinische Diagnose erfolgte bei Vorliegen der folgenden Kriterien: anfallsartiges Herzrasen (paroxysmale Tachykardie), im EKG eine verkürzte Überleitungszeit (PQ-Zeit < 120 ms) bei normal konfiguriertem Kammerkomplex (QRS-Komplex). Der letzte Punkt grenzt das LGL-Syndrom vom klassischen Wolff-Parkinson-White-Syndrom (WPW-Syndrom) ab, bei dem definitionsgemäß eine Delta-Welle vorliegt.
+Die ursprüngliche Annahme, dem LGL-Syndrom liege eine eindeutige, definierte Störung im Reizleitungssystem zu Grunde, wie das z. B. beim WPW-Syndrom der Fall ist, bewahrheitete sich bei elektrophysiologischen Studien bislang nicht.
+Die klinische Bedeutung des LGL-Syndroms ist gering, zumal man seit Einführung der elektrophysiologischen Untersuchung des Reizleitungssystems eine genaue Abklärung der zugrundeliegenden Ursache eines Präexzitationssyndroms durchführen kann.
+
+
+== Siehe auch ==
+Präexzitation
+Wolff-Parkinson-White-Syndrom
+
+
+== Literatur ==
+D. M. Beyerbach u. a.: Lown-Ganong-Levine Syndrome. (Übersicht)
+G. Herold: Innere Medizin. 2007, S. 255f.

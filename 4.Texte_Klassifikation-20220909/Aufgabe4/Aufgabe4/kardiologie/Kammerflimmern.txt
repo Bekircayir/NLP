@@ -1,0 +1,25 @@
+Herzkammerflimmern, kurz Kammerflimmern, auch ventrikuläre Fibrillation (VF; englisch ventricular fibrillation) genannt, ist eine lebensbedrohliche pulslose Herzrhythmusstörung, bei der in den Herzkammern ungeordnete Erregungen ablaufen und der Herzmuskel sich nicht mehr geordnet kontrahiert. Unbehandelt führt das Kammerflimmern wegen der fehlenden Pumpleistung des Herzens unmittelbar zum Tode. Im EKG sieht man Flimmerwellen mit einer Frequenz von etwa 300–800/min. Kammerflimmern kann z. B. als Komplikation eines Herzinfarktes auftreten (siehe auch plötzlicher Herztod) oder durch einen Stromunfall verursacht werden.
+
+
+== Pathophysiologie ==
+
+In der Regel arbeitet die Gesamtheit der Herzmuskelzellen durch Steuerung über das Erregungsleitungssystem koordiniert zusammen. Im Sinusknoten werden die Erregungen regelmäßig gebildet und auf die Vorhöfe weitergegeben, der Atrioventrikularknoten leitet sie auf die Herzkammern weiter, wo sie über spezialisierte Zellen – das Erregungsleitungssystem – in alle Anteile der Herzkammern weitergeleitet werden. So werden alle Teile des Herzmuskels in einem sinnvollen Ablauf erregt, sie kontrahieren, die Erregung bildet sich wieder zurück und die Herzmuskelzellen werden bereit für eine neue Erregung.
+Beim Kammerflimmern kommt es durch lokale Störungen der Erregungsleitung oder des Erregungsablaufs dazu, dass die sich ausbreitende Erregung auf Gewebe trifft, das schon wieder erregbar ist und die Erregungsweiterleitung fortsetzt. Es kommt zu kreisenden Erregungswellen, sodass der Herzmuskel nicht mehr koordiniert pumpt, sondern unkoordiniert mit hoher Frequenz zuckt – er „flimmert“. Die Pumpleistung des Herzens sinkt abrupt auf Null und es kommt zum Kreislaufstillstand.
+Erstmals genauer beschrieben wurde das Flimmern des Herzmuskels in De humani corporis fabrica (1543) von Andreas Vesal.
+
+
+== Therapie ==
+Die Therapie des Kammerflimmerns ist die sofortige Defibrillation. Erstmals erfolgreich durchgeführt haben die Anwendung elektrischen Stroms zur Behandlung von Kammerflimmern Jean Louis Prévost und Frédéric Battelli im Jahr 1899 in Tierversuchen. Bei der Defibrillation eines erwachsenen Menschen werden heute durch einen kurzen, starken Stromstoß (360 J monophasisch, biphasisch variiert mit 150 Joule) alle Herzmuskelzellen gleichzeitig erregt, damit danach die Erregung auf normalem Wege vom Sinusknoten ausgehend erfolgt. Die Defibrillation ist die einzige erfolgversprechende Therapie des Kammerflimmerns. Je früher sie durchgeführt wird, umso höher sind die Erfolgschancen. Jede Minute ohne Defibrillation verringert die Wahrscheinlichkeit einer erfolgreichen Wiederbelebung um ca. 10 %.
+Die Zeit bis zur Verfügbarkeit eines Defibrillators muss durch Erste-Hilfe-Maßnahmen (Herz-Lungen-Wiederbelebung) überbrückt werden, um die Sauerstoffversorgung vor allem des Gehirns, der Nieren und des Herzmuskels aufrechtzuerhalten.
+Durch die zunehmende Verbreitung von halbautomatischen Defibrillatoren, die an öffentlichen Plätzen bereitgehalten werden und für die Anwendung durch Laien konzipiert sind, kann die Zeitspanne bis zur Defibrillation  deutlich verringert werden.
+Durch diese Geräte kann sich die Überlebenschance um ein Vielfaches erhöhen. Bei einer frühen Herz-Lungen-Wiederbelebung und Defibrillation durch den Rettungsdienst hat der Patient statistisch eine Überlebenschance von ca. 8 bis 10 %. Diese erhöht sich im besten Fall durch den frühen Einsatz eines automatisierten, externen Defibrillators durch Laienhelfer auf bis zu 70 %.
+Der Nutzen des im Rettungsdienst vereinzelt noch angewendeten sogenannten präkordialen Faustschlags ist ungesichert.
+
+
+== Siehe auch ==
+Kammerflattern
+Vorhofflimmern
+Milde therapeutische Hypothermie
+
+
+== Einzelnachweise ==

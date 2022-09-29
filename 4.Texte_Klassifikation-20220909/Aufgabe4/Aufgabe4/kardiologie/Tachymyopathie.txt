@@ -1,0 +1,17 @@
+Eine Tachymyopathie (griechisches Kunstwort ταχυμυοπάθια, tachimiopáthia, wörtlich in etwa „die Schnell-[Herz-]Muskelerkrankung“), auch Tachykardiomyopathie, Tachykardie-Kardiomyopathie oder arrhythmieinduzierte Kardiomyopathie,  ist eine strukturelle Herzmuskelschädigung (Kardiomyopathie), die auf einer dauerhaft überhöhten Herzfrequenz (einer Tachykardie: Puls über 100 Schläge in der Minute) beruht.
+
+
+== Pathophysiologie ==
+Ausgangspunkt ist häufig ein Vorhofflimmern mit schneller elektrischer Überleitung im AV-Knoten, welches zu einem schnellen und unregelmäßigen Herzschlag (einer Tachyarrhythmie) mit nicht mehr aufeinander abgestimmten Kontraktionen von Vorhof und Herzkammer führt. Durch die unkoordinierte Herzaktion ist die Herzarbeit ineffektiv, so dass sich die Muskulatur durch so genannte Remodellierung (engl. remodelling = ‚Umformung‘) der Situation durch z. B. Muskelwachstum anzupassen versucht.
+Durch diese Umbauprozesse, die ab einem gewissen Grad die Gewebsarchitektur des Herzens beeinträchtigen, kommt es bei der Tachymyopathie zunächst zu einer Schädigung des herzeigenen elektrischen Erregungsleitungssystems. Dieses leitet die Impulse für die Auslösung der Herzaktionen vom rechten Vorhof, wo der Sinusknoten sie physiologischerweise generiert, an die Herzkammern weiter, die die Hauptlast der eigentlichen Pumparbeit leisten. Das geschädigte Erregungsleitungssystem kann in einem Teufelskreis die ursächlichen schnellen Frequenzen sogar noch begünstigen und stabilisieren.
+Im weiteren Verlauf eines dauerhaften Vorhofflimmerns mit Tachyarrhythmie kommt es zu einer nachfolgenden Herzschwäche (einer konsekutiven Herzinsuffizienz) mit weiterem Remodeling und Ausprägung einer anatomisch-pathologisch fassbaren Kardiomyopathie.
+
+
+== Therapie und Rezidivprophylaxe ==
+Grundsätzlich steht mittel- und langfristig die Behandlung des auslösenden Grundleidens, also zumeist des Vorhofflimmerns, im Vordergrund (siehe dort). Da dies jedoch oft nicht möglich ist, sucht man die Auswirkungen der Grundkrankheit zu verhindern oder abzumildern:
+Um die schnelle Überleitung der Herzmuskelerregung zu beseitigen, werden Medikamente verabreicht, die die Herzfrequenz senken. Verwendet werden meist Betablocker oder Verapamil oder Diltiazem sowie Digitalispräparate.
+Neben der Senkung der Herzfrequenz sollte eine Therapie der Herzschwäche erfolgen.
+
+
+== Weblinks ==
+Artikel. In: Deutsches Ärzteblatt

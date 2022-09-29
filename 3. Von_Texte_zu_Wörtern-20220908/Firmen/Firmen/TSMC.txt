@@ -1,0 +1,33 @@
+Die Taiwan Semiconductor Manufacturing Company, Limited (TSMC; chinesisch 台灣積體電路製造股份有限公司, kurz chinesisch 台積公司, Pinyin Táijī gōngsi) ist nach Intel und Samsung der weltweit drittgrößte Halbleiterhersteller und die weltweit größte unabhängige Foundry (Auftragsfertiger für Halbleiterprodukte). TSMC wurde 1987 gegründet. Der Hauptsitz und die wichtigsten Unternehmensteile befinden sich in Hsinchu, Taiwan.
+Das Geschäftsmodell von TSMC ist darauf ausgerichtet, für fabless companies wie z. B. Apple, Qualcomm, NVIDIA, AMD, Conexant, Marvell, VIA oder Broadcom die Produktion von Halbleiterchips zu übernehmen.
+Das Unternehmen ist dabei extrem profitabel und schnell wachsend. In den letzten 20 Jahren lag das durchschnittliche Wachstum je Jahr bei 21,5 %. Im Schnitt konnten Nachsteuer-Renditen größer 30 % erzielt werden. Inzwischen zählt TSMC zu den größten und profitabelsten Unternehmen der Welt.
+
+
+== Daten ==
+Die Aktien des Unternehmens werden am Taiwan Stock Exchange und am New York Stock Exchange unter dem Kürzel TSM gehandelt. Der Vorsitzende des Unternehmens ist Morris Chang, der auch bis 2005 CEO war. Von 2005 bis 2009 war Rick Tsai der CEO, seitdem ist es wieder Morris Chang, der somit heutiger Vorsitzender und CEO des Unternehmens ist.
+Am 13. Oktober 2016 betrug die Marktkapitalisierung 141,42 Mrd. EUR.
+
+
+== Werke ==
+
+Eine 6-Zoll-Wafer-Fabrik in Betrieb (Fab 2)
+Vier 8-Zoll-Wafer-Fabriken in Betrieb (Fabs 3, 5, 6, 8)
+Drei 12-Zoll-Wafer-Fabriken in Betrieb (Fabs 12, 14, 15)
+TSMC Shanghai 8-Zoll-Wafer-Fabrik (Fab 10)
+WaferTech, eine zu 100 % zu TSMC gehörende 8-Zoll-Wafer-Fabrik in Camas, Washington, USA
+Im Jahr 1998 startete TSMC mit Philips Semiconductors (jetzt NXP Semiconductors) und mit EDB Investments aus Singapur das Joint-Venture Systems on Silicon Manufacturing Cooperation (SSMC) zum Bau einer Halbleiterfabrik in Singapur. TSMC erhöhte im November 2006 seine Anteile an SSMC auf 38,8 %.
+
+
+== Technik ==
+
+Stand der Technik ist seit 2008 die Herstellung von Chips mit einer Strukturgröße von 40 Nanometern (im 40-nm-Prozess) durch die 193-nm-Immersionslithografie, gestrecktem Silizium und die Low-k-Dielektrikum-Halbleitertechnologie. Die ersten Produkte im 40-nm-Prozess waren unter anderem Alteras Hardcopy-ASICs, der RV 740 GPU von AMD und die 40-nm-Stratix-IV-FPGA-Bausteinfamilie.
+Im 3. Quartal 2010 hat man mit der Risikofertigung im 28-nm-Prozess begonnen, die Massenfertigung sollte im 4. Quartal 2010 beginnen.
+Seit 2014 bieten TSMC auch Chips im 16-nm-FinFET-Verfahren an.
+
+
+== Weblinks ==
+
+Unternehmens-Website
+
+
+== Einzelnachweise ==

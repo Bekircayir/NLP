@@ -1,0 +1,342 @@
+Eine Plattform bezeichnet bei Automobilen eine technische Basis, auf der äußerlich verschiedene Modelle aufbauen. Dazu gehören Blechteile der Karosserie wie Bodenplatte, innere Teile der Radkästen, Spritzwand, vordere Längsträger, aber auch die Elektronikarchitektur und andere nicht direkt sichtbare Baugruppen wie Teile des Fahrwerks, Tank, Auspuffanlage und Heizung. Der Aufbau der Karosserie – also Frontmaske, Kotflügel, Seitenteile und Heck – ist modellspezifisch. Auf der Plattform können technische Komponenten wie Motor oder Getriebe aus einem Baukastensystem montiert werden, so dass einzelne technische Entwicklungen in mehreren Modellen verwendet werden können. Dadurch werden die Entwicklungskosten pro Modell gesenkt. Nicht selten liegt die Fertigungstiefe von Automobilplattformen bei über 40 Prozent.
+
+
+== Entwicklung ==
+Vor dem Zweiten Weltkrieg, als Karosserien nicht selbsttragend waren, sondern auf einem Fahrgestellrahmen (Chassis) ruhten, war die Plattform als technische Basis unabhängig. Besonders in der Oberklasse waren individuell gefertigte Karosserien kleiner Hersteller üblich.
+Unterscheiden sich Fahrzeuge nur in Ausstattung und kleinen Gestaltungsmerkmalen wie dem Kühlergrill, dann sind sie baugleich. Stammen sie vom gleichen Hersteller, spricht man von Badge-Engineering, wie etwa beim BMC ADO 15, der als Austin Seven und Morris Mini-Minor auf den Markt kam. Auch in Lizenz gefertigte Fahrzeuge sind baugleich, wie etwa der Renault 12 und der Dacia 1300. Zeitlich versetzt wurde der Opel Kadett E nach Auslaufen der Produktion bei Opel als Daewoo Nexia weitergebaut, alte Fiatmodelle wurden in Indien, Polen, der Sowjetunion und Russland noch lange weiterproduziert.
+Damit verbunden ist eine stückkostengünstige Fertigung der Einzelteile in größeren Serien. Ferner werden Entwicklungskosten eingespart. Nachteil ist ein Stillstand fast aller Bänder des jeweiligen Plattformmodells, wenn wegen Fertigungsproblemen, Streiks etc. eine Komponente ausbleibt. Baugleiche Fahrzeuge müssen nur einmal entwickelt werden, nur wegen des Austauschs des Markenlogos sind keine zusätzlichen Crashtests notwendig.
+Auch muss die technische Zuständigkeit bei der Konstruktion und Auslegung vollständig geklärt sein. Wird zum Beispiel ein Blechteil ohne Absprache mit der technischen Entwicklung der anderen Konzernmarke geändert, so kann das negative Auswirkungen auf die planmäßige Fertigung eines Automobils haben.
+Unterschiedliche Heckformen wie Schrägheck, Stufenheck oder Kombi lassen sich auf gleicher Plattform billiger herstellen, auch wenn sich Länge und Radstand unterscheiden. Hier ist meist auch die Karosserie bis zur B-Säule gleich.
+
+
+== Merkmale einer gemeinsamen Plattform ==
+Plattformen werden häufig von verschiedenen Marken innerhalb eines Konzernverbunds genutzt. Wesentliche Merkmale einer gemeinsamen Plattform sind Fahrwerk und Antrieb.
+Es gibt einen fließenden Übergang, in welchem Maß sich zwei oder mehr Autos gleichen oder auf gleiche Komponenten zurückgreifen. Typische Stufen sind:
+
+Baugleichheit: Nur Markenlogo, Kühlergrill und ggf. Scheinwerfer sind unterschiedlich. Baugleiche Fahrzeuge werden häufig am selben Band gefertigt.
+Gleiche Plattform: Unterschiedliche Karosserien haben gleiche Fixationspunkte, so dass Radaufhängung, Motor, Getriebe etc. ausgetauscht werden können.
+
+
+=== Beispiel: VW Golf (4. Generation) ===
+Exemplarisch für eine Plattformstrategie ist die des Volkswagen-Konzerns. Dieser baut äußerlich verschiedene Modelle seiner Marken auf der gleichen Plattform auf. So wurde die Plattform des VW Golf IV (in Deutschland zwischen 1997 und 2003 gebaut) unter anderem auch für den VW Bora, VW New Beetle, Škoda Octavia I, Seat Leon I, Seat Toledo II, Audi A3 8L und Audi TT 8N benutzt.
+Die VW-interne Bezeichnung dieser Plattform lautet PQ34. Die Abkürzung bedeutet:
+
+P = Plattform
+Q = Einbaulage Motor, Q = Quer (von „links nach rechts“), L = Längs (von „vorne nach hinten“)
+3 = Fahrzeugtyp A-Klasse („Golfklasse“)(1=Mini, 2=Kleinwagen, 3=Kompaktklasse, 4=Mittelklasse)
+4 = 4. Generation (vgl. Golf IV)Analog saßen nachfolgende Projekte auf der Plattform PQ35 des Golf V. Der Passat  baut ab  Modelljahr 2014 auf der Plattform MQB auf, der Vorgänger war auf PQ46 gebaut. Die anderen Bezeichnungen s. o.
+Die Plattform enthält beim VW-Konzern folgende Funktionsgruppen:
+
+Motor, Getriebe und deren Lagerung
+Vorderachse
+Lenkung und Lenksäule
+Schaltung
+Fußhebelwerk
+Hinterachse
+Bremsanlage
+Kraftstoffbehälter
+Abgasanlage
+Räder (Größen)
+Reifen
+Vorderwagen (Längsträger, Radhäuser)
+Stirnwand (inkl. Heizung und Klima)
+Mittelboden (Boden vorn)
+Hinterwagen (Boden hinten, Längsträger, Radhäuser innen)
+Sitzgestelle
+Verkabelung genannter KomponentenDie restlichen Teile des Fahrzeuges werden in Hutteile und Systemteile unterteilt. Der „Hut“ ist dann unter anderem die Rohkarosse, die sich erheblich unterscheiden kann (vergleiche VW Golf V und Seat Altea). Systemteile sind eigentlich Gleichteile (COP = Carry Over Parts), die übernommen, aber der jeweiligen Konzern-Marke angepasst werden. Beispiele: Radzierblende oder das Airbagmodul im Lenkrad, völlig gleich, nur anderes Markensymbol. Dies kann zu Produktionsproblemen führen, wie in der Anfangszeit der Plattform des VW Sharan I / Seat Alhambra I / Ford Galaxy, als Systemteile in die falschen Fahrzeuge eingebaut wurden.
+
+
+== Kraftfahrzeuge mit gemeinsamer Plattform ==
+Beispiele für Plattformen innerhalb eines Automobilkonzerns oder eines Gemeinschaftsunternehmens, das oft hierzu zur Kostensparung gegründet wird. Unterschiedliche Bauarten werden nur aufgeführt, sofern sie einen anderen Markennamen tragen.
+
+
+=== PKW ===
+
+
+==== BMW ====
+BMW E12/ BMW E28, BMW E24
+CLAR (Cluster Architecture): BMW G01, BMW G02, BMW G05, BMW G07, BMW G11, BMW G12, BMW G14, BMW G15, BMW G17 BMW G20, BMW G29, BMW G30, BMW G32, BMW G38.
+FAAR Frontantriebsarchitektur: Weiterentwicklung der UKL-Plattform
+UKL Frontantriebsplattform(UKL1) Mini F55/56/57
+(UKL2) Mini Clubman (F54) (seit 2016), BMW 2er Active Tourer (F45) (seit 2014), BMW 2er Gran Tourer (F46) (seit 2015), BMW X1 (F48) (seit 2015), BMW X2 (F39) (seit 2017), Mini Countryman (F60) (seit 2017), BMW 1er Limousine (F52) (seit 2017) – China, BMW 1er (F40) (seit 2019)
+
+
+==== BMW und Toyota ====
+CLAR-Plattform: BMW Z4 G29, Toyota GR Supra (A90)
+
+
+==== Daimler-Benz AG, DaimlerChrysler, Daimler AG ====
+W/S/CL 203, C/A 209, R 171 (2000): Mercedes-Benz C-Klasse (T-Modell, Sportcoupé), Mercedes-Benz CLK-Klasse, Mercedes-Benz SLK-Klasse
+W/S 211, C 219 (2002): Mercedes-Benz E-Klasse (T-Modell), Mercedes-Benz CLS-Klasse
+W/X 164, W/V 251 (2004) Mercedes-Benz M-Klasse, Mercedes-Benz GL, Mercedes-Benz R-Klasse
+W/C 169, T 245 (2004): Mercedes-Benz A-Klasse, Mercedes-Benz B-Klasse
+W/V 221, C 216 (2005): Mercedes-Benz S-Klasse, Mercedes-Benz CL-Klasse
+W/S/C/X 204, C/A 207, R 172 (2007): Mercedes-Benz C-Klasse, Mercedes-Benz GLK-Klasse, Mercedes-Benz E-Klasse Coupé/Cabriolet, Mercedes-Benz SLK-Klasse
+W/S 212, C/X 218 (2009): Mercedes-Benz E-Klasse, Mercedes-Benz CLS-Klasse
+MFA2: A-Klasse W177
+MRA: Ab 2014: Mercedes-Benz C-Klasse
+MSA: SL und SLC 2019 (Modular Sportscar Architecture)
+DaimlerChrysler LX-Plattform: Chrysler 300C, Dodge Magnum, Dodge Charger, Dodge Challenger (ab 2005; die LX-Plattform basiert ihrerseits auf der Mercedes-Benz Baureihe 210)
+EVA: Mercedes-Benz EQS, Mercedes-Benz EQE
+
+
+==== DaimlerChrysler/Mitsubishi ====
+Z: Smart Forfour, Mitsubishi Colt
+
+
+==== Daimler AG/Nissan ====
+MFA: A-Klasse W176, B-Klasse, Infiniti Q30, Infiniti QX30
+
+
+==== Fiat ====
+850 Fiat 850, Fiat 850 Coupe, Fiat 850 Spider, Fiat 850 T, Fiat 850 Familiare, Fiat 850 Siata Spring
+124 Fiat 124, Fiat 124 Coupe, Fiat 124 Spider
+127 Fiat 127, Fiat Fiorino 147
+128 Fiat 128, Fiat 128 Coupe, Fiat X1/9 128AS, Zastava Skala, Fiat Ritmo, Fiat Regata, Lancia Delta
+Uno : ZFA146 Fiat Uno 146, Fiat Fiorino 146 ZFA146L, Fiat Duna
+Tipo : ZFA160 Fiat Tipo, Fiat Tempra ZFA159, Fiat Tempra S.W., Fiat Marengo, Fiat Coupé, Lancia Delta II, Lancia Dedra, Lancia Dedra SW, Alfa Romeo 155, Alfa Romeo 145, Alfa Romeo 146, Fiat Bravo, Fiat Brava, Fiat Marea, Fiat Marea Weekend, Lancia Lybra, Fiat Multipla, Alfa Romeo 156, Alfa Romeo 147, Alfa Romeo Spider, Alfa Romeo GTV
+Punto 1 : ZFA176 Fiat Punto, Fiat Punto Cabriolet, Fiat Barchetta, Lancia Y, Fiat Palio, Fiat Palio Weekend, Fiat Strada, Fiat Siena
+Punto 2 : ZFA188 Fiat Punto, Lancia Ypsilon, Fiat Idea, Lancia Musa
+Stilo : ZFA192 Fiat Stilo, Fiat Stilo MW, Fiat Bravo II, Lancia Delta III, Fiat Doblò II
+
+
+==== Fiat Chrysler ====
+Giorgio-Plattform: Alfa Romeo Giulia, Alfa Romeo Stelvio, Jeep Grand Cherokee (WL), Maserati Grecale
+
+
+==== Fiat/Alfa/Lancia/Saab ====
+Lancia Delta, Saab 600
+Type Four/Typ Vier: Alfa Romeo 164, Fiat Croma, Lancia Thema, Saab 9000, Opel Vectra C
+
+
+==== Fiat/PSA ====
+Fiat Ulysse : ZFA220: Fiat Ulysse (1. Gen.), Lancia Zeta, Peugeot 806, Citroën Evasion
+Fiat Ulysse : ZFA179: Fiat Ulysse (2. Gen.), Lancia Phedra, Peugeot 807, Citroën C8
+Fiat Ducato : ZFA244/250: Fiat Ducato, Peugeot Boxer, Citroën Jumper
+Fiat Scudo: Fiat Scudo, Peugeot Expert, Citroën Jumpy
+Fiat Fiorino: Fiat Fiorino, Fiat Qubo, Citroën Nemo, Peugeot Bipper,
+
+
+==== Fiat/Ford ====
+Fiat Panda : ZFA169 : Fiat Panda (Bj. 2003), Fiat 500 ZFA150 (Bj. 2007), Ford Ka (Bj. 2009), Lancia Ypsilon 846
+
+
+==== Ford/ Mazda/ Volvo ====
+B2: Ford Fiesta ’96, Ford Ka, Ford Puma, Mazda 121
+B2E: Ford B-MAX, Ford EcoSport, Ford Fiesta, Ford Figo, Ford Ka+, Ford Transit Courier
+B3: Ford Fiesta ’02, Ford Fusion, Mazda2
+C1: Ford Focus, Ford C-MAX, Ford Kuga, Ford Escort, Ford Transit Connect, Volvo S40/V50, Volvo C30, Volvo C70 II, Volvo V40, Mazda3, Mazda5, Mazda Biante, Lincoln MKC
+CD132: Ford Mondeo, Jaguar X-Type, Mazda6
+D3: diverse US-Modelle von Ford
+CD3: Ford Edge, Lincoln MKX, Mazda CX-7
+CD4:
+EUCD: Ford Mondeo, Ford S-MAX, Ford Galaxy, Volvo S60, Volvo V70, Volvo S80, Land Rover Freelander
+
+
+===== Siehe auch =====
+Mazda-C-Plattform
+
+
+==== GM ====
+Alpha: Cadillac ATS, Cadillac CTS Gen.III, Chevrolet Camaro Gen.VIGM4200: Opel Corsa A + B, weitere GM-Modelle
+Gamma I (GM4300): Opel Corsa C, Opel Tigra TwinTop, Opel Meriva A, Opel Combo B, Chevrolet Montana I
+Gamma II: Chevrolet Spark, Chevrolet Aveo Gen.II, Chevrolet Trax, Opel Mokka, Opel KarlGamma G2SC: Chevrolet Bolt EV, Opel Ampera-e,Delta: Opel Astra G bzw. H, Opel Zafira A bzw. B (Plattform wurde beim Modellwechsel nur im Detail verändert), Opel Meriva B
+Delta II: Opel Astra J, Opel Cascada, Opel Zafira C, Opel Ampera, Chevrolet Cruze Gen.I, Chevrolet Orlando, Chevrolet Volt, Buick Verano
+D2XX: Opel Astra K, Chevrolet Cruze Gen.II, Chevrolet Volt Gen. II, Opel Cascada, Buick Envision, Buick Excelle, Buick Verano, Chevrolet OrlandoGM2900: Opel Vectra A + B, Opel Calibra, Saab 900 Gen.II, Saab 9-3 Gen.I, Saab 9-5 Gen.I
+Epsilon II: Opel Insignia A, Saab 9-5 Gen.II, Buick LaCrosse (2009), Buick Regal, Chevrolet Malibu Gen.VIII, Chevrolet Impala Gen.X, Cadillac XTS
+E2XX: Opel Insignia B, Chevrolet Malibu Gen.IXJ: Buick Skyhawk, Cadillac Cimarron, Chevrolet Cavalier, Chevrolet Monza, Daewoo Espero , Holden Camira, Isuzu Aska, Oldsmobile Firenza, Opel Ascona C, Pontiac J2000/2000/Sunbird, Pontiac Sunfire
+Kappa: Opel GT (Roadster), Pontiac Solstice, Saturn Sky, Daewoo G2X
+GMT360: Chevrolet Trailblazer, GMC Envoy, Isuzu Ascender, Saab 9-7X
+Theta: Chevrolet Captiva, Saturn Vue, Opel Antara, Chevrolet Equinox Gen.I & Gen.II
+Theta Premium / TE / Theta-Epsilon: Saab 9-4X, Cadillac SRX Gen.II
+C1XX: Cadillac XT5
+Sigma: Cadillac CTS Gen.I, Cadillac STS, Cadillac SRX Gen.I
+Sigma II: Cadillac CTS Gen.II
+Zeta: Holden Caprice, Holden Commodore, Chevrolet SS, Chevrolet Camaro Gen.V
+Omega: Cadillac CT6
+K2XX: Cadillac Escalade, Chevrolet Silverado, Chevrolet Suburban, Chevrolet Tahoe, GMC Sierra, GMC Yukon
+
+
+===== GM/Fiat =====
+SCCS (Punto3-ZFA199): Fiat Grande Punto, Opel Corsa D, Fiat Linea, Alfa Romeo MiTo, Opel Corsa E, Opel Adam
+Epsilon: Opel Vectra C, Opel Signum, Fiat Croma, Saturn Aura, Saab 9-3 Gen.II, Cadillac BLS, Chevrolet Malibu Gen.VII, Pontiac G6
+GM4200
+Gamma
+GMDAT-J100
+Global-Gamma/G2XX: Buick Encore, Chevrolet Aveo, Chevrolet Cobalt, Chevrolet Lova RV, Chevrolet Onix, Chevrolet Prisma, Chevrolet Sail, Chevrolet Spin, Chevrolet Trax, Opel Mokka
+
+
+==== Honda ====
+GSP(2): Honda City, Honda Jazz, Honda Grace, Honda Greiz, Honda HR-V, Honda Shuttle, Honda Vezel, Honda XR-V
+C-5: Acura ILX, Acura RDX, Climo Civic, Honda Civic, Honda CR-V, Honda Crider, Honda Jade, Honda StepWGN
+
+
+==== Hyundai/Kia ====
+E-GMP: Hyundai Ioniq 5, Kia EV6, Genesis GV60 (seit 2021)
+J3: Hyundai Elantra/Hyundai Avante XD (2000–2006), Hyundai Matrix/Hyundai Lavita, Hyundai Coupé/Hyundai Tiburon (2001–2008), Hyundai Tucson (2004–2009), Kia Cerato/Kia Spectra (2004–2009), Kia Sportage (2004–2010)
+J4: Hyundai Elantra/Hyundai Avante HD (2006–2010), Hyundai i30 FD (2007–2011), Kia Forte/Kia Forte Koup (2009–2012), Kia cee’d (2006–2012), Hyundai Tucson, Hyundai ix35 (seit 2009), Kia Sportage SL (Seit 2010)
+J5: Hyundai Elantra/Hyundai Avante MD (seit 2010), Hyundai i30 GD (seit 2011), Hyundai i30 Coupe (seit 2012), Kia cee’d (seit 2012), Kia Forte (seit 2012)
+Y4: Sonata EF (1999–2005), Santa Fe SM (2000–2006), Kia Magentis MS, KIA Optima (2000–2005), Hyundai Trajet (1999–2008), Kia Carnival (1998–2006)
+Y5: Sonata NF (2004–2010), Hyundai Grandeur, Hyundai Azera TG (2005–2011), Santa Fe CM (2006–2012), Hyundai Veracruz/Hyundai ix55 (2008–2012), Kia Magentis MS, KIA Optima (2005–2010), Kia Carens/Kia Rondo (2006–2012) (mit Basis auch von J5-Plattform), Kia Sorento (seit 2009), Hyundai Santa Fe (seit 2012)
+Y6: Sonata YF/Hyundai i45 (seit 2010), Hyundai i40 (seit 2011), Kia Magentis/Kia Optima (seit 2011), Kia Carens/Kia Rondo (seit 2012)
+HD (seit 2006): Hyundai i30, Kia Carens, Kia cee’d, Kia Cerato, Kia Forte, Kia K3, Kia Rondo, Kia Soul
+KP2: Hyundai Accent, Hyundai Creta, Hyundai HB20, Hyundai Elite i20, Hyundai ix20, Hyundai ix25, Hyundai Solaris, Hyundai Veloster, Hyundai Verna, Kia K2, Kia KX3, Kia Pride, Kia Rio, Kia Soul, Kia Venga,
+KP3 (vormals AD):
+N: Hyundai Aslan, Hyundai Sonata, Hyundai Tucson, Kia Carnival, Kia Optima, Kia Sorento, Kia Sportage
+
+
+==== Jaguar Land Rover ====
+MLA – Modular Longitudinal Architecture: Jaguar XJ, Jaguar J-Pace
+
+
+==== Lotus ====
+SMALL CAR (ELISE): Lotus Elise S2, Lotus Europa S, Opel Speedster, Tesla Roadster, Melkus RS 2000
+
+
+==== Mazda ====
+Mazda-G-Plattform
+Mazda-C-Plattform
+Skyactiv: Mazda3 (2019), Mazda CX-30
+
+
+==== Porsche ====
+98x: Porsche Boxster, Porsche Cayman z. B. 987 ist der Porsche Boxster von 2004 bis 2012
+99x: Porsche 911 z. B. 997 ist der Porsche 911 im gleichen Zeitrahmen
+MSB: Porsche Panamera, Porsche Boxster, Porsche 911
+PAZx entspricht der Generation, wobei dieses nicht normal hochgezählt wird.
+
+
+==== PSA ====
+106/Saxo/T1: Peugeot 106, Peugeot 206, Citroën Saxo
+N: Citroën ZX, Peugeot 306, Citroën Xsara, Citroën Xsara Picasso
+D/X/Z: Peugeot 405, Peugeot 406, Peugeot 607, Citroën Xantia
+PF1: Peugeot 1007, Peugeot 207, Peugeot 208 I, Peugeot 2008 I, Peugeot 301 (2012), Citroën C2, Citroën C3, Citroën C3 Pluriel, Citroën C3-XR, Citroën DS3, Citroën C4 Cactus, Opel Crossland X
+PF2: Peugeot 307, Peugeot 308 I, Peugeot 3008, Peugeot 408 I, Peugeot Partner, Citroën C4, Dongfeng Fengshen L60
+PF3: Peugeot 407, Peugeot 508 I, Citroën C5, Citroën C6
+CMP (EMP1): DS 3 Crossback, Peugeot 208 II, Opel Corsa F, Peugeot 2008 II
+EMP2: Citroën C4 Picasso II, Citroën C6, Peugeot 308 II, Peugeot 508 II, Peugeot Quartz (Konzeptfahrzeug), Opel Grandland X, DS 4S, DS 7 Crossback, Dongfeng Fengshen A9, Peugeot Partner III, Peugeot Rifter, Citroën Berlingo III, Opel Combo E, Toyota ProAce City, Peugeot Traveller, Citroën Spacetourer, Opel Zafira Life, Toyota Proace Verso, Citroën Jumpy III, Peugeot Expert III, Opel Vivaro C
+
+
+==== PSA und Toyota ====
+B-0: Peugeot 107, Citroën C1, Toyota Aygo
+
+
+==== Toyota ====
+MC-C: Lexus CT, Toyota Auris, Toyota Corolla, Toyota EZ, Toyota Levin, Toyota Quest, Toyota Rumion, Toyota Verso
+MC-M: Toyota Alphard, Toyota Aurion, Toyota Avalon, Toyota Avensis, Toyota Camry, Toyota Estima, Toyota Harrier, Toyota Highlander, Toyota Mirai, Toyota Prius, Toyota RAV4, Toyota SAI, Toyota Sienna, Toyota Voxy, Toyota WISH, Lexus ES, Lexus HS, Lexus NX, Lexus RX, Daihatsu Mebius
+TNGA (Toyota New Global Architecture): Toyota Corolla (seit 2018), Toyota RAV4 (5. Gen ab 2018), Toyota Prius, Toyota Prius+, Toyota C-HR, Toyota Yaris (2020)
+
+
+==== Renault/Nissan ====
+B: Renault Captur, Renault Modus, Renault Clio III, Renault Twingo II, Renault ZOE, Nissan Micra, Nissan Note, Dacia Logan, Dacia Sandero, Nissan Juke, Nissan AD Van, Nissan Cube, Nissan Evalia, Nissan Lannia, Nissan Leaf, Nissan Livina Geniss, Nissan NV200, Nissan Pulsar, Nissan Sentra, Nissan Sylphy, Nissan Tiida, Nissan Versa, Nissan Vanette, Nissan Wingroad, Ashok Leyland Stile, Chevrolet City Express, Dongfeng Succe, Suzuki Baleno, Venucia D50, Venucia e30, Venucia R50, Venucia R50X
+C: Renault Megane III, Renault Koleos, Renault Kangoo II, Renault Scénic III, Renault Fluence, Nissan Qashqai, Nissan X-Trail II, Samsung QM5, Samsung SM3 III
+D: Nissan Maxima (A35), Nissan Murano II, Renault Laguna III, Samsung SM5 III, Renault Latitude
+CMF-A: Datsun redi-GO, Renault Kwid
+CMF-C/D: Nissan Qashqai, Nissan Rogue, Nissan X-Trail, Renault Espace, Renault Kadjar, Renault Mégane, Renault Talisman, Samsung SM6
+CMF-EV: Renault Morphoz, Studie
+
+
+==== Suzuki/Fiat ====
+Suzuki SX4: Suzuki SX4, Fiat Sedici
+
+
+==== Volkswagenkonzern (VW, VW Nutzfahrzeuge, Audi, Seat, Škoda, Bentley, Porsche) ====
+PQ21/A01 (1974): VW Polo I, VW Derby I, Audi 50
+PQ22/A02 (1981): VW Polo II, VW Derby II (Technisch nur geringe Änderungen zur 1. Generation)
+PQ23/A03 (1994): VW Polo III, VW Polo Classic, VW Lupo, Seat Ibiza (2. Gen), Seat Cordoba, Seat Inca, Seat Arosa, VW Caddy (Typ 9KV)
+PQ24/A04 (2002): VW Polo IV, VW Golf NF (3. Gen. mit einigen Komponenten von Plattform PQ25), VW Fox, Audi A2, Škoda Fabia I/II, Seat Ibiza (3. Gen), Seat Cordoba, Škoda Roomster
+PQ25/A05 (2008): Seat Ibiza (4. Gen), VW Polo V, Audi A1 8X, VW Ameo
+PQ25+/A05+ (2012): Škoda Rapid (2012), Seat Toledo IV
+PQ26/A06 (2014): VW Polo V 6C Facelift ab 2014, Škoda Fabia III
+PQ31/A1 (1974): VW Golf I, Golf I Cabriolet, VW Jetta I, VW Caddy (Typ 14D), VW Scirocco I, VW Scirocco II
+PQ32/A2 (1983): VW Golf II, VW Jetta II, Seat Toledo I
+PQ33/A3 (1991): VW Golf III, Golf III/IV Cabriolet, VW Vento/Jetta III
+PQ34/A4 (1997): VW Golf IV, VW Bora/Jetta IV, VW New Beetle, VW New Beetle Cabrio, VW Lavida, Škoda Octavia I, Seat Leon I, Seat Toledo II, Audi A3 8L, Audi TT 8N
+PQ35/A5 (2003): VW Golf V, VW Jetta V, VW Beetle, VW Beetle Cabrio, Škoda Octavia II, Škoda Yeti, Seat Leon II, Seat Toledo III, Audi A3 8P, VW Touran I, VW Caddy (Typ 2K), VW Scirocco III, VW Golf Plus, VW Tiguan, Seat Altea, Seat Altea XL, Audi TT 8J, Audi Q3, VW Sagitar
+PQ36/A6 (2008): VW Golf VI, Golf VI Cabriolet
+PQ35 LC (2010): VW Jetta VI
+PL45 (1996): VW Passat B5, Audi A4 B5, Audi A6 C5
+PL45+ (1996): Škoda Superb I (1. Gen.), VW China-Passat (3B) (Basis ist der Superb I) – (beide Modelle nur als Limousine erhältlich)
+PL46 (2000): Audi A4 B6/B7 (8E, 8H); (2009): Seat Exeo
+PQ46 (2005), modifizierte Golf-V-Plattform: VW Passat B6/B7, VW Eos, Škoda Superb II, VW Passat CC
+PL61: VW Phaeton, Bentley Continental GT, Bentley Continental Flying Spur
+PL63: Audi A8 D3 (Variante der PL61 mit Aluminiumteilen)
+PL71: VW Touareg I, Porsche Cayenne (Typ 9PA), Audi Q7 4L
+PL72: VW Touareg II, Porsche Cayenne (Typ 92A)
+PL73: Audi Q7 4M, Bentley Bentayga, Lamborghini Urus, VW Touareg III
+MQB-A0: Audi A1 II, Seat Ibiza 6F, VW Polo VI, Seat Arona, VW T-Cross
+MQB: Audi A3 8V, Audi TT FV, VW Golf VII, VW Passat B8, VW Lamando, VW Tiguan II, VW Tayron, VW Tharu, VW Touran II, VW Atlas, Seat Leon III, Seat Ateca, Škoda Superb III, Škoda Octavia III, Škoda Kodiaq
+MLB/MLP/PL48 (2007): Audi A4 B8, Audi A5, Audi Q5, Audi A6 C7, Audi A7, Audi A8 D4, Porsche Macan
+MLB Evo: Audi A4 B9, Audi A5 F5, Audi Q7 4M, Bentley Bentayga, Lamborghini Urus, Audi Q5 FY, Porsche Macan II, Audi A8 D5, Audi A9 Coupé, Audi Q8
+MEB: Audi Q4 e-tron, Audi Q5 e-tron, Cupra Born, Cupra Urban Rebel (Konzeptfahrzeug), Škoda Vision E und Škoda Vision iV (Konzeptfahrzeuge), Škoda Enyaq iV, VW ID.3, VW ID.4, VW ID.5, VW ID.6, VW ID. Buzz, VW Aero B (vormals VW ID. Vizzion und VW ID. Space Vizzion, Konzeptfahrzeug), VW ID.1, VW ID. Buggy (Konzeptfahrzeug ohne Seriennachfolger)
+NSF/New Small Family: VW up!, Škoda Citigo, Seat Mii
+MSB: Porsche Panamera
+J1: Porsche Taycan, Audi e-tron GTPPE: Porsche Macan (geplant ab 2022), soll aber für alle Porsche-Modelle passen, außerdem Audi
+Scalable Systems Platform (SSP): Rein elektrisch, volldigital und hoch skalierbare Platform für Modelle aller Marken und Segmente
+
+
+==== Volvo ====
+P80 (1991): Volvo 850, Volvo S70, Volvo V70 I, Volvo C70 I
+P2 (1998): Volvo S80 I, Volvo S60 I, Volvo V70 II, Volvo XC90 I
+SPA (Scalable Product Architecture, 2014): Volvo XC90 II, Volvo S90 II, Volvo V90 II
+CMA (Compact Modular Architecture): unter anderem für Lynk & Co und Geely, Volvo XC40
+
+
+=== Vans ===
+
+
+==== GM / Suzuki ====
+Opel Agila A, Suzuki Wagon R
+Opel Agila B, Suzuki Splash
+
+
+==== Volkswagen und Ford ====
+B-VX62: VW Sharan I, Seat Alhambra I, Ford Galaxy
+
+
+=== Kastenwagen und Nutzfahrzeuge ===
+
+
+==== DaimlerChrysler/Volkswagen ====
+VW LT (2. Gen.)/Crafter, Mercedes-Benz Sprinter, Dodge Sprinter, Freightliner Sprinter (2006)
+
+
+==== Fiat und PSA ====
+U/V: Peugeot Expert I & II, Citroën Jumpy I &II, Fiat Scudo I & II, Toyota Proace I
+SEVEL ZFA230: Citroën Jumper (1. Gen.), Peugeot Boxer (1. Gen.), Fiat Ducato (2. Gen.)
+SEVEL X2-ZFA250: Citroën Jumper (2. Gen.), Peugeot Boxer (2. Gen.), Fiat Ducato (3. Gen.)
+MCV Fiorino : ZFA225 : Fiat Fiorino III/Fiat Qubo, Citroën Nemo, Peugeot Bipper
+
+
+==== SAIC-GM-Wuling Automobile ====
+S-FR: Chevrolet Enjoy, Chevrolet Rongguang, Haima Fushida, Space Mini Bus, Wuling Hongguang, Wuling Rongguang, Wuling Sunshine, Wuling Zhengcheng
+
+
+==== PSA ====
+M49: Wuling
+
+
+==== PSA und Toyota ====
+EMP2 (Vans): Peugeot Expert III, Citroën Jumpy III, Toyota Proace II, Opel Vivaro C, Peugeot Partner III
+EMP2 (Hochdachkombis): Citroen Berlingo III, Peugeot Rifter, Opel Combo E, Toyota Proace City
+
+
+==== Renault/Nissan ====
+Renault Kangoo I, Nissan Kubistar
+Renault Master I
+
+
+==== Renault/Nissan und GM ====
+Renault Trafic I, Opel Arena
+X70: Renault Master II, Nissan Interstar, Opel Movano A
+X83: Renault Trafic II, Nissan Primastar, Opel Vivaro A
+Nissan NV200, Chevrolet City Express
+X62: Renault Master III, Nissan NV400, Opel Movano B
+X82: Renault Trafic III, Opel Vivaro B, Nissan NV300, Fiat Talento
+
+
+==== Renault/Nissan und Mercedes-Benz ====
+X61: Renault Kangoo II, Mercedes-Benz Citan, Dacia Dokker
+
+
+== Einzelnachweise ==

@@ -1,0 +1,38 @@
+Das Dermatofibrosarcoma protuberans ist ein seltener Tumor an der Haut, der lokal aggressiv, infiltrativ wächst, aber selten metastasiert (angegeben werden 5 % bis weniger als 0,5 % der Fälle). Nach chirurgischer Therapie neigt der Tumor zu lokalen Rezidiven.
+
+
+== Vorkommen ==
+Der Tumor ist mit einem Neuauftreten von weniger als 1 pro 100.000 Einwohner und Jahr selten. Er betrifft meist Patienten um das 40. Lebensjahr, wobei Männer und Frauen gleich häufig betroffen sind. Im Kindesalter ist der Tumor extrem selten.
+
+
+== Erscheinungsbild ==
+Der Tumor tritt meist am Körperstamm und an den körpernahen Anteilen der Extremitäten auf. Er breitet sich unregelmäßig in der Haut und im Unterhautfettgewebe aus und hat eine derbe Konsistenz. Meist erscheint er hautfarben. Gelbe, braune oder rötliche Verfärbungen sind möglich.
+
+
+== Diagnostik ==
+Eine sichere Diagnose ist in der Regel nur durch die histologische Untersuchung möglich. Der Tumor muss gegen verschiedene Formen des gutartigen Dermatofibroms und das Dermatomyofibrom einerseits und gegen das prognostisch viel schlechtere pleomorphe Sarkom (Maligne Fibröse Histiozytom) sowie weitere Hauttumore wie auch verschiedene Formen des malignen Melanoms abgegrenzt werden.
+Histologisch findet sich eine diffuse Ausbreitung entlang der Septen des Unterhautfettgewebes mit zum Teil mehrere Zentimeter langen Ausläufern. Die Zellen sind dicht gelagert, relativ uniform spindelig und häufiger CD34-positiv.
+
+		
+		
+		
+
+Die präoperative Untersuchung des Tumors in der Sonographie, Computertomographie oder Magnetresonanztomographie kann vor allem bei tieferer Infiltration hilfreich sein, die sichere Darstellung der äußeren Tumorausläufer ist jedoch nicht gewährleistet.
+
+
+== Therapie ==
+Die Therapie besteht in der chirurgischen Entfernung. Wegen der Möglichkeit der nur mikroskopisch erkennbaren Ausläufer des Tumors wird die topographische Markierung und die lückenlose histologische Aufarbeitung des Exzisats empfohlen. Wenn dann noch Tumorausläufer über den Schnittrand hinausreichen, kann an der entsprechenden topographischen Stelle nochmal nachreseziert werden. Bei diesem Verfahren wird ein Sicherheitsabstand von 1 cm als ausreichend angesehen. Ohne diese als Mikrographische Chirurgie bezeichnete Vorgehensweise sind Rezidive auch bei deutlich größeren Sicherheitsabständen (5 cm und mehr) häufiger.
+Wenn sich der Tumor z. B. aufgrund zu weit gehender Infiltration nicht chirurgisch entfernen lässt oder bei mehrfachen Rezidiven kann eine Strahlentherapie indiziert sein.
+Eine neuere, vielversprechende Behandlungsmöglichkeit bietet der Wirkstoff Imatinib, der als Tablette eingenommen wird. Imatinib ist für die Behandlung nicht-operabler primärer, lokal rezidivierender, oder metastasierter Dermatofibrosarcomata protuberans zugelassen. Wenn möglich sollte die Behandlung mit Imatinib im Rahmen von klinischen Studien stattfinden.
+
+
+== Weblinks ==
+S1-Leitlinie Dermatofibrosarcoma protuberans der Deutschen Dermatologischen Gesellschaft (DDG) und der Deutschen Krebsgesellschaft. In: AWMF online (Stand 2012)
+Internetportal der Deutschen Krebsgesellschaft (DKG)
+
+
+== Literatur ==
+T. Mentzel, A. Beham, D. Katenkamp, A. P. Dei Tos, C. D. Fletcher: Fibrosarcomatous ("high-grade") dermatofibrosarcoma protuberans: clinicopathologic and immunohistochemical study of a series of 41 cases with emphasis on prognostic significance. In: Am J Surg Pathol. 1998, 22, S. 576–587 PMID 9591728
+G. A. McArthur, G. D. Demetri, A. van Oosterom, u. a.: Molecular and clinical analysis of locally advanced dermatofibrosarcoma protuberans treated with imatinib: Imatinib Target Exploration Consortium Study B2225. In: J Clin Oncol. 2005, 23, S. 866–873 PMID 15681532
+H. M. Häfner, M. Moehrle, S. Eder, B. Trilling, M. Rocken, H. Breuninger: 3D-Histological evaluation of surgery in dermatofibrosarcoma protuberans and malignant fibrous histiocytoma: Differences in growth patterns and outcome. In: Eur J Surg Oncol. 2007. (epub) PMID 17716851.
+A. Paradis u. a.: Dermatofibrosarcoma protuberans: wide local excision vs. Mohs micrographic surgery. In: Cancer Treat Rev. 2008 Dec;34(8), S. 728–736. Epub 2008 Aug 5. PMID 18684568

@@ -1,0 +1,26 @@
+Ein Linksschenkelblock (LSB) ist eine Störung des Erregungsleitungssystems des Herzens. Kennzeichnend für die Störung ist eine Leitungsverzögerung im linken Tawara-Schenkel. Die Diagnose wird mittels EKG gestellt.
+
+
+== Definition ==
+
+Ein Linksschenkelblock ist definiert als eine Verlängerung des Intervalls vom Beginn des QRS-Komplexes bis zum Punkt der endgültigen Negativitätsbewegung (GNB, größte Negativitätsbewegung, auch als Oberer Umschlagspunkt (OUP) bezeichnet) in den linken Brustwandableitungen V5 oder V6 auf mindestens 0,06 Sekunden. Die QRS-Breite definiert dann weiter den Unterschied zwischen einem inkompletten Linksschenkelblock mit einem QRS-Komplex von bis zu 0,12 Sekunden und einem kompletten Linksschenkelblock mit einer QRS-Dauer von über 0,12 Sekunden. Ein weiteres diagnostisches Kriterium beim kompletten Linksschenkelblock sind gekerbte oder undeutliche R-Zacken in I, avL, V5, V6.
+
+
+== Pathophysiologie ==
+Hämodynamisch führt der Linksschenkelblock zu einem Pendelphänomen des linken Ventrikels bei der Kontraktion. Ein kompletter Linksschenkelblock stellt einen pathologischen (krankheitsbedingten) Befund dar. Als Ursache finden sich häufig eine koronare Herzkrankheit, eine arterielle Hypertonie oder eine Kardiomyopathie.
+
+
+== Interpretation ==
+Der Linksschenkelblock ist im Gegensatz zum Rechtsschenkelblock als schwerwiegender zu betrachten, da die linke Herzkammer den Hauptanteil an der Pumparbeit des Herzens leistet.
+Das EKG ist bei Vorliegen eines Linksschenkelblockes für die Herzinfarktdiagnostik nicht mehr sicher verwertbar, da konsekutiv eine Repolarisationsstörung auftritt. Die ST-Strecke ist dabei stark modifiziert, womit eine Interpretation hinsichtlich des Hinweises auf eine Ischämie nicht einfach ist. Mit den Sgarbossa-Kriterien kann die Wahrscheinlichkeit einer akuten myokardialen Ischämie abgeschätzt werden. Bei normaler EKG-Voruntersuchung kann ein frisch aufgetretener LSB hinweisend auf eine akute koronare Herzkrankheit (Myokardischämie), also z. B. einen akuten Herzinfarkt, sein. Zusammen mit entsprechender klinischer Symptomatik (Brustschmerz, Atemnot) oder mit einer Erhöhung der herzspezifischen Labormarker (Troponin, Kreatinkinase) besteht die Indikation zur zeitnahen invasiven Diagnostik im Rahmen einer Herzkatheteruntersuchung.
+
+
+== Formen ==
+Folgende Formen werden unterschieden:
+
+Linksschenkelblock
+Linksanteriorer Hemiblock
+Linksposteriorer Hemiblock
+
+
+== Einzelnachweise ==

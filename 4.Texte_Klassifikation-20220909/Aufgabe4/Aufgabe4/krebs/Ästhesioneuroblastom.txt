@@ -1,0 +1,38 @@
+Das Ästhesioneuroblastom oder Olfactorius-Neuroblastom (engl. esthesioneuroblastoma, olfactory neuroblastoma) ist eine seltene Krebserkrankung der Nasenhöhle. Die Inzidenz wird auf einen Fall pro 1 Mio. Einwohner pro Jahr geschätzt. Alters- oder Geschlechtshäufungen sind nicht bekannt.
+Der Tumor wurde 1924 von Berger und Luc beschrieben. Er geht vom Neuroepithel der Riechschleimhaut aus, die vorwiegend auf der Lamina cribrosa gelegen ist, teilweise auch in den oberen Nasenmuscheln und auf dem Nasenseptum.
+Nach neueren molekularbiologischen Forschungsergebnissen bildet sich das Malignom wahrscheinlich aus einer entarteten olfaktorischen Stammzelle. Von anderen Malignomen dieser Region wie Karzinomen, Sarkomen und Lymphomen unterscheidet sich das Ästhesioneuroblastom schon in der lichtmikroskopischen Betrachtung; der Nachweis gelingt mit immunhistochemisch darstellbaren Zellstrukturen (S-100, NSE positiv; Zytokeratin, Vimentin negativ).
+
+
+== Krankheitserscheinung und Diagnose ==
+Symptome der Erkrankung sind Verstopfung der Nasenwege, Ausfluss, Nasenbluten, Schmerzen und Verlust des Geruchssinns. Häufige Fehldiagnose ist die gutartige Polyposis nasi. Aufgrund der sehr unspezifischen Symptomatik und seiner Seltenheit wird der Tumor als mögliche Ursache meist erst spät erwogen. Es wird empfohlen, eine hals-nasen-ohrenärztliche Untersuchung einschließlich Biopsie vornehmen zu lassen, wenn die Symptome länger als zwei Monate anhalten. Die Ausdehnung des Tumors kann mittels einer Computertomographie oder einer Kernspintomographie beurteilt werden.
+
+
+== Einteilung ==
+Der Entartungsgrad der Tumorzellen wird nach Hyams in die Grade G1–4 (G4: völlig entdifferenziert) eingestuft.
+Die standardisierte Klassifikation der Tumorausbreitung (Staging) wird in Anlehnung an das TNM-System folgendermaßen eingeteilt:
+
+T1 – Tumor beschränkt auf Nasenhöhle und Nasennebenhöhlen
+T2 – Erosion der Lamina cribriformis [cribrosa]
+T3 – Durchbruch in die vordere Schädelgrube oder in eine Augenhöhle
+T4 – Einbruch in das Gehirn
+N0 – Keine Lymphknotenmetastasen
+N1 – Lymphknotenmetastasen (nur in 5 Prozent bei der Erstdiagnose)
+M0 – Keine Fernmetastasen
+M1 – Fernmetastasen (Lunge, Leber, Gehirn etc.)Nach Kadish wird die Erkrankung in folgende Stadien eingeteilt:
+
+Stadium A: Tumor breitet sich innerhalb der Nasenhöhle aus.
+Stadium B: Der Tumor breitet sich innerhalb der Nasenhöhle und in eine oder mehrere Nasennebenhöhlen aus.
+Stadium C: Ausbreitung jenseits der Nasennebenhöhlen unter Einschluss der Orbita, der Schädelbasis oder intrazerebrales Wachstum, Beteiligung von Hals-Lymphknoten oder Vorhandensein von Fernmetastasen.
+
+
+== Therapie und Prognose ==
+Die Behandlung stützt sich in aller Regel auf die möglichst vollständige operative Entfernung des Tumors, gefolgt von einer Bestrahlung. Auch das umgekehrte Vorgehen ist möglich. Es gibt verschiedene chemotherapeutische Vorbehandlungen meist mit platinbasierten Schemata ähnlich denen für lokal fortgeschrittene Karzinome. Standardisierte Leitlinien sind für diesen sehr seltenen Tumor nicht verfügbar. Die Heilungsrate soll den wenigen verfügbaren Studien zufolge zwischen 45 und 80 Prozent liegen. Metastasen sind nicht häufig, gefürchtet ist aber das Lokalrezidiv am ursprünglichen Tumorsitz.
+Bei Erstoperierten werden ca. 50 % geheilt. Die mittelfristige Überlebensrate (2–5 Jahre) beträgt 73 %–88 % nach der modernsten Kombinationsbehandlung Operation/Bestrahlung; deutlich besser als für ältere Kombinationen oder für eines der Verfahren allein.
+
+
+== Quellen ==
+Anonymus: Ästhesioneuroblastom: ein seltener Tumor, den man multimodal angehen sollte. ImFocus Onkologie 7-8/2003 (PDF-Datei; 44 kB)
+Leitlinie Radiotherapie von primären Tumoren des Zentralnervensystems und ZNS-Metastasen im Erwachsenenalter (1999, nicht aktualisiert) der AWMF
+
+
+== Einzelnachweise ==

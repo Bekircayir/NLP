@@ -1,0 +1,89 @@
+In der Medizin ist eine Synkope (von altgriechisch συνκοπή synkopḗ, deutsch ‚Zusammenstoßen‘, ‚Ausstoßen‘; spätlateinisch syncope), im Deutschen auch Ohnmacht genannt, eine plötzlich einsetzende, kurz andauernde Bewusstlosigkeit, die mit einem Verlust der Haltungskontrolle einhergeht und ohne besondere Behandlung spontan wieder aufhört.
+
+
+== Begriff ==
+Die Synkope, auch als (allgemeiner) Kollaps bezeichnet, ist durch eine vorübergehende Minderdurchblutung des Gehirns charakterisiert und wird nach ihrer Ursache in neural vermittelte (vasovagale), kreislaufbedingte (orthostatische), vom Herzen ausgehende (kardiogene) oder durch Hirndurchblutungsstörungen bedingte (cerebro-vaskuläre) Synkopen eingeteilt. Die kreislaufbedingte bzw. orthostatische Synkope ist eine vorübergehende Kreislaufschwäche bzw. ein kurzanhaltender Schockzustand und wird als (orthostatischer) Kollaps oder Kreislaufkollaps bezeichnet.
+Die Synkope kann verwechselt werden mit Bewusstseinsstörungen neurologischer (Krampfanfall) oder psychogener Ursache sowie Stoffwechselentgleisungen (z. B. Unterzuckerung). Die verschiedenen Ursachen machen meist eine breite Diagnostik nötig. Die Therapie richtet sich nach der Ursache.
+Umgangssprachlich wird eine Synkope auch als Ohnmacht (von mittelhochdeutsch āmacht ‚Schwäche, Mangel an Kraft, Bewusstlosigkeit‘; im Mittelalter auch als sincope bezeichnet) oder Blackout bezeichnet, wobei Letzteres vor allem in Großbritannien üblich ist, während in Deutschland der Begriff Blackout im medizinisch-psychologischen Bereich eher für einen vorübergehenden Gedächtnisverlust z. B. im Rahmen einer Prüfung üblich ist.
+
+
+== Physiologie ==
+Die dauerhafte ausreichende Versorgung des Gehirns mit Blut in jeder Körperhaltung, auch bei plötzlichem Lagewechsel, wird durch mehrere Mechanismen gewährleistet. Zum einen passen sich die Gefäße, vor allem der Beine, dadurch an, dass sich ihre Muskulatur zusammenzieht und sich so ihr Fassungsvermögen vermindert. Hierdurch verhindert der Körper, dass das Blut in die Beine versackt, die sogenannte Vorlast des Herzens erhöht sich, wodurch es die Möglichkeit hat, den Blutdruck konstant zu halten bzw. leicht anzuheben und den veränderten Bedingungen anzupassen. Ein weiterer Regulationsmechanismus ist der Anstieg der Herzfrequenz, um über diese vermehrte Arbeit die Durchblutung aufrechtzuerhalten.
+Einen wichtigen Steuerungspunkt stellt hier ein kleiner Bereich in der Halsschlagader, der Carotis-Sinus, dar. Hier wird kontinuierlich der Blutdruck als Maß für die Hirndurchblutung gemessen. Über das vegetative Nervensystem regelt der Körper dann über den Gefäßwiderstand und die Herzfrequenz den Blutdruck.
+
+
+== Ursachen und Einteilung ==
+
+
+=== Zirkulatorische Ursachen ===
+
+
+==== Orthostatische Synkope ====
+Im Rahmen des Wechsels von einer liegenden, sitzenden oder knienden in eine aufrechte Position (Orthostase) verlagert sich das Blut in die tieferen Körperpartien. Bei mangelhafter Gegenregulation des vegetativen Nervensystems versackt bis zu einem Viertel des Blutes in den Venen der unteren Körperhälfte (venöses Pooling). Mitverantwortlich für eine nicht ausreichende Gegenregulation kann z. B. ein Flüssigkeitsmangel oder zu hoch dosierte Blutdruck-Medikamente sein. Häufig bestehen Krampfadern (Varikosis). Bei Diabetikern kann es im Rahmen der diabetischen Neuropathie zu einer Beeinflussung der autonomen Nerven und neben anderen Beschwerden auch zu einer Fehlregulation der Gefäße bei Orthostase-Belastung kommen.
+
+
+==== Neural vermittelte Synkope ====
+Bei der neurokardiogenen oder auch vasovagalen Synkope (von lateinisch vas  ‚Gefäß‘ und Nervus vagus) werden, durch einen Reflex vermittelt, die Blutgefäße erweitert (Vasodilatation) sowie die Herzfrequenz verringert (Bradykardie). Dabei ist der jeweilige Anteil dieser beiden Faktoren am daraus resultierenden Absinken des Blutdrucks und der verminderten Durchblutung des Gehirns von Patient zu Patient sehr unterschiedlich. Als auslösende Faktoren kommen emotionaler oder kreislaufbedingter (orthostatischer) Stress (langes, unbewegtes Stehen) in Frage, im Weiteren aber auch Schreck, Schmerz, Lärm, Kälte, banale Blutung.
+Eine Untergruppe sind pressorische Synkopen bei Urin- oder Stuhlentleerung (siehe Miktionssynkope), Husten oder Valsalva-Versuch (insbesondere nach Hyperventilation).
+Eine Sonderform ist ein übermäßig sensibler Carotis-Sinus im Rahmen eines Karotissinus-Syndroms. Hier kann ein mechanischer Druck oder auch nur eine Kopfwendung zum Absinken der Herzfrequenz und/oder des Blutdrucks führen. Wird im Rahmen eines Karotis-Druck-Versuchs eine anhaltende Pause von mindestens drei Sekunden im Elektrokardiogramm (EKG) nachgewiesen, kann ein AAI-Herzschrittmacher implantiert werden.
+
+
+==== Weitere zirkulatorische Ursachen ====
+Medikamentös kann eine Synkope durch herzfrequenz- und blutdrucksenkende Medikamente ausgelöst werden.
+Bei Schwangeren kann im Rahmen eines Vena-cava-Kompressionssyndroms im Liegen der Rückfluss von Blut zum Herzen vermindert sein. Durch mangelnde Füllung des Herzens kann dies mit Bewusstlosigkeit einhergehen.
+Bei älteren Menschen kann ein venöses Pooling in den Darmgefäßen nach einem reichhaltigen Mahl zur postprandialen Synkope führen.
+
+
+=== Kardiale Synkope ===
+
+Bei den vom Herzen herrührenden Synkopen kann nochmals unterteilt werden. Hierunter fallen solche Anfälle, die durch einen gestörten Rhythmus des Herzschlages (Arrhythmie) verursacht werden. Dabei kann sowohl eine zu niedrige wie auch eine zu hohe Pumpfrequenz zu einer Verringerung des Auswurfvolumens des Herzens führen.
+Der zweiten Untergruppe liegt die Unfähigkeit des Herzens zugrunde, ausreichend Blut auszuwerfen (etwa beim durch niedriges HZV, Oligurie, periphere Gefäßkonstriktion und Unruhe oder Verwirrtheit gekennzeichneten Low-Output-Syndrom). Bei einer Einengung oder Verlegung der Lungenstrombahn (Lungenembolie, Pulmonalstenose) kann die rechte Herzkammer kein Blut in die Lunge pumpen und bei Einengung der linksventrikulären Ausflussbahn (Hypertrophe Kardiomyopathie, Aortenstenose) kann das linke Herz kein Blut in den Körper auswerfen. Beide Herzhälften können im Rahmen eines Herzinfarktes, dem eine Angina pectoris (früher als Syncope anginosa bezeichnet) vorausgehen kann, im Sinne eines Pumpversagens betroffen sein. Dies liegt auch vor, wenn das Herz sich im Herzbeutel wegen eines Ergusses (Perikardtamponade) nicht ausdehnen kann.
+
+
+=== Zerebrovaskuläre Synkope ===
+In seltenen Fällen kann eine Minderdurchblutung des Gehirns auch durch ein sogenanntes Anzapfphänomen verursacht werden. Dabei kommt es insbesondere bei vermehrter Muskelarbeit zu einer Umverteilung von Blut aus dem Gehirn in einen Arm, wenn eine Verengung (Stenose) der Armarterie (Arteria subclavia) noch vor dem Abgang der Arteria vertebralis vorliegt (Subclavian-Steal-Syndrom).
+
+
+=== Elektrischer Strom ===
+Auch ein Stromunfall kann auslösend sein.
+
+
+== Epidemiologie ==
+Mit bis zu einem Fünftel betroffener Kinder und Jugendlichen bis zum vollendeten 18. Lebensjahr stellt eine Synkope schon im Kindesalter ein sehr häufiges Symptom dar. Jährlich erleiden immerhin 6 % aller älteren Menschen eine Synkope. Hierunter sind die neural vermittelten Synkopen mit etwa zwei Dritteln mit Abstand am häufigsten vertreten, gefolgt von den kreislaufbedingten (10 %) und den durch Herzrhythmusstörungen (11 %) verursachte Ohnmachtsanfälle. Strukturelle Herzmuskelveränderungen sind demgegenüber mit etwa 5 % ungefähr ebenso selten wie nicht-synkopale anfallsartige Bewusstseinsstörungen (6 %).
+In einer schwedischen Registerstudie wurde die Häufigkeit von Synkopen bei 2.694.442 gebürtigen Schweden von 1964 bis 2015 untersucht. Bei Frauen sind Synkopen häufiger (63 %) als bei Männern (37 %). Das mediane Alter betrug 23 Jahre. Bei Verwandten von Schweden mit Synkopen traten häufiger Synkopen auf. Das relative Risiko (RR) war bei:
+
+Cousins RR 1,13
+Halbgeschwistern RR 1,30
+Geschwistern RR 1,8
+Zwillingsgeschwister RR 2,4
+männlichen Zwillingen RR 5,0Die Statistik spricht für eine genetische Veranlagung. Über die beteiligten Gene ist noch nichts bekannt.
+
+
+== Diagnose ==
+Der Erhebung der Krankengeschichte (Anamnese) kommt in der Abklärung von Synkopen eine besondere Bedeutung zu. Der Untersucher muss die Begleitumstände der Ohnmacht (längeres Stehen, Lagewechsel), eventuelle Auslöser und mögliche Vorläufersymptome (Prodromi) wie Schwindel, Augenflimmern, Schweißausbruch oder Übelkeit erfragen. Weitere wichtige Informationen, wie die Dauer der Bewusstlosigkeit, mögliche Zuckungen des Patienten währenddessen oder gegebenenfalls eine längerdauernde Verwirrtheit nach Wiedererlangen des Bewusstseins kann er nur von Zeugen des Geschehens erhalten (Fremdanamnese). Ein vermehrter Harndrang nach dem Ereignis deutet auf ein rhythmogenes Ereignis hin (Ausschüttung von Atrialem natriuretischem Peptid (ANP) durch Vorhofdehnung).
+Neben der körperlichen Untersuchung gehören zur grundlegenden technischen Diagnostik eine Blutdruckmessung im Liegen und Stehen, eine Langzeit-Blutdruckmessung sowie eine Kipptischuntersuchung wenn möglich, alternativ ein Schellong-Test. Zur Abklärung von Rhythmusstörungen gehören ein Ruhe- und Langzeit-EKG sowie evtl. auch ein Belastungs-EKG. Im Weiteren sollte ein Herzultraschall durchgeführt werden. Laboruntersuchungen dienen vor allem dem Nachweis von Stoffwechselentgleisungen oder auch einer Blutarmut (Anämie).Bei Verdacht auf ein Karotis-Sinus-Syndrom sollte eine Doppler-Ultraschalluntersuchung der Halsschlagader durchgeführt werden. Eine Herzkatheteruntersuchung ist nur bei Verdacht auf eine strukturelle Herzerkrankung in den vorangegangenen Untersuchungen notwendig. Mögliche nicht-synkopale Bewusstseinsstörungen können gegebenenfalls durch die Ableitung eines Elektroenzephalogramms, und Schichtbilduntersuchungen des Gehirns mit Computertomografie oder Magnetresonanztomografie gefunden werden.
+
+
+== Differenzialdiagnose ==
+Von den eigentlichen Synkopen sind anfallsartige vorübergehende Bewusstseinsstörungen, die nicht durch eine zeitweise Minderdurchblutung des Gehirns hervorgerufen werden, abzugrenzen. Dazu gehören unter den neurologischen Ursachen epileptische Anfälle, Hirnblutungen oder akute Gefäßverschlüsse im Zentralnervensystem (Schlaganfall). Bei den psychischen Ursachen zählen hierzu Hyperventilation zum Beispiel im Rahmen von Panikattacken oder Konversionssymptome. Stoffwechselentgleisungen sind beispielsweise Unterzuckerungen oder Entgleisungen der Salzkonzentrationen im Blut sowie Vergiftungen. Auch einfache Stürze oder eine Kataplexie, die gar nicht mit einem Bewusstseinsverlust einhergehen, können als Synkopen fehlgedeutet werden.
+
+
+== Therapie und Prophylaxe ==
+
+In der Akutsituation sollte der Patient mit dem Oberkörper tief gelagert und die Beine angehoben werden. Hierdurch wird der Blutrückfluss zum Herz erleichtert und der Patient sollte zügig wieder aufklaren.
+Als Prophylaxe für die häufigen vasovagalen Synkopen werden in erster Linie Allgemeinmaßnahmen wie Wechselduschen, regelmäßiger Ausdauersport und eine ausreichende Flüssigkeitszufuhr empfohlen. Ebenfalls belegt ist die Wirksamkeit eines Stehtrainings, möglichst standardisiert als sogenanntes Kipptisch-Training. Hierbei ist allerdings auf längere Sicht die Mitarbeit der Patienten oft nicht ausreichend.
+Falls der Patient Warnsymptome einer drohenden Synkope bemerkt, können auch verschiedene isometrische Übungen wie Ineinandergreifen der Hände und Auseinanderziehen der Arme oder Überkreuzen der Beine und Anspannen der Muskulatur eine Bewusstlosigkeit verhindern oder zumindest hinauszögern. Notfalls soll der Patient sich an Ort und Stelle auf den Boden setzen. Das Tragen von Kompressionsstrümpfen ist sinnvoll, insbesondere bei gleichzeitig vorhandenen Krampfadern. Demgegenüber haben Medikamente ihre Wirksamkeit in Placebo-kontrollierten Studien nicht nachweisen können. Dies gilt sowohl für Betablocker wie auch für die häufig eingesetzten gefäßverengenden α-Agonisten.
+Bei eher durch orthostatische Belastung verursachten Synkopen sollten zunächst andere Medikamente, die eine Verringerung des Blutdrucks bewirken, möglichst abgesetzt werden. Bei diesen Patienten kann neben einer Erhöhung des Füllungsvolumens der Blutgefäße durch eine erhöhte Salz- und Flüssigkeitszufuhr auch eine medikamentöse Behandlung mit dem Mineralokortikoid Fludrocortison erwogen werden. Zusätzlich reduzieren Kompressionsstrümpfe den Blutdruckabfall in der aufrechten Position.
+Liegt schließlich als Ursache eine Störung der Herzfunktion vor, muss diese behandelt werden. Je nach zugrundeliegender Rhythmusstörung kommen hierzu künstliche Herzschrittmacher, ein implantierbarer Kardioverter-Defibrillator (ICD) oder eine Katheterablation in Frage. Auch ist die Operation einer Aortenklappenstenose bei stattgehabter Synkope dringend angezeigt, ebenso wie die Katheterablation einer hypertrophischen obstruktiven Kardiomyopathie (HOCM).
+
+
+== Literatur ==
+Angel Moya et al.: Guidelines for the diagnosis and management of syncope (version 2009): The Task Force for the Diagnosis and Management of Syncope of the European Society of Cardiology (ESC). In: European Heart Journal. Band 30, Nr. 21, 27. August 2009, S. 2631–2671, doi:10.1093/eurheartj/ehp298 (englisch, Syncope (Guidelines on Diagnosis and Management of). ESC Clinical Practice Guidelines). 
+S1-Leitlinie Synkopen der Deutschen Gesellschaft für Neurologie (DGN). In: AWMF online (Stand 2012)
+Herbert Reindell, Helmut Klepzig: Krankheiten des Herzens und der Gefäße. In: Ludwig Heilmeyer (Hrsg.): Lehrbuch der Inneren Medizin. Springer-Verlag, Berlin/Göttingen/Heidelberg 1955; 2. Auflage ebenda 1961, S. 450–598, hier: S. 480–484: Das akute periphere Kreislaufversagen (Ohnmacht, Schock, Kollaps).
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==

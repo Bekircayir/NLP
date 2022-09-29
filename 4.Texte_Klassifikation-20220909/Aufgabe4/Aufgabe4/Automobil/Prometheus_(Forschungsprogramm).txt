@@ -1,0 +1,90 @@
+Das EUREKA-PROMETHEUS-Projekt (PROgraMme for a European Traffic of Highest Efficiency and Unprecedented Safety, deutsch „Programm für europäischen Verkehr höchster Effizienz und beispielloser Sicherheit“) lief von 1986 bis 1994 und kam auf Initiative von Ferdinand Panik (damals bei Daimler-Benz) und seinen Kollegen aus den Konzernforschungen der meisten anderen europäischen Fahrzeughersteller zustande. An diesem bislang größten europäischen Projekt zur Verbesserung der Effizienz, Umweltverträglichkeit und Sicherheit des Straßenverkehrs mit einem Förderumfang von über 700 Mio. ECU beteiligten sich neben den Fahrzeugherstellern fast alle bedeutenden europäischen Zuliefererfirmen und weitere Elektronikfirmen, die bisher noch nicht im Automobilbereich tätig waren, sowie eine Vielzahl wissenschaftlicher Institute.
+
+
+== Inhalt ==
+Der fünfzehnmonatigen Definitionsphase (Oktober 1986 bis Dezember 1987) folgte die eigentliche Bearbeitung (Januar 1988 bis Dezember 1994). Die Projektstruktur sah sieben Teilprojekte vor.
+Für die von wissenschaftlichen Instituten getragene Grundlagenforschung gab es vier Teilprojekte:
+
+PRO-ART
+PRO-CHIP
+PRO-COM
+PRO-GEN.Aus den drei Industrieforschungsteilprojekten
+
+PRO-CAR
+PRO-NET
+PRO-ROADleiteten sich Common European Demonstrator (CED) ab, bei denen jeweils thematisch verwandte Funktionen von zumeist mehreren Fahrzeugherstellern in deren Versuchsfahrzeugen präsentiert wurden. Diese wurden in Board Member Meetings (01/89 München, 09/91 Turin, 10/94 Paris) einer größeren Öffentlichkeit vorgestellt. Im Einzelnen handelte es sich um
+
+CED 1: Sichtverbesserung (Vision Enhancement),
+CED 2: Sichere Fahrzeugführung (Proper Vehicle Operation), wiederum aufgeteilt
+* CED 2.1: Überwachung der Fahrstabilität (Friction Monitoring and Vehicle Dynamics)
+* CED 2.2: Unterstützung bei der Spurhaltung (Lane Keeping Support)
+* CED 2.3: Sichtweitenüberwachung (Visibility Range Monitoring)
+* CED 2.4: Überwachung des Fahrerzustands (Driver Status Monitoring)
+CED 3: Kollisionsvermeidung (Collision Avoidance)
+CED 4: Kooperatives Fahren (Co-operative Driving)
+CED 5: Autonome, intelligente Geschwindigkeits- und Abstandsregelung (Autonomous Intelligent Cruise Control)
+CED 6: Automatischer Notruf (Automatic Emergency Call)
+CED 7: Flottenmanagement (Fleet Management)
+CED 9: Duale Zielführung (Dual Mode Route Guidance)
+CED 10: Verkehrsinformationssysteme (Travel and Traffic Information Systems).Der ursprünglich geplante Demonstrator CED 8 (Testfelder) erwies sich als nicht kompatibel mit der Förderstruktur und dem Zeitplan und wurde deshalb fallengelassen.
+Insgesamt verbargen sich 27 Einzelfunktionen hinter diesen Demonstratoren, von denen 13 sich später in Serienprodukten, vor allem in Fahrerassistenzsystemen, wiederfanden. Weitere 6 Funktionen wurden später auf Basis des maschinellen Sehens umgesetzt. Noch heute können die meisten Fahrerassistenzsysteme auf PROMETHEUS-Vorarbeiten referenziert werden, weshalb PROMETHEUS als Vorzeigeprojekt für eine besonders erfolgreiche vorwettbewerbliche Zusammenarbeit in einem europäischen Rahmen gilt.Dass PROMETHEUS oftmals im Zusammenhang mit automatisiertem Fahren genannt wird, liegt weniger an den offiziellen Zielen dieses Programms, in denen automatisiertes Fahren überhaupt nicht vorkam, z. T. sogar explizit abgelehnt wurde, sondern an den im Rahmen von PRO-ART gezeigten Ergebnissen zu den CED-Punkten 2.2 (Lane Keeping Support), 3 (Collision Avoidance) und 5 (Autonomous Intelligent Cruise Control). Die höheren Führungsebenen der Autoindustrie standen dem maschinellen Sehen zur Fahrzeugführung anfangs skeptisch bis ablehnend gegenüber.
+
+
+== PRO-ART ==
+Das Teilprojekt profitierte von den zehnjährigen Vorarbeiten, die die Gruppe an der Universität der Bundeswehr München (UniBwM) um Prof. Ernst D. Dickmanns durchgeführt hatte. Neben der visuellen Steuerung vergleichsweise einfacher realer Prozesse durch Echtzeit-Bildfolgenverarbeitung (Stabbalance auf einem Elektrokarren und Andocken eines trägen Luftkissenfahrzeugs als Satellitensimulator) war dort ein Hardware in the Loop (HiL) Simulationskreis aufgebaut worden, der die Untersuchung der autonomen visuellen Führung von Land- und Luftfahrzeugen mit realen Sensoren und spezifischen Rechnern im Kreis erlaubte. Aufgrund der positiven Ergebnisse wurde 1985 ein 5-t Kastenwagen Mercedes-Benz 508 D beschafft, um ihn als „Versuchsfahrzeug für autonome Mobilität und Rechnersehen“ (VaMoRs) mit eigenem 220-V-Stromgenerator sowie den erforderlichen Sensoren und Stellgliedern umrüsten zu lassen. VaMoRs wurde ab 1986 bis ins neue Jahrhundert einer der erfolgreichsten Versuchsträger zur autonomen visuellen Fahrzeugführung weltweit.
+
+
+=== Im Vorfeld zu PROMETHEUS getätigte Arbeiten ===
+In der deutschen Industrie hatte nur Volkswagen einen Versuch zur visuellen Straßenfahrzeugführung unternommen. An der UniBwM wurde das Thema ab 1982 durch Drittmittel-Forschungsaufträge in zunehmender Breite bearbeitet; 1986 wurden die „Chances and Challenges“ dieses neuen Technologie-Ansatzes zum ersten Mal auf dem ICTS-Symposium on Human Factors Technology for Next-Generation Transportation Vehicles in Amalfi dargelegt und diskutiert.
+
+
+=== Definitionsphase von PRO-ART im Rahmen von PROMETHEUS ===
+Zu diesem Zeitpunkt waren bereits Kontakte zwischen der Daimler-Benz AG (DBAG) und der UniBwM geknüpft worden, um diesen Technologie-Ansatz in gemeinsamen Projekten mit öffentlicher Förderung weiterzuentwickeln. Für die Genehmigung durch den DBAG-Forschungsvorstand im Dezember 1986 wurden die Fähigkeiten von VaMoRs zur autonomen Quer- und Längsführung mittels Bildfolgenauswertung auf einer Rutschplatte demonstriert. Auf dieser Basis wurde die Entscheidung getroffen, die in der laufenden Definitionsphase für das Forschungsprojekt PROMETHEUS vorgesehene automatische Querführung durch induktive elektromagnetische Felder nach Vorlage eines ‚State-of-the-art-reviews zum maschinellen Sehen‘ durch das flexiblere ‚Rechnersehen‘ zu ersetzen. Anstelle der Kosten für die in Fahrbahnmitte zu installierende Kabel wurde Digitaltechnologie und Softwareentwicklung finanziert. Etwa ein Dutzend europäischer Firmen der Autoindustrie und ca. 60 Forschungs- bzw. Hochschul-Institute europäischer Länder beteiligten sich an diesem Projekt.
+Es wurden viele alternative Ansätze sowohl bei den Sensoren (Radar sowie Laser-Entfernungsmesser verschiedener Klassen) als auch bei der Software untersucht (Neuronale Netze, klassische KI-Ansätze, ingenieurmäßige Verfahren und deren Kombinationen). So wurde für die Forschung in diesem Bereich ein Projektteil ‚PRO-ART‘ (von ARTificial Intelligence) diskutiert. Der Abschlussbericht der UniBwM zur Definitionsphase Pro-Art mit Zeit- und Meilensteinplan (weitere wurden von den anderen beteiligten europäischen Forschungsgruppe eingereicht) führte zu neuen Ansätzen in diesem Bereich. So konnte die Forschungsgruppe der UniBwM im Sommer 1987 demonstrieren, dass das Forschungsfahrzeug VaMoRs die Fahrbahn und deren Krümmung erkennen kann. Außerdem wurden mit angepassten Geschwindigkeiten von bis zu 96 km/h (Höchstgeschwindigkeit von VaMoRs) auf hindernisfreier Bahn völlig autonom längs- und quergeregelt mehr als 20 km zurückgelegt.
+
+
+=== Arbeiten im Programmverlauf von PROMETHEUS ===
+Als erstes Ziel der Kooperation DBAG / UniBwM in Pro-ART wurde definiert, das selbst entwickelte Bildfolgen-Vorverarbeitungssystem der zweiten Generation (BVV2) in ausgebauter Form zu duplizieren. Für eine Zwischendemonstration anlässlich des PROMETHEUS Board Member Meetings 1991 in Turin wurde der Versuchsträger ‚Vision Technology Application‘ (VITA, später VITA I), ein 7-t-Kastenwagen der DBAG, aufgerüstet. Die Software zur visuellen Wahrnehmung sollte so weit ausgebaut werden, dass neben der Fahrbahn- und Fahrstreifen-Erkennung auch noch ein weiteres Fahrzeug auf der Straße entdeckt und verfolgt werden konnte. Der Abstand zu diesem Fahrzeug sollte rein visuell (kein Radar oder Lidar) fortlaufend bestimmt werden. Darauf aufbauend wurde die Fähigkeit zum autonomen Konvoi-Fahren in einer sicheren geschwindigkeitsabhängigen Entfernung bis zum Stillstand entwickelt. Der Erfolg führte auch auf den höheren Führungsetagen der Autoindustrie zur besseren Akzeptanz der Absicht, einen Gesichtssinn für Straßenfahrzeuge zu entwickeln.
+Für die PROMETHEUS-Abschlussdemonstration 1994 in Paris wurde daraufhin ein wesentlich weiter gestecktes Ziel definiert: Zwei Fahrzeuge der Mercedes-Benz S-Klasse (W 140) sollten im normalen dreispurigen Autoroute-Verkehr voll autonom mit ausschließlich visueller Wahrnehmung mitfahren können. Sie wurden mit entsprechenden Sensoren und Aktuatoren sowie den erforderlichen Rechnersystemen ausgebaut. DBAG taufte ihr Fahrzeug VITA II (als Prometheus-Demonstrator ‚CED 302‘), UniBwM das ihre VaMoRs-PKW oder kurz VaMP (‚CED 303‘). Die DBAG war für die aufwendigen mechanischen Um- und Ausbauten beider Fahrzeuge zuständig, während das ‚Fahrzeugauge‘ und das neue Transputer-System zur Bildfolgenauswertung sowie die gesamte Software zur visuellen Wahrnehmung und zur Verhaltenssteuerung im Verantwortungsbereich der UniBwM lagen.
+
+Folgende Fähigkeiten konnten im Oktober 1994 im öffentlichen dreispurigen Autobahnverkehr am Flughafen Charles-De-Gaulles mit Gästen an Bord gezeigt werden:
+
+Freies Spurfahren bis zur maximal zugelassenen Geschwindigkeit in Frankreich von 130 km/h,
+Übergang in das Konvoi-Fahren hinter beliebigem vorausfahrenden Fahrzeug mit Geschwindigkeits-abhängigem Abstand;
+Entdeckung und Verfolgung von bis zu sechs Fahrzeugen mit bifokalem Sehen je in der vorderen und der hinteren Hemisphäre in der Eigenspur und den direkt benachbarten Nebenspuren.
+Eigenständige Entscheidung zum Spurwechsel und dessen autonome Durchführung, nachdem der Sicherheitsfahrer durch Blinkersetzen die Freigabe erteilt hatte.Insgesamt wurden über 1000 km auf den dreispurigen Autoroutes um Paris unfallfrei gefahren. Technische Details zu den Methoden und den Hardware-Systemen finden sich in verschiedenen Veröffentlichungen Bei der retrospektiven Betrachtung ist zu berücksichtigen, dass die damals verfügbaren Rechenleistungen von Mikroprozessoren etwa um den Faktor 100 000 kleiner waren als 2014. Die Kosten eines solchen Systems waren entsprechend hoch. Dies war auch einer der Gründe dafür, weshalb die Industrie sich für Radar und Lidar als Sensoren beim nächsten Entwicklungsschritt zur serienmäßigen Kollisionsvermeidung / Abstandshaltung (CED 3) entschied.
+Die beiden genannten CED 3-Fahrzeuge waren die einzigen im PROMETHEUS-Projekt (sogar weltweit), die damals die oben genannten Leistungen unter guten Umweltbedingungen vorführen konnten. Bei fast allen anderen europäischen Teilnehmern an der Abschlussdemonstration diente Bildfolgen-Auswertung nur speziellen Einzelaufgaben wie Fahrbahn-, Spur-, Einzelobjekt- und Schildererkennung. Das unmittelbar anschließende ‚International Symposium on Intelligent Vehicles‘ erlaubte eine Beurteilung des internationalen Standes der Entwicklung: Durch das PROMETHEUS-Projekt, und speziell durch Pro-ART, hatte sich Europa eine führende Stellung auf dem Gebiet sehender Straßenfahrzeuge erarbeitet. Diese Erkenntnisse waren eine Grundlage für die erst später definierten Zielsetzungen für selbstfahrende Kraftfahrzeuge.
+
+
+== PRO-CHIP ==
+PRO-CHIP war ein Teilprojekt aus dem Bereich der zumeist von wissenschaftlichen Instituten betriebenen Grundlagenforschung. Die Zielsetzung von PRO-CHIP war, Hardware zu erforschen, die auf die Herausforderungen einer intelligenten Signalverarbeitung im Fahrzeug angepasst ist. Schwerpunkte bildeten die Sensortechnik u. a. Bildwandler mit hoher Dynamik, und Rechnertechnik u. a. mit Parallelrechnern für die Bildverarbeitung.
+
+
+== PRO-COM ==
+PRO-COM war ein Teilprojekt aus dem Bereich der zumeist von wissenschaftlichen Instituten betriebenen Grundlagenforschung. Die Zielsetzung von PRO-COM war, Methoden und Normen für die Datenkommunikation zu erarbeiten, die die Anforderungen einer Fahrzeug-Fahrzeug- und Fahrzeug-Infrastruktur-Kommunikation erfüllt.
+
+
+== PRO-GEN ==
+PRO-GEN (alternativ Pro-General) war ein Teilprojekt aus dem Bereich der zumeist von wissenschaftlichen Instituten betriebenen Grundlagenforschung. Die Zielsetzung von PRO-GEN war, Verkehrsszenarien für die Bewertung und mögliche Einführungsstrategien zu entwickeln. Für die Bewertung wurden vor allem die PROMETHEUS-Ziele Verkehrseffizienz und Straßenverkehrssicherheit betrachtet, aber auch Akzeptanzfragen zu den damals neuen Technikkonzepten.
+
+
+== PRO-CAR ==
+PRO-CAR war ein Teilprojekt aus dem Bereich der industriellen Forschung. Im Unterschied zu den Schwester-Projekten PRO-NET und PRO-ROAD stehen die fahrzeugautarken Lösungen zur Verbesserung der Straßenverkehrssicherheit im Vordergrund. Im Rahmen dieses Teilprojekts wurden die Common European Demonstrator CED 1: Sichtverbesserung (Vision Enhancement), CED 2: Sichere Fahrzeugführung (Proper Vehicle Operation), wiederum aufgeteilt in CED 2.1: Überwachung der Fahrstabilität (Friction Monitoring and Vehicle Dynamics), CED 2.2: Unterstützung bei der Spurhaltung (Lane Keeping Support), CED 2.3: Sichtweitenüberwachung (Visibility Range Monitoring) und CED 2.4: Überwachung des Fahrerzustands (Driver Status Monitoring), CED 3: Kollisionsvermeidung (Collision Avoidance) und CED 5: Autonome, intelligente Geschwindigkeits- und Abstandsregelung (Autonomous Intelligent Cruise Control) entwickelt. Viele der in diesen Projekten dargestellten Funktionen wurden später in Fahrerassistenzsystemen in Serie verwirklicht, wie beispielsweise Adaptive Cruise Control, Spurhalteunterstützung, Nachtsichtsysteme und Müdigkeitswarner.
+
+
+== PRO-NET ==
+PRO-NET war ein Teilprojekt aus dem Bereich der industriellen Forschung mit dem Schwerpunkt der Fahrzeug-Fahrzeug-Kommunikation und der dadurch möglichen Verbesserung von Verkehrsleistung und Sicherheit. Allerdings reichten die für die angestrebte Funktionalität verfügbaren Kommunikations- und Lokalisierungstechniken nicht aus, so dass nur wenige Funktionen im Common European Demonstrator 4: Kooperatives Fahren (Co-operative Driving) tatsächlich dargestellt wurden. Erst ca. 20 Jahre später war die Technik soweit, dass einige dieser Ideen in Forschungsprojekten wie Ko-FAS und in einem Feldtest simTD (2008–2013) gezeigt werden konnten. Ob und wann die ambitionierten Funktionen des kooperativen Fahrens zum Serieneinsatz kommen, bleibt aber weiterhin unklar.
+
+
+== PRO-ROAD ==
+PRO-ROAD war ein Teilprojekt aus dem Bereich der industriellen Forschung. Gerade in diesem Teilprojekt zeigte sich die PROMETHEUS-Vision einer ganzheitlichen Lösung der Verkehrsprobleme. Manche der Hoffnungen ließen sich später erfüllen, wie die dynamische Routenführung, das Flottenmanagement und intermodale Reiseinformation. Auch der Automatische Notruf steht vor der Einführung. Andere PRO-ROAD-Funktionen wie die infrastrukturgestützte Unfallwarnung COMPANION scheinen bis heute keine Umsetzungsperspektive zu haben, da die Vorleistung für die Infrastrukturausrüstung sowie die Betriebskosten sich als Einführungshindernis erweisen.
+
+
+== Weblinks ==
+Horst Weise: Das intelligent geführte Auto. In: Die Zeit. Nr. 35, 21. August 1992.
+1986: Startschuss zum PROMETHEUS-Forschungsprogramm, Daimler Global Media Site, 9. Oktober 2007
+Das Projekt PROMETHEUS ab 1986: Vorreiter des autonomen Fahrens, Daimler Global Media Site, 20. September 2016
+Website von Prof. Ernst D. Dickmanns zu Dynamic Vision (Teilprojekt PRO-ART)
+
+
+== Einzelnachweise ==

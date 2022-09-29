@@ -1,0 +1,89 @@
+Die Inadäquate Sinustachykardie (IST), erstmals 1979 beschrieben, ist eine seltene Art von Herzrhythmusstörungen innerhalb der Kategorie der supraventrikulären Tachykardie (SVT). Bei einer inadäquaten Sinustachykardie übersteigt die Frequenz des Sinusknotens 100 Schläge/min, ohne dass ein Zusammenhang mit körperlicher Belastung oder psychischer Erregung oder anderen sekundären Ursachen für eine Frequenzsteigerung vorliegt.
+
+
+== Ursache ==
+Der inadäquaten Sinustachykardie liegt eine Anomalie im Sinusknoten zugrunde. Dabei können neben dem Sinusknoten Zellen existieren, die aufgrund einer Entkoppelung vom autonomen Nervensystem plötzliche Frequenzerhöhungen verursachen, die meist katecholaminabhängig sind.
+
+
+== Symptome ==
+Die von den Patienten genannten Symptome variieren in Häufigkeit und Schweregrad. Meistens werden vielfältige Symptome angegeben. Die Symptomatik der IST ist gelegentlich schwer und belastend, eine erhebliche Einschränkung der Lebensqualität ist nicht selten. Sie können umfassen:
+
+Häufiges oder anhaltendes Herzklopfen/Herzrasen
+Schwindel
+Dyspnoe (Kurzatmigkeit) und Herzklopfen bei Anstrengung
+Müdigkeit
+Belastungsintoleranz
+Erschöpfungszustände
+Schwitzen
+Brustschmerz
+Benommenheit
+Prä-Synkope (Gefühl, als würde man in Ohnmacht fallen)
+
+
+== Häufigkeit ==
+Die Inadäquate Sinustachykardie ist sehr selten. Die Prävalenz der IST bezieht sich auf Patienten im mittleren Lebensalter und ist häufiger als früher vermutet mit ca. 1 %. Betroffen sind vor allem Patientinnen (bis zu 90 %).
+
+
+== Auslöser ==
+Als mögliche Auslöser einer IST werden diskutiert:
+
+eine vorausgegangene Virusinfektion
+eine Toxinexposition
+eine endokardiale Katheterablation mit akzidenteller Modulation des lokalen autonomen Nervensystems
+
+
+== Elektrokardiogramm (EKG) ==
+Die P-Wellenkonfiguration entspricht der Konfiguration bei einem physiologischen Sinusrhythmus. Die Diagnose kann anhand eines einzelnen 12-Kanal-Ruhe-EKGs nicht gestellt werden. Für den Nachweis beständig erhöhter Herzfrequenzen ist ein Langzeit-EKG notwendig. Die nächtliche Frequenzabsenkung fehlt oder ist zumindest abgeschwächt. Ein sorgfältig geführtes Tätigkeitsprotokoll ist notwendig, um die Inadäquatheit der hohen Frequenzen zu objektivieren.
+
+
+== Diagnostik ==
+Vor der Diagnosestellung einer inadäquaten Sinustachykardie müssen Ursachen einer physiologischen Sinustachykardie ausgeschlossen werden. Folgendes kann beobachtet werden:
+
+Ausschluss aller anderen Ursachen der sekundären (adäquaten) Sinustachykardie (Anämie, Schmerz, Angststörung, Hyperthyreose, hormonelle Störungen, Medikamente …)
+Häufige Formen der supraventrikulären Tachykardie (SVT) müssen ausgeschlossen werden
+Normale P-Wellenmorphologie
+Eine Sinustachykardie in Ruhe ist in der Regel (aber nicht immer) vorhanden
+Minimale Senkung der Herzfrequenz in der Nacht
+Inadäquate (unangemessene) Herzfrequenzreaktion bei Anstrengung
+Mittlere Herzfrequenz in 24 Stunden > 95 Schläge/min
+Es wird dokumentiert, dass die Symptome auf Tachykardie zurückzuführen sind
+Hypotonie wird gelegentlich beobachtet
+Gelegentlich wird über Synkopen (Ohnmacht) berichtet
+
+
+== Differenzialdiagnosen ==
+Neben einer physiologischen Sinustachykardie muss die inadäquate Sinustachykardie gegenüber
+
+Sinusknoten-Reentry-Tachykardien,
+posturalem orthostatischen Tachykardiesyndrom,
+atrialen Tachykardien mit Ursprung nahe dem Sinusknoten (und damit ähnlicher P-Wellenkonfiguration) und
+anderen paroxysmalen supraventrikulären Tachykardien (AV-Knoten-Reentry-Tachykardie, AV-Reentry-Tachykardie)abgegrenzt werden.
+
+
+== Therapie ==
+Sowohl Pathogenese als auch Langzeitprognose sind unvollständig verstanden, weshalb sich die Therapie der inadäquaten Sinustachykardie in der klinischen Routine oftmals schwierig gestaltet. Die Behandlung gestaltet sich in Anbetracht des multidimensionalen Krankheitsbildes komplex, d. h. für die Mehrzahl der Patienten ist ein multidisziplinäres Vorgehen angebracht. Bei Patienten mit leichterer Symptomatik wird manchmal Ausdauertraining empfohlen. Bei medikamentöser Therapieresistenz ist eine Radiofrequenzstromablation (RFC-Ablation) zu erwägen. Die RFC-Ablation ist bei der inadäquaten Sinustachykardie nicht als alleinige Therapieform geeignet, sondern vielmehr integraler Bestandteil eines umfassenden Behandlungskonzeptes. Vorteile scheint die sog. Hybridtherapie zu bieten, d. h. die Kombination verschiedener Behandlungsstrategien, die die Wirkung einer einzelnen Maßnahme übertreffen. In Einzelfällen anderweitiger Therapierefraktärität wurde über eine erfolgreiche chirurgische Exzision des Sinusknotens als »Ultima ratio« berichtet.
+
+
+=== Medikamentöse Behandlung ===
+Betarezeptorenblocker (Behandlung der ersten Wahl), Calciumantagonisten, IC Antiarrhythmika bzw. Kombinationstherapie, Herzglykoside, off-label-Versuch mit Ivabradin
+
+
+=== Radiofrequenzstromablation ===
+Die Rolle der Sinusknotenablation bzw. -modifikation ist bislang nicht klar definiert.
+Es besteht das Risiko der Obliteration bzw. erheblichen Einschränkung der Sinusknotenfunktion durch die RFC-Prozedur.
+Obwohl günstige Kurzzeitbeobachtungen vorliegen (76 %), sind die Langzeitergebnisse der RFC-Ablation bei IST eher enttäuschend (ca. 65 %).
+Die Möglichkeit der Herzschrittmacherpflichtigkeit und anderer prozedurbedingter Komplikationen ist gegeben (persistierender junktionaler Rhythmus, Vena-cava-superior-Syndrom, Zwerchfellparalyse (Läsion des Nervus phrenicus), Perikarditis, Dysautonomie).
+Häufig persistieren kardiale und extrakardiale Symptome auch nach einer RFC-Ablation. Diese Beobachtung lässt daran denken, dass die Pathogenese zumindest teilweise extrakardial determiniert wird.
+Manche Symptome lassen sich als Sekundärmanifestation einer autonomen Dysregulation interpretieren.
+Bei kompletter RFC-bedingter Zerstörung des Sinusknotens wird in den meisten Fällen eine permanente Herzschrittmacher Stimulation notwendig.
+
+
+== Prognose ==
+Die Prognose von IST ist noch nicht klar verstanden. Das Risiko einer durch Tachykardien induzierten Kardiomyopathie ist weitgehend unbekannt und wird als sehr gering eingeschätzt, was nur in Einzelfällen berichtet wird. Über die Langzeitergebnisse dieser Erkrankung liegen nur wenige Informationen vor, obwohl keine Mortalität bekannt ist. Man nimmt an, dass IST eine chronische Erkrankung ist. Es wurde vermutet, dass unbehandelte IST für die Entwicklung einer systemischen Hypertonie prädisponiert ist.
+
+
+== Weblinks ==
+https://www.herzzentrum-mg.de/Elektrophysiologie
+https://www.fokus-ekg.de/inhalt-von-a-z/supraventrikul%C3%A4re-tachyarrhythmien/sinustachykardien
+https://docplayer.org/70971542-Die-inadaequate-sinustachykardie.html
+https://www.springer.com/cda/content/document/cda_downloaddocument/9783540767541-c1.pdf?SGWID=0-0-45-932645-p173844908

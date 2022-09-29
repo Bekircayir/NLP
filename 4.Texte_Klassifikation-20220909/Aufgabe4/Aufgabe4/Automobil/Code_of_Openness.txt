@@ -1,0 +1,22 @@
+Code of Openness (CPO) ist eine offene Initiative des prostep ivip Vereins unter der Schirmherrschaft des deutschen Bundesministeriums für Wirtschaft und Energie (BMWi). Das Akronym CPO stammt ursprünglich von der Abkürzung des Terms Code of PLM Openness.
+Offenheit ist ein Zustand, eine Fähigkeit eines IT-Systems. Sie wird charakterisiert durch die Interoperabilität, Portierbarkeit und Erweiterbarkeit des IT-Systems (vgl. Offenes System). Bei der Realisierung bzw. Implementierung von offenen IT-Systemen spielen IT-Schnittstellen, Standards und die IT-Architektur eine entscheidende Rolle. Neben diesen technischen Aspekten, sind nicht-technische Aspekte mindestens von gleicher Bedeutung, allen voran die vertragsrechtlichen Bedingungen und Partnerschaftsmodelle bzw. Partnerschaftsprogramme der beteiligten Parteien (Kunden bzw. Anwender, IT-Hersteller und IT-Dienstleister). Dieser Ansatz ist der Kern des CPO, der auch im Sinne eines Kodex verstanden werden kann.   
+Der CPO zielt auf die Etablierung von Offenheit und damit die einfache Integration von IT in vernetzten IT-Umgebungen (z. B. Unternehmensnetzwerken, IoT). Er verknüpft technische IT-Anforderungen mit denen der Anwender. Es ist ein Standard-Kriterien-Katalog, der messbare Kriterien (‚muss’, ‚soll’, ‚kann’) zu den Kategorien Interoperabilität, Infrastrukturen, Erweiterbarkeit, Schnittstellen, Standards, Architekturen und Partnerbeziehungen umfasst.
+
+
+== Geschichte ==
+Von Juli 2011 bis Februar 2012 erarbeiteten Vertreter von BMW, Daimler, Dassault Systèmes, IBM, Oracle, PTC, SAP, Siemens PLM Software, T-Systems und Volkswagen die erste Version des CPO, der im Rahmen einer Konferenz auf der CeBIT 2012 offiziell vorgestellt wurde.In den Jahren 2012 und 2013 wurde kontinuierlich an der Verbesserung des CPO gearbeitet. Seit 2014 wird die Internationalisierung und der industrielle Roll-out des CPO aktiv angegeben. Deswegen traten dann auch Unternehmen wie z. B. Airbus, Ford, Fuji Heavy Industries, Hino, Honda, Isuzu, Mazda, Mitsubishi, Nissan, Suzuki, thyssenkrupp, Toyota, Volvo und Yamaha der CPO-Initiative bei.Im Verlauf der Zeit wurde immer klarer, dass die im CPO zusammengefassten Kriterien nicht nur für den ursprünglich avisierten Bereich PLM tragen, sondern weit darüber hinaus. Im April 2016 erklärte daher der damalige Bundesminister für Wirtschaft und Energie Sigmar Gabriel die Schirmherrschaft des BMWi über die CPO-Initiative und unterstrich: „Die deutsche Industrie ist darauf angewiesen, dass ihre smarten Produkte und Dienste global angeboten und auch genutzt werden können. Die Interoperabilität ist dabei der Dreh- und Angelpunkt. Mit einer Zertifizierung kann Vertrauen in breite Nutzung der Informations- und Kommunikationstechnologien geschaffen, technische Barrieren abgebaut und damit die Wettbewerbskraft der deutschen Wirtschaft gestärkt werden.“
+
+
+== Zertifizierung ==
+Zusammen mit dem BMWi wird derzeit im prostep ivip Verein ein Zertifizierungsverfahren ausgearbeitet. Erste Pilotzertifizierungen erfolgten im Jahr 2017. Unternehmen wie CONWEAVER, HCL, PROSTEP, PTC und Siemens PLM gehören zu den ersten Zertifizierten. Parallel dazu wird ein akkreditiertes Zertifizierungsverfahren zusammen mit der DAkkS vorbereitet. Die ersten akkreditierten Zertifikate werden Mitte 2019 vorgestellt. Auch auf EU-Ebene und in Japan (in Kooperation mit dem METI) werden weiterführende Schritte vorbereitet.
+
+
+== Veröffentlichungen ==
+Der CPO, Guidelines mit Tipps und Interpretationshilfen, Templates und der CPO-Jahresbericht werden über die CPO-Seiten des prostep ivip Vereins publiziert. Der CPO sowie die begleitenden Zertifizierungskriterien als Serie DIN SPEC 91372 veröffentlicht. Der CPO selbst steht schon als DIN SPEC 91372-1 zur Verfügung.
+
+
+== Weblinks ==
+CPO – Ziel, Mitmachen, Downloads
+
+
+== Einzelnachweise ==

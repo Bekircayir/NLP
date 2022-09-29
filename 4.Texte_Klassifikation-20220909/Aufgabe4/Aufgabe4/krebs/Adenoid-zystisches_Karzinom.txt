@@ -1,0 +1,56 @@
+Das adenoid-zystische Karzinom ist ein seltener, bösartiger Tumor, der sich von Drüsengeweben ableitet und insbesondere im Kopf- und Halsbereich auftritt. Häufigster Manifestationsort sind die Speicheldrüsen (Ohrspeicheldrüse, Unterkieferspeicheldrüse, kleine Mundspeicheldrüsen). Daneben kann der Tumor an vielen weiteren Lokalisationen beobachtet werden, wie zum Beispiel Tränendrüse, Nase und Nasennebenhöhlen, Kehlkopf, Luftröhre, Bronchien, Lunge, Haut, Brustdrüse, äußerer Gehörgang, Gebärmutterhals, Bartholin-Drüse oder Prostata.
+Typisch für das adenoid-zystische Karzinom ist ein zunächst langsames Wachstum, wobei der Tumor jedoch eine ausgeprägte Neigung zur Infiltration des umgebenden Gewebes zeigt, daher häufig nicht vollständig entfernt werden kann und letztendlich rezidiviert.
+
+
+== Begriff ==
+Drei Jahre nach der Erstbeschreibung der Tumorentität durch Robin und Laboulbene prägte der Chirurg Theodor Billroth 1856 zunächst den Begriff Zylindrom, der auf die histologisch erkennbare, zylindrische, von Tumorzellen umsäumte Bindegewebsformationen innerhalb des Tumorgewebes anspielt. Hiervon zu unterscheiden ist heute das dermale Zylindrom, ein gutartiger Tumor der Hautanhangsgebilde.
+Die Bezeichnung adenoid-zystisches Karzinom wurde erstmals vom Pathologen James Ewing benutzt und bezieht sich auf das typische feingewebliche Erscheinungsbild des Tumors, der drüsenartige (adenoide) und teils weite, von Epithel ausgekleidete (zystische) oder auch nicht epithelial ausgekleidete (pseudozystische) Hohlräume ausbildet. Allgemein gebräuchlich wurde der Begriff mit der Aufnahme in die WHO-Klassifikation 1972 nach Vorschlag von Thackray und Sorbin.
+
+
+== Epidemiologie ==
+Der Altersgipfel der Erkrankung liegt in der 4.–6. Lebensdekade, wobei der Tumor selten auch bereits im Kindesalter auftreten kann. Frauen sind geringfügig häufiger betroffen als Männer (3 : 2).
+
+
+== Ätiologie ==
+Die der Tumorbildung zugrundeliegenden Ursachen sind unbekannt. Ebenso gibt es derzeit keine Erkenntnisse über genetische oder umweltbedingte Risikofaktoren, die die Krankheitsentstehung begünstigen. Auf molekulargenetischer Ebene wurde bei fortgeschrittenen und aggressiven Formen des adenoid-zystischen Karzinoms eine Inaktivierung des p53-Tumorsuppressorgens nachgewiesen.
+In einer neueren Studie konnte die Deletion der chromosomalen Region 1p32-p36 als häufigste genetische Abweichung beim adenoid-zystischen Karzinom identifiziert werden.
+
+
+== Pathologie ==
+
+Adenoid-zystische Karzinome erscheinen makroskopisch als solide, gut umschriebene, jedoch ungekapselte Tumoren von hellbräunlicher Farbe und variabler Größe.
+Feingeweblich setzt sich der Tumor aus duktalen und modifizierten myoepithelialen Zellen zusammen, die tubuläre, kribriforme und solide Wachstumsmuster ausbilden. Der Tumor wächst stets infiltrativ in das umgebende Gewebe ein und breitet sich dabei insbesondere entlang von Nervenstrukturen aus (perineurale Invasion).
+
+
+== Diagnose ==
+Eine definitive Diagnose lässt sich nur nach Entnahme von Tumorgewebe (Biopsie, Feinnadelpunktion) und mikroskopischer Untersuchung durch den Pathologen stellen.
+In der Ausbreitungsdiagnostik kommen bildgebende Verfahren wie die Computertomographie, Magnetresonanztomographie oder die Positronenemissionstomographie zur Anwendung.
+
+
+=== Differentialdiagnose ===
+Die wesentlichen Entitäten, die vom adenoid-zystischen Karzinom unterschieden werden müssen sind das pleomorphe Adenom, das polymorphe niedriggradige Adenokarzinom, das Basalzelladenom bzw. -adenokarzinom sowie das basaloide Plattenepithelkarzinom.
+
+
+== Therapie ==
+Grundlage der Therapie ist in der Regel die möglichst vollständige chirurgische Entfernung des Tumors mit ausreichendem Sicherheitsabstand. Postoperativ kann eine Strahlentherapie die Rückfallrate verringern und wird in einigen Studien deshalb als Standardtherapie empfohlen.
+Eine effektive Chemotherapie des adenoid-zystischen Karzinoms ist bislang nicht verfügbar. Kombinationstherapien aus Strahlen- und Chemotherapie sind derzeit in Erprobung.
+
+
+== Prognose ==
+Die langsame, aber häufig unaufhaltsame Progredienz des adenoid-zystischen Karzinoms spiegelt sich in den Überlebensraten wider. Die 5-Jahres-Überlebensrate ist mit 89 % zunächst noch relativ günstig, fällt jedoch nach 10 Jahren auf 65 % und nach 15 Jahren auf 40 %.
+Prognostisch bedeutsame Faktoren sind das histologische Wachstumsmuster, die Tumorlokalisation, die Tumorgröße, das klinische Stadium, ein Knochenbefall und der Status der chirurgischen Resektionsränder.
+Tumoren mit einem tubulären oder kribriformen Wachstumsmuster zeigen häufig einen günstigeren klinischen Verlauf als Tumoren die feingeweblich über 30 % solide Gewebsmuster aufweisen.
+Ein Lymphknotenbefall ist mit einer relativen Häufigkeit von 5 bis 25 % vergleichsweise ungewöhnlich. Fernmetastasen, die in absteigender Häufigkeit Lunge, Knochen, Gehirn und Leber betreffen, treten in 25–55 % der Fälle auf; nur etwa 20 % der betroffenen Patienten überleben 5 Jahre.
+
+
+== Literatur ==
+Johannes Gerhard Heribert Laubenthal: Prognostische Bedeutung klinisch-therapeutischer Faktoren beim adenoidzystischen Karzinom des Kopf-Hals-Bereiches, Dissertation, Saarbrücken 2017, doi:10.22028/D291-27217.
+Daniela Heine: Adenoidzystisches Karzinom im Kopf-Hals-Bereich – Cancer-Testis-Antigen-Expression und ihre prognostische und therapeutische Relevanz, Dissertation, Ulm 2018, doi:10.18725/OPARU-5426.
+
+
+== Weblinks ==
+The Adenoid Cystic Carcinoma Research Foundation (ACCRF)
+Adenoid Cystic Carcinoma Organization International (ACCOI)
+
+
+== Einzelnachweise ==

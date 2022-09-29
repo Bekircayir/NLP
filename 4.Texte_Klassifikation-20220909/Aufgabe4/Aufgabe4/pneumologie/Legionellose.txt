@@ -1,0 +1,75 @@
+Die Legionellose ist eine Infektionskrankheit, die durch Bakterien der Gattung Legionella (Legionellen) hervorgerufen wird und die mit Antibiotika meist gut behandelt werden kann. Der mit Abstand häufigste Erreger (90 % bis 95 % der Fälle) ist Legionella pneumophila (vor allem der Serotyp 1). Weitere humanpathogene Legionellen sind Legionella micadei, L. bozmanii, L. dumoffii und L. longbeachae.
+Es können mehrere Formen der Legionellose unterschieden werden. Die beiden wichtigsten Formen sind die Legionärskrankheit, die durch eine von einer Tröpfcheninfektion hervorgerufene Lungenentzündung (Pneumonie) gekennzeichnet ist und unbehandelt einen lebensgefährlichen Verlauf annehmen kann, sowie das seltenere, ohne Lungenentzündung und meist mild verlaufende Pontiac-Fieber. Legionellen können in seltenen Fällen auch Infektionen wie Wund-, Herzinnenhaut- (Endokarditiden) und Nierenbeckenentzündungen (Pyelonephritiden) verursachen.
+
+
+== Geschichte ==
+Die Legionärskrankheit wurde 1976 zum ersten Mal beschrieben. Ihren Namen erhielt sie nach einem Treffen der US-Kriegsveteranenvereinigung American Legion, das vom 21. bis 24. Juli 1976 im Bellevue-Stratford-Hotel in Philadelphia stattfand. Damals waren 181 ältere Personen an einer Lungenentzündung lebensbedrohlich erkrankt. Sie alle waren entweder Besucher des Kriegsveteranentreffens oder Besucher des Hotels. Die Epidemie mit damals unbekannter Ursache alarmierte die amerikanischen Gesundheitsbehörden sowie die Centers for Disease Control and Prevention in Atlanta, sodass die Krankheitsursache intensiv erforscht wurde. 1977 waren es Charles C. Shepard und Joseph E. McDade, die Legionella pneumophila als Erreger identifizieren konnten. Dieser hatte sich im Kühlwassersystem der vernachlässigten Klimaanlage des Hotels ansiedeln können. Nachträglich wurden einige andere Epidemien auf die Legionärskrankheit zurückgeführt, wie beispielsweise eine am St. Elisabeth’s Hospital in Washington, bei der 1965 acht Menschen starben.Das Pontiac-Fieber wurde bereits im Jahre 1968 beschrieben. Die Erkrankung erhielt ihren Namen nach einem Ausbruch in der Stadt Pontiac in Michigan.
+
+
+== Ursachen für Legionellenprobleme ==
+
+Eine erhöhte Koloniezahl im Trinkwasser beruht zumeist auf fehlender Wasserzirkulation und Wassertemperaturen im Bereich von 25 bis 50 °C. In zu großen Warmwasserspeichern oder Rohrleitungen verbleibt das Wasser länger und die Organismen haben mehr Zeit zum Wachstum. Auch bei zeitweise geringer oder fehlender Wasserentnahme kommt es zu stehendem Wasser und damit zu Wassertemperaturen, die das Koloniewachstum zusätzlich begünstigen.
+
+
+== Meldepflicht ==
+In Deutschland ist nach § 7 Infektionsschutzgesetz (IfSG) der direkte oder indirekte Nachweis einer akuten Infektion durch Legionella sp. durch das diagnostizierende Labor meldepflichtig, soweit der Nachweis auf eine akute Infektion hinweist. Seit 2001 werden meldepflichtige Erkrankungen vom Robert Koch-Institut erfasst, das für das Jahr 2004 insgesamt 475 gemeldete Legionellosen angab. Die Zahlen zeigen einen steigenden Trend. Zur Meldung verpflichtet ist der Leiter der Untersuchungsstelle, in der der Nachweis geführt wurde (§ 8 IfSG). In Sachsen ist überdies auch die Erkrankung sowie der Tod an Legionellose meldepflichtig.In Österreich ist Legionärskrankheit eine anzeigepflichtige Krankheit gemäß § 1 Abs. 1 Nr. 2 Epidemiegesetz 1950. Meldepflichtig sind Erkrankungs- und Todesfälle. Zur Anzeige verpflichtet sind unter anderen Ärzte und Labore (§ 3 Epidemiegesetz).
+In der Schweiz ist die Erkrankung Legionellose meldepflichtig und zwar nach dem Epidemiengesetz (EpG) in Verbindung mit der Epidemienverordnung und Anhang 1 der Verordnung des EDI über die Meldung von Beobachtungen übertragbarer Krankheiten des Menschen. Meldepflichtig sind Ärzte, Spitäler usw.
+
+
+== Epidemiologie ==
+Die Legionärskrankheit befällt als schwere Form der Lungenentzündung vor allem starke Raucher sowie Menschen, die an Immunsuppression oder Niereninsuffizienz leiden. Obwohl die Infektion in jedem Alter erfolgen kann, tritt die Erkrankung bevorzugt im mittleren Lebensalter auf. Männer erkranken zwei- bis dreimal häufiger als Frauen.
+Die Übertragung geschieht dabei nicht über Kontaktpersonen, sondern durch Einatmung der Legionellen. Da sich die Legionellen bevorzugt in warmem Wasser (Optimum bei 36–43 °C) vermehren, bergen insbesondere Schwimmbecken, Whirlpools, Klimaanlagen und Duschen ein erhöhtes Infektionsrisiko. Bei der Infektion werden zerstäubte Wassertröpfchen zusammen mit den Legionellen eingeatmet (aerogener Übertragungsweg); auch eine unabsichtliche Einatmung von geschlucktem Wasser (Aspiration) ist möglich. In der Folge ist vor allem im Sommer epidemisches Auftreten möglich, aber auch in der restlichen Zeit sind Infektionen wie jene 1999 in Stede Broec (Niederlande) nicht ausgeschlossen.
+Auf Reisen in Gebiete mit geringem Hygienestandard empfiehlt es sich, bei Bezug eines Hotelzimmers heißes Leitungswasser (Dusche/Waschbecken) für etwa 10 Minuten durchlaufen zu lassen. In dieser Zeit sollte man sich allerdings nicht in der Nähe aufhalten, um das Aerosol nicht einzuatmen.
+
+
+=== Verbreitung in Deutschland ===
+In Deutschland wurden 2011 639 (labordiagnostisch gesicherte) Fälle der Legionärskrankheit gemeldet. 2017 waren es dagegen 1282 Fälle und 2018 wurden 1447 Nachweise gemeldet. Für 2019 wurden 1548 Erkrankungen verzeichnet. 2020 wurden 1276 Infektionen nachgewiesen, 2021 waren es 1521. Von den bekannt gewordenen Krankheitsfällen mit Legionella-Pneumonie endete die Erkrankung in etwa 10–15 % der Fälle tödlich. Bei der milden Verlaufsform des Pontiac-Fiebers ohne Lungenentzündung sind bisher keine Todesfälle bekannt.
+Im August 2013 kam es in Warstein zum bislang schwersten Legionellose-Ausbruch in Deutschland durch Keime in Rückkühlwerken zweier Unternehmen. Bei 153 Erkrankten waren drei Todesfälle zu beklagen.Eine CAPNETZ-Studie rechnete 2005 aus ihren Ergebnissen 15–30.000 Legionella-Pneumonien (also 4 % aller Pneumonien) pro Jahr hoch und erwartete weiter bei einer 10 % Letalität 1500–3000 Todesfälle pro Jahr. Demzufolge würden trotz Meldepflicht über 96 % der Legionellosen nicht erkannt.
+
+
+=== Legionelloseausbrüche und Verdachtsfälle (Auswahl) ===
+
+
+== Erreger und Pathogenese ==
+Der Erreger, der diese Erkrankung auslöst, ist ein im Süßwasser vorkommendes, stäbchenförmiges Bakterium. Die häufigste Spezies wird nach dem betroffenen Organ, der Lunge, Legionella pneumophila (pneuma Atem, phil liebend) genannt. Am zweithäufigsten ist Legionella micdadei.Legionellen kommen natürlicherweise weltweit im Süßwasser vor, entscheidend für den krankmachenden Faktor ist die Menge der Erreger. Diese ist im normalen Umgebungswasser zu gering, aber unter günstigen Bedingungen können sich die Erreger explosionsartig vermehren, beispielsweise in Klimaanlagen.
+In stehendem Wasser in haustechnischen Installationen (vor allem Klimaanlagen und wenig benutzten Wasserleitungen) mit Temperaturen zwischen 35 und 45 °C bestehen ideale Voraussetzungen für die Vermehrung des Erregers. Die Infektion erfolgt durch Einatmen von zerstäubtem Wasser, beispielsweise unter der Dusche oder aus einem Luftbefeuchter. Eine Übertragung von Mensch zu Mensch ist bisher nicht bekannt geworden und gilt als unwahrscheinlich. Der Erreger ist insbesondere für Menschen mit geschwächtem Immunsystem gefährlich und befällt die Lungenbläschen (Alveolen).
+Die Legionellen überleben in der Regel Temperaturen nicht, die dauerhaft über 60 °C oder kurzzeitig über 70 °C liegen. Durch vorübergehende Aufheizung des Wassers auf 70 °C, Einbau von Zirkulationsleitungen zur Vermeidung langer Stichstrecken, in denen sich das Warmwasser abkühlt, und aerosolarme Duschköpfe wird bei Neuinstallationen in Westeuropa der Infektionsgefahr entgegengewirkt.
+Der Krankheitsverlauf wird durch virulenzassoziierte Epitope bestimmt. Die Bakterien sind in der Lage, sich innerhalb von Körperzellen vor der Immunantwort zu verstecken und sich dort zu vermehren. Zu diesem Zweck manipulieren sie auch die Proteinbiosynthese des Wirts durch Veränderung von Histonen.Der laborchemische Nachweis erfolgt am besten über einen Antigen-Nachweis im Urin (Goldstandard), der Test ist hierbei früh positiv. Der Nachweis kann jedoch auch über eine Sputumkultur erfolgen.
+
+
+== Klinisches Erscheinungsbild ==
+
+
+=== Legionärskrankheit ===
+
+Nach einer Inkubationszeit von 2 bis 10 Tagen kommt es bei der Legionärskrankheit zu einem relativ raschen Krankheitsbeginn, meist aus völligem Wohlbefinden heraus. Die Symptome, mit der sich die Erkrankung präsentiert, sind unspezifisch und sehr variabel. Bei den meisten Patienten beginnt die Erkrankung mit relativ hohem Fieber und Schüttelfrost (nicht selten werden Körpertemperaturen von über 40 °C erreicht), mit Muskelschmerzen (Myalgien), die vor allem im Bereich des Brustkorbs lokalisiert sind (Thoraxschmerz), sowie mit anfangs trockenem Reizhusten, der nach einigen Tagen in Husten mit mäßigem Auswurf übergehen kann. Der Auswurf kann blutig tingiert sein (Hämoptysen) und in Kombination mit Thoraxschmerzen leicht zur Fehldiagnose einer Lungenembolie führen. Darüber hinaus kann es zu Atemnot, Kopfschmerzen, Übelkeit und Erbrechen, Durchfällen sowie vielfältigen neurologischen Ausfallerscheinungen kommen.
+Die Letalität liegt bei dieser Verlaufsform bei etwa 10 bis 15 %.
+
+
+=== Pontiac-Fieber ===
+Der milde Krankheitsverlauf mit Legionella wird als Pontiac-Fieber bezeichnet. Benannt ist es nach dem Ort der ersten dokumentierten Epidemie, der Stadt Pontiac im US-Bundesstaat Michigan. Dabei treten leichte, grippeähnliche Symptome ohne Lungenentzündung auf. Bisher führte das Pontiac-Fieber in keinem bekannten Fall zum Tod.
+Die Inkubationszeit beträgt 1–2 Tage.
+
+
+== Therapie ==
+Eine Legionellose muss antibiotisch behandelt werden, da die Erkrankung lebensbedrohlich sein kann. Lange Zeit galt Erythromycin als Antibiotikum der ersten Wahl. Weitere bei Legionellose wirksame Antibiotika sind die Makrolide Azithromycin, Clarithromycin, Roxithromycin und Breitspektrum-Fluorchinolone (z. B. Ciprofloxacin, Levofloxacin). Auch Rifampicin (als zusätzliches Antibiotikum zu Erythromycin) und Tetracycline wie Doxycyclin und Tigecyclin sind wirksam, gelten aber nicht als Mittel der ersten Wahl.
+
+
+== Literatur ==
+M. Classen, V. Diehl, K. Kochsiek: Innere Medizin. 5. Auflage. Urban & Fischer, München 2006, ISBN 3-437-44405-0, S. 989–991.
+Hans Curt Flemming u. a.: Erkenntnisse aus dem BMBF-Verbundprojekt „Biofilme in der Trinkwasser-Installation“. Version 2.1. biofilm-hausinstallation.de (PDF; 0,5 MB).
+Marianne Abele-Horn: Antimikrobielle Therapie. Entscheidungshilfen zur Behandlung und Prophylaxe von Infektionskrankheiten. Unter Mitarbeit von Werner Heinz, Hartwig Klinker, Johann Schurz und August Stich. 2., überarbeitete und erweiterte Auflage. Peter Wiehl, Marburg 2009, ISBN 978-3-927219-14-4, S. 206f.
+W. Köhler u. a.: Medizinische Mikrobiologie. 8. Auflage. Urban & Fischer, München/Jena 2001, ISBN 3-437-41640-5, S. 354–355.
+M. L. Pedro-Botet u. a.: Epidemiology and pathogenesis of Legionella infection. UpToDate v15.3, 2007.
+Clinical manifestations and diagnosis of Legionella infection. UpToDate v15.3.
+Treatment and prevention of Legionella infection. UpToDate v15.3.
+J. E. Stout u. a.: Legionellosis. In: The New England Journal of Medicine, 337(10), 1997, S. 682–687. PMID 9278466.
+D. W. Fraser, T. R. Tsai, W. Orenstein, W. E. Parkin, H. J. Beecham, R. G. Sharrar, J. Harris, G. F. Mallison, S. M. Martin, J. E. McDade, C. C. Shepard, P. S. Brachman: Legionnaires’ disease: description of an epidemic of pneumonia. In: The New England Journal of Medicine, 297 (22), 1977, S. 1189–1197, doi:10.1056/NEJM197712012972201.
+
+
+== Weblinks ==
+
+Legionellose – Informationen des Robert Koch-Instituts
+
+
+== Einzelnachweise ==

@@ -1,0 +1,45 @@
+Der Begriff vulnerable Plaque (französisch plaque [plak], deutsch ‚Platte, Fleck, Schild‘; lateinisch vulnus  ‚Wunde‘ bzw. vulnerare ‚verwunden‘), auch Hochrisiko-Plaque genannt, bezeichnet eine Form der atherosklerotischen Plaque, welche ein erhöhtes Risiko für thrombotische Komplikationen wie Schlaganfälle oder Myokardinfarkte aufweist.
+Plaques, die eine besonders schnelle Progression aufweisen, werden ebenfalls als vulnerabel bezeichnet. Wird durch eine vulnerable Plaque ein thromboembolisches Ereignis wie ein Herzinfarkt oder Schlaganfall verursacht, so wird auch von einem „culprit plaque“ (englische Aussprache [kʌlprɪt], deutsch wörtlich „schuldig“, im Sinne von „die für ein Ereignis ursächliche Plaque“) gesprochen.
+
+
+== Kriterien einer vulnerablen Plaque ==
+
+In einem 2003 von einer Gruppe ausgewiesener und international bekannter Atherosklerosewissenschaftler (u. a. Pathologen, Radiologen, Molekularbiologen, Neurologen, Internisten) publizierten Konsensus-Dokument wurden 5 Haupt- und 5 Nebenkriterien der vulnerablen Plaque definiert. Dabei wurde allgemein festgehalten, dass die Kenntnis des Stenosegrades einer atherosklerotischen Plaque alleine nicht ausreicht, um deren Vulnerabilität zu bestimmen. Hingegen ist es wichtig die Zusammensetzung der Plaque sowie deren Morphologie zu kennen, um somit Rückschlüsse auf deren Vulnerabilität ziehen zu können.
+
+
+=== Hauptkriterien ===
+Aktive Entzündung innerhalb der Plaque (Infiltration durch Monozyten/Makrophagen, seltener durch T-Zellen)
+Großer Fettkern (“lipid/necrotic core”) mit dünner fibröser Kappe
+Endotheliale Denudation mit Aggregation von Thrombozyten an der Oberfläche
+Plaqueruptur (Einriss der dünnen Endothelschicht über einer Plaque)
+Stenose des Gefäßlumens im Bereich der Plaque >90 %
+
+
+=== Nebenkriterien ===
+In das Gefäßlumen hineinragende Verkalkungen
+Gelblicher Aspekt der Plaque (angioskopisch), als Hinweis auf einen hohen Fettanteil
+Einblutung in die Plaque (entweder durch Ruptur der fibrösen Kappe oder durch instabile Neogefäße, die in die Plaque einsprießen)
+Endotheliale Dysfunktion
+Expansives (positives) Remodeling (nach außen gerichtetes Plaquewachstum ohne starke Einengung des Gefäßlumens)
+
+
+== Pathophysiologie ==
+Im Rahmen der Atherosklerose von arteriellen Blutgefäßen kommt es, vermutlich im Rahmen einer Endothelialen Dysfunktion, durch extra- und intrazelluläre Lipidablagerungen zu Verdickungen in den subendothelialen Schichten der Tunica intima der Gefäßwand. Diese Verdickungen innerhalb der Gefäßwand werden, wenn sie herdförmig auftreten, auch als atherosklerotische Plaques bezeichnet. Werden die vor allem aus oxidierten LDL Partikeln bestehenden Lipidablagerungen durch Makrophagen phagozytiert, so werden diese zu Schaumzellen umgewandelt. Die Bildung von Schaumzellen wiederum verursacht eine Entzündungsreaktion, in deren Verlauf durch verschiedene Prozesse u. a. durch Proliferation von glatten Muskelzellen, Verkalkungen, vermehrter Bildung von kollagenen Fasern und Zellnekrosen ein allmählicher Gewebeumbau stattfindet. Hierbei entsteht in der Arterie eine bindegewebsartige Kappe (fibröse Kappe) über einem Lipidkern. Bei weiterem Fortschreiten des Prozesses kann es zu einer zunehmenden Ausdünnung der fibrösen Kappe kommen. Eine vulnerable Plaque entsteht.
+Rupturiert die fibröse Kappe, wird der hoch thrombogene Fettkern dem Blutstrom ausgesetzt. Dies führt zur Aktivierung und Aggregation von Blutplättchen, was die Bildung eines Thrombus zur Folge hat. Dieses Blutgerinnsel kann entweder direkt vor Ort das Gefäßlumen verlegen oder als Embolus abgeschwemmt werden und weiter distal der Strombahn zu einem Gefäßverschluss führen. Wird durch den Gefäßverschluss die Blutversorgung eines Organs unterbrochen oder kritisch vermindert, sodass es zu einem Zelluntergang kommt, so spricht man von einem Infarkt. Besonders kritisch hierbei ist ein akuter Gefäßverschluss der Gehirn-versorgenden Arterien, was bei nicht ausreichender Durchblutung des Hirngewebes zum Schlaganfall führt, oder ein akuter Verschluss der Myokard-versorgenden Koronargefäße, was einen Herzinfarkt zur Folge hat.
+
+
+== Epidemiologie ==
+Verschiedene Studien haben gezeigt, dass 65 – 75 % der Myokardinfarkte mit ST-Hebung im Elektrokardiogramm durch die Ruptur einer vulnerablen Plaque entstehen, und dass die Mehrzahl der Myokardinfarkte in Gefäßen ohne vorbestehende signifikante Stenose (d. h. Stenose <50 %) auftritt. Ähnliche Daten liegen auch zur Pathogenese des ischämischen, makroangiopathisch bedingtem Schlaganfall vor. So weiß man, dass von den ischämischen Schlaganfällen makroangiopathischer Genese nur rund 10 % durch hochgradige Stenosen im Verlauf der hirnversorgenden Gefäße auftreten, welche dann charakteristische Grenzzoneninfarkte verursachen. Der Großteil wird durch rupturierte Plaques verursacht, die meist im Bereich der Karotisbifurkation auftreten, in selteneren Fällen aber auch im Aortenbogen oder im Bereich der intrakraniellen Arteria carotis interna lokalisiert sein können.  Neuere bildgebende Studien, z. B. mittels MRT (Magnetresonanztomographie) konnten zeigen, dass vulnerable Plaques signifikant häufiger in hirnversorgenden Arterien auf der Schlaganfallsseite als auf der nichtbetroffenen Seite auftreten und dass das Vorhandensein vulnerabler Plaques unabhängig vom Stenosegrad mit einem bis zu 6-fach erhöhten Risiko für zerebrovaskuläre Ereignisse assoziiert ist. Zudem konnte auch in vivo gezeigt werden, dass vulnerable bzw. eingeblutete Plaques mit einer schnelleren Progression der Atherosklerose assoziiert sind.
+
+
+== Diagnostik und Therapie ==
+Ziel ist es zum einen durch präventive Maßnahmen wie z. B. eine Reduktion der kardiovaskulären Risikofaktoren, das Entstehen von atherosklerotischen Läsionen zu verhindern oder zu verzögern und zum anderen Patienten mit vulnerablen Plaques rechtzeitig zu identifizieren und einer geeigneten medikamentösen, chirurgischen oder interventionellen Therapie zuzuführen, bevor es zu schwerwiegenden Komplikationen kommt. Einen Beitrag hierzu können u. a. die bildgebenden Verfahren leisten, speziell das Feld der Plaquebildgebung, welche zum Ziel hat, mit verschiedenen Modalitäten wie beispielsweise Farbduplexsonographie, CT und MRT frühzeitig kritische atherosklerotische Veränderungen zu diagnostizieren.
+
+
+== Literatur ==
+Christodoulos Stefanadis, Christos‐Konstantinos Antoniou, Dimitrios Tsiachris, Panagiota Pietri: Coronary Atherosclerotic Vulnerable Plaque: Current Perspectives. In: Journal of the American Heart Association. Band 6, Nr. 3, 17. März 2017, doi:10.1161/JAHA.117.005543, PMID 28314799 (englisch). 
+Anouar Hafiane: Vulnerable Plaque, Characteristics, Detection, and Potential Therapies. In: Journal of Cardiovascular Development and Disease. Band 6, Nr. 3, 2019, ISSN 2308-3425, S. 26, doi:10.3390/jcdd6030026, PMID 31357630, PMC 6787609 (freier Volltext) – (englisch). 
+Mariusz Tomaniak, Yuki Katagiri, Rodrigo Modolo et al.: Vulnerable plaques and patients: state-of-the-art. In: European Heart Journal. Band 41, Nr. 31, 14. August 2020, S. 2997–3004, doi:10.1093/eurheartj/ehaa227 (englisch). 
+
+
+== Einzelnachweise ==

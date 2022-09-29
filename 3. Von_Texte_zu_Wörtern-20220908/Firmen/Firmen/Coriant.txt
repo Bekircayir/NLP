@@ -1,0 +1,25 @@
+Coriant ist ein Nachfolgeunternehmen der Nokia Siemens Optical GmbH, die im Frühjahr 2012 aus einem Teil der NSN GmbH&Co KG nach Umstruktierungen und damit einhergehendem Personalabbau (NSN wurde mittlerweile nach vollständiger Übernahme durch Nokia am 7. August 2013 in Nokia Solutions and Networks umbenannt) gebildet wurde. Im Dezember 2012 wurde der Verkauf des optischen Übertragungsgeschäft an das Private Equity-Unternehmen Marlin Equity bekanntgegeben. Am 6. Mai 2013 wurde Coriant im Eigentum von Marlin Equity Partners unabhängig von NSN.
+Firmensitz ist München in Deutschland und in Naperville (Illinois), USA mit einer Holdinggesellschaft in Luxemburg (Xieon Networks Solutions Sarl).
+Das Unternehmen verkauft Hard- und Softwarekomponenten für die optische Übertragung im Kernnetz (Backbone) von Sprach-, Daten- und Mobilfunknetzen, hauptsächlich mit den Produktlinien hiT 7300 für optisches Dichte Wellenlängen-Multiplexing (DWDM) über Glasfaserleitungen, hiT 7100 für das elektrische Verschalten optischer Pfade und hiT 70xx für "multi service provisioning". Für das Management und die Planung dieser optischen Netzkomponenten werden TNMS (englisch telecommunication network management system) und Transnet/Transconnect (Netzwerkplanung) angeboten.
+
+
+== Unternehmensstruktur ==
+Die Coriant GmbH & Co. KG (München HRA 100382) wird durch eine luxemburgische Gesellschaft (Xieon Networks Solutions Sarl und deutsche Dependance) und die unbeschränkt haftende Gesellschafterin (Komplementär) Coriant Verwaltungs GmbH (München HRB 202966) gebildet. Unterhalb der Coriant GmbH & Co. KG sind in Deutschland die Coriant GmbH (München HRB 201750) und die Coriant R&D GmbH (München HRB 197143) als 100%ige Tochtergesellschaften organisiert. Coriant ist mit Entwicklungstandorten in Portugal Amadora/Lissabon (Coriant Portugal, Unipessoal Lda), Deutschland (München), Shanghai in China, Espoo in Finnland und in den USA in Naperville (Illinois) Irving (Texas) sowie Bedminster Township (New Jersey) vertreten. Die Produktion ist in Berlin Deutschland angesiedelt.
+
+
+== Geschichte und Techniken ==
+Coriant stammt vom Bereich Übertragungstechnik (ÜT, wie er in den 1990ern genannt wurde) der Siemens AG ab, der in München seinen Standort hatte. Zu dieser Zeit fand der Übergang von PDH zu Sonet/SDH auf den Hierarchieebenen STM-4 / STM-16 (2,5 Gbit/s) statt. In den späten 1990ern und anfangs der 2000er kam DWDM auf, die noch höhere Übertragungsraten erlaubte (im Bereich von Terabit pro Sekunde). Diese Technik wird auch Optisches Transportnetz (OTN) genannt, bei der in einer Gruppe von Normen Multiplex- und Einkapselungs-Hierarchien festgelegt sind.
+
+
+== Konkurrenten ==
+Coriants Konkurrenten:
+Nokia
+Ciena
+Ericsson
+Fujitsu
+Infinera
+Huawei
+ZTE
+
+
+== Einzelnachweise ==

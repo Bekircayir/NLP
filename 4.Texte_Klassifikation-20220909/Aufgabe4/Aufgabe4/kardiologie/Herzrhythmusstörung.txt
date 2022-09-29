@@ -1,0 +1,138 @@
+Unter einer Herzrhythmusstörung (HRS) oder kardialen Rhythmusstörung, mit den Formen (kardiale) Arrhythmie (altgriechisch ἄρρυϑμος, „unrhythmisch“; unregelmäßige Abfolge der Erregungen oder der Pulsschläge) und kardiale Dysrhythmie (Abweichung von der normalen Herzfrequenz oder Störung des zeitlichen Ablaufs der einzelnen Herzaktionen), versteht man eine Störung der normalen Herzschlagfolge, verursacht durch nicht regelrechte Vorgänge bei der Erregungsbildung und -leitung im Herzmuskel. Physiologische Veränderungen im Herzrhythmus werden hingegen als Herzfrequenzvariabilität bezeichnet.
+Darunter gibt es eine Beschleunigung (Tachykardie) und eine Verlangsamung (Bradykardie) der Herzfrequenz.
+
+
+== Einteilung der Herzrhythmusstörungen ==
+Herzrhythmusstörungen werden meist nach ihrem Entstehungsort (Vorhof, Kammer, Erregungsbildung und -leitungssystem) unterteilt. Weitere Unterteilungsmöglichkeiten sind nach
+
+Geschwindigkeit (Frequenz) des resultierenden Herzschlages: bradykarde (beim erwachsenen Menschen weniger als 60 Schläge in der Minute) oder tachykarde Rhythmusstörungen,
+Gefährlichkeit: gutartige (mit hämodynamisch stabiler Symptomatik) oder bösartige, durch instabile Hämodynamik potentiell lebensbedrohliche Rhythmusstörungen
+Entstehung(smechanismus): angeborene (zusätzliche Leitungsbahnen bzw. fokale Impulsbildung, kreisende Erregung, Herzmuskelerkrankungen, Ionenkanalerkrankungen) oder erworbene (ischämisch, Verdickung des Herzmuskels, Vergrößerung der Herzhöhlen) Störungen.
+Ursprungsort: Supraventrikuläre (Supraventrikuläre Tachykardie/Supraventrikuläre Extrasystolen) oder ventrikuläre (Ventrikuläre Tachykardie/Ventrikuläre Extrasystolen) Rhythmusstörung.
+EKG-Kriterien: Breite und Aussehen des QRS-Komplexes, regelmäßig oder unregelmäßig, Vorhof- und Kammerfrequenz.
+Beginn: Plötzlich (paroxysmal) oder langsam zunehmende Herzrhythmusstörung.
+Dauer: Nicht anhaltend (unter 30 Sekunden) oder anhaltend andauernd.
+
+
+=== Vorhof (supraventrikuläre Rhythmusstörungen) ===
+Extrasystolen
+Vorhofflimmern
+Bradyarrhythmia absoluta
+Tachyarrhythmia absoluta
+Vorhofflattern
+Supraventrikuläre Tachykardie
+Sinuatrialer Block (SA-Block)
+
+
+=== Kammer (ventrikuläre Rhythmusstörungen) ===
+Ventrikuläre Extrasystolen
+Akzelerierter idioventrikulärer Rhythmus
+Ventrikuläre Tachykardie (Kammertachykardie), Sonderform: Torsade-de-pointes-Tachykardie
+Kammerflattern
+Kammerflimmern
+
+
+=== Erregungsbildungs- und Erregungsleitungssystem ===
+Sick-Sinus-Syndrom (SSS, Syndrom des kranken Sinusknotens)
+darunter z. B.: Bradykardie-Tachykardie-Syndrom
+(Pathologische) Sinusbradykardie
+Karotissinus-Syndrom
+Supraventrikuläre Tachykardie
+Atrioventrikuläre Blockierungen (AV-Block)
+AV-Knoten-Reentrytachykardie (AVNRT)
+Wolff-Parkinson-White-Syndrom (WPW-Syndrom)
+Ventrikulärer Ersatzrhythmus
+
+
+== Symptome ==
+Herzrhythmusstörungen kommen häufig vor. Gesunde bemerken manchmal ein Herzstolpern (Palpitationen) oder kurzzeitiges Aussetzen des Herzschlags, verursacht durch Extraschläge. Bei der Arrhythmie unterscheidet man verschiedene Formen (die respiratorische Arrhythmie, die absolute Arrhythmie, die Extrasystolie und atrioventrikuläre Leitungsstörungen). Herzrasen wie bei schnellem Vorhofflimmern oder bei einer AVNRT wird häufig als regelmäßiges oder unregelmäßiges Klopfen „bis in den Hals“ beschrieben. Ist ein Herz vorgeschädigt, kann sich, bedingt durch die zu hohe Herzfrequenz, eine bestehende Herzschwäche verschlechtern. Dies kann sich beispielsweise durch Luftnot äußern. In ausgeprägten Fällen kann ein Lungenödem resultieren. Auch Herzschmerzen (Angina Pectoris) können vorkommen sowie eine Verschlechterung von Symptomen einer vorbestehenden schlechten Hirndurchblutung (Desorientierung, Schwindel, Krampfanfall, vorübergehende Sprach- und Sehstörungen).
+Liegt eine langsame (bradykarde) Rhythmusstörung (Bradyarrhythmie) vor (SSS, SA-Block, AV-Block) können Schwindel, Kollapszustände bis hin zu vollständiger Ohnmacht (Synkope, etwa als Adams-Stokes-Anfall) resultieren. In seltenen Fällen kann auch eine tödliche Asystolie bei einem AV-Block III° ohne Ersatzrhythmus vorkommen.
+Bei gefährlichen Herzrhythmusstörungen wie einer ventrikulären Tachykardie ist die Auswurfleistung des Herzens meist so stark eingeschränkt, dass ein ausreichender Kreislauf nicht mehr möglich ist, die Patienten verlieren das Bewusstsein. Eine mechanisch fehlende Herzaktion liegt bei Kammerflattern oder -flimmern mit vollständigem Kreislaufstillstand (Asystolie) vor. Treten diese Rhythmusstörungen ohne vorab erkennbaren Grund auf, spricht man vom plötzlichen Herztod.
+
+
+== Diagnostik ==
+
+Es gibt verschiedene Arten und Formen von Herzrhythmusstörungen, zu deren Diagnostik besonders das EKG (Elektrokardiogramm) - und hier wiederum vor allem das Langzeit-EKG - dient. Falls mit diesen Mitteln die Rhythmusstörung nicht ausreichend diagnostiziert werden kann, ist unter Umständen eine so genannte elektrophysiologische Untersuchung notwendig.
+Die Erkennung der Ursache ist Voraussetzung für eine richtige Therapie.
+
+Anamnese (v. a. Medikamente, Vorerkrankungen und/oder bestehende Erkrankungen, Familienanamnese)
+Ruhe-EKG (Erfassung aktuell vorhandener HRS) und Langzeit-EKG (Erfassung tageszeitlich bzw. situationsbedingter HRS), ggf. Eventrekorder (Erfassung vereinzelt auftretender Episoden)
+Ergometrie (Erfassung von belastungsinduzierten HRS und von Anomalien des Herzfrequenzanstiegs z. B. beim Sick-Sinus-Syndrom)
+Elektrophysiologische Untersuchung (invasiv, aber sehr präzise z. B. mittels Mapping-Katheter); Erfassung ektoper Foci, akzessorischer Leitungsbahnen (z. B. Mahaim-Fasern oder Kent-Bündel beim WPW-Syndrom)
+Echokardiografie
+Pharmakologische Tests (z. B. Ajmalintest zur Diagnose eines Brugada-Syndroms)
+
+
+== Ursachen ==
+
+
+=== Angeborene Ursachen ===
+Kardiomyopathien
+Akzessorische (überzählige) Leitungsbahnen (WPW-Syndrom, AVNRT)
+Ionenkanalstörungen (Brugada-Syndrom, angeborenes Long-QT-Syndrom)
+angeborene Herzfehler (Vitien mit Druck- oder Volumenbelastungen des Herzens)
+Syndrome mit Herzrhythmusstörungen als wesentliches Merkmal wie Ogden-Syndrom
+
+
+=== Erworbene Ursachen ===
+Herzmuskelschädigung
+nach Herzinfarkt
+Herzklappenerkrankungen, häufig die erworbene Mitralinsuffizienz
+Hypertensive Herzkrankheit
+nach herzchirurgischen Eingriffen
+Herzmuskel- und Herzbeutelentzündung (Myokarditis, Pericarditis)
+toxische Dilatative Kardiomyopathie
+
+
+=== Andere (extrakardiale) Ursachen ===
+Hyperthyreose
+Elektrolytstörungen (Kalium, Magnesium, Calcium)
+Medikamente (Katecholamine, Antiarrhythmika, Herzglykoside, Trizyklische Antidepressiva, einige Antibiotika)
+Stromunfall
+Karotissinussyndrom (auch „Hyperreaktiver Karotissinus“)
+psychovegetativ (Angst, Stress, Übermüdung, erhöhter Vagotonus)
+Holiday Heart Syndrom
+Hypoxie
+Roemheld-Syndrom
+
+
+== Therapie ==
+Herzrhythmusstörungen bedürfen einer Therapie nur beim Herzkranken. Hierzu zählen angeborene oder erworbene Herzmuskelerkrankungen, aber auch vorübergehende Erkrankungen wie Herzmuskelentzündungen und das Holiday Heart Syndrom. Die häufigsten beim Herzgesunden zu findenden Rhythmusstörungen sind Extrasystolen. Diese sind gutartig und sollten nicht im Sinne einer „Kosmetik des EKGs“ medikamentös behandelt werden.
+
+
+=== Magnesium ===
+Magnesium kommt wegen seiner antiarrhythmischen Eigenschaften in der Therapie von Herzrhythmusstörungen zum Einsatz. Zu dessen wichtigsten Wirkmechanismen zählen die Aufrechterhaltung des Elektrolytgleichgewichts in den Herzmuskelzellen, die Erhöhung der Reizschwelle, der Calcium-Antagonismus sowie die Minderung der Freisetzung von Neurotransmittern und Mediatoren (z. B. Noradrenalin, Adrenalin), wodurch eine Arrhythmie präventiv verhindert oder eine bestehende Herzrhythmusstörung relativ nebenwirkungsfrei (durch orale Gabe) beseitigt werden kann. Einzige Kontraindikation bei oraler Verabreichung ist eine schwere Niereninsuffizienz, wobei eine kontrollierte Dosisanpassung erwogen werden kann.
+
+
+=== Medikamentös ===
+Abhängig von der Art der Rhythmusstörung werden frequenzregulierende und -stabilisierende Medikamente, sogenannte Antiarrhythmika (Adenosin, Ajmalin, Amiodaron, Atropin, Betablocker, Digitalis, Flecainid, Calciumantagonist vom Verapamil- oder Diltiazem-Typ u. a.) gegeben.
+
+
+=== Elektrisch ===
+Bereits 1890 setzte Guillaume-Benjamin Duchenne galvanische Ströme zur Behandlung der Bradykardie eines Diphtheriekranken ein. Paul Maurice Zoll therapierte 1952 den Herzstillstand eines Menschen durch transthorakale Elektrostimulation. Bei zu langsamem Herzschlag wird seit 1958 ein Herzschrittmacher implantiert, bei immer wieder auftretenden gefährlichen Rhythmusstörungen ein implantierbarer Defibrillator (ICD). Zur Wiederherstellung eines normalen Herzrhythmus (Sinusrhythmus) kann bei Vorhofflattern und -flimmern und ventrikulärer Tachykardie von außen ein elektrischer Reiz auf den Körper ausgeübt werden (elektrische Kardioversion). Liegt ein Kammerflimmern vor, spricht man bei Verwendung höherer Energie von einer Defibrillation.
+
+
+=== Invasiv ===
+Treten bösartige Rhythmusstörungen im Rahmen einer Verschlechterung einer koronaren Herzkrankheit (KHK) auf, so gilt es, die Durchblutung des Herzens mittels Herzkatheter oder Bypass-Operation zu verbessern. Einige Rhythmusstörungen (AVNRT, WPW-Syndrom, Vorhofflattern und -flimmern) können durch Katheterablation beseitigt werden.
+
+
+=== Sonstige ===
+Extrakardiale Ursachen sollten kausal durch Behandlung der Grundkrankheit (Hyper-, Hypothyreose, Elektrolytstörung, Intoxikation) behandelt werden. Supraventrikuläre schnelle Herzrhythmusstörungen können durch Anheben des Vagotonus mit Hilfe des Valsalva-Manövers oder Carotisdruckversuch beeinflusst werden.
+
+
+== Literatur ==
+Christian Mewis, Reimer Riessen, Ioakim Spyridopoulos (Hrsg.): Kardiologie compact. 2., unveränderte Auflage. Thieme, Stuttgart / New York 2006, ISBN 3-13-130742-0. 
+Heiner Greten, Tim Greten, Franz Rinninger: Innere Medizin. Thieme, 2010, ISBN 978-3-13-162183-2 (eingeschränkte Vorschau in der Google-Buchsuche). 
+Hans-Georg Gieretz: Begutachtung in der Kardiologie. ecomed-Storck, 2010, ISBN 978-3-609-16425-0 (eingeschränkte Vorschau in der Google-Buchsuche). 
+Britt-Maria Beckmann et al.: Erbliche Herzrhythmusstörungen: Diagnostik, Therapie und Prävention. In: Deutsches Ärzteblatt International. Band 108, Nr. 37, 2011, S. 623–634 (Übersichtsarbeit). 
+Berndt Lüderitz, unter Mitarbeit von Bruno Inhester: Geschichte der Herzrhythmusstörungen. Von der antiken Pulslehre zum implantierbaren Defibrillator. Berlin/ Heidelberg u. a. 1993.
+Reinhard Larsen: Anästhesie und Intensivmedizin in Herz-, Thorax- und Gefäßchirurgie. (1. Auflage 1986) 5. Auflage. Springer, Berlin/ Heidelberg/ New York u. a. 1999, ISBN 3-540-65024-5, S. 71–74.
+Wilhelm Haverkamp, Günter Breithardt: Moderne Herzrhythmustherapie. Thieme, Stuttgart 2003, ISBN 3-13-1262818.
+Susanne Hahn: Herzrhythmusstörungen. In: Werner E. Gerabek, Bernhard D. Haage, Gundolf Keil, Wolfgang Wegner (Hrsg.): Enzyklopädie Medizingeschichte. De Gruyter, Berlin  New York 2005, ISBN 3-11-015714-4, S. 584 f.
+Anne Paschen: Herz. In: Jörg Braun, Roland Preuss (Hrsg.): Klinikleitfaden Intensivmedizin. 9. Auflage. Elsevier, München 2016, ISBN 978-3-437-23763-8, S. 185–283, hier: S. 223–237 (Herzrhythmusstörungen).
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==

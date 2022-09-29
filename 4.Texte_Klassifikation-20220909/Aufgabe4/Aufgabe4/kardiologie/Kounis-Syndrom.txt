@@ -1,0 +1,27 @@
+Beim Kounis-Syndrom (Syn.: allergische Angina Pectoris, allergischer Herzinfarkt, allergisches akutes Koronarsyndrom) handelt es sich um eine Enge eines Herzkranzgefäßes auf dem Boden einer allergischen Reaktion.
+
+
+== Geschichte ==
+Seit den 1950er Jahren wurde im Rahmen von Fallberichten immer wieder von akuten koronaren Ereignisse in Zusammenhang mit allergischen Reaktionen berichtet. 1991 wurde von Kounis und Zavras der Begriff der allergischen Angina Pectoris geprägt.
+
+
+== Klinisches Bild ==
+Das Kounis-Syndrom geht, neben den typischen Beschwerden einer Allergie (Juckreiz, Nesselsucht), mit Beschwerden im Sinne einer Angina Pectoris (Brustschmerz, Luftnot) sowie entsprechenden EKG-Veränderungen einher. Bei länger anhaltender Sauerstoffunterversorgung des Herzmuskels kommt es zum Anstieg der infarkttypischen Herzenzyme. Auch Hypotonie und Bradykardie bis hin zum Schock und Kreislaufstillstand können vorkommen. In der Akutsituation ist schwer abgrenzbar, ob Letzteres Ausdruck der systematischen Reaktion auf die Allergie oder auf die Minderdurchblutung des Herzmuskels ist.
+
+
+== Einteilung ==
+Beim Kounis-Syndrom Typ I findet sich in der Koronarangiographie ein unauffälliges Gefäßsystem. Es kommt bei Patienten ohne relevante kardiovaskuläre Risikofaktoren und auch bei Kindern und Jugendlichen vor. Als Ursache wird von einer endothelialen Dysfunktion ausgegangen.
+Der Typ II findet sich bei Menschen mit typischem Gefäßrisikoprofil. In der Koronarangiographie können zumindest Wandveränderungen nachgewiesen werden. Beim Ereignis kommt es durch Ausschüttung vasoaktiver und plättchenaktivierender Botenstoffe zu einem Einreißen von Plaques. An den Wandverletzungen bilden sich Blutgerinnsel die in der Folge das Herzkranzgefäß verschließen und so einen Herzinfarkt auslösen.
+Seit 2010 werden allergisch getriggerte Probleme mit Gefäßstützen wie Stent-Thrombosen als Typ III bezeichnet. Eine Nickelallergie scheint hier ein führendes Problem darzustellen, aber auch mögliche Allergien auf andere Komponente wie die Medikamentenbeschichtung bei DEStents.
+
+
+== Therapie ==
+Die möglichst zeitgleiche Behandlung von Allergie und akutem Koronarsyndrom kann herausfordernd sein. Neben Kortikosteroiden und Antihistaminika kann die Verwendung von Adrenalin und großen Mengen Flüssigkeit zur Behandlung der allergischen Reaktion bei zeitgleichem kardiogenen Schock problematisch sein.
+Beim akuten Koronarsyndrom wird invasive Diagnostik empfohlen. Bei nachgewiesener Spastik des Gefäßsystems werden gefäßerweiternde Medikamente (Nitroglycerin, Calciumantagonisten), ggf. direkt intracoronar, verwendet. Eine Herzkatheteruntersuchung kann evtl. verzichtbar sein, wenn man beispielsweise bei einem Kind mit hoher Wahrscheinlichkeit von einem Kounis-Syndrom Typ I ausgehen kann. Vor der Verwendung von beschichteten Stents wird eine Epikutantestung auf die entsprechenden Bestandteile empfohlen.
+
+
+== Quellen ==
+Der allergische Myokardinfarkt – Kounis-Syndrom; J. Kraus et al.; J Kardiol 2012; 19 (5–6): 118–22
+
+
+=== Einzelnachweise ===

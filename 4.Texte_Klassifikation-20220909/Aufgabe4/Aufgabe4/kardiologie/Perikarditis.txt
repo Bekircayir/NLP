@@ -1,0 +1,76 @@
+Als Perikarditis (auch Herzbeutelentzündung), in älteren Texten und noch in Zusammensetzungen auch Pericarditis, bezeichnet man in der Medizin eine Entzündung des bindegewebigen Herzbeutels (Perikard). Häufig findet man begleitend einen Perikarderguss, später auch Fibrosierungen und Verkalkungen, was eine erhebliche Beeinträchtigung der Herzfunktion zur Folge haben kann.
+Fast immer sind auch direkt unterhalb des Perikards liegende Schichten des Herzmuskelgewebes (Myokard) in unterschiedlich starker Ausprägung von der Entzündung mitbetroffen (Perimyokarditis). Ist auch die Innenschicht des Herzens (Endokard) beteiligt, spricht man von einer Pankarditis.
+
+
+== Symptome ==
+Das Hauptsymptom der akuten Perikarditis ist oft ein stechender Schmerz hinter dem Brustbein (retrosternal), der sich im Liegen, bei Bewegung, tiefer Atmung und Husten verstärkt und eventuell von Fieber und Tachypnoe begleitet wird. Das sind typische Zeichen einer akuten Pericarditis sicca (trockene Perikarditis), auch Pericarditis fibrinosa genannt, die oft zu Beginn der Erkrankung vorliegt. Dabei finden sich lediglich entzündliche Auflagerungen im Kontaktbereich der beiden Perikardblätter. Beim Abhören (Auskultation) mit dem Stethoskop fällt in diesem Falle ein schabendes Reibegeräusch (genannt perikardiales Reibegeräusch) über dem Herzen auf.
+Erstmals wissenschaftlich beschrieben wurde die fibrinöse Perikarditis, die bis ins Mittelalter als Erscheinungsform des im Mythos mit Stärke und Tapferkeit in Verbindung gebrachten Cor villosum („behaartes Herz“) angesehen wurde, in der Renaissance von Antonio Benivieni, der somit erstmals pathophysiologische Zusammenhänge der entzündlichen Herzbeutelveränderungen erkannte.Tritt eine ausgeprägte Flüssigkeitsansammlung im Herzbeutel auf – ein Perikarderguss –, so spricht man von einer akuten exsudativen Perikarditis (Pericarditis exsudativa, „feuchten Perikarditis“). Hierbei sind die schmerzhaften Beschwerden und auch die Geräuschbefunde typischerweise wenig ausgeprägt. Insgesamt ist die feuchte Verlaufsform häufiger als die trockene und spricht eher für eine infektiöse Ursache (Viren, Tuberkulose) der Entzündung. Durch die Flüssigkeitsmenge kann die normale Herzfunktion so weit eingeschränkt werden, dass es zur Herz-Kreislauf-Insuffizienz und im Extremfall zum Schock kommen kann.
+
+
+== Einteilung ==
+akute Perikarditis
+seröse Perikarditis
+fibrinöse Perikarditis
+eitrige Perikarditis
+hämorrhagische Perikarditis
+tuberkulöse (käsige) Perikarditischronisch-rezidivierende Perikarditis
+Concretio pericardii (adhäsive Perikarditis)
+Accretio pericardiichronisch-konstriktive Perikarditis
+Constrictio pericardii (konstriktive Perikarditis, Panzerherz)Bildet sich eine Pericarditis exsudativa nicht zurück, kommt es zu einer Pericarditis adhaesiva mit Verwachsungsstörungen, Schwartenbildungen oder Verschwielungen. Bei ausgedehnten Verschwielungen spricht man von einer Pericarditis constrictiva, zu deren operativer Behandlung Ludolph Brauer und Edm. Delmore 1902 die Kardiolyse vorgeschlagen haben. Die Concretio pericardii bezeichnet strangförmige Verwachsungen zwischen Epi- und Perikard, die Accretio pericardii eine Verwachsung des Perikards mit der Umgebung (Mediastinum), wodurch es seine Lage kaum an Bewegungen anpassen kann. Die constrictio pericardii schließlich bezeichnet ein Panzerherz, das sich durch eine flächenhafte Obliteration des Herzbeutels z. T. mit Verkalkungen auszeichnet.
+Die Pericarditis constrictiva calcarea („Panzerherz“), kurz Pericarditis calcarea, kann in vielen Fällen durch eine operative Entfernung des verkalkten Herzbeutels (Perikardektomie) erfolgreich behandelt werden. Ein Hinweis auf die Erkrankung liefert das sog. Kussmaul-Zeichen, bei dem der Jugularvenenpuls bei Inspiration im Falle einer konstriktiven Perikarditis zunimmt. Die endgültige Diagnosestellung gelingt heutzutage mittels Echokardiographie (inkl. Gewebedoppler-Echokardiographie, TDI), Computertomographie und Kernspintomographie sehr zuverlässig.
+
+
+== Ursachen ==
+Grundsätzlich kann man infektiöse von nichtinfektiösen Ursachen unterscheiden. In etwa 80 % aller Fälle werden Viren als Auslöser angenommen, auch wenn sie sich keiner eindeutigen Ursache zuordnen lassen.
+
+
+=== Infektiöse Perikarditis ===
+
+Für die infektiöse Perikarditis sind in erster Linie Viren (Coxsackie A und B, Adenoviren, Echoviren u. a.) verantwortlich. Seltener können auch Bakterien (bei eitrigen Infektionen am häufigsten Staphylococcus aureus, Streptokokken, Pneumokokken und Haemophilus influenzae, früher häufig Mykobakterien im Rahmen einer Tuberkulose) oder im Rahmen einer Sepsis und selten (etwa unter immunsuppressiver Therapie) auch Pilze (Candida, Aspergillus) verantwortlich sein. Bei HIV-Patienten kommen die Mykobakterien Mycobacterium tuberculosis und Mycobacterium avium-intracellulare vor.
+
+
+=== Nichtinfektiöse Perikarditis ===
+Als Ursachen der nichtinfektiösen Perikarditis kommen unterschiedliche Grunderkrankungen in Frage. Sie kann als Komplikation eines Herzinfarktes (Pericarditis epistenocardica) auftreten (siehe Dressler-Syndrom). Dabei unterscheidet man eine frühe, die innerhalb von 24 bis 48 Stunden auftritt, von einer späten Form, die erst Wochen bis Monate nach dem Herzinfarkt klinisch manifest wird.
+Autoimmunerkrankungen wie der systemische Lupus erythematodes, das rheumatische Fieber, die rheumatoide Arthritis oder die Sarkoidose werden auch regelmäßig als Auslöser der Herzbeutelentzündung angegeben, wobei dann zusammen mit dem Perikard häufig auch Endokard und Herzmuskel (Myokard) mit betroffen sind.Seltener tritt die Perikarditis im Zuge allergischer Reaktionen (Serumkrankheit, Arzneimittelallergie), bei Urämie (im finalen Stadium) im Rahmen einer Niereninsuffizienz oder nach Schädigungen durch ein Trauma oder eine Strahlentherapie auf.
+Karzinome im Bereich des Herzens können ebenso zu einer Entzündungsreaktion des Perikards führen wie fortgeschrittene Stoffwechselerkrankungen (Schilddrüsenunterfunktion mit Myxödem, Diabetes mellitus o.a.) oder auch herzchirurgische Eingriffe.
+In der Tiermedizin tritt eine Perikarditis vor allem bei Rindern infolge von die Haube perforierenden Fremdkörpern auf.
+
+
+== Diagnose ==
+Bei der Auskultation findet sich ein schabendes Reibegeräusch, das typischerweise mit dem Ausbilden eines Perikardergusses verschwindet.
+Im EKG findet sich ein stadienhafter Verlauf: Initiale ST-Hebungen mit Anhebung des J-Punktes in vielen Ableitungen gehen im Verlauf wieder zurück. Im Zwischenstadium zeigen sich Abflachungen der T-Wellen, denen terminale T-Negativierungen folgen, die sich aber meist komplett zurückbilden. Bei einem Perikarderguss ist eventuell eine periphere Niedervoltage zu sehen.
+In der Echokardiographie kann man auch kleinste Ergussmengen erkennen, zusätzlich finden sich Verdickungen des Perikards sowie Binnenechos als Hinweis auf Eiteransammlungen.
+Der Röntgen-Thorax ist nur bei ausgeprägten Ergussmengen auffällig.
+Eine Perikardpunktion könnte bei Verdacht auf eine bakterielle Infektion zur Erregerdiagnostik durchgeführt werden, entartete Zellen lassen auf einen Tumor schließen.
+
+
+== Therapie ==
+Als Basismaßnahmen sind im Krankenhaus Bettruhe sowie klinische und echokardiografische Überwachung angezeigt. Gegen die Brustschmerzen können Schmerzmittel verabreicht werden.
+Weitere, spezielle Maßnahmen hängen von Krankheitsbild und Ursache ab.
+Bei einer drohenden Herzbeuteltamponade (siehe Komplikationen) wird zur Entlastung mit einer Perikardpunktion die angesammelte Flüssigkeit entfernt. Bei immer wiederkehrenden, schweren Ergussbildungen kann auch eine operative Fensterung des Herzbeutels notwendig werden: Durch einen kleinen Schnitt in den Herzbeutel wird dann die Flüssigkeit dauerhaft in das Rippenfell geleitet.
+Bei einer Virusinfektion werden über drei Monate nichtsteroidale Antiphlogistika und Colchicin gegeben. Glukokortikoide sollten entgegen früherer Praxis möglichst vermieden werden, da sich herausgestellt hat, dass sie zu einer erhöhten Rate von rezidivierenden Perikardergüssen führen. Ihre Verabreichung ist nur noch dann angezeigt, wenn trotz einer Behandlung mit nichtsteroidalen Antiphlogistika und Colchicin keine Besserung eintritt oder wenn eine entzündliche Grunderkrankung bekämpft werden soll.Die Gabe von Antibiotika (zum Beispiel Doxycyclin bei seröser Perikarditis) erfolgt bei bakteriellen Infektionen – wenn möglich gezielt nach Erregernachweis (ansonsten „blind“ kalkuliert, etwa mit Ceftriaxon, Cefotaxim, Ceftriaxon in Kombination mit Metronidazol, auch Imipenem oder Meropenem kommen in Frage). Antimykotika werden bei Pilzerkrankungen verabreicht.
+Bei den anderen Formen wird die jeweilige Grunderkrankung behandelt, z. B.: Immunsuppression beim rheumatischen Fieber, Stabilisierung oder Verbesserung von Nieren- oder Schilddrüsenfunktion etc.
+
+
+== Komplikationen ==
+Zwei Komplikationen sind von besonderer Wichtigkeit:
+
+Bei der Herzbeuteltamponade kann es durch große Exsudatmengen des Perikardergusses zur Behinderung der Herzfüllung kommen mit der Folge einer Einflussstauung und eines kardiogenen Schocks. In diesem Fall muss eine sofortige Entlastungspunktion durchgeführt werden.
+Die chronische Perikarditis kann nach Abklingen einer akuten Entzündung des Herzbeutels oder einer unzureichenden Behandlung resultieren. Dabei können sich durch narbige Verwachsungen und Verkalkungen des Herzbeutels ebenfalls Störungen der Ventrikelfüllung ergeben (Perikarditis constrictiva, „Panzerherz“). Die Vernarbungen können in einigen Fällen vom Herzchirurgen abgetragen werden (Ferdinand Sauerbruch operierte in München erstmals ein solches Panzerherz erfolgreich). Die chronische Perikarditis kann zudem eine Einflussstauung und Abflussbehinderung der Lungenvenen bedingen, was eine pulmonale Hypertonie zur Folge hat.
+
+
+== Siehe auch ==
+Epikarditis, die meist im Zusammenhang mit einer Perikarditis auftritt
+
+
+== Literatur ==
+Marianne Abele-Horn: Antimikrobielle Therapie. Entscheidungshilfen zur Behandlung und Prophylaxe von Infektionskrankheiten. Unter Mitarbeit von Werner Heinz, Hartwig Klinker, Johann Schurz und August Stich, 2., überarbeitete und erweiterte Auflage. Peter Wiehl, Marburg 2009, ISBN 978-3-927219-14-4, S. 33 f. (Perikarditis).
+Klaus Holldack, Klaus Gahl: Auskultation und Perkussion. Inspektion und Palpation. Thieme, Stuttgart 1955; 10., neubearbeitete Auflage ebenda 1986, ISBN 3-13-352410-0, S. 120 und 205–208.
+M. C. Savoia, M. N. Oxanan: Myocarditis and Pericarditis. In: Mandell, Douglas, and Bennett’s Principle and Practice of Infectious Diseases. 6. Auflage 2005.
+Herbert Reindell, Helmut Klepzig: Krankheiten des Herzens und der Gefäße. In: Ludwig Heilmeyer (Hrsg.): Lehrbuch der Inneren Medizin. Springer-Verlag, Berlin/Göttingen/Heidelberg 1955; 2. Auflage ebenda 1961, S. 450–598, hier: S. 574–578.
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==

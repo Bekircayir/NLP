@@ -1,0 +1,76 @@
+Die Mitralklappenstenose oder Mitralstenose ist ein Herzklappenfehler, bei dem die Öffnung der Mitralklappe durch eine „Verklebung“ der Mitralklappensegel eingeengt ist. Dadurch kommt es zwischen zwei Herzaktionen (während der Diastole) zu einer gestörten Füllung der linken Herzkammer.
+
+
+== Epidemiologie ==
+Die Mitralklappenstenose ist weltweit einer der häufigsten erworbenen Herzklappenfehler und betrifft Frauen häufiger als Männer. In den Industrieländern konnte die Inzidenz durch den konsequenten Einsatz von Penicillin bei Infektionen mit Streptokokken in der Vergangenheit deutlich abgesenkt werden, so dass sie dort heutzutage seltener auftritt als erworbene Aortenklappenstenosen und Mitralklappeninsuffizienzen.
+In etwa 40 % der Fälle liegt bei einer Mitralstenose zusätzlich eine Aortenstenose vor.
+
+
+== Ätiologie ==
+Die mit Abstand häufigste Ursache einer Mitralstenose ist das rheumatische Fieber und die damit verbundene (verruköse) Endokarditis (Entzündung der Herzinnenhaut; Endocarditis verrucosa rheumatica). Sie tritt typischerweise mit einer Latenzzeit von 20 bis 30 Jahren nach der durchgemachten Fiebererkrankung auf. Eine Endokarditis aufgrund einer bakteriellen Infektion oder angeborene Mitralstenosen (Lutembacher-Syndrom) sind seltener.
+
+
+== Pathophysiologie ==
+
+Die Stenose der Mitralklappe ist durch entzündliche und degenerative Veränderungen der Klappensegel und der Chordae tendineae bedingt. Fibrosen und Verkalkungen führen zu einer fortschreitenden Einschränkung der Dehnungs- und Bewegungsfähigkeit des Klappenapparates.
+Die normale Klappenöffnungsfläche liegt bei 4–6 cm². Verkleinert sich diese Öffnungsfläche um mehr als die Hälfte, kommt es zu hämodynamisch wirksamen Störungen mit der Ausbildung eines Druckgradienten zwischen linkem Vorhof und linker Kammer. Eine Tachykardie führt hierbei, da die Diastole stärker als die Systole verkürzt wird und damit weniger Zeit für den Blutfluss durch die Klappenöffnung zur Verfügung steht, zu einer zusätzlichen Erhöhung dieses Druckgradienten und damit Erhöhung des Drucks im linken Vorhof. Daraus resultiert zum einen eine Dilatation (Dehnung) und bei chronischer Mitralstenose eine Vergrößerung des linken Vorhofs, was das Auftreten von Vorhofflimmern begünstigt und bei schwerer Mitralstenose meist vorhanden ist, und zum anderen durch den behinderte Abfluss aus den Lungenvenen eine pulmonale Hypertonie. Diese wiederum führt bei fortschreitender Erkrankung zu einer Druckbelastung des rechten Herzen und infolge einer Rechtsherzdilatation auch zu einer Rechtsherzinsuffizienz.
+
+
+== Klinik ==
+Ein Leitsymptom ist die Dyspnoe (Atemnot), bedingt durch den Rückstau von Blut in die Lungen. Die Dyspnoe tritt meist erst bei Belastung auf, wenn das Herzminutenvolumen gesteigert wird. Bei schwergradigen Stenosen kann auch eine Ruhedyspnoe auftreten. Ein weiteres Symptom schwergradiger Mitralstenosen können Hämoptysen (Bluthusten) sein, die insbesondere nachts bei intensiver Dyspnoe auftreten. Generell ist die körperliche Leistungsfähigkeit betroffener Patienten vermindert.
+Bei langjährigem unbehandeltem Verlauf können sich ein sogenanntes Mitralgesicht (Facies mitralis) mit „roten Bäckchen“ (sogenannten Mitralbäckchen), eine periphere Zyanose (Akrozyanose) und Zeichen der Rechtsherzinsuffizienz einstellen.
+Manchmal fällt der Blick auf eine Mitralstenose erst durch die Diagnose einer Tachyarrhythmia absoluta bei Vorhofflimmern. Diese tritt bei fortgeschrittenen Mitralstenosen regelmäßig auf und kann diagnostisch wegweisend sein. Häufig ist die Erstmanifestation, welche zu einer Diagnose führt, eine durch das Vorhofflimmern hervorgerufene Thrombembolie.
+
+
+== Diagnostik ==
+Die Verdachtsdiagnose ergibt sich aus Anamnese und Klinik. Das Leitgeräusch bei der Auskultation ist ein niederfrequentes Diastolikum mit Decrescendo-Charakter. Der Punctum maximum liegt im 5. ICR (Zwischenrippenraum) links oder nahe der Herzspitze. Zudem ist ein präsystolisches Geräusch hörbar.
+Weitere bei der Auskultation erfassbare Geräuschphänomene können sein:
+
+paukender (oder „klopfender“) 1. Herzton bei beweglichen Klappensegeln, abgeschwächt bei unbeweglichen Klappensegeln
+2. Herzton links vom Brustbein häufig lauter
+Mitralklappenöffnungston oder Mitralöffnungston (MÖT) als (dritter) Ton vor dem DiastolikumBei der Perkussion zeigt sich eine verstrichene Herztaille.
+
+
+=== Apparative Diagnostik ===
+Die weiteren diagnostisch verwertbaren Veränderungen umfassen unter anderem:
+
+Röntgen-Thorax: Im Röntgen-Thorax zeigt sich eine Vergröberung der linksseitigen Herztaille, die durch eine Vorbuchtung des linken Vorhofs und des linken Herzohres verursacht wird. Im seitlichen Bild kann sich nach Ösophagusbreischluck eine Einengung des Ösophagus durch den linken Vorhof zeigen. Eventuell sind als Zeichen der pulmonalen Hypertonie basal Kerley-B-Linien und eine Verengung des retrosternalen Raumes festzustellen.
+EKG: Im EKG zeigt sich häufig eine überhöhte bzw. zweigipflige P-Welle (p mitrale) als Ausdruck der Vorhofdilatation. Ein Vorhofflimmern oder Vorhofflattern kann ebenfalls vorliegen. Zeichen der Rechtsherzbelastung treten in Form eines Steiltyps bzw. Rechtstyps der Herzachse erst im fortgeschrittenen Verlauf auf.
+Echokardiographie: Die Echokardiographie und Doppler-Echokardiographie erlauben sowohl die Bestimmung der Klappenöffnungsfläche, als auch die Berechnung des Druckgradienten. Zudem kann eine eventuell begleitend vorliegende Mitralinsuffizienz gesichert werden.
+Rechtsherzkatheteruntersuchung: Bei der Rechtsherzkatheteruntersuchung und zusätzlicher ergometrischer Belastung steigt der pulmonale Druck über das normale Maß hinaus an.
+Linksherzkatheteruntersuchung: Die Linksherzkatheteruntersuchung erlaubt eine direkte Bestimmung des Druckgradienten und der Klappenöffnungsfläche. Dazu kann der Druck im linken Ventrikel und zusätzlich der Wedge-Druck (mittels Pulmonaliskatheter) bestimmt werden.
+
+
+=== Klassifikation des Schweregrades ===
+Eine Mitralstenose kann nach Bestimmung der Klappenöffnungsfläche (KÖF) in drei Schweregrade eingeteilt werden.
+Mild: KÖF größer als 1,5 cm²
+Moderat: KÖF 1,0 bis 1,5 cm²
+Schwer: KÖF kleiner als 1,0 cm²Daneben besteht die Möglichkeit einer komplexeren Klassifikation:
+
+
+== Therapie ==
+Die therapeutischen Optionen umfassen die konservative Kontrolle der Komplikationen und die operative (alternativ per Katheter) Korrektur der Stenose.
+Bei leichter Mitralstenose kann eine konservative Therapie durch körperliche Schonung und die Gabe von Diuretika (entwässernde Mittel) erfolgen. Liegt zusätzlich ein relevanter pulmonaler Hypertonus vor, kann eine Therapie mit Vasodilatantien (gefäßerweiternde Stoffe, z. B. Nitrate) hilfreich sein.
+Liegt ein rezidivierendes Vorhofflimmern mit Risiko einer kardialen Embolie vor, kann eine Antikoagulation mit Marcumar erfolgen. Bei schneller Überleitung des Vorhofflimmerns auf die Kammern mit der Gefahr eines Lungenödems können Digitalisglykoside und Betablocker oder Verapamil zur Frequenzkontrolle eingesetzt werden.
+ACE-Hemmer sind kontraindiziert.
+Vor blutigen Eingriffen und bei fieberhaften Infekten sollten Antibiotika zur Prophylaxe einer Endokarditis eingenommen werden.
+Während Operation und Narkose von Patienten mit Mitralstenose sollte die Herzfrequenz eher niedrig (zwischen 60 und 80 Schläge/min) und die linksventrikuläre Vorlast eher hoch gehalten werden.Eine operative oder interventionelle Therapie ist in jedem Fall bei starker Symptomatik und einer schwergradigen Mitralstenose sinnvoll. Eine Intervention sollte nicht zu lange hinausgezögert werden, da die Prognose einer Mitralstenose sonst auch nach operativer Therapie verschlechtert wird.
+Als operative/interventionelle Verfahren stehen zur Verfügung:
+
+Mitralklappenvalvuloplastie (Aufdehnung per Ballonkatheter)
+Mitralklappenkommissurotomie (als geschlossene oder offene Kommissurotomie)
+Mitralklappenrekonstruktion
+Mitralklappenersatz (biologische oder mechanische Klappe)Bereits um das Jahr 1900 hielten die englischen Kardiologen Samways (1898) und Thomas Lauder Brunton (1902) eine chirurgische Behandlung der Mitralstenose für möglich. Eine, nach wenig erfolgreichen Behandlungsversuchen im Jahr 1923 durch Elliott C. Cutler, 1925 durch den britischen Chirurgen Henry Souttar durchgeführte, übliche manuelle Dehnung (meist hatte der Kleinfinger das richtige Maß) mit „digitalem“ Zugang durch das Herzohr wird heute praktisch nicht mehr durchgeführt.
+
+
+== Prognose ==
+Generell ist die Prognose der Mitralklappenverengung  besser als die anderer Herzklappenfehler. In schweren Stadien ist allerdings die Lebenszeit der Patienten ohne Behandlung deutlich verkürzt. Im Stadium NYHA III leben ohne Behandlung nach fünf Jahren noch rund 60 % der Patienten. Im höchsten Stadium NYHA IV noch rund 15 %. Führende Todesursachen sind die Insuffizienz des rechten Herzens, ein aus der Druckerhöhung im linken Vorhof resultierendes Lungenödem sowie Embolien. Die Fünf-Jahres-Überlebensrate kann durch adäquate chirurgische Therapie auf über 80 % gesteigert werden. Die Operation beinhaltet aber auch das Risiko während dieser zu versterben. Es liegt je nach Methode und Studie zwischen einem und fünf Prozent. Die Kommissurotomie ist dabei risikoärmer als ein Klappenersatz.
+
+
+== Literatur ==
+Gerd Herold u. a.: Innere Medizin – Eine vorlesungsorientierte Darstellung. 2005.
+Reinhard Larsen: Anästhesie und Intensivmedizin in Herz-, Thorax- und Gefäßchirurgie. (1. Auflage 1986) 5. Auflage. Springer, Berlin/Heidelberg/New York u. a. 1999, ISBN 3-540-65024-5, S. 223–235.
+Klaus Holldack, Klaus Gahl: Auskultation und Perkussion. Inspektion und Palpation. Thieme, Stuttgart 1955; 10., neubearbeitete Auflage ebenda 1986, ISBN 3-13-352410-0, S. 148–157, 171 f., 178 f. und 196 f.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,148 @@
+Unter einer Infektion (wohl neuzeitliche Sekundärbildung aus lateinisch īnficere  ‚anstecken‘, ‚vergiften‘; wörtlich ‚hineintun‘), auch Ansteckung, versteht man das aktive oder passive Eindringen, Verbleiben und anschließende Vermehren von pathogenen Lebewesen (z. B. Bakterien, Pilze, Parasiten), oder pathogenen Molekülen (z. B. Viren, Transposons und Prionen), in einem Organismus, meistens konkreter von Krankheitserregern in einem Wirt. Krankheiten, die durch Pathogene ausgelöst werden, bezeichnet man als Infektionskrankheiten. Das absichtliche Einbringen von Mikroorganismen in ein Nährmedium wird als Inokulation und das unbeabsichtigte Eindringen als Kontamination bezeichnet. Im übertragenen Sinne wird auch die Einbringung von Schadsoftware in einen Computer als Infektion bezeichnet.
+Infektionen werden grundlagenwissenschaftlich von der Infektionsbiologie erforscht und von der klinischen Infektiologie behandelt. Die statistische Erfassung von Infektionskrankheiten in einer Population ist ein Teilbereich der Epidemiologie.
+Der Nachweis des Zusammenhangs zwischen einem Infektionserreger und einer Infektionskrankheit wird bis heute durch Überprüfung der Henle-Koch-Postulate erbracht. Der Nachweis eines Erregers oder der Immunreaktion in einem Wirt erfolgt durch eine abgestufte Diagnostik.
+
+
+== Pathophysiologie ==
+Infektionen entstehen, wenn Pathogene wie Bakterien, Viren, Pilze, Einzeller (siehe auch Protozoen), Parasiten oder Prionen in den Körper eindringen, anhaften, sich in ihm vermehren und außer bei latenten Infektionen eine Reaktion der körpereigenen Abwehr (Immunsystem) auslösen. Ob es zu einer Vermehrung der Keime kommt und wie heftig die Infektion verläuft, hängt vom Verhältnis zwischen dem Keim („Gast“) und dem Immunsystem des Menschen (Wirt) ab. Bei den meisten Erregern ist für eine Infektion eine bestimmte Anzahl notwendig (Minimale Infektionsdosis), die in den Körper gelangen muss. Häufige Begleiterscheinungen einer Infektion sind Immunreaktionen und eventuell auch eine Pathogenität bis hin zur Letalität, statistisch wird dies in einer Population durch die Morbidität und die Mortalität ausgedrückt.
+Symptome einer Krankheit im Zusammenhang mit einer Infektion bezeichnet man als apparente Infektionskrankheit. Wenn eine Infektion keine Symptome hervorruft, spricht man von einer inapparenten oder auch asymptomatischen Infektion. Derartige Infektionen können dennoch eine Immunreaktion und eine Immunität gegen weitere Infektionen mit dem gleichen Erreger hinterlassen (stille Feiung).
+
+
+== Kolonisation und Symbiose ==
+Eine Infektion unterscheidet sich von einer „Ansiedlung“ oder „Besiedlung“ (Kolonisation) durch kommensale Bakterien und Pilze, welche auf deren Haut bzw. Schleimhäuten leben, ohne in den Organismus einzudringen. Eine derartige Standortflora verdrängt über die Platz- und Nahrungsmittelkonkurrenz sogar pathogene (krankmachende) Keime und bildet dadurch einen sehr wichtigen Teil der Krankheitenabwehr bzw. Krankheitsvermeidung.
+Bei geschädigter Haut oder Schleimhaut oder bei Immunschwäche können allerdings auch diese Keime eine Infektion verursachen (endogene Infektion). In diesem Zusammenhang ist besonders Staphylococcus aureus bedeutend, der sehr häufig kleinere Entzündungen verursacht, aber in Verbindung mit Multiresistenzen und geschwächten Patienten lebensbedrohend wird.
+Tiere benötigen Mikroorganismen zur Verdauung ihrer Nahrung in Darm (und den Vormägen bei Wiederkäuern), so wie manche von diesen ihren Wirt brauchen, um sich zu ernähren und zu vermehren (siehe Symbiose). Meist bleibt diese Symbiose im Gleichgewicht. Es gibt aber Keime, die aus diesem Gleichgewicht ausbrechen und dann gefährlich werden, was als opportunistische Infektion bezeichnet wird. Daneben existieren noch Kommensale, die im Gegensatz zu Symbionten dem Wirt keinen Nutzen erbringen, aber auch nicht in einen gesunden Wirt eindringen.
+
+
+== Koevolution ==
+Eine Beobachtung bei der Pathogenese in natürlichen Wirten ist, dass an den Wirt angepasste Krankheitserreger ihm meist nicht sehr schaden, da sie ihn für ihre eigene Entwicklung benötigen und das Immunsystem durch Zellschäden und Apoptose aktiviert wird. Die Vermeidung einer Immunreaktion erleichtert die Replikation und die Übertragung (synonym Transmission) an weitere Wirte. Beispielsweise erreichen Herpes-simplex-Viren Infektionsquoten (synonym Durchseuchung) von über 90 % der deutschen Bevölkerung mit wenig ausgeprägten Symptomen. Das simiane Immundefizienz-Virus erzeugt in seinen natürlichen Wirten kein AIDS, im Gegensatz zu HIV im Menschen. Dagegen löschen sich Infektionen mit Ebola-Virus im Menschen, nicht aber in ihren natürlichen Wirten, gelegentlich durch ihre hohe Virulenz selbst aus, bevor eine effiziente Transmission erfolgt, da der Wirt stark geschwächt ist und bald verstirbt, folglich ist sein Bewegungsradius und somit die Verbreitung des Virus begrenzt. Ein schwerer Infektionsverlauf mit hoher Sterblichkeit (siehe Letalität und Mortalität) ist zumeist ein Anzeichen dafür, dass der verursachende Erreger noch nicht an den betreffenden Organismus als seinen Reservoirwirt angepasst ist. Jedoch ist der Übergang von Pathogenen mit einer hohen Replikation (und erzeugten Schäden) zu einer dauerhaften Infektionsquote (Infect and persist, unter Vermeidung von Schäden) fließend. Anders ausgedrückt, neigen angepasste infektiöse Objekte zur Persistenz und einer regulierten Reproduktionsrate, während weniger angepasste Pathogene tendenziell zur vorzeitigen Beendigung der Infektionskette führen. Ausnahmen sind z. B. H5N1-Viren in Vögeln, Yersinia pestis und humane Pockenviren im Menschen. Die Anpassung erfolgt jedoch meistens seitens des Wirts, da die Pathogene mit ihren Artgenossen in Konkurrenz stehen und ein weniger reproduktives Pathogen schneller untergehen würde. Daher tritt eine Minderung der Pathogenität bei Pathogenen vor allem in Verbindung mit einer erhöhten Reproduktionsrate auf.Die Anpassung des Wirts an das Pathogen wird als Wirtsrestriktion oder -resistenz bezeichnet. Zu den bekannten antiviralen und antibakteriellen Mechanismen gehören beim Menschen z. B. der Myxovirus-Resistenzfaktor Mx1, die PAMP-Rezeptoren, der dsRNA-aktivierte Inhibitor der Translation DAI, das MDA-5, die Oligoadenylatsynthase OAS1, das Langerin, das Tetherin, das APOBEC3, das TRIM5alpha und die Proteinkinase R. Darüber hinaus erfolgt die Immunantwort.
+
+
+== Kriterien zur Einteilung ==
+Infektionen können nach verschiedenen Gesichtspunkten eingeteilt werden.
+
+
+=== Reihenfolge des Auftretens ===
+ Primärinfektion (Erstinfektion): die erstmalige Übertragung, also der erste Kontakt des Organismus mit einem Krankheitserreger.Sekundärinfektion (Zweitinfektion): eine Erregerübertragung nach der Erstinfektion, zusätzlich und mit anderen Erregern. Eine solche zusätzliche Infektion kann das Immunsystem vor erhebliche Probleme stellen und auch die Therapie und Medikation (Auswahl und Anwendung von Medikamenten) erschweren. Der Verlauf der Erkrankung ist zumeist heftiger und zeigt vielfältige Symptome.
+Superinfektion (Suprainfektion):
+In der Virologie: eine erneute Infektion mit demselben Virus nach einer bereits bestehenden Primärinfektion.
+In der Medizin und Bakteriologie: eine weitere (meist bakterielle) Infektion auf der Grundlage einer (meist viralen) Infektion.Auch eine Superinfektion kann das Immunsystem vor erhebliche Probleme stellen. Therapie und Medikation sind erschwert, der Krankheitsverlauf ist zumeist heftiger mit vielfältigen Symptomen.Doppelinfektion: eine gleichzeitige Übertragung von zwei verschiedenen Erregern.
+Koinfektion: die gleichzeitige Präsenz von mindestens zwei verschiedenen Erregern oder Varianten (Subtypen) des gleichen Erregers.
+Reinfektion: Neuansteckung mit dem gleichen Erreger nach Abheilen einer Erstinfektion (Primärinfektion).
+
+
+=== Infektionsverlauf ===
+
+Transiente Infektion: siehe Hit and Run
+Persistente Infektion: siehe Infect and persist
+Infektionsattribute nach zeitlichem Ablauf der Krankheitserscheinungen:
+foudroyant, perakut: schnell und gefährlich, da nachfolgend schwerer, oft tödlicher Krankheitsverlauf.
+akut: plötzlich beginnend, heftige Auswirkungen
+subakut: weniger heftig
+chronisch: allmählich beginnend, sich länger erstreckend
+rezidivierend: sich wiederholend mit demselben Erreger
+latent, persistierend: über einen langen Zeitraum mit dazwischenliegenden, klinisch stummen Phasen
+
+
+=== Krankheitserreger ===
+Nach ätiologischen Gesichtspunkten werden unterschieden:
+
+Bakterielle Infektion
+Virusinfektion
+Virusoidinfektion
+Prioneninfektion
+Protozoeninfektion
+Wurminfektion
+Parasitäre Infektion
+Pilzinfektion
+Algeninfektion
+
+
+=== Herkunft der Erreger ===
+ Endogene Infektion (Autoinfektion): Der Erreger stammt aus der körpereigenen, normalerweise völlig harmlosen Flora. Er gelangt bei geschwächtem Immunsystem z. B. über die Haut, aus der Lunge oder aus dem Darm in den Blutkreislauf.Exogene Infektion: Der Erreger stammt aus der Umgebung. Vier bedeutende Infektionswege sind:
+Tröpfcheninfektion
+Schmierinfektion (Kontaktinfektion)
+Infektion über Austausch von Körperflüssigkeiten
+Infektion über blutsaugende Insekten
+Nosokomiale Infektion: Die Infektion findet im Krankenhaus, in einer Arztpraxis oder einer anderen medizinischen Einrichtung statt, und der Erreger stammt aus dem für diese Orte typischen Keimspektrum. Häufig zeigen die typischen bakteriellen Erreger aus dem Bereich Arztpraxis oder Krankenhaus – z. B. Pseudomonaden – eine hohe Resistenz gegenüber gebräuchlichen Antibiotika (Medikamente zur antimikrobiellen Therapie von Infektionen). Nosokomiale Infektionen sind zugleich auch iatrogene Infektionen, wenn der Erreger bei der Durchführung medizinischer Eingriffe übertragen wird, beispielsweise durch Katheter oder Intubation.
+Iatrogene Infektion: Wie bei der nosokomialen Infektion wird der Erreger in einer medizinischen Einrichtung bei einem medizinischen Eingriff übertragen (auf den Patienten oder auch auf das Personal), jedoch kann es sich auch um andere als die krankenhaustypischen Erreger handeln. Sollte sich beispielsweise ein Arzt oder das Pflegepersonal im Krankenhaus oder in einer Praxis nach einer intravenösen Injektion bei einem HIV-Patienten hinterher mit der kontaminierten Kanüle verletzen und sich dabei mit HIV infizieren, bezeichnet man dies als iatrogene Infektion, aber nicht als nosokomiale Infektion. Wenn durch Unachtsamkeit ein anderer Patient mit einer kontaminierten Nadel infiziert wird, spricht man ebenfalls von einer iatrogenen Infektion.
+Polymer-assoziierte Infektion: Erreger besiedeln die Kunststoffoberflächen von Kathetern, künstlichen Herzklappen oder künstlichen Gelenken.
+
+
+=== Eintrittspforte der Erreger ===
+Enterale Infektion: Die Krankheitserreger dringen über den Darm in den Organismus ein. Der gesamte Verdauungstrakt (Mund, Rachen, Speiseröhre, Magen und der gesamte Darm) wird dabei als das Innere eines Tunnels betrachtet, das selbst nicht zum Körperinneren gezählt wird. Der Darm, aus dem die Infektionserreger in das eigentliche Körperinnere eindringen, gilt hier als Eintrittspforte.
+Fäkal-orale Infektion: Erreger aus Fäkalien gelangen durch den Mund in den Organismus, z. B. durch verunreinigtes Trinkwasser.
+Parenterale Infektion: Im wörtlichen Sinn handelt es sich um eine Infektion, bei der die Krankheitserreger „am Darm vorbei“, also nicht über den Verdauungstrakt in den Organismus gelangt sind. Im medizinischen Sprachgebrauch ist parenteral gleichbedeutend mit „direkt ins Blut“.
+Perkutane Infektion: Die Erreger gelangen über die Haut in den Organismus.
+Permuköse Infektion: Die Erreger gelangen über die Schleimhäute in den Organismus.
+Inhalationsinfektion: Die Erreger gelangen über die Atemwege in den Organismus.
+Urogenitale Infektion: Die Erreger gelangen über den Harntrakt in den Organismus.
+Genitale Infektion: Die Erreger gelangen über die Geschlechtsorgane in den Organismus.
+Intrauterine Infektion: Die Erreger gelangen während der Schwangerschaft in den Körper des ungeborenen Kindes.
+
+
+=== Ausdehnung der Infektion ===
+Lokalinfektion: Die Erreger bleiben dort, wo sie den Körper zuerst infiziert haben (Eintrittspforte). Sie verursachen nur an dieser Stelle Symptome, ohne sich im Organismus weiter zu verteilen.
+Generalisierte Infektion: Die Erreger vermehren sich zuerst an der Eintrittspforte und gelangen dann über das Blut zu ihren eigentlichen Manifestationsorganen (Befallsorganen). Das sind oft die Leber, Milz, lymphatische Organe, die Haut oder das Nervensystem. An der Eintrittspforte sind die Erreger dann nicht mehr nachweisbar.
+Fokale Infektion (Herdinfektion): eine nach einer lokalen Erregerübertragung durch Bakterien, besonders durch Streptokokken, auftretende nachfolgende (sekundäre) Erkrankung. Die Erreger gelangen von einem Ausgangsherd, der durch eine lokale Infektion im Körper entstanden ist, mit Verzögerung durch septische Metastasierung oder schubweise Ausschüttung aus diesem Ausgangsherd über den Blutkreislauf in entferntere Körperregionen oder Organe und verursachen dort entzündliche oder auch allergische Krankheitsabläufe.
+Systemische Infektion: Die Erreger breiten sich durch Einschwemmung über die Blutbahn über ein gesamtes Organsystem (beispielsweise das Zentralnervensystem) oder den ganzen Organismus aus.
+
+
+=== Symptomauffälligkeit bzw. Abwehrkraft des Organismus ===
+Stumme (symptomlose, asymptomatische, inapparente) Infektion: Wenn das Immunsystem gesund und der Erreger an den Menschen angepasst ist, kommt es nach der Erregerübertragung nicht zum Ausbruch der Krankheit (klinisch nicht manifest, symptomlos). Der Mensch dient dann dem Erreger als Reservoirwirt. Es treten keine Krankheitsanzeichen auf, es findet nur eine stille Feiung statt (Immunisierung ohne Impfung und ohne Erkrankung).
+Subklinische Infektion: Die Abwehrmechanismen überwiegen und verhindern ein Ausbrechen der Krankheit. Durch Ausbildung einer sterilen Immunität oder kurzfristige Resistenzsteigerung wird der Erreger eliminiert. Die Infektion ist zeitlich begrenzt.
+Persistierende Infektion: Der Erreger lebt zeitlich unbegrenzt mit dem Wirt zusammen, die Vermehrung im Organismus ist jedoch begrenzt, Krankheitsanzeichen treten nicht auf. Es gibt mehrere Möglichkeiten: Ausbildung einer Immunität, Steigerung der erregerunspezifischen Immunabwehr, Bildung von Interferon oder Stimulierung der Lymphozyten. Durch negative Beeinflussung (z. B. Stress) oder Immunsuppression (z. B. mit Medikamenten nach Organtransplantation) kann die persistierende Infektion zu einer manifesten Infektion werden (klinische Symptome).
+ Latente Infektion: Zwischen Erreger und Abwehr besteht ein Gleichgewicht, zeitlich unbegrenzt oder so lange, bis einer von beiden überwiegt und entweder die Krankheit ausbricht oder der Erreger abgetötet wird.
+Tolerierte Infektion: Der meist intrauterin (in der Gebärmutter) erworbene Erreger kann sich vermehren und anschließend während des ganzen Lebens ausgeschieden werden. Der Wirt erkrankt jedoch nicht, es sei denn, seine Immuntoleranz geht verloren.
+Okkulte (maskierte) Infektion: Eine Erregerinvasion hat stattgefunden, die Erreger sind jedoch weder direkt noch indirekt nachweisbar. Bei Symptomen ungeklärter Ursache wie Schmerzen und Fieber kann eine solche versteckte Infektion vermutet werden. Ein Virus kann unter Umständen bei einer Zellteilung auf Tochterzellen übertragen werden und sein Genom persistiert in der Wirtszelle, ansonsten ist es aber nicht übertragbar (zeitweilig oder dauerhaft). So wird z. B. eine HBV-Infektion beim Menschen mit nicht nachweisbarem Hepatitis-B-Antigen (HBsAg) als okkulte Infektion bezeichnet.
+Abortive Infektion: Erregerübertragung mit nur leichten Krankheitserscheinungen.
+Manifeste (apparente, klinische) Infektion: Erregerübertragung mit deutlichem Ausbruch der Infektionskrankheit (klinische Symptome).
+Opportunistische Infektion: Erregerübertragung bei schon erkrankten Menschen mit Immunschwäche, die bei gesunden Menschen mit normalem Immunsystem nicht zu einer Erkrankung führen würde. Die Erreger machen sich die erworbene Abwehrschwäche des Körpers zunutze.
+
+
+=== Weitere Unterscheidungen ===
+
+
+==== Infektionsort (geographisch) ====
+Autochthone Infektion: eine Infektion vor Ort mit dem jeweiligen Erreger
+Allochthone Infektion: eine von einem anderen Ort eingeschleppte (importierte) Infektion.
+
+
+==== Direkte und indirekte Infektion ====
+Direkte Infektion: Erregerübertragung von Mensch zu Mensch ohne Zwischenschritte.
+Indirekte Infektion: Übertragung mittels verschiedener Überträger. Hierzu zählen Vektoren wie beispielsweise blutsaugende Insekten sowie Wasser, Nahrung und beliebige Gegenstände.
+
+
+==== Horizontale und vertikale Infektion ====
+Horizontale Infektion: Erregerübertragung vom Wirt zu einem anderen Wirt der gleichen Generation.
+Vertikale Infektion: Erregerübertragung von einem Wirt zu seinen Nachkommen.
+Pränatale Infektion: Erregerübertragung vor der Geburt in der Gebärmutter (intrauterin) über den Mutterkuchen (transplazentar).
+Perinatale Infektion: Erregerübertragung während der Geburt.
+Postnatale Infektion: Erregerübertragung nach der Geburt, z. B. durch die Muttermilch.
+
+
+==== Präpatente und patente Infektion (bei Zoonosen) ====
+Präpatente Infektion: bei einer Parasiteninfektion die Phase von der Aufnahme bzw. dem Eindringen infektionsfähiger Parasitenstadien in den Organismus bis zur Entwicklung ausgewachsener, eierlegender Parasiten. In den Körperausscheidungen des Wirtes sind keine Fortpflanzungsprodukte zu finden.
+Patente Infektion: die Phase nach der Entwicklung der Eindringlinge zu ausgewachsenen, eierlegenden Parasiten. Ihre Fortpflanzungsprodukte treten nun in den Körperausscheidungen des Wirtes auf.Diese Begriffe werden in der Humanmedizin bei Zoonosen verwendet, aber auch in der Veterinärmedizin (z. B. bei Infektionen von Kleintieren mit Würmern).
+
+
+== Prävention ==
+Die überwiegend hygienischen Maßnahmen der Expositionsprophylaxe verhindern weitgehend eine Übertragung von Krankheitserregern, die für Infektionen verantwortlich sind. Außerdem kommen unter Umständen eine Chemoprophylaxe bzw. Postexpositionsprophylaxe in Betracht.Einigen Infektionskrankheiten kann außerdem durch Impfung (Infektionsprophylaxe durch aktive Immunisierung) vorgebeugt werden.
+
+
+== Therapie ==
+Die Behandlung von Infektionen hängt unter anderem von den auslösenden Erregern ab. Es kommen dabei vor allem die Entfernung des Infektionsherdes sowie eine antimikrobielle Therapie mit Antibiotika in Betracht.
+
+
+== Literatur ==
+David M. Knipe, Peter M. Howley, Diane E. Griffin (Hrsg.): Fields Virology. 5. Auflage, Lippincott Williams & Wilkins, Philadelphia 2007, ISBN 978-0-7817-6060-7.
+Karl Sudhoff: Infektion und Infektionsverhütung im Wandel der Zeiten und Anschauungen. In: Sudhoffs Archiv. Band 21, 1929, S. 207–218.
+
+
+== Weblinks ==
+
+Ziel- und Effektorzellen einer Infektion auf monozyten.de (englisch)
+Darstellung von Infektionen mit Schwerpunkt Lungenerkrankungen auf lungeninformationsdienst.de
+
+
+== Einzelnachweise ==

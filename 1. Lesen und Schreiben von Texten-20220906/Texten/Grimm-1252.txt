@@ -1,0 +1,21 @@
+Woher kennt eine Körperzelle ihre Funktion?
+
+Haut, Knochen, Gewebe, Organe: Unser Körper besteht aus Milliarden Zellen. Sie bekämpfen Viren, bewegen unsere Muskeln und lassen uns wachsen. Doch woher weiß eine Zelle, dass sie für den Haarwuchs zuständig ist und nicht für den Herzschlag? 
+
+
+
+Der menschliche Körper besteht aus Milliarden von Zellen, alle tragen in ihrem Zellkern denselben Bauplan des gesamten Körpers. Trotzdem sind sie nicht alle gleich: Es gibt Herzzellen, Hautzellen, Nervenzellen und viele andere Spezialisten, die teilweise sehr unterschiedliche Aufgaben erfüllen müssen: Eine Herzzelle muss sich beispielsweise rhythmisch zusammenziehen können, ganz anders die Zelle einer Haarwurzel: Sie ist für die Bildung des Haars verantwortlich. Doch woher weiß eine Haarwurzelzelle, dass sie keine Herzzelle ist - und umgekehrt?
+
+Jede Zelle eines Körpers besitze zwar die gleiche DNA, auf der die Erbinformationen gespeichert sind, sagt Michael Kessel vom Max-Planck-Institut für biophysikalische Chemie in Göttingen. "Auf ihr sitzen aber auch Schaltermoleküle, die bestimmte Informationen an- oder abschalten." Bei einer Herzzelle seien dadurch beispielsweise Gene für die Herzfunktionen aktiviert, andere Programme dagegen abgeschaltet, erklärt der Entwicklungsbiologe.
+
+Es ist im Prinzip wie bei einem Computer: Auf seiner Festplatte sind ebenfalls viele unterschiedliche Programme gespeichert, doch damit sie arbeiten, muss man sie starten. Die Grundfunktionen, die alle Programme verwenden, übernimmt beim Computer das Betriebssystem. Ähnlich ist das auch bei der Zelle: Einige Grundprogramme, wie beispielsweise die für den Stoffwechsel, müssen in jeder Zelle ablaufen, die Spezialisierung der Zelltypen erfolgt dann über Spezialprogramme, im Körper heißen sie aktive Gene.
+
+Spezialisierung beginnt im Mutterleib
+
+Die Zelle weiß schon früh, was sie werden soll. "Die Spezialisierung beginnt schon sehr früh während der Embryonalentwicklung im Mutterleib", sagt Kessel. Die Eizelle selbst besitzt noch keine Schaltermoleküle, die den Zelltyp festlegen. Nach der Befruchtung beginnt sie sich aber zu teilen, sehr schnell bekommt der entstehende Zellhaufen eine Struktur: Die Zellen teilen sich in Fraktionen auf. "Hier beginnen die ersten Festlegungen, die einer Zelle eine bestimmte Funktion in dem winzigen Körper zuweisen", erklärt Kessel.
+
+Bestimmte Zellen eines Embryos, die noch die Fähigkeit besitzen, sich in viele unterschiedliche Zelltypen zu entwickeln, nennt man Stammzellen. Je nach ihrer Position im Zellhaufen geben ihnen bestimmte Botenstoffe Schritt für Schritt immer feinere Funktionszuweisungen. "Wie genau diese Regelprozesse zur Ausbildung eines Körpers mit seinen komplexen Strukturen führen, ist allerdings immer noch ein Forschungsgebiet mit vielen offenen Fragen", sagt Kessel.
+
+Mit biotechnologischen Verfahren ist es heutzutage sogar möglich, einige Schaltermoleküle wieder von der DNA zu entfernen. So können Wissenschaftler im Labor Hautzellen eines Menschen wieder in Zellen verwandeln, aus denen sich noch andere Zelltypen bilden können - sie können also künstlich Stammzellen erzeugen. Von dieser Technik erhoffen sie sich, eines Tages beispielsweise Organe für Transplantationen züchten zu können.
+
+Quelle: https://www.spiegel.de/lebenundlernen/schule/1000-fragen-woher-kennt-eine-koerperzelle-ihre-funktion-a-804316.html

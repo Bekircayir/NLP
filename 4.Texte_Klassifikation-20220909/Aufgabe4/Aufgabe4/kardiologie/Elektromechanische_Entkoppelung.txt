@@ -1,0 +1,10 @@
+Die elektromechanische Entkoppelung, synonym elektromechanische Dissoziation (EMD) oder pulslose elektrische Aktivität (PEA), ist eine Sonderform des Kreislaufstillstandes, bei dem trotz elektrischer Aktivität des Herzens keine Auswurfleistung in Form eines Pulses erbracht wird. Unbehandelt führt sie in kurzer Zeit zum Tod.
+Die Ursachen der Entstehung sind oft potenziell reversibel und können erfolgreich therapiert werden. In Frage kommende Gründe hierfür sind: akuter Myokardinfarkt, Lungenembolie (Verschluss von Lungengefäßen), Spannungspneumothorax (Luftüberdruck in der Lunge), Intoxikation (Vergiftung), Medikamentenmissbrauch, Stromunfall, Herzbeuteltamponade (Blutansammlung im Herzbeutel), Hypoxie (Sauerstoffmangel), Kalium-Dysregulation (Hyperkaliämie/Hypokaliämie), Säure-Base-Regulationsstörung (Azidose (Übersäuerung) oder Alkalose), Hypovolämie (Volumenmangel) oder Hypothermie (Unterkühlung).
+Eine PEA kann nicht defibrilliert werden. Sie wird, unter konstanter Herz-Lungen-Wiederbelebung, zunächst medikamentös mit Adrenalin therapiert. Es muss nach Möglichkeit die zugrunde liegende Ursache behandelt werden. Im Verlauf kommt auch der Einsatz eines externen Herzschrittmachers in Frage.
+
+
+== Literatur ==
+J. P. Nolan, C. D. Deakin, J. Soar et al.: European Resuscitation Council guidelines for resuscitation 2005. Section 4. Adult advanced life support. (2005) Resuscitation. 67 Suppl 1, S. S39–S86. PMID 16321716
+
+
+== Einzelnachweise ==

@@ -1,0 +1,223 @@
+Als Talgo – spanisches Akronym für Tren articulado ligero Goicoechea Oriol (deutsch Gliederzug in Leichtbauweise nach Goicoechea und Oriol) – werden vom Unternehmen Patentes Talgo entwickelte Gliederzüge bezeichnet. Sie werden im Schienenpersonenfernverkehr auf Tages- und Nacht-Relationen sowie im Hochgeschwindigkeitsverkehr eingesetzt, wobei einige Züge umspurbare Laufwerke besitzen.
+Viele Talgo-Züge verkehren mit eigens für sie entwickelten Triebfahrzeugen. Teilweise sind diese mit den Personenwagen zu betrieblich nicht trennbaren Triebzügen verbunden.
+Talgo-Züge verkehren heute in Spanien, Portugal, Kasachstan, Kanada und den USA. Ein Einsatz in Bosnien und Herzegowina und in Saudi-Arabien auf der Schnellfahrstrecke Medina – Mekka ist geplant. Die Züge verkehrten früher auch in Deutschland, Frankreich, Italien und der Schweiz.
+
+
+== Das Talgo-Konzept ==
+
+
+=== Die ersten Talgozüge ===
+Das Konzept der Talgozüge entstand Ende der 1930er-Jahre. Der von Alejandro Goicoechea entwickelte Zug sollte gegenüber den damals üblichen Zügen auf den teilweise kurvenreichen Strecken Spaniens eine höhere Fahrgeschwindigkeit erlauben. Dazu musste die Masse reduziert und der Bogenlauf verbessert werden.
+Anstelle des bisherigen Ansatzes, einen langen Wagenkasten auf kurze Drehgestelle mit durchgehenden Achsen aufzusetzen, wählte Goicoechea kurze Wagenkästen mit einzelnen auf Stummelachsen sitzenden Losrädern. Zu jedem Wagenkasten gehört jeweils nur an einem Ende ein Laufwerk, während sich das andere Ende auf den Nachbarwagen abstützt. Nur der führende Endwagen verfügt über zwei Laufwerke.
+Durch die kurzen Wagenkästen stellen sich die Stummelachsen der Räder in den Bögen beinahe radial ein, so dass die Spurkränze im Vergleich zu konventionellen Fahrzeugen weniger stark anlaufen und dadurch die Gleiskräfte kleiner werden. Sinuslauf tritt an den Laufwerksportalen der Mittelwagen nicht auf, bei den Endwagen bis zu den Bauarten Talgo III und RD ebenfalls nicht.
+Weil Drehgestelle entfallen und die Laufwerksteile zwischen den Wagenkästen untergebracht sind, liegt der Fußboden wesentlich tiefer über den Schienen als bei konventionellen Wagen. Neben einer tiefen Schwerpunktlage ergibt sich dadurch ein Niederflureinstieg, was für die damalige Zeit sensationell war.
+Talgoeinheiten sind gegenüber konventionellen Reisezugwagen wesentlich leichter. Dies rührt einerseits daher, dass die Masse der Drehgestellrahmen, Achswellen und Seitenpuffer entfällt, andererseits aber auch vom kleineren Querschnitt der Wagenkästen und den gleichmäßiger über den Zug verteilten Laufwerken. Die geringere Zugmasse erlaubt bei gleicher Leistung der Lokomotiven höhere Fahrgeschwindigkeiten.
+Weil sich die Masse der einzelnen Wagen hälftig auf das Laufwerk des Nachbarwagens abstützt, können Talgoeinheiten nur in Werkstätten gekuppelt und getrennt werden. Derartige Einheiten werden als Gliederzüge bezeichnet. Der Nachteil ist, dass bei Störungen nicht ein einzelner untauglicher Wagen ausgesetzt werden kann, sondern die ganze Einheit ausfällt. Um das Risiko von Komplettausfällen zu minimieren, werden die Züge meist von einem Talgo-Techniker begleitet. Dies gilt im Besonderen für die internationalen Verbindungen und innerhalb Deutschlands, wo bei Ausfall des Zuges kein betrieblich gleichwertiger Ersatz zur Verfügung steht. Alle Talgozüge werden durch die Herstellerfirma in Zusammenarbeit mit dem jeweiligen Betreiber in spezialisierten Unterhaltsanlagen gewartet.
+
+
+=== Moderne Talgozüge ===
+Das grundsätzliche Konzept der Talgozüge wurde im Verlaufe der Zeit nicht verändert, lediglich einzelne Details wurden verbessert.
+
+Ab der Talgo-III-Generation sind die Laufwerke an den Wagenkästen drehbar gelagert und werden über Lenkerstangen zu den Wagenkästen in Bögen zum Krümmungsmittelpunkt hin ausgerichtet. Die auf Halbachsen sitzenden Räder eines Laufwerkes sind über ein Portal miteinander verbunden, das die Sekundärfederung und die Auflage für den Nachbarwagen trägt. Eine zusätzliche Primärfederung gibt es nur bei den Wagen der Bauart Talgo 350.
+Bei den Einheiten der Bauart Talgo 7 hat nicht mehr ein Endwagen zwei Laufwerke, sondern der Barwagen in der Mitte des Zuges. Dadurch können für beide Endwagen die gleichen Wagenkästen und Laufwerke verwendet werden.
+Die Talgo-Wagenkästen der neueren Generationen sind mit einer Länge von 13.140 mm etwa halb so lang wie ein 26.400 mm langer konventioneller europäischer Reisezugwagen. Der kurze Wagenkasten wird in selbsttragender Aluminiumleichtbauweise hergestellt. Ein Talgowagen 2. Klasse wiegt 14 t, wovon 2,5 t auf das Laufwerk entfallen.
+
+
+==== Spurwechsellaufwerk ====
+
+Die Talgo III RD verfügten erstmals über die Möglichkeit, während der Fahrt die Spurweite zu verändern. Heute sind etwa zwei Drittel der in Spanien eingesetzten Talgo-Pendular-Fahrzeuge sowie die Nachfolger Talgo 7 und die Triebzüge der Baureihe 130 spurwechselfähig.
+Bei den Laufwerken, die für den Spurwechsel vorgesehen sind, ist die Stummelachse mit der darauf sitzenden Radscheibe samt Achslagern seitlich verschiebbar angeordnet. Zwei von der Fahrzeugunterseite lösbare Sicherungskeile halten die Achslager in der für die zu befahrenden Spurweite notwendigen Position.
+In der Spurwechselanlage greifen T-Schienen in eine Nut der Sicherungskeile und ziehen diese in die Löseposition nach unten. Durch seitliche Führungsschienen werden die Radscheiben mit den Stummelachsen in die neue Position verschoben. Am Ende des Spurwechsels lassen die T-Schienen die Sicherungskeile in ihre ursprüngliche Lage zurückgleiten, wo sie durch Federkraft gehalten werden.
+Während des gesamten Spurwechselvorganges gleitet das Laufwerksportal auf Kunststoffhilfskufen über seitliche Führungsschienen, die zur Reduzierung der Reibung mit Wasser besprüht werden.
+
+
+== Entwicklung und Generationen ==
+
+
+=== Talgo-Versuchsträger ===
+Im Jahr 1941 fertigte Alejandro Goicoechea für sein geplantes Zugkonzept einen Versuchsträger ohne Aufbauten. Er bestand lediglich aus angelenkten dreipunktgelagerten Wagenelementen und Einzelrädern. Bei diesen Elementen handelte es sich um zusammengeschweißte Metall-Dreiecke, die Räder waren Lastkraftwagen-Räder mit Spurkränzen.
+Mit diesem zwölfteiligen Versuchsträger (Ur-Talgo) fanden im August 1941 zwischen Madrid und Leganés Testfahrten hinter einer Dampflok statt. Es wurden dabei verschiedene Gleisgeometrien befahren und Geschwindigkeiten bis zu 75 km/h erzielt. Insgesamt verliefen die Versuche zufriedenstellend. Wegen seiner speziellen und von Sattelaufliegern abgeleiteten Kinematik konnte dieser Prototyp jedoch nur in einer Richtung verkehren. In der anderen Richtung liefen sämtliche Laufwerke einseitig am Schienenkopf an. Rangierfahrten in dieser Richtung waren jedoch möglich.
+
+
+=== Talgo I (Prototyp) ===
+Als Talgo I wird der 1942 (im Gründungsjahr der Firma Talgo) hergestellte achtteilige Prototyp bezeichnet, im Gegensatz zum vorangegangenen Versuchsträger handelte es sich dabei um einen vollständig aufgebauten Zug. Der Zug bestand aus einem Dieseltriebkopf (mit dem Antriebsdrehgestell eines Ganz-Dieseltriebwagens) und sieben sehr kurzen nachlaufenden Wagengliedern mit halbrundem Querschnitt. Wie schon der Versuchsträger konnte auch der Prototyp nur in einer Hauptfahrrichtung verkehren. Als Besonderheit verfügte der aerodynamisch gestaltete Schlusswagen über einen Heck-Ausstieg. Im Oktober 1942 wurden mit dieser Garnitur bei einer Versuchsfahrt zwischen Madrid und Guadalajara bereits 115 km/h erreicht, im Januar 1944 waren es zwischen Madrid und Ávila bereits 135 km/h. Der Talgo I wurde nie im Regelbetrieb eingesetzt und fiel nach jahrelanger Abstellung einem Brand zum Opfer.
+
+
+=== Talgo II ===
+
+1950 wurden erstmals Talgozüge auf dem Netz der spanischen Staatsbahn Renfe eingesetzt. Da Talgo noch kein eigenes Fertigungswerk hatte und die spanische Waggonbauindustrie noch nicht in der Lage war, Leichtmetallkonstruktionen zu bauen, wurden die Dieseltriebköpfe und Wagen für drei Garnituren bei American Car and Foundry in den USA gebaut und nach Spanien verschifft. ACF baute ähnliche Fahrzeuge für den Einsatz in den USA, die dort jedoch nicht lange im Einsatz waren. Das Laufwerk entsprach dem des Talgo I, damit waren auch die Talgo-II-Einheiten nur in einer Richtung einsetzbar und mussten an den Endbahnhöfen über dafür eingerichtete Gleisdreiecke gewendet werden. Die Wagen entstanden in genieteter Aluminium-Differentialbauweise. Die Sitzwagen hatten keine Einstiegtüren; diese befanden sich in gesonderten Technikwagen, in denen auch die Toiletten, Gepäckregale und Klimaanlagen untergebracht waren. Am Schluss des Zuges befand sich ein Aussichtswagen mit großen Fenstern nach hinten. Die Talgo II wurde bis 1971 auf der Strecke Madrid–Hendaye eingesetzt, die Diesellokomotiven der späteren RENFE-Baureihe 350 danach umgebaut und mit nachgerüsteten Puffern und Schraubenkupplungen noch einige Jahre in anderen Diensten eingesetzt. Alle drei Einheiten sind erhalten und stehen in Eisenbahnmuseen in Madrid und Vilanova i la Geltrú sowie im Talgo-Werk Ribavellosa.
+
+
+=== Talgo III ===
+
+Ab 1964 wurden erstmals von Talgo selbst gebaute Zuggarnituren eingesetzt, wiederum in genieteter Aluminiumbauweise. Diese Fahrzeuge hatten erstmals winkelhalbierend zwischen den Wagenkästen geführte Laufwerksportale und waren damit in beiden Fahrtrichtungen einsetzbar. Neu eingeführt wurde die besondere Talgo-Kupplung, eine nur etwa 500 mm über Schienenoberkante angeordnete Scharfenberg-Kupplung. Das jeweils führende Laufwerksportal wird über die Auslenkung der Kupplung radial eingestellt. Die Talgo III wurden ursprünglich mit in der Höhe angepassten Diesellokomotiven der Baureihe 352 (ex 2000T, Einrichtungsbauart) und 353 (ex 3000T, Zweirichtungsbauart) bespannt. Diese Lokomotiven waren auch mit einem Hilfsdiesel für die dreiphasige Energieversorgung des Wagenzuges ausgerüstet.
+
+
+==== Generatorwagen ====
+
+Um nicht unwirtschaftlich unter der Fahrleitung mit Dieselloks fahren zu müssen, entstanden wenig später zweiachsige Energieversorgungs- und Kuppelwagen, womit die Züge auch mit anderen Loks bespannt werden konnten. Diese ständigen Begleiter der Talgo-III-Züge werden im Spanischen Manso (dt. „Leithammel“) genannt. Sie haben an beiden Enden Regelschraubenkupplung mit Seitenpuffern zum Kuppeln mit Regelfahrzeugen und zusätzlich darunter die Talgo-Scharfenbergkupplung. Im Innern befindet sich ein rotierender Umformer, der die 3 kV der Zugsammelschiene in die für die Wagen benötigten 3×380 V wandelt. Ein Stromabnehmer auf dem Dach sorgt dafür, dass der Zug im Stillstand unter der Fahrleitung mit Energie versorgt werden kann, auch wenn keine Lok angekuppelt ist. Bei Stromausfall stellt ein kleiner Generator die Beleuchtung des Zuges sicher.
+
+
+==== Betrieblicher Einsatz ====
+Seit Juli 2009 sind alle Talgo-III-Wagen ausgemustert. Der letzte Zug mit dem Namen des Philosophen Miguel de Unamuno verkehrte bis zum 26. Juli 2009 von Barcelona aus in Richtung Norden. Die vereint ausfahrenden Wagengruppen wurden unterwegs getrennt und liefen die Städte Hendaye, Burgos und Salamanca an. Auf diesen Strecken werden nun Alvia-Züge eingesetzt.
+
+
+=== Talgo III RD (spurwechselfähig) ===
+
+Um vom spanischen Breitspurnetz ohne Austausch der Achsen oder Fahrgestelle auf Normalspurgleise wechseln zu können, entwickelte Talgo Laufwerke, bei denen der Abstand der Radscheiben verstellt werden kann und somit Gleise verschiedener Spurweiten befahren werden können. Diese Laufwerke wurden erstmals in Wagen der Talgo-III-Generation eingebaut. Die zusätzliche Bezeichnung RD steht für spanisch ‚Ruedas Desplazables‘, übersetzt verstellbare Räder.
+Der Spurwechsel erfolgt in einer Umspuranlage, in der die Radscheiben entlastet, entriegelt, durch Gleitstücke in die neue Lage gedrückt und in dieser wieder verriegelt werden. Der fahrplanmäßige Einsatz begann am 12. November 1968 mit einer Verbindung Madrid–Paris mit Umspurung in Irún, 1969 folgte der Catalán-Talgo Barcelona–Genf mit Umspurung in Portbou, der zunächst als Trans-Europ-Express verkehrte. Die letzten Talgo-III-RD-Wagenzüge fuhren bis zum 18. Dezember 2010 auf der Verbindung Barcelona–Montpellier.
+Die Einheiten unterschieden sich in weiteren Details von den nichtumspurbaren Talgo-III-Fahrzeugen. Die Wagenkästen waren schmaler, um in das UIC-505-Profil zu passen. Die Endwagen waren mit Regelschraubenkupplungen ausgerüstet, die tiefliegende Talgo-III-Scharfenbergkupplung gab es hier nicht. In den Endwagen befanden sich Generatoren für die Zugenergieversorgung. Die Laufwerke der Endwagen wurden über die Puffer gesteuert, was bei den Lokomotiven spezielle Hydraulikpuffer erforderte. Mittelwagen der Generation Talgo III RD gab es als Sitzwagen 1. Klasse (später teilweise zu 2. Klasse umgebaut), Speiseraumwagen, Küchenwagen mit Bar sowie Schlafwagen.
+
+
+=== Talgo Pendular (spurwechselfähig, passive Neigetechnik) ===
+
+Ab 1980 wurden Talgo-Pendular-Züge in Dienst gestellt. Der Wagenkasten wurde vollständig überarbeitet, verlängert und aus Aluminium-Strangpressprofilen geschweißt. Die Wagen sind mit einer passiven Neigetechnik ausgerüstet. Der Kasten stützt sich auf zwei über den Rädern liegenden Aluminiumsäulen mit obenliegenden Luftfedern. In den Kurven pendelt der Kasten durch die auf ihn wirkende Zentrifugalkraft nach außen. Mit dieser Technik lässt sich eine Auslenkung von etwa 3,5° erreichen, was etwa der halben Auslenkung von Fahrzeugen mit aktiver Neigetechnik entspricht. Da die Bewegung im Vergleich zur aktiven Neigetechnik relativ langsam erfolgt, wird sie durch die Fahrgäste kaum wahrgenommen. Die Züge werden über einen Dieselgenerator in einem Endwagen mit Energie versorgt.
+Die nebenstehende Karte zeigt alle Umspuranlagen System Talgo, die in der offiziellen Beschreibung des spanischen Eisenbahnnetzes von 2014 aufgeführt waren.
+Die Talgo-Pendular-Züge gibt es in folgenden Untervarianten:
+
+
+==== Talgo 4 ====
+Von 1980 bis 1988 wurden 26 Züge der ersten Generation Talgo Pendular gebaut. Die Sitz- und Schlafwagen besitzen keine Spurwechsellaufwerke und verkehren deshalb nur auf dem iberischen Breitspurnetz. Äußerliche Kennzeichen dieser Bauart sind große Seitenfenster und nach innen öffnende Klapptüren. Eine Wendezugsteuerung ist nicht eingebaut. Zwei Einheiten wurden 2010 nach Argentinien verkauft.
+
+
+==== Talgo 5 ====
+1981 wurden sechs Schlafwagenzüge mit Spurwechsellaufwerken für den Paris-Madrid-Talgo gebaut, wo sie die Talgo-III-RD-Wagen ablösten. Seit 1991 sind sie auf rein innerspanischen Verbindungen im Einsatz. Die Betten in den Schlafwagen sind schräg zur Fahrrichtung angeordnet, damit der Platz besser ausgenutzt werden kann.
+
+
+==== Talgo 6 ====
+
+Für diese Generation wird neben der Bezeichnung Talgo 6 auch die Bezeichnung Talgo Pendular 200 verwendet. Die Züge wurden nochmals überarbeitet und erhielten eine bessere Luftfederung, ep-Bremse für den Einsatz bis zur Höchstgeschwindigkeit 200 km/h sowie geschlossene Toiletten. Mit der 1992 zwischen Madrid und Sevilla eröffneten ersten normalspurigen Hochgeschwindigkeitsstrecke entstand ein neuer Bedarf an Rollmaterial mit Spurwechselfahrwerken für den Einsatz im innerspanischen Verkehr. Neu errichtete Spurwechselanlagen erlauben den Übergang zwischen dem Hochgeschwindigkeitsnetz und dem Breitspurnetz. Dadurch profitieren auch Städte von besseren Verbindungen, die nicht direkt an den neu gebauten Hochgeschwindigkeitsstrecken liegen.
+Von den Talgo-6-Wagen wurden 1989 bis 1999 in vier Serien 353 Schlaf- und Sitzwagen gebaut, die in 28 Zügen sowohl innerhalb Spaniens als auch im internationalen Verkehr eingesetzt sind. Der erste Einsatz erfolgte in den Nachtzügen Pau Casals Barcelona–Zürich beziehungsweise Salvador Dalí Barcelona–Mailand. Ab 1993 setzte die Renfe die ersten innerspanischen Tageszüge als Zuggattung Talgo 200 zwischen Madrid und Málaga ein. 2003 wurde der Namen in Altaria geändert.
+Die von der Deutschen Bahn und von Amtrak beschafften Züge gehören ebenfalls zur Bauart Talgo 6. Eine Besonderheit der bei der Deutschen Bahn eingesetzten Züge sind von der Zugsammelschiene der Lok gespeiste rotierende Umformer in den Endwagen, die den Drehstrom zur Versorgung der Wagen bereitstellen.
+
+
+=== Talgo 7 ===
+
+Aus dem Talgo Pendular wurde Ende der 1990er-Jahre eine neue Generation Talgo-Wagen entwickelt, die folgende Neuerungen aufweist:
+An Stelle eines Endwagens hat der Barwagen zwei Laufwerke, so dass die beiden Endwagen wagenbaulich gleich sind.
+Das Dreiphasenwechselstromnetz für die Energieversorgung wird in den Endwagen nicht mehr mit einem Dieselgenerator erzeugt, sondern mit einem Wechselrichter, der vom Triebfahrzeug über die Zugsammelschiene mit Energie versorgt wird.
+Die Klimaanlagen sind nicht mehr an den Wagenenden, sondern unter den Wagen angebracht.
+Die Wagen sind mit hydraulischen Bremsen ausgerüstet, die vom Steuerventil über einen Druckübersetzer angesteuert werden.
+Die Renfe hat von der Talgo-7-Generation auch Nachtzüge (Trenhotel) beschafft, die im Unterschied zu früheren Generationen keine Vierbettabteile mehr anbieten. Drei Garnituren werden an den italienischen Betreiber Arenaways vermietet.
+Neben den lokbespannten Zügen werden Talgo-7-Wagen auch als Mittelwagen in den Hochgeschwindigkeitszügen Talgo XXI und Talgo 250 (RENFE-Baureihe 130) eingesetzt. Einige Talgo-7-Einheiten wurden zu Mittelwagenzügen der BR 130 umgebaut. Dabei entfielen die Wendezugsteuerung, die eingebauten Spitzen- und Schlussignale und die Schraubenkupplung mit den Seitenpuffern. Die Führerstandsfenster wurden zugesetzt und eine Hochspannungsdachleitung zur Verbindung beider Triebköpfe eingebaut. Die Wagenzüge der Talgo 350 sind von der Bauart Talgo 7 abgeleitet. Sie sind allerdings nicht spurwechselfähig und nur regelspurig ausgeführt.
+
+
+==== Talgo XXI (spurwechselfähig) ====
+
+Unter dem Namen Talgo XXI wurde im Jahr 2000 ein Projekt für Triebzüge aus Talgo-7-Wagen und wahlweise zwei Triebköpfen an beiden Enden oder Triebkopf und Steuerwagen an jeweils einem Ende vorgestellt. Die Talgo XXI wurden optional mit umspurbaren Laufwerken angeboten.
+Bis zur Entwicklung der Talgo 250 wurde aber lediglich ein Prototyp gebaut, der an beiden Enden mit dieselhydraulischen Triebköpfen ausgerüstet war. Der Prototyp wurde mit umspurbaren Laufwerken ausgerüstet, erstmals erprobte man damit spurwechselfähige Triebdrehgestelle.
+Die als BT bezeichnete Triebköpfe mit 1150-kW-Dieselmotoren und einer geplanten Höchstgeschwindigkeit von 220 km/h wurden von Krauss-Maffei geliefert. Am 3. April 2000 führte ein Versuchszug, bestehend aus einem BT-Triebkopf und sieben Wagen, eine Demonstrationsfahrt von Madrid nach Puente Genil durch. Dabei wurde in Córdoba zum ersten Mal die Umspurung bei Fahrt demonstriert: der Zug durchfuhr die Umspurungsanlage mit 15 km/h in 60 Sekunden.
+Am 12. Juni 2002 stellte die Talgo XXI, bestehend aus den beiden Triebköpfen (355 001 und 002) und drei Mittelwagen, mit 256,38 km/h einen neuen Weltrekord für dieselbetriebene Fahrzeuge auf. Zur Erinnerung daran wurden an den beiden Triebköpfen entsprechende Aufschriften angebracht.
+Später wurden zwei Steuerwagen geliefert und zwei vierteilige Züge zusammengestellt, bestehend aus je einem Triebkopf, zwei Mittelwagen und einem Steuerwagen. Nach diversen Messfahrten wurden beide Züge an die spanische Infrastrukturbehörde GIF (später ADIF) verkauft, die sie für Messfahrten auf Hochgeschwindigkeitsstrecken einsetzt.
+Die Triebköpfe der Prototypzüge besitzen lediglich ein Triebdrehgestell, während sich das andere Ende bereits auf das Talgo-Fahrwerk des benachbarten Wagens abstützt. In Amerika wurde das Projekt aber auch mit einem vierachsigen Dieseltriebkopf vorgestellt.
+
+
+==== Talgo 350 ====
+
+Hauptartikel: RENFE-Baureihe 102
+Seit 2001 baut Talgo zusammen mit Bombardier den bis zu 350 km/h schnellen Talgo 350 für die Hochgeschwindigkeitsstrecke Madrid–Barcelona. Die Zwischenwagen sind sehr ähnlich den Talgo-7-Wagen, aber die Laufwerke haben eine zusätzliche Bremsscheibe und als einzige Talgowagen eine Primärfederung. Bei der Renfe sind die für 330 km/h zugelassenen Serienzüge seit 2005 als Baureihe 102 eingesetzt. Eine zweite Serie ist als Baureihe 112 in Auslieferung.
+Talgo wird für den Einsatz auf der neu zu errichtenden Strecke von Mekka nach Medina in Saudi-Arabien 35 Hochgeschwindigkeitszüge des Typs Talgo 350 liefern. Die Triebzüge werden aus je zwei Triebköpfen und 13 Mittelwagen bestehen und in Spanien gefertigt werden. Alle Wagen verfügen über die passive Talgo-Pendular-Neigetechnik und sind durchgängig niederflurig mit einer Fußbodenhöhe von 760 mm ausgeführt.
+
+
+==== Talgo 250 (spurwechselfähig) ====
+
+Hauptartikel: RENFE-Baureihe 130
+Seit 2006 werden Talgo-250-Züge gebaut, die sowohl auf den bestehenden Strecken in spanischer Breitspur als auch auf den Hochgeschwindigkeitsstrecken verkehren können. Die Zwischenwagen gehören zur Talgo-7-Serie und werden zum Teil aus lokbespannten Zügen umgebaut und mit einer 25-kV-Dachleitung ausgerüstet. Bei der Renfe sind die Züge als Baureihe 130 eingesetzt.
+Die Usbekischen Eisenbahn (Usbekisch: Oʻzbekiston Temir Yoʻllari, Kode für das Eigentumsmerkmal: UTY) bestellte 2009 zwei Talgo-250-Züge in russischer Breitspur. Der erste Zug wurde im Juli 2011 geliefert. Im Gegensatz zu den von Bombardier ausgerüstet Zügen der Renfe verfügen die usbekischen Züge über elektrische Ausrüstungen von Ingeteam.
+
+
+=== Projekt Talgo 22 ===
+Talgo bietet mit dem Talgo 22 einen „echten“ Doppelstocktriebzug an, der sowohl im unteren als auch im oberen Stock durchgängig begehbar ist. Bisher handelt es sich dabei jedoch nur um ein Projekt, es wurden erst zwei antriebslose Prototypwagen gebaut. Die elektrische Ausrüstung würde von ELIN geliefert werden. Die Züge wurden in den Ausschreibungen für die S-Bahn Zürich und S-Bahn Helsinki angeboten.
+Der Prototyp wurde am 23. Juni 2005 vorgestellt.
+
+
+=== Talgo Avril ===
+
+Auf einer Tagung am 18. September 2008 stellte Patentes Talgo das Projekt für eine neue Generation Hochgeschwindigkeitszüge unter dem Namen Avril (Eigenschreibweise teilweise auch AVRIL, als Initialwort für Alta Velocidad Rueda Independiente Ligero;, deutsch „Hochgeschwindigkeit Losrad Leicht“) vor. Avril ist eine Plattform, aus der Zugtypen mit verschiedenen Längen, Breiten, Spurweiten und Stromsystemen/Antriebsarten abgeleitet werden können.
+Die 200 Meter langen Triebzüge sollen zwei Triebköpfe und zwölf Zwischenwagen umfassen, wobei Versionen mit unterschiedlichen Klasseneinteilungen je nach Kundenwunsch angeboten werden können. Die Version mit zwei Wagenklassen und Barabteil wird über mindestens 580 Sitzplätze verfügen, wovon ein Viertel der Plätze in der 1. Klasse sind. Die reine Zweite-Klasse-Version verfügt über mindestens 700 Sitzplätze. Die Züge sollen über 2+3-Bestuhlung in der zweiten Klasse und eine 2+2-Bestuhlung in der 1. Klasse verfügen, einzig die Endwagen der reinen Zweite-Klasse-Züge weisen ebenfalls 2+2-Bestuhlung auf. Die dichte Bestuhlung wird möglich durch die nur 13,14 Meter langen Zwischenwagen, die eine Außenbreite von 3,20 Meter erlauben. Die gegenüber früheren Varianten breiteren Wagenkästen sind dank neuer Fahrwerke mit Sekundärfederung in Höhe des Schwerpunktes möglich, die Wanken oder Pendeln unterbinden und eine maximale Ausnutzung des Fahrzeugumgrenzungsprofils ermöglichen. Das Reservierungssystem soll gewährleisten, dass die unbeliebten Mittelsitze in der 2. Klasse nur belegt werden, wenn der Zug eine höhere Auslastung als 80 % aufweist.
+Der Wagenboden ist auf 76 Zentimeter über Schienenoberkante angeordnet, so dass bei Bahnsteigen nach den neuesten TSI-Normen ohne Stufe eingestiegen werden kann. Die Antriebsausrüstung wird in den Triebköpfen angeordnet. Die geplante betriebliche Höchstgeschwindigkeit soll mindestens 380 km/h betragen, wofür eine Dauerleistung von 8.800 kW notwendig ist. Das Gewicht wird mit 287 t angegeben, was eine Antriebsleistung von 27,3 kW pro Tonne ergibt.
+
+Das 2010 im Modell vorgestellte Konzept mit teils hochflurigen Wagen und verteilter Antriebstechnik wurde nicht realisiert. Der Zug ist im aktuellen Entwicklungsstadium mit Triebköpfen ausgerüstet, die von denjenigen des Talgo 350 abgeleitet sind, jedoch unter Verwendung elektrotechnischer Komponenten von ABB weiterentwickelt sind und bei gleichen Hauptabmessungen eine aerodynamisch optimierte Front erhalten haben.
+Die Strecke Madrid–Barcelona ließe sich mit dem Talgo Avril in einer Stunde und 45 Minuten bewältigen, vorausgesetzt die Strecke wird für die Höchstgeschwindigkeit des Zuges freigegeben. Auf der InnoTrans im September 2012 wurden ein Triebkopf und zwei Wagen vorgestellt, der erste vollständige Prototypzug wurde bis 2013 fertiggestellt und 2014 in Betrieb genommen.[veraltet] Der Talgo Avril wird auf eigene Rechnung entwickelt, Bestellungen für eine Serienproduktion liegen nicht vor.
+Im Oktober 2014 begannen die nächtlichen Erprobungsfahrten des Prototyp-Zug auf der Schnellfahrstrecke Madrid–Sevilla bis zu einer Höchstgeschwindigkeit von 300 km/h, danach folgten Probefahrten auf der Schnellfahrstrecke Madrid–Barcelona, wo die Geschwindigkeit von 363 km/h erreicht wurde, was für eine Homologation bis 330 km/h ausreicht.
+
+
+== Talgo Triebzug für den Regionalverkehr ==
+An der Innotrans 2014 stellte Talgo erstmals ein Triebzug für den Regionalverkehr vor. Der vierteilige Zug hat die Achsanordnung Bo’2’2’2’Bo, wobei Talgo für die nicht angetriebenen Laufwerke die Losradtechnik verwenden will. Die Fahrwerke bei den Wagenübergängen sind somit keine Jakobsdrehgestelle. Der 78 m lange Zug wird in Normalspur, iberischer Breitspur und russischer Breitspur angeboten. In der Nahverkehrsvariante bietet der Zug 190 Sitzplätze und 320 Stehplätze, in der Interregio-Variante 212 Sitzplätze. Die Höchstgeschwindigkeit soll 160 km/h betragen, wofür eine Leistung von 2 MW für den 131,5 t schweren Zug notwendig ist. Der Zug soll entweder einen rein elektrischen Antrieb oder als Zweikraftfahrzeug ausgeführt werden. Alle Versionen werden eine maximale Achsfahrlast von 22 t aufweisen und eine Wagenbodenhöhe von 55 cm haben. Talgo plant, einen Versuchszug zur Absicherung des Konzeptes zu bauen.
+
+
+== Talgo-Züge in Deutschland ==
+
+
+=== Einsatz bei der Deutschen Bahn ===
+Hauptartikel: Talgo (Deutsche Bahn)
+
+Ab November 1988 begann die Deutsche Bundesbahn umfangreiche Testfahrten mit geliehenen Talgo-Garnituren der Renfe. Nachdem diese Tests erfolgreich verlaufen waren, entschied sich die DB für den kommerziellen Einsatz der Talgo-Technik. Im Juni 1992 bestellte die DB fünf Talgo-6-Kompositionen für den Nachtzugeinsatz, weitere zwei Züge 1995. Zum Sommerfahrplan 1994 wurde der fahrplanmäßige Talgo-Verkehr in Deutschland aufgenommen. Die Züge wurden von Talgo Deutschland GmbH, einer Tochtergesellschaft von Patentes Talgo, im Talgo-Werk Berlin Warschauer Straße gewartet. Die Züge wurden bis zum Dezember 2009 auf den Verbindungen München–Berlin und München–Hamburg eingesetzt. Einsätze nach Spanien und Russland wurden verworfen. Zum Fahrplanwechsel im Dezember 2009 wurden die Talgo-Wagenzüge abgestellt und durch herkömmliche Schlaf-, Liege- und Sitzwagen aus dem Wagenpark der DB NachtZug ersetzt.
+
+
+=== Geplanter Einsatz bei der Nord-Ostsee-Bahn ===
+Auch die private Eisenbahngesellschaft Nord-Ostsee-Bahn (abgekürzt NOB, eine Tochtergesellschaft der Veolia Verkehr GmbH) plante, Talgo-Züge zu beschaffen. Sie sollten im Nahverkehr auf der 243 km langen Marschbahn (Hamburg–Westerland) eingesetzt werden. Die NOB hatte die vorangegangene Ausschreibung der Strecke am 12. Juni 2003 gewonnen, auf der sie Talgo-Züge einsetzen wollte. Geplant war seinerzeit der Einsatz von insgesamt 13 Talgo-Zügen mit jeweils 7 bis 13 Zwischenwagen. Es sollten auf diese Weise bis zu 500 Plätze je Zug angeboten werden. Die Wendezüge mit Steuerwagen sollten für eine Geschwindigkeit von 160 km/h ausgelegt werden und mit Diesellokomotiven bespannt werden. Dies wäre der weltweit erste Einsatz von Talgo-Zügen im Nahverkehr gewesen. Die NOB änderte dann aber nur wenige Monate später doch noch ihr geplantes Fahrzeugkonzept für die Marschbahn. Am 20. November 2003 gab das Unternehmen schließlich bekannt, statt der 13 Talgo-Züge konventionelle Reisezugwagen des Herstellers Bombardier zu beschaffen. Mit insgesamt 90 dieser sogenannten „married-pair-Wagen“ übernahm die NOB schließlich am 11. Dezember 2005 den Betrieb der Strecke Hamburg–Sylt von der DB.
+
+
+== Talgo-Züge in Russland und via Weißrussland – Polen nach Deutschland ==
+Im Juni 2011 bestellte die russische Bahn sieben Talgo-Züge zu zwanzig Wagen, die mit passiver Neigetechnik ausgerüstet sind. Davon sind drei Züge mit automatisch umspurbaren Radsätzen ausgerüstet und für den Einsatz auf der Linie Moskau–Berlin, nach früherer Planung auch Moskau–Kiew vorgesehen. Ein Zug wurde ab Sommer 2014 auf dem Versuchsring Velim erprobt.
+Die vier mit Breitspur-Radsätzen ausgerüsteten Züge werden auf innerrussischen Verbindungen eingesetzt. Die Betriebsaufnahme erfolgte am 1. Juni 2015 auf der Strecke Moskau–Nischni Nowgorod mit zunächst fünf täglichen Zugpaaren. Die 440 Kilometer lange Verbindung wird bei einer Höchstgeschwindigkeit von 200 km/h und drei Unterwegshalten in drei Stunden und 35 Minuten bewältigt. Die automatisch umspurbaren Züge sollen nach Angaben der staatlichen russischen Bahngesellschaft RŽD ab 1. Juni 2016 als Talgo-Schnellzüge die Hauptstädte Moskau, Minsk, Warschau und Berlin in 19 Stunden miteinander verbinden.
+
+
+== Talgo-Züge in Frankreich, Italien und der Schweiz ==
+
+Die französische SNCF, die italienische Staatsbahn Trenitalia und die Schweizerischen Bundesbahnen (SBB) besitzen bzw. besaßen jeweils keine eigenen Talgo-Züge. Jedoch haben die SNCF und die spanische Staatsbahn Renfe im Jahr 2001 die gemeinsame Betreibergesellschaft Elipsos Internacional, S.A. nach spanischem Recht gegründet, welche die internationalen Talgo-Nachtzugverbindungen betrieb und bewirtschaftete. Die Gesellschaft gehört zu gleichen Teilen der Renfe und der SNCF, weshalb an den Fahrzeugen beide Logos nebeneinander angebracht waren. Die Nachtzüge verkehrten unter dem Namen Elipsos Trenhotel bis Ende 2012 bzw. Ende 2013.
+Alle Elipsos-Hotelzüge führten Schlafwagen in drei verschiedenen Komfortklassen und Sitzwagen der 1. Klasse mit jeweils 20 Ruhesesseln. Sitzplätze in der 2. Klasse und Liegewagen wurden nicht angeboten. Die Fahrradmitnahme war nicht möglich, ausgenommen davon waren zerlegte und in Transportsäcken verpackte Räder, die als Gepäckstück gelten. Die Züge waren der internationalen Zugkategorie EuroNight zugeordnet. Zusätzlich trug jedes Zugpaar den Namen eines spanischen Künstlers. Die Züge konnten nur grenzüberschreitend gebucht werden, reine Inlandsfahrten waren nicht gestattet. Einzige Ausnahme war das Zugpaar Joan Miró, das auch im französischen Binnenverkehr zwischen Paris und Perpignan bzw. umgekehrt genutzt werden konnte solange der Halt in Perpignan existierte.
+Bis Ende 2013 wurde unter dem Namen Joan Miró die Verbindung von Paris über Figueres, Girona nach Barcelona angeboten sowie unter dem Namen Francisco de Goya die Verbindung von Paris mit Vitoria-Gasteiz, Burgos, Valladolid und Madrid. Die Züge verkehrten täglich zwischen Madrid-Chamartin und Paris Gare d’Austerlitz sowie zwischen Barcelona-França und Paris Gare d’Austerlitz.
+Die Verbindungen von Barcelona über Perpignan nach Zürich und Mailand wurden Ende 2012 eingestellt. Sie verkehrten dreimal wöchentlich als Pau Casals nach Zürich Hauptbahnhof und als Salvador Dalí nach Milano Centrale..
+Der Pau Casals endete zunächst in Bern und wurde dann zum 1. März 1990 nach Zürich verlängert. Nebst kommerziellen Zwischenhalten in Bern, Freiburg, Lausanne, Genf, Perpignan, Figueres und Girona sah der Fahrplan des Pau Casals weitere zwei Betriebshalte vor – in Chambéry zur Vereinigung/Trennung mit dem Flügelzug Salvador Dalí von/nach Mailand und in Portbou an der katalanisch-französischen Grenze zur Umspurung zwischen spanischer Breitspur und europäischer Normalspur. Das Zugpaar Joan Miró wurde ebenfalls in Portbou umgespurt, jedoch zeitlich versetzt zum doppelt geführten Zug nach Zürich bzw. nach Mailand. Der Pau Casals verkehrte zuletzt 17-teilig (2 Generatorwagen und 15 Zwischenwagen).
+Mit der Einstellung dieser Verbindungen endete auch der Einsatz der Talgo-Züge in Frankreich, Italien und der Schweiz. Als Ersatz bietet Elipsos seit Ende 2013 Hochgeschwindigkeitsverbindungen mit TGV- und AVE-Zügen zwischen Frankreich und Spanien unter dem Namen Renfe-SNCF en cooperación / en coopération an.
+
+
+== Talgo-Züge in den USA und Kanada ==
+
+Die US-amerikanische Bahngesellschaft Amtrak betreibt in Zusammenarbeit mit dem Bundesstaat Washington an der Westküste Amerikas die Amtrak-Cascades-Züge. Sie fahren auf der 752 km langen internationalen Verbindung Eugene–Portland–Seattle–Vancouver. Seit Februar 1998 werden vier aus der Talgo-6-Generation abgeleitete Züge eingesetzt, deren Endwagen auffällige Blenden haben, damit sie optisch besser zu den viel höheren amerikanischen Diesellokomotiven passen. Ein weiterer Zug wurde ursprünglich für den Verkehr Los Angeles–Las Vegas beschafft, dort aber nie eingesetzt. Ab 2003 wurden diese Wagen ebenfalls für die Amtrak-Cascades-Züge eingesetzt. Diese Züge werden mit einer Amtrak-Diesellok Typ F59PHI bespannt, als Steuerwagen dient eine umgebaute F40PH (jetzt ohne Antrieb).
+Zwei Talgo-Wendezüge wurden für den Einsatz in Wisconsin gebaut, aber aufgrund von Sparmaßnahmen und Uneinigkeit über die Instandhaltung bis jetzt nicht in Betrieb genommen. Außerdem werden bis 2013[veraltet] zwei Züge für den Einsatz in Oregon gebaut. Die neuen Züge werden mit einer Amtrak-Diesellok Typ P42DC bespannt und sind mit neuentwickelten Steuerwagen ausgestattet.
+
+
+== Talgo-Züge in Kasachstan ==
+
+
+=== Fahrzeuge ===
+Nachdem im Juni 2000 Probefahrten mit zwei fünfteiligen Talgo-Zügen in Kasachstan erfolgreich verlaufen waren, entschloss sich die Kasachische Staatsbahn dazu, eigene Talgo-Züge zu beschaffen. Hierzu unterzeichnete sie im Oktober 2000 einen Vertrag zur Lieferung von drei Zügen des Typs Talgo Pendular 200 – ein zwölfteiliger Tagesreisezug, bestehend aus zehn Reisezugwagen und zwei Maschinenendwagen, sowie zwei 22-teilige Hotelzüge mit 20 Reisezugwagen und zwei Maschinenendwagen. Der Tagesreisezug wurde bereits am 18. November 2001 abgenommen und nahm im Dezember 2001 den Betrieb im Fernverkehr auf. Im Juni 2003 folgten die beiden Hotelzüge, welche seit dem 13. September 2003 im planmäßigen Nachtverkehr eingesetzt sind.
+Die drei Talgo-Garnituren der Kasachischen Staatsbahn sind für eine Höchstgeschwindigkeit von 220 km/h ausgelegt und somit die schnellsten Züge in Kasachstan. Zur besseren Unterscheidung tragen sie neben ihren Betriebsnummern zusätzlich auch Namen, wie zum Beispiel Tulpar und Fatima. Die Züge sind in russischer Breitspur ausgeführt, besitzen aber im Hinblick auf einen möglichen Einsatz nach China bereits spurwechselfähige Radsätze für die europäische Normalspur. Gewartet werden die drei Garnituren in Zusammenarbeit mit der kasachischen Tochterfirma Talgo in Almaty. Im Jahre 2004 wurden speziell für die Talgo-Garnituren vierachsige elektrische Lokomotiven des Typs KZ4A aus China beschafft, die unter Lizenz der deutschen Firma Siemens bei Zhuzhou Electric Locomotive Works gebaut wurden. Die farblich den Züge angepassten Lokomotiven haben eine der SBB Re 460 ähnliche Kastenform. Die Höchstgeschwindigkeit der Lokomotiven ist auf 200 km/h beschränkt, wodurch die zulässige Geschwindigkeit der Wagen nicht ausgenutzt werden kann.
+Die beiden kasachischen Talgo-Nachtzüge sind in ihrer Ausstattung ähnlich den Zügen der DB. Neben den Wagen mit fünf Zweibett-Abteilen werden jedoch auch Wagen mit fünf Vierbett-Abteilen angeboten. Die beiden 22-teiligen Hotelzüge der KTZ setzen sich wie folgt zusammen:
+12 Schlafwagen der Touristenklasse (4 Betten je Abteil)
+3 Schlafwagen der Business-Klasse (1 bis 2 Betten je Abteil)
+3 Schlafwagen der Deluxe-Klasse (1 bis 2 Betten je Abteil mit Dusche)
+1 Bistrowagen
+1 Restaurantwagen
+1 einachsiger Maschinenendwagen
+1 zweiachsiger Maschinenendwagen
+Beim zwölfteiligen Tageszug werden 25 reservierungspflichtige Sitzplätze je Wagen angeboten.
+Am 11. November 2010 wurden 420 weitere Talgo-Wagen bestellt. Teilweise werden diese in einem neuen Werk in Astana endmontiert.
+
+
+=== Einsatz ===
+Der Talgo-Tageszug verkehrte ab Dezember 2001 zweimal wöchentlich zwischen der Hauptstadt Astana und der größten Stadt des Landes Almaty auf der wichtigsten Verbindung Kasachstans. Diese 1.327 km lange Strecke wurde in etwa 12 bis 13 Stunden zurückgelegt. Der Talgo-Zug bot durch seine höhere Geschwindigkeit eine deutliche Fahrzeitverkürzung auf dieser Verbindung, für die konventionelle Züge etwa 20 bis 22 Stunden benötigen. Seit dem 13. September 2003 wird die Strecke Astana–Almaty mit den beiden später abgelieferten Nachtzügen täglich bedient. Der Tageszug verkehrt fortan auf der Strecke Almaty–Schymkent, die dreimal wöchentlich bedient wird.
+Ab Dezember 2012 soll ein Talgo-Zug mit 35 lokal hergestellten Wagen auf der Verbindung Aktobe–Astana eingesetzt werden. Ab 2013 sollen auch die Verbindungen Astana–Atyrau und Almaty–Atyrau mit neuen Zügen bedient werden, ab 2014 Astana–Qysylorda und Almaty–Aktobe und ab 2015 Astana–Leninogorsk und Almaty–Öskemen. 2014 wird außerdem eine internationale Talgo-Verbindung von Almaty nach Taschkent (Usbekistan) aufgenommen.
+
+
+== Talgo-Züge in Bosnien und Herzegowina ==
+Die Eisenbahnen der Föderation Bosnien und Herzegowina (ŽFBH) haben im Juli 2005 neun neunteilige Talgo-Garnituren bestellt, die technisch vom Talgo 7 abgeleitet, aber nicht spurwechselfähig sind. Fünf Einheiten wurden als Tageszüge eingerichtet (Endwagen 1. Klasse, Wagen 1. Klasse mit Rollstuhlbereich, Cafeteriawagen, fünf Wagen 2. Klasse und Endwagen 2. Klasse; insgesamt 237 Plätze), vier Einheiten als Nachtzüge (Endwagen mit Ruhesesseln, zwei Ruhesesselwagen, Schlafwagen, Cafeteriawagen, drei Wagen 2. Klasse und Endwagen 2. Klasse; insgesamt 186 Plätze). Der fahrplanmäßige Einsatz auf den Strecken von Sarajevo nach Ljubljana, Zagreb und Belgrad sollte 2011 beginnen, die Lieferung erfolgte erst im Frühjahr 2012. Probefahrten wurden im Mai und Juni 2012 durchgeführt, der Einsatz fand dann aber nie statt, da das Streckennetz in Bosnien und Herzegowina zu schlecht für schnell fahrende Reisezüge ist. Fraglich bleibt, warum diese Diagnose erst nach Lieferung gestellt wurde, nicht recherchiert ist aktuell, mit welchen Mitteln die Triebzüge finanziert wurden. Nach längerer Standzeit wurden die Züge Ende 2013 an die Türkei vermietet.
+Die Eisenbahnen der Republika Srpska (ŽRS) haben ebenfalls fünf Zuggarnituren bestellt.
+
+
+== Talgo-Züge in Argentinien ==
+Im Rahmen des Vertrags zur Zusammenarbeit zwischen Spanien und Argentinien im Bereich der Eisenbahn übernimmt Argentinien zwei gebrauchte Talgo-IV-Einheiten aus Spanien. Die 9-Wagen Züge werden seit dem 29. Juli 2011 im Fernverkehr zwischen Buenos Aires und dem Seebad Mar del Plata eingesetzt.
+
+
+== Weblinks ==
+
+Talgo (Seite des Herstellers)
+Elipsos. Archiviert vom Original am 12. Dezember 2012, abgerufen am 6. Dezember 2014 (Ehemalige Seite der Betreibergesellschaft für die Verbindungen Schweiz-/Frankreich-Spanien). 
+Talgo. Archiviert vom Original am 2. Juni 2006, abgerufen am 6. Dezember 2014 (französisch, spanisch, teilweise englisch, ausführliche Beschreibung der Talgo-Wagen). 
+Spanish Talgo (Spain). In: kaemena360. Abgerufen am 6. Dezember 2014 (Interaktive 360°-Panoramen Talgo 7, Avril, Talgo 4 cama, Talgo 6 (DB)). 
+
+
+== Einzelnachweise ==

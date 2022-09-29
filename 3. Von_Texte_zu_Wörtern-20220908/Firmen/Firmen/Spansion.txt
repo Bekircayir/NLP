@@ -1,0 +1,23 @@
+Spansion war ein US-amerikanisches Unternehmen, das sich mit der Entwicklung und Produktion von Flash-Speichern beschäftigte. Der Hauptsitz befand sich in Sunnyvale/Kalifornien, im Herzen des Silicon Valleys. Entwicklungsabteilungen des Unternehmens fanden sich jedoch auch in Japan. Das Unternehmen hatte sich Ende 2014 mit Cypress Semiconductors zusammengeschlossen. Der Name des zusammengeschossenen Unternehmens ist Cypress Semiconductors, die Geschäftsbereiche von Spansion werden noch großteils (Stand 2015-04) unter altem Namen fortgeführt.
+
+
+== Geschichte ==
+Spansion war ursprünglich ein Joint-Venture des japanischen Elektronikkonzerns Fujitsu und des amerikanischen Halbleiterherstellers Advanced Micro Devices (kurz AMD), das sich auf NOR-Flash-Speicher spezialisiert hat und bereits 1993 als Fujitsu AMD Semiconductor Limited (kurz FASL) gegründet wurde.
+Die Firma stand damals unter der unternehmerischen und technologischen Führung von AMD. FASL entwickelte sich zu einem führenden Unternehmen in der sehr wechselvollen Flash-Branche. Zeitweise war man sogar Weltmarktführer noch vor Intel.
+
+Im Mai 2003 erfolgte dann die Umbenennung von Fujitsu AMD Semiconductor Limited in FASL LLC und man weitete die Zusammenarbeit aus. AMD und Fujitsu gaben ihre gesamte Flash-Produktion an die FASL LLC ab und es wurde der neue Markenname Spansion etabliert. Im Jahr 2004 erfolgte dann eine erneute Umbenennung in Spansion, da die neue Marke sehr erfolgreich war. In dieser Zeit war das Unternehmen sehr profitabel und erzielte große Gewinne, mit denen vor allem AMD Verluste aus der Prozessorsparte ausgleichen konnte.
+Während einer Flash-Absatzkrise im Jahr 2005 gab AMD dann bekannt, dass man Spansion wegen anhaltender Verluste als eigenständige Aktiengesellschaft ausgliedern wird. Seit 2006 ist Spansion damit ein völlig eigenständiges Unternehmen.
+Am 10. Februar 2009 meldete Spansion Japan Insolvenz nach dem japanischen Gesetz für Firmenumstrukturierung an, nachdem Spansion seit dem Börsengang keinen Gewinn mehr ausweisen konnte. Nach der Ankündigung umfangreicher Entlassungen hat am 1. März 2009 auch die Muttergesellschaft Gläubigerschutz nach Chapter 11 beantragt.
+Nachdem das Konkursgericht in Delaware im April 2010 den Sanierungsplan von Spansion genehmigt hatte, begann das Management unter Führung von John Kispert die Firma neu zu strukturieren. Im Mai 2010 gab das Unternehmen bekannt, dass das Reorganisierungsverfahren abgeschlossen sei. Die vormaligen Spansion-Stammaktien wurden für ungültig erklärt. Neue Aktien wurden ausgegeben. Seit Juni 2010 wird das Unternehmen am New York Stock Exchange unter dem Symbol CODE gehandelt. Auch während dieser Zeit blieb das Unternehmen vergleichsweise erfolgreich im NOR-Flash Bereich.
+Für das vierte Quartal 2012 meldete das Unternehmen einen Nettoerlös von 224 Mio. US-Dollar.
+Im Dezember 2014 meldeten die Unternehmen Spansion und Cypress Semiconductors, sich als gleichberechtigte Unternehmen zusammenzuschließen. 
+
+
+== Produktionsstätten ==
+Spansion nutzt bisher nur ältere Produktionsstätten von AMD und Fujitsu, die sich allerdings nun komplett im Besitz von Spansion befinden.
+Austin/Texas (ehemalige Fab25 von AMD)
+Bayan Lepas in Penang/Malaysia
+Nonthaburi/Thailand
+
+
+== Einzelnachweise ==

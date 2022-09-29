@@ -1,0 +1,54 @@
+Die Bezeichnung Monoblockmotor meint einen Verbrennungsmotor, bei dem
+
+Zylinderbank, Zylinderkopf und ein Teil des Kurbelgehäuses in einem Stück gegossen wird.Mit einem Monoblock kann außerdem folgende Bauform gemeint sein:
+
+Zylinderbank und Zylinderkopf in einem Stück, aber vom Kurbelgehäuse getrennt.
+Zylinderbank und Kurbelgehäuse in einem Stück, aber mit getrenntem Zylinderkopf.Da letzteres inzwischen der Standard ist, bezeichnet Monoblock vor allem den Motor mit allen drei Merkmalen.
+Diese Konstruktion war vor allem in den 1920er-Jahren bei Rennmotoren populär, als die Gasabdichtung bei hohem Verbrennungsdruck ein kritisches Limit für die Leistungsentwicklung war. Moderne Mehrlagenstahldichtungen haben dieses Problem später auch für Motoren mit separaten Zylinderköpfen gelöst.
+Durch den Monoblock konnte außerdem eine größere Steifigkeit des Kurbelgehäuses und der Zylinderbänke erreicht werden, was vor allem der Drehzahlfestigkeit zugutekam.
+Die Befestigung der Zylinderbänke auf dem Kurbelgehäuse konnte bei nicht-Monoblock-Motoren außerdem zu Materialermüdung und Rissen führen. Durch numerische Berechnung des Spannungsverlaufs im Kopf-Block-Verband und der resultierenden Verformung der Laufbuchsen können ähnliche Leistungen heutzutage auch ohne Monoblock erreicht werden.
+
+
+== Vorteile ==
+Höhere Zuverlässigkeit, da ein Kühlwassereintritt in den Zylinder durch eine defekte Zylinderkopfdichtung unmöglich ist, der in anderen Motoren zu gebrochenen Pleueln, Kolben oder beschädigten Ventilen führen kann.
+Drehzahlfestigkeit da das Kurbelgehäuse durch die integrierte Zylinderbank steifer ist als ein angeschraubtes Kurbelgehäuse
+Geringere Chance der Rissbildung, da die Krafteinleitung der Zylinderkopfbolzen in den Motorblock nicht berücksichtigt werden muss.
+
+
+== Nachteile ==
+Sehr Aufwendiges Fräsen der Ventilsitze, da dies von Unten durch Kurbelgehäuse und Zylinder hindurch erfolgen muss.
+Aufwendige Nachbearbeitung des Gussteils, da der Motorblock von beiden Seiten flächig abgefräst werden muss, um die zumeist offen gegossenen Kühlmäntel mit einer Abdeckung wasserdicht zu verschließen.
+Begrenzte Möglichkeiten zur Optimierung der Brennraumform, da die Ventile gerade bei langhubigeren Motoren praktisch nur parallel und nicht winkelig zueinander angeordnet werden können.
+Sehr aufwendige Wartung, da zur Reinigung der Ventilsitze oder Austausch eines Ventils bzw. Nachfräsen des Ventilsitzes der gesamte Motor samt Öl, Kurbelwelle etc. demontiert werden muss.
+
+
+== Entwicklung ==
+Die technische Ausgangslage des Verbrennungsmotors zu Anfang des 20. Jahrhunderts war der Sackzylinder, der einzeln oder paarweise auf ein Kurbelgehäuse aufgeschraubt wurde.
+Der erste als Monobloc bezeichnete Motor ist der im Peugeot L76 Grand Prix Rennwagen von 1912 eingebaute 7-Liter-Motor. Im heutigen Sinne noch kein echter Monoblock, weil zwar Zylinderkopf und Zylinderbank aus einem Graugussteil bestehen, diese aber auf ein Aluminium-Kurbelgehäuse aufgesetzt sind. Trotzdem diente er mit vier hängenden Ventilen pro Zylinder und zwei obenliegenden Nockenwellen als Inspiration für viele Nachkriegs-Konstruktionen.
+Nach dem Ersten Weltkrieg brachte Walter Owen Bentley um 1921 einen 3-Liter-Monoblock-Motor mit einem kombinierten Zylinder, Zylinderkopf und Kurbelgehäuseoberteil aus Grauguss auf den Markt. Auch der von 1920 bis 1923 gebaute Motor des Leyland Eight hatte einen Monoblock.In den USA entwickelte Harry Miller bereits 1916 einen Monoblock, der das ganze Kurbelgehäuse umfasste. Dies gelang ihm mit einer zweiteiligen, dreifach kugelgelagerten Kurbelwelle in einem Tunnelgehäuse. Spätere Modelle des Motors hatten nasse Zylinderlaufbuchsen und einen abnehmbaren Zylinderkopf und wurden erfolgreich in diversen Rennfahrzeugen eingesetzt. Sein ehemaliger Mitarbeiter Fred Offenhauser baute weiter Motoren nach dem Monoblockprinzip, die bis weit in die 70er Jahre das Indy-500-Rennen dominierten (letzte Rennteilnahme 1982 im Eagle Chassis von Jim McElreath).
+Andere europäische Hersteller wie etwa Bugatti, Mercedes, Ballot, Sunbeam, Voisin setzten in den 1920er-Jahren zwar auf Sackzylinder (mit Kopf in einem Stück), verwendeten aber getrennte, angeschraubte Kurbelgehäuse. Der amerikanische Hersteller Duesenberg ging den umkehrten Weg des einteiligen Kurbelgehäuses mit aufgesetzten Zylindern und getrenntem Kopf. 
+In den 1930er-Jahren ging man bei den Rennmotoren dazu über, die Brennraumform zu optimieren, was in winkelig zueinander hängenden Ventilen und abnehmbaren Zylinderköpfen mündete. So geschehen zum Beispiel beim Motor des Alfa Romeo P3 und bei den Motoren der Silberpfeile von Auto Union und Mercedes.
+In Flugmotoren hielt der Monoblock aufgrund seiner großen Robustheit trotz des hohen Aufwands bei einer Motorenrevision noch einmal Einzug. So variierte man bei den verschiedenen Versionen des Rolls-Royce Merlin Flugmotors mal mit einer Zylinderbank mit integriertem Kurbelgehäuse und abnehmbaren Zylinderkopf (PV-12 bis Merlin B), aber auch mal mit integrietem Zylinderkopf (Merlin G). Letztendlich setzte sich ab 1941 eine Variante mit sowohl getrenntem Zylinderkopf und Kurbelgehäuse durch, die zuerst bei Packard Motor Co. in Detroit, U.S.A gefertigt wurde.Deutsche Flugmotoren im Zweiten Weltkrieg, wie der DB600, 601, 605 hatten weiterhin integrierte Zylinderköpfe, wobei das Kurbelgehäuse aber nur mithilfe der Zylinderlaufbuchsen mit den Zylinderbänken verschraubt war.
+
+
+=== Monoblockmotoren bei Honda ===
+Honda bietet mit der GC-Serie eine Reihe kleiner Monoblock-Stationärmotoren an,. Honda versucht so mit weniger Gussteilen auszukommen um Produktionskosten zu sparen und lässt sogar die eingepressten Zylinderlaufbuchsen aus Stahl weg, indem die Kolben einfach direkt im beschichteten Aluminiumblock laufen. Bemerkenswert an der Konstruktion der GC-Motoren ist, dass auch der Zahnriemen zum Antrieb der Nockenwelle innerhalb des Monoblocks läuft. Das Kurbelgehäuse ist hier nicht wie üblich horizontal getrennt, sondern diagonal. Eines der beiden Kurbelwellenhauptlager sitzt also im Monoblock auf der Lüfterseite, das zweite Hauptlager auf der Abtriebsseite sitzt in der Ölwanne.
+
+
+=== Monoblockmotoren bei Steyr Daimler Puch ===
+Die Vorläufer der Steyr Daimler Puch AG, die Österreichische Waffenfabriksgesellschaft baute schon in den 1920er-Jahren einen ersten Monoblockmotor für den Typ Steyr II. Es war ein Sechszylinder-Ottomotor mit Sackzylindern, obenliegender Nockenwelle und von oben in den halbkugeligen Brennraum eingebauten Ventilen.1976 stellte die AVL List GmbH das Konzept eines Leichtdieselmotors (LD) vor. Steyr Daimler Puch und die Bayerische Motoren Werke AG gründeten die BMW - STEYR Motorengesellschaft m.b.H, deren Zweck es war, diesen Leichtdieselmotor in Serie zu bringen. Er wurde als Motortyp „M1“ bezeichnet. Die Entwicklungspartner starteten nach der Lizenznahme mit der Konstruktion und Beschaffung von sogenannten Vorentwicklungsprototypen (VEP) von Vier- und Sechszylindermotoren, von denen wiederum verschiedene Baustufen weiterentwickelt und beschafft wurden.
+Es war der erste Pkw-Motor mit Direkteinspritzung, mechanischen Pumpe-Düse-Einspritzelementen (Patent Steyr Daimler Puch AG), Ladeluftkühlung, Abgasturboaufladung und einem neuartigen akustischen Konzept (Nasskapsel, Trockenkapsel). Der M1 konnte nicht innerhalb des Projektzeitrahmens fertig entwickelt werden. Die Gesellschaftsanteile der Steyr Daimler Puch AG wurden 1981 von BMW übernommen. BMW entwickelte fortan Wirbelkammermotoren (Serienstart 1983), Steyr Daimler Puch entwickelte den M1 selbst weiter (ab 1983 in der Steyr Motorentechnik G.m.b.H).
+Der M1-Motor ging als Bootsmotor 1990 für den amerikanischen Marinemotorhersteller Outboard Marine Corporation in Kleinserie. Zu erwähnen ist die Lizenznahme des russischen Herstellers GAZ (Gorkowski Awtomobilny Sawod) 1998, der bis 2007 über 50.000 4-Zylinder-Monoblockmotoren baute (eingesetzt unter anderem im Fahrzeug GAZ GAZelle oder Wolga). Der M1 ist heute auf dem Markt für Marine und Militäranwendungen vertreten. Die Steyr Motors GmbH baut ihn in der 4- und 6-Zylinderversion mit bis zu 225 kW, eine Version mit 135 kW ist bereits nach der Abgasnorm EURO 5 zertifiziert.
+Ende 2009 wurden auf der Defence & Security Equipment International in London der lauffähige Prototyp eines V8-Motors basierend auf zwei Reihenvierzylindermonoblöcken (72° Bankwinkel) mit einer vorläufigen Leistungsangabe von 250 kW vorgestellt.
+Ende 2010 wurde auf der Marine equipment trade show (METS) in Amsterdam der Prototyp eines vollkommen neu konstruierten Zweizylindermonoblockmotors mit Pumpe-Düse-Einspritzsystem vorgestellt. Dieser Motor soll als Aggregat für Segelboote, Panzer und in weiterer Folge als Range Extender für den automotiven Bereich zum Einsatz kommen. Als Leistung wurden 25 kW elektrisch genannt. Dieser Motor hat einen vollständigen Ausgleich der oszillierenden Massen. Die Serienentwicklung war 2013 abgeschlossen.
+2014 begann eine neue Ära des Monoblockmotors der Steyr Motors GmbH.
+Der 2-Zylinder-Motor (M12CR) wurde als Commonrail-Motor umkonstruiert und entwickelt. Nennleistung 40 kW, Emissionsstufe EURO5.
+Der 4-Zylinder-Motor (M14CR) wurde als Commonrail-Motor umkonstruiert und entwickelt. Nennleistung 110 kW, Emissionsstufe EURO5.
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+STEYR MOTORS GmbH
+BMW-Werk in Steyr

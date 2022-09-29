@@ -1,0 +1,38 @@
+Die Nuance Communications, Inc (Nasdaq: NUAN) ist einer der führenden Anbieter von Sprach- und Bildverarbeitungslösungen für Geschäfts- und Privatkunden weltweit. Der Umsatz im Geschäftsjahr 2015 lag bei ca. 2 Milliarden USD. An 35 Standorten und in 16 Landesgesellschaften sind über 13.500 Mitarbeiter beschäftigt. Hauptsitz des Unternehmens ist Burlington (Massachusetts) in den USA.
+
+
+== Unternehmensgeschichte ==
+Im März 1999 hat visioneer ScanSoft von Xerox übernommen, nachdem sie ihren Bereich Hardware an Primax electronics Ltd. verkauft hatten. Anschließend änderte visioneer den Firmennamen in ScanSoft und wurde in den folgenden Jahren zu einem führenden Anbieter digitaler Bildverarbeitungslösungen. Im Jahr 2001 hat ScanSoft durch den Kauf von Teilen von Lernout & Hauspie den ersten Schritt in den Bereich der Sprachverarbeitung getan. Weitere Zukäufe unter anderem von Philips SpeechProcessing (2002), SpeechWorks (2003) und Rhetorical Systems Ltd (2004) folgten. Die Unternehmenseinheit Sprachverarbeitung war zu dieser Zeit genauso bedeutend wie das ursprüngliche Standbein Bildverarbeitung geworden. Deutlichstes Zeichen der geänderten Prioritäten war der Namenswechsel zu Nuance Communications nach dem Kauf von Nuance 2005. Das Wachstum über Zukäufe wurde fortgesetzt und mit Dictaphone (2006) der professionelle Diktiersektor erschlossen.
+
+
+== Produkte ==
+Das Unternehmen erstellt und vertreibt Software hauptsächlich aus drei Bereichen – der Bild-, Text- und der Sprachverarbeitung. Bei der Bildverarbeitung dominiert das Digitalisieren von in Unternehmen vorhandenen Dokumenten und das Erstellen von pdf-Dateien. Die Sprachverarbeitung untergliedert sich in hardwarenahe und PC basierte, in Spracherkennungs-, Sprachsynthese- und Sprecherverifikations-Lösungen. Dabei ist nochmals bei der Spracherkennung zwischen sprecherunabhängigen und sprecherabhängigen (Diktiersystemen) Lösungen zu unterscheiden. Das Unternehmen bietet unter anderem folgende Produkte an:
+PaperPort
+Power PDF
+Equitrac
+eCopy
+SafeCom
+OmniPage
+Dragon NaturallySpeaking
+Dragon Mobile Assistant
+Dragon Dictate (ehemals MacSpeech)
+Dragon Anywhere
+Nina
+Text on 9 keys, 2007 durch Übernahme der Tegic Communications Inc.
+Swype, eine Eingabemethode für Smartphones, 2011 durch Übernahme von Swype Inc.
+
+
+== Torsten Brand Preis ==
+Seit 2011 stiftet Nuance den Torsten Brand Preis für Projekte und technische Lösungen, die Blinden und Sehbehinderten das Leben erleichtern.
+
+
+== Konkurrierende Mitbewerber ==
+IBM WebSphere Voice Server
+Microsoft Speech Server
+
+
+== Weblinks ==
+Homepage von Nuance Communications, Deutschland
+
+
+== Einzelnachweise ==

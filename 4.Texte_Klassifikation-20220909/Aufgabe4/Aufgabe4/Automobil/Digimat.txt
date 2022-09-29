@@ -1,0 +1,35 @@
+Digimat ist der Handelsname einer Reihe von digitalen Getriebesteuergeräten zur Kontrolle des ersten elektrohydraulisch gesteuerten 4-Gang-Automatikgetriebes von Volkswagen.
+Digimat wird seit 1989 in verschiedenen Modellen von Volkswagen eingesetzt wird, um bei Fahrzeugen mit Automatikgetrieben den "richtigen" Gang und einen weichen Schaltübergang bei minimalem Verbrauch zu erzielen.
+
+
+== Entwicklung und Fertigung ==
+Die Hardware und Software des Digimat ist eine reine Eigenentwicklung von Volkswagen. Die Produktion erfolgt durch die Zulieferer Hella und Siemens.
+
+
+== Einsatz ==
+Der Digimat steuerte die Automatikgetriebe u. a. in den Fahrzeugen VW Golf (bis zum Golf 4), Golf Ecomatic mit Schwungnutzautomatik, Jetta, Corrado, Transporter, Sharan, Passat, New Beetle, 3L-Lupo, bei Seat, Škoda, einigen Audi-Modellen, im Fiat Tipo und Tempra, im Lancia Dedra und in der Mercedes V-Klasse.
+
+
+== Technik ==
+Der Digimat verwendet einen 8/16-Bit-Mikrocontroller MC68HC11 von Freescale (früher Motorola) mit externem Flash-Speicher.
+
+
+== Gangermittlung ==
+Die Kennfelder sind typgebunden programmiert. Seit der Version 2.1 (1995) sind eine Fahrertyperkennung mit Hilfe von Fuzzy-Logik und eine Fahrleistungserkennung enthalten, sodass abhängig vom Fahrerverhalten, am Berg, bei Anhängerbetrieb und bei reduzierter Motorleistung in der Höhe immer der richtige Gang ermittelt wird. Die Ansteuerung der Getriebe-Hydraulik erfolgt über elektromagnetische Stellglieder.
+
+
+=== Sensoren ===
+Drehzahlsensoren (induktiv)
+Getriebe-Öl Temperatursensor
+Wählhebelschalter
+
+
+=== Stellglieder ===
+Schaltventile für die Kupplungsansteuerung
+Modulationsventile für die Drucksteuerung (Strom-Druck Wandler)
+Shiftlock-Magnet (Blockierung des Wählhebels)
+Starterfreigabe
+
+
+=== Vernetzung ===
+Digimat ist über den CAN-Bus mit anderen Steuergeräten vernetzt (Motor, Bremse, Kombi, Klima), enthält umfangreiche Diagnosen, Fehlerspeicher und erfüllt auch die strengen USA-OBD Anforderungen.

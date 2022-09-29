@@ -1,0 +1,118 @@
+Die pulmonale Hypertonie (abgekürzt PH oder PHT) ist ein Symptom von Krankheiten, die durch einen Anstieg des Blutdrucks im Lungenkreislauf und oft einen zunehmenden Anstieg des Gefäßwiderstandes in den Lungenarterien (mit erhöhtem pulmonalarteriellem Druck) gekennzeichnet sind. Die Patienten mit einer solchen Drucksteigerung (Hypertonie) im kleinen Kreislauf leiden unter stark eingeschränkter körperlicher Leistungsfähigkeit, Luftnot, Kreislaufstörungen und Müdigkeit. Eine sekundäre pulmonale Hypertonie, hervorgerufen durch andere Krankheiten, ist häufig. Eine primäre pulmonale Hypertonie ist dagegen eher selten und hat eine ungünstige Prognose.
+
+
+== Geschichte ==
+Die erste anatomische Beschreibung einer pulmonalen Hypertonie erfolgte 1891 durch Ernst von Romberg. Erst mit der Einführung von Rechtsherzkatheteruntersuchungen durch Werner Forssmann 1929 konnten Veränderungen des rechten Ventrikels beobachtet und untersucht werden. Die Physiologie des pulmonalen Kreislaufs wurde dann vor allem durch André Frédéric Cournand und Dickinson W. Richards erforscht, wofür unter anderem diese drei 1956 den Nobelpreis für Physiologie oder Medizin erhielten. Willibald Pschyrembel erwähnt die pulmonale Hypertonie erstmals 1959. Im 500-seitigen Sachverzeichnis zum sechsteiligen Kreislaufband im Handbuch der inneren Medizin fanden sich 1960 bereits 66 Unterbegriffe der pulmonalen Hypertonie.
+Dresdale und Mitarbeiter waren 1951 die Ersten, die eine erste Fallserie von Patienten mit einer „primären“ Form der pulmonalen Hypertonie mit unbekannter Ursache beschrieben. Hans Schmidt fand 1953 bei Fällen von „essentieller pulmonaler Hypertension“ neben endarteriitischen Veränderungen eine „spastische Hypertrophie der kleinen Lungenvenen“. In den 1960er Jahren kam es zu einer Epidemie von Fällen mit „primärer“ pulmonaler Hypertonie, die mit dem Appetitzügler Aminorex assoziiert wurde. Dies führte 1973 zu einer ersten WHO-Konferenz zur pulmonalen Hypertonie mit einem ersten Versuch einer Klassifizierung.
+Hingegen gab es in Deutschland 1976 noch Lehrbücher mit der Meinung, dass die primäre pulmonale Hypertonie bisher „unbewiesen und auch unwahrscheinlich“ sei.Die US-amerikanischen National Institutes of Health gründeten 1981 ein nationales Register für "primäre" pulmonale Hypertonie, das wesentliche Erkenntnisse zum klinischen und pathologischen Bild der Patienten beisteuerte, die meist junge Frauen im mittleren Alter von 36 Jahren waren und ein medianes Überleben von 2,8 Jahren aufwiesen.In den 1990er Jahren standen dann erstmals ab 1992 mit einem hochdosierten Calciumantagonisten und ab 1996 mit intravenösem Epoprostenol, einem Prostacyclin-Analogon, zwei Medikamente zur Behandlung zur Verfügung. Mit der Marktzulassung zweier neuer Appetitzügler (Fenfluramin und Dexfenfluramin) kam es zu einer erneuten Epidemie von Fällen mit „primärer“ pulmonaler Hypertonie, so dass die WHO 1996 den zweiten Weltkongress in Evian organisierte. Dort wurde die Klassifizierung überarbeitet und die heutige Form mit fünf Hauptgruppen entwickelt. Auch wurde der Terminus „primäre pulmonale Hypertonie“ durch „idiopathische pulmonale arterielle Hypertonie“ abgelöst.
+Seit 2000 wurden große Fortschritte im physiologischen Verständnis der pulmonalen Hypertonie gemacht und zahlreiche Medikamente wurden neu zugelassen.
+
+
+== Symptome ==
+Die Symptomatik, insbesondere die der sekundären pulmonalen Hypertonie, kann sehr verschieden sein. Die Patienten leiden oft unter eingeschränkter körperlicher Leistungsfähigkeit, an Kreislaufstörungen einschließlich Synkopen, an einer Angina pectoris, an einem Raynaud-Syndrom, an peripheren Ödemen und an Müdigkeit. Im Zusammenhang mit der pulmonalarteriellen Hypertonie kann es zur Entstehung eines meist rechtsseitigen Pleuraergusses kommen.
+
+
+== Pathophysiologie ==
+Eine pulmonale Hypertonie liegt vor, wenn der mittlere Blutdruck in der Lungenschlagader (Pulmonalarterie) vom Normalwert (12–16 mmHg) auf mehr als 20 mmHg in Ruhe ansteigt. Im Bereich von 30 bis 40 mmHg können erste klinische Symptome, insbesondere unter Belastung, beobachtet werden. Im Bereich von 50 bis 70 mmHg nimmt die Herzauswurfleistung kontinuierlich ab. Der pulmonal-arterielle Blutdruck kann weiter auf über 100 mmHg chronisch ansteigen. Die Feststellung, dass eine pulmonale Hypertonie vorliegt, ist die Beschreibung eines gemessenen Wertes mit der Echokardiographie oder als genaue Messung mit dem Rechtsherzkatheter. Der pulmonal vaskuläre Widerstand (PVR) beschreibt die Gesamtheit des Widerstands, den die Lungengefäße selbst oder darin befindliche Strömungshindernisse dem Blutfluss durch die Lunge entgegensetzen.
+Bei einer akuten pulmonal-arteriellen Hypertonie stellen sich die Lungenarterien eng, und der Innenraum im Gefäß wird dadurch kleiner, dieser Vorgang ist aber reversibel. Bei der chronischen pulmonal-arteriellen Hypertonie kommt es zu einer dauernden Verdickung der Gefäßmuskulatur und zu einer fortschreitenden Fibrosierung mit Verengung der Adern. Die Gefäßwände sind dann nicht mehr flexibel und in diesem Zustand ist eine Rückbildung nicht mehr möglich (fixierter Lungenhochdruck). Durch den Umbau der Lungenarterien wird immer weniger Sauerstoff über die Lunge aufgenommen, während sich durch den erhöhten pulmonal-arteriellen Widerstand die Herzauswurfleistung verringert.
+
+
+== Einteilung und Ursachen ==
+Im Prinzip gibt es drei Mechanismen, die zu einer pulmonalen Hypertonie führen können: eine Abflussbehinderung aus den Lungenvenen, eine Einengung der Lungenstrombahn und eine starke Vermehrung des Lungendurchflusses durch Kreislaufshunts vor Eintritt der sekundären Gefäßsklerose.Die Einteilung der pulmonalen Hypertonie erfolgt heute nach der Nizza-Klassifikation 2018 (6. Weltkonferenz). Sie löst damit die Nizza-Klassifikation von 2013 ab. Es ist zu beachten, dass eine pulmonale Hypertonie als häufige sekundäre pulmonale Hypertonie in Folge anderer Erkrankungen, wie z. B. der chronisch obstruktiven Lungenerkrankung (COPD), Herzinsuffizienz, Lungenembolie, Lungenfibrose, Sarkoidose, AIDS, ARDS, Sichelzellanämie, Sklerodermie und angeborener Herzfehler, auftreten kann.
+Nach ihrer Ätiologie wird die pulmonale Hypertonie in fünf Klassen eingeteilt:1. Pulmonalarterielle Hypertonie (PAH)
+
+1.1 Idiopathische pulmonalarterielle Hypertonie (IPAH)
+1.2 Hereditäre pulmonalarterielle Hypertonie (HPAH), auch familiäre pulmonale Hypertonie (FPAH) genannt
+1.2.1 BMPR2–Fehlfunktion (Fehlfunktion eines Gens vom Chromosom 2 beim Menschen)
+1.2.2 ALK1, Endoglin (mit oder ohne hereditärer hämorrhagischer Teleangiektasie) – Fehlfunktion
+1.2.3 Unbekannt
+1.3 Arzneimittel- und toxininduzierte PAH (DPAH)
+1.4 Assoziierte pulmonalarterielle Hypertonie (APAH); bei folgenden Grunderkrankungen:
+1.4.1 Kollagenosen
+1.4.2 HIV-Infektion
+1.4.3 portaler Hypertonie
+1.4.4 angeborenen systemisch-pulmonalen Shunts (u. a. Herzfehler)
+1.4.5 Bilharziose
+1.5 Pulmonale venookklusive Erkrankung PVOD (engl.) und/oder pulmonalkapilläre Hämangiomatose (PCH)
+1.6 Persistierende pulmonalarterielle Hypertonie des Neugeborenen (PPHN)2. Pulmonale Hypertonie bei Erkrankungen der linken Herzhälfte
+
+2.1 Systolische Dysfunktion
+2.2 Diastolische Dysfunktion
+2.3 Herzklappenerkrankungen (Mitral- oder Aortenklappenfehler)
+2.4 angeborene/erworbene Linksherz-Einfluss-/Ausflusstrakt-Obstruktionen und angeborene Kardiomyopathien3. Pulmonale Hypertonie bei Lungenerkrankung oder Hypoxie
+
+3.1 Chronisch obstruktive Lungenerkrankung (COPD)
+3.2 interstitielle Lungenerkrankung
+3.3 andere restriktiv und obstruktiv gemischte pulmonale Erkrankungen
+3.4 Schlafapnoe-Syndrom
+3.5 Alveoläre Hypoventilation
+3.6 Chronische Höhenkrankheit
+3.7 Anlagebedingte Fehlbildungen4. Pulmonale Hypertonie aufgrund Pulmonalarterien-Obstruktionen
+
+4.1 CTEPH
+4.2 Andere Pulmonalarterien-Obstruktionen5. Pulmonale Hypertonie mit unklaren oder multifaktoriellen Mechanismen
+
+5.1 Hämatologische Erkrankungen: chronisch hämolytische Anämie, myeloproliferative Erkrankungen
+5.2 Systemische und metabolische Erkrankungen: Sarkoidose, pulmonale Langerhans-Zell-Histiozytose, Neurofibromatose, Glykogenspeicherkrankheit, Morbus Gaucher
+5.3 Andere Erkrankungen: chronische Niereninsuffizienz mit oder ohne Hämodialyse, fibrosierende Mediastinitis
+5.4 Komplexe angeborene Herzerkrankungenad 1.: Pulmonalarterielle Hypertonie (PAH): Die selten auftretende primäre oder idiopathische pulmonalarterielle Hypertonie (Inzidenz 4 : 1.000.000/Jahr) stellt im Gegensatz zur sekundären pulmonalen Hypertonie keine Komplikation einer anderen Grunderkrankung dar. Für sie kann häufig keine Ursache gefunden werden. Die Prognose bei der PAH ist eher schlecht.
+
+Idiopathische pulmonale Hypertonie (1.1)Die Ursachen einer primären (oder idiopathischen) pulmonalen Hypertonie sind hingegen nicht genau bekannt. Eine verstärkte Freisetzung von blutgefäß-kontrahierenden Faktoren, wie z. B. Endothelin und Thromboxan, und eine verminderte Produktion relaxierender Faktoren, wie z. B. Stickstoffmonoxid und Prostazyklin, werden als Ursachen für einen erhöhten Tonus der Lungenarterien diskutiert. Die bei Patienten mit einer primären pulmonalen Hypertonie erhöhten Serotonin-Spiegel werden als eine Ursache für die serotoninvermittelte Umgestaltung der Gefäßmuskulatur angesehen. In diesem Prozess können auch proinflammatorische Zytokine eine wichtige Rolle spielen.
+Hereditäre pulmonalarterielle Hypertonie (HPAH) und BMPR2 – Fehlfunktion (1.2 und 1.3)Auf genomischer Ebene wird eine Mutation des Bone-morphogenic-protein-Rezeptors 2 (BMPR2) als eine mögliche Ursache für die familiäre Häufung dieser Erkrankung angesehen. Auch eine Mutation der Activin-receptor-like-Kinase 1 (ALK1) und die Polymorphie des Promotors des Serotonin-Transporters (SERT) werden als mögliche Ursachen für die primäre pulmonale Hypertonie diskutiert. Somatische genetische Veränderungen konnten auch in Endothelzellen von Patienten mit einer pulmonal-arteriellen Hypertonie gefunden werden.
+Arzneimittel- und toxininduzierte pulmonalarterielle Hypertonie (1.6)Eine der idiopathischen pulmonalen Hypertonie zugeordnete Form kann bei prädisponierten Personen durch Arzneistoffe, vor allem einige Appetitzügler, ausgelöst werden. Die betreffenden Appetitzügler Fenfluramin, Dexfenfluramin und Aminorex wurden auf Grund dieser Nebenwirkung mittlerweile vom Markt genommen. Als Ursache für die durch diese Arzneistoffe ausgelöste pulmonale Hypertonie werden eine Aktivierung von Serotonin-Rezeptoren (5-HT2B-Typ) und eine damit verbundene Veränderung (Remodeling) pulmonaler Blutgefäße diskutiert.
+
+Assoziierte pulmonalarterielle Hypertonie (APAH); bei weiteren Grunderkrankungen (1.7)ad 2.: Pulmonale Hypertonie bei Herzinsuffizienz: Die pulmonale Hypertonie entwickelt sich bei Herzerkrankungen, insbesondere bei der verbreiteten Linksherzinsuffizienz (Kontraktionsinsuffizienz des linken Ventrikels) am häufigsten. Eine isolierte Rechtsherzinsuffizienz ist eher selten. Über eine Million Menschen in Deutschland sind von dieser Herzerkrankung betroffen, und ein erheblicher Anteil entwickelt eine pulmonale Hypertonie, zumindest leichterer Form.
+
+Pulmonale Hypertonie bei erworbenen Herzfehlern (2.3)Fast alle Patienten mit einer symptomatischen Insuffizienz der Mitralklappe entwickeln im Verlauf ihrer Erkrankung eine PH. Über 60 % der Patienten mit einer symptomatischen Insuffizienz der Aortenklappe entwickeln ebenfalls eine PH. Auch bei Pumpschwäche des Herzens zum Beispiel durch die koronare Herzkrankheit oder nach einem Herzinfarkt entwickelt sich häufig eine PH. Insbesondere im Rahmen der operativen herzchirurgischen Versorgung der genannten Erkrankungen kann die Behandlung der PH im OP und auf Intensivstation notwendig werden. Dabei stehen intensivmedizinisch verschiedene Möglichkeiten zur Verfügung: inhalatives Stickstoffmonoxid (NO), Levosimendan, Milrinon, Iloprost-Verneblung.
+ad 3.: Pulmonale Hypertonie bei Lungenerkrankung oder Hypoxie
+
+Chronisch obstruktive Lungenerkrankung
+Interstitielle Lungenerkrankung, wie Idiopathische pulmonale Fibrose (3.2)
+Schlafapnoe-Syndrom (3.4)Es sind meist leichte Formen der PH und sie sprechen gut auf eine Behandlung mit CPAP-Beatmung an.
+
+Alveoläre Hypoventilation und Chronische Höhenkrankheit  (3.5 sowie 3.6)
+Pulmonale Hypertonie bei angeborenen Herzfehlern (Anlagebedingte Fehlbildungen) (3.7)Angeborene Herzfehler können zur Entwicklung dieses Krankheitsbildes führen: auf Kammerebene der Kammerseptumdefekt (Ventrikelseptumdefekt, VSD; insbesondere ein großer Ventrikelseptumdefekt), ein Atrio-ventrikulärer Septumdefekt (AVSD/AV-Kanal), eine Transposition der großen Arterien (TGA) mit singulärem Ventrikel oder ein Double outlet right ventricle (DORV). Auf Vorhofebene können der Vorhofseptumdefekt (ASD, insbesondere ein großer Vorhofseptumdefekt), Fehleinmündung einer oder mehrerer Lungenvenen die Erkrankung hervorrufen. Auf aorto-pulmonaler Ebene können ein (offener) Ductus arteriosus Botalli (PDA), ein Aorto-pulmonales Fenster oder ein Truncus arteriosus communis Ursache sein. Bei angeborenen Herzfehlern kann es durch Druckanstieg im Lungengefäßsystem zu einer Shunt-Umkehr kommen. Der Lungendruck liegt dann über dem Druck im Körperkreislauf, worauf es in der Lunge zur so genannten Eisenmenger-Reaktion kommt, woraus sich das Krankheitsbild des Eisenmenger-Syndroms entwickeln kann.
+
+
+== Diagnose der pulmonalen Hypertonie ==
+Die aussagekräftigste, direkte Messung des pulmonal-arteriellen Blutdrucks und des PAWP erfolgt bei einer Rechts-Herzkatheteruntersuchung mit Hilfe des Swan-Ganz-Katheters. Bei einem mittleren pulmonalarteriellen Druck (mPAP) von  > 20 mmHg liegt eine PH vor. Eine wichtige nicht-invasive Alternative ist die Feststellung und Abschätzung einer pulmonalen Hypertonie mit Hilfe der Echokardiografie, bei der meist eine Trikuspidalinsuffizienz vorhanden ist. Dies geschieht häufig über den systolischen pulmonalarteriellen Druck (sPAP). Im Jahr 2010 gab es Hinweise, dass die Messung des mPAP vorteilhafter ist. So zeigte eine Echo-Studie an knapp 250 Patienten, dass ein mittlerer PAP von 25,5 mmHg eine PH mit einer sehr guten Sensitivität und Spezifität bzw. diagnostischen Sicherheit detektieren kann.
+Daneben kann auch das Röntgenbild des Thorax auf eine pulmonale Hypertonie hindeuten. Eine eventuelle gleichzeitig bestehende Herzinsuffizienz kann bei der Blutuntersuchung durch ein erhöhtes BNP plausibel gemacht werden. Eine Biopsie des Lungengewebes wird nur bei Verdacht auf eigenständige, eventuell verursachende Lungenerkrankungen durchgeführt. Neben der Anamnese ist der „6-Minuten-Gehtest“, bei dem die Strecke ermittelt wird, die der Patient in sechs Minuten zurücklegen kann, aussagekräftig über die Ausgangslage und den Therapieerfolg. Grundregel der Diagnostik ist, festzustellen, welche Art der PH gegeben ist und ob eine behandelbare Grunderkrankung vorliegt.
+
+
+== Therapie – Stand 2017 ==
+Eine Behandlung setzt eine genaue Feststellung voraus, um welche PH es sich handelt. Wenn eine zur PH führende Grunderkrankung gut behandelt werden kann, kann auch die pulmonale Hypertonie günstig beeinflusst werden. Beispielsweise die Linksherzinsuffizienz, kann als Grunderkrankung oft fachgerecht gut behandelt werden, auch werden Kinder mit angeborenen Herzfehlern möglichst so frühzeitig operiert, dass sich eine pulmonale Hypertonie nicht entwickeln kann.
+Unter Allgemeinmaßnahmen kommt eine Sauerstofftherapie (LTOT) in Frage. Ein Eisenmangel sollte behoben werden, ein Aderlass ist aber fast nie indiziert. Diuretika können eingesetzt werden, manchmal ist eine Antikoagulation notwendig. Fachkundig angeleitetes körperliches Training ist empfohlen. Ein Nikotinverzicht des Patienten und eine Reduzierung eines vorhandenen Übergewichtes auf Normalgewicht ist eigentlich unverzichtbar.
+Die spezielle medikamentöse Therapie der pulmonalarteriellen Hypertonie ist schwierig. Es sind einige Arzneistoffe für die Therapie der pulmonalarteriellen Hypertonie, teilweise mit Einschränkungen, zugelassen. Vor Verordnung dieser Medikamente sollte vom behandelnden Arzt der Rat eines Expertenzentrums eingeholt werden. Manchmal muss mittels Rechtsherzkatheter herausgefunden werden, ob der Patient „Responder“ ist. In Fällen, die einen positiven Vasoreaktivitätstest (eine signifikante Abnahme des Lungenarteriendrucks im Akuttest mit Stickstoffmonoxid) aufweisen, können auch Calciumkanalblocker gegeben werden.
+Je nach Schweregrad der Erkrankung bzw. NYHA-Stadium empfehlen die internationalen Leitlinien den differenzierten Einsatz von  Endothelin-Rezeptorantagonisten, PDE-5-Hemmern, Riociguat oder Prostacyclin-Analoga und in besonderen Fällen die Lungentransplantation. Nach einer Lungentransplantation wegen einer interstitiellen Lungenkrankheit (ILD) beträgt die mittlere Überlebenszeit etwa fünf Jahre.
+
+
+== Veterinärmedizin ==
+Es werden eingesetzt:
+
+Pimobendan, Inodilatator
+
+
+== Prognose ==
+Die Prognose ist je nach Ursache und Ausprägung der PH unterschiedlich. Ein mögliches Versterben geschieht durch eine meist akut einsetzende rechtskardiale Dekompensation (Rechtsherzversagen) mit bösartigen Herzrhythmusstörungen.
+
+
+== Literatur ==
+Deutsche Gesellschaft für Kardiologie – Arbeitsgemeinschaft pulmonalen Hypertonie: Diagnostik und Therapie der chronischen pulmonalen Hypertonie. In: Clinical Research in Cardiology. Band 96, Nr. 5, 2007, S. 301–330 (leitlinien.dgk.org [PDF]). 
+Ventzislav Petkov, D. Doberer: Pulmonale Hypertonie. In: Journal of Hypertonie. Band 7, Nummer 3, 2003, S. 7–15. online (Memento vom 28. September 2007 im Internet Archive)
+Ina Michel-Behnke u. a.: Pulmonale Hypertension im Kindes- und Jugendalter: Möglichkeiten der Langzeitbehandlung. In: Deutsches Ärzteblatt. Band 94, Nr. 14, 4. April 1997, S. A-917–923 (aerzteblatt.de [PDF]). 
+Nazzareno Galiè, Alessandra Manes, Luca Negro, Massimiliano Palazzini, Maria Letizia Bacchi-Reggiani, Angelo Branzi u. a.: A meta-analysis of randomized controlled trials in pulmonary arterial hypertension. In: European Heart Journal. Band 30, Nr. 4, 2009, S. 394–403, PMC 2642921 (freier Volltext). 
+Nazzareno Galie, Gerald Simonneau u. a.: The Task Force for the Diagnosis and Treatment of Pulmonary Hypertension of the European Society of Cardiology (ESC) and the European Respiratory Society (ERS), endorsed by the International Society of Heart and Lung Transplantation (ISHLT). In: European Heart Journal. Band 30, Nr. 20, 2009, S. 2493–2537 (eurheartj.oxfordjournals.org [PDF]). 
+S2k-Leitlinie Pulmonal Arterielle Hypertonie (PAH) im Kindes- und Jugendalter der Deutsche Gesellschaft für Pädiatrische Kardiologie (DGPK). In: AWMF online (Stand 2013)
+
+
+== Weblinks ==
+COMPERA (structured, non-interventional registry for patients with any form of pulmonary hypertension or pulmonary arterial hypertension: Register mit > 10.000 Patienten, davon 80 % aus Deutschland)
+Deutscher Selbsthilfeverein pulmonale Hypertonie e.v.
+Informationsseite der Medizinischen Hochschule Hannover
+Kinder P.P.H. Forschungsverein (Österreich)
+Lungenhochdruck Lungeninformationsdienst.de
+René Baumgart-Stiftung zur Förderung der klinischen Forschung im Bereich pulmonale Hypertonie bei Kindern und Erwachsenen
+Schweizer PH-Verein (SPHV) für Menschen mit pulmonaler Hypertonie
+
+
+== Einzelnachweise ==

@@ -1,0 +1,71 @@
+Der Begriff Sick-Sinus-Syndrom (Synonyme: Sinusknotensyndrom, Sinusknotenerkrankung, Syndrom des kranken Sinusknotens) fasst verschiedene Herzrhythmusstörungen zusammen, die auf Fehlfunktionen des Sinusknotens und der Erregungsleitung auf Vorhofebene beruhen. Das Sick-Sinus-Syndrom betrifft meist Menschen ab dem 50. Lebensjahr und ist wahrscheinlich bei Männern und Frauen gleich häufig. In deutschen Krankenhäusern wurde es im Jahr 2017 als Indikation für 35 % der etwa 78.000 Herzschrittmacherimplantationen genannt.Ursache des Sick-Sinus-Syndroms ist häufig eine unspezifische narbige Degeneration im Erregungsleitungssystem des Herzens oder eine mechanische Überdehnung der Vorhöfe. Bei Kindern wird es oft nach Operationen im Bereich des rechten Vorhofes bei angeborenen Herzfehlern beobachtet, insbesondere nach der Fontan-Operation (was aber mit zunehmender Erfahrung abnimmt).
+
+
+== Definition und Verwendung des Begriffes ==
+Der Begriff sick sinus syndrome wurde 1962 durch den US-amerikanischen Kardiologen Bernard Lown geprägt. Eine allgemein akzeptierte Definition des Sick-Sinus-Syndroms existiert bis heute nicht. Theoretisch kann die Diagnose gestellt werden, wenn mindestens einer der typischen Befunde im Elektrokardiogramm nachgewiesen wurde:
+
+inadäquate Sinusbradykardie ohne andere Ursache,
+Sinusknotenstillstand,
+sinuatrialer Block,
+Vorhofflimmern,
+Vorhofflattern und
+supraventrikuläre Tachykardien.Da diese zum Syndrom zählenden Rhythmusstörungen aber unterschiedlich behandelt werden, ist deren Bezeichnung mit dem gemeinsamen Begriff Sick-Sinus-Syndrom unüblich. Der Begriff wird in der Regel nur unter besonderen Umständen verwendet, insbesondere
+
+beim kombinierten Auftreten von Rhythmusstörungen mit ausgeprägt niedrigen und hohen Pulsfrequenzen (Tachykardie-Bradykardie-Syndrom) und
+aus traditionellen Gründen zur Begründung einer Herzschrittmachertherapie bei Sinusbradykardie, Sinusknotenstillstand oder sinuatrialem Block.
+
+
+== Einteilung nach Art der Rhythmusstörung ==
+Sinusarrest
+SA-Block
+Sinusbradykardie
+Supraventrikuläre Extraschläge
+Supraventrikuläre Tachykardie
+Vorhofflimmern
+Vorhofflattern
+Bradykardie-Tachykardie-Syndrom
+
+
+== Ursachen ==
+Die häufigste Ursache des Sick-Sinus-Syndroms ist wahrscheinlich die arterielle Hypertonie, die zu einer chronischen Druckbelastung der Vorhöfe und dann auch zur Überdehnung der Muskelfasern führt.
+Weitere Ursachen sind:
+
+Sick-Sinus-Syndrom ohne erkennbare strukturelle Herzerkrankung
+bei Myokarditis
+bei Intoxikationen
+bei Vorhofüberdehnung
+bei hypertensiver Herzerkrankung
+bei Mitralklappenfehlern
+bei Trikuspidalklappenfehlern
+bei pulmonalem Hochdruck
+bei Pericarditis constrictiva
+bei koronarer Herzerkrankung
+mit Durchblutungsstörung des Sinusknotens und des Vorhofes
+ohne Durchblutungsstörung des Sinusknotens und des Vorhofes
+
+
+== Untersuchungsmöglichkeiten ==
+Die entscheidende Untersuchungsmethode zur Erkennung des Sick-Sinus-Syndroms ist das Langzeit-EKG. Sinnvoll ist auch eine Echokardiografie.
+Seltener notwendig sind ein Atropintest, ein Belastungs-EKG, eine Langzeitblutdruckmessung oder eine Herzkatheteruntersuchung.
+Eine spezielle, sehr aufwendige Untersuchungsmethode des Sick-Sinus-Syndroms ist die elektrophysiologische Untersuchung.
+
+
+== Therapie ==
+Grundsätzlich muss bei einem chronischen Sick-Sinus-Syndrom mit symptomatischen Bradykardien oder Pausen von mehr als 3 Sekunden ein Herzschrittmacher implantiert werden, wobei zumeist DDD-Systeme verwendet werden.
+Neben der Behandlung der Grunderkrankung können nach Schrittmacher-Implantation Betablocker, Dronedaron oder Amiodaron zum Erhalt des Sinusrhythmus sinnvoll sein.
+In der Akutphase sollte wegen der Gefahr, Pausen oder symptomatische Bradykardien zu induzieren, eine negativ chronotrope Medikation gänzlich unterbleiben. Bei symptomatischer Bradykardie oder beginnender Herzinsuffizienz wird in der akuten Phase Atropin 0,5 mg intravenös, alternativ (außerhalb der Zulassung als Off-Label-Use)  Orciprenalin intravenös 1–3 Mikrogramm, angesetzt.
+Ist eine Vergrößerung des Vorhofes nachweisbar und liegt ein Vorhofflimmern vor, sollte eine Antikoagulation eingeleitet werden.
+Bei bradykarden Formen des Sick-Sinus-Syndroms ist die Implantation eines Herzschrittmachers sinnvoll.
+Eine Katheterablation wird bislang beim Sick-Sinus-Syndrom nur selten durchgeführt.
+
+
+== Siehe  auch ==
+SA-Block
+Präautomatische Pause
+
+
+== Literatur ==
+V. Adan, L. A. Crown: Diagnosis and Treatment of Sick Sinus Syndrome. In: Am Fam Physician. (2003); 67, S. 1725–1732. PMID 12725451
+
+
+== Einzelnachweise ==

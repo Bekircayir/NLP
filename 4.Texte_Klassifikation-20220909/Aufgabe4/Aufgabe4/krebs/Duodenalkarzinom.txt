@@ -1,0 +1,45 @@
+Als Duodenalkarzinom bezeichnet man alle bösartigen (malignen) Tumoren des Duodenums (Zwölffingerdarm).
+
+
+== Risikofaktoren ==
+Als Risikofaktoren gelten die familiäre adenomatöse Polyposis (obligate Präkanzerose), das Lynch-Syndrom, ein Morbus Crohn, Zöliakie, das Peutz-Jeghers-Syndrom und das Gardner-Syndrom.
+
+
+== Pathologie ==
+
+
+=== Makroskopische und mikroskopische Pathologie des Duodenalkarzinoms ===
+Morphologisch wächst das Duodenalkarzinom meist polypoid. Es kommen auch szirrhöse und sessile Formen vor.
+Histologisch liegt in den meisten Fällen ein Adenokarzinom vor, gefolgt von Sarkomen, Karzinoiden und Lymphomen.
+
+
+=== TNM-Klassifikation des Duodenalkarzinoms ===
+Die TNM-Klassifikation dient der Charakterisierung des Tumors (sog. Staging). TNM ist eine Abkürzung für
+
+T= Tumor: Ausdehnung des Primärtumors
+N= Nodus: Lymphknoten, Fehlen bzw. Vorhandensein von regionalen Lymphknotenmetastasen
+M= Metastasen: Fehlen bzw. Vorhandensein von Fernmetastasen
+
+
+== Symptome ==
+Bei ulcerierenden Tumoren kommt es häufig zu einer Anämie durch den Blutverlust und den damit einhergehenden Symptomen Leistungsabfall, Müdigkeit und allgemeine Schwäche. Weiterhin sind Gewichtsabnahme, postprandiales Druckgefühl, Erbrechen und abdominelle Schmerzen zu beobachten.
+Bei Tumoren, die in der Nähe der Papilla Vateri liegen, kommt es häufig zu einem schmerzlosen Ikterus, wenn der Tumor die Papille komprimiert. Im Spätstadium der Erkrankung kommt es mitunter zu einem kompletten Verschluss des Zwölffingerdarmes (Ileus).
+
+
+== Diagnostik ==
+Die Diagnostik erfolgt mittels Sonographie, Gastroduodenoskopie mit Entnahme einer Biopsie, Enteroklysma, Computertomographie oder Magnetresonanztomographie.
+
+
+== Therapie ==
+Die Therapie richtet sich vor allem nach der genauen Tumorlokalisation und dem Stadium der Erkrankung. In der Regel wird eine vollständige operative Resektion (Entfernung) des befallenen Darmabschnittes und die Entfernung des zugehörigen Lymphabflussgebietes angestrebt. Circa 80 % der Karzinome sind bei Diagnosestellung resektabel. Meist wird eine pyloruserhaltende Duodenopankreatektomie (sog. Whipple-OP) durchgeführt. Bei rein palliativen Operationen werden biliodigestive Anastomosen angestrebt, z. B. durch eine Choledochoduodenostomie oder eine Hepatikojejunostomie. In manchen Fällen wird ein Stent zur Erhaltung der Nahrungspassage gelegt. Stellt sich der Tumor als inoperabel dar, kann bei tumorbedingten Schmerzen oder signifikanten Blutverlusten eine Strahlentherapie indiziert sein. Weiterhin kann eine palliative Chemotherapie, z. B. mit Fluorouracil, zur Beschwerdelinderung beitragen. Die Chemotherapie richtet sich dabei nach den Empfehlungen zur Behandlung des kolorektalen Karzinoms.
+
+
+== Prognose ==
+Die Fünf-Jahres-Gesamtüberlebensrate liegt bei etwa 30 %. Bei Patienten, bei denen der Tumor vollständig entfernt werden konnte und die keine Metastasierung aufweisen, liegt die Fünf-Jahres-Überlebensrate zwischen 45 % und 70 %. Sind Lymphknotenmetastasen vorhanden, sinkt der Wert auf 12–14 %.
+
+
+== Weblinks ==
+Erfassungsbogen Dünndarmkarzinom (PDF; 1,5 MB), Arbeitsgemeinschaft Deutscher Tumorzentren, auf der Homepage der Uniklinik Heidelberg
+
+
+== Einzelnachweise ==

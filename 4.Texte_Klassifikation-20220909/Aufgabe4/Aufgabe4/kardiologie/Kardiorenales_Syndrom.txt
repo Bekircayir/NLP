@@ -1,0 +1,76 @@
+Als kardiorenales Syndrom (KRS) wird in der Medizin eine gleichzeitige Erkrankung von Herz und Niere bezeichnet, bei der die akute oder chronische Funktionseinschränkung des einen Organs zu einer Funktionseinschränkung des anderen Organs führt. „Funktionsstörungen des Herzens können die Nierenfunktion ungünstig beeinflussen und umgekehrt“, auch ohne eigentliche Herzkrankheiten oder Nierenkrankheiten.
+
+
+== Geschichte ==
+Schon Pierre François Olive Rayer (7. März 1793 – 10. September 1867) wusste, dass „selbst ganz gesunde Nieren bei bedeutenden Störungen des Herzens“ eine Niereninsuffizienz zeigen. Johanna Bleker wies darauf hin, dass Francois-Olivier [sic] Rayer den Morbus Brightii (Richard Bright, 28. September 1789 – 16. Dezember 1858) als Nephritis albuminosa bezeichnete. Carl Anton Ewald sah 1888 dagegen eine „Structurveränderung der Nieren in Verbindung mit der Hypertrophie des Herzens.“„Auch wurde in der Zeit zwischen den Weltkriegen deutlicher betont, daß die Nieren primär gesund sind und ihre Funktion erst im Gefolge primär extrarenaler Einwirkungen, zum Beispiel Kreislaufstörungen oder massiver Dehydratation, beeinträchtigt wird. ... Nonnenbruch (1942) faßte deshalb die Fälle von extrarenalen Azotämien, bei denen sich zwar nach seiner Auffassung kein charakteristisches morphologisches Substrat, aber doch unabhängig von anatomischen Läsionen eine Hyposthenurie als Hinweis auf das gleichzeitige Vorhandensein eines renalen Faktors fand, als extrarenales Nierensyndrom zusammen und exemplifizierte es vor allem am akuten hepatorenalen Syndrom.“Wie das hepatorenale Syndrom wird auch das kardiorenale Syndrom zu den extrarenalen Nieren-Syndromen nach Wilhelm Nonnenbruch gezählt. Unabhängig davon wurde der Begriff des kardiorenalen Syndroms ursprünglich nur für den Zustand verwendet, bei dem die Therapie einer Herzinsuffizienz (Herzschwäche) durch eine zunehmende Verschlechterung der Nierenfunktion (Niereninsuffizienz) begrenzt wird. Aufgrund der hohen praktischen Relevanz wird diese Definition im klinischen Alltag weiterhin häufig verwendet. Früher sprach man vom kardiorenalen Asthma und vom Asthma uraemicum.Im Jahr 2008 wurde der Begriff des KRS durch die Acute Dialysis Quality Initiative (ADQI) so erweitert, dass er das gesamte Spektrum der gegenseitigen Beeinflussung der beiden Organe umfasst. Zur Unterscheidung werden der Begriff kardiorenales Syndrom (im engeren Sinne) verwendet, wenn eine Herzerkrankung zu einer Schädigung der Niere führt, und der Begriff renokardiales Syndrom, wenn umgekehrt eine Nierenerkrankung das Herz schädigt. Hierbei entstehe eine Täter-Opfer-Konstellation: Renokardiale Insuffizienz – kardiorenale Insuffizienz. Eingeschlossen ist im Weiteren der Zustand, bei dem eine systemische Grunderkrankung zu einer simultanen Schädigung von Niere und Herz führt.
+
+
+== Epidemiologie ==
+Daten zur Epidemiologie des KRS liegen kaum vor. Bei Patienten mit einer stabilen Herzinsuffizienz liegt in 20 – 60 % der Fälle auch eine chronische Niereninsuffizienz vor. Kommt es zu einer akuten Dekompensation der Herzinsuffizienz, ist eine gleichzeitige Niereninsuffizienz mit fast 70 % deutlich häufiger. Bei Patienten mit terminaler Niereninsuffizienz ist die Herzinsuffizienz die häufigste Todesursache.
+
+
+== Einteilung ==
+Die aktuelle Einteilung des KRS wurde durch Ronco et al. vorgeschlagen und 2008 auf einer Konsensus-Konferenz der ADQI akzeptiert. Sie unterscheidet fünf Typen nach pathogenetischen Gesichtspunkten und dem zeitlichen Verlauf.
+Eine eindeutige Zuordnung ist klinisch häufig nicht möglich. Die chronische Herzinsuffizienz und die Niereninsuffizienz kommen oft gemeinsam vor, da ihnen weitgehend die gleichen Risikofaktoren zugrunde liegen. Somit ist Typ 5 sehr häufig. Kommt es beispielsweise bei Typ 5 zu einer akuten Verschlechterung der Herzinsuffizienz, kann gleichzeitig der Typ 1 vorliegen.
+
+
+== Pathophysiologie ==
+Bei der Entstehung des Kardiorenalsyndroms kommt es zu einer wechselseitigen Beeinflussung zwischen Herz und Niere in dem Sinne, dass eine Herzinsuffizienz die Funktion der Nieren einschränkt, während eine Niereninsuffizienz wiederum die Herzfunktion beeinträchtigt. „Allerdings konnte in mechanistischen Studien im Wesentlichen keine Korrelation zwischen einer Verschlechterung der Nierenfunktion, dem Herzzeitvolumen, den linksseitigen Füllungsdrücken und einer reduzierten renalen Perfusion nachgewiesen werden. Bei den meisten Patienten mit kardiorenalem Syndrom findet sich keine eigeschränkte Ejektionsfraktion.“
+
+
+=== Kardiorenale Einflüsse (Typ 1 und 2) ===
+Warum eine Herzinsuffizienz die Nierenfunktion verschlechtert, ist bislang nicht abschließend geklärt. Nach der ursprünglichen Erklärung werden die Nieren durch die verminderte Pumpfunktion des Herzens (Vorwärtsversagen) schlechter durchblutet, das daraus folgende Nierenversagen wird prärenales Nierenversagen genannt. Allerdings konnte in Studien kein Zusammenhang zwischen dem Ausmaß der Niereninsuffizienz und der Pumpfunktion des Herzens festgestellt werden, sodass diesem Mechanismus mittlerweile wenig Bedeutung beigemessen wird. Vielmehr kommt es insbesondere bei jenen Patienten zu einem Nierenversagen, bei denen ein erhöhter Druck in den großen, in das Herz mündenden Venen gemessen wurde. Man geht daher davon aus, dass dem Blutrückstau vor dem Herzen (Rückwärtsversagen) größere Bedeutung zukommt.
+Durch den Blutrückstau vor dem Herzen kommt es zu einer Druckerhöhung in den venösen Gefäßen und damit auch zu einer venösen Stauung der Niere. Es wird vermutet, dass hierbei der Druck innerhalb des Bowman-Kapselraums ansteigt und dadurch der Druckunterschied zwischen glomerulären Kapillaren und dem Kapselraum sinkt. Da dieser Unterschied eine treibende Kraft für die Produktion des Primärharns ist, kommt es zu einem intrarenalen Nierenversagen.
+Eine weitere Theorie besagt, dass die venöse Stauung zu einem erhöhten interstitiellen Druck in der Niere führt, welcher einen Sauerstoffmangel (Hypoxie) im Gewebe auslöst. Dadurch können die Nierenzellen nicht mehr richtig arbeiten oder sogar absterben.
+Eine Herzinsuffizienz führt schon frühzeitig zur Aktivierung des Renin-Angiotensin-Aldosteron-Systems (RAAS). Die vermehrte Produktion von Angiotensin II und Aldosteron führt zu einer übermäßigen Flüssigkeitsrückresorption und damit zu einer weiteren Erhöhung des venösen Drucks.Eine seltene kardiale Ursache des Kardiorenalsyndroms ist die Herztransplantation beim Kleinkind. Das gespendete Herz wächst im Laufe der Jahre nicht proportional mit. Es kommt zur Herzinsuffizienz mit reduzierten Herzzeitvolumen und reduzierter renaler Perfusion. Die glomeruläre Filtration sinkt; es kommt zum chronischen Nierenversagen.
+
+
+=== Renokardiale Einflüsse (Typ 3 und 4) ===
+Eine Niereninsuffizienz führt zu einer erhöhten Herzbelastung durch Erhöhung von Vor- und Nachlast, das heißt, dass das Herz mehr Blut bewegen muss (Vorlasterhöhung) und einen größeren Druck beim Auswurf aus den Kammern aufzubringen hat (Nachlasterhöhung). Über eine Aktivierung des Sympathikus kommt es zu einer Erhöhung des Blutdrucks und damit der Nachlast, über eine Aktivierung des RAAS kommt es durch erhöhte Flüssigkeitsrückresorption zur Erhöhung der Vorlast. Die durch die RAAS-Aktivierung erhöhten Aldosteron-Konzentrationen begünstigen weiterhin direkt eine Fibrose, eine Hypertrophie (Wandverdickung) und eine Dilatation des Herzmuskels (Vergrößerung des Kammerdurchmessers) und damit eine Herzinsuffizienz. Die für chronische Nierenerkrankungen typische renale Anämie (eine durch die Nierenschädigung bedingte Blutarmut) ist ebenfalls mit einer Hypertrophie und einer Dilatation des linken Ventrikels assoziiert.Ob eine Niereninsuffizienz einen kausalen Faktor in der Entwicklung einer koronaren Herzerkrankung (KHK) darstellt, ist strittig. Diskutiert wird ein negativer Einfluss von Urämietoxinen (körpereigene Schadstoffe, die bei einer Niereninsuffizienz im Blut akkumulieren) auf die Endothelfunktion als Risikofaktor für eine Arteriosklerose. Weiterhin werden Störungen im Vitamin-D/Kalzium-Phosphat-Stoffwechsel mit einer zunehmenden Steifigkeit von Blutgefäßen in Verbindung gebracht. Durch die vielen gemeinsamen Risikofaktoren von Niereninsuffizienz und  KHK wird eine Niereninsuffizienz jedoch häufig als Anzeichen einer generellen Gefäßschädigung interpretiert und nicht als eigenständiger Risikofaktor für die KHK.
+
+
+=== Externe Einflüsse (Typ 5) ===
+Eine Reihe von Erkrankungen führt simultan zu Schäden an Herz und Nieren; als Prototyp gilt die Sepsis. Patienten mit einer Sepsis entwickeln häufig eine Einschränkung der Nierenfunktion sowie Zeichen einer Herzinsuffizienz (z. B. erhöhte Troponin-Werte). Als Ursachen werden zum einen Mikrozirkulationsstörungen in beiden Organen, zum anderen toxische Effekte durch deutlich erhöhte Katecholamin-Konzentrationen angesehen. Weitere Erkrankungen, welche beide Organe schädigen können, sind unter anderem der Diabetes mellitus, die Amyloidose und der Lupus erythematodes.
+
+
+== Klinik ==
+Der häufigste Grund für eine Krankenhausbehandlung von Patienten mit KRS ist eine akute Flüssigkeitsüberladung (hydropische Dekompensation). Klassische Symptome sind zunehmende Ödeme an den Extremitäten sowie Luftnot aufgrund von Lungenödemen oder Pleuraergüssen. Weiterhin kann es zu Oberbauchbeschwerden im Rahmen einer Stauungsgastritis oder einer Stauungs­hepatopathie kommen.
+
+
+== Diagnostik ==
+Die Diagnose des KRS orientiert sich an den etablierten diagnostischen Kriterien für Herz- und Nierenerkrankungen. Die Herzinsuffizienz wird anhand der Kriterien der European Heart Association beziehungsweise der American Heart Association diagnostiziert. Ein akutes Nierenversagen wird nach den RIFLE-Kriterien eingeteilt, eine chronische Niereninsuffizienz nach den KDIGO/KDOQI-Kriterien.
+
+
+== Therapie ==
+„Behandelt wird interdisziplinär kardiologisch, nephrologisch sowie intensivmedizinisch.“
+
+
+=== Therapie des kardiorenalen Syndroms (Typen 1 und 2) ===
+
+
+==== Regulation des Flüssigkeitshaushalts ====
+Zur Verbesserung der Nierenfunktion ist es entscheidend, den Flüssigkeitshaushalt optimal zu steuern. Vor allem beim akuten KRS (Typ 1) liegt häufig ein Flüssigkeitsüberschuss vor, welcher durch Einschränkung der Trinkmenge und durch Diuretika (harntreibende Mittel) vermindert werden kann. Höchsten Stellenwert haben hier die Schleifendiuretika. Da die Resorption bei oraler Gabe wegen einer häufig gleichzeitig bestehenden Stauungsgastritis vermindert ist, sollte diese im Akutstadium bevorzugt intravenös erfolgen. Zur Verbesserung der Effektivität ist eine sequenzielle Nephronblockade (Kombination eines Schleifendiuretikums mit einem Thiaziddiuretikum) anzustreben. Hierbei müssen mittels Laborkontrollen regelmäßig die Nierenfunktion und der Elektrolythaushalt überprüft werden. Lediglich bei terminaler Niereninsuffizienz (GFR <15 ml/min) werden Schleifendiuretika alleine gegeben. Eine entwässernde Therapie mit Vasopressin-Antagonisten (Vaptanen) ist unüblich und führte zu keinem Überlebensvorteil.Die diuretische Therapie bewegt sich auf einem schmalen therapeutischen Grat: Wird zu viel Flüssigkeit entzogen, kommt es zu einem intravasalen Volumenmangel und zu einer prärenalen Verschlechterung der Niereninsuffizienz. Wird zu wenig Flüssigkeit entzogen, führt der erhöhte renal-venöse Druck zu einer renalen Verschlechterung der Niereninsuffizienz und es kommt nicht zu einer ausreichenden Verbesserung der Lungenödeme.Wird durch Einschränkung der Flüssigkeitsaufnahme und eine adäquate Diuretika-Therapie kein ausreichender Flüssigkeitentzug erreicht, spricht man von einer Diuretika-Resistenz. Hier kann eine Dialyse-Therapie durch Volumenentzug den Teufelskreis einer sich gegenseitig verstärkenden Herz- und Niereninsuffizienz durchbrechen. Auf diese Weise kann die Zeit überbrückt werden, bis die medikamentöse Therapie der Herzinsuffizienz ausreichend Wirkung zeigt.
+
+
+==== Herzinsuffizienzmedikation ====
+Als Basistherapie wird eine leitliniengerechte Herzinsuffizienzmedikation durchgeführt. Da in klinischen Studien zur Herzinsuffizienz Patienten mit fortgeschrittener Niereninsuffizienz häufig ausgeschlossen wurden, ist die Datenlage für Patienten mit KRS jedoch schwach. Neben der Gabe von Betablockern wird eine Blockade des RAAS mit ACE-Hemmern oder AT1-Antagonisten empfohlen. Insbesondere Patienten mit moderater Niereninsuffizienz (GFR um 45 ml/min) scheinen von einer ACE-Hemmer-Therapie zu profitieren (CONSENSUS-Studie). Da ACE-Hemmer zu einem Anstieg des Serum-Kreatinins führen können, wird ein vorsichtiges Einschleichen der Dosierung empfohlen, um eine Verschlechterung der Nierenfunktion zu vermeiden. Auch Aldosteronantagonisten werden eingesetzt, müssen aufgrund der Hyperkaliämiegefahr jedoch insbesondere bei schwererer Niereninsuffizienz vorsichtig und niedrig dosiert verwendet werden.Im Rahmen einer akuten hydropischen Dekompensation werden zusätzlich zur entwässernden Therapie auch schnell wirksame Vasodilatantien (gefäßerweiternde Mittel) wie Nitroglycerin eingesetzt, welche zu einer Stabilisierung der Herzfunktion beitragen, indem sie die Vor- und Nachlast am Herzen senken.
+
+
+=== Therapie des renokardialen Syndroms (Typen 3 und 4) ===
+Weil diese Typen des kardiorenalen Syndroms erst vor kurzen definiert wurden, existieren noch keine etablierten Therapiestrategien.
+Da das akute renokardiale Syndrom (Typ 3) häufig nach Kontrastmittelexposition nach herzchirurgischen Eingriffen auftritt, kommt der Prävention eines kontrastmittelinduzierten Nierenversagens eine hervorgehobene Bedeutung zu. Weil die durch das akute Nierenversagen bedingte Volumenüberladung entscheidend an der Entwicklung der Herzinsuffizienz beteiligt ist, sollte diese verhindert bzw. behoben werden.Beim chronischen renokardialen Syndrom (Typ 4) wird neben der Therapie der renalen Grunderkrankung eine kardioprotektive Herzinsuffizienzmedikation (ACE-Hemmer, Betablocker, s. o.) durchgeführt. Diskutiert wird, ob eine Therapie der häufig vorhandenen renalen Anämie zu einer Verbesserung der Herzinsuffizienz führt. Es gibt jedoch Hinweise, dass bei renaler Anämie das Anheben des Hämoglobin (Hb)-Wertes auf Normalwerte zu vermehrten ungünstigen kardiovaskulären Ereignissen führt. Daher wird bei chronischer Niereninsuffizienz derzeit ein Anheben des Hb-Wertes auf maximal 11,5 g/dl (unterhalb des Normbereiches) empfohlen.
+
+
+=== Therapie des sekundären kardiorenalen Syndroms (Typ 5) ===
+Die Therapie des sekundären KRS richtet sich nach der Grunderkrankung.
+
+
+== Siehe auch ==
+Glomeruläre Filtrationsrate
+
+
+== Literatur ==
+Gert Mayer: Das kardiorenale Syndrom, Uni-Med Verlag, Bremen / London / Boston 2013, ISBN 978-3-8374-1335-9, 128 Seiten
+
+
+== Einzelnachweise ==

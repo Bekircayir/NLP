@@ -1,0 +1,30 @@
+Nest Labs Inc. ist ein Automatisierungsunternehmen mit Sitz in Palo Alto, welches sich mit selbstlernenden Raumthermostaten und Rauchmeldern beschäftigt. Nest Labs ist eine Tochtergesellschaft der Holding Alphabet Inc.
+
+
+== Unternehmensgeschichte ==
+Nest wurde im Jahr 2010 von Tony Fadell und Matt Rogers gegründet. Das Unternehmen konnte vor der Gründung 50 Mio. US-Dollar Risikokapital einwerben. Frühe Investoren waren Kleiner Perkins Caufield & Byers und Shasta Ventures. 2011 investierte auch Google Ventures in Nest.
+Die Auslieferung der Thermostate begann im Herbst 2011. Die erste Charge war innerhalb einer Woche ausverkauft. Im Jahr 2012 stieß Chip Lutton, Apples ehemaliger oberster Patentberater, zum Unternehmen; unter seiner Anleitung wurde das Patentportfolio entscheidend ausgebaut. Im April 2012 erhob Honeywell Klage gegen Nest wegen Patentrechtsverletzungen.
+Seit Oktober 2012 wurde die zweite Generation der Nest-Heizungsregler vertrieben. Nest Labs gehört zu den Partnern der im Jahr 2013 gestarteten US-amerikanischen Energieinitiative MyEnergi Lifestyle des Autoherstellers Ford. Im Januar 2014 wurde Nest von Google Inc. für 3,2 Mrd. US-Dollar übernommen, was es zur zweitgrößten Firmenübernahme in Googles Geschichte nach Motorola Mobility macht. Seit August 2015 gehört Nest in Folge der Umstrukturierung von Google zur Alphabet Inc.
+
+
+== Produkte ==
+Nest Labs stellt "Smart Appliances" für das "denkende Zuhause" her. Die Thermostate sind lernfähig und passen die Raumtemperatur an die Außentemperatur und die Gewohnheiten der Bewohner an, senken die Temperatur sensorgesteuert, Wi-Fi-unterstützend und programmierbar (siehe auch: Hausautomation), wenn sich keine Personen im Haus befinden. Die programmierbaren Raumtemperatur-Regler sollen die in den USA übliche, wenig effiziente 2-Punkt-Regelung (nur 0 oder 100 % Heiz- bzw. Kühlleistung gegenüber der in anderen Ländern üblichen Stetigregelung) verbessern. Der Thermostat erlernt anhand der gewählten Einstellungen die Gewohnheiten seines Benutzers.
+Nest entwarf Raumthermostate als Ersatz für Zweipunkt-Heizungsthermostate in US-Haushalten. Dabei wird wegen der in den USA üblich geringen Gebäudemasse (Holzbauweise) die gewünschte Raumtemperatur durch getaktetes Ein und Ausschalten der Heizung/Kühlung geregelt.
+War ursprünglich das Nest Thermostat als Klemmbrett für die US-Gebäudetechnik konzipiert, so unterstützt die dritte Thermostat-Generation den weltweiten OpenTherm Standard - und ist so mit neueren Heizanlagen in Europa kompatibel.
+
+
+== Installation ==
+Nest-Thermostate werden zur Selbstinstallation beworben. Nest bietet aber zusätzlich in den für den Betrieb von Nest-Thermostaten freigegebenen Ländern einen Installationsservice an. Bei der Konfiguration der Nest-Heizungsregler wird zur geografischen Optimierung die Eingabe der jeweiligen Postleitzahl benötigt. Daher empfiehlt sich der Kauf von Nest-Thermostaten nur in jenen Ländern, die von Nest bereits freigegeben sind. Google möchte mit der Übernahme von Nest im Bereich "Internet der Dinge" zum Marktführer aufsteigen. Es wird geschätzt, dass Nest zurzeit über 40.000 Thermostate pro Monat mit großen Wachstumsraten verkauft. Der Umsatz wurde im Jahr 2013 nicht ausgewiesen.
+
+
+== Auszeichnungen ==
+2012: Technology Innovation Award des Wallstreet Journal in der Kategorie Energie
+
+
+== Weblinks ==
+Website von Nest Labs
+Warum Google Milliarden für Rauchmelder ausgibt. Das Magazin "Stern" erklärt die Logik hinter der Übernahme
+Nest-Übernahme: Google will in Ihr Schlafzimmer, Spiegel Online
+
+
+== Einzelnachweise ==

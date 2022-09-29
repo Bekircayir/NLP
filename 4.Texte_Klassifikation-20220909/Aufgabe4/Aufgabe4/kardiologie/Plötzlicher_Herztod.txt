@@ -1,0 +1,148 @@
+Plötzlicher Herztod (PHT), auch Sekundenherztod oder Sekundentod, ist ein medizinischer Fachausdruck für einen plötzlich und unerwartet eingetretenen Tod kardialer Ursache. Eine Studie der American Heart Association zeigt jedoch auf, dass jeder zweite Patient vor dem plötzlichen Herztod an warnenden Symptomen wie Brustschmerzen, Atemnot oder Schwindel leidet. Im angloamerikanischen Sprachraum ist die Bezeichnung Sudden Cardiac Death (SCD) gebräuchlich.
+Der Tod ist hierbei meist Folge eines anhaltenden Kammerflimmerns oder einer anhaltenden Kammertachykardie, die dann zum Herzstillstand führen. Wird einer dieser Zustände durch Defibrillation oder Wiederbelebungsmaßnahmen erfolgreich und dauerhaft beendet, wird die Formulierung „überlebter plötzlicher Herztod“ oder „Zustand nach Reanimation“ verwendet.
+
+
+== Häufigkeit ==
+Der plötzliche Herztod stellt in den modernen westlichen Gesellschaftsformen die häufigste tödliche Manifestationsform einer Herzerkrankung dar. In Deutschland sterben daran pro Jahr 100.000 bis 200.000 Menschen, trotz gesunkener allgemeiner kardiovaskulärer Mortalität. Beim Vorliegen einer klinisch bedeutsamen Herzerkrankung ist das Risiko, einen plötzlichen Herztod zu erleiden, 6- bis 10-fach erhöht; eine koronare Herzerkrankung allein erhöht das Risiko auf das 2- bis 4-fache.
+Männer sterben häufiger den plötzlichen Herztod als Frauen (Männer/Frauen pro 100.000: 411/275), die Mortalität steigt mit dem Alter (Männer/Frauen pro 100.000: 35 bis 44 Jahre 34/12; 75 bis 84 Jahre 1363/929). Das Risiko eines plötzlichen Herztodes ist für Leistungssportler 2,5-mal so hoch wie für Nicht-Sportler, wobei der Sport nicht die Ursache für die höhere Erkrankungsrate ist, sondern als Auslöser der Erkrankung bei Vorliegen angeborener Herzerkrankungen verstanden werden muss.
+
+
+=== Bei jungen Menschen ===
+Für die Altersgruppe junger Menschen bis 35 Jahren zeigen Studien eine Häufigkeit von 1,3 pro 100.000 Personenjahre in Australien und Neuseeland, 1,8 in England und Wales sowie 2,8 in Dänemark. In der australisch-neuseeländischen Studie mit 490 untersuchten Fällen lag die Inzidenz in der Altersgruppe zwischen 31 und 35 Jahren mit 3,2 Fällen pro 100.000 Personenjahre am höchsten, hauptsächlich ausgelöst durch eine Koronare Herzkrankheit. Über alle Altersgruppen fand diese sich bei 24 % aller Fälle, eine Kardiomyopathie fand sich in 16 %, und  in 40 % konnte bei der Autopsie keine Ursache festgestellt werden. In dieser Gruppe wurde aber bei 27 % der untersuchten Fälle eine Genmutation gefunden, die in den meisten Fällen Proteine der Ionenkanäle betraf. Das mittlere Alter lag bei 24 Jahren mit einer Standardabweichung von 10 Jahren. In 72 % waren Jungen oder Männer betroffen. Die meisten Fälle traten im Schlaf (38 %) oder in Ruhe (27 %) auf, nur 11 % bei sportlicher Aktivität und 4 % nach Beendigung des Sports.
+
+
+== Ursachen ==
+Für das Auftreten eines PHT braucht es in der Regel drei Komponenten:
+
+Strukturelle Herzerkrankung
+Vorübergehender Auslöser
+Arrhythmie-MechanismusEs kommt zu einer Herzrhythmusstörung, einer elektromechanischen Entkoppelung oder auch sofort zu einer Asystolie. Am Beginn einer Rhythmusstörung steht häufig eine ventrikuläre Tachykardie, die sich dann in Kammerflimmern wandelt. Es folgt dann hypoxiebedingt die Asystolie ohne elektrische Aktivität am Herzen. Seltener kann sich auch aus einer Bradykardie, z. B. im Rahmen eines AV-Block III° oder Bradyarrhythmie, eine Asystolie entwickeln.
+
+
+=== Strukturelle Herzerkrankung ===
+
+
+==== Koronare Herzkrankheit (ca. 80 % der Fälle) ====
+Bei 15 % bis 50 % der Patienten (Zahlen variieren stark in Abhängigkeit von der Literatur) handelt es sich um die Erstmanifestation einer koronaren Herzerkrankung (KHK).
+Akuter Herzinfarkt: Innerhalb der ersten 48 Stunden nach einem unbehandelten Herzinfarkt besteht eine 15-prozentige Wahrscheinlichkeit, einen plötzlichen Herztod (PHT) zu erleiden. Dieses Risiko fällt in den nächsten Tagen auf 3 % ab. 80 % aller Episoden von Kammerflimmern ereignen sich in den ersten sechs Stunden nach Schmerzbeginn (Maximum in der ersten Stunde) bei akutem Herzinfarkt.
+Chronische KHK: 50 % der Patienten hatten bereits einen Herzinfarkt. Hier spielen ventrikuläre Tachykardien aus den Narbengebieten eine wesentliche Rolle.
+
+
+==== Nicht-ischämische Kardiomyopathien (ca. 10 % bis 15 % der Fälle) ====
+Hierunter versteht man Herzmuskelerkrankungen, die nicht durch eine koronare Herzerkrankung, z. B. im Rahmen eines Herzinfarktes, entstanden sind. Es zählen hierzu:
+
+Dilatative Kardiomyopathie (DCM): 30 % aller Todesfälle bei Patienten mit DCM treten plötzlich auf.
+Hypertrophe Kardiomyopathie (HCM): Besondere Risikofaktoren sind u. a. eine stark verdickte Wand des linken Herzens und ein unzureichender Blutdruckanstieg bei Belastung. Die HCM ist die häufigste Ursache des plötzlichen Herztodes bei jungen Menschen.
+
+
+==== Seltene Ursachen (<5 %) ====
+Arrhythmogene rechtsventrikuläre Kardiomyopathie (ARVCM): Risiko besonders erhöht bei eingeschränkter rechtsventrikulärer Pumpfunktion.
+Long-QT-Syndrom: Synkopen sind die häufigste Manifestation. Je jünger der Patient beim Auftreten der ersten Synkope, desto schlechter ist die Prognose. 20 % sterben innerhalb eines Jahres nach der ersten Synkope.
+Brugada-Syndrom: Der PHT wird durch schnelle polymorphe Kammertachykardien vorzugsweise in Ruhephasen oder im Schlaf verursacht.
+Idiopathisches Kammerflimmern: Das ist eine sogenannte Ausschlussdiagnose, die bei ca. 8 % der Überlebenden eines plötzlichen Herzstillstandes mit strukturell gesundem Herzen gestellt wird.
+Aortenstenose (AS): Vor der Zeit der Aortenklappenchirurgie war die AS eine häufige nichtkoronare Ursache des plötzlichen Herztodes. 73 % der Patienten mit hochgradiger AS starben hieran. Nach Aortenklappenersatz sind 18 bis 21 % aller Todesfälle plötzliche Herztode (Häufigkeitsgipfel 3 Wochen bis 8 Monate nach Operation).
+Koronaranomalien, Koronararterienembolien, Koronararteriitis, Koronarspasmen und Muskelbrücken
+peripartale Kardiomyopathie (Mortalität innerhalb der Schwangerschaft 20 %)
+Entzündliche und infiltrative Erkrankungen des Herzens (Myokarditis, Autoimmunerkrankungen, Amyloidose, Hämochromatose, Chagas-Kardiomyopathie)
+neuromuskulären Erkrankungen.
+
+
+=== Vorübergehende Auslöser ===
+Elektrolytstörungen (Veränderungen der Blutsalze):
+Hypokaliämie < 2,5 mmol/l, Hyperkaliämie > 6,5 mmol/l
+Hyperkalzämie
+Hypomagnesiämie: Kann als Kofaktor das Auftreten eines PHT begünstigen (z. B. Torsades de pointes), ist aber nie alleinige Ursache eines Kammerflimmerns.
+Azidose, z. B. bei Niereninsuffizienz oder respiratorischer Insuffizienz (unzureichender Atemfunktion)
+Hypoxie (Sauerstoffunterversorgung)
+Akute und subakute Ischämie (Durchblutungsstörungen), am häufigsten beim Herzinfarkt und bis 48 Stunden nach Beginn des Schmerzereignisses
+Reperfusion (Einschwemmung von Stoffwechselprodukten nach wiederhergestellter Durchblutung)
+Antiarrhythmika und Drogen:
+Ein verlängertes QTc-Intervall im Ruhe-EKG und ein langsamer Grundrhythmus sind Hinweise auf eine medikamenteninduzierte Torsade de pointes.
+Drogen, wie z. B. Kokain, können zu Gefäßspasmen mit nachfolgenden ischämiebedingten Herzrhythmusstörungen führen.
+Stromunfall
+Stress (erhöhter Sympathikotonus)
+Vagus-Reizung bzw. starke vagotone Reaktion:
+im Hals feststeckende, verschluckte Festkörper (Bolustod)
+Schlaf
+Wasserlassen (auch bekannt bei der Miktionssynkope)
+Erholung direkt nach Beendigung einer starken körperlichen Anstrengung
+
+
+=== Arrhythmie-Mechanismen ===
+Kreisende Erregung (Reentry)
+vermehrte Automatie, z. B. im Übergangsgewebe zwischen Narbe und gesundem Herzmuskel beispielsweise nach Infarkt oder bei HCM
+getriggerte Aktivität
+
+
+== Behandlung ==
+Der drohende plötzliche Herztod wird nach Möglichkeit durch Reanimations-Maßnahmen behandelt. Neben der Wiederherstellung eines Minimalkreislaufes durch Herzdruckmassage wird möglichst frühzeitig die Darstellung des Herzrhythmus mit Hilfe der EKG-Funktion eines Defibrillators erfolgen. Bei Vorliegen einer therapierbaren Rhythmusstörung (VT, KF) erfolgt die Defibrillation.
+
+
+== Verlauf und Prognose des plötzlichen Herzstillstandes ==
+Außerhalb des Krankenhauses kommt es häufig nicht zur Reanimation. Eine Reanimation ist auch nur in ca. 30 % der Fälle erfolgreich. Der Erfolg und die Wahrscheinlichkeit, das Krankenhaus gesund, d. h. ohne hypoxischen Hirnschaden zu verlassen, ist vom Herzrhythmus bei Auffinden des Patienten und von der Qualität der Erstversorgung (Laienreanimation) abhängig. Die milde therapeutische Hypothermie, also das Abkühlen des Körpers nach erfolgreicher Reanimation, zeigt positive Effekte.
+
+
+== Prävention ==
+Es wird zwischen einer primären Prävention ohne Bestehen einer schwerwiegenden Rhythmusstörung und einer sekundären Prävention nach überlebtem Herzstillstand unterschieden.
+
+
+=== Primäre Prävention ===
+Die meisten Studien zur Primärprävention des PHT sind mit Postinfarktpatienten und mit Patienten mit einer strukturellen Herzerkrankung wie DCM und KHK durchgeführt worden. Eine Primärprävention ist durch eine optimale Therapie der zugrundeliegenden Herzerkrankung möglich. Dies umfasst bei KHK eine konsequente Therapie der Risikofaktoren und revaskularisierende (die Durchblutung wiederherstellende) Maßnahmen wie Koronarangioplastie und Bypassoperation. Nach einem Schlafapnoesyndrom sollte gesucht werden und, wenn es vorhanden ist, therapiert werden.
+
+
+==== Medikamente ====
+Für Patienten mit schwer eingeschränkter Pumpfunktion (Auswurffraktion < 35 %) gilt:
+
+Der Erfolg einer medikamentösen Primärprävention mit Amiodaron gilt als nicht gesichert. Die großen Primärpräventionsstudien zeigen einen günstigen Effekt auf die Inzidenz (Häufigkeit des Auftretens) des PHT bei Postinfarktpatienten, ohne die Gesamtsterblichkeit nennenswert zu beeinflussen.
+Betablocker reduzieren die Rate des plötzlichen Herztodes nach Myokardinfarkt um bis zu 30 % (MERIT-HF-Studie).
+Aldosteronantagonisten (Spironolacton, Eplerenon) zeigen eine 15%ige Senkung des PHT nach Herzinfarkt (EPHESUS-Studie).
+Angiotensin-Converting-Enzym-Hemmer (ACEH) vermindern nach den Ergebnissen einer Metaanalyse das Risiko eines PHT nach Infarkt um 20 %.
+Die primärpräventive Wirkung anderer Antiarrhythmika gilt als nicht gesichert hinsichtlich der Gesamtsterblichkeit, für Sotalol ist ein Anstieg der Sterblichkeit bei Postinfarktpatienten gesichert (SWORD-Studie).
+
+
+==== Implantierbarer Kardioverter-Defibrillator (ICD) ====
+Die Implantation eines ICD gilt nur bei folgenden Krankheitsbildern in ihrer primärpräventiven Wirkung als gesichert (MADIT-I-Studie):
+kurzdauernde (< 30 Sekunden) ventrikuläre Tachykardie
+eingeschränkte Pumpfunktion
+künstlich auslösbares Kammerflimmern oder Kammertachykardie, überlebter Infarkt oder KHK, wobei keine Unterdrückung der Herzrhythmusstörungen durch Klasse-I-Antiarrhythmika möglich istoder
+
+schwer eingeschränkte Pumpfunktion (Auswurffraktion < 30 %) mindestens 1 Monat nach Herzinfarkt oder 3 Monate nach Bypassoperation (MADIT-II-Studie).
+
+
+=== Sekundäre Prävention des plötzlichen Herztodes (nach überlebtem plötzlichen Herzstillstand) ===
+Überlebende des plötzlichen Herzstillstandes weisen innerhalb des ersten Jahres ein Rezidivrisiko von bis zu 30 % auf, vorausgesetzt, das Ereignis fand nicht im Rahmen eines akuten Herzinfarktes statt. Nach zwei Jahren steigt das Risiko bereits auf bis zu 45 % an.
+
+
+==== Medikamente ====
+Eine medikamentöse Sekundärprävention mit Antiarrhythmika ist einer ICD-Implantation deutlich unterlegen.
+
+Trotz einer akuten und chronischen Unterdrückung von Kammertachykardien und Kammerflimmern durch Klasse-I-Antiarrhythmika und Sotalol beträgt das Rezidivrisiko innerhalb der ersten zwei Jahre nach Ereignis 30 % bis 40 %.
+Amiodaron ist den Klasse-I-Antiarrhythmika zwar überlegen, dennoch bleibt eine Rezidivrate nach zwei Jahren von 18 %.
+
+
+==== Implantierbarer Kardioverter-Defibrillator (ICD) ====
+Ein ICD ist nach überlebtem plötzlichen Herzstillstand bei Kammerflimmern oder Kammertachykardie ohne Nachweis einer reversiblen Ursache zur Sekundärprävention absolut indiziert.
+
+Eine Metaanalyse belegt eine 27%ige Reduktion der Gesamtmortalität innerhalb von sechs Jahren nach Ereignis (AVID-, CASH- und CIDS-Studie)
+nur Patienten mit einer eingeschränkten Pumpfunktion (Auswurffraktion < 40 %) profitieren signifikant von einer ICD-Implantation gegenüber einer Amiodaron-Medikation. Bei Patienten mit einer gering oder gar nicht eingeschränkten Pumpfunktion (Auswurffraktion > 40 %) ist die ICD-Therapie einer Amiodaron-Therapie nicht überlegen (AVID-Subgruppenanalyse). Trotzdem wird zurzeit eine Amidarontherapie nur als Begleittherapie zum ICD bei einem reanimierten Patienten empfohlen, um die Häufigkeit von Schockabgaben zu minimieren, oder für Patienten, die einen ICD ablehnen bzw. aus anderen Gründen nicht erhalten können.
+
+
+== Plötzlicher Tod aus nichtkardialer Ursache ==
+Eine Reihe von nicht-kardialen Ursachen können ebenfalls einen plötzlichen Tod verursachen. So können etwa eine Lungenembolie, eine akute innere Blutung oder eine akute Vergiftung ebenfalls zu einem plötzlichen Tode führen. Auch ein Sudden Unexpected Death in Epilepsy (SUDEP), der unerwartete Tod im Rahmen einer Epilepsie, ist bei Disponierten mit in Betracht zu ziehen.
+
+
+== Kosten des plötzlichen Herztodes ==
+Genaue Aussagen zu den Kosten des PHT sind aufgrund der unklaren Ausgangsdatenlage nicht bekannt. Schätzungen der Cologne Business School beziffern die indirekten Kosten des plötzlichen Herztods durch den Produktionsverlust für die Volkswirtschaft in Deutschland auf 4,37 Milliarden Euro pro Jahr. Für Nordrhein-Westfalen entstehen nach der Studie – bei einer geschätzten mittleren Fallzahl von etwa 25.500 Todesfällen – jährliche, indirekte Kosten von rund 940 Millionen Euro. Für Österreich werden in einer weiteren Kurzstudie indirekte Kosten von knapp 702 Millionen Euro per annum geschätzt.
+
+
+== Literatur ==
+Mewis, Riessen, Spyridopoulos (Hrsg.): Kardiologie compact – Alles für Station und Facharztprüfung. 2. Auflage. Thieme, Stuttgart / New York 2006, ISBN 3-13-130742-0, S. 629–649 (books.google.de). 
+D. Corrado et al.: Does sports activity enhance the risk of sudden death in adolescents and young adults? In: J Am Coll Cardiol. 2003, 42(11), S. 1959–1963, PMID 14662259.
+W. Dichtl et al.: An uncommon coronary artery fistula causing survived sudden cardiac death in a young woman. In: Int J Cardiovasc Imaging. 2005, 21(4), S. 387–390, PMID 16047119.
+Wilfried Kindermann, Axel Urhausen: Plötzlicher Herztod beim Sport. Bundesinstitut für Sportwissenschaft, Köln 2000, ISBN 3-89001-131-4, S. 1–55 (bisp.de [PDF]). 
+A. T. Mills et al.: Brugada syndrome: syncope in the younger patient and the risk of sudden cardiac death. In: Emerg Med J. 2005, 22(8), S. 604–606, PMID 16046779.
+S. G. Priori et al.: Task Force on Sudden Cardiac Death of the European Society of Cardiology. In: Eur Heart J. 2001 Aug, 22(16), S. 1374–1450, PMID 11482917.
+A. Tabib et al.: Circumstances of death and gross and microscopic observations in a series of 200 cases of sudden death associated with arrhythmogenic right ventricular cardiomyopathy and/or dysplasia. In: Circulation. 2003, 108(24), S. 3000–5, PMID 14662701.
+
+
+== Einzelnachweise ==

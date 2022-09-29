@@ -1,0 +1,81 @@
+CHAdeMO ist der Handelsname einer markenübergreifenden elektrischen Schnittstelle eines Batteriemanagementsystems für Elektroautos. Mit dieser in Japan entwickelten Schnittstelle basierend auf Gleichspannung kann der Akkumulator eines Elektrofahrzeuges oder Plug-In-Hybrid-Fahrzeugs direkt mit einer hohen elektrischen Leistung geladen werden. Die typische Ausbaustufe der Ladesäulen und damit die größte Verbreitung haben CHAdeMO-Ladesäulen mit einer Ladeleistung bis 50 kW. Hauptkonkurrent von CHAdeMO ist das von europäischen, koreanischen und US-amerikanischen Herstellern favorisierte Ladesystem CCS.
+
+
+== Name und Logo ==
+CHAdeMO ist zugleich ein Akronym für „CHArge de MOve“ (für ‚Laden zum Bewegen‘) und ein Teil des japanischen Satzes „Ocha demo ikaga desuka“ – was in etwa bedeutet „Wie wärs mit einer Tasse Tee?“ als Hinweis auf eine mögliche Zeitnutzung während des Ladevorgangs.
+Das Logo ist ein Emoticon, dessen Augen aus den symbolischen Polen einer Batterie bestehen, und dessen lächelnder Mund die Freude auf eine glückliche Zukunft mit dem Schwung einer Bewegung kombinieren soll. Die Farbe des Logos soll an Ökologie und Grünen Tee erinnern.
+
+
+== Konsortium ==
+Mitglieder des CHAdeMO-Industriekonsortiums, das den Standard schuf und am 15. März 2010 einführte, sind Tepco, Nissan, Mitsubishi und Fuji Heavy Industries (die Herstellerfirma der Marke Subaru). Hitachi, Honda Motor, Panasonic und Toyota schlossen sich später als leitende Mitglieder an. Dazu kommen mehr als 300 weitere Mitglieder unterschiedlicher Mitgliederklassen, die als Hersteller von Fahrzeugen oder Lade-Infrastruktur bzw. als Lade-Infrastruktur-Betreiber Zugriff auf das CHAdeMO-Protokoll nehmen können oder die Verbreitung des Ladestandards unterstützen möchten.
+
+
+== Funktionsweise ==
+Beim CHAdeMO-Protokoll verbindet sich das Batteriemanagementsystem (BMS) des Autos mit dem Computer der Schnellladestation zu einem Master-Slave-System. Das BMS des Autos (Master) meldet der Ladestation (Slave)
+
+den aktuellen Ladezustand des Fahr-Akkus;
+die Gleichspannung und maximale Stromstärke, mit der geladen werden darf; (Die Spannung bewegt sich bei diesen Verfahren im Bereich von 300 bis 500 Volt und die Stromstärke erreicht aktuell bis zu 350 Ampere, zukünftig bis 1 kV und 400 A.)
+Spannung, Temperatur und andere Parameter des Akkus.Die Ladestation passt daraufhin die Ladeparameter (Spannung, Stromstärke) an die vom BMS des Autos mitgeteilten Akkuparameter an. Auf diese Weise wird der Ladevorgang vom Auto aus gesteuert, was zu möglichst rascher und gleichzeitig schonender Aufladung des Akkus führen soll.
+Typische Ladeleistungen von CHAdeMO-Ladesäulen:
+
+bis 20 kW – bis 500 V DC Ladespannung, bis 50 A Ladestrom (für Standorte, an denen ein 50-kW-Anschluss an das Versorgungsnetz nicht wirtschaftlich verfügbar ist)
+bis 50 kW – bis 500 V DC Ladespannung, bis 125 A Ladestrom (typische CHAdeMO-Ladesäule, größte Verbreitung)
+bis 100 kW – bis 500 V DC Ladespannung, bis 200/250 A Ladestrom (August 2017: weiter geringe Verbreitung)
+bis 150 kW – bis 500 V DC Ladespannung, bis 350 A Ladestrom (August 2017: wenige Säulen in Europa)
+bis 400 kW – bis 1000 V DC Ladespannung, bis 400 A Ladestrom, neuer Ladestandard CHAdeMO 2.0 (geplant für 2020).
+bis 500 kW – bis 1500 V DC Ladespannung, bis 600 A Ladestrom, neuer Ladestandard CHAdeMO 3.0 (veröffentlicht am 24. April 2020) mit neuem Stecksystem (Arbeitstitel "ChaoJi")Die tatsächlich zum Einsatz kommende Ladeleistung bildet sich als Minimum der Vorgaben der Säule (Spannung, Stromstärke) und des BMS im Auto (Spannung, Stromstärke). Die Ladeleistung variiert dabei über die Zeit der Ladung.
+Obwohl CHAdeMO erst ab 2020 Ladesäulen mit bis zu 400 kW Maximalleistung (1000 V, 400 A) anbieten will, hat Chargepoint bereits 2017 400-kW-Dual-Standard-Lader mit CCS und CHAdeMO vorgestellt.
+
+
+== CHAdeMO-Stecker (Tepco) ==
+
+Das CHAdeMO-Stecksystem des Herstellers Tepco wird in verschiedenen Varianten angeboten. Bei älteren Implementationen ist das gesamte Steckergehäuse aus Metall-Druckguss gefertigt, bei neueren Varianten ist der eigentliche Steckerteil aus Kunststoff gefertigt. Durch die Anzahl der Kontakte und der Kontaktfläche der DC-Pins ist die Steckkraft so hoch, dass Tepco auch Varianten mit Hebel anbietet, die zur Unterstützung beim Einstecken dienen. Die Verriegelung des Stecksystems ist im Kabelstecker implementiert.
+Beim CHAdeMO-Stecksystem sind die DC-Hochvolt-Pins fahrzeugseitig als Buchse ausgeführt, kabelseitig als Stift (mit Berührungsschutz). Das Design ist also genau invers zum CCS-Stecksystem.
+Die Kontaktbelegung ergibt sich aus folgender Tabelle:
+
+
+== ChaoJi-Stecker ==
+
+Ein neuer, „ChaoJi“ genannter Stecker ist das designierte Stecksystem für die im April 2020 von japanischen und chinesischen Herstellern veröffentlichte CHAdeMO-3.0-Spezifikation. Zertifizierung des Systems und erste Fahrzeuge werden 2023 erwartet, Nutzfahrzeuge in China schon ab 2021. Der Stecker wurde gemeinsam mit der chinesischen GB/T-Ladenorm entwickelt. Erste Publikationen zeigen, dass kombinierte AC/DC Fahrzeugbuchsen geplant sind, sowohl für den IEC Typ 1 (SAE J1772) als auch für den IEC Typ 2 Stecker, ähnlich dem CCS-System. Kabeladapter wären für alle gängigen DC-Ladesysteme möglich (CHAdeMO 2.0, GB/T 2015, CCS und Tesla Typ 2).Im Unterschied zum CCS bringt der ChaoJi-Stecker alle für den Ladevorgang benötigten Kontakte im DC-Bereich mit; der Kabelstecker ist also wesentlich kompakter als die CCS-Kabel-Kupplung. Die kombinierte ChaoJi/Typ2-Fahrzeugkupplung ist nur geringfügig größer als ein CCS-Fahrzeugstecker. Die Verriegelung des Stecksystems ist auf der Fahrzeugseite implementiert.
+
+
+== Kompatibilität und Standardisierung ==
+
+Das CHAdeMO-Protokoll ist kompatibel mit japanischen Ladesteckern vom Stromkonzern Tepco. Es ist hingegen nicht kompatibel mit anderen Ladesteckern (z. B. IEC 62196 Typ 1, IEC 62196 Typ 2 oder die daraus abgeleiteten CCS-Stecker), da die CHAdeMO-Ladekommunikation einen Zwei-Draht-CAN-Bus sowie separate Signalleitungen benötigt. Allerdings ist der Mehraufwand zur Umsetzung einer Gleichstromladesäule für beide Standards (CHAdeMO und CCS) gering, so dass kombinierte Lösungen existieren.Das CHAdeMO-Protokoll ist mittlerweile auch international im Rahmen der ISO-Normung als Gleichstromladestandard anerkannt: so wurde das Protokoll in die Normen ISO/IEC 61851-23 und ISO/IEC 61851-24 aufgenommen.Für Fahrzeuge, die nach dem Combined Charging System (CCS) mit Gleichstrom schnellladen können, ist auch ein CCS-auf-CHAdeMO-Adapter technisch vorstellbar. Er wird aber bisher nicht angeboten. Anlässlich des zweiten EV World Summit im Juni 2013 haben sowohl ein Sprecher der CHAdeMO-Gruppe und der Volkswagen-Gruppe darauf hingewiesen, dass beide Systeme (CHAdeMO und Combo 2/CCS) keine Konkurrenz beider Standards für die Gleichstromladung bedeutet, wenn die Schnellladestationen mit Anschlüssen für beide Systeme ausgestattet werden (die Zusatzkosten für ein weiteres Ladeprotokoll/ Ladeverfahren liegen bei gerade 5 %) – daher empfehlen z. B. Nissan und Volkswagen gemeinschaftlich die Errichtung von „multi-standard fast chargers“, die sowohl von Fahrzeugen mit CHAdeMO- wie auch mit Combo-2-(CCS)-Anschluss angesteuert werden können. Entsprechende Ladesäulen werden auch bereits angeboten. Volkswagen verwendet diese Multi-Standard-Schnellladesäulen in Deutschland überhaupt nicht, Nissan nur an ausgewählten Standorten.
+
+
+== Fahrzeugliste ==
+Folgende Elektroautos oder Plug-In-Hybride können nach dem CHAdeMO-Protokoll laden:
+
+BMW i3 (nur in Japan)
+Citroen Berlingo electric
+Peugeot Partner electric
+Honda Fit EV bis 2015 (nur USA), 200A bis 80 kW, Li-Titanat-Akku
+Hyundai Ioniq bis 72 kW DC (nur in Japan, in Korea bis März 2017)
+Kia Soul EV, bis 70 kW DC
+Lexus UX 300e
+Mahindra e2o in der TechX-Ausstattung (verkauft ab 2016 in Großbritannien)
+Mitsubishi i-MiEV und seine Ableger Citroën C-Zero und Peugeot iOn
+Mitsubishi Plug-In Hybrid Outlander
+Nissan Leaf
+Nissan e-NV200
+Tesla Model S bis Baujahr Sommer 2021 bei Verwendung eines CHAdeMO-Ladeadapters, der bei Tesla verfügbar ist.
+Tesla Model X bis Baujahr Sommer 2021 bei Verwendung eines CHAdeMO-Ladeadapters, der bei Tesla verfügbar ist.
+Tesla Roadster bei Nachrüstung von JdeMO
+Toyota RAV4 EV (US-Markt) von 2012 bei Nachrüstung von JdeMO
+VW e-Up (nur in Japan)
+VW e-Golf (nur in Japan)Dazu kommen viele weitere batterieelektrische Fahrzeuge und Plug-In-Hybride für den japanischen oder koreanischen Markt.
+
+
+== Verbreitung ==
+Die Schnellladestationen nach Chademo-Standard wurden durch den Stromversorger TEPCO in Japan in großer Zahl installiert – TEPCO hat hierfür ein eigenes Verteilernetz aufgebaut, um die Stromtankstellen zu versorgen.
+
+
+== Weblinks ==
+
+Website des CHAdeMO-Konsortiums (englisch)
+Übersicht der EVs (Electronic Vehicles) mit CHAdeMO-Stecker (englisch)
+Übersicht der CHAdeMO-Stromtankstellen in Deutschland
+
+
+== Einzelnachweise ==

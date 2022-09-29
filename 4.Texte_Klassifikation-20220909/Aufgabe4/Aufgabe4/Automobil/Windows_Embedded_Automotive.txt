@@ -1,0 +1,31 @@
+Windows Embedded Automotive (früher auch Windows Automotive oder Microsoft Auto) ist ein Betriebssystem der Windows-Embedded-Produktfamilie. Es ist der Nachfolger der Betriebssysteme Microsoft Auto 4.1 und Windows Automotive 5.5. Zur Verwendung des Betriebssystems wird das Windows Embedded Automotive Development Kit (WE-ADK) benötigt. In diesem Softwarebausatz sind neben der Hardware auch Evaluierungsversionen, sowie das Windows Embedded Platform Development Kit.
+
+
+== Geschichte ==
+Das Betriebssystem Windows Embedded Automotive wurde ursprünglich mit dem AutoPC ausgeliefert, der von Microsoft und Clarion gemeinsam entwickelt wurde. Das System wurde im Dezember 1998, auf Basis von Windows CE 2.0, unter dem Namen AutoPC veröffentlicht.Am 16. Oktober 2000 gab Microsoft offiziell die nächste Version bekannt. Diese Version des Betriebssystems wurde in „Windows CE for Automotive“ umbenannt. Mit dieser neuen Version wolle man endlich den Durchbruch im Automobilsektor schaffen, so Bob McKenzie, General Manager des PC-Auto-Geschäfts.Am 21. Oktober 2002 gab Microsoft bekannt, dass das Betriebssystem in „Windows Automotive“ umbenannt werden sollte. Die Version unterstützt die Entwicklung mit dem .NET Compact Framework.Windows Automotive 4.2 erreichte am 1. Juni 2003 die allgemeine Verfügbarkeit und Windows Automotive 5.0 am 8. August 2005 die GA.Ende 2008 veröffentlichte Microsoft Microsoft Auto 3.1, welches der Nachfolger von Microsoft Auto 3.0 ist.Im Oktober 2010 stellte Microsoft Version 7 des Betriebssystems Windows Embedded Automotive vor, dass auf Microsoft Auto 4.1 und Windows Automotive 5.5 basierte.Mit der Veröffentlichung von Windows 8 stellte Microsoft auch den Nachfolger Windows Embedded 8 Automotive vor, der allerdings nie veröffentlicht wurde.
+
+
+== Versionen ==
+1998 Microsoft Auto PC 1.0 Apollo (basierend auf Windows CE 2.01)
+1999 Microsoft Auto PC 2.0 Goldeneye (basierend auf Windows CE 2.12)
+2000 Windows CE for Automotive 3.0 (basierend auf Windows CE 3.0)
+2002 Windows CE for Automotive 3.5 (basierend auf Windows CE 3.0)
+2003 Windows Automotive 4.2
+2005 Windows Automotive 5.0 (basierend auf Windows CE 5.0)
+2008 Microsoft Auto 3.0 (basierend auf Windows Embedded CE 6.0)
+2008 Microsoft Auto 3.1 (basierend auf Windows Embedded CE 6.0 R2)
+2009 Microsoft Auto 4.0 Bristol (basierend auf Windows Embedded CE 6.0 R2)
+2010 Microsoft Auto 4.1 Motegi (basierend auf Windows Embedded CE 6.0 R3)
+2010 Windows Embedded Automotive 7 (basierend auf Windows Embedded Compact 7)
+
+
+== Verwendung ==
+Einer der ersten Fahrzeuge, welche Windows Automotive verwendeten, war der BMW 7er von 2001 (Baureihe E65). Neben der speziellen Eignung für Navigationssysteme und Kommunikationswerkzeuge zeichnet es sich durch die Unterstützung gerade der Schnittstellen aus, die im Automobilbau von besonderer Bedeutung sind. Fiat brachte das System unter dem Namen „Blue&Me“ in die Modellpalette im Frühjahr 2006. Damit lassen sich die Handy-Freisprechfunktionen über Bluetooth, TtS (Text to Speech, also SMS vorlesen), Spracherkennung, und eine USB-Schnittstelle steuern.
+Der Unterhaltungselektronikhersteller Clarion stellt seit 2007 Navigationssysteme mit Multimediafunktionen für die Nachrüstung her.
+
+
+== Weblinks ==
+Microsoft: Offizielle Website – Windows Embedded Automotive 7. Archiviert vom Original am 11. Dezember 2017; abgerufen am 30. September 2019 (englisch). 
+
+
+== Einzelnachweise ==

@@ -1,0 +1,15 @@
+VERITAS Technologies LLC wurde 1983 als Tolerant Systems als internationales Softwareunternehmen gegründet und 1989 in VERITAS Software Corp. umbenannt. Unternehmenshauptsitz ist in Mountain View, Kalifornien.
+
+
+== Unternehmen ==
+Durch den Kauf von OpenVision Technologies im April 1997 und der Netzwerk- und Storage-Management-Gruppe von Seagate Software im Mai 1999 wuchs VERITAS zu einer der Top-Fünf Softwareunternehmen in der Welt. Im September 2004 akquirierte VERITAS den Archiv-Spezialisten KVS Inc..
+Veritas war gelistet im S&P 500 und im NASDAQ-100 und hat im Geschäftsjahr 2004 mit etwa 7000 Mitarbeitern ungefähr 2,04 Mrd. USD umgesetzt.
+Am 16. Dezember 2004 verkündeten Veritas und Symantec Software ihre Fusion mit einem geschätzten Wert von 13,5 Milliarden USD, welche es zur größten Fusion in der Geschichte der Softwareindustrie macht. Am 24. Juni 2005 stimmten Veritas- und Symantec-Aktionäre der Fusion zu. Am 2. Juli 2005 war die Fusion von Symantec und Veritas abgeschlossen – der Name Symantec blieb als alleiniger Unternehmensname (Firma) bestehen. Die Produkte sind nach der Übernahme durch Symantec weiterhin am Markt erhältlich.
+Im Oktober 2014 kündigte Symantec an, den Geschäftsbereich Information Management abzuspalten und im Dezember 2015 separat an die Börse zu bringen. Im Januar 2015 folgte die Ankündigung, die Abspaltung Veritas Technologies Corporation zu nennen. Im August 2015 kündigte Symantec jedoch an, Veritas mit Wirkung zum 1. Januar 2016 für 8 Milliarden US-Dollar an Investoren unter Führung der Carlyle Group zu verkaufen. Am 29. Januar 2016 verkündete Symantec, den Verkauf von Veritas abgeschlossen zu haben. Die neuen Eigentümer zahlten letztlich 7,4 Milliarden US-Dollar.
+
+
+== Produkte ==
+Veritas ist spezialisiert auf den Bereich der Storage Management Software. Veritas Software hat das erste kommerzielle Journaling File System, das Veritas Journaling File System (VxFS), entwickelt. 1997 wurde das Enterprise-Datensicherungsprodukt „NetBackup“ als eines der Produkte der durch Veritas übernommenen in das Portfolio integriert und dann 1999 mit der Akquisition von Seagate Softwares Network and Storage Management Group im Bereich SOHO durch „Backup Exec“ abgerundet. Zur Unterstützung von Computerclustern wird Veritas Cluster Server verkauft. Auf SUN/Solaris-Systemen war Veritas mit dem „Veritas Volume Manager“ (VxVM) Quasi-Monopolist im Bereich Datenträgerverwaltungswerkzeuge (englisch Volume Management Tools). Im Jahr 1996 erwarb Microsoft gewisse Rechte am Volume Manager von Veritas, integrierte ihn in Windows Server, und entwickelte ab dem Jahr 2004 einen Ableger für Windows Vista aus ihm. Zumindest um die Jahrtausendwende war der damals auf Solaris und HP-UX laufende Veritas Volume Manager ein vorbildlich flexibles und robustes Produkt, dem nur der Logical Volume Manager nahekam. HP-UX 11i enthält zusätzlich zum Logical Volume Manager auch den Veritas Volume Manager.
+
+
+== Belege ==

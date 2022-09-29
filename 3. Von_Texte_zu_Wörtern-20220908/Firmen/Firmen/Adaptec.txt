@@ -1,0 +1,22 @@
+Adaptec ist ein Hardwarehersteller, der 1981 in Milpitas, Kalifornien gegründet wurde. Die Firma fertigt Chips, interne Host-Bus-Adapter, RAID-Controller, externe Storage Area Networks (SAN), ethernet-basierte iSCSI-SAN (IP SAN), Network Attached Storage (NAS) und die dazugehörige Software.
+
+
+== Geschichte ==
+Adaptec wurde 1981 in Milpitas, Kalifornien von Larry Boucher und anderen ehemaligen Ingenieuren von der Firma Shugart Associates gegründet. Die Gruppe war bei Shugart mit der Entwicklung des „Shugart Associates System Interface“ (SASI), später umbenannt in „Small Computer System Interface“ (SCSI) betraut.
+Bekannt wurde die Firma durch ihre SCSI-Adapter. In den 1990er Jahren übernahm Adaptec die Konkurrenten Trantor_(Firma) und Future Domain. Auch der renommierte Netzwerkausrüster Cogent wurde in der Folgezeit aufgekauft. Im Mai 2010 wurde der Geschäftsbereich mit RAID-Karten an PMC-Sierra verkauft.
+
+
+== Produkte ==
+
+Die Firma stellt hauptsächlich Schnittstellen-Adapter für Speichervorrichtungen in Computern her. Die Produktpalette umfasst Adapter für USB, FireWire, SCSI, iSCSI, FibreChannel, Serial ATA, Serial Attached SCSI (SAS), Audio/Video sowie zusätzliche Kleinteile wie USB Hubs werden auch von der Firma produziert.
+Der Easy CD Creator von Adaptec ist eine (mittlerweile überholte) CD/DVD-Brennsoftware die mit vielen frühen CD-Brennern ausgeliefert wurde. Diese wird jetzt von Roxio geliefert.
+Vor kurzem stellte Adaptec einige bedeutende Neuheiten für den SAN-Markt vor - das Produkt iSA1500. Diese Software, die für Adaptec von der britischen Firma Elipsan entwickelt wurde, erhielt bei den 2005 www.techworld.com Awards den Preis „Best Storage Networking Hardware Product“. Der darauffolgende Erwerb von Elipsan und der Gebrauch von deren Technologie für die IBM-Produkte DS300 und DS400 wurde von einigen Branchenkennern als verpasste Gelegenheit angesehen.
+
+
+== Weblinks ==
+
+Adaptec-Homepage
+Adaptec Deutschland
+
+
+== Einzelnachweise ==

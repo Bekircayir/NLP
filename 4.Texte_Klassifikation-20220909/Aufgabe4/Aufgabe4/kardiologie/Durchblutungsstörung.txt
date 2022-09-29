@@ -1,0 +1,46 @@
+Als Durchblutungsstörung wird allgemein ein gestörter Blutfluss im Kreislauf bezeichnet; der fachsprachliche Terminus für eine eingeschränkte Durchblutung im kardiovaskulären System ist Minderperfusion (Minderdurchblutung). Bei einer Durchblutungsstörung auf Mikrogefäßebene (Arteriolen, Venolen, Kapillaren) spricht man von einer Mikrozirkulationsstörung, sind größere Blutgefäße (Arterien, Venen) betroffen, von einer Makrozirkulationsstörung. Beide Formen können auch in Kombination auftreten.
+Der Krankheitswert einer Durchblutungsstörung hängt insbesondere von der Art und gegebenenfalls der Größe der Störungsursache (z. B. eines Embolus), von der Anzahl der betroffenen Blutgefäße (Adern) und teilweise auch von deren Lage im Körper ab. Eine Minderperfusion, bei der weniger oder im schlechtesten Fall gar nicht mehr durchblutete Adern diejenigen Organe und/oder Gewebe, die durch jene Blutgefäße an den Kreislauf angeschlossen sind, nicht mehr mit der (Mindest-)Menge an Blut versorgen können, die sie für ein einwandfreies Funktionieren benötigen, wird als Ischämie bezeichnet. Die Toleranz, die das betroffene Organ bzw. Gewebe hinsichtlich einer Minderperfusion besitzt, bevor es Schaden nimmt, heißt entsprechend Ischämietoleranz (IPC).
+Durchblutungsstörungen können die verschiedenen Organ- und Gewebsfunktionen sowohl akut wie auch chronisch beeinträchtigen und schließlich sogar zur Zerstörung („Untergang“) der minderdurchbluteten Bereiche durch eine Form der Koagulationsnekrose führen.
+
+
+== Ursachen ==
+Grundsätzlich können Durchblutungsstörungen entstehen:
+
+aufgrund einer verminderten Zufuhr von arteriellem Blut ins Blutgefäß hinein;
+aufgrund eines beeinträchtigten Abflusses von venösem Blut aus dem Blutgefäß heraus;
+aufgrund eines beeinträchtigten Abflusses von Lymphe in den venösen Blutkreislauf.Diese Störungen können entweder für sich alleine oder in Kombination auftreten.
+Die möglichen Ursachen für solche Durchblutungsstörungen sind vielfältig; daher beschränkt sich der Artikel an dieser Stelle auf die häufigsten, aufgelistet nach dem Ort ihres Auftretens:
+
+im arteriellen Schenkel (etwa die periphere arterielle Verschlusskrankheit):
+Arteriosklerose („Gefäßverkalkung“)
+Gefäßverschluss (z. B. aufgrund von Spasmen, Embolien oder einem Druck auf die Gefäße)
+im venösen Schenkel:
+Thrombosen
+chronisch-venöse Insuffizienzen (mit Störung der Mikrozirkulation)
+im Lymphsystem:
+ein Verlöten der Lymphgefäße (z. B. nach einem unzureichend behandelten Erysipel, nach Operationen oder nach einer Strahlentherapie) mit nachfolgender Erhöhung des Gewebedrucks (siehe in diesem Zusammenhang auch Dekubitus)Als Hauptrisikofaktor für Durchblutungsstörungen gilt das Tabakrauchen.
+
+
+== Auswirkungen ==
+Bedeutsame Folgen sind:
+
+bei Durchblutungsstörungen der Herzmuskulatur Prinzmetal-Angina (bei einem spastisch verengten Herzkranzgefäß); Angina Pectoris und Herzinfarkt (bei KHK)
+bei zerebraler Durchblutungsstörung, die klinisch nach der Dauer und Reversibilität der Störung eingeteilt wird, wenngleich die klassische Differenzierung von transitorischer ischämischer Attacke (TIA), (prolongiertem) reversiblem ischämischem neurologischem Defizit (RIND/PRIND) und vollendetem ischämischem Schlaganfall heute als überholt gilt, siehe Schlaganfall
+bei der intestinalen Durchblutungsstörung: Angina abdominalis, Mesenterialinfarkt, Dunbar-Syndrom
+bei einer Durchblutungsstörung der Nieren der Nieren(teil)infarkt
+bei Durchblutungsstörungen der unteren Extremitäten (meist multifaktorieller Genese) das Ulcus cruris
+bei Druckschädigungen ein Druckgeschwür (vor allem bei bettlägerigen Personen), ein KompartmentsyndromEine besondere Form der Durchblutungsstörung sind die sogenannten Anzapfphänomene.
+
+
+== Siehe auch ==
+Arteriosklerose
+Claudicatio intermittens
+Raynaud-Syndrom
+Stenose
+
+
+== Literatur ==
+Pschyrembel. Klinisches Wörterbuch. 261. Auflage. De Gruyter, Berlin 2007.
+
+
+== Einzelnachweise ==

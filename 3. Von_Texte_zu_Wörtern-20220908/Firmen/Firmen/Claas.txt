@@ -1,0 +1,187 @@
+Die Claas KGaA mbH (eigene Schreibweise CLAAS KGaA mbH) ist ein internationaler Landmaschinenkonzern mit Hauptsitz im ostwestfälischen Harsewinkel (Kreis Gütersloh).
+Das 1913 gegründete Unternehmen gehört zu den Markt- und Technologieführern in der Erntetechnik und hatte 2012 einen Exportanteil von 77,3 Prozent. Claas gilt als weltweite Nummer vier der Landmaschinenhersteller. In der Produktion von Mähdreschern sind sie Marktführer in Europa und für Feldhäcksler Weltmarktführer. Weiterhin stellt Claas neben Traktoren auch Mähwerke, Schwader, Heuwender, Ballenpressen und Ladewagen her. Neben dem Kerngeschäft Landtechnik ist das Unternehmen auch im Bereich Industrietechnik (CIT) aktiv.
+Laut Konzerngeschäftsbericht setzte das Unternehmen im Geschäftsjahr 2012 3.435,6 Millionen Euro (+ 4 %) um. 77,3 Prozent des Umsatzes werden außerhalb von Deutschland generiert. Der Gewinn vor Steuern lag bei 315,6 Millionen Euro (+ 23,7 Prozent). Im selben Jahr beschäftigte das Unternehmen 9.077 Mitarbeiter.
+
+
+== Geschichte ==
+
+
+=== Anfänge und Neuanfang nach dem ersten Weltkrieg ===
+Die Ursprünge der Firma Claas gehen auf ein 1887 von Franz Claas sen. gegründetes Unternehmen zur Herstellung von Milch-Zentrifugen zurück. Schon vorher beschäftigte sich Claas – auf dem elterlichen Hof – mit landwirtschaftlichen Geräten. Um etwa 1900 begann er mit der Entwicklung und Herstellung von Strohbindern und Ablegern für Mähmaschinen. Auf der Basis von mechanischen Strohbindern aus Großbritannien entwickelte er eine eigene Maschine, die er 1907 auf den Markt brachte. Als zweites Standbein entstand ein Lohnunternehmen, das den Getreidedrusch anbot. In den besten Jahren waren 20 bis 30 Arbeitskräfte beschäftigt.
+Am 8. April 1913 übernahm der Maschinenschlosser und Sohn des Firmengründers August Claas in Clarholz das kleine Unternehmen zur Herstellung und Reparatur von Strohbindern. Ein Jahr später, am 12. Januar 1914, firmierte er mit seinen Brüdern Bernhard und Franz Claas jun. als „Gebrüder Claas“. Nachdem die Brüder Bernhard, August, Franz jun. und Theo gesund aus dem Ersten Weltkrieg heimkehrten, erwarben sie 1919 ein stillgelegtes Hartsteinwerk in Harsewinkel und verlegten den Firmenstandort dorthin. Auf etwa 1.000 Quadratmetern produzierten sie ihre Strohbinder. In den Nachwirkungen des Krieges war das benötigte Material nur schwer zu bekommen, so dass sie größtenteils gebrauchte Strohbinder aufarbeiteten und weiterentwickelten.
+Mittlerweile gelang es Claas wie schon vor dem Krieg, die Strohbinder im benachbarten Ausland wie den Niederlanden abzusetzen. Der niederländische Abnehmer Reensink aus Zutphen bezahlte in Gulden, die sich im Gegensatz zur Reichsmark als stabil erwiesen und Claas handlungsfähig ließ. 1921 meldete August Claas seinen verbesserten „Knoter“ für Strohbinder als Patent an und legte damit den Grundstein für die Produktpalette des Unternehmens. Bald konnte Claas seine Strohbinder auch in Frankreich und Belgien absetzen, so dass im Jahr 1924 der 1.000. Strohbinder produziert wurde. Doch bald erkannten die Brüder, dass an Stelle der Strohbinder die Strohpressen auf den Markt drangen und produzierten ab 1931 eigene Pressen.
+
+
+=== Der Mäh-Dresch-Binder ===
+
+Professor Karl Vormfelde, damals Direktor des Landtechnischen Instituts der Universität Bonn, hatte schon lange die Entwicklung von Mähdreschern in den USA beobachtet und überzeugte schließlich August Claas, eigene Geräte zu entwickeln. Der Assistent von Vormfelde, Walter Brenner, wechselte ins Unternehmen und entwickelte mit Claas ab 1930 einen ersten Mähdrescher für den europäischen Markt als Frontschneider: Das Getreide wurde vor dem Schlepper geschnitten, mit einem Klemmband um den Schlepper seitlich herum transportiert und hinter dem Schlepper ausgedroschen. Der erste Prototyp blieb jedoch ständig im Getreide stecken, weswegen ein neuer Versuch in Angriff genommen wurde. Claas und Brenner stellten den neuen Prototyp aus bewährten Maschinen zusammen: In den Mähbinder setzten sie zwischen Mäheinheit und Strohbinder eine Dreschmaschine. So entstand der erste europäische Mähdrescher: „MDB“ = Mäh-Dresch-Binder aus dem Hause Claas. 1936 stellte Claas den MDB auf Gut Zschernitz vor und ging 1937 in die Serienproduktion. Die Kosten für einen MDB beliefen sich auf etwa 4.000 bis 5.000 Reichsmark. 1939 konnte die 100. Maschine gefertigt werden.
+Während des Zweiten Weltkrieges durften 1940 und 1941 nur jeweils 450 Maschinen produziert werden. 1943 wurde die Produktion von Erntemaschinen schließlich ganz verboten und die Produktion auf Rüstungsgüter umgestellt. Dennoch entwickelte Walter Brenner während des Krieges den Mähdrescher weiter. Während der MDB ein Querflussdrescher war und andere Hersteller auf Längsfluss setzten, vereinigte Brenner mit dem neuen „Super“ die Systeme. Das Getreide wurde quer ausgedroschen und längs ausgeschüttelt und gereinigt.
+
+
+=== Erster selbstfahrender Mähdrescher ===
+
+Am 15. Dezember 1952, dem 65. Geburtstag von August Claas, stellte das Unternehmen den ersten selbstfahrenden Mähdrescher namens „Hercules“ mit einer Schneidwerksbreite von 2,50 Metern vor, der später einen Claas-Motor („LD 40“) erhielt. Für Kleinbauern entstand das Modell „Huckepack“, ein Geräteträger, auf den man einen Mähdrescheraufbau montieren konnte. Allerdings war dessen Umbau kompliziert und der Anschaffungspreis zu hoch. Trotz zweier getrennter Antriebe war das Fahrzeug mit einem Fahrmotor von 15 PS zu schwach motorisiert. Im nächsten Entwicklungsschritt übernahm man deshalb nur das Dreschaggregat für zwei Kleinselbstfahrer: der „Claas Columbus“ mit 1,80 Metern und der „Europa“ mit 2,10 Metern Schneidbreite kamen 1958 auf den Markt.
+
+Im Jahr 1966 stellte Claas den „Senator“ vor, der eine Schnittbreite von 4,20 m besaß. Auffällig waren die bei diesem Modell erstmals eingesetzten Verkleidungen, die dem Mähdrescher äußerlich ein ansprechenderes Aussehen gaben. Diese Verkleidungen behielt man auch bei dem Nachfolgemodell „Mercator“ bei, der serienmäßig mit einem 3,60 m-Schneidwerk ausgerüstet war. Vom Senator wurden über 8.000, vom Mercator über 7.000 Maschinen verkauft. Ab 1967 gab es ein weiteres Modell Namens „Consul“, das eine selbsttragende Karosserie besaß. Der Motor war bei diesem Fahrzeug im Vergleich zum Senator und Mercator vorne rechts angebracht, neben dem Fahrerstand. 1970 brachte Claas den „Compact“ auf den Markt, der dem Consul ähnelte, aber für wesentlich kleinere Landwirtschaften konzipiert war.
+1968 trat Helmut Claas, Sohn von August Claas, dessen Nachfolge in der Unternehmensführung an. 1969 übernahm Claas mit der Josef Bautz AG in Saulgau ein Werk für Futtererntemaschinen. Im Februar 1970 übernahm Claas den 1874 von Wilhelm Speiser gegründeten Betrieb für von Traktoren gezogene Häcksler und verlegte deren Produktion nach Saulgau. Im selben Jahr wurde der Dominator vorgestellt. Er setzte neue Maßstäbe, denn erstmals wurde serienmäßig ein hydrostatischer Fahrantrieb und eine Fahrerkabine angeboten. 1971 entwickelte Claas seinen ersten Zuckerrohrernter.
+Mit dem Modell „Jaguar 60SF“ stellte Claas seinen ersten selbstfahrenden Feldhäcksler vor. Bis zum ersten Modellwechsel 1975 wurden 500 Einheiten produziert. Mitte der 1980er Jahre entwickelte Claas für den „Dominator“ ein Cylinder-System, bei dem die Schüttler durch Walzen ersetzt wurden, die das Stroh nach hinten beförderten. Daraus entstand später eine separate Baureihe, die „Commandor“ genannt wurde.
+Im Jahr 1992 eröffnete Claas sein erstes Mähdrescherwerk in Indien. In Faridabad werden spezielle Landmaschinen für die Reisernte entwickelt und produziert. 1994 entstand „Agrocom“, eine Unternehmenssparte für Informationsfluss in der Landtechnik. 1995 kommt in Indien der „Crop Tiger“ in verschiedenen Versionen auf den dortigen Binnenmarkt. Ebenfalls 1995 führte Claas den Großmähdrescher Lexion mit einer Ernteleistung von 40 t Getreide pro Stunde ein. Damit war er der zu dieser Zeit leistungsstärkste Mähdrescher der Welt.
+
+
+=== Beginn der Traktorenproduktion ===
+
+Mit dem Xerion entstand 1997 der erste Traktor aus dem Hause Claas. 1999 begann Claas seine Zusammenarbeit mit dem US-amerikanischen Bau- und Landmaschinenhersteller Caterpillar. Claas vermarktete den von Caterpillar entwickelten Traktor mit Raupenketten „Challenger“ in Europa und im Gegenzug wurde der Lexion in Nordamerika unter der Marke CAT vertrieben.
+Claas stieß im Jahr 2000 auf den südamerikanischen Kontinent vor und eröffnete die erste eigene Vertriebsgesellschaft in der argentinischen Provinz Santa Fé. Im Rahmen des Joint Ventures eröffneten Caterpillar und Claas in Omaha im US-Bundesstaat Nebraska 2001 ein gemeinsames Mähdrescherwerk. Nur ein Jahr später übernahm Claas einen 50%igen Anteil von Caterpillar am gemeinsamen Joint Venture und dem zugehörigen Mähdrescherwerk in den USA. Die dort produzierten Mähdrescher werden in Nordamerika weiterhin als „CAT Lexion“ über das Caterpillar Händlernetz vertrieben. 2002 übernahm Claas die Anteile der Escorts Group an einem gemeinsamen Joint Venture in Indien.
+Am 11. Februar 2003 verließ der 400.000. Mähdrescher die Fertigungslinie im Stammwerk Harsewinkel. In Anlehnung an die ersten von Claas gebauten Mähdrescher erhielt der Lexion eine silberne Lackierung. Ebenfalls 2003 übernahm Claas 51 % der Aktien des französischen Traktorenherstellers Renault Agriculture und konnte damit erstmals ein vollständiges Traktoren-Sortiment anbieten. 2004 trat Cathrina Claas, Tochter von Helmut Claas, aktiv in das Familienunternehmen ein.
+2005 entstand in Zusammenarbeit mit Kramer die Teleskoplader-Baureihe Claas Scorpion. Im russischen Krasnodar begann die Produktion im neuen Mähdrescherwerk. Als erster westlicher Hersteller verfügte Claas über eigene Kapazitäten in Russland. Auf der Messe Agritechnica wurde der „Lexion 600“ mit einer Schneidwerksbreite von bis zu 12 m, einem Korntankvolumen von 12.000 Litern und einer Flächenleistung von 60 Tonnen je Stunde präsentiert. Der Lexion 600 war abermals der leistungsstärkste Mähdrescher auf dem Markt.
+Anfang 2006 stockte Claas seinen Anteil bei Renault Agriculture auf 80 Prozent auf. 2007 entstand in Morinda in der Nähe von Chandigarh im Bundesstaat Punjab das zweite Mähdrescherwerk in Indien. Die Produktion in dem Werk mit 300 Beschäftigten wurde im Oktober 2008 aufgenommen. Auf der Agritechnica 2007 wurde der Claas Tucano als neues Mittelklassemodell vorgestellt. Die Schneidwerksbreiten liegen zwischen 5,40 und 9 Metern, das Korntankvolumen beträgt 9.000 Liter und die Entleerleistung ist 75 Liter pro Sekunde. 2008 erfolgte die vollständige Übernahme von Renault Agriculture.
+
+
+== Aktuelle Baureihen ==
+
+
+=== Traktoren ===
+In Deutschland lag der Marktanteil von Claas bei Traktoren mit mehr als 38 kW (51 PS) im Jahr 2012 bei 10,4 %.
+
+
+==== Xerion ====
+
+
+==== Axion ====
+
+
+==== Elios ====
+
+
+==== Atos ====
+Der Atos wurde von Claas auf der EIMA 2014 vorgestellt. Er ist weitgehend baugleich mit der Serie 5 von Deutz-Fahr und verwendet Motoren der Farmotion-Baureihe der SDF Group mit einer Leistung von 70 bis 110 PS.
+
+
+=== Mähdrescher ===
+
+Claas bietet derzeit drei Mähdreschertypen an, die im Stammwerk Harsewinkel produziert werden. Größtes Modell ist der Lexion, der seit 1995 in der mittlerweile vierten Generation produziert wird. Er verfügt über eine Maximalleistung von 598 PS und ist auf der Vorderachse mit Reifen oder Raupenketten erhältlich. Damit kann eine Höchstgeschwindigkeit von 40 km/h erreicht werden. Die Schneidwerke sind bis zu 13,50 Meter breit und der Korntank fasst bis zu 12.500 Liter. Das Modell „Lexion770“ erntete bei einem Versuch in England in acht Stunden 675 Tonnen Weizen, die auf knapp 70 Hektar standen. Mit einer durchschnittlichen Ernteleistung von 84,5 Tonnen pro Stunde gelang damit ein Eintrag in das Guinness-Buch der Rekorde.
+Der Tucano gilt als Mittelklassemodell. Er ist mit einem Schneidwerk von 5,40 bis 9,00 Metern erhältlich und hat einen Korntank von bis zu 9.000 Litern, der mit 75 Litern pro Sekunde entleert werden kann. Die größten Modelle dieser Baureihe sind der „Tucano 470“ und „Tucano 480“. Beide sind sogenannte Hybrid-Maschinen und verfügen mit dem Abscheiderotor Roto Plus über eine Restkornabscheidung. Der Tucano wird seit 2007 produziert. Im Frühjahr 2013 wurde die 10.000. produzierte Einheit ausgeliefert.
+Zur Kompaktklasse der Mähdrescher zählt der Avero der in zwei Ausführungen verfügbar ist. Die Schneidwerksbreiten reichen von 3,71 bis 6,07 Metern. Die Kraft der jeweiligen Motoren liegt für Maschinen dieser Baureihe bei 158 PS respektive 205 PS.
+
+
+=== Feldhäcksler ===
+
+Mit der Übernahme der 1874 von Wilhelm Speiser gegründeten Landmaschinenfabrik in Göppingen konnte Claas 1970 seine Produktpalette um einen Häcksler erweitern. Als Weiterentwicklung kam 1973 der Jaguar auf den Markt. Die Produktion der Häckselwerke befindet sich bis heute im benachbarten Bad Saulgau, während die Fahrzeugmontage in Harsewinkel erfolgt. Im Jahr 1984 erreichte er mit einer Gesamtstückzahl von 6.800 Einheiten einen Marktanteil von 50 % in Europa. 2011 lief der 30.000 Häcksler vom Band, womit Claas als Weltmarktführer im Segment der Feldhäcksler gilt. Der Jaguar ist außerdem die am längsten produzierte selbstfahrende Erntemaschine bei Claas.
+
+
+=== Teleskoplader Scorpion ===
+
+
+=== Ballenpressen ===
+
+Quadrant Quaderballenpresse
+Rollant Rundballenpresse
+Variant Rundballenpresse
+
+
+=== Futterernte ===
+
+Disco Scheibenmähwerk
+Corto Trommelmähwerk
+Volto Wender
+Liner Schwader
+Cargos Kombiwagen
+
+
+== Produktionsstandorte ==
+
+
+=== Stammwerk Harsewinkel ===
+
+Das Stammwerk Harsewinkel wurde 1919 eröffnet. Claas produziert hier Mähdrescher, Feldhäcksler und das Systemfahrzeug Xerion. In den Jahren 2000 bis 2003 wurde es so erweitert, dass nicht nur fertige Maschinen, sondern auch einzelne Komponenten für andere Claaswerke produziert werden können. Ebenfalls am Standort Harsewinkel befindet sich die Verwaltung des Unternehmens.
+Die im Hauptwerk Harsewinkel gefertigten Maschinen werden etwa je zur Hälfte mit der Eisenbahn und dem LKW transportiert. Die Wahl des Verkehrsmittels hängt vorwiegend vom Zielland ab. Nach Westeuropa (vor allem Deutschland, Frankreich, Spanien) erfolgt der Transport überwiegend auf der Straße, da dort der Einzelwagenladungsverkehr schon sehr ausgedünnt ist (vgl. das Sanierungsprogramm MORA C der früheren DB Cargo AG) und die Anzahl der Gleisanschlüsse abnimmt. Zu den Seehäfen Bremen und Hamburg sowie nach Südost- und Osteuropa (vor allem Polen, Rumänien und ehemalige GUS-Staaten) überwiegt der Bahntransport. Im Jahr 2007 hat DB Schenker etwa 6.700 Wagenladungen mit einem Nettogewicht von 73.000 Tonnen transportiert.
+Die Bedeutung des Bahnverkehrs kommt darin zum Ausdruck, dass bereits 1967 eine 3,1 Kilometer lange Anschlussbahn, die von der Strecke Ibbenbüren – Gütersloh der Teutoburger Wald-Eisenbahn (TWE) zum eigenen Werksbahnhof Harsewinkel-West führt, gebaut wurde. Montags bis Freitags erfolgt die Bedienung mit zwei Zugpaaren durch die TWE und Samstags erfolgt eine Bedienung. Der Schienengüterverkehr erfolgt auf speziellen Güterwagen, die für den Transport der Mähdrescher optimiert sind. Trotzdem handelt es sich um Transporte mit Lademaßüberschreitung, für die die Benutzung bestimmter Strecken und Züge vorgeschrieben ist, wodurch die Flexibilität und Laufzeit des Transports eingeschränkt wird. In Richtung Osten wird dennoch eine weitere Steigerung der Transportmengen erwartet. Ein erster Probetransport in die Volksrepublik China ist bereits erfolgt, jedoch ist der Seetransport zurzeit noch kostengünstiger.
+
+
+=== Deutschland ===
+
+
+==== Paderborn ====
+1956 wurde das Zweigwerk Paderborn-Mönkeloh eröffnet. Auf dem ehemaligen Flughafengelände fertigt Claas Antriebstechnik und Hydraulikkomponenten für die Mähdrescherproduktion in Harsewinkel. Seit 1975 heißt das Werk „Claas Industrietechnik“ (CIT). 1960 wurde die Hydraulikfertigung nach Schloß Holte ausgelagert und 1993 wieder in Paderborn integriert. Heute stellen die 550 Mitarbeiter die Produkte nicht nur für die eigenen Landmaschinen her sondern auch für Baumaschinen und Kommunalfahrzeuge fremder Hersteller.
+
+
+==== Bad Saulgau ====
+
+Seitdem Claas 1969 die Josef Bautz AG in Bad Saulgau übernommen hat, entstehen dort Landmaschinen für die Grünfutterernte. Hier werden Mähwerke, Wender, Schwader und Ladewagen produziert. Aber auch die Häckseltechnik für den Jaguar wird seit 1970 hier produziert. Die Claas-Produkte werden über Mengen auf der Donautalbahn transportiert.
+
+
+==== Hamm ====
+
+In Hamm-Uentrop befindet sich direkt an der Autobahn 2 gelegen seit 1999 das zentrale Ersatzteillager von Claas. 135.000 Ersatzteile befinden sich auf etwa 40.000 Quadratmetern Lagerfläche. Mit dem Logistikpartner Kühne + Nagel gelangen die Teile zu den Kunden.
+
+
+==== Gütersloh ====
+Am Standort Gütersloh befindet sich die Claas Agrosystems (CAS). Hier werden Elektroniksysteme für Claas Maschinen und für weitere Landwirtschaftliche Anwendungsfälle entwickelt. Darüber hinaus werden Softwarelösungen zur optimalen Nutzung und Einsatz im Bereich der Landwirtschaft entwickelt. Zu den Produkten gehören Maschinenterminals, Lenk- und Telemetriedatensysteme.
+Die Gesellschaften Claas Südostbayern GmbH in Töging am Inn, die Claas Nordostbayern GmbH & Co KG in Weiden in der Oberpfalz und die Claas Main-Donau GmbH & Co KG in Vohburg an der Donau gehören zu 90 Prozent und die Claas Württemberg GmbH in Langenau zu 80 Prozent der BayWa AG.
+Im Mai 2016 gab Claas bekannt, dass sich das Unternehmen von seiner Gießerei trennen wird. Davon betroffen sind die Standorte Gütersloh, Bad Saulgau und Norddorf, die zusammen rund 400 Mitarbeiter haben. Verkauft werden soll an einen Käufer aus dem Umfeld der ergocast Guss GmbH. In den Vertragsverhandlungen wurde der Abbau von Arbeitsplätzen nicht thematisiert. Als Grund für den Verkauf wurden Überkapazitäten und eine Konsolidierung der Branche genannt.
+
+
+=== Europa ===
+Neben den sechs europäischen Produktionsstätten gibt es auch Vertriebsgesellschaften in Sexham (England), Paris (Frankreich), Vercelli (Italien), Buk (Polen), Moskau (Russland) und Madrid (Spanien).
+
+
+==== Metz, Frankreich ====
+August Claas erwarb bereits 1952 ein neun Hektar großes Gelände in Metz, Frankreich, um eine Produktion für Pressen zu errichten. Seit 1958 wurden hier insgesamt über 280.000 Pressen, wie die Ballenpresse „Quadrant“ und die Rollenpressen „Rollant“ und „Variant“, hergestellt. Am Standort werden 400 Mitarbeiter beschäftigt.
+
+
+==== Törökszentmiklós, Ungarn ====
+1997 erwarb Claas eine Produktionshalle in Törökszentmiklós, Ungarn, von einem Mezögep-Staatskonzern. Hier werden Schneidwerke, Vorsatz- und Anbaugeräte für Mähdrescher produziert. 2013 konnten ein eigenes Entwicklungszentrum, Zentrallager und eine Lackierstraße eröffnet werden. Jährlich werden auf der Schiene rund 750 Güterwagen mit Schneidwerken versandt, von denen rund 90 Prozent an das Hauptwerk in Harsewinkel gehen.
+
+
+==== Le Mans, Frankreich ====
+Durch die stückweise Übernahme der Renault Agriculture im französischen Le Mans seit 2003 kann Claas auch Traktoren anbieten. Bis auf den Großtraktor Xerion werden alle Traktoren hier produziert.
+
+
+==== Krasnodar, Russland ====
+2005 wurde im russischen Krasnodar ein Montagewerk mit einer Kapazität von 1.000 Mähdreschern pro Jahr eröffnet. 200 Einheiten des Mega konnten in der ersten Saison montiert werden. Die vorgefertigten Komponenten stammten aus dem Hauptwerk in Harsewinkel. Mittlerweile existiert hier auch ein Werk zur Traktorenfertigung. Nach der Fertigstellung einer Erweiterung des Werkes im Jahr 2015 hat sich die Kapazität mehr als verdoppelt.
+
+
+=== Amerika ===
+Seit 1979 unterhält Claas eine Vertriebsgesellschaft in den Vereinigten Staaten und seit 2000 auch in Sunchales in der Provinz Santa Fe, Argentinien.
+
+
+==== Omaha, Vereinigte Staaten ====
+Im Werk Omaha im amerikanischen Bundesstaat Nebraska produziert Claas seit 1999 Mähdrechser für den nordamerikanischen Markt. Die Lexion erhalten hier eine gelbe Lackierung, da sie vorrangig über das Vertriebsnetz von Caterpillar vertrieben werden.
+
+
+=== Asien ===
+
+Neben vier Produktionsstandorten für Mähdrescher gibt es Vertriebsgesellschaften in Beijing, Volksrepublik China und Bangkok, Thailand sowie ein Lager- und Logistikzentrum in Bangalore, Indien.
+
+
+==== Faridabad, Indien ====
+Als Joint Venture mit der Escorts Group entstanden bereits seit 1992 Mähdrescher für die Reisernte. Seit 1995 wird hier der „Crop Tiger 30“ mit Reifen oder Raupen produziert. Seit 2002 ist das Werk eine 100%ige Tochtergesellschaft von Claas.
+
+
+==== Chandigarh, Indien ====
+2008 entstand das zweite Mähdrescherwerk in Indien. Claas India produziert und entwickelt in Morinda bei Chandigarh. Die Kapazität beträgt 900 Einheiten im Jahr. Hauptprodukt ist der „Crop Tiger 60“, ein kompakter Mähdrescher für die Reisernte.
+
+
+== Auszeichnungen ==
+2001 erhielt Claas den „Staufenbiel Award“ für innovatives Bewerbermanagement eines mittelständischen Unternehmens im Internet.
+2006 erhielt Rüdiger A. Günther, Sprecher der Geschäftsführung und Leiter der Finanzen, den Finance-Award „CFO des Jahres“.
+2007 verlieh die Bundesvereinigung Logistik dem Unternehmen den Deutschen Logistik-Preis.
+2009 erhielt Claas auf der Agritechnica Goldmedaillen für das elektronische Maschinen-Optimierungs-System CEMOS und für die automatisierte kameraüberwachte Wagenbefüllung bei Feldhäckslern AUTOFILL. Eine Silbermedaille gab es für eine intelligente Pflanzenschutzdatenbank in der Pflanzenbausoftware AGRO-NET.
+2010 wurde das Unternehmen in das Lexikon der deutschen Weltmarktführer aufgenommen.
+
+
+== Literatur ==
+100 Jahre besser ernten. CLAAS. Das Buch. Delius Klasing Verlag, Harsewinkel 2012, ISBN 978-3-7688-3557-2. 
+Stefan Högemann: Per Bahn auf die Felder der Welt. Die Erntemaschinentransporte der Firma Claas. In: Bahn-Report, Hrsg. IG Schienenverkehr e. V. Nr. 4/2008 2008, ISSN 0178-4528, S. 10–13. 
+Manfred Baedeker, Ralf Lenge: Die Claas Mähdrescher-Story. Landwirtschaftsverlag, Münster 2001, ISBN 978-3-7843-3053-2. 
+Horst-Dieter Görg: Claas-Chronik. DLG Verlag, 2004, ISBN 978-3-7690-0633-9. 
+
+
+== Weblinks ==
+
+Claas KGaA mbH
+Geschichte des Claas Knoters
+Deutsche Riesen mähen die Welt, Focus 27/14, 30. Juni 2014, S. 72-73
+
+
+== Einzelnachweise ==

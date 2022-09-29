@@ -1,0 +1,22 @@
+Die hypertensive Krise (englisch: hypertensive crisis) ist eine plötzlich auftretende Fehlregulation des Blutdrucks im systemischen Kreislauf. Sie geht mit einem hohen Blutdruck einher und hat kurzzeitig eine gute Prognose. Die European Society of Hypertension und die European Society of Cardiology definieren die hypertensive Krise mit Blutdruckwerten >180/120 mmHg. Sie ist eine Notarztindikation.
+
+
+== Begriffsdefinition und Differenzialdiagnose ==
+Hypertensive Entgleisung ist der Oberbegriff für krisenhaft erhöhte Blutdruckwerte, ob mit oder ohne weitere Symptome.Von einer hypertensiven Krise spricht man dann, wenn bei kritisch erhöhtem arteriellen Blutdruck kein Hinweis auf akute hypertensive Organschädigungen vorliegt. Zeichen einer akuten Organschädigung können neurologische Ausfälle, Atemnot oder Brustkorbschmerzen sein.
+Treten in Zusammenhang mit der Blutdruckerhöhung Zeichen einer Organschädigung auf, handelt es sich um einen hypertensiven Notfall (englisch: hypertensive emergency).
+
+
+== Auslöser ==
+Am häufigsten wird die hypertensive Krise ausgelöst, weil blutdrucksenkende Medikamente nicht wie verordnet eingenommen worden sind (siehe Adhärenz). Emotionale Erregungszustände, Angststörungen oder Panikattacken sind weitere Ursachen für Blutdruckerhöhungen. Seltenere Ursachen sind zunehmende Verengungen der Nierenarterien, akute Nierenerkrankungen oder ein DD-Genotyp des Angiotensin Converting Enzyme, ebenso die Aufnahme tyraminreicher Nahrung (Wein, Bier, Käse, Sauerkraut) bei gleichzeitiger Einnahme von Antidepressiva aus der Klasse der MAO-Hemmer. Durch die Hemmung der Monoaminooxidasen (MAO) werden biogene Amine (z. B. das sympathomimetisch wirkende Tyramin) schlechter abgebaut.
+
+
+== Symptome und Behandlungsstrategie ==
+Die Betroffenen haben oft Kopfschmerzen, Schwindel, Nasenbluten oder Zittern am ganzen Körper, können aber auch symptomfrei sein. Da die Beschwerden nicht lebensbedrohlich sind, reicht es (nach entsprechender Ausschlussdiagnostik) aus, den Blutdruck allmählich auf normale Werte abzusenken. Hierzu können Medikamente oral verabreicht und die Patienten zunächst engmaschig ambulant weiter betreut werden. Gefährlich ist eine hypertensive Krise bei entsprechenden Vorerkrankungen, da sie sich relativ schnell zu einem hypertensiven Notfall entwickeln kann, der immer mit schweren Störungen verschiedener Organe einhergeht, wie z. B. Bewusstseinstrübung, Herzversagen, Schlaganfall und weiteren Organschäden.
+
+
+=== Medikamentöse Behandlung ===
+Die Blutdrucksenkung sollte langsam erfolgen. Der systolische Druck sollte maximal um rund ein Viertel in den ersten beiden Stunden der Behandlung abgesenkt werden. Zur Behandlung des hypertensiven Notfalls steht Nitrendipin als oral anzuwendende Lösung bereit. Über einen venösen Zugang können Urapidil und Clonidin verabreicht werden. Zusätzlich kann die Gabe eines Schleifendiuretikums erwogen werden. Die oft zu beobachtende Anwendung von Nitroglyzerin bei reiner Blutdruckkrise (ohne Angina Pectoris) erfolgt als Off-Label-Use außerhalb der Zulassung im Rahmen der ärztlichen Therapiefreiheit.
+Erfahrene Patienten, vor allem bei denen diese Erkrankung erblich bedingt ist und stark erhöhter Blutdruck deshalb mehr oder weniger regelmäßig auftritt, tragen für Notfälle oft Urapidil als Kapseln mit sich.
+
+
+== Einzelnachweise ==

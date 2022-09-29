@@ -1,0 +1,24 @@
+Als anaplastisches Astrozytom wird ein bösartiger Hirntumor bezeichnet, der durch diffuses Wachstum, erhöhte Zelldichte und Kernteilungsfiguren gekennzeichnet ist. Er entsteht aus einer bestimmten Zellpopulation des zentralen Nervensystems, den Astrozyten. Der Tumor entspricht nach der WHO-Klassifikation der Tumoren des zentralen Nervensystems einem Grad-III-Tumor.
+
+
+== Epidemiologie und Klinik ==
+Anaplastische Astrozytome treten typischerweise im Marklager (der weißen Substanz) des Gehirns bei Erwachsenen auf. Der Altersgipfel liegt zwischen 35 und 45 Jahren bei der Diagnosestellung. Das Verhältnis Männer zu Frauen beträgt 1,6 zu 1. Eine weitere Häufung tritt im Kindesalter auf, wobei hier vor allem der Hirnstamm betroffen ist. Die Tumoren können de novo oder durch eine Progression aus einem diffusen Astrozytom WHO Grad II entstehen. Der Tumor infiltriert diffus das umgebende Hirngewebe, ohne dies vollständig zu zerstören, sodass die betroffenen Hirnstrukturen vergrößert erscheinen. Der Tumor zeigt in der Bildgebung ein ausgeprägtes Ödem der Umgebung und in der Regel fokal eine Kontrastmittelanreicherung.Klinisch zeigt sich ein Anaplastisches Astrozytom durch Hirndruck und gehäufte Anfälle.
+
+
+== Neuropathologie ==
+Biopsieproben des Tumors zeigen in der Regel pleomorphe Zellen, eine angehobene Zelldichte und Kernteilungsfiguren. Die Proliferationsaktivität des Tumors liegt in der Regel über 5 %. Mit immunhistochemischen Methoden kann die astrozytäre Herkunft des Tumors durch Nachweis von GFAP gesichert werden. In mehr als der Hälfte der Tumoren können Mutationen des Tp53-Proteins und der Isocitrat-Dehydrogenase im Tumor nachgewiesen werden.
+
+
+== Therapie ==
+Die derzeitige Standardtherapie besteht aus operativer Entfernung des Tumors (Resektion) so weit wie möglich, gefolgt von einer Strahlentherapie. Aufgrund des infiltrativen Wachstums ist eine Komplettentfernung de facto unmöglich, weshalb Rezidive die Regel sind.
+
+
+== Prognose ==
+Der Tumor zeigt in der Regel innerhalb von zwei Jahren eine Progression zum Glioblastom. Anaplastische Tumoren ohne Nachweis einer IDH-Mutation zeigen einen schlechteren Verlauf als Glioblastome mit einer solchen Mutation.
+
+
+== Siehe auch ==
+Übersichtsartikel Astrozytome
+
+
+== Einzelnachweise ==

@@ -1,0 +1,104 @@
+Ein vernetztes Auto ist ein Fahrzeug, das über das Internet mit anderen Fahrzeugen und der Umwelt verbunden ist und in alle Richtungen kommunizieren kann.
+
+
+== Definition ==
+Eine Legaldefinition oder eine allgemein anerkannte Definition der deutschen bzw. englischen Begrifflichkeiten „vernetztes Fahrzeug“ bzw. „connected car“ gibt es derzeit noch nicht.
+In der Zeitschrift Recht der Datenverarbeitung wird das vernetzte Auto wie folgt definiert:
+„Das Automobil der Zukunft ist ein rollender Computer, der mit der Umwelt, der Infrastruktur und dem Internet vernetzt ist. Hiermit verbunden ist die Preisgabe einer Vielzahl personenbezogener Daten.“In der Zeitschrift Kriminalistik wie folgt:
+„Die Ausstattung eines Fahrzeugs mit mindestens einem Modul, welches die diversen Sensoren und/oder Speicherkapazitäten im Fahrzeug mit mindestens einem anderen Gerät, Netzwerk oder Dienst außerhalb des Fahrzeugs verbindet. Dies schließt Verbindungen zum Internet, zu anderen Fahrzeugen (Car-to-Car), zu Häusern (Car-to-Home), zum Hersteller oder anderen Firmen (Car-to-Enterprise) oder zu anderen Infrastrukturkomponenten (Car-to-X) mit ein.“
+
+
+== Eigenschaften des vernetzten Autos in der Gegenwart und Zukunft ==
+Bordcomputer (Automobil), Assistenz- und Sicherheitsfeatures als Fahrzeugelektroniken (z. B. Antiblockiersystem, Elektronisches Stabilitätsprogramm, Einparkhilfen) und Rückfahrkameras sind schon heute integrierte Bestandteile des Autos. Darüber hinaus werden beispielsweise durch das On-Board-Diagnose (OBD) Fahrzeugsystem schon heute Daten gesammelt, die bisher als Informationsquelle für Werkstätten dienen. Entwickelt und eingeführt wurde das OBD zur Überwachung abgasrelevanter Komponenten.
+Demnach ist das vernetzte Auto schon jetzt kein Phänomen der Zukunft mehr. Denn schon heute wird durch den Einbau einer SIM-Karte im Fahrzeug die Möglichkeit geschaffen, Verbindungen für Daten- und Sprachkommunikation zu konstruieren und zudem den Fahrer durch Fahrerassistenzsysteme zu entlasten. Der Einsatz von Sensorik und die Erfassung und Auswertung von Daten durch den Bordcomputer (Automobil) fallen in den Bereich der internen Vernetzung. Die externe Vernetzung des Automobils zeichnet sich durch die Verwendung von Telekommunikations- und Telemediendiensten während der Fahrt aus. Dazu gehören beispielsweise Navigationsdienste, standortbezogene Dienste und die Verknüpfung des Autos mit Mobilfunkgeräten.Zukünftig wird sich das vernetzte Auto zum autonomen Fahrzeug (Selbstfahrendes Kraftfahrzeug) weiterentwickeln. Entsprechende Prototypen existieren bereits heute schon. Unabhängig davon wird die Vernetzung des Autos mit der Umwelt zunächst noch stärker ausgebaut werden. Informations- und Kommunikationstechnik verschmelzen immer mehr mit der Automobiltechnik und bilden somit eine Einheit. Fahrzeuge sollen sowohl untereinander kommunizieren („Car-2-Car“) können, als auch mit ihrer Umgebung („Car-2-X“). Die Kommunikation mit der Umgebung kann beispielsweise über die Infrastruktur erfolgen. Durch die Sammlung der Daten sollen frühzeitige Warnungen vor Glatteis, Staus oder anderen Hindernissen ermöglicht werden und dadurch der Straßenverkehr sicherer und zügiger gestaltet werden.Im Innenraum des Fahrzeuges sollen die Daten über Sensoren, Kameras, Mikrofone, Sitzbelegungs- und Temperaturfühler gesammelt werden. Es ergeben sich somit Informationen und Meldungen über Vorgänge, Ereignisse, Fahrer und Mitfahrer. Daten über die Umgebung des Fahrzeuges sollen über Sensoren, Kameras, Infrarot und Ultraschall zusammengetragen werden. Diese geben Informationen z. B. über die Außentemperatur und andere Wetterphänomene und sollen ebenfalls zur Sicherheit beitragen. Gleichzeitig sorgen z. B. GPS-Systeme dafür, dass durchgängig der Standort und die Route des jeweiligen Fahrzeugs ermittelt werden können. Diese unterschiedlichsten Sensoren erzeugen qualitativ hochwertige Datenströme, da sie unmerklich und allgegenwärtig erhoben werden können. Werden sie gebündelt, können sie detaillierte Einblicke in das Fahrverhalten und in die Privatsphäre ermöglichen.
+
+
+== Datenkategorien ==
+Die gesammelten Daten des vernetzten Autos können unter verschiedenen Aspekten eingeordnet werden. Eine Differenzierung nach signifikanten Bereichen induziert eine mögliche Einteilung in folgende Datenkategorien: fahrzeugbezogene Daten, direkte insassenbezogene Daten, umweltbezogene Daten und drittanbieterbezogene Daten.
+
+
+== Mögliche Verwendung der erfassten Daten ==
+Es gibt eine Vielzahl an Personen und Unternehmen, die ein Interesse an den erfassten Daten des vernetzten Autos aus verschiedenen Gründen haben.
+So existiert ein gemeinsames Vertriebssystem von Herstellern, Vertragshändlern und Vertragswerkstätten, dem spezialisierte Dienstleistungen bezogen auf bestimmte Kraftfahrzeugmarken zugeordnet werden. Daher interessieren sich diese Instanzen für die gesammelten Daten des vernetzten Autos sowohl um die Fahrzeuge zu verbessern, als auch um Gewährleistungsfälle zu prüfen, Fahrzeugfehler zu entdecken, Fahrzeugwartungen zu gewährleisten und um Dokumentationen bzw. Beweismaterialien für Vorfälle bezüglich der Produkt- und Vertragshaftung zu ermöglichen.
+Durch die genaue Definition des Problems auf der Basis der gesammelten Daten des Bordsystems werden unabhängige Werkstätten und Pannendiensten in die Lage versetzt, exaktere sowie gründlichere Reparaturen durchzuführen.
+Eigentümer von Dienstwagen, Flottenmanager, Autovermietungen und Carsharing-Unternehmen sind weitere potenzielle Interessenten. Diese können durch die Daten des vernetzten Fahrzeugs Kenntnisse über Aufenthaltsort, Beschaffenheit des Fahrzeuges und Fahrweise des Fahrers erhalten.
+Weitere potenzielle Datenbezieher können Versicherungen sein, die sich unter dem Aspekt „Pay as you drive“ (Höhe des zu zahlenden Versicherungsbeitrags in Abhängigkeit von der Fahrweise des Fahrers) für die Informationen aus dem vernetzten Auto interessieren.
+Auch können die Daten des vernetzten Autos für staatliche Stellen wie die Polizei und Gerichte von Bedeutung sein, wenn z. B. Verkehrsverstöße oder Unfälle aufgeklärt werden sollen.
+
+
+== Betroffene Personen ==
+Durch die Vernetzung des Autos werden Daten verschiedener Personengruppen erfasst und verwendet.
+In erster Linie werden Daten über den Halter des Autos zusammengetragen. Der Halter eines Kfz ist in der Regel der Käufer und Eigentümer. Bei Leasing oder Eigentumsvorbehalt (Deutschland) wird der Besitzer des Kfz als Halter bezeichnet.
+Daten werden auch über den Fahrer des vernetzten Autos gesammelt, der nur zum Teil identisch mit dem Halter ist. So sind über die alternierenden Nutzer innerhalb von Familien, Unternehmen, Autovermietungen oder beim Carsharing gleichzeitig mehrere Personen beteiligt und betroffen.
+Unter bestimmten Umständen können auch Daten über Beifahrer bzw. Mitfahrer gesammelt werden. Gleiches gilt für Dritte außerhalb des Fahrzeugs zum Beispiel, wenn Dashcams verwendet werden.
+
+
+== Datenschutz nach dem Bundesdatenschutzgesetz (BDSG) ==
+(Quelle:)
+
+
+=== Erhebung, Verarbeitung und Nutzung personenbezogener Daten ===
+Das BDSG findet nur Anwendung, wenn personenbezogene Daten erhoben, verarbeitet oder genutzt werden. Die reine Speicherung von Daten in der Elektronik des Fahrzeugs wäre also unproblematisch, deren Verarbeitung ist datenschutzrechtlich bereits problematisch. Unter Erhebung fällt das Auslesen der Daten sowie eine Vernetzung der Elektronik.
+
+
+=== Persönliche Daten/Personenbezogene Daten ===
+Im Rahmen des Rechts auf informationelle Selbstbestimmung findet das einfachgesetzliche Datenschutzrecht nach § 1 Abs. 1 i. V. m. § 3 Abs. 1 BDSG weiter immer dann Anwendung, wenn personenbezogene Daten vorliegen. „Personenbezogene Daten sind Einzelangaben über persönliche oder sachliche Verhältnisse einer bestimmten oder bestimmbaren natürlichen Person (Betroffener).“ Im Grunde können alle Daten personenbezogen oder personenbeziehbar sein, ebenso wie Fahrer, Eigentümer, Halter, Insassen und Personen außerhalb des Fahrzeugs betroffen sein können. Ob die Daten als personen- oder fahrzeugbezogene Daten bewertet werden, ist letztlich abhängig von der erhebenden Stelle. Hat diese Stelle Zusatzinformationen, sodass die Daten dadurch einer bestimmten Person zugeordnet werden können, handelt es sich um personenbezogene/personenbeziehbare Daten. Ohne derartige Zusatzinformationen wäre der Personenbezug nicht gegeben. Als ein Beispiel wäre die Kfz-Werkstatt zu nennen, welche entsprechende Daten zwecks Diagnose ausliest und gleichzeitig Informationen über den Fahrzeughalter besitzt.
+Stellen Daten weder direkt noch indirekt einen Bezug zu einer bestimmten Person her, fallen diese nicht unter das BDSG und dürfen frei erhoben und genutzt werden. Ein Beispiel dafür wäre, wenn Daten mehrerer Endgeräte so zusammengefasst werden, dass der einzelne Datensatz nicht mehr oder nur mit unverhältnismäßig großem Aufwand an Zeit, Kosten und Arbeitskraft auf eine bestimmte Person bezogen werden kann. Die Daten wären somit anonymisiert. Eine weitere Möglichkeit stellt die Pseudonymisierung dar.
+
+
+=== Erlaubnis durch gesetzliche Vorschrift oder Einwilligung ===
+Darüber hinaus muss das sogenannte Verbot mit Erlaubnisvorbehalt beachtet werden. Demnach ist die Erhebung, Verarbeitung und Nutzung personenbezogener Daten grundsätzlich verboten, sofern keine gesetzliche Vorschrift dieses erlaubt bzw. anordnet oder der Betroffene seine Einwilligung erteilt hat. Die verantwortliche Stelle muss also mittels Gesetz dazu bemächtigt sein die Daten zu erheben oder über eine Einwilligung der Betroffenen verfügen. Ist dies nicht der Fall drohen hohe Bußgelder, verwaltungsrechtliche Sanktionen oder auch Schadensersatzansprüche der Betroffenen (§§ 7, 38, 43 BDSG).Eine Erlaubnis auf gesetzlicher Grundlage besteht zum Beispiel in Form von § 28 Abs. 1 Satz 1 Nr. 1 BDSG. Eine Datenverarbeitung ist danach zulässig, wenn dies „für die Begründung, Durchführung und die Beendigung eines rechtsgeschäftlichen oder rechtsgeschäftsähnlichen Schuldverhältnisses mit den Betroffenen erforderlich ist“. Die Datenverarbeitung muss also für die Erfüllung eines Vertrages bzw. die Durchführung vorvertraglicher Maßnahmen erforderlich sein. Das Kriterium der Erforderlichkeit, welches allgemein gilt, ist allerdings in diesem Fall als problematisch zu betrachten, da es eng an den vertraglichen Inhalt geknüpft ist und somit je nach Ausgestaltung des Vertrages eine umfassende Datenverarbeitung auf Basis einer gesetzlichen Erlaubnis rechtfertigen kann. Weitere Rechtsgrundlagen für eine Datenverarbeitung finden sich in den §§ 27–32 BDSG. Über das BDSG hinaus lassen sich selbstverständlich weitere Rechtsvorschriften finden, welche eine Datenverarbeitung auf Gesetzesgrundlage legitimieren.
+Ein weiteres bekanntes Beispiel ist in diesem Zusammenhang auch das viel diskutierte eCall-System, welches ab 2018 für jedes neu zugelassene Auto verpflichtend wird. Dabei wird im Falle eines Unfalls automatisch oder auf Knopfdruck zum Beispiel die zuletzt bekannte geographische Position des Fahrzeugs, die Fahrzeugkennung und die Fahrtrichtung übermittelt, um eine möglichst schnelle Rettung zu ermöglichen. Hier wird die Datenverarbeitung zum Zwecke der Gefahrenabwehr auf Basis einer EU-Verordnung gesetzlich angeordnet.Eine Einwilligung ist dagegen nur wirksam, sofern sie auf der freien, bestimmten und bewussten Entscheidung des Betroffenen beruht. Ebenfalls muss der Betroffene transparent und vollständig über die Datenverarbeitung informiert werden.
+
+
+=== Informationspflichten und Betroffenenrechte ===
+Das BDSG versucht weiter mit diversen Informationspflichten und Betroffenenrechten Transparenz bei der Datenverarbeitung zu gewährleisten. Dazu gehören entsprechende Auskunftsrechte (§§ 19, 34 BDSG), Informations- und Benachrichtigungspflichten (§§ 4 Abs. 3, 19a, 33 BDSG), um Kenntnis zu erlangen, welche Daten überhaupt über den Betroffenen gespeichert werden, Rechte zwecks Berichtigung, Löschung und zur Sperrung von Daten (§§ 20, 35 BSDG) und Informationspflichten nach § 42a BDSG bei unrechtmäßiger Kenntniserlangung von Daten.
+
+
+== Ausblick ==
+
+
+=== Notwendige Gestaltung ===
+Der Datenschutz im vernetzten Auto wird zukünftig nicht nur aus rechtlicher Perspektive weiter an Relevanz gewinnen. Ein gelungenes Konzept wird in Zeiten von Big Data und Datenskandalen vor allem auch mit einem erheblichen Wettbewerbsvorteil für die Unternehmen einhergehen. Es gilt zukünftig durch eine angemessene vertragliche Gestaltung und entsprechende technische Umsetzung innovative Technologien, Dienste und Geschäftsmodelle zu ermöglichen wie gleichzeitig auch die Persönlichkeitsrechte der Verbraucher zu schützen.Es sind konkret Konzepte zu entwickeln, die den Bedarf personenbezogener Daten im Interesse der Kunden so weit wie möglich reduzieren und auf ein Minimum begrenzen. Personenbezogene Daten sollten lediglich erhoben und verarbeitet werden, wenn diese zur Funktionserfüllung unbedingt notwendig sind. Ebenfalls sollten die Verarbeitungsberechtigten so weit wie möglich beschränkt werden. Besondere Aufmerksamkeit wird auch auf die Transparenz der übermittelten Daten zu legen sein. Idealerweise sollten die Daten nur flüchtig im Fahrzeug gespeichert werden.Als Basis für den Datenumgang im vernetzten Auto wird wohl in Zukunft die Einwilligung der Betroffenen dienen. Die Informations- und Aufklärungspflichten des Fahrzeugherstellers könnten sich in weitreichenden und umfangreichen Verträgen oder Merkblättern widerspiegeln. Fraglich bleibt inwieweit diese von den Betroffenen gestaltbar und vor allem auch transparent sein werden ohne den Betroffenen zu überfordern.
+Eine Herausforderung stellt allerdings auch die Einwilligung Dritter (Insassen, andere Verkehrsteilnehmer etc.) dar, welche nicht als Halter oder Fahrer über einen Vertrag oder Einstellungen entscheiden können und meistens auch keine Kenntnis von einer möglichen Datenübermittlung haben.
+Gleiches gilt auch für die Fragen rund um die verantwortliche Stelle, welche oftmals nicht eindeutig zugeordnet werden kann.Um letztlich die Konzepte benutzerfreundlich und gleichzeitig rechtskonform zu gestalten, scheint eine Weiterentwicklung des Rechts zum Datenschutz unumgänglich, auch wenn Daten aktuell vornehmlich noch innerhalb des Autos verarbeitet werden. Das zukünftige Konzept zum Datenschutz und zur Datensicherheit wird sich insbesondere auf das Grundrecht der informationellen Selbstbestimmung beziehen müssen. Der Gesetzgeber ist gehalten, hier ein ausgewogenes Datenschutzregime zu schaffen, welches für Verbraucher und Industrie bei der Nutzung von vernetzten Autos Rechtssicherheit erzeugt. Abzuwarten ist zudem die weitere Entwicklung des vernetzten Autos sowie die EU-Datenschutzreform, welche sich an den Prinzipien von „Privacy by Design“ und „Privacy by Default“ orientieren wird.
+
+
+=== Privacy by Design (Datenschutz durch Technik) ===
+Der Privacy by Design-Grundsatz prüft, berücksichtigt und integriert datenschutzrechtliche Anforderungen sowie die Datensicherheit bereits in der Entwicklungsphase neuer Technologien, sodass Fehler und Lücken proaktiv vermieden werden können. Bei der Entwicklung technischer Lösungen und deren Integration wird danach auch bereits im Planungsprozess geprüft inwieweit personenbezogene Daten insgesamt beschränkt werden können. Der Datenschutz wird also von Beginn an bei Konstruktion und Herstellung in die Gesamtkonzeption miteinbezogen und sichergestellt. Diese Berücksichtigung und Implementierung von Sicherheitstechniken zu einem möglichst frühen Zeitpunkt fördert ein stimmiges Gesamtkonzept für den Persönlichkeitsschutz und beugt aufwändigen, unvollständigen und möglicherweise fehlerbehafteten oder gar unmöglichen Nachrüstungen vor, welche gegebenenfalls nötig wären. Dem Betroffenen ermöglicht es eine einfache Steuerung und Beschränkung der Verarbeitung seiner Daten. Auch wenn § 9 BDSG dies im Kern schon lange regelt, erfolgt die praktische Umsetzung nun mit dem Privacy by Design-Grundsatz auch in Form der neuen Datenschutzreform.
+Der Privacy by Design-Grundsatz umfasst zum Beispiel:
+
+Anonymisierungs- und Pseudonymisierungstechniken
+integrierte Verschlüsselungsmethoden
+Nutzer-Authentifizierungen
+grundsätzliche Datensparsamkeit
+die Trennung von Identifizierungs- und Inhaltsdaten (z. B. bei der Nutzung ortungsbasierter Dienste)
+
+
+=== Privacy by Default (Datenschutz durch Voreinstellungen) ===
+Unter „Privacy by Default“ versteht man eine datenschutzfreundliche Grundeinstellung der informationstechnischen Systeme. Hierbei werden Standardeinstellungen voreingestellt, welche die grundsätzlichen Datenschutzanforderungen wahren. Diese sollen von der ersten Nutzung an gewährleistet werden und eben auch dann, wenn die Werkseinstellungen nicht verändert werden und die technische Ausgangskonfiguration genutzt wird, sodass der Nutzer zu jeder Zeit davon ausgehen kann, dass seine Privatsphäre gewahrt bleibt. Die Einstellungen sollten maximal privatsphärefreundlich vorprogrammiert werden. Dies wäre erreicht, wenn die Standardeinstellungen zunächst keinerlei personenbezogene Daten verarbeiten würden.
+
+
+=== Mögliche Umsetzung von Privacy by Design und Privacy by Default im vernetzen Auto ===
+Auch beim vernetzten Auto könnten die Privacy-by-Design- und Privacy-by-Default-Grundsätze sinnvoll umgesetzt werden. Die Entscheidung über eine Datenverwertung müsste demnach beim Fahrer selbst liegen. Eine reine Information über Datenerhebungen und -Übermittlungen, wie es in vorgestalteten Verträgen der Fall wäre, wäre nicht ausreichend. Gute Umsetzungsmöglichkeiten ergeben sich hier durch die heute schon vorhandenen großzügigen Anzeigemöglichkeiten und Displays im Auto. Jeder einzelne Fahrer müsste die Möglichkeit besitzen individuelle Datenschutzeinstellungen vornehmen zu können und somit seine Einwilligung bewusst zu erklären oder zu verweigern. So wäre zumindest der Problematik hinsichtlich der Einwilligung verschiedener Fahrer begegnet. Denkbar ist hier eine Anmeldung (Authentifizierung) der einzelnen Fahrer am Fahrzeug nach der dann die gewünschten Einstellungen vorgenommen werden könnten. Der Umgang mit den entstandenen Daten (Aufzeichnung, Anzeige, Löschung, Weitergabe) müsste zu jeder Zeit kontrollierbar sowie vorgenommene Einstellungen zurücksetzbar sein. Zusätzlich sollten natürlich auch entsprechend benutzerfreundliche Werkseinstellungen im Sinne von Privacy by Default vorprogrammiert sein, welche dann entsprechend verändert werden könnten.
+
+
+== Literatur ==
+Jürgen Bönninger: Mobilität im 21. Jahrhundert: sicher, sauber, datengeschützt. In: DuD-Datenschutz und Datensicherheit. Nr. 06/2015, 2015, S. 388–389. 
+Benedikt Buchner: Datenschutz im vernetzten Automobil. In: DuD-Datenschutz und Datensicherheit. Nr. 06/2015, 2015, S. 372–376. 
+Tobias Grabowski: Vernetzte Fahrzeuge: Neue Ermittlungsansätze im Strafverfahren?. In: Kriminalistik, Nr. 4/2018, 2018, S. 208–215.
+Marit Hansen: Das Netz im Auto & das Auto im Netz. Herausforderungen für eine datenschutzgerechte Gestaltung vernetzter Fahrzeuge. In: DuD-Datenschutz und Datensicherheit. Nr. 06/2015, 2015, S. 367. 
+Gerrit Hornung: Verfügungsrechte an fahrzeugbezogenen Daten. In: DuD-Datenschutz und Datensicherheit. Nr. 06/2015, 2015, S. 359–366. 
+Dennis-Kenji Kipker: Privacy by Default und Privacy by Design. In: DuD-Datenschutz und Datensicherheit. Nr. 06/2015, 2015, S. 410. 
+Joachim Rieß/Sebastian Greß: Privacy by Design für Automobile auf der Datenautobahn. In: DuD-Datenschutz und Datensicherheit. Nr. 06/2015, 2015, S. 392–395. 
+Alexander Roßnagel: Grundrechtsausgleich beim vernetzten Automobil. In: DuD-Datenschutz und Datensicherheit. Nr. 06/2015, 2015, S. 354 f. 
+Sebastian Schwichtenberg: „Pay as you drive“ – neue und altbekannte Probleme datenschutzgerechte Gestaltung vernetzter Fahrzeuge. In: DuD-Datenschutz und Datensicherheit. Nr. 06/2015, 2015, S. 379. 
+
+
+== Weblinks ==
+Bundesdatenschutzgesetz (BDSG)
+Michael Kamps: Das vernetzte Auto als Herausforderung für den Datenschutz. In: Internationales Verkehrswesen (66) 2. 2014, abgerufen am 10. Juli 2015. 
+Datenschutz im vernetzten Auto Teil 1. Flitzende Computer und humpelnder Datenschutz. DATAKONTEXT GmbH, 12. Mai 2015, abgerufen am 19. Juli 2015. 
+
+
+== Einzelnachweise ==

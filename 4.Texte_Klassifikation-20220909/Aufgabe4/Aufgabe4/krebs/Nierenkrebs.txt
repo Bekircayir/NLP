@@ -1,0 +1,105 @@
+Nierenkrebs ist die Bezeichnung für einen bösartigen Nierentumor. Bei Erwachsenen ist mit 90 % das Nierenzellkarzinom (Synonyme: Nierenkarzinom, Adenokarzinom der Niere, veraltet: Hypernephrom, hypernephroides Karzinom, Grawitz-Tumor) am häufigsten, welches von den proximalen Tubuluszellen (Epithelzellen) ausgeht (und nicht, wie Grawitz fälschlich annahm, von der Nebenniere). Im Kindesalter treten Nephroblastome, Lymphome und Sarkome der Niere häufiger auf.
+Nierenkrebs ist eine relativ seltene Tumorerkrankung (1 bis 2 % aller bösartigen Tumoren), in Deutschland erkranken neu etwa 9500 Männer bzw. 5500 Frauen pro Jahr (Stand 2014). Die Nierentumoren werden in gutartige (benigne) und bösartige (maligne) eingeteilt. Bösartige Nierentumoren entwickeln sich überwiegend im 6. und 7. Lebensjahrzehnt.
+
+
+== Risikofaktoren ==
+Bekannte Risikofaktoren für das Auftreten eines Nierenzellkarzinoms sind hauptsächlich Rauchen (auch Passivrauchen), Übergewicht sowie Bluthochdruck; ferner eine chronische Niereninsuffizienz, eine langjährige Analgetika-Therapie und angeborene Nierenerkrankungen wie die tuberöse Sklerose oder der Morbus Hippel-Lindau.
+Auch die Exposition gegenüber Trichlorethen kann ein Nierenzell-Karzinom verursachen. Bestand am Arbeitsplatz eine mehrjährige Exposition im Hochdosisbereich, so gilt ein entstehender Nierenkrebs als Berufskrankheit (BK-Nr. 1302: Erkrankungen durch Halogenkohlenwasserstoffe). Ebenso können Cadmium und Cadmiumverbindungen sowie halogenierte Alkyl-, Aryl- und Alkylaryloide als berufliche Kanzerogene verantwortlich sein, auch dies kann als Berufskrankheit anerkannt werden.
+
+
+== Klassifikation ==
+Unter Nierenkrebs im engeren Sinne versteht man bösartige Erkrankungen, die dem Funktionsgewebe der Niere (Nierenparenchym) entspringen. Prinzipiell kann an allen Abschnitten eines Nephrons eine maligne Entartung entstehen.
+Diese Arten von Nierentumoren werden auch als Nierenzellkarzinome (NCC) bezeichnet. Es wird nach dem Ausgangsgewebe, den zytogenetischen Befunden und dem histologischen Bild unterschieden. Am häufigsten findet sich das konventionelle Nierenzellkarzinom, das oft auch als klarzelliges Karzinom bezeichnet wird. Weiterhin finden sich das chromophile (papilläre), das chromophobe und am seltensten das Ductus-Bellini-Karzinom (Sammelrohrkarzinom). Letzteres zeichnet sich durch eine besondere Aggressivität aus. Auch das Wachstumsmuster dieser Tumoren wird erwähnt. Tumorzytogenetisch werden chromosomale Aberrationen (Chromosomenabweichungen) beschrieben. Die Zellen des konventionellen Nierenzellkarzinoms zeigen beispielsweise früh im Entstehungsprozess einen Fragmentverlust am Chromosom 3.
+Unter Nierenkrebs im weiteren Sinne werden zusätzlich die Nierenmetastasen zum Beispiel vom Kolonkarzinom oder vom Bronchialkarzinom verstanden.
+
+Im weiteren Sinne versteht man unter Nierenkrebs auch bösartige Erkrankungen, die zwar in der Niere entstehen, nicht jedoch dem Funktionsgewebe der Niere entspringen. Hervorzuheben ist das Nierenbeckenkarzinom (Urothelkarzinom des Nierenbeckens). Dies ist ein Tumor, der dem Übergangsgewebe (Urothel) in den angrenzenden Harnwegen entspringt.
+Von besonderer Wichtigkeit ist auch das Nephroblastom (Wilms-Tumor). Das ist ein embryonaler Mischtumor, welcher in der Pädiatrie (Kinderonkologie) eine bedeutende Rolle spielt. Eine mögliche Vorstufe ist die Nephroblastomatose.
+Weitere maligne Prozesse in der Niere können durch Metastasen (Lungenkrebs, Brustkrebs, malignes Melanom) und vereinzelt durch Sarkome verursacht sein.
+
+
+== Symptome ==
+
+Die klassische Trias Blut im Harn (Hämaturie), Flankenschmerzen und tastbarer Tumor in der schmerzenden Flanke findet man nur noch selten. Wenn der Tumor in die linke Nierenvene einbricht, kann sich beim Mann eine symptomatische Varikozele im linken Hoden bilden (1 % der Fälle). Weiterhin treten selten paraneoplastische Syndrome auf (durch in den Tumorzellen gebildete Hormone, etwa Renin, Erythropoetin, Parathormon oder ACTH). Wie bei den meisten Tumorerkrankungen können Allgemeinsymptome wie Müdigkeit, Fieber und Gewichtsverlust auftreten.
+70 % der Nierentumoren werden zufällig im Rahmen von bildgebenden Untersuchungen (Sonographie, Computertomographie usw.) gefunden. Dies hat seit Beginn des 21. Jahrhunderts zu einem sogenannten „stage shift“ geführt: Es werden immer häufiger kleine noch nicht symptomatische Tumoren in den Nieren gefunden, die sich somit auch besser behandeln lassen.
+
+
+== Diagnose ==
+Bei der klinischen Untersuchung fallen nur große, fortgeschrittene Tumoren im Bauch auf. Die Laboruntersuchung kann eine durch den Blutverlust über den Urin hervorgerufene Anämie zeigen. Die Sonographie ist der erste Schritt zur genaueren Beurteilung der Niere. Mit ihrer Hilfe können auch Punktionen verdächtiger Raumforderungen in der Niere vorgenommen werden, die dann vom Pathologen histologisch beurteilt werden. Die i.v.-Urographie ist eine Röntgenaufnahme mit einem nierengängigen Kontrastmittel, die Aufschlüsse über einen behinderten Harnabfluss geben kann und die die Funktion der gesunden Niere beurteilen lässt. Um die Ausbreitung des Tumors (Staging) und damit die Operabilität zu bestimmen, wird eine Computertomographie des Bauches durchgeführt. Mit Röntgenaufnahmen der Brust (Röntgen-Thorax) und gegebenenfalls mit einer Skelettszintigraphie und mit einer Gehirn-MRT (Kernspintomographie) lassen sich mögliche Fernmetastasen nachweisen.
+Röntgenografisch lassen sich Metastasen ab 1 cm Durchmesser erfassen, was der Computertomographie eindeutig den Vorzug gibt.
+
+
+=== TNM-Einteilung ===
+
+
+=== Prognose-Scores ===
+Für das Nierenzellkarzinom wurden Prognose-Scores entwickelt und klinisch validiert, die eine Einteilung der Patienten in Risikogruppen erlauben. Dies ist von Bedeutung für die Auswahl der Therapie. Am geläufigsten ist der sogenannte IMDC-Score (International Metastatic Renal-Cell Carcinoma Database Consortium Score). In den Score gehen die folgenden fünf Kriterien ein:
+Karnofsky-Index < 80 %
+Zeit von Erstdiagnose bis zum Beginn der medikamentösen Therapie im Rezidiv unter ein Jahr
+Vorliegen einer Anämie (Hämoglobin unterhalb des unteren, geschlechtsspezifischen Normwertes)
+Calcium (korrigierter Wert bei Hypalmuminämie) >2,5 mmol / l (>10 mg / dl)
+dauerhaft erhöhte absolute Neutrophilenzahl im peripheren Blut
+dauerhaft erhöhte absolute Thrombozytenzahl im peripheren BlutDer IMDC-Score kann online berechnet werden. Für jedes erfüllte Kriterium gibt es einen Punkt. Es gilt folgende Risikoeinteilung:
+
+
+== Therapie ==
+
+
+=== Chirurgische Therapie ===
+Die Therapie der Wahl bei Vorliegen eines nicht metastasierten Nierenzellkarzinoms ist die chirurgische Entfernung des Tumors, wobei neuere Studien gezeigt haben, dass die onkologischen Langzeitergebnisse bei nierenerhaltender Entfernung des Nierentumors (wenn operativ möglich und sinnvoll) genauso gut sind wie die radikale Entfernung der Niere.Bei kleineren Tumoren (Stadium T1a): In den letzten Jahren wurden neben der chirurgischen Therapie immer öfters minimal invasive Therapieformen angewendet, welche bei T1a Tumoren (bis maximal 4 cm im größten Durchmesser) gleich gute Ergebnisse in der Behandlung und in der Überlebensrate sowie in der krankheitsspezifischen Sterblichkeit zeigten. Bei diesen Behandlungen kommt es durch das Erhitzen des Tumorgewebes (über 100 Grad) oder Einfrieren zu einer Denaturierung der Proteine und folglich zu einer Zerstörung der Tumorzellen, unter gleichzeitiger Schonung des verbleibenden gesunden Nierengewebes. Hierzu wird unter Bildkontrolle (CT, US etc.) eine kleine Sonde (Nadel) durch die Haut bis in den Tumor eingebracht und so punktgenau der Tumor behandelt. Die behandelten Personen hatten einen kürzeren Spitalsaufenthalt und weniger Nebenwirkungen. Laut Studien war die Komplikationsrate im Vergleich zu einer operativen Methode geringer (Blutung, Infektion etc.). Diese Methode der „Ablation“ (RFA-Radiofrequenzablation, Mikrowelle, Kryotherapie etc.), welche als „Thermoablation“ zusammengefasst werden, werden weiter in Studien evaluiert und sind derzeit bei nicht operablen, älteren Patienten empfohlen. Erfolgversprechende Studien werden zeigen ob diese Methode auch bei jüngeren Personen Anwendung finden wird.Bei größeren Tumoren (Stadium II bis IV) wird die ganze Niere mit der Nebenniere, mit dem Harnleiter, mit dem sie umgebenden Fettgewebe und mit der Kapsel chirurgisch entfernt. In die Nierenvene (Vena renalis) und in die Vena cava inferior gewachsene Tumorzapfen müssen mitreseziert werden, gegebenenfalls mit Einsatz einer Herz-Lungen-Maschine bei Vorwachsen des Tumors bis in den rechten Herzvorhof. Auch andere Standards sind durch neueste Erkenntnisse in der aktuellen Diskussion: Möglichkeiten der laparoskopischen radikalen Nephrektomie oder der nierenerhaltenden Teilresektion. Eine Nebennierenentfernung ist nicht immer notwendig. Eine nierenerhaltende Chirurgie ist auch bei Gesundheit der anderen Nieren sinnvoll. Es gibt minimal-invasive Therapiealternativen (RITA – Radiofrequency interstitial tumor ablation, HIFU – High-intensity focused ultrasound usw.).
+Auch beim metastasierten Nierenzellkarzinom konnte durch eine Nephrektomie in Kombination mit Interferon-α-2b ein besseres Ergebnis erzielt werden als mit Interferon-α-2b alleine. Die Nephrektomie wird daher auch beim metastasierten Nierenzellkarzinom häufig durchgeführt. In der CARMENA-Studie wurde Sunitinib allein mit Sunitinib nach Nephrektomie verglichen. Es fand sich keine Verschlechterung ohne Nephrektomie. Die Entfernung der Niere bei der Behandlung von metastasierten Nierenzellkarzinomen mit Tyrosin-Kinase-Inhibitoren ist wahrscheinlich kein Vorteil mehr.
+
+
+=== Medikamentöse Therapie ===
+Medikamentöse Therapien kommen zum Einsatz beim lokal inoperablen oder metastasierten Nierenzellkarzinom. Die Therapie ist dann palliativ, eine Heilung kann nur in sehr seltenen Ausnahmefällen erreicht werden. Bisher konnte auch kein Vorteil einer adjuvanten medikamentösen Therapie (d. h. unterstützend, nach erfolgter vollständiger Operation) nachgewiesen werden. In ausgewählten Einzelfällen kann es sinnvoll sein, eine neoadjuvante medikamentöse Therapie durchzuführen, um eine Operabilität zu erreichen. Therapiestandard ist das jedoch nicht. In den letzten Jahren hat sich ein erheblicher Wandel ergeben und eine ganze Reihe von neuartigen Substanzen sind zur Behandlung zugelassen worden. Viele davon haben in den randomisiert-kontrollierten Studien für die europäische Zulassung in der Regel zwar eine statistisch signifikante Verlängerung des progressionsfreien Überlebens gezeigt, nur in einzelnen Fällen hat sich dies aber auch in eine statistisch signifikante Verlängerung des Gesamtüberlebens übersetzt (was zum Teil auch im Studiendesign begründet war). Ein kuratives Potential, etwa in Form lang anhaltender kompletter Remissionen von Metastasen, wie sie unter einer Hochdosis-Immuntherapie bei wenigen geeigneten Patienten berichtet wurden, hat sich für diese neuen Wirkstoffe bislang noch nicht bestätigt. Weitere Substanzen aus der Gruppe der Tyrosinkinase-Inhibitoren sind zurzeit in der klinischen Prüfung (Cediranib).
+
+
+=== Therapie in der Erstlinie ===
+Die Therapieempfehlungen der DGHO/ÖGHO sehen wie folgt aus (Stand Mai 2020):
+
+
+=== Therapie nach der Erstlinie ===
+Falls das Rezidiv erst nach längerer Zeit eintritt, kann eine damals wirksame Erstlinientherapie erneut durchgeführt werden. Ansonsten sollte ein anderes Schema gewählt werden.
+
+
+== Eingesetzte Substanzen ==
+
+
+=== Herkömmliche Zytostatika ===
+Die klassischen Substanzklassen der Zytostatika (Anthracycline, Antimetaboliten, Alkylanzien, Mitosehemmer, Nukleosidanaloga) sind beim Nierenzellkarzinom weitgehend unwirksam. Das Nierenzellkarzinom gilt deswegen als chemotherapieresistentes Karzinom. Die Einzelsubstanzen mit der größten Wirksamkeit sind Vinblastin und 5-Fluorouracil mit jeweils etwa 7 % Ansprechen.
+
+
+=== Immuntherapie ===
+Eine Krebsimmuntherapie kann entweder unspezifisch (durch Stimulation des Immunsystems in der Hoffnung, dadurch eine Anti-Tumor-Aktivität hervorzurufen) oder spezifisch, d. h. beispielsweise durch Tumor-Vakzine erfolgen. Bezüglich der unspezifischen Immuntherapien gibt es seit den 1980er Jahren Therapieversuche mit Interferon alpha (IFNα) und/oder Interleukin-2 (IL-2). IFNα führt zu Ansprechraten von 8 bis 29 % und zu einem um etwa 5 Monate verlängerten Gesamtüberleben, im Vergleich zu unbehandelten Patienten. Heute gilt IFNα als Medikament der zweiten Wahl, da neuere Substanzen wirksamer sind. Die Therapieergebnisse mit IL-2 sind uneinheitlich, wobei diese Therapie erhebliche Nebenwirkungen hat.Eine im Herbst 2007 veröffentlichte Übersichtsarbeit beschreibt die adjuvante Verabreichung eines autologen Tumorvakzins. Der aus den körpereigenen Tumorzellen des Patienten gewonnene Impfstoff Reniale hat in Phase-III-Studien die Zeitspanne des progressionsfreien Überlebens und des Gesamtüberlebens der Nierenkrebspatienten verbessert.Klinische Studien mit den monoklonalen Antikörpern gegen PD-1 (Nivolumab) und CTLA-4 (Ipilimumab) konnten sehr gute Ergebnisse vorweisen, insbesondere bei unbehandelten Hochrisiko-Patienten. Diese sogenannten Immuncheckpoint-Inhibitoren führten zu einem höheren Ansprechen und zu einem verlängerten Gesamtüberleben im Vergleich mit mTOR-Inhibitoren oder mit Tyrosinkinase-Inhibitoren.
+
+
+=== Orale Tyrosinkinase-Inhibitoren, Bevacizumab ===
+Die vertieften molekularen Kenntnisse über die Entstehung des Nierenzellkarzinoms haben deutlich gemacht, dass bestimmte sogenannte Signaltransduktionswege in den Tumorzellen eine wichtige Rolle spielen. Dazu gehören Signalwege, bei denen die Tyrosinkinasen VEGFR, PDFGRA/B, FGFR1 etc. eine Rolle spielen. In Therapiestudien hat sich gezeigt, dass entsprechende, mehr oder weniger spezifische Tyrosinkinase-Inhibitoren das Tumorwachstum verlangsamen und zum Teil auch die Überlebenszeit verlängern können. In Deutschland sind für das Nierenzellkarzinom mit niedrigem bzw. intermediären Risiko nach der MSKCC-Klassifikation zurzeit (Stand: Dezember 2014) zwei Substanzen aus dieser Medikamentenklasse zugelassen: Sunitinib und Pazopanib. Die Wirksamkeit der beiden Substanzen scheint vergleichbar und das mediane Überleben lag bei beiden Medikamenten in einer großen Vergleichsstudie bei etwa 28 Monaten. Für die second line Therapie (also nach dem Versagen einer vorangegangenen medikamentösen Therapie) sind die Tyrosinkinase-Inhibitoren Sorafenib, Axitinib und Pazopanib (natürlich nur wenn diese vorher nicht gegeben wurde) zugelassen.
+Ein weiteres Medikament, das auf den Tyrosinkinasen-Signalweg abzielt, ist Bevacizumab, ein monoklonaler Antikörper, der gegen das Zytokin VEGF gerichtet ist. Auch Bevacizumab ist für die Erstlinientherapie beim Niedrigrisiko-Nierenzellkarzinom zugelassen (Stand: Dezember 2014). Alle drei Medikamente führen zu einer Verzögerung des Krankheitsfortschritts um zum Teil etliche Monate, allerdings weniger als einem Jahr.
+
+
+=== mTOR-Inhibitoren ===
+Everolimus ist ein sogenannter mTOR („mammalian target of rapamycin“)-Inhibitor und zeigte Wirksamkeit bei Patienten mit einem Hochrisiko-Nierenzellkarzinom (nach der MSKCC-Klassifikation). Hierfür besitzt das Medikament auch eine Zulassung in der Erstlinie. Auch hier betrug die Verzögerung des Krankheitsfortschritts („progressionsfreies Überleben“) einige Monate.
+
+
+== Prognose ==
+Die (relative) 5-Jahres-Überlebensrate des Nierenzellkarzinoms beträgt insgesamt gut 77 %, die (relative) 10-Jahres-Überlebensrate gut 70/71 %.Stadienabhängig:
+
+lokal begrenzt (T1-T2, N0, M0): 70–80 %
+lokal fortgeschritten (T3, N0-N2, M0): 20–60 %
+Fernmetastasen (alle T, alle N, M1): <10 %Zu einem akuten Nierenversagen oder zu einem chronischen Nierenversagen kommt es nicht, solange die nicht betroffene Niere keine Nierenkrankheit hat. Ebenso wie bei der Nierenlebendspende kommt es nach einer Tumornephrektomie jedoch immer zu einer Niereninsuffizienz unterschiedlichen Ausmaßes. Die glomeruläre Filtrationsrate wird sich zuerst in etwa halbieren, um dann langsam auf vielleicht 60 oder 70 Prozent des präoperativen Ausgangswertes anzusteigen.
+
+
+== Literatur ==
+S3-Leitlinie Nierenzellkarzinom, Diagnostik, Therapie und Nachsorge der Deutschen Gesellschaft für Urologie (DGU) und der Deutschen Gesellschaft für Hämatologie und Medizinische Onkologie (DGHO). In: AWMF online (Stand 2015)
+
+
+== Weblinks ==
+Nierenzellkrebs: Bösartige Erkrankungen der Niere, Krebsinformationsdienst des Deutschen Krebsforschungszentrums (DKFZ), Heidelberg. 29. Januar 2013. Zuletzt abgerufen am 4. September 2014.
+www.urologielehrbuch.de – Ausführliches Kapitel über das Nierenzellkarzinom aus dem Online Urologie-Lehrbuch für Ärzte und medizinisches Fachpersonal
+Nierenkrebs, ausführliche Patienteninformationen einer privaten Selbsthilfegruppe "das Lebenshaus e.V."
+J. Patrick Mershon et al.: Thermal ablation of the small renal mass: a critical analysis of current literature. In: Minerva Urologica E Nefrologica = The Italian Journal of Urology and Nephrology. 12. Dezember 2019, doi:10.23736/S0393-2249.19.03572-0, PMID 31833721. 
+Nierenkrebs: Basis-Infos für Patienten. In: Deutsche Krebsgesellschaft. Abgerufen am 15. Januar 2020. 
+Moderne Immuntherapie bei urologischen Tumoren. In: Krebsinformationsdienst. 18. Juli 2019, abgerufen am 15. Januar 2020. 
+
+
+== Einzelnachweise ==

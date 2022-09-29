@@ -1,0 +1,81 @@
+Myokarditis (Herzmuskelentzündung) ist eine Sammelbezeichnung für entzündliche Erkrankungen des Herzmuskels mit unterschiedlichen Ursachen. Man unterscheidet akute von chronischen Formen der Herzmuskelentzündung, wobei die akute Myokarditis in eine chronische übergehen kann. Viele Herzmuskelentzündungen (Myokarditiden) verlaufen symptomlos; eine Myokarditis kann aber auch lebensbedrohliche Herzrhythmusstörungen auslösen und zum plötzlichen Herztod führen. Sind auch die Herzinnenhaut (Endokard) und der Herzüberzug (Epikard) betroffen, spricht man von einer Pankarditis.
+
+
+== Epidemiologie ==
+Die Epidemiologie der Myokarditis ist wegen der variablen Symptomatik weitgehend unbekannt. In den USA wird die Inzidenz auf 1–10/100.000 Einwohner und Jahr geschätzt. Bei 1–5 % der Patienten mit einem viralen Infekt wird eine myokardiale Beteiligung angenommen.
+
+
+== Ursachen ==
+
+
+=== Infektiöse Formen ===
+
+Eine Myokarditis kann durch Bakterien, Pilze, Parasiten und Viren verursacht sein. In Europa und den USA werden in über 50 % der Fälle Enteroviren, besonders Coxsackie-Viren B1-B5, für eine Myokarditis verantwortlich gemacht. Ein ursächlicher Zusammenhang ist außerdem bei einigen Serotypen der Coxsackie-A-Viren und der ECHO-Viren erwiesen. In weiteren Fällen konnten Parvovirus B19, Adenoviren, Influenzaviren und Mumpsviren aus dem Myokard isoliert werden.
+Bakterielle Erreger, unter anderem Brucellen, Campylobacter-Arten, Chlamydophila pneumoniae und Chlamydophila psittaci, Clostridien, Corynebacterium diphtheriae, Coxiella burnetii, Ehrlichia, Legionellen, Listeria monocytogenes, Mycobacterium tuberculosis, Mycoplasma pneumoniae, Neisseria meningitidis, Pneumokokken, Salmonellen, Shigella-Arten, Staphylokokken, Streptococcus pyogenes, Tropheryma whipplei und Vibrio cholerae, sind bei Patienten mit intaktem Immunsystem selten.
+Das Protozoon Trypanosoma cruzi, Erreger der Chagas-Krankheit, ist in Südamerika der Haupterreger der Myokarditis, spielt aber in Europa keine Rolle.
+Weitere Erreger sind Spirochäten (Borrelia burgdorferi und Leptospira), Rickettsien, Parasiten (Leishmanien, Toxoplasma gondii und Toxoplasma canis sowie Trichinen) und Pilze (Aspergillen, Candida).
+Gelegentlich kann eine Virusinfektion der Mutter während der Schwangerschaft eine Myokarditis beim Kind auslösen, das dann mit einer Herzinsuffizienz zur Welt kommt.
+Eine COVID-19-Erkrankung erhöht das Risiko einer Myo- und/oder Perikarditis. Pro 1 Million Patienten 28 Tage nach positiven Corona-Test werden etwa zusätzliche 40 Myokarditen im Vergleich zum Hintergrundauftreten beobachtet.
+
+
+=== Toxische Formen ===
+Hierzu zählen Myokarditiden bedingt durch Alkoholkonsum (am häufigsten) und Schwermetalle. Weitere Fälle werden auf die toxische Wirkung von Medikamenten, insbesondere Chemotherapeutika (Anthracycline, Cyclophosphamid, Fluorouracil), sowie Barbiturate und Antipsychotika zurückgeführt.
+
+
+=== Autoimmune Formen ===
+Nach der akuten Phase, die durch unmittelbare cytopathische Effekte des Virus verursacht wird, entwickelt ein kleiner Anteil der Patienten eine autoimmunvermittelte, chronische Myokarditis. Diese Form der Myokarditis zeichnet sich durch zirkulierende Autoantikörper aus, die gegen kardiales Myosin und andere Herzantigene gerichtet sind. Dies kann in manchen Fällen zu Herzversagen und Tod nach Ausbildung einer dilatativen Kardiomyopathie (DCM) führen.
+
+
+=== Impfung ===
+Im Jahr 2003 stellte man bei einer Impfung unter 230.734 erstmals mit Pockenimpfstoff geimpften Militärangehörigen 18 wahrscheinliche Fälle von Myokarditis fest, die 7 bis 19 Tage nach der Impfung auftraten, während bei 95.622 Personen, die bereits vorher gegen die Pocken geimpft waren, kein Fall auftrat.Auch nach einer Corona-Impfung können sehr selten Herzmuskelentzündungen auftreten. Das Risiko beträgt 28 Tage nach Erstimpfung etwa zwei zusätzliche Fälle pro 1 Million Geimpfter nach Gabe von AZD1222, einen zusätzlichen Fall bei Tozinameran und sechs zusätzliche Fälle bei mRNA-1273. Nach einer im März 2022 im The Journal of Pediatrics veröffentlichten Studie zu 16 Personen mit Myokarditis infolge der Impfung im Alter von 12 bis 17 Jahren wurde bei 11 Personen bei der Kardio-MRT-Untersuchung mit dem Kontrastmittel Gadolinium auch noch Monate später (Median 3,7 Monate) ein sog. Late-Gadolinium-Enhancement (LGE) festgestellt, das Ausmaß des LGE ging allerdings zurück.Laut einer im August 2021 veröffentlichten Studie mit Mäusen kann eine mögliche Ursache für diese seltene Nebenwirkung eine versehentliche intravenöse Injektion sein; seit Mitte Februar 2022 empfiehlt die STIKO deshalb zur weiteren Erhöhung der Sicherheit den Aspirationstest vor der Injektion.
+
+
+== Symptomatik ==
+Ein spezifisches Leitsymptom existiert nicht. Im Krankheitsverlauf bleiben viele Myokarditiden symptomlos. Bei den übrigen Patienten stehen unspezifische Symptome wie Müdigkeit, allgemeines Unwohlsein, Palpitationen, Fieber und Atemnot im Vordergrund. In bis zu 60 % geht ein grippaler Infekt, meist der oberen Luftwege, voraus.
+Bei den symptomatischen Patienten tritt in 10–30 % ein akuter Thoraxschmerz auf, der nicht von dem eines akuten Koronarsyndroms zu unterscheiden ist. Bei 5–15 % der Patienten manifestiert sich die Erkrankung in Form von Herzrhythmusstörungen, bei 60–70 % als Herzinsuffizienz und bei 5–10 % als kardiogener Schock. Andere Herzerkrankungen mit dem gleichen klinischen Bild sollten deshalb diagnostisch ausgeschlossen werden.
+
+
+== Diagnostik ==
+Im Röntgenbild zeigt sich nur bei fulminanten Verläufen ein vergrößertes Herz. Im Elektrokardiogramm finden sich häufig AV-Blockierungen 1. Grades, selten höhergradige; supraventrikuläre und ventrikuläre Arrhythmien kommen in allen Formen vor, bis hin zur lebensbedrohlichen ventrikulären Tachykardie. Weiterhin können ST/T-Veränderungen und Herzenzymverläufe denen eines akuten Myokardinfarktes gleichen.Echokardiografisch zeigt sich häufig eine diastolische Dysfunktion und bei 20 % der Patienten ein meist kleiner Perikarderguss. Die Größe der Herzkammer nimmt nur bei schweren Verlaufsformen schnell zu. Im Serum können bei viraler Myokarditis antimyolemmale und/oder antisarkolemmale Antikörper nachgewiesen werden. Die Myokardszintigrafie und die Magnetresonanztomografie des Herzens ermöglichen es, mit hoher Sensitivität eine Myokardnekrose zu erkennen. Mittels magnetresonanztomographischer Mapping-Verfahren sind diffuse Veränderungen des Myokards, wie z. B. Fibrose (T1-mapping) oder Ödem (T2-mapping) exakt zu erfassen. Damit kann der Schweregrad und Verlauf abgeschätzt werden.Die Koronarangiografie wird bei Patienten, welche sich als akutes Koronarsyndrom präsentieren, zum Ausschluss einer koronaren Herzkrankheit notfallmäßig durchgeführt. Sie ist ebenfalls bei Patienten mit einer deutlich erniedrigten linksventrikulären Pumpfunktion indiziert und für die Durchführung einer Myokardbiopsie notwendig. Die Myokardbiopsie ist der Goldstandard bei der Diagnostik der Myokarditis. Denn nur durch eine Myokardbiopsie kann die Ursache für eine Myokarditis gesichert und eine entsprechende, personalisierte Therapie eingeleitet werden. Dies bedeutet natürlich, dass die Myokardbiopsie auf möglichst alle möglichen Ursachen einer Myokarditis untersucht werden sollte. Hierzu gehört eine histologische (Wie sieht das Gewebe aus?), immunhistologische (Welche Zellen sind beteiligt? Gibt es Anzeichen für eine autoimmune Genese?) und molekularbiologische (z. B. PCR-Methoden zur Analyse, welche Viren beteiligt sind) Untersuchung der Myokardbiopsie. Neuerdings werden zudem microRNAs und Gen-Expressions-Profile zur Diagnostik eingesetzt.
+
+
+== Verlauf ==
+Die Mechanismen der unterschiedlichen Verläufe der Myokarditis sind nur teilweise geklärt. In der Hälfte bis zwei Drittel der Fälle heilt die Erkrankung spontan ab und es bleiben keine Symptome zurück.Die Vermutung, dass eine akute Myokarditis in eine dilatative Kardiomyopathie übergeht, wird zwar durch mehrere Studien unterstützt, der definitive Beweis hierfür steht aber noch aus. Eine günstige Prognose haben Verlaufsformen, welche sich als akutes Koronarsyndrom darstellen. Ungünstig bezüglich der Mortalität sind hingegen die Erstmanifestation als Synkope, Zeichen einer fortgeschrittenen Herzinsuffizienz oder eine deutlich eingeschränkte linksventrikuläre Funktion.
+
+
+== Therapie ==
+
+
+=== Virusmyokarditis ===
+Da die Virusmyokarditis einerseits häufig spontan ausheilt, andererseits innerhalb kürzester Zeit bis zum plötzlichen Herztod führen kann, stehen in der Akutphase die strikte körperliche Schonung sowie Rhythmusüberwachung im Vordergrund. Kommt es zur Ausbildung einer Herzinsuffizienz, sollte diese adäquat behandelt werden. Bei Ausbildung einer inflammatorischen Kardiomyopathie (dilatative Kardiomyopathie auf dem Boden einer Myokarditis) kann, nach Nachweis von Viren, eine Therapie mit Interferon-β versucht werden. In ersten Studien konnte hiermit eine vollständige Viruselimination sowie eine Verbesserung der Herzleistung erzielt werden, ein Standard ist daraus noch nicht ableitbar.
+Arrhythmien, die im Laufe einer Myokarditis auftreten, sind selten langfristig behandlungsbedürftig.
+Nach einer durchgemachten COVID-19-Erkrankung sollte ein Augenmerk auf eine mögliche Myokarditis als Spätfolge gelegt werden. Speziell Personen unter 40 Jahren, die fit und aktiv sind und möglicherweise nur mild an Corona erkrankt waren, scheinen gefährdet. Es traten Fälle auf, in denen das Coronavirus bei einer Biopsie des Herzmuskels noch nachweisbar war, obwohl der Rachenabstrich schon seit Wochen negativ war. Somit war der Patient zwar nicht mehr ansteckend, das Virus aber noch nicht völlig aus dem Körper verschwunden.
+
+
+=== Akute, nicht durch Viren verursachte Myokarditis ===
+Die Therapie erfolgt entsprechend dem Antibiogramm. Liegt dies nicht bzw. noch nicht vor, wird mit einer sogenannten kalkulierten antimikrobiellen Therapie begonnen, zum Beispiel durch Gabe von Ceftriaxon und Doxycyclin.
+
+
+=== Chronische Myokarditis ===
+Zur Therapie der chronischen Myokarditis werden ACE-Hemmer, AT1-Antagonisten, Diuretika, Herzglykoside und Betarezeptorenblocker eingesetzt. Spezifischere Therapieansätze mit Verabreichung von Immunsuppressiva wie Prednisolon oder Azathioprin werden diskutiert.
+Die intravenöse Verabreichung von Immunglobulinen zeigte in einer Studie mit 62 Patienten keine Verbesserung der Langzeitüberlebensrate.
+
+
+== Siehe auch ==
+Kardiomyopathie
+Stress-Kardiomyopathie (Broken-Heart-Syndrom)
+
+
+== Literatur ==
+S2k-Leitlinie Myokarditis der Deutschen Gesellschaft für Pädiatrische Kardiologie (DGPK). In: AWMF online (Stand 2013)
+B. E. Strauer, et al.: [ Update 2001. Myocarditis–cardiomyopathy]. In: Medizinische Klinik. Band 96, Nummer 10, Oktober 2001, S. 608–625, ISSN 0723-5003. PMID 11715333.
+M. C. Savoia, M. N. Oxanan: Myocarditis and Pericarditis. In: Mandell, Douglas, and Bennett’s Principle and Practice of Infectious Diseases. 6. Auflage 2005.
+J. W. Magnani, G. W. Dec: Myocarditis, current trends in diagnosis and treatment. In: Circulation. Band 116, 2006, S. 876–890.
+U. Kühl, H.-P. Schultheiss: Myokarditis: Frühzeitige Biopsie ermöglicht differenzierte regenerative Therapie. In: Dtsch Arztebl Int. Nr. 109(20), 2012, S. 361–368 (Übersichtsarbeit). 
+Marianne Abele-Horn: Antimikrobielle Therapie. Entscheidungshilfen zur Behandlung und Prophylaxe von Infektionskrankheiten. Unter Mitarbeit von Werner Heinz, Hartwig Klinker, Johann Schurz und August Stich, 2., überarbeitete und erweiterte Auflage. Peter Wiehl, Marburg 2009, ISBN 978-3-927219-14-4, S. 33 (Erregerspektrum und Kalkulierte antimikrobielle Therapie).
+
+
+== Weblinks ==
+
+
+== Einzelnachweise ==

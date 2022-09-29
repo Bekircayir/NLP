@@ -1,0 +1,196 @@
+Bei der Lungenentzündung oder Pneumonie und lateinisch Pneumonia (von altgriechisch πνεύμων pneumōn, deutsch ‚Lunge‘) handelt es sich um eine akute oder chronische Entzündung des Lungengewebes, die entweder unilateral (einseitig, also in nur einem Lungenflügel) oder bilateral (beidseitig, also in beiden Lungenflügeln gleichzeitig) auftritt. Sie wird meist durch eine Infektion mit Bakterien, Viren oder Pilzen verursacht, seltener auch chemisch, z. B. durch Inhalation giftiger Stoffe oder Aspiration von saurem Magensaft, oder durch immunologische (etwa allergische) Vorgänge. Bei deutlicher Beteiligung der Pleura (Rippenfell) in Form einer Pleuritis wird im klinischen Sprachgebrauch von Pleuropneumonie gesprochen. Die Entzündung nach einer Strahlentherapie wird meist als Strahlenpneumonitis bezeichnet.
+
+
+== Einteilung und Ursachen ==
+Da eine Einteilung der Pneumonien nach dem Erreger (Bakterien, obligat intrazelluläre Bakterien wie Rickettsien und Chlamydien, Viren, Mykoplasmen, Pilze, Protozoen, Würmer) oft am fehlenden Erregernachweis scheitert, haben sich nachfolgende Klassifizierungen durchgesetzt, welche für die weitergehende Diagnostik und Therapie von Bedeutung sind.
+
+
+=== Primäre und sekundäre Lungenentzündungen ===
+Man unterscheidet primäre und sekundäre Pneumonie: Erkrankt ein gesunder Mensch an einer Lungenentzündung, ohne dass er besondere Risikofaktoren aufweist, spricht man von einer primären Pneumonie. Im Gegensatz dazu findet sich bei der sekundären Pneumonie ein prädisponierender Faktor oder ein auslösendes Ereignis für die Krankheit (siehe Risikogruppen).
+Erreger primärer Lungenentzündungen sind meistens Pneumokokken, Staphylokokken, Haemophilus influenzae, Mykoplasmen, Chlamydien, Legionellen und Viren wie das Grippevirus, Adenovirus und Parainfluenzaviren. Das Erregerspektrum verschiebt sich bei sekundären Pneumonien zu Herpesviren (CMV, HSV), Pilzen, Pneumocystis jirovecii, Protozoen (Toxoplasmose) sowie anaeroben Bakterien.
+
+
+=== Klinische Einteilung ===
+Für die Einschätzung des Erregerspektrums, diagnostische Erwägungen, die weitergehende Therapie und den Verlauf werden die Pneumonien eingeteilt nach der Situation, in der sie erworben wurden:
+
+Ambulant, das heißt eine im täglichen Leben außerhalb eines Krankenhauses, erworbene Pneumonie (abgekürzt als AEP für ‚ambulant erworbene Pneumonie‘ bzw. englisch community-acquired pneumonia, CAP). Dazu zählen auch Pneumonien, die in Alten- oder Pflegeheimen erworben wurden. Man unterscheidet ambulant erworbene Pneumonien, die ambulant behandelt werden können (aCAP genannt), von solchen, die einer stationären Aufnahme bedürfen und mit hCAP bezeichnet werden. Häufige Erreger sind Streptococcus pneumoniae, Haemophilus influenzae, Mycoplasma pneumoniae, Chlamydophila pneumoniae und selten Legionella pneumophila.Liegt eine schwere ambulant erworbene Pneumonie vor, wird diese als sCAP bezeichnet (engl. severe community-acquired pneumonia). Eine sCAP liegt vor, wenn sich die in der Lunge lokalisierte Entzündung generalisiert auf den Körper ausbreitet und zu sepsis-assoziierten Komplikationen wie Sepsis, septischer Schock oder Organversagen führt. Eine sCAP hat eine hohe Letalität und bedarf einer intensiven antibiotischen Therapie – oft auch einer Beatmungstherapie auf einer Intensivstation. Das Vorliegen einer sCAP kann anhand von verschiedenen klinischen Kriterien von der normalen CAP unterschieden werden.Nosokomiale Pneumonie, das heißt im Krankenhaus erworbene Pneumonie (englisch hospital-acquired pneumonia, HAP), die sich erst mehr als zwei Tage nach stationärer Aufnahme und bis zu 14 Tage nach Entlassung entwickelt. Eine Sonderform stellt die beatmungsassoziierte Pneumonie (ventilator-associated pneumonia, VAP) dar. Häufigste Erreger sind Pseudomonas aeruginosa, Enterobacter, E. coli, Proteus, Serratia, Klebsiella pneumoniae (Friedländer-Pneumonie).
+Von immunsupprimierten, das heißt abwehrgeschwächten Patienten erworbene Pneumonien. Die Immunsuppression kann hierbei durch Krankheiten wie AIDS hervorgerufen werden oder aber durch Medikamente herbeigeführt und gewünscht sein, z. B. nach Organtransplantationen.Ambulant erworbene Pneumonien haben meist eine gute Prognose. Die nosokomialen Lungenentzündungen bedürfen von Beginn an einer aggressiveren Behandlung.
+Bei abwehrgeschwächten Patienten können spezielle Erreger wie Mykobakterien, die Tuberkulose auslösen können, gehäuft auftreten.
+
+
+=== Epidemiologie ===
+Die ambulant erworbene Pneumonie ist die nach Durchfallerkrankungen weltweit am zweithäufigsten registrierte Infektionskrankheit und darum von hoher sozialmedizinischer und ökonomischer Bedeutung. Rund 90 % sind bakteriellen Ursprungs.
+Allein in den USA werden jährlich zwei bis drei Millionen Fälle diagnostiziert, die zu zehn Millionen Hausarztkontakten und etwa 500.000 Krankenhauseinweisungen führen.
+Für Deutschland fehlen vergleichbare Daten, vor allem darüber, wie viele AEP-Fälle ausschließlich im ambulanten Bereich behandelt werden. Die Inzidenz (= Anzahl neuer Erkrankungsfälle) in der Gesamtbevölkerung wird auf ein bis elf Fälle pro 1000 Einwohner und Jahr, bei Altenheimbewohnern sogar auf 68 bis 114 Fälle pro 1000 Personen geschätzt. Dies entspricht etwa 400.000–600.000 Fällen pro Jahr in Deutschland. Über 30 % der Erkrankten müssen im Krankenhaus, davon 10 % auf der Intensivstation behandelt werden (d. h. ca. 3 % aller Patienten mit einer ambulant erworbenen Pneumonie). Damit führte die ambulant erworbene Pneumonie häufiger zur stationären Aufnahme als Herzinfarkt (132.000 Aufnahmen) oder Apoplex (= Schlaganfall, 162.000 Aufnahmen). Etwa 20.000 Menschen sterben jährlich in Deutschland an einer Pneumonie.
+Die durch die Erkrankung entstehenden Kosten dürften mehr als 500 Millionen Euro pro Jahr betragen.
+Unter den Erregern sind Pneumokokken mit rund 25 bis 45 % der AEPs führend, gefolgt von Haemophilus influenzae (5 bis 20 %). Mycoplasma pneumoniae (5 bis 15 %) hat vor allem bei jüngeren Menschen eine Bedeutung. Allerdings stammen diese Zahlen überwiegend aus Untersuchungen stationär aufgenommener Patienten, so dass sie aufgrund des ausgewählten Patientengutes wahrscheinlich nicht die Verteilung im ambulanten Bereich widerspiegeln.
+In 5 bis 25 % der Fälle werden auch Viren nachgewiesen, häufig mit Beteiligung von Bakterien. Vor allem Influenza-Viren sind häufig, dabei tritt oft eine Superinfektion durch Pneumokokken auf.Die Lungenentzündung trägt weltweit erheblich zur Kindersterblichkeit bei: Es sterben laut Save the Children fast eine Million Kinder jährlich an Lungenentzündung.
+
+
+=== Typische und atypische Pneumonien ===
+Traditionell wird zwischen der typischen, durch Bakterien wie Pneumokokken oder Staphylokokken ausgelösten, und der atypischen, durch Viren, Pilze oder obligat intrazelluläre Bakterien ausgelösten Pneumonie unterschieden. Diese Unterscheidung wird mit einer jeweils charakteristischen Verteilung der Befunde im Röntgenbild assoziiert:
+
+Die typische Lobärpneumonie beginnt akut (Pneumonia acuta), ist auf einen oder mehrere Lungenlappen beschränkt, geht mit Fieber, Schüttelfrost, Husten, eitriger Schleimbildung, reduziertem Allgemeinzustand und typischen Auskultationszeichen einher. Im Blut finden sich Entzündungszeichen: Erhöhte Blutsenkungsgeschwindigkeit, Leukozytose, erhöhte Akute-Phase-Proteine. Pleuraergüsse sind häufig und ausgeprägt. Erreger sind meistens Pneumokokken (Streptococcus pneumoniae), welche als Krankheitserreger erstmals 1886 von Albert Fraenkel nachgewiesen wurden, aber auch Staphylokokken sowie Klebsiellen, Pseudomonas oder Proteus. Bei älteren Patienten können die Entzündungszeichen (Fieber, typische Blutwerte) bei einer Lobärpneumonie fehlen. Die typischen Phasen der Lobärpneumonie, die einen Zusammenhang zwischen histologischen Strukturänderungen und Pathophysiologie herstellen, sind: Anschoppung > Rote Hepatisation > Graue Hepatisation > Gelbe Hepatisation > Lyse.
+Atypische Pneumonien oder interstitielle Pneumonien beginnen häufig weniger akut, gehen mit nur mäßigem Fieber einher und werden meist von Kopf- und Gliederschmerzen begleitet. Bei dieser Art der Pneumonie werden die Erreger (Chlamydien, Rickettsien, Mykoplasmen, Legionellen, Pneumocystis jirovecii, Coxiella burnetii, auch Viren) durch Alveolarmakrophagen aufgenommen und gelangen somit ins Interstitium (Gewebe zwischen den Lungenbläschen), wodurch sie sich von den alveolären Pneumonien unterscheiden. Das Entzündungsgeschehen findet also im „Gerüst“ der Lunge statt. Ein unproduktiver Husten (keine Eiterbildung) sowie das Interstitium nachzeichnende Strukturen im Röntgenbild sind charakteristische Zeichen.
+Dazwischen anzusiedeln ist die Bronchopneumonie, die sich als sekundäre Pneumonie aus einer absteigenden Bronchitis entwickelt und durch eine herdförmige, bronchiennahe Verteilung im Lungengewebe auffällt.Einschränkend muss gesagt werden, dass der Röntgenbefund keine zuverlässigen Rückschlüsse auf das in Frage kommende Erregerspektrum erlaubt.
+Durch die Einführung von Antibiotika, Chemotherapeutika und Immunsuppressiva, aber auch durch die allgemein gestiegene Lebenserwartung hat sich das Spektrum der Pneumonien in den letzten 70 Jahren deutlich verändert. Waren früher ganz überwiegend Pneumokokken für Lungenentzündungen verantwortlich, so sind heute Viren und obligat intrazelluläre Bakterien häufiger geworden.
+
+
+== Risikogruppen ==
+Klassische Risikogruppen erkranken in der Regel an sekundären Pneumonien. Ein erhöhtes Risiko haben Menschen mit folgenden prädisponierenden Faktoren:
+
+Alter
+allgemeine Abwehrschwäche, z. B. bei HIV-Infektion, Chemotherapie, Immunsuppression, Krebs, Leukämie, Diabetes mellitus, Leberzirrhose und Alkoholismus
+kleine Kinder
+chronische Herzinsuffizienz (Herzschwäche)
+Grunderkrankungen der Lunge, z. B. schwere chronische Bronchitis, COPD, Mukoviszidose, Lungenfibrose, Bronchiektasen und Lungenemphysem
+Nierenerkrankungen (z. B. Pyelonephritis)
+Sklerodermie
+AllergienAußerdem können bestimmte Ereignisse das Risiko einer Pneumonie erhöhen:
+
+Tabakrauchen
+Vergiftungen (z. B. Alkohol, Drogen)
+akute Herzinsuffizienz mit konsekutivem Rückstau des Blutes („Stauungspneumonie“)
+Bettlägerigkeit (durch die flache, behinderte Atmung)
+Aspiration von Magensäure, Speiseresten, Öl, Wasser, Fremdkörpern (Aspirationspneumonie)
+Verlegung eines Bronchus, z. B. durch ein Bronchialkarzinom („Krebspneumonie“)
+Intubation oder Tracheotomie, weil hier die natürlichen Abwehrmechanismen unterlaufen werden (vor allem die mukoziliäre Clearance)
+Strahlenpneumonitis bei Strahlenexposition
+Lungenembolien (Infarktpneumonie)
+bei (älteren) immungeschwächten Menschen Legionellen, falls diese sich in schlecht gewarteten Klimaanlagen ansiedeln konnten. Auch Whirlpools können verkeimen, sogar bei zu niedriger Temperatur Warmwasserleitungen und Warmwasserspeicher. Eine Legionärskrankheit ist seit 2001 meldepflichtig.
+
+
+== Symptome ==
+Die typische Pneumonie verläuft mit plötzlichem Beginn, Husten, Atemnot und angestrengtem Atmen (Erhöhung der Atemfrequenz, u. U. Einsatz der Atemhilfsmuskulatur), eitrigem (manchmal blutigem) Auswurf, Fieber, Schüttelfrost, erhöhtem Puls, Schmerzen in der Brust und durch ein Exsudat verursachten Pleuraerguss.
+Die atypische Pneumonie ist charakterisiert durch schleichenden Beginn, Husten, geringere Atemnot, wenig und meist klaren Auswurf, Kopf- und Gliederschmerzen, geringes Fieber.
+Bei Kindern stehen folgende Symptome im Vordergrund: Atemnot mit angestrengtem Atmen (erhöhte Atemfrequenz, Nasenflügelatmen, u. U. Einsatz der Atemhilfsmuskulatur), quälender Husten, der sich unter symptomatischer Therapie nicht bessert, Blässe, in schweren Fällen auch Zyanose und Kreislaufschwäche.
+
+
+== Untersuchungen ==
+Die Auswahl der Untersuchungsmethoden (Diagnostik) ist abhängig von der Art der Pneumonie. Bei nosokomialen, schwer verlaufenden und sekundären Pneumonien wird in der Regel ein Erregernachweis zur gezielten Therapie angestrebt. Im Gegensatz dazu werden unkomplizierte, primäre und ambulant erworbene Lungenentzündungen nur nach dem klinischen Bild behandelt, erst bei Therapieversagen wird eine aggressivere Diagnostik und Therapie begonnen.
+
+
+=== Entzündungszeichen ===
+Patienten mit Lungenentzündung haben meist Fieber und im Blut erhöhte Werte für CRP und Leukozyten (über 12.000/mm3).
+
+
+=== Auskultation und Palpation ===
+Durch Abhören (Auskultation) der Lunge mit einem Stethoskop können typische Atemgeräusche wie feinblasige Rasselgeräusche festgestellt werden, wenn die luftleitenden Teile befallen sind. Bei diesem im Stadium der Infiltration auftretenden feinen Knistern spricht man von der Crepitatio (indux). Die entzündlich verklebten Luftbläschen knistern beim Ein- und Ausatmen. Eine interstitielle Pneumonie, welche zuerst das Lungengerüst befällt, verursacht dagegen keine veränderten Atemgeräusche. Der Stimmfremitus kann ebenso wie die Bronchophonie verstärkt sein.
+Die körperliche Untersuchung des Patienten mittels Auskultation und Perkussion ist nur von begrenzter Aussagekraft (Sensitivität und Spezifität bei etwa 60 %).
+
+
+=== Röntgen ===
+Beim Verdacht auf eine Pneumonie werden in der Regel zwei Röntgenbilder der Lunge angefertigt. Im Röntgenbild stellen sich schlecht belüftete Areale hell dar. Diese können z. B. auf eine Lungenentzündung hindeuten. Diese Veränderung (Infiltrat) entsteht durch die Einwanderung von Leukozyten (Infiltration) und die entzündlich bedingte Schwellung. Sind die luftleitenden Teile der Lunge und die Lungenbläschen nicht betroffen – wie bei einer interstitiellen Pneumonie (Entzündung des Bindegewebes zwischen den Lungenbläschen) –, stellen sie sich im Röntgenbild dar (positives Bronchopneumogramm).
+Sind hingegen die Lungenbläschen in dem entzündeten Bereich nicht mehr zu sehen, deutet dies darauf hin, dass sich dort Flüssigkeit befindet und die Entzündung in den Lungenbläschen stattfindet wie z. B. bei einer Lobärpneumonie.
+Die Abgrenzung einer schweren Tracheobronchitis von einer Bronchopneumonie ist schwierig und teilweise erst im Verlauf möglich.
+
+
+=== Weiterführende Diagnostik ===
+Bei besonderen Fragestellungen und schweren Verläufen können folgende Untersuchungen hinzukommen:
+
+Ultraschall des Pleuraspalts zum Nachweis eines Pleuraergusses und eines pleuranahen Infiltrats
+Computertomografie der Lunge
+Erregernachweis im Blut (Blutkultur), Sputum, Trachealsekret, Bronchialsekret, bronchoalveolärer Lavage oder Pleuraerguss, in besonderen Fällen auch im Magensaft
+in seltenen Fällen Lungenbiopsie
+Antikörpersuche und Erreger-DNA im Blut bei Verdacht auf virale Erkrankungen
+Urin-Untersuchung bei Verdacht auf Pneumokokken und Legionellen (Antigenuntersuchung)
+
+
+=== Differentialdiagnosen ===
+Folgende Erkrankungen können ähnliche Symptome und Untersuchungsergebnisse wie eine Pneumonie aufweisen:
+
+Bronchialkarzinom
+Lungentuberkulose
+Lungenembolie mit Infarzierung
+Lungenfibrosen
+
+
+== Therapie ==
+Allgemeine Prinzipien der Therapie einer Pneumonie sind:
+
+Antibiotikum-Gabe abhängig von den zu erwartenden Erregern, der Schwere der Erkrankung oder von speziellen Risikofaktoren wie höheres Alter, Begleiterkrankungen, Vortherapie mit Antibiotika und vorausgehender Behandlung im Krankenhaus,
+fiebersenkende Maßnahmen, nur wenn nötig, insbesondere bei hohem Fieber; z. B. Wadenwickel oder die Gabe fiebersenkender Medikamente wie Paracetamol oder Acetylsalicylsäure (ASS),
+ausreichende Flüssigkeitszufuhr von mind. 1,5 l pro Tag,
+bei hohem Fieber Bettruhe und Thromboembolieprophylaxe,
+frühzeitige Mobilisation, Atemtherapie,
+bei Bedarf Sauerstoff über Nasensonde, ggf. Beatmung,
+schleimlösende Maßnahmen wie Inhalationen und schleimlösende Medikamente, z. B. Acetylcystein (ACC) oder Ambroxol,
+hustenstillende Medikamente (Antitussiva) bei quälendem, unproduktivem Reizhusten, z. B. mit Codein.Beim Vorliegen bestimmter Risikofaktoren (z. B. CRB65 oder CURB über 0) oder nach individueller Einschätzung des Arztes sollte der Patient ins Krankenhaus aufgenommen werden, bei einem schweren Krankheitsbild evtl. auch auf die Intensivstation (Als Entscheidungskriterium für de Aufnahme auf eine Intensivstation dient ein modifizierter ATS-Score).
+Als Antibiotika kommen in der Regel Aminopenicilline wie Ampicillin oder Cephalosporine (z. B. Ceftriaxon ggf. in Kombination mit β-Lactamase-Inhibitoren wie Sultamicillin und Makroliden wie Clarithromycin) zum Einsatz, alternativ ein Fluorchinolon der vierten Generation als Monotherapie. In leichteren Fällen kann auch Doxycyclin oder Clarithromycin verwendet werden. Eine Besserung tritt zumeist innerhalb von zwei Tagen ein.
+Bei Kindern wird bei einer ambulant erworbenen Pneumonie der Einsatz spezifischer Antibiotika empfohlen. Diese wirken genau so gut wie Breitbandantibiotika, sind jedoch spezifischer für die häufigsten ursächlichen Keime.
+
+
+=== Sekundäre und nosokomiale Lungenentzündungen ===
+Die Therapie sekundärer Lungenentzündungen ist deutlich schwieriger und erfordert in der Regel die Aufnahme in ein Krankenhaus. Im Vordergrund steht der Erregernachweis, um eine kausale und spezifische Therapie mit Antibiotika, Antimykotika oder Virostatika durchführen zu können. Gerade bei nosokomialen Lungenentzündungen ist die Behandlung durch Resistenzen gegen Antibiotika erschwert. Neben allgemeinen Maßnahmen wird bei sekundären Pneumonien immer auch die Grunderkrankung – soweit möglich – therapiert. In schweren Fällen kann eine maschinelle Beatmung lebensrettend sein, es besteht aber das Risiko weiterer Lungenschädigungen durch die Beatmung.
+
+
+=== Spezifische Therapie ===
+Lungenentzündung mit Viren der Herpesgruppe (Cytomegalievirus, Varizella-Zoster-Virus, Herpesvirus): Gabe von Virostatika („Aciclovir“, „Ganciclovir“)
+Pneumocystis-Pneumonie (PCP), atypische Pneumonie bei Immunsupprimierten und Aids-Kranken sowie Frühgeborenen: Frühzeitige Cotrimoxazolgabe, frühzeitige Indikationsstellung zur Beatmung
+Pilzpneumonien, ebenfalls bei Immunsupprimierten und bei langandauernder Antibiotikagabe: Gabe von Amphotericin B
+Aspirationspneumonien: Absaugen des Aspirats, Entfernen von Fremdkörpern
+Legionellenpneumonie, vor allem bei älteren Menschen: Gabe von Makroliden
+
+
+== Pflege ==
+Die professionelle Pflege muss auf drei Aufgaben konzentriert werden:
+
+Krankenbeobachtung zur Früherkennung möglicher Komplikationen wie Sauerstoffmangel, Kreislaufschwäche
+Atmungsunterstützung, z. B. durch geeignete Lagerung
+Fieberbekämpfung
+
+
+== Mögliche Komplikationen ==
+Akutes progressives Lungenversagen (ARDS)
+Lungenabszess
+Pleuraempyem (Eiteransammlung im Bereich des Brust-/Rippenfells außerhalb der Lunge)
+Pleuraerguss (Flüssigkeitsansammlung im Bereich des Brust-/Rippenfells außerhalb der Lunge)
+Sepsis („Blutvergiftung“)
+Körpereigene entzündliche Abwehrreaktionen des Gesamtorganismus (SIRS)
+Pneumatozele (abgekapselte oder mit dem Bronchialsystem in Verbindung stehende abgeschlossene Luftansammlungen)
+
+
+== Prognose ==
+Die Prognose ist in hohem Grade abhängig von der Einteilung. Primäre, ambulant erworbene Pneumonien haben eine gute Prognose, die Letalität liegt durchschnittlich unter 0,5 %, sofern keine zusätzlichen Risikofaktoren vorliegen. Sekundäre und nosokomiale Lungenentzündungen haben dagegen eine ausgesprochen schlechte Prognose, die sich bei aufsummierten Risikofaktoren weiter verschlechtert. Dabei hat sich auch seit Einführung der Antibiotika die durchschnittliche Todesrate auf Grund altersbedingter, schwererer Komplikationen in der älter werdenden Gesellschaft nicht verbessert.
+Für die Prognoseeinschätzung haben sich die Prognosescore CRB-65 und CURB-65 bewährt. Beim CRB-65 wird je ein Punkt gegeben für:
+
+Confusion  ‚Verwirrung‘,
+Respiratory rate  ‚Atemfrequenz‘ > 30/min,
+Blutdruck unter 90 mmHg systolisch oder unter 60 mmHg diastolisch und
+Alter von 65 Jahren oder älter.Der CRB-65 wird vor allem in der ambulanten Praxis verwendet, weil er sich auf einfach zu erhebende Parameter stützt. Insbesondere hilft er bei der Entscheidung, ob eine stationäre Therapie notwendig ist. Patienten mit einem CRB-65-Wert von einem Punkt haben bereits ein signifikant erhöhtes Sterblichkeitsrisiko und sollten in Abhängigkeit von den Gesamtumständen stationär behandelt werden, ab zwei Punkten ist eine stationäre Therapie indiziert.Es ergeben sich folgende Schätzwerte für die Letalität:
+
+
+== Vorbeugung ==
+Impfung gegen Pneumokokken, empfohlen für Patienten mit geschwächtem Immunsystem, siehe auch Risikogruppen
+jährliche Grippeschutzimpfung, empfohlen für Personen über 60 Jahren oder mit berufsbedingtem Kontakt zu vielen Menschen (Pflegepersonal, Kindergartenpersonal, Verkäufer)
+Haemophilus-Influenza-Impfung
+optimale Behandlung von Risikoerkrankungen
+Verzicht auf das Rauchen
+konsequentes Tragen von Atemmasken bei Berufen mit Staubexposition
+
+
+== Literatur ==
+Leitlinien
+
+S. Ewig, G. Höffken, W. V. Ker u. a.: S3 Leitlinie Behandlung von erwachsenen Patienten mit ambulanter Pneumonie und Prävention – Update 2016. In: Pneumologie. Band 70, 2016, S. 151–200.
+S3-Leitlinie Erwachsene Patienten mit ambulant erworbenen tiefen Atemwegsinfektionen sowie ambulant erworbener Pneumonie: Epidemiologie, Diagnostik, antimikrobielle Therapie und Management der Paul-Ehrlich-Gesellschaft für Chemotherapie (PEG), der Deutschen Gesellschaft für Pneumologie und Beatmungsmedizin (DGP) und der Deutschen Gesellschaft für Infektiologie (DGI). In: AWMF online (Stand 2009)
+S1-Leitlinie Nosokomiale Pneumonie – Epidemiologie, Diagnostik und Therapie erwachsener Patienten der Deutschen Gesellschaft für Pneumologie und Beatmungsmedizin (DGP). In: AWMF online (Stand 2012)
+Empfehlungen zur Therapie akuter Atemwegsinfektionen und der ambulant erworbenen Pneumonie, 3. Auflage. 2013 Arzneiverordnung in der Praxis, herausgegeben von der Arzneimittelkommission der deutschen Ärzteschaft (AKdÄ)
+Marianne Abele-Horn: Antimikrobielle Therapie. Entscheidungshilfen zur Behandlung und Prophylaxe von Infektionskrankheiten. Unter Mitarbeit von Werner Heinz, Hartwig Klinker, Johann Schurz und August Stich, 2., überarbeitete und erweiterte Auflage. Peter Wiehl, Marburg 2009, ISBN 978-3-927219-14-4, S. 82–96.Lehrbücher
+
+Kasper, Braunwald, Fauci, Hauser, Logo, Jameson: Harrison’s Principles of Internal Medicine. 16. Auflage. Teil 9 Disorders of the respiratory system. McGraw-Hill Medical Publishing Division, ISBN 0-07-140235-7, S. 1528 ff.
+Hilmar Burchardi: Ätiologie und Pathophysiologie der akuten respiratorischen Insuffizienz (ARI). In: J. Kilian, H. Benzer, F. W. Ahnefeld (Hrsg.): Grundzüge der Beatmung. Springer, Berlin u. a. 1991, ISBN 3-540-53078-9, 2., unveränderte Aufl. ebenda 1994, ISBN 3-540-57904-4, S. 47–91; hier: S. 76–80.
+Reinhard Marre, Manuel Battegay: Klinische Infektiologie. Infektionskrankheiten erkennen und behandeln. Elsevier, Urban & Fischer, München 2008, ISBN 978-3-437-21741-8.
+Gerd Herold: Innere Medizin. Unter Berücksichtigung des Gegenstandskataloges für die ärztliche Prüfung ; mit ICD 10-Schlüssel im Text und Stichwortverzeichnis ; eine vorlesungsorientierte Darstellung. Herold Verlag, Köln 2006.
+F. Konrad, A. Deller: Klinische Untersuchung und Überwachung, bakteriologisches Monitoring. In: J. Kilian, H. Benzer, F. W. Ahnefeld (Hrsg.): Grundzüge der Beatmung. Springer, Berlin u. a. 1991, ISBN 3-540-53078-9, 2. unveränderte Aufl., ebenda 1994, ISBN 3-540-57904-4, S. 121–133; hier: S. 124–131.
+
+
+== Weblinks ==
+
+Lungeninformationsdienst: Lungenentzündung
+Capnetz: Patienteninformationen Lungenentzündung
+www.pneumonie-aktuell.de – Webseite mit Erregerübersicht, Diagnostik, Therapie und Kasuistiken
+Eintrag zu Pneumonie im Flexikon, einem Wiki der Firma DocCheck.
+
+
+== Anmerkungen ==

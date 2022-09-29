@@ -1,0 +1,62 @@
+Molex Inc. ist ein ehemals an der Nasdaq notierter Hersteller von Elektronikkomponenten einschließlich elektrischer und faseroptischer Verbindungselemente, Schalter, integrierter Produkte und Spezialwerkzeuge.
+Das Unternehmen wurde 1938 gegründet und ist seit Dezember 2013 im Besitz von Koch Industries.
+Molex ist Erstausrüster in Industriezweigen wie Automobilindustrie, Konsumgüter, Industrie- und Büroausrüstung, gebäudeinterne Verkabelung und Telekommunikation.
+Die meisten von Molex hergestellten Verbinder tragen das Kürzel MXI für Molex Inc.
+
+
+== Molexstecker ==
+
+
+=== Produktart ===
+Molex fertigt unterschiedliche, teilweise hochkomplexe, hochwertige und kundenspezifische bzw. systemspezifische Steckverbinder, aber auch Steckverbinder sehr einfacher Bauart wie z. B. die in der Spannungsversorgung in PCs verwendeten.
+
+
+=== Sprachgebrauch ===
+Im Sprachgebrauch ist Molex teilweise zum Gattungsnamen geworden, d.h. es werden Stecker solcher Bauart oft als Molex-Stecker bezeichnet, ohne dass es sich zwangsläufig tatsächlich um Produkte von Molex als Hersteller handeln muss.
+
+
+=== Molex-Steckverbinder in der Industrieelektronik ===
+In Anlagen und im Fahrzeugbereich kommen in der Regel hochwertige, robuste und oft applikationsspezifische bzw. applikationsangepaßte Steckverbinder zum Einsatz. Hier spielen auch Ausführungsdetails wie Fremdstofffestigkeit, IP-Schutzart, Abziehschutz und mechanische Ansteck-/Abziehhilfen (z. B. Hebel) eine große Rolle.
+
+
+=== Molex-Steckverbinder in PCs ===
+In herkömmlichen PCs kommen vergleichsweise sehr einfache standardisierte Steckerformen zum Einsatz, die von manchen Herstellern auch minderwertig mit billigen Materialien, Standzeiten, Festigkeiten und Materialstärken ausgeführt werden.
+
+
+==== Stromversorgungskabel ====
+
+Steckverbinder zur Spannungsversorgung in Computern werden im allgemeinen Sprachgebrauch als „Molexstecker“ bezeichnet, auch wenn Molex nicht deren einziger Hersteller ist.
+Der größere 4-Pin-Stecker (Molex 8981 Serie) dient der Stromversorgung von Festplatten, CD-ROM-Laufwerken und anderen internen Geräten mit mittlerer bis hoher Energieaufnahme (jedoch auch für einige Lüfter, die meist eine eher geringe Energieaufnahme haben). Ursprünglich wurde er für 5,25"-Diskettenlaufwerke verwendet. Der kleinere 4-Pin-Typ ist hauptsächlich für 3,5″-Diskettenlaufwerke gedacht. Aktuelle Geräte werden in der Regel über SATA- oder USB-Anschlüsse mit Strom versorgt. Jedoch wird der Floppy-Stecker manchmal für andere Geräte wie zum Beispiel Lüfter „zweckentfremdet“.
+Die Farben sind nicht willkürlich gewählt. Der rote Leiter führt +5 V, der gelbe +12 V und die beiden schwarzen Drähte liegen auf Masse. Die oben genannten Molexstecker enthalten keine Metallstifte im eigentlichen Sinne, sondern kleine Buchsen. Die Stifte befinden sich an den Laufwerken oder auf dem Mainboard selbst.
+
+
+==== Steckverbinder an PC-Lüftern ====
+
+Mit dem Namen Molex verbindet man ebenfalls einen kleineren, dreipoligen weiblichen Steckverbinder, der auf das entsprechende Gegenstück (meist auf der Hauptplatine) gesteckt wird. Angeschlossen werden damit vor allem Lüfter. Die Pins führen Masse (schwarz), +12V (rot) und ggf. das Tachosignal (vom Umdrehungssensor) des Lüfters (gelb oder blau). Molex führt diese Stecker unter der Bezeichnung „KK 254 Connector System“.
+Seit etwa 2005 gibt es auch vierpolige Anschlüsse dieser Art. Dabei kommt für das Pulsweitenmodulations-Signal (PWM) zum Lüfter eine blaue Leitung hinzu. Das PWM-Signal steuert die Drehzahl des Lüfters.
+Vierpolige Stecker lassen sich auf dreipolige Anschlüsse stecken und umgekehrt. Die asymmetrische Steckerform mit zwei Führungsschienen auf einer Seite sorgt dafür, dass auch in diesem Fall die richtigen Leitungen verbunden werden (das setzt allerdings voraus, dass die entsprechende Führungslasche des männlichen Anschlusses vorhanden ist). Die blaue PWM-Leitung bleibt in diesem Fall frei, die Fähigkeit des Lüftermotors zur Pulsweitenmodulation wird nicht genutzt. Genau wie bei einem dreipoligen Anschluss ist in diesem Fall dennoch eine Regelung über die Spannung einer entsprechend ausgestatteten Hauptplatine möglich, sodass die Lüfterdrehzahl dennoch gesteuert werden kann.
+Bei leisen Lüftern genügt es unter Umständen, vollständig auf eine Steuerung zu verzichten. Dazu kann unter Zuhilfenahme eines Adapterkabels ein Lüfter direkt über die 12-V-Spannungsversorgung eines großen Molexsteckers gespeist werden. Die Tacholeitung und ggf. das PWM-Signal bleiben hierbei unbenutzt (nc).
+
+
+== Geschichte ==
+Frederick August Krehbiel gründete 1938 die Molex Products Company in Brookfield, Illinois. Er benannte die Firma nach Molex, einem plastischen Material, das er entwickelt hatte. Kurz darauf wurden etliche Produkte daraus hergestellt, darunter Uhrengehäuse, Blumentöpfe, runde Griffe von Drehventilen und Salztablettenspender.
+1940 trat einer von Krehbiels Söhnen, John H. Krehbiel Sr., dem Unternehmen bei und entdeckte früh die ausgezeichnete elektrische Isolationsfähigkeit des Materials. Einige Jahre später führte die Firma das Metallstanzen in ihre Abformungsprozesse ein, woraus die erste Steckverbindung für Haushaltsgeräte von General Electric und andere Hersteller entstand.
+In den 1950er Jahren drang Molex mit seinen preisgünstigen Steckverbindungsblöcken schnell in den Gerätemarkt vor. Das Unternehmen stellte 1953 erstmals eine Verbindung nach dem Stecker-Buchse-Prinzip vor. In den folgenden Jahren erweiterte Molex die Produktpalette für gewerbliche und private Einsatzgebiete.
+1960 stellte Molex die erste Stecker-Buchse-Verbindung aus Nylon vor, was dazu führte, dass Molex nun zum Elektronikunternehmen avancierte.
+1967 begann Molex, sich international zu betätigen. Die erste Fabrik wurde 1970 in Japan eröffnet, die zweite 1971 in Irland. Heute ergeben sich mehr als zwei Drittel der jährlichen Einnahmen aus Produkten, die außerhalb der USA hergestellt und vertrieben werden.
+Molex hielt in den 1980er Jahren mit dem Wachstum der Elektronikindustrie Schritt, indem das Produktangebot auf den Bedarf der Computerindustrie und der Betriebsausstattung ausgedehnt wurde. Das Unternehmen etablierte sich außerdem als Zulieferer für die Automobilindustrie.
+In den frühen 1990er Jahren wurden Märkte wie Telekommunikation, industrielle Automatisierung und Premise Networking erschlossen.
+Molex hat die eigene Position in Schlüsselmärkten gestärkt und ist durch Wachstum und einige strategische Firmenzukäufe expandiert. 2006 erwarb Molex die Firma Woodhead Industries, den größten Zukauf in der Firmengeschichte. Daraus resultiert eine stärkere Präsenz in der Fabrikautomatisierung und anderen schwerindustriellen Bereichen.
+Im September 2013 kündigte die US-amerikanische Koch Industries mit Firmensitz in Wichita, Kansas die Übernahme von Molex für rund 7,2 Milliarden US-Dollar an.
+
+
+== Molex in Frankreich ==
+Molex hat sich in Frankreich 2004 angesiedelt. Sie besaß dort eine Entwicklungsabteilung in Montigny-le-Bretonneux (Yvelines) und eine Fabrik in Villemur-sur-Tarn (Haute-Garonne), zwei Standorte, die seitens der SNECMA kurz vor ihrer Fusion mit der SAGEM verkauft wurden und die bis zum Jahr 2000 den Gesellschaften Cinch Connecteur und Labinal gehörten. Die Fabrik von Villemur-sur-Tarn existiert seit 1932. Der von Molex übernommene Teil hatte 283 Personen (2008) und belieferte hauptsächlich PSA Peugeot Citroën. Ein anderer Teil wurde von Labinal behalten (seit 2005 in die SAFRAN-Gruppe eingegliedert). Sie produziert Verbinder für die Luftfahrt und beschäftigt ca. 600 Personen.
+Seit Oktober 2008 war die Fabrik von Molex in Villemur-sur-Tarn von Schließung bedroht. Es wurde eine Verlagerung nach China und in die USA in Betracht gezogen. Die französischen Mitgeschäftsführer Marcus Kerriou und William Brosnan haben ihren Abschied am 6. August 2009 eingereicht, nachdem sie in eine Schlägerei mit den streikenden Angestellten verwickelt waren, und überließen die Geschäftsführung der amerikanischen Direktion der Molex-Gruppe. Ein ministerieller Schlichter, Francis Latarche, ehemaliger Direktor von DDTE (Les unités territoriales, früher Directions départementales de l’emploi, du travail et de la formation professionnelle (DDTEFP) genannt) wurde von Christian Estrosi, dem Industrieminister, berufen. Im Lauf des Jahres 2010 erfolgte dann die endgültige Schließung trotz der langandauernden Proteste und Aktionen der Belegschaft.
+
+
+== Weblinks ==
+Offizielle Website der Firma
+
+
+== Einzelnachweise ==

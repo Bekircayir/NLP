@@ -1,0 +1,47 @@
+Der medizinische Begriff CO2-Narkose (Coma hyperkapnicum) beschreibt eine Bewusstlosigkeit infolge einer erhöhten Blutkonzentration von Kohlenstoffdioxid (CO2). Diese kann sowohl durch innere Vorgänge als auch durch eine äußerliche CO2-Einwirkung entstehen.
+
+
+== Physiologie ==
+Kohlenstoffdioxid ist ein Stoffwechselprodukt des Körpers, das in den Zellen entsteht und im Blut gelöst zur Lunge transportiert wird, wo es an die Luft in den Lungenbläschen (Alveolen) abgegeben und mit der Ausatemluft abgeatmet wird. Je nach Aktivität und Stoffwechsellage fällt viel oder wenig CO2 im Körper an, die Atmung muss dem CO2-Anfall angepasst werden. Beim gesunden Menschen geschieht dies in erster Linie über den CO2-Gehalt des Blutes. Ein Anstieg des CO2-Partialdruckes führt (beim gesunden Menschen) zu vermehrtem Atemantrieb und damit auch zu vermehrter Atemtätigkeit, diese wiederum lässt den CO2-Partialdruck sinken.
+Der Normalbereich für den CO2-Partialdruck des Blutes beträgt 4,6 bis 5,9 kPa (35 bis 45 mmHg; entspricht 4,5 bis 5,8 Volumenprozent bei Normaldruck).
+Etwa ab einem CO2-Partialdruck von 7,8 bis 9,1 kPa (60 bis 70 mmHg bzw. 7,7 % bis 9,0 %) muss mit einer Bewusstseinstrübung bis hin zur Bewusstlosigkeit gerechnet werden, Patienten mit einer chronischen CO2-Erhöhung können bisweilen auch erheblich höhere Werte tolerieren.
+
+
+== Endogene CO2-Narkose ==
+Im medizinischen Bereich treten auch endogene CO2-Narkosen auf, bei denen das Kohlenstoffdioxid dem körpereigenen Atmungsstoffwechsel entstammt. Eine an den aktuellen Bedürfnissen gemessen unzureichende Atmungsbewegung (Hypoventilation) führt zur Anreicherung von Kohlenstoffdioxid im Blut (Hyperkapnie), die in schweren Fällen zur Bewusstseinstrübung, zur Bewusstlosigkeit (Koma) und schließlich zum Tod führen kann.
+Ursachen einer derartigen Minderventilation können sein:
+
+Vergiftungen oder Überdosierungen von Medikamenten oder Drogen, die die Atmung beeinträchtigen
+Traumatische Ursachen beispielsweise nach schwerer Brustkorbverletzung mit Behinderung der Atmung
+Tritt eine CO2-Narkose im Zusammenhang mit einer Ateminsuffizienz bei hochgradiger Fettsucht auf, spricht man auch von Pickwick-Syndrom.Durch moderne Konzepte, die eine Ermüdung der Atempumpe als Ursache eines Anstiegs des CO2-Partialdruckes ansehen und die Tagesschläfrigkeit auf einen gestörten Nachtschlaf durch die Atmungsschwäche zurückführen, wird die Rolle der CO2-Narkose als Ursache für die Schläfrigkeit neuerdings in den Hintergrund gedrängt. Eine terminale Hyperkapnie mit Atemstillstand wird hier eher als Zeichen einer Totalerschöpfung der Atempumpe angesehen. Der Atemstillstand kommt hiernach nicht durch eine Hyperkapnie zu Stande, sondern wird durch die zunehmende Hyperkapnie angezeigt. Eine Beatmungstherapie dient nach diesen Konzepten auch nicht primär der Normalisierung des CO2, sondern soll, intermittierend eingesetzt, zur Erholung der Atempumpe beitragen. Mit einer erholten Atempumpe kann dann der Patient im beatmungsfreien Intervall mehr CO2 abatmen, wodurch der CO2-Partialdruck gesenkt werden kann.
+Die Gabe von Sauerstoff ist hierbei sogar oft hilfreich und notwendig, weil ein solcher Patient, mit einem Atempumpenproblem, ohne das Risiko eines weiteren Sauerstoffabfalls seine Atempumpe weiter entlasten kann, was er durch eine Sollwertverstellung für den CO2-Partialdruck anzeigt.
+Die Schläfrigkeit beim Pickwick-Syndrom, das heute auch als Obesitas-Hypoventilationssyndrom bezeichnet wird, geht auf die begleitende schlafbezogene Atmungsstörung zurück.
+
+
+== Sauerstofftherapie-bedingte CO2-Narkose ==
+Die Gefahr der CO2-Narkose spielt bei Patienten mit chronisch erhöhtem CO2-Partialdruck, meist infolge einer chronischen Lungenerkrankung, eine besondere Rolle. Bei solchen Patienten kann bei unkontrollierter Zufuhr von zusätzlichem Sauerstoff ein Anstieg des CO2 im Blut festgestellt werden. Die Ursachen dafür sind folgende:
+
+
+=== Störung der Lungendurchblutung ===
+Schlecht belüftete (minderventilierte) Lungenabschnitte werden vom Körper von der Durchblutung (Perfusion) ausgeschlossen (Euler-Liljestrand-Mechanismus), wodurch das Blut in besser belüftete Abschnitte umgeleitet wird. Dieser Mechanismus wird durch die Sauerstoffkonzentration in den Alveolen gesteuert und auch hypoxisch pulmonale Vasokonstriktion genannt. Durch unkontrollierte Zufuhr von zusätzlichem Sauerstoff gelangen hohe Konzentrationen von Sauerstoff auch in schlecht belüftete Lungenabschnitte, die daraufhin wieder stärker durchblutet werden. Durch diese Fehlleitung von Blut in der Lunge (Shunting) kann weniger CO2 abgeatmet werden und das CO2 im Blut steigt an.
+
+
+=== Störung des CO2-Transports im Hämoglobin ===
+5–10 % des CO2 im Blut wird an Hämoglobin gebunden transportiert. Dabei kann desoxygeniertes Hämoglobin mehr CO2 transportieren als oxygeniertes Hämoglobin (Haldane-Effekt). Durch unkontrollierte Zufuhr von Sauerstoff und steigende Sauerstoffsättigung kann weniger CO2 transportiert werden. Bis zu 25 % des CO2-Anstiegs bei den o. g. Patienten sind durch den Haldane-Effekt erklärbar.
+
+
+=== Mögliche Störung des Atemantriebs ===
+Bezüglich der häufig vorgetragenen Ansicht, dass der Atemantrieb bei den o. g. Patienten durch Sauerstoffzufuhr relevant abnehme, existieren widersprüchliche Studiendaten. In gewissen Studien zeigt sich kein relevanter Einfluss von Sauerstoffgabe auf das Atemminutenvolumen, während in einer andern klinischen Studie zwei Patientengruppen identifiziert werden: In der "Retainer"-Gruppe ("Zurückhalter") sinkt das Atemminutenvolumen bei hoher O2-Sättigung ab, während bei "Non-Retainern" kein Abfall des Atemminutenvolumens beobachtet wird.
+Somit kann Anstieg des CO2 durch verschiedene physiologische Mechanismen bedingt sein, welche allein oder in Kombination zu einer CO2-Narkose führen können, und dann im Endstadium den Atemstillstand bewirken können.
+
+
+== Exogene CO2-Narkose ==
+Eine CO2-Narkose durch äußere Ursachen (überhöhter CO2-Gehalt in der Umgebungsluft) tritt meist als Unfallgeschehen auf. Bekannte Beispiele sind Todesfälle in Gärkellern, in landwirtschaftlichen Silos und in Brunnenschächten. Oft werden unbedachte Helfer, die an der Unfallstelle eine Person bergen wollen, selbst auch zum Opfer der Narkose durch das geruchlose und daher nicht wahrnehmbare CO2.
+Neben der Anwendung von Elektroschock- und Bolzenschuss-Verfahren wird die CO2-Narkose in großem Maßstab zur Betäubung von Tieren vor der Schlachtung eingesetzt.
+
+
+== Siehe auch ==
+Sauerstofftoxikose
+
+
+== Einzelnachweise ==

@@ -1,0 +1,71 @@
+Die essentielle Thrombozythämie (auch essenzielle Thrombozythämie, abgekürzt ET) gehört zum Formenkreis der myeloproliferativen Neoplasien (MPN), das heißt einer Gruppe von bösartigen Erkrankungen des blutbildenden Systems. Charakteristisch für die ET ist die anhaltende Thrombozytose, d. h. starke Vermehrung der Thrombozyten (Blutplättchen) im Blut.
+
+
+== Epidemiologie ==
+Die Inzidenz beträgt nach neueren Studien in den USA und Schweden etwa 2,5 Personen auf 100.000 Einwohner pro Jahr. Aufgrund der relativ normalen Lebenserwartung ist die Prävalenz deutlich höher. Zweigipflige Altersverteilung, zw. 20 und 40 bzw. 60 und 70 Jahren. 10–25 % der Patienten sind unter 40 Jahren. Die Erkrankung ist bei Frauen häufiger, das Verhältnis weiblich/männlich beträgt etwa 2:1.
+
+
+== Pathogenese ==
+Die ET ist, wie alle myeloproliferativen Neoplasien und überhaupt alle Tumoren, eine genetisch bedingte Erkrankung. Warum die Erkrankung bei einem individuellen Patienten auftritt lässt sich meistens nicht eindeutig begründen. Man geht von spontanen Genmutationen in hämatopoetischen Stammzellen aus, die dazu führen, dass diese Stammzellen nicht mehr ihre normale Funktion (kontrollierte Bildung von verschiedenen Blutzellen) ausüben können. Der genetische Hintergrund der ET ist bisher nicht vollständig verstanden. In den letzten Jahren wurden jedoch wichtige Erkenntnisfortschritte erzielt. Im Jahr 2005 wurde unabhängig voneinander durch verschiedene wissenschaftliche Arbeitsgruppen bei ET-Patienten eine Mutation in der Tyrosinkinase JAK2 (JAK2-Mutation-V617F) beschrieben. Ungefähr bei der Hälfte aller klinisch diagnostizierten Fälle von ET (zu den Diagnose-Kriterien siehe unten) lässt sich diese Mutation nachweisen. Bei gesunden Personen ist diese Mutation dagegen nie nachweisbar. Die Mutation führt dazu, dass die Tyrosinkinase JAK2 dauerhaft und unkontrolliert aktiviert wird, mit der Folge, dass das klinische Bild einer Bluterkrankung entsteht.
+Die JAK2-V617F-Mutation ist allerdings nicht nur bei etwa der Hälfte der Fälle von ET nachweisbar, sondern auch bei anderen MPN, insbesondere bei der Polycythaemia vera (in nahezu 100 % der Fälle) und der Osteomyelofibrose (in etwa 50 % oder weniger der Fälle). Der Nachweis der JAK2 V617F-Mutation ist auch therapeutisch von Interesse, da mittlerweile ein zugelassener JAK2-Inhibitor (Ruxolitinib) als Medikament verfügbar ist.
+Ein geringer Prozentsatz (unter 5 %) der ET-Patienten zeigt statt der JAK2-Mutation eine Mutation in dem Gen für den Thrombopoetin-Rezeptor MPL. Diese Mutation führt zu einer dauerhaften Wachstumsstimulation der betroffenen Blutstammzelle.
+Im Jahr 2013 wurde ebenfalls durch mehrere wissenschaftliche Arbeitsgruppen eine neue Gen-Mutation gefunden, die das Gen CALR, das für das Protein Calreticulin codiert, betrifft. Bemerkenswerterweise traten CALR-, MPL- und JAK2-Mutationen praktisch exklusiv auf, d. h. nie gemeinsam. Etwa 70 % aller MPN-Patienten, die keine JAK2-Mutation aufwiesen, zeigten dafür eine CALR-Mutation.
+
+
+== Symptome ==
+Mikrozirkulationsstörungen oder funktionelle Beschwerden sind die häufigsten Symptome. Thromboembolische Komplikationen sind die Hauptursache der Morbidität und Mortalität der Erkrankung. Ein erhöhtes Risiko besteht für Schlaganfall und Herzinfarkt.
+Wurden Blutungsereignisse früher als häufige Symptome der essentiellen Thrombozythämie (auch idiopathische hämorrhagische Thrombozythämie genannt) betrachtet, zeigen neuere Untersuchungen, dass größere oder lebensbedrohliche Blutungen bei der ET eher selten auftreten und meist nur bei sehr hohen Plättchenzahlen beobachtet werden. Diese Blutungsneigung erklärt man mit einer Funktionsstörung der Thrombozyten (sogenanntes funktionelles Von-Willebrand-Syndrom).
+Andere Symptome können durch die mangelnde Durchblutung von Körperteilen hervorgerufen werden: So können Schmerzen beim Gehen (mangelnde Beindurchblutung), Konzentrationsstörungen und Sehstörungen auftreten. Im fortgeschrittenen Stadium kommen Schmerzen im Oberbauch durch Vergrößerung der Leber und der Milz hinzu.
+Etwa ein Drittel aller ET-Patienten sind zum Zeitpunkt der Diagnosestellung ohne Symptome und bleiben häufig über viele Jahre beschwerdefrei.
+
+
+== Klinik und Verlauf ==
+Heute wird die Diagnose bzw. die Verdachtsdiagnose meist im asymptomatischen Stadium im Rahmen einer Routineuntersuchung des Blutbildes gestellt. Seltener führen die typischen Komplikationen der Erkrankung wie venöse und arterielle Thrombosen, evtl. mit nachfolgenden Embolien, oder auch Blutungen zur Diagnose. Die venösen Thrombosen können an typischer Stelle lokalisiert sein (tiefe Beinvenenthrombose), aber auch an atypischen Lokalisationen auftreten (Lebervenenthrombose, sog. Budd-Chiari-Syndrom, Pfortaderthrombose). Blutungen treten typischerweise bei extrem hohen Thrombozytenzahlen auf (> 2.000.000/µl) und sind auf eine Funktionsstörung der Thrombozyten zurückzuführen.
+Weitere Komplikationsmöglichkeiten sind Mikrozirkulationsstörungen, die zu einer Reihe von unspezifischen Beschwerden wie Kopfschmerzen, Missempfindungen in Händen und Füßen, Sehstörungen, brennenden Schmerzen mit Rötung in Händen und Füßen (Erythromelalgie) führen können.
+
+
+== Diagnostik ==
+Die Verdachtsdiagnose ergibt sich bei wiederholtem Nachweis von Thrombozytenzahlen > 450.000/µl ohne Hinweis auf Ursachen für eine reaktive Thrombozytose. Reaktive Thrombozytosen treten z. B. auf bei Eisenmangel, Infektionen, oder anderen Tumorerkrankungen. Gelegentlich findet sich bei ET auch eine leichte Leukozytose und eine Anämie ist häufig vorhanden.
+Mittels des Nachweises einer JAK2-Mutation oder neuerdings auch der CALR-Mutationen, sowie selten auch einer MPL-Mutation ist heute in vielen Fällen eine molekularbiologische Bestätigung der Diagnose und Abgrenzung zur reaktiven Thrombozytose möglich. Wird eine Mutation in einem der drei genannten Gene nachgewiesen, dann liegt eine myeloproliferative Neoplasie (MPN) vor. Es muss dann noch entschieden werden, um welche Art von MPN es sich genau handelt (ET, Polycythaemia vera, Osteomyelofibrose oder andere). Um eine mögliche chronische myeloische Leukämie (CML) nicht zu übersehen sollte immer eine Blut-Untersuchung auf das für die CML typische Onkogen BCR-ABL erfolgen, die negativ ausfallen muss. Auch die CML geht in der Anfangsphase häufig mit einer Thrombozytose einher.
+Eine Untersuchung des Knochenmarks mittels Knochenmarkpunktion ist erforderlich. Mit der Knochenmarkuntersuchung lassen sich verschiedene Fragen klären, so z. B. die Frage nach dem Vorliegen einer Knochenmarkfibrose (Bindegewebsvermehrung im Knochenmark), Anomalien bei den Megakaryozyten (den Zellen, die die Thrombozyten bilden), Dysplasien (Ausreifungsstörungen der Blutzellen). Aus dem Knochenmark sollte auch eine zytogenetische Untersuchung gemacht werden um eventuell vorliegende Chromosomenanomalien zu erkennen.
+Eine Differenzialdiagnose, die durch die Knochenmarkuntersuchung geklärt werden kann, ist die sogenannte RARS-T (Refraktäre Anämie mit Ringsideroblasten und Thrombozytose). Diagnostisch wegweisend ist hier der Nachweis von Ringsideroblasten im Knochenmark. RARS-T weist in der Mehrheit der Fälle die JAK2 V617F-Mutation auf.
+
+Die Diagnose ET ist gesichert, wenn alle Kriterien erfüllt sind. Manchmal lässt sich keine Mutation in einem der genannten Gene diagnostizieren. In diesen Fällen müssen besonders gründlich alle Differenzialdiagnosen ausgeschlossen werden und dann kann die Diagnose ET trotzdem gestellt werden.
+
+
+== Therapie ==
+
+
+=== Risikoeinteilung ===
+Es gibt keine gesicherten randomisierten Studien zum optimalen Zeitpunkt für den Therapiebeginn.
+Um für jeden Patienten eine optimale Behandlungsstrategie zu finden, wird nach den Leitlinien der DGHO zunächst eine Risikoeinordnung vorgenommen. Diese unterscheidet Hoch-, Intermediär- und Niedrig-Risikopatienten. Das Risiko wird anhand eines Scoring-Systems vorgenommen. Drei Faktoren sind dabei zu berücksichtigen:
+
+Anamnestisch bekannte thromboembolische Ereignisse oder schwere Blutungsereignisse
+Alter über 60 Jahre
+Thrombozytenwerte >1,5 Millionen/µlFür jedes der drei genannten Kriterien wird, sofern es erfüllt ist ein Punkt vergeben.
+Es gilt dann die Einteilung:
+
+0 Punkte = Niedrigrisiko
+1 oder mehr Punkte = HochrisikoPatienten, die keinen der o. g. Risikofaktoren aufweisen, aber vaskuläre Risikofaktoren, d. h. eine Blutgefäßerkrankung oder das hohe Risiko dafür haben (z. B. eine generalisierte Arteriosklerose, ein Diabetes mellitus, Hypercholesterinämie, Rauchen, eine koronare Herzkrankheit oder einen früheren Herzinfarkt) gelten als Intermediärrisiko.
+Hochrisiko-Patienten wird immer eine medikamentöse Behandlung empfohlen. Diese kann bestehen aus:
+
+Hydroxycarbamid, oder
+Anagrelid oder
+α-InterferonBei Intermediärrisiko-Patienten muss individuell abgewogen werden, ob eine Behandlung notwendig erscheint. Diese kann z. B. mit niedrig dosierter Acetylsalicylsäure erfolgen.
+Niedrigrisiko-Patienten benötigen keine Behandlung.
+Grundsätzlich werden für alle ET-Patienten Allgemeinmaßnahmen zur Minimierung des Thrombembolierisikos empfohlen:
+
+Gewichtsnormalisierung,
+regelmäßige Bewegung,
+Vermeiden von Flüssigkeitsmangel (Exsikkose) und langem Sitzen,
+Beachten von Frühsymptomen einer Thrombose, in diesem Fall sofortigen Arztkontakt
+
+
+== Literatur ==
+
+
+== Weblinks ==
+CMPE-Leitlinien (Kompetenznetz Leukämie)
+ET auf Netdoktor.at
+Behandlungsleitlinien der DGHO (Stand 2010)
+http://www.mpn-netzwerk.de/haeufige-fragen.html Informationen über chronisch myeloproliferative Erkrankungen

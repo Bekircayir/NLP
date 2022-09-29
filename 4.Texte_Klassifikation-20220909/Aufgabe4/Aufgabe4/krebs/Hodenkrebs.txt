@@ -1,0 +1,124 @@
+Als Hodenkrebs oder auch Hodenkarzinom wird ein bösartiger Hodentumor bezeichnet, der vor allem junge Männer in der Altersgruppe von 20 bis 40 Jahren befällt. Hodenkrebs ist in dieser Altersgruppe die häufigste Krebserkrankung. Sie wird meist durch Selbstabtastung entdeckt.
+
+
+== Epidemiologie ==
+Im Vergleich zu anderen Krebserkrankungen ist der Hodenkrebs eher selten. Er macht nur etwa ein bis zwei Prozent aller bösartigen Tumoren aus. In den Altersklassen der 2- bis 4-jährigen und 15- bis 19-jährigen Jungen ist es aber der häufigste Krebs. Im Durchschnitt erkranken acht bis zehn von 100.000 Männern. In Deutschland erkranken sogar jährlich zehn von 100.000 männlichen Einwohnern. Das sind dort etwa 4000 Diagnosen, rund 150 Männer versterben an der Erkrankung. Die Häufigkeit von Keimzelltumoren des Hodens ist in den USA und in Europa angestiegen. In den USA erkrankten 1992 5,7 von 100.000 Männern über 15 Jahre an Hodenkrebs, 2009 waren es 6,8. Der Anteil der Seminome war altersabhängig: 29 % im Alter von 15–26 Jahre, 78 % bei über 40-Jährigen. In der europäischen "EUREG database" wurde in 15 von 19 Ländern ebenfalls ein Anstieg der Hodenkrebsrate gefunden.Der größte Risikofaktor für Hodenkrebs ist der Hodenhochstand (Maldescensus testis). Der Hoden ist dabei in der Leistengegend verblieben oder wandert dahin zurück und verbleibt nicht wie üblich im Hodensack.
+Möglicherweise tragen Männer ab 1,95 m Körpergröße ein erhöhtes Erkrankungsrisiko.
+
+
+== Klinik ==
+Klassisches Leitsymptom des Hodentumors ist die schmerzlose Größenzunahme des Hodens mit einer tastbaren Knotenbildung innerhalb des Hodens. Jede Vergrößerung des Hodens ist tumorverdächtig und muss ärztlich untersucht werden.
+
+
+== Einteilung: Seminom – Nichtseminom ==
+
+Bösartige Neubildungen des Hodens werden grundsätzlich nach dem Gewebe, aus dem sie entstehen, eingeteilt. Zu 95 % sind die entarteten Zellen Keimzellen, die restlichen fünf Prozent der Tumoren bilden sich aus dem Binde- und Stützgewebe. Den größten Teil in der zweiten Gruppe machen die Leydigzelltumoren aus. Die Keimzelltumoren wiederum werden unterteilt in Seminome und Nichtseminome.
+
+Die Prognose ist bei Seminomen insgesamt besser, weil die Metastasierungsneigung bei den Seminomen weniger stark ausgeprägt ist als bei den Nichtseminomen. Wichtig ist, wie bei den meisten Malignomen, die Früherkennung, da dies der wichtigste Faktor für bessere Heilungschancen ist.
+
+
+== WHO-Einteilung, ICD-o-Codierung ==
+In der S3-Leitlinie "Keimzelltumoren des Hodens" von 2018 wird empfohlen, eine pathologische Klassifikation von Hodentumoren nach der WHO-Einteilung von Moch und Mitarbeitern (2016) vorzunehmen. Hier die deutsche Übersetzung.
+
+
+=== Keimzelltumoren, die aus einer Keimzellneoplasie in situ hervorgehen ===
+
+
+==== Nichtinvasive Keimzelltumoren ====
+9064/2 Keimzellneoplasie in situ, spezifische Formen von intratubulären KeimzellneoplasienDie Tumorzellen halten sich in den Samenkanälchen auf.
+
+
+==== Tumoren von einem histologischen Typ (reine Formen) ====
+9061/3 Seminom: Tumor aus entarteten Samenzellen
+Seminom mit synzytiotrophoblastären Riesenzellen: Sonderform des Seminoms mit Riesenzellen
+
+
+==== Nichtseminomatöse Keimzelltumoren ====
+9070/3 Embryonales Karzinom
+9071/3 Dottersacktumor vom postpubertären TypDer Dottersack ist ein evolutionärer Rest unserer eierlegenden Vorfahren und dient der frühen Blutbildung.
+
+
+==== Trophoblastische Tumoren ====
+9100/3 Chorionkarzinom: die entarteten Zellen haben Ähnlichkeit mit Zellen einer Mutterkuchenanlage.
+Nichtchorionkarzinomatöse trophoblastische Tumoren
+9104/1 Trophoblastischer Plazentatumor
+9105/3 Epithelioider trophoblastischer Tumor
+Zystischer trophoblastischer Tumor
+
+
+==== 9080/3 Teratom vom postpubertären Typ ====
+9084/3 Teratom mit Entwicklung somatischer Neoplasien: "Wundergeschwülste" mit verschiedenen Geweben und Organanlagen.
+
+
+==== Nichtseminomatöse Keimzelltumoren von mehr als einem histologischen Typ ====
+9085/3 Keimzellmischtumoren
+
+
+==== Keimzelltumoren vom unbekannten Typ ====
+9080/1 Zurückgebildete Keimzelltumoren
+
+
+=== Keimzelltumoren, die nicht aus einer Keimzellneoplasie in situ hervorgehen ===
+9063/3 Spermatozytischer Tumor: Zellen ähneln Spermatozyten, die sich zu Samenfäden entwickeln können.
+9084/0 Teratom vom präpubertären Typ
+Dermoidzyste: Hohlraum mit Haut und Hautanhangsgebilden (Haare, Talgdrüsen)
+Epidermoidzyste
+8240/3 Hochdifferenzierter neuroendokriner Tumor (monodermales Teratom): Zellen ähneln denen des vegetativen Nervensystems
+9085/3 Mischtumor: Teratom mit Dottersacktumor vom präpubertären Typ
+9071/3 Dottersacktumor vom präpubertären Typ
+
+
+=== Keimstrang-/Stroma-Tumoren ===
+
+
+==== Reine Tumoren ====
+8650/1 Leydigzelltumor: normale Leydigzellen produzieren Hormone.
+8650/3 Maligner Leydigzelltumor
+8640/1 Sertolizelltumor: normale Sertolizellen versorgen Keimzellen bei ihrer Entwicklung zu Spermien.
+8640/3 Maligner Sertolizelltumor
+8642/1 Großzelliger kalzifizierender Sertolizelltumor
+8643/1 Intratubuläre großzellige hyalinisierende Sertolizell-Neoplasie
+
+
+==== Granulosazelltumor ====
+8620/1 Adulter Granulosazelltumor: Granulosazellen kommen normalerweise im weiblichen Eierstock bei der Eifollikelbildung vor.
+8622/1 Juveniler Granulosazelltumor
+8600/0 Tumoren der Fibrom-Thekom-Gruppe: Thekazellen kommen im gesprungenen Eifollikel des weiblichen Ovars vor
+
+
+==== Gemischte und unklassifizierte Stromatumoren ====
+8592/1 Gemischte Stromatumoren: Stroma ist das undifferenzierte Bindegewebe von Hoden und Ovar
+8591/1 Unklassifizierte Stromatumoren
+
+
+=== Tumoren, die Keimzellen und Keimstranganteile enthalten ===
+9073/1 GonadoblastomeAnmerkung: Die ICD-O ist die histologische Klassifikation von Tumoren. Sie wird weltweit von allen Pathologen zur Klassifikation von untersuchtem Gewebe eingesetzt. Die Endziffer 1 ist gutartigen Gewebeveränderungen vorbehalten, die 2 steht bei nicht invasiven Tumoren (in-situ-Karzinom) und die Endziffer 3 kennzeichnet bösartige Geschwülste.
+
+
+== Operative Behandlung ==
+Die Semikastration (hier Orchiektomie auch Ablatio testis), die Entfernung eines der beiden Hoden, ist die erste Behandlungsmaßnahme bei der Diagnose eines Hodenkrebses. Die Fertilität des Patienten wird allein durch die Entfernung eines Hodens in der Regel nicht eingeschränkt. Trotzdem wird zu einer Samen-Aufbewahrung (ähnlich wie es bei Samenspendern praktiziert wird) vor dem Eingriff geraten – insbesondere die unten beschriebene retroperitoneale Lymphadenektomie kann in einigen Fällen zu Unfruchtbarkeit führen, durch den fachgerecht gelagerten Samen wird dann die Chance auf eigene Kinder erhalten. Wichtig ist eine Messung des Testosteronspiegels vor der ersten Operation. So kann im Fall eines (seltenen) beidseitigen Auftretens der normale Spiegel wieder eingestellt werden. Anschließend folgt eine an die Histologie sowie das jeweilige Tumorstadium angepasste, adjuvante Therapie. Diese kann eine aktive Überwachung, eine Chemotherapie, eine Strahlentherapie oder auch eine Kombination aus Strahlen- und Chemotherapie bedeuten.
+Nach einer operativen Hodenentfernung kann eine Hodenprothese eingesetzt werden.
+Die retroperitoneale Lymphadenektomie (RLA), bei der die Lymphknoten im Bauchraum entfernt werden, wird mitunter noch vor der Chemotherapie durchgeführt. Die Lymphknoten werden entfernt, weil die Metastasierung von Hodenkrebs in fast allen Fällen über sie verläuft. So werden einerseits eventuell befallene Lymphknoten entfernt, andererseits wird dem Tumor die Verbreitungsgrundlage entzogen.
+Bei einem bestehenden Hodentumor besteht die Gefahr von Krebsvorstufen (testikuläre intraepitheliale Neoplasie) auch vom kontralateralen Hoden. Da die häufige postoperative Chemotherapie die Krebsvorstufe in sieben Prozent der Fälle heilt, wird eine Hodenbiopsie der Gegenseite erst nach Abschluss einer eventuellen Chemotherapie empfohlen. Nach der Chemotherapie kann eine testikuläre intraepitheliale Neoplasie durch eine Bestrahlung des Hodens geheilt werden.
+
+
+== Chemotherapie ==
+Die Chemotherapie ist bei Nichtseminomen die Therapie der Wahl, bei Seminomen kommt sie meist erst bei fortgeschrittenen Stadien zum Einsatz, da Seminome fast immer strahlensensibel sind, also auf Bestrahlung gut ansprechen.
+In fast allen Fällen kommt als Chemotherapie die Wirkstoffkombination „PEB“ zum Einsatz. Diese setzt sich aus den Zytostatika Cisplatin (P), Etoposid (E) und Bleomycin (B) zusammen. Bleomycin wirkt sich dabei negativ auf die Lungenfunktion aus, so dass dieses etwa bei Hochleistungssportlern oder Tauchern durch Ifosfamid ersetzt wird (PEI-Kombination) oder entfällt. Die Verabreichung der eingesetzten Kombination erfolgt über ein bis vier Zyklen, wobei zumeist mindestens zwei Zyklen durchgeführt werden. Als Zyklus wird der Behandlungszeitraum von 21 Tagen bezeichnet; ein Therapieschema legt für jeden Tag die genaue Medikation fest. Über einen zu Beginn eines jeden Zyklus gelegten peripheren oder zentralen Venenkatheter (ZVK) erfolgt, über den Tag verteilt, eine Infusion großer Flüssigkeitsmengen (Hyperhydration). Erfolgt eine Therapie über ganze vier Zyklen, kann die Infusion vorzugsweise über einen implantierten Port verabreicht werden. Primär besteht ein Zyklus aus einer täglichen Infusion der Wirkstoffe Cisplatin und Etoposid in den ersten fünf Tagen. Zentral ist die Infusion des Wirkstoffs Cisplatin, welcher von einer Vor- und Nachspülung mit Ringer- und Kochsalzlösung begleitet wird. Außerdem wird über die Infusion ein starkes Mittel gegen Übelkeit (Antiemetikum) verabreicht. An den Tagen 1, 8 und 15 wird Bleomycin injiziert, welches einen metallartigen Geschmack im Mund auslösen kann.
+Nebenwirkungen der genannten Chemotherapie halten sich verhältnismäßig in Grenzen. Haarausfall erfolgt zum Ende des ersten Zyklus, je nach Typ auch etwas später. Übelkeit ist in gewissem Ausmaß häufig vorhanden, führt jedoch relativ selten zu Erbrechen. Nahrungsaufnahme ist meistens, wenn auch mit bestimmten Aversionen, gut möglich. Nach den jeweils ersten fünf Tagen eines Zyklus fühlt sich der Patient sehr schwach. Dieser Effekt nimmt von Zyklus zu Zyklus zu. Gegen Ende oder nach der Chemotherapie kommt es häufig, insbesondere wenn vier Zyklen verabreicht worden sind, zu einer Polyneuropathie an den Fingern und/oder den Füßen.
+Die Kombinationstherapie mit Cisplatin gegen Hodenkrebs wurde ab den 1970er Jahren von Lawrence H. Einhorn entwickelt.
+
+
+== Andere Therapiestrategien ==
+Alternativ zu obigen Methoden kann in frühen Stadien auch eine Wait-and-see-Strategie oder „Watchful Waiting“ (Abwarten mit engmaschiger Nachkontrolle) gewählt werden.
+1996 gab die Deutsche Krebsgesellschaft bei der „interdisziplinären Arbeitsgruppe Hodentumore“ (IAH) Diagnose- und Therapieleitlinien in Auftrag, um die Versorgungsqualität und Therapieerfolge zu verbessern. Damit wurde erstmals ein Therapiestandard für Urologen gesetzt, der seither stetig aktualisiert wird.
+Um bei der geringen Fallzahl (auf rund 4000 Urologen in Deutschland kommen rund 4000 Fälle) zusätzlich die Behandlungserfahrung von niedergelassenen Ärzten auszuprägen, hat die urologische Sektion der Deutschen Studiengruppe Hodentumoren 2006 ein Zweitmeinungsprojekt ins Leben gerufen. Unter „zm-hodentumor.de“ können Ärzte ihre Patientenfälle und Therapievorschläge dokumentieren und erhalten umgehend von einem Arzt mit ausgeprägter Erfahrung (ZMZ-Arzt) eine einmalige Beratung, die sogenannte Zweitmeinung, zu diesem Vorschlag.
+
+
+== Weblinks ==
+hodenkrebs.de Interdisziplinäre Arbeitsgruppe Hodentumor
+www.zm-hodentumor.de Projekt Zweitmeinung Hodentumor
+Informationen zu Hodenkrebs. krebsdaten.de, Zentrum für Krebsregisterdaten im Robert Koch-Institut
+
+
+== Einzelnachweise ==

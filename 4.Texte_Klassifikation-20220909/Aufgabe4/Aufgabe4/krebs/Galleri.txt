@@ -1,0 +1,17 @@
+Galleri ist die Bezeichnung für einen neu entwickelten Bluttest der US-Firma Grail, mit dem die Früherkennung von über 50 Krebsarten möglich wird.
+
+
+== Entwicklung ==
+In den 1990er Jahren entdeckte der chinesische Genetiker Dennis Lo, dass im Blut von Schwangeren vermehrt DNA vorkommt, die von dem Kind im Mutterleib stammt. Diese Entdeckung machte es möglich, überzählige Chromosomen des Fötus im mütterlichen Blut nachzuweisen. Das führte zur Entwicklung eines Bluttests zur pränatalen Erkennung des Down-Syndroms, der seit 2011 weltweit zum Einsatz kommt. 
+2012 wurde allerdings festgestellt, dass dieser Bluttest zu falsch-positiven Ergebnissen führen kann, wenn bei der Mutter eine Krebserkrankung vorliegt. Die US-Firma Illumina konnte nachweisen, dass in diesen Fällen die DNA in der Blutprobe nicht von dem werdenden Kind stammte, sondern aus dem Tumor der Mutter. Daraus entstand die Idee, einen Bluttest zum Nachweis von Krebszellen-DNA zu entwickeln. Dafür wurde 2016 die Firma Grail gegründet, an der neben Illumina auch Bill Gates und Jeff Bezos als Investoren beteiligt sind. Auch andere Unternehmen arbeiten inzwischen an ähnlichen Testsystemen.
+2021 hat ein Großversuch mit Galleri beim britischen National Health Service begonnen, der zeigen soll, wie gut die Früherkennung von Krebs mit diesem Testsystem in der praktischen Anwendung wirklich funktioniert. In den USA wird der Test bereits verkauft.
+
+
+== Weblinks ==
+Flüssigbiopsie: Bluttest soll mehr als 50 Krebsarten erfassen.
+Bluttest zur Krebsfrüherkennung? Liquid Biopsy-Verfahren in der Krebsdiagnostik.
+Galleri cancer test: What is it and who can get it?
+Bluttest zur Krebsfrüherkennung?
+
+
+== Einzelnachweise ==

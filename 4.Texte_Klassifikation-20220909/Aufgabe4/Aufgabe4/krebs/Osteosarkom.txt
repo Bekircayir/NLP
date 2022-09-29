@@ -1,0 +1,94 @@
+Das Osteosarkom, auch osteogenes Sarkom genannt, ist der häufigste primäre bösartige Knochentumor, im Volksmund häufig, aber medizinisch nicht ganz korrekt, als „Knochenkrebs“ bezeichnet. Seine proliferierenden Zellen sind fähig, Knochen und Osteoid (unverkalkte Knochengrundsubstanz) zu bilden. Das Osteosarkom zeichnet sich durch aggressives Wachstum mit Zerstörung des umliegenden Knochens und gegebenenfalls Gelenks aus. Es metastasiert frühzeitig über die Blutbahn (hämatogen) in die Lunge. Zum Zeitpunkt der Diagnosestellung haben bereits 20 % der Patienten Metastasen und geschätzt etwa weitere 60 % nicht sichtbare Mikrometastasen.
+
+
+== Häufigkeit, Lokalisation ==
+
+Die Inzidenz beträgt in Mitteleuropa etwa 0,2–0,3 pro 100.000. Diese Krebsart gehört damit zu den selteneren Krebsarten. Auf ganz Deutschland hochgerechnet ergeben sich etwa 200 Neuerkrankungen pro Jahr, in der Schweiz und Österreich jeweils ca. 10 bis 15 Fälle pro Jahr. Das mediane Erkrankungsalter liegt bei 18 Jahren, und die meisten Erkrankungen werden in der Altersgruppe zwischen dem 10. und 25. Lebensjahr diagnostiziert. Männliche Patienten sind etwas häufiger betroffen. Das Osteosarkom ist damit der häufigste bösartige solide Tumor des Jugendalters.
+Osteosarkome entstehen vorwiegend gelenknah in den langen Röhrenknochen (Oberschenkel, Oberarm, Schienbein) des Skelettsystems. 50 % der Osteosarkome befinden sich in direkter Nähe zum Kniegelenk und etwa 10 % in Nähe des Schultergelenks. Eine Lokalisation am Schädelknochen oder an der Wirbelsäule findet man dagegen selten.
+Auch historisch und prähistorisch hat man die typischen Veränderungen am Skelett nachweisen können. Der älteste Nachweis eines Osteosarkoms bei einem Vorfahren des Menschen – vermutlich aus der Gattung Australopithecus – stammt von einem 1,7 Millionen Jahre alten Fossil aus Südafrika, von dem ein geschädigter Fußknochen erhalten geblieben ist.
+
+
+== Ätiologie ==
+Eine der möglichen Ursachen eines Osteosarkoms ist eine vorausgehende Strahlentherapie oder radioaktive Exposition. In einer Kohortenstudie über mehr als vierzig Jahre an über 80.000 Überlebenden der Atombombenabwürfe in Hiroshima und Nagasaki zeigte sich ein linear zunehmendes Risiko für die Entwicklung eines bösartigen Knochenkrebses mit einem relativen Risiko von 7,5 pro Gray Bestrahlung ab einem unteren Grenzwert von 0,85 Gray aufwärts.
+
+
+== Klassifikation/Subklassifikation ==
+
+
+=== Zentrales (medulläres) Osteosarkom ===
+klassisches Osteosarkom (chondroblastisch, fibroblastisch, osteoblastisch)
+teleangiektatisches Osteosarkom
+gut differenziertes zentrales (low-grade) Osteosarkom
+kleinzelliges Osteosarkom
+
+
+=== Oberflächliches (peripheres) Osteosarkom ===
+parosteales Osteosarkom
+periosteales Osteosarkom
+high-grade OsteosarkomAls sekundäre Erkrankung kann das Osteosarkom auftreten nach früherer Strahlenexposition und bei der Erkrankung Osteodystrophia deformans Paget.
+
+
+== Histologie ==
+Histologisch sind die Zellen des Osteosarkoms hochgradig polymorph und unregelmäßig. Kennzeichnend ist, dass die Tumoren primitive Knochensubstanz (Osteoid) synthetisieren, ohne dass man eine Knorpelmatrix erkennen kann.
+
+
+== Diagnostik ==
+
+Röntgenbild
+Probenentnahme (Biopsie) und feingewebliche Untersuchung
+Magnetresonanztomographie (MRT) ist zur Beurteilung der Ausbreitung im Gewebe wichtig.
+Skelettszintigraphie und Computertomographie der Lungen (CT) sind für die Metastasen-Suche notwendig.Gerade das Auftreten im Jugendalter führt häufig zu Fehldiagnosen. Daher sollten Knochenschmerzen, gerade im Kniegelenk, spätestens nach vier Wochen mittels Röntgenuntersuchung kontrolliert werden.
+
+
+== Therapie ==
+Vereinfachte Übersicht in zeitlicher Reihenfolge:
+
+Biopsie (Gewebeprobe aus verdächtigem Areal)
+Präoperative Chemotherapie (neoadjuvante Therapie, das heißt vor der Operation wird eine Chemotherapie verabreicht)
+Operation mit vollständiger Entfernung des Tumors
+Postoperative (adjuvante) Chemotherapie, ggf. zusammen mit Immunmodulator (Mifamurtid)Detaillierte Übersicht:
+
+neoadjuvante Chemotherapie nach Studienprotokoll (COSS, EURAMOS, EUROBOSS) in einem onkologischen ZentrumNach der neoadjuvanten Chemotherapie werden erneut Biopsien hinsichtlich Tumorgröße, Tumortyp, Resektionsstatus und Regressionsgrad untersucht. Zur Bestimmung des Regressionsgrades ist eine Aufarbeitung einer Tumorscheibe im größten Durchmesser notwendig. Entscheidend ist, wie viel Residualtumor man in dieser Scheibe findet (Responder: weniger als 10 % Resttumor). Damit ist eine Vorhersage möglich, inwieweit ein Substanzwechsel bei Auftreten von Metastasen angezeigt ist.
+
+Entfernung des Tumors im Gesunden, d. h., es wird rund um den Tumor augenscheinlich gesundes Gewebe mit entferntDie Menge gesunden Gewebes variiert, 2 cm bei Knochen bis zu einer Fettlamelle (1 mm) bei Gefäß/Nerven. Das kann je nach Ort des Auftretens des Tumors und Kontakt zu den Gefäß-Nerven als wichtigste Struktur zu großen verbleibenden Defekten führen, die auf verschiedene Arten rekonstruiert werden können:
+A) Biologisch
+
+Knochenverkürzung, Rotationsplastik, Amputation
+Knochentransplantation mit eigenem Knochen mit oder ohne Gefäßanbindung, Schwenkungen (Clavikula pro humero)
+Fremdknochentransplantation (Allograft)
+Replantation von „z. B. strahlensterilisierten“ eigenen KnochenB) Endoprothetisch
+
+Tumormegaendoprothesen
+adjuvante Chemotherapie, um das Metastasierungsrisiko zu senken (unter Umständen auch operative Entfernung der Metastasen)
+ggf. zusätzlich Mifamurtid (Immunmodulator, seit 2009 in der EU zugelassen)
+Tumornachsorge alle 3 Monate mittels Thorax-CT zur Aufdeckung evtl. Lungenmetastasen und des OP-Gebietes für 2 Jahre
+Tumornachsorge alle 6 Monate mittels Thorax-CT zur Aufdeckung evtl. Lungenmetastasen und des OP-Gebietes für weitere 3 Jahre
+Tumornachsorge alle 12 Monate mittels Thorax-CT zur Aufdeckung evtl. Lungenmetastasen und des OP-Gebietes für weitere 5 JahreTumoren können nur mit einer neoadjuvanten Chemotherapie behandelt werden. Eine Ausnahme bilden die sehr seltenen parossalen Osteosarkome (G1), deren Teilungs- und Metastasierungsgeschwindigkeit als sehr gering eingestuft wird.
+Es erfolgt eine operative Entfernung aller Tumoren (Primarius und Metastasen) im Gesunden (= mit Sicherheitsabstand).
+Das Osteosarkom ist wenig strahlensensibel, so dass Bestrahlung in der Regel nicht genutzt wird.
+
+
+== Verlauf und Prognose ==
+Unter Therapie beträgt die 5-Jahres-Überlebens-Rate durchschnittlich 70 %. Lungenmetastasen sind ein schlechtes prognostisches Zeichen. Allerdings können Lungenmetastasen durch eine Operation saniert werden, so dass auch Patienten mit Lungenmetastasen eine Heilung erreichen können.
+Wichtigster Prognosefaktor ist das Ansprechen auf die Chemotherapie (COSS-Schema): Falls die Chemotherapie nicht anschlägt, das heißt, weniger als 90 % der Tumorzellen abgetötet werden konnten, beträgt die Überlebenschance unter 50 %. Die Anzahl der abgetöteten Zellen wird nach dem Abschluss der präoperativen Chemotherapie am Operationspräparat (tumortragender Knochen) festgelegt. Fast immer muss eine Endoprothese eingepflanzt oder die Umkehrplastik angewendet werden.
+
+
+== Osteosarkom in der Veterinärmedizin ==
+
+Veterinärmedizinisch tritt das Osteosarkom insbesondere bei großen Hunderassen gehäuft auf. Betroffen ist v. a. die mittlere Alterskategorie, wobei einige Studien auch eine Prädisposition für kastrierte Tiere beschreiben. Das Osteosarkom zeigt sich dabei klinisch meist als schmerzhafte Schwellung an den langen Röhrenknochen nach dem Grundsatz Ellbogengelenksfern – Kniegelenksnah. Auf einer Röntgenaufnahme ist dabei üblicherweise eine Knochenauflösung (Osteolyse) im typischen sunburst pattern zu sehen.
+Die Prognose bei caninem Osteosarkom ist sehr schlecht. Meist sind bei der Diagnose bereits (mikroskopische oder makroskopische) Lungenmetastasen vorhanden. Amputation, Radiotherapie und Chemotherapie sind mögliche Behandlungsmaßnahmen, aber üblicherweise rein palliativ.
+Bei einigen Rassen (Bernhardiner, Deerhound) wurde daneben eine familiäre Häufung von Osteosarkom-Fällen beschrieben. Daneben sind bei Hunden auch diverse Genmutationen bekannt, welche das Osteosarkom-Risiko erhöhen.
+
+
+== Weblinks ==
+
+
+== Quellen ==
+Der Orthopäde 11/2003: Operative Therapie primär maligner Knochentumoren.
+Der Onkologe 2/2006: Aktuelle Entwicklungen in der Chemotherapie des Osteosarkoms.
+Uhl/Herget: Radiologische Diagnostik von Knochentumoren. Thieme-Verlag 2008
+Seeber/Schütte: Therapiekonzepte Onkologie. Kap 46: Osteosarkom. 5. Auflage 2007. Springer-Verlag, ISBN 978-3-540-28588-5
+Diagnostik und Therapie des Osteosarkoms
+
+
+== Einzelnachweise ==

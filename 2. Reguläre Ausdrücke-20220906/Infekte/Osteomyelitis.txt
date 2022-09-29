@@ -1,0 +1,88 @@
+Die Osteomyelitis (Mehrzahl Osteomyelitiden; von altgriechisch ὀστέον, ostéon, Mehrzahl ὀστέα ostéa, „Knochen“ [vergleiche lateinisch-anatomisch os, ossis], griechisch μυελός, myelós, „Mark“ und -itis) oder Knochenmarksentzündung ist eine infektiöse Entzündung des Knochenmarks. Der Begriff der Osteomyelitis wird zunehmend durch den Begriff Osteitis oder Ostitis (Knochenentzündung) ersetzt, da es sich in der Mehrheit der Fälle nicht nur um eine Entzündung des Knochenmarkes, sondern aller Anteile des Knochens handelt.
+
+
+== Ursachen ==
+Ursachen sind in den meisten Fällen offene Knochenbrüche und Operationen am Skelett, die zur Kontamination mit Bakterien führen. Die Einschwemmung von Erregern über den Blutweg oder die Fortleitung eines benachbarten Infektionsherdes sind aufgrund der besonderen Durchblutungssituation in der noch nicht verschlossenen Wachstumsfuge Auslöser vor allem der akuten Osteomyelitis im Kindesalter. Neben bakteriellen Osteomyelitiden treten in seltenen Fällen auch solche auf, die von Pilzen und Viren verursacht sind. Die akute Erkrankung kann bei unangemessener Therapie chronisch werden und zu sehr langwierigen Verläufen führen. Die Therapie ist fast immer chirurgisch-operativ.
+
+
+== Erreger ==
+Staphylococcus aureus (75–80 %)
+β-hämolysierende A-Streptokokken
+andere Bakterien
+Viren
+Pilze
+
+
+== Differentialdiagnose ==
+Das Ewing-Sarkom kann sich in seiner frühen Symptomatik ähnlich wie eine Osteomyelitis äußern. Schmerzen, lokaler Druckschmerz, Entzündungszeichen im Laborbefund und auf dem Röntgenbild eher undeutliche Veränderungen der Knochenbinnenstruktur. Die Differentialdiagnose kann meist nur mit der MRT gestellt werden. Das sich daraus ergebende operative Vorgehen ist wesentlich anders als bei der Osteomyelitis.
+Der Charcot-Fuß bzw. die diabetische Osteoarthropathie imponiert im akuten Stadium ähnlich wie eine Osteomyelitis. Der betroffene Fuß ist überwärmt und deformiert, allerdings fast schmerzfrei. Teils liegen offene, eitrige, aber fast schmerzlose Wunden vor. In der bildgebenden Diagnostik auffallend sind eventuell typische Knochenveränderungen. Die Kernspintomographie zeigt typische Markraumödeme. Die Leukozytenszintigraphie kann eine Osteomyelitis ausschließen. In der Anamnese und Untersuchung hinweisend ist ein Diabetes mellitus sowie die Schmerzarmut bis -freiheit sowie das Fehlen eines adäquaten Traumas.Abzugrenzen ist die grundsätzlich ohne nachweisbaren Erreger verlaufende, nahezu ausschließlich im Kindesalter auftretende Chronisch rekurrierende multifokale Osteomyelitis (CRMO).
+
+
+== Klassifikation der Osteomyelitis nach Verlauf ==
+
+
+=== Akute Osteomyelitis ===
+Postoperativ spricht man auch von einem Frühinfekt. Nicht immer kommt es zu einem akuten klinischen Geschehen. Es finden sich dann zum Beispiel lokale Entzündungszeichen im OP-Gebiet (Rötung, Schwellung, Schmerzen, Erwärmung). Im Laborbefund sind die Entzündungsparameter erhöht, die Körpertemperatur steigt an.
+Bei Kindern gibt es auch eine schleichende Form, den Brodie-Abszess.
+Zur akuten hämatogenen Osteomyelitis und zum Brodie-Abszess siehe auch weiter unten.
+
+
+=== Chronische Osteomyelitis ===
+Die chronische Osteomyelitis weist im Gegensatz zur akuten eine Krankheitsdauer von über Monaten auf.
+Der Körper reagiert auf die Infektion, indem er versucht, den erkrankten, infizierten Bereich abzuschotten. Um den abgestorbenen Knochen bildet sich eine Art Kapsel aus hartem Material (sog. „Totenlade“). Innerhalb dieser leben die Bakterien weiter, unerreichbar für jedes Medikament. Abhängig vom Verlauf der Krankheit kann so eine Region über längere Zeit ruhig sein, sie kann aber auch wiederholt nach außen durchbrechen und den Eiter über eine Fistel entleeren. Das Röntgenbild zeigt typische Veränderungen der Knochenstruktur; allgemein wird sie als „grobwabig“ beschrieben. Die Laborparameter der Entzündung sind häufig weniger ausgeprägt als bei der akuten Form. Die Patienten klagen über anhaltende Schmerzen und Funktionseinbußen der betroffenen Körperteile.
+Chronische Infektionen des Knochens gelten generell als sehr schwer behandelbar und sind nur unter großem Aufwand heilbar. Der Hauptgrund dafür, dass übliche antimikrobielle Therapien meist versagen, liegt in der Bildung so genannter Biofilme auf Oberflächen von abgestorbenen Knochenanteilen oder Fremdimplantaten. Zahlreiche Bakterien sind in der Lage, solche Biofilme auszubilden. Kommen derartige Keime in Kontakt mit schlecht durchbluteten Knochen oder Fremdkörpern, so benötigen sie zumeist nur Stunden bis zur Umwandlung aus der freien (planktonischen) in die anhaftende (sessile) Form mit Ausbildung einer Art Schleimhülle. Innerhalb dieser Umhüllung verlangsamen sie ihr Wachstum und sind von den meisten Umgebungseinflüssen weitgehend abgeschottet, darunter auch der Wirkung von Abwehrzellen und Antibiotika.
+Frei lebende (planktonische) Keime können durch Antibiotika und das Immunsystem abgetötet werden. Anhaftende Keime jedoch überleben innerhalb des Biofilms, da sie nur mit extrem hohen Dosen von Antibiotika angreifbar sind, die mit systemischer Gabe nicht erreicht werden können.
+Oft bilden die im Mikrofilm geborgenen Keime über Jahre hinweg keine oder nur geringfügige Symptome aus, werden dann aber aus unvorhersehbaren Gründen wieder aktiv.
+In mehreren Untersuchungen konnte mittlerweile nachgewiesen werden, dass Film-Besiedelungen wesentlich häufiger sind als bisher angenommen und Ursache für viele „aseptische“ Lockerungen von Implantaten, aber auch für nicht klar zuordenbare Beschwerden sein können (Culture Negative Orthopedic Biofilm Infections).
+
+
+== Klassifikation der Osteomyelitis nach der Ätiologie ==
+
+
+=== Posttraumatische und postoperative Osteomyelitis ===
+Die nach einer Verletzung auftretende posttraumatische Osteomyelitis ist durch Knochenbrüche bedingt. Brüche, bei denen der Knochen die Haut durchdringt, werden „offene Brüche“ genannt, die – etwa nach Gustilo – in verschiedene Schweregrade eingeteilt wird. Je nachdem, wo und wie der Unfall passiert ist, kann die Wunde kontaminiert oder infiziert sein. Bakterien dringen in den Knochen ein und finden nahezu ideale Bedingungen vor. Wird ein Knochenbruch osteosynthetisch versorgt, bedeutet das, dass Fremdmaterial in den Körper eingebracht wird. In der unmittelbaren Umgebung dieses Fremdmaterials finden sich Nischen, in denen die Abwehrmechanismen des Körpers nicht ausreichend wirksam sind. Auch hier finden Bakterien, wenn sie eingedrungen sind, beste Voraussetzungen für eine Besiedlung vor.
+Bei Osteomyelitiden nach einer Operation wegen Frakturen oder Unfällen spricht man von postoperativer Osteomyelitis.
+
+
+=== Hämatogene oder endogene Osteomyelitis ===
+Bei der endogenen Osteomyelitis, auch hämatogene Osteomyelitis genannt, werden die Keime von einem Infektionsherd außerhalb des Knochens, z. B. aus den Kieferhöhlen, über den Blutweg in das Knochenmark verschleppt und siedeln sich dort an.
+Die akute hämatogene Osteomyelitis mit einer Krankheitsdauer von unter sechs Monaten tritt gewöhnlich bei Kindern aller Altersstufen (mit jeweils unterschiedlichem Erregerspektrum) und gelegentlich bei Erwachsenen auf. Besonders gefürchtet ist die endogene Osteomyelitis bei Säuglingen und Kleinkindern bis zum zweiten Lebensjahr, da sie sich hier – auf Grund der speziellen Durchblutungsverhältnisse im Knochen – ungehindert auf benachbarte Gelenke ausbreiten kann.
+
+
+=== Fortgeleitete Osteomyelitis ===
+Bei der operativen Knochenbruchbehandlung (nach den Vorgaben der Arbeitsgemeinschaft Osteosynthese, AO / AO-ASIF) wird Fremdmaterial in den Körper eingebracht. Das sind zum einen Lochplatten und Schrauben, zum anderen Nägel und Bohrdrähte oder die Kombinationen beider Typen. In der unmittelbaren Umgebung dieses Fremdmaterials liegen Zonen, in denen die Immunabwehr des Körpers keine Möglichkeit hat, etwas gegen eingedrungene Keime zu unternehmen. Unter ungünstigen Umständen kann es entlang der am Knochen verschraubten Platte zur Ausbreitung dieser Infektion über den ganzen, von der Verletzung und der nachfolgenden Operation betroffenen Bereich kommen. Ein durchaus vergleichbarer Vorgang kann sich auch an Gelenk-Prothesen (Endoprothesen) ereignen; auch hier breiten sich die Keime wie entlang einer Leitschiene aus und man spricht von einer sogenannten Protheseninfektion, wobei man früh auftretende, verzögert auftretende und spät auftretenden Infektionen unterscheidet.
+
+
+=== Spezifische Osteomyelitiden ===
+Von den Pathologen der frühen Jahre wurden Tuberkulose, Syphilis und Krebs zu den „spezifischen Entzündungen“ zusammengefasst. Die Gemeinsamkeiten dieser Erkrankungen: Sie waren im Prinzip unheilbar und ergaben im Gewebe bei der mikroskopischen Untersuchung ein bestimmtes – „spezifisches“ – Bild.
+Glücklicherweise ist die Syphilis mit ihren Spätfolgen in den westlichen Ländern nur noch von historischem Interesse. Die tabische Arthropathie ist eine sehr schwere Gelenkveränderung, die als Folge der Syphilis im dritten Stadium (L III) auftritt. Die Forschung der letzten Jahrzehnte hat „den Krebs“ in eine Unzahl verschiedener Erkrankungen aufgegliedert, so dass es sich heutzutage verbietet, all diese Erkrankungen zusammenzufassen. Was geblieben ist, ist die Tuberkulose (TB). Auch weiterhin ist die TB eine recht häufige Erkrankung; in manchen Untersuchungen wird angegeben, dass 50 % der Menschen, die älter als 60 Jahre sind, schon einmal eine Tuberkulose hatten. Auf dem Blutweg gelangt der Erreger auch in das Skelettsystem und kann sich dort ansiedeln. Häufig geschieht das in der Wirbelsäule und man spricht dann von einer vertebralen Osteomyelitis oder Spondylodiszitis. Die Behandlungsverfahren unterscheiden sich nicht grundlegend von den Verfahren bei der „normalen“ Osteomyelitis, nur wird das bei Operationen entfernte Material als hoch infektiös und gefährlich gehandhabt.
+
+
+=== Odontogene Osteomyelitis ===
+
+Vom Zahnsystem ausgehend kann sich eine periapikale Ostitis (Knochenentzündung) zu einer Osteomyelitis entwickeln. Andere mögliche Ursachen sind parodontale Infekte oder eine Ostitis nach einer Zahnextraktion (Zahnentfernung). Ebenso kann eine Ober- als auch eine Unterkieferfraktur die Ursache einer Osteomyelitis sein. Eines der Symptome ist das Vincent-Symptom, eine Sensibilitätsstörung im Versorgungsgebiet des Nervus alveolaris inferior.
+
+
+=== Sonderformen ===
+Der Brodie-Abszess ist eine besondere Form der „hämatogenen Osteomyelitis“ im Kindesalter. Die Symptome sind eher gering ausgeprägt; auch der Laborbefund zeigt keine schweren Veränderungen, wie sie sonst bei einer Osteomyelitis erwartet würden. Was auffällt, ist eine umschriebene, druckschmerzhafte Schwellung, meistens im Schaftbereich eines langen Röhrenknochens. Die Diagnosestellung bereitet hier Probleme. Kinder verletzen sich oft – gerade das Schienbein ist häufig betroffen – und jede Beule zum Anlass einer umfassenden Röntgendiagnostik zu nehmen, ist sicherlich kritisch zu sehen. Im Röntgenbild, sofern denn eines angefertigt wurde, ist das Periost im betroffenen Bereich abgehoben; der Knochen hat hier einen zusätzlichen Saum. Die weitere Diagnostik sollte dann über die Magnetresonanztomografie (MRT) laufen, da hier Veränderungen des Knochenstoffwechsels sehr früh deutlich zu sehen sind.
+
+
+== Behandlung ==
+Ein frühzeitiger Therapiebeginn (zunächst kalkuliert) ist bei Infektionen von Knochen und Gelenken für die Prognose entscheidend. Die Behandlung von Osteomyelitiden ist in der Regel langwierig. Bei Frühinfekten steht die Sanierung einer eventuellen Wunde und Osteosynthese im Vordergrund. Die Stabilitätsprüfung ist wichtiger Bestandteil der Behandlung, ggf. muss auf alternative Verfahren zur Stabilisierung eines Knochenbruches übergegangen werden. Die Deutsche Gesellschaft für Mund-, Kiefer- und Gesichtschirurgie hat in ihrer AWMF-Leitlinie von 2008 neben operativen auch konservative Behandlungsmethoden untersucht. Hierunter finden sich neben Wundpflege und Antibiotikatherapie mit bakteriziden Antibiotike mit guter Gewebegängigkeit, auch hyperbare Sauerstofftherapie und Spül- und Saugdraignagen.
+Bei chronischen Verläufen müssen etwa vorhandene Fisteln ausgeschnitten werden sowie minderdurchblutetes Narbengewebe und Knochen entfernt werden. Nachdem der infizierte Knochen ausgeräumt ist, werden meist Antibiotikaträger eingelegt. Während früher Ketten aus Gentamicin-haltigen Plastikperlen verwendet wurden, geht die Tendenz aktuell zu resorbierbaren (auflösbaren) Antibiotikaträgern (Schwämme u. ä.), die nicht entfernt werden müssen und lokal weniger mechanische Komplikationen verursachen. Der Vorteil der Antibiotikaträger liegt in lokal hohen Wirkspiegeln des Antibiotikums. Zum Auffüllen eines Defektes im Knochen müssen unter Umständen Knochentransplantationen durchgeführt werden. Häufig sind mehrere Revisionen nötig.
+Neue Behandlungsmethoden basieren auf der Verwendung von Antibiotika-imprägnierten Knochentransplantaten. Damit werden noch höhere lokale Wirkspiegel erzielt und alle Hohlräume können sofort und vollständig gefüllt werden. Da die Knochentransplantate allmählich durch eigenen, gesunden Knochen ersetzt werden, erübrigen sich Entfernung von Ketten und nachträgliche Rekonstruktion, wodurch zumindest eine Operation eingespart wird. Die hohen lokalen Wirkspiegel ermöglichen auch die gleichzeitige Verwendung von metallischen Implantaten zur Stabilisierung oder Ersatz eines Gelenks, wodurch eine rasche Rehabilitation möglich ist. Auch verbesserte Langzeitergebnisse erscheinen mit den neuen Technologien möglich.
+
+
+== Literatur ==
+E. F. Berbasi, J. M. Steckelberg, D. R. Osmon: Osteomyelitis. In: Mandel, Douglas and Bennett’s Principles and Practice of Infectious Diseases. 6. Auflage. 2005.
+C. Burri: Posttraumatische Osteitis. 2. Auflage. Huber, Bern/ Stuttgart/ Wien 1979, ISBN 3-456-80644-2.
+J. R. Döhler, M.-L. Hansmann: Plasmazelluläre und sklerosierende Osteomyelitis. Eine Nachuntersuchung von 21 Patienten. In: Der Chirurg. 64 (1993), S. 190–194.
+L. Kinzl, G. Bauer, W. Fleischmann (Hrsg.): Diagnostik und Therapie der posttraumatischen Osteitis. (= Hefte zu Der Unfallchirurg. Band 255). Springer-Verlag, Berlin/ Heidelberg/ New York 1995, ISBN 3-540-60123-6.
+Gerhard Walter u. a.: Behandlungsalgorithmen der chronischen Osteomyelitis. In: Dtsch Arztebl Int. Nr. 109 (14), 2012, S. 257–264 (Übersichtsarbeit). Leitlinien
+
+S2-Leitlinie Osteomyelitis der Deutschen Gesellschaft für Mund-, Kiefer- und Gesichtschirurgie (DGMKG). In: AWMF online (Stand 2008)
+S1-Leitlinie Akute hämatogene Osteomyelitis und bakterielle Arthritis der Deutschen Gesellschaft für Kinder- und Jugendmedizin (DGKJ). In: AWMF online (Stand 2013)
+S1-Leitlinie Chronisch nicht-bakterielle Osteomyelitis der Deutschen Gesellschaft für Kinder- und Jugendmedizin (DGKJ). In: AWMF online (Stand 2013)
+
+
+== Einzelnachweise ==

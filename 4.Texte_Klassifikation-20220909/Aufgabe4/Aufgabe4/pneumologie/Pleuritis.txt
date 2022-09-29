@@ -1,0 +1,59 @@
+Eine Pleuritis oder Pleuraentzündung (Rippenfellentzündung oder Brustfellentzündung, Mehrzahl Pleuritiden) ist eine Entzündung der Pleura (Rippen- oder Brustfell). Die Pleura überzieht die Lunge und kleidet den Brustraum von innen aus. Rippenfellentzündungen machen sich typischerweise durch atemabhängige Schmerzen meist auf einer Seite des Brustkorbes bemerkbar. Pleuritiden können ein Zeichen zugrunde liegender Erkrankungen sein und beeinträchtigen das Allgemeinbefinden wegen ihrer Schmerzhaftigkeit erheblich. Die früher häufige tuberkulöse Pleuritis ist in Westeuropa sehr selten geworden. Die Ursache der infektiösen Pleuritis bleibt meist ungeklärt, da eine invasive Diagnostik bei gutartigem Verlauf nicht angezeigt ist. Besonders häufig sind Säuglinge im ersten Lebensjahr sowie Menschen nach dem 65. Lebensjahr betroffen.
+
+
+== Einteilung ==
+Die Pleuritis wird anhand des Schweregrades in verschiedene Formen (leichtgradig bis schwergradig) oder anhand des zeitlichen Verlaufes in eine akute (plötzlich auftretende) oder chronische (länger verlaufende) Form eingeteilt. Von den möglichen Ursachen ausgehend kann man versuchen, eine Unterscheidung zwischen einer infektiösen und einer nichtinfektiösen Form zu treffen:
+
+Infektiöse Formen sind bakteriell, viral oder mykotisch (durch Pilze) bedingt, zum Beispiel bei Lungenentzündungen, Pleuraempyem oder Tuberkulose.
+Nichtinfektiöse Formen treten im Rahmen einer Pankreatitis, einer Lungenembolie, Pneumonie oder Pleurakarzinose (Tumorbefall des Rippenfells) sowie bei rheumatischen Erkrankungen, postoperativ oder -traumatisch sowie nach Instillation von pleurareizenden Medikamenten auf.Anhand des begleitenden Pleuraergusses kann man eine trockene Pleurits (Pleuritis sicca) von einer feuchten Pleuritis (Pleuritis exsudativa) unterscheiden. Bei den meisten trockenen Pleuritiden erkennt man im Ultraschall trotzdem einen minimalen Erguss, so dass eine solche Einteilung nicht streng vorgenommen werden kann.
+
+
+== Symptome ==
+Entscheidendes Symptom der schon im Altertum beschriebenen Pleuritis (früher auch Seitenkrankheit genannt) ist der (sich deutlich von stenokardischen, intercostalneuralgischen und muskelrheumatischen Schmerzen unterscheidende) atemabhängige Schmerz im Brustkorb, vor allem bei der Pleuritis sicca (trockene Pleuritis, die Entzündung der Pleura ohne Ausschwitzung eines Exsudates). Weiteres Symptom dieses Stadiums und pathognomonisches Zeichen der Pleuritis sicca ist das mittels Auskultation vernehmbare Pleurareiben (auch „Lederknarren“ und „Schneeball-Knirschen“ genannt) der beiden aufeinander reibenden Pleurateile. Der Schmerz kann rechts, links, beidseits, vorne oder hinten im Brustkorb auftreten. Allerdings kann eine Pleuritis auch ohne Schmerzen einhergehen, insbesondere wenn durch einen schon fortgeschrittenen begleitenden Pleuraerguss kein Reiben der Schleimhäute auftritt (Pleuritis exsudativa). Weitere unspezifische Symptome der Pleuritis können Fieber, Atemnot, Hustenreiz und eine Interkostalneuralgie sein.
+
+
+== Diagnostik ==
+Die ätiologische (ursächliche) Abklärung der Pleuritis kann erhebliche Schwierigkeiten bereiten, da eine Vielzahl infektiöser oder nichtinfektiöser Erkrankungen zu Grunde liegen kann. Zudem müssen differenzialdiagnostisch zahlreiche Gründe für einen thorakalen Schmerz bedacht werden.
+
+
+=== Basisdiagnostik ===
+charakteristische Beschwerden mit schmerzhafter Ein- und Ausatmung
+Pleurareiben beim Abhören („Lederknarren“)
+Im Ultraschall oft kleiner Pleuraerguss und unregelmäßige Lungenkontur
+Fiebermessung, Laborwerte CRP, Blutbild, um den Entzündungsgrad zu erkennen
+
+
+=== Weitere Ursachenabklärung ===
+Beinvenenultraschall zum eventuellen Nachweis einer Thrombose
+Röntgen-Thorax zum Ausschluss einer Lungenentzündung
+gelegentlich Zytologie und Bakteriologie aus dem Pleurapunktat
+pH-Wert-Bestimmung der Pleuraflüssigkeit (Azidose bei komplizierten pleuralen Infektionen)
+Blutkultur bei hohem Fieber
+eventuell Tuberkulosediagnostik
+Rheumadiagnostik
+
+
+== Therapie ==
+Die Behandlung der einfachen unkomplizierten Pleuritis zielt auf eine Reduzierung oder Beseitigung der Schmerzen.
+Lässt sich eine Ursache erkennen, ist eine Behandlung der Grunderkrankung sinnvoll.
+
+Symptomatische Schmerzbehandlung mit Analgetika
+Hustenstillende Maßnahmen durch ein Antitussivum (nicht sinnvoll bei Auswurf)
+Ursächliche Therapie:
+Antibiotika bei bakterieller Pleuropneumonie oder bei eitriger Pleuritis
+Cortison bei rheumatischer Pleuritis
+Instillation eines Zytostatikums bei PleurakarzinoseManchmal muss ein größerer Pleuraerguss, der im Rahmen der Entzündung entstanden ist, punktiert werden. Bei einer eitrigen Pleuritis sind eine Spülung und eine Drainage des Pleuraraumes zusammen mit einer systemischen Antibiose sinnvoll. Bei starker Atemnot kann man Sauerstoff verabreichen.
+Der Patient sollte gezielte Atemgymnastik erhalten. Solange die Beschwerden anhalten, sollte der Körper so weit wie möglich geschont werden und anstrengende Tätigkeiten sowie Sport sollten vermieden werden.
+Die Lagerung beim Schlafen kann man dem Erkrankten selbst überlassen. Bei starken einseitigen Schmerzen wird er meist auf der betroffenen Seite liegen, da er so die gesunde Lunge freier bewegen und belüften kann. Andererseits wird die Lagerung auf der gesunden Seite empfohlen, um eine bessere Belüftung auf der (stärker) erkrankten Seite zu ermöglichen.
+
+
+== Verlauf ==
+Die Mehrzahl der Pleuritiden heilt folgenlos aus. Manche Pleuritiden führen zu narbigen Verklebungen. Eine eitrige oder tuberkulöse Pleuritis kann unbehandelt aber auch zum Tode führen.
+
+
+== Literatur ==
+Pleuritis. In: Marianne Abele-Horn: Antimikrobielle Therapie. Entscheidungshilfen zur Behandlung und Prophylaxe von Infektionskrankheiten. Unter Mitarbeit von Werner Heinz, Hartwig Klinker, Johann Schurz und August Stich, 2., überarbeitete und erweiterte Auflage. Peter Wiehl, Marburg 2009, ISBN 978-3-927219-14-4, S. 100.
+Klaus Holldack, Klaus Gahl: Auskultation und Perkussion. Inspektion und Palpation. Thieme, Stuttgart 1955; 10., neubearbeitete Auflage ebenda 1986, ISBN 3-13-352410-0, S. 84 f. und 91–94.
+
+
+== Einzelnachweise ==

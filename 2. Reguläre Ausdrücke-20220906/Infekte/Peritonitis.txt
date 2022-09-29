@@ -1,0 +1,105 @@
+Die Peritonitis oder Bauchfellentzündung ist eine lebensbedrohliche Entzündung des Bauchfells (Peritoneum). Ist die Peritonitis örtlich begrenzt, spricht man von einer lokalen Peritonitis. Betrifft sie das gesamte Peritoneum, handelt es sich um eine diffuse (generalisierte) Peritonitis.
+Eine Pseudoperitonitis, auch Scheinperitonitis genannt, tritt häufig im Krankheitsverlauf des diabetischen Komas, der akuten intermittierenden Porphyrie oder der Addison-Krise auf. Die Ursache ist weitgehend ungeklärt.
+
+
+== Symptome, Befund und Diagnostik ==
+Eine lokale Peritonitis verursacht einen meist starken, aber örtlich begrenzten Bauchschmerz (z. B. akute perforierte Appendizitis).
+Charakteristisch für eine diffuse Peritonitis ist neben starken akuten Bauchschmerzen eine zunehmende Abwehrspannung der gesamten Bauchmuskulatur, die sich bis zum brettharten Bauch steigern kann, und eine Störung der Darmfunktion.
+Die Peritonitis ist nur selten eine eigenständige Erkrankung, sondern ein seit dem 18. Jahrhundert näher beschriebenes Leit-Symptom. Die akute generalisierte Peritonitis äußert sich in einem akuten Abdomen mit paralytischem Ileus. Außerdem werden die Bauchbeschwerden aus unterschiedlichen Ursachen von Allgemeinbeschwerden begleitet. Diese können von Fieber, Übelkeit, Brechreiz, Erbrechen bis zur Schocksymptomatik und zum Multiorganversagen durch Mikrothrombenbildung ausgeprägt sein.
+Die Peritonitis kann in ambulant erworbene und nosokomiale Formen untergliedert werden sowie in:
+
+Primäre Peritonitis (unter anderem Peritonitis bei Leberzirrhose, Leberentzündung und Bauchwassersucht sowie spontane juvenile Peritonis hämatogenen Ursprungs)
+Sekundäre Peritonitis (mit etwa 80 % aller Peritonitiden die häufigste Form mit den Hauptursachen Perforation von Hohlorganen sowie Leckagen, etwa nach Magenperforation, akuter Gallenblasenentzündung oder perforierter Blinddarmentzündung sowie postoperative Peritonitis)
+Tertiäre Peritonitis (Anhaltende Peritonitis trotz adäquater chirurgischer und antimikrobieller Therapie).
+
+
+== Ursachen ==
+Die Peritonitis entsteht durch eine intraabdominelle Infektion. Nach der Ursache unterscheidet man die primäre, häufig spontan (hämatogen) bei einer systemischen Infektion entstehende, Peritonitis von der sekundären, meist vom Magen-Darm-Trakt ausgehenden, Perforations- oder Durchwanderungsperitonitis.Die häufigste Ursache der Peritonitis ist auch heute noch die akute perforierte Appendizitis. Die hierbei freigesetzten Keime sind meist Escherichia coli, Enterokokken, seltener Salmonellen, Strepto- oder Staphylokokken. 
+Die Gallenkolik wird von vielen Patienten immer noch als lästiges Symptom ihres bekannten Gallensteinleidens hingenommen, dabei ist die akute Cholezystitis heute der häufigste Grund für eine Oberbauch-Peritonitis. Differentialdiagnostisch muss bei diesem Krankheitsbild auch an eine akute Entzündung der Bauchspeicheldrüse gedacht werden.
+Die Perforation eines Zwölffingerdarmgeschwürs ist durch die Behandlung dieser Erkrankung (Helicobacter-Eradikation) eher selten geworden.
+Die Divertikulitis ist, nach der Appendizitis, zur zweithäufigsten Ursache einer Unterbauch-Peritonitis aufgerückt. Auch schwere Entzündungen der inneren Geschlechtsorgane der Frau (eitrige Eileiterentzündung) können dieses Krankheitsbild auslösen.
+Eine Peritonitis kann auch infolge eines unbehandelten Darmverschlusses entweder aufgrund des Keimaustritts aus der dünnen, mechanisch geschädigten Serosa (Durchwanderungsperitonitis infolge von Stomata genannten Lücken zwischen Mesothelzellen) oder aufgrund der Ruptur des aufgestauten Darmes eintreten. Eine Durchwanderungsperitonitis kann auch Folge der Nekrose des Darms beim Mesenterialinfarkt sein.
+Weitere Ursachen einer Peritonitis können perforierende Darmverletzungen infolge von Fremdkörpern oder perforierende Bauchverletzungen (Stich- und Schussverletzungen) sein. Darüber hinaus kann das in Mitteleuropa seltene Familiäre Mittelmeerfieber u. a. eine Peritonitis hervorrufen.
+Die Peritonitis tritt außerdem als häufigste Komplikation der Bauchfelldialyse auf. Auch unter aseptischen Bedingungen kommt es circa einmal in 16 bis 24 Behandlungsmonaten zu einer Peritonitis. Diese kann durch unsteriles Arbeiten am Peritonealkatheter, eine Leckage am Katheter, unsterile Spüllösung oder einen Infekt am Katheteraustritt verursacht sein.
+Die Peritonealkarzinose wird im klinischen Sprachgebrauch auch als Peritonitis carcinomatosa bezeichnet: Die ausgedehnte Tumoraussaat auf das Bauchfell führt hier zu einer primär nichtbakteriellen entzündlichen Reaktion, oft mit ausgeprägter Aszitesbildung.
+Schließlich führt das Eindringen von Urin in den Bauchraum, beispielsweise nach traumatischen Verletzungen der Harnblase, zu einer Peritonitis, die als Uroperitoneum bezeichnet wird.
+
+
+=== Differenzialdiagnose ===
+Einige Erkrankungen können klinisch eine Peritonitis vortäuschen.
+Die Vorstufe des Mesenterialinfarkts, die so genannte Angina abdominalis, führt häufig zum Bild des akuten Abdomens, ohne dass eine Peritonitis vorliegt.
+Das beginnende ketoazidotische Koma beim (meist jungen) Diabetiker kann ebenfalls eine akute Peritonitis vortäuschen (Pseudoperitonitis diabetica).
+
+
+== Klinische Symptome ==
+Bei einer lokalen Peritonitis (z. B. akute, nicht perforierte Appendizitis) findet sich in der Regel ein lokaler Druckschmerz der Bauchdecke, eventuell zusätzlich ein Loslassschmerz und eine lokale Abwehrspannung, hinzu kann ein durch Anspannung bestimmter Muskeln ausgelöster Schmerz (Psoas-Dehnungsschmerz) kommen; Spontanschmerz kann fehlen („So im Liegen tut mir gar nichts weh.“). Der Allgemeinzustand ist oft nur gering beeinträchtigt, Fieber kann vorliegen, aber auch fehlen. Die Darmgeräusche sind allenfalls gering vermindert.
+Bei der generalisierten Peritonitis wirkt der Patient bereits auf den ersten Blick schwer krank (Facies hippocratica). Das Gesicht wirkt eingefallen, grau, die Atmung ist flach, der Puls beschleunigt, der Blutdruck niedrig, manchmal aber auch stark erhöht. Die Beine werden im Liegen angezogen. Die Bauchdecke ist stark angespannt („bretthartes Abdomen“), jede Berührung, selbst leichtes Klopfen, bereitet starke Schmerzen. Darmgeräusche sind kaum bis gar nicht hörbar. Meist besteht hohes Fieber. Dieses Krankheitsbild wird auch unter dem Begriff Akutes Abdomen zusammengefasst.
+Bei sehr alten, hinfälligen Patienten kann ein großer Teil dieser Symptome fehlen, beispielsweise durch verkümmerte (atrophe) Bauchmuskulatur, die keine Anspannung mehr leisten kann.
+Bei der Bauchfelldialyse fällt neben Bauchschmerzen als erstes Symptom die Trübung des Dialysats auf, die durch die erhöhte Leukozytenzahl verursacht wird. Außerdem kann die Ultrafiltrationsmenge deutlich abnehmen, so dass zusätzlich noch eine Überwässerung droht.
+
+
+== Diagnostik ==
+
+Laborchemische und apparative diagnostische Methoden helfen bei der Diagnosestellung und geben oft auch Hinweise auf den Grund der Peritonitis. Im Weiteren beschränkt sich die Aufstellung auf die akute, generalisierte Peritonitis.
+
+
+=== Laborchemische Untersuchungen ===
+Im frühen Stadium der akuten Peritonitis sind vor allem die zwei wichtigsten Entzündungsparameter auffällig: Im Blutbild findet sich eine deutliche Erhöhung der Leukozytenzahl, das CRP ist ebenfalls stark erhöht. Die BSG (Blutsenkung) ist ebenfalls stark beschleunigt, im Bereich der Chirurgie wird dieser Parameter wegen seiner geringen Spezifität mittlerweile allerdings nicht mehr routinemäßig genutzt.
+Im fortgeschrittenen Stadium findet man laborchemisch weitere pathologische Befunde: Veränderungen der Gerinnungsparameter (Abfall der Thrombozytenzahl, Erhöhung der Fibrinogenkonzentration, Verlust von Prothrombin und Gewebefaktor) sind Zeichen einer Verbrauchskoagulopathie; Verschlechterung der Nierenfunktionswerte (Anstieg von Harnstoff und Kreatinin im Blut), der Leberwerte (Anstieg der Transaminasen, Abfall der Cholinesterase) und Abfall des Hämoglobinwertes sind Anzeichen für ein beginnendes Multiorganversagen.
+
+
+=== Sonografie ===
+Die Ultraschalluntersuchung des Bauches erbringt meist freie Flüssigkeit und/oder freie Luft in der Bauchhöhle. Sichtbar wird hierbei auch die verminderte Motilität (Eigenbewegung) des Darmes. In vielen Fällen gelingt es, mit der Sonografie die Ursache der Peritonitis (Gallenblasenperforation, Dickdarmmileus mit Perforation, Pankreatitis etc.) einzugrenzen.
+
+
+=== Röntgenuntersuchung ===
+Die radiologische Untersuchung des Bauches – meist eine einfache Leeraufnahme des Abdomens ohne Kontrastmittel im Stehen oder in Linksseitenlage – kann freie Luft (als Zeichen einer Hohlorganperforation) und/oder das Vorliegen eines Darmstillstandes zeigen. Eine Computertomografie oder Magnetresonanztomographie kann zusätzlich Hinweise auf die Ursache der Peritonitis geben.
+
+
+=== Operation ===
+In Zweifelsfällen erfolgt eine intraabdominelle Diagnostik durch eine explorative Laparoskopie oder Propelaparotomie.
+
+
+== Therapie ==
+
+
+=== Operative Behandlung ===
+Die Therapie der akuten Peritonitis ist neben der medikamentösen antimikrobiellen Therapie immer auch operativ. Der Zeitpunkt der Operation wird so früh wie irgend möglich angesetzt, da das Krankheitsbild meist einen rasch progredienten, oft sogar foudroyanten Verlauf nimmt. Die Grundprinzipien der chirurgischen Therapie sind:
+
+Elimination (Ausschaltung) des Entzündungsherdes, also definitive operative Behandlung der Grunderkrankung oder Verletzung
+Entfernung von toxischem Material wie Nekrosen, Eiter und Fibrinbelägen (Débridement und Bauchspülung)
+Vollständige Sekretableitung des infektiösen Materials aus allen Bereichen der Bauchhöhle (Drainage)Als operative Therapie der Grunderkrankung kommen – je nach Ursache der Peritonitis – in Frage: Die Appendektomie, die Cholezystektomie, die Sigmaresektion oder entsprechende Resektion anderer Darmabschnitte, die Exzision und Übernähung eines perforierten Ulcus duodeni und einige andere. Im Rahmen einer Peritonitis wird einer notwendigen Anastomose in aller Regel ein Enterostoma („künstlicher Darmausgang“) vorgeschaltet, da die Gefahr einer Anastomoseninsuffizienz in entzündlich veränderter Umgebung immer deutlich erhöht ist. Das Enterostoma verhindert durch Gasbildung entstehenden Druck auf die Anastomose und schützt im Falle einer Insuffizienz die Bauchhöhle vor dem Austreten von Darminhalt.
+Je nach Zeitpunkt der ersten Intervention finden sich Nekrosen z. B. des großen Netzes, des Mesenteriums oder anderer Gewebe. Diese müssen so vollständig wie möglich entfernt werden (Débridement), da sie ein idealer Nährboden für Bakterien sind, durch die die Entzündung aufrechterhalten wird. Auch der meist in großen Mengen vorhandene eitrige Aszites muss durch Spülung mit physiologischer Kochsalzlösung oder Ringerlösung vollständig entfernt werden (Lavage). Abschließend wird die Bauchhöhle mit einer antiseptischen Lösung, meist Taurolidin, gespült.
+Da das entzündete Peritoneum auch nach der Operation noch reichlich Exsudat produziert, welches ebenfalls ein guter Nährboden für Keime ist, wird dieses durch großlumige Drainagen aus allen vier Quadranten der Bauchhöhle abgeleitet. Bei ausbleibender Besserung des klinischen Zustandes erfolgt eine operative Revision.
+Es wurden im Wesentlichen bisher drei Vorgehensweisen bei der chirurgischen Therapie unterschieden: die geschlossene kontinuierliche Peritoneallavage, die Etappenlavage durch geplante Relaparotomien und das insbesondere durch Ernst Kern und sein Team an der Würzburger Chirurgischen Universitätsklinik in den 1970er Jahren zur „offenen“ Behandlung der schweren Peritonitis entwickelte Verfahren des Offenen Abdomens („open package“).
+
+
+=== Intensivmedizinische Begleittherapie ===
+Da die akute eitrige Peritonitis ein schweres septisches Krankheitsbild mit entsprechend vielfältigen Komplikationen (s. u.) darstellt, erfolgt die postoperative Behandlung soweit möglich auf einer Intensivstation.
+Oft wird der Patient so lange nachbeatmet, bis der klinische Zustand und die laborchemischen Untersuchungsergebnisse eine eindeutige Besserung zeigen. Die Nachbeatmung erleichtert die erforderliche hochdosierte Analgesie, da auf atemdepressive Nebenwirkungen der eingesetzten Analgetika, meist Opiate und Opioide wie Fentanyl oder Hydromorphon, die intravenös mittels Spritzenpumpe verabreicht werden, keine Rücksicht genommen werden muss. Außerdem unterstützt die optimale Oxygenierung (Sauerstoffanreicherung) des Blutes den Organismus bei der körpereigenen Infektabwehr, die unter Hypoxie deutlich reduziert ist.
+Die systemische Therapie erfolgt durch hochdosierte Gabe einer geeigneten Kombination von Breitspektrum-Antibiotika und Antimykotika (z. B. Piperacillin+Metronidazol+Fluconazol), die der Resistenzlage der vorgefundenen Keime angepasst werden.
+→Zur speziellen intensivmedizinischen Therapie der Sepsis siehe dort.
+
+
+== Prognose ==
+Je nach Ausprägung und Begleiterkrankungen reicht die Sterblichkeit (Letalität) von nahezu 0 bis über 50 %. Zur Abschätzung der Letalität steht der Mannheimer Peritonitis-Index zur Verfügung.
+
+
+== Peritonitis bei Tieren ==
+Häufige Ursachen für eine Peritonitis bei Tieren sind Verletzungen der Bauchwand, Rupturen der Gallenblase durch stumpfe Traumen (Pferdetritt) oder schwere Erkrankungen der Gallenblase (biliäre Peritonitis), die Darmwand perforierende Fremdkörper oder Tumore, Verletzungen und Rupturen der Gebärmutter bei der Geburt oder nach einer Pyometra, Rupturen der Harnblase und Verletzungen des Mastdarms bei unsachgemäßer rektaler Untersuchung. Bei Katzen gibt es mit der FIP eine Virusinfektion, die sich vor allem als Bauchfellentzündung manifestiert. Bei Rindern sind vor allem in den Netzmagen perforierende Fremdkörper Ursache für eine Peritonitis.
+Klinisches Bild, Diagnostik und Behandlung entsprechen weitgehend der Peritonitis des Menschen, lediglich für die FIP gibt es keine Behandlung.
+
+
+== Literatur ==
+Richard W. Nelson und C.G. Couto: Innere Medizin der Kleintiere. Elsevier, Urban & Fischer, München 2006, ISBN 3-437-57040-4.
+Walied Abdulla: Interdisziplinäre Intensivmedizin. Urban & Fischer, München u. a. 1999, ISBN 3-437-41410-0, S. 486–488 (Peritonitis).
+Marianne Abele-Horn: Antimikrobielle Therapie. Entscheidungshilfen zur Behandlung und Prophylaxe von Infektionskrankheiten. Unter Mitarbeit von Werner Heinz, Hartwig Klinker, Johann Schurz und August Stich, 2., überarbeitete und erweiterte Auflage. Peter Wiehl, Marburg 2009, ISBN 978-3-927219-14-4, S. 119–124 (Peritonitis).
+A. L. Gerbes, V. Gülberg, T. Sauerbruch, R. Wiest, B. Appenrodt, M. J. Bahr, M. M. Dollinger, M. Rössle, M. Schepke: S3-Leitlinie Aszites, spontan bakterielle Peritonitis, hepatorenales Syndrom. In: Zeitschrift für Gastroenterologie. Band 49, 2011, S. 749–779.
+
+
+== Weblinks ==
+
+Weitere Infos über Peritonitis (englisch)
+
+
+== Einzelnachweise ==

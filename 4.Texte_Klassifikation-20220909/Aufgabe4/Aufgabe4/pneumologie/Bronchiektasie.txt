@@ -1,0 +1,64 @@
+Als Bronchiektasen bezeichnet man in der Medizin irreversible sackförmige oder zylindrische Ausweitungen bzw. Erweiterungen der mittelgroßen Atemwege (Bronchien). Dieser Zustand wird auch Bronchiektasie genannt. Begleitet werden diese Ausweitungen von einer chronischen nekrös eiternden bakteriellen Infektion der Bronchialwand. Eine Erweiterung von Bronchiolen wird als Bronchiolektasie bezeichnet.
+
+
+== Ätiologie ==
+Es gibt eine angeborene und eine erworbene Form der Bronchiektasen.
+
+Angeborene Bronchiektasen können in nur einem Lungensegment oder einem Lungenlappen auftreten. Auch unbegrenztes Vorkommen wird beobachtet, meist in Zusammenhang mit anderen Defekten (beispielsweise beim Kartagener-Syndrom, der zystischen Fibrose oder nekrotisierenden und eiternden Pneumonien).
+Erworben werden Bronchiektasen durch frühkindliche Schädigungen, Infektionskrankheiten (Masern, Keuchhusten), allergische bronchopulmonale Aspergillose, Immunglobulinmangel, α-1-Antitrypsin-Mangel, Ziliendysfunktion, Mukoviszidose, tracheoösophagale Fisteln, Fremdkörperaspiration oder chronische Entzündungsvorgänge (beispielsweise chronische Bronchitis).
+
+
+== Morphologie ==
+Die deutlichsten Veränderungen treten in den Lungenunterlappen auf. Die bronchialen Ausdehnungen sind
+
+zylinderförmig
+spindelförmig
+sackförmigDabei sind die Lumina häufig mit Eiter gefüllt.
+Lichtmikroskopisch zeigt sich eine intensive Ansammlung von neutrophilen Granulozyten, Lymphozyten und mononuklearen Zellen in der Bronchialwand. Des Weiteren sind in der bronchialen Mukosa extensive Gebiete der Ulzeration zu erkennen; dazu kann eine Plattenepithelmetaplasie im nichtgeschwürigen (Epithel) auftreten. Hinzu kommt eine peribronchiale Fibrose.
+
+
+== Klinik ==
+Leitsymptome sind Husten und großvolumiger Auswurf („maulvolle Expektoration“ oder „maulvolles Sputum“ genannt), der süßlich-fade oder faulig riecht und sich im Glas typischerweise in drei Schichten („Drei-Schichten-Sputum“) absetzt: schaumige Oberschicht, schleimige Mittelschicht und zäher Bodensatz mit Eiter.
+Typisch sind Trommelschlegelfinger.
+
+
+== Komplikationen ==
+Als Komplikationen sind Lungenentzündungen, Pilzansiedlungen in der Lunge und bakterielle Absiedlungen in anderen Organen bekannt. Auch Bluthusten (Hämoptyse) kann auftreten. Langfristig kann sich ein Cor pulmonale entwickeln.
+Auch kann ein circulus vitiosus auftreten: Sobald die Bronchien erst ausgeweitet sind, neigen sie dazu, einen Teil des Sekretionen zurückzuhalten, welcher dann als Nidus für eine andauernde Infektion dient.
+Sollte eine Ausdehnung perforiert werden, kann dies zu einem Empyem des Thorax führen.
+
+
+== Diagnose ==
+
+Die Krankheit wird festgestellt durch das Erscheinungsbild und durch weitere diagnostische Maßnahmen
+Lungenfunktion: meist gemischt restriktiv-obstruktive Ventilationsstörung und manchmal bereits respiratorische Insuffizienz.
+Röntgenthorax: erste Hinweise ergeben sich durch peribronchiale Streifenzeichnung und zystische Hohlräume mit oder ohne Spiegel.
+HR-CT: zystische Aufhellungen, Erweiterung der Bronchiallumina; sicherster und zuverlässigster Bronchiektasie-Nachweis
+Untersuchung auf allergische bronchopulmonale Aspergillose (ABPA), dazu dient eine Untersuchung auf Sensibilisierung und eine Bestimmung des Gesamt-IgE, welches dann fast immer weit über 500 ng/ml liegt.
+Bestimmung der Differentialblutbilds, von IgA und IgM, von ausgeatmetem NO
+Dreischicht-Sputum: Das Sputum ist oft schaumig-serös-eitrig, in der Kultur finden sich oft Haemophilus influenzae, Streptococcus pneumoniae und Staphylococcus aureus.
+Bronchoskopie: zur Erregerdiagnostik (TBC und Mycobakterien) und zur Diagnose eventueller Bronchusstenosen.
+Lungenszintigraphie: Untersuchung der Lungenperfusion/Lungenventilation als eventuelle Ergänzung des CT und zur Beurteilung der funktionellen Situation der gesamten Lunge.
+
+
+== Therapie ==
+Im Mittelpunkt steht die Physiotherapie zur Sekretmobilisierung, die auch durchgeführt wird, wenn beschwerdefreie Intervalle bestehen. Dazu gehört auch die tägliche „Bronchialtoilette“ (Abhusten des Schleims in Knie-Ellenbogen-Lage).
+Medikamentös kommt in Frage:
+
+Mukolytika, die das Sekret verdünnen und so das Abhusten erleichtern
+Bronchodilatatoren, die die Bronchien erweitern und so die Atmung erleichtern
+Antibiotika, bei Exazerbationen und in schlimmen Fällen als Dauertherapie (hierbei verhindern zum Beispiel langfristige Makrolide Exazerbationen; es kommt jedoch zu Resistenzen)
+regelmäßige Immunisierung (Impfung) gegen Influenza und Pneumokokken.In geeigneten Fällen können Bronchiektasen auch chirurgisch entfernt werden (einseitiger Befall, ungenügendes Ansprechen auf konservative Therapie, bedrohliche Hämoptysen).
+
+
+== Siehe auch ==
+Zuckerschleim
+
+
+== Literatur ==
+Gerd Herold: Innere Medizin. Eigenverlag, Köln 1992 ff.
+H. Greten, F. Rinninger, T. Greten: Innere Medizin. Thieme, Stuttgart/ New York 2010, ISBN 978-3-13-552213-5.
+Jessica Rademacher, Tobias Welte: Bronchiektasen – Diagnostik und Therapie. In: Dtsch Arztebl Int. Nr. 108(48), 2011, S. 809–815 (Übersichtsarbeit). 
+
+
+== Einzelnachweise ==

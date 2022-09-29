@@ -1,0 +1,57 @@
+Das Aderhautmelanom (auch: malignes uveales Melanom) ist der häufigste maligne primäre Tumor des Auges. In Europa beträgt die Inzidenzrate 1:100.000 pro Jahr. Das Aderhautmelanom entwickelt sich direkt in der Aderhaut (Choroidea) des Auges aus entarteten Melanozyten. Aus diesem Grund sind die meisten Aderhautmelanome dunkel pigmentiert. Das Erkrankungsrisiko steigt mit zunehmendem Alter und erreicht zwischen dem 60. und 70. Lebensjahr ein Maximum. Ungefähr die Hälfte aller Patienten entwickeln Metastasen, die sich meist zuerst in der Leber manifestieren und oft innerhalb weniger Monate zum Tod führen. Im Gegensatz zum malignen Melanom der Haut (kutanes Melanom) erfolgt die Metastasierung des Aderhautmelanoms zunächst ausschließlich hämatogen (über die Blutbahn), weil die Aderhaut über keine Lymphgefäße verfügt. Diese anatomische Besonderheit im Augeninneren bewirkt, dass Tumorzellen des Aderhautmelanoms zunächst unbeeinträchtigt vom Immunsystem heranwachsen können (Immunprivileg). Im Gegensatz zum kutanen Melanom dürfte beim Aderhautmelanom UV-Strahlung nicht erstrangig ursächlich bei der Entstehung des Tumors sein. Der im Auge befindliche Glaskörper sollte nämlich die einfallende UV-Strahlung zum größten Teil absorbieren.
+
+
+== Stand der Forschung ==
+Die Untersuchung von aus dem Auge entfernten Tumoren hat gezeigt, dass die metastasierende Erkrankung eng mit einer genetischen Auffälligkeit im Tumor assoziiert ist, nämlich dem Verlust eines Chromosoms 3 (Monosomie 3). Während von Tumoren mit zwei intakten Chromosomen 3 nur sehr selten erkennbare Metastasen ausgehen, entwickeln die meisten Patienten mit Monosomie 3 im Primärtumor Metastasen. Eine solch enge Beziehung zwischen einer genetischen Auffälligkeit und dem klinischen Verhalten ist sonst bei keinem soliden Tumor festgestellt worden, wodurch sich diese Tumorerkrankung auch deutlich vom kutanen Melanom abgrenzt. Diese Monosomie 3 Typisierung oder eine Charakterisierung des Genexpressionsprofils (DecisionX Test) sollte nach Entdeckung dieses Tumors zur Einstufung der Bösartigkeit durchgeführt werden. Trotz intensiver Bemühungen ist bisher auch durch moderne Therapien wie Kinaseinhibitoren oder Checkpoint Blockade Antikörper keine wesentliche Verbesserung der Überlebensrate bei Aderhautmelanompatienten festzustellen. Zu den klassischen klinischen Risikofaktoren für die Bildung von Metastasen gehören die Größe und die Lokalisation des Aderhautmelanoms im Auge. So wird die Ziliarkörper-Beteiligung des Aderhautmelanoms als schlechtes Zeichen gewertet.
+
+
+== Symptome und Beschwerden ==
+Wenn sich der Tumor an der Stelle des schärfsten Sehens befindet oder wenn der Tumor eine Netzhautablösung bewirkt hat, kommt es zu deutlichen Veränderungen in der Sehleistung des betroffenen Auges. Oft werden Aderhautmelanome zufällig bei der augenärztlichen Routineuntersuchung entdeckt. Eigenschaften des Tumors, wie Melanin-Pigmentierung, Lage im Auge sowie Wachstumstendenzen des Tumors lassen auf ein Aderhautmelanom schließen, welches sich hierdurch deutlich vom Nävus (Muttermal) der Aderhaut abgrenzt.
+
+
+== Untersuchungsmethoden ==
+Echographie: Ultraschalluntersuchung zur Bestimmung von Position und Ausdehnung des Tumors
+Fluoreszenz-Angiographie: Fotografische Darstellung der Blutgefäße im Auge mit Hilfe von fluoreszierenden Farbstoffen
+
+
+== Behandlungsmethoden ==
+Häufig wird auch eine Kombination der angeführten Behandlungsmethoden angewendet.
+Strahlentherapie
+
+a) Brachytherapie (Therapie mit Strahlenträgern)
+Bei dieser Form der Strahlentherapie werden kleine Metallschalen (Applikatoren) von außen auf die äußere Schicht des Auges (Lederhaut = Sklera) aufgenäht. Genau an der behandelten Stelle befindet sich der Tumor im Inneren des Auges. Der aufgenähte Applikator enthält in seinem Innern radioaktives Material. Die Dauer der Bestrahlung (1–14 Tage) wird anhand der Tumorgröße errechnet.
+Hauptsächlich werden folgende Isotope angewendet:
+Ruthenium-106 (Beta-Strahlung) bei Tumoren von einer Höhe bis zu 7 mm
+Iod-125 (Gamma-Strahlung) bei größeren Tumoren
+Palladium-103 (Gammastrahlung)
+b) Teletherapie (Protonenstrahlentherapie)
+Die Bestrahlung des Tumors mit beschleunigten Protonen, die in einem Zyklotron-Teilchenbeschleuniger erzeugt werden, eignet sich für Tumoren mit bis zu 15 mm Durchmesser.
+Entscheidend für die erfolgreiche Behandlung und den Erhalt des Sehnervs ist die genaue Ausrichtung des Auges bzw. des erkrankten Gewebes zum Partikelstrahl. Hierzu dienen in den entsprechenden Bestrahlungseinrichtungen besondere Vorrichtungen, die es erlauben, entweder das Auge oder die umliegende Anatomie zum Strahl zu orientieren. Gewöhnlich werden hierfür auch metallische Marker verwendet. Am Augapfel angebracht, können diese in Durchleuchtungsbildern Aufschluss über die Orientierung des Auges zum Behandlungsstrahl geben.Radiochirurgie
+Aderhautmelanom-Patienten, die mit Radiochirurgie behandelt werden, durchlaufen in der Regel ein standardisiertes ambulantes Verfahren. Direkt nach der Retrobulbär-Anästhesie werden ein Kontrastmittel-MRT (Magnetresonanztomographie) sowie ein planungsrelevantes CT (Computertomographie) erstellt. Auf Basis dieser Bilddaten wird das Zielvolumen des Tumors bestimmt und die günstigen Einstrahlrichtungen sowie die Dosis berechnet. In Publikationen wird meist von einer Dosis von median 20 Gy (18 bis 22 Gy) berichtet, abhängig von Lage und Größe des Tumors. Die radiochirurgische Behandlung erfolgt ambulant und ohne Fixierung des Patienten in einer einmaligen Sitzung.
+Analysen zeigen, dass die Roboter-gesteuerte Radiochirurgie (z. B. mit dem Cyberknife) eine wirksame augenerhaltende Option auch bei mittleren bis großen Aderhautmelanomen sein kann. Die lokale Tumorkontrolle und die Toxizität sind vergleichbar mit langwierigeren strahlentherapeutischen Techniken.
+
+Lasertherapie
+Starke Erhitzung kleiner Tumoren durch Laserstrahl
+Kryotherapie
+Extreme Abkühlung kleiner Tumoren auf −78 °C mittels eines Kältestiftes
+Chirurgische Entfernung des Tumors
+Enukleation
+Entfernung des Auges
+Vakzination
+Antigenspezifische Stimulation des Immunsystems gegen die eigenen Tumorzellen nach Entfernung des Tumors (Phase III Studie an 8 deutschen Augenkliniken)
+
+
+== Literatur ==
+K. Eibl-Lindner, C. Fürweger, M. Nentwich, P. Foerster, B. Wowra, U. Schaller, A. Muacevic: Robotic radiosurgery for the treatment of medium and large uveal melanoma. In: Melanoma research. Band 26, Nummer 1, Februar 2016, S. 51–57, doi:10.1097/CMR.0000000000000199, PMID 26484738.
+The COMS randomized trial of iodine 125 brachytherapy for choroidal melanoma: V. Twelve-year mortality rates and prognostic factors: COMS report No. 28. In: Archives of ophthalmology (Chicago, Ill.: 1960). Band 124, Nummer 12, Dezember 2006, S. 1684–1693, doi:10.1001/archopht.124.12.1684, PMID 17159027.
+E. C. Macdonald, P. Cauchi, E. G. Kemp: Proton beam therapy for the treatment of uveal melanoma in Scotland. In: The British journal of ophthalmology. Band 95, Nummer 12, Dezember 2011, S. 1691–1695, doi:10.1136/bjo.2010.195594, PMID 21216794.
+A. Klingenstein, C. Fürweger, A. K. Mühlhofer, S. F. Leicht, U. C. Schaller, A. Muacevic, B. Wowra, C. Hintschich, K. H. Eibl: Quality of life in the follow-up of uveal melanoma patients after enucleation in comparison to CyberKnife treatment. In: Graefe’s archive for clinical and experimental ophthalmology = Albrecht von Graefes Archiv für klinische und experimentelle Ophthalmologie. Band 254, Nummer 5, Mai 2016, S. 1005–1012, doi:10.1007/s00417-015-3216-7, PMID 26573389.
+Immuntherapie beim Aderhautmelanom: Vakzination gegen Krebs. Multizentrische adjuvante Phase-III-Impfstudie mit Tumor-RNA-beladenen dendritischen Zellen bei neu diagnostizierten, großen Uveamelanomen. In: Der Ophthalmologe, Dezember 2015, Volume 112, Issue 12, S. 1017–1021, doi:10.1007/s00347-015-0162-z.
+
+
+== Weblinks ==
+Tumorerkrankungen des Auges / Aderhautmelanom. Universitätsklinikum Essen, Klinik für Augenheilkunde, abgerufen am 27. Dezember 2020. 
+Augentumore / Aderhautmelanome. Behandlungsmöglichkeiten einer spezialisierten Klinik. Augenklinik der Ludwig-Maximilians-Universität München, 2016
+
+
+== Einzelnachweise ==

@@ -1,0 +1,36 @@
+Ein Höhenlungenödem (ungenau auch: Höhenödem), abgekürzt HAPE (von engl. high-altitude pulmonary edema), ist eine Flüssigkeitsansammlung (Ödem) in der Lunge, die beim Bergsteigen in großen Höhen auftreten kann. Flüssigkeit tritt aus den Kapillaren ins Lungengewebe (insbesondere Alveolen) aus und behindert die Atmung.
+Es kann in Verbindung mit dem Höhenhirnödem und/oder innerhalb des Symptomkomplexes der Höhenkrankheit auftreten oder auch völlig eigenständig ohne Vorwarnzeichen auftauchen. Ähnliche Zustände wurde auch nach einer Langzeit-Sauerstoff-Beatmung (über Tage mit 100 %) in Form der sogenannten Respiratorlunge beobachtet.
+
+
+== Vorkommen ==
+Das Höhenlungenödem tritt bei etwa 0,7 % der Bergsteiger auf, die sich in einer Höhe von 3000 Meter oder höher befinden. Die Letalität liegt bei rund 40 %.
+
+
+== Ursachen ==
+Die Entstehung eines höhenbedingten Lungenödems ist erst teilweise geklärt.
+Der geringe Sauerstoffpartialdruck in großer Höhe führt entsprechend dem Euler-Liljestrand-Mechanismus zu einer hypoxisch bedingten Gefäßverengung (Vasokonstriktion) der Arteriolen in der Lunge (Höhenhypoxie).Dadurch steigt der arterielle Blutdruck im Lungenkreislauf stark an. Es wurde beschrieben, dass auf gut 4500 m Höhe dieser Druck bei Menschen, die empfänglich für Höhenlungenödeme sind, 30–50 % über dem von nicht-empfindlichen Vergleichspersonen liegt. Der Anstieg des arteriellen Druck in der Lunge ist ein wesentlicher Faktor bei der Ausbildung des Höhenlungenödems.
+Eine Verengung von Arteriolen führt im Allgemeinen in den nachgeschalteten Kapillaren zu einem Sinken des Blutdrucks und damit des Filtrationsdrucks, da durch die verengten Arteriolen weniger Blut hindurch fließen kann. Die Verengung der Arteriolen in der Lunge geschieht bei Höhenlungenödempatienten aber regional unterschiedlich stark. Dort, wo die Verengung wenig ausgeprägt ist, steigen der Blutfluss (auf Grund des erhöhten arteriellen Drucks) und damit der Druck in den nachgeschalteten Kapillaren deutlich. Es wird angenommen, dass dies zu erhöhter Filtration und damit zur beobachteten Ödembildung führt.Auch eine Verengung der Venen sowie ein Austritt von Flüssigkeit aus den Arteriolen wurden als Ursachen diskutiert. Diese reichen jedoch nicht aus, um die ungleichmäßige Verteilung von Höhenlungenödemen im Frühstadium in Röntgenbildern zu erklären.
+Menschen sind unterschiedlich empfänglich für die Ausbildung eines Höhenlungenödems bei einem Aufenthalt in großer Höhe. Dabei spielen wohl auch genetische Faktoren eine Rolle.
+
+
+== Symptome ==
+Bei dem Höhenlungenödem ist durch Flüssigkeit im Lungengewebe der Sauerstoffaustausch stark reduziert. Siehe: Asthma cardiale. In dieser Phase ist plötzlicher Leistungsabfall das Leitsymptom. Darüber hinaus sind Ruhedyspnoe, Zyanose, trockener Husten, schaumiger Husten, Erbrechen, Fieber und eine 24-Stunden-Urinmenge, die unter 500 ml liegt, Anzeichen für das Höhenlungenödem.
+
+
+== Gegenmaßnahmen ==
+Wenn richtige Therapiemaßnahmen getroffen werden, tritt meist innerhalb weniger Stunden Besserung ein.
+Die weitaus beste Therapiemöglichkeit ist der sofortige Abstieg. Mit einer ergänzenden Sauerstoffatmung während des Abstiegs kann die Letalität gesenkt werden. Zusätzlich können Medikamente wie Nifedipin (Calciumantagonist) oder Diuretika angewendet werden, die den Gesundheitszustand manchmal rasch verbessern, bei denen jedoch gefährliche Nebenwirkungen auftreten können. Weiterhin kommen – soweit verfügbar – besondere Beatmungsformen in Frage.
+Verschiedene Medikamente können die Wahrscheinlichkeit des Auftretens eines Höhenlungenödems reduzieren. Umstritten ist die Vorbeugung mit Acetazolamid; zur Therapie ist es wegen möglicher Verschlimmerungen sogar kontraindiziert. Dexamethason ist beim Hirnödem indiziert, beim Höhenlungenödem jedoch wirkungslos. Theophyllin, Montelukast und Ginkgo biloba werden diesbezüglich noch überprüft.
+
+
+== Weblinks ==
+aktuelle, noch unveröffentlichte 5 Studien zu Training und Empfänglichkeit, Acetazolamid, Ibuprofen und Tadalafil. ClinicalTrials.gov, US National Institutes of Health, 1. August 2010, abgerufen am 1. August 2010 (englisch). 
+Altitude.org
+M. M. Berger: Warum Bergsteiger am Höhenlungenödem erkranken. (PDF; 790 kB) In: Pressemitteilung Nr. 134 vom 7. August 2006. Universitätsklinikum Heidelberg, abgerufen am 1. August 2010. 
+Höhenlungenödem, syn. HAPE (High Altitude Pulmonal Edema). SGGM Schweizerische Gesellschaft für Gebirgsmedizin, abgerufen am 28. Dezember 2015. 
+Forschung Höhenmedizin. Universitätsklinikum Heidelberg, abgerufen am 1. August 2010: „Arbeitsgruppe Prof. Peter Bärtsch, seit 1984 Feldstudien in Margherita-Hütte (Walliser Alpen, 4559 m ü. M.) zur Pathophysiologie, Therapie und Prophylaxe der akuten Bergkrankheit und des Höhenlungenödems“ 
+GIN Gesundheitsinformationsnetz
+M. Maggiorini et al.: High-Altitude Pulmonary Edema, dexamethasone and tadalafil, Summary for Patients. In: American College of Physicians (Hrsg.): Ann Intern Med (= Both Tadalafil and Dexamethasone May Reduce the Incidence of High-Altitude Pulmonary Edema: A Randomized Trial). Band 145, Nr. 7, 3. Oktober 2006, S. 497–506 (englisch, annals.org [abgerufen am 1. August 2010]): “dexamethasone appears to be more effective and is better than tadalafil” 
+
+
+== Einzelnachweise ==

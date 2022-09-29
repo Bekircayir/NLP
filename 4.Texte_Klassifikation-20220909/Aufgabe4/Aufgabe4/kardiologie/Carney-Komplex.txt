@@ -1,0 +1,44 @@
+Carney-Komplex bezeichnet ein Syndrom, das erstmals im Jahre 1985 durch den US-amerikanischen Pathologen J. Aiden Carney beschrieben wurde als „Komplex von Myxomen, Hautflecken und hormoneller Überfunktion“. Es wird auch als „Familiäres Myxom-Syndrom“ oder als Carney-Syndrom bezeichnet.
+Charakteristisch ist das Auftreten von Myxomen nicht nur im Herzen, sondern auch in Haut, Brust, Nervengewebe und Schilddrüse. Etwa 7 % aller Myxome treten im Rahmen des Carney-Komplexes auf. Lentigines (Pigmentflecken), Myxome (bei ca. 72 % der Patienten am Herzen), hormonelle Überfunktion, bösartige Neubildungen und Schwannome charakterisieren die Erkrankung, die den multiplen endokrinen Neoplasien MEN nahesteht.
+Der Carney-Komplex muss unterschieden werden vom ebenfalls erblichen Carney-Stratakis-Syndrom, bestehend aus Paragangliomen und Gastrointestinalen Stromatumoren und der nicht erblichen Carney-Trias, bei der es sich um das gemeinsame Vorkommen von Magen-GIST, LungenChondrom und Paragangliom handelt.
+Außerdem gibt es eine "Carney-Komplex, Variante", das Carney-Komplex-Trismus-Pseudokamptodaktylie-Syndrom.
+
+
+== Vorkommen ==
+Die Häufigkeit des Syndroms ist nicht bekannt, es wurde aber in verschiedenen ethnischen Gruppen beobachtet.
+
+
+== Symptomatik ==
+
+
+=== Myxome des Herzens ===
+Myxome sind die häufigsten primären Herztumoren bei Erwachsenen. Sie werden bei bis zu 17 von 10.000 Obduktionen gefunden. Myxome gehören zu den gutartigen Tumoren, das heißt, sie infiltrieren nicht das Nachbargewebe und setzen auch keine Metastasen ab. Dennoch führen sie zu schwerwiegenden Komplikationen. Typisch für Myxome ist eine Trias von Herzinsuffizienz, Embolien und rheumaähnlichen Symptomen. Die Herzschwäche drückt sich durch Atemnot und Ödeme aus und sind der Behinderung des Blutflusses im Herzen durch den Tumor geschuldet. Ein diastolisches Herzgeräusch oder tumor plop kann bei der körperlichen Untersuchung der Patienten auffallen. Die Embolien treten durch den Ausfall der betroffenen Organe in den Vordergrund: Schlaganfall bei Embolie ins Gehirn, Luftnot bei der Lungenembolie und Herzinfarkt bei Embolien in die Herzkranzgefäße. Die unspezifischen Entzündungssymptome wie Fieber, Gelenkschmerzen und Leistungsschwäche werden auf die Freisetzung von Interleukin-6 zurückgeführt. Etwa 5–10 % aller kardialen Myxome werden im Rahmen des Carney-Komplexes beobachtet. Sie finden sich dann häufiger in verschiedenen Herzhöhlen gleichzeitig und tragen auch nach ihrer operativen Entfernung ein höheres Risiko auf ein Rezidiv mit sich.
+
+
+=== Haut ===
+Verschiedene Hauterscheinungen kommen beim Carney-Komplex vor. Oft ist eine auffällige fleckige Haut oder Schleimhaut bereits ein Hinweis. Leberflecke oder Lentigines sind häufig, ebenso bläulich schimmernde Muttermale.
+Wenn mehr als ein Hautmyxom gefunden werden, sollte immer an den Carney-Komplex gedacht werden. Hautmyxome sind meist unauffällige, symptomlose Schwellungen.
+
+
+=== Hormonelle Veränderungen ===
+Bei 20 % tritt im 4. bis 19. Lebensjahr ein Cushing-Syndrom durch eine knotige Nebennierenrindendysplasie, und bei 50 % ein Wachstumshormon-produzierender Tumor der Hirnanhangsdrüse, der bei Kindern zu Riesenwuchs, bei Erwachsenen zu Akromegalie führt. Schilddrüsenveränderungen sind ebenfalls beschrieben.
+
+
+=== Geschwulste ===
+Bei Männern werden Sertoli-Zell-Tumoren häufig gefunden. Bei sexueller Frühreife sollte an einen Leydig-Zell-Tumor gedacht werden. Charakteristisch ist eine Unterform von Nervenscheidentumoren (Schwannomen) die als psammomatöse melanotische Schwannome bezeichnet werden und einen bösartigen Verlauf haben.
+Frauen haben häufiger gutartige Brusttumoren und Zysten der Eierstöcke. Die Aggressivität der jeweilig ausgebildeten Neoplasien bestimmt letztlich die Prognose des Patienten mit einem Carney-Komplex.
+
+
+== Stellen der Diagnose ==
+Ein Katalog von zwölf klinischen und zwei genetischen Kriterien wurde vorgeschlagen, die bei der Diagnosestellung helfen. Anzuraten ist eine sorgfältige Untersuchung von Verwandten der Patienten mit dem Carney-Komplex. Die Diagnose kann dann gestellt werden, wenn mindestens ein charakteristisches klinisches Symptom zusammen mit einem familiären Auftreten der Erkrankung vorkommt, oder wenn bei Fehlen einer familiären Beteiligung zwei charakteristische klinische Symptome auftreten.
+
+
+== Genetik ==
+Der Erbgang ist autosomal dominant, wobei selten unvollständige Penetranz und phänotypische Variabilität selbst in der gleichen Familie vorkommen. Zwei defekte Genloci wurden bereits identifiziert: Chromosom 2p16 und Chromosom 17q22-24; bei letzterem besteht ein Defekt für ein Tumorsuppressor-Gen, das für die regulatorische Untereinheit 1-α der cAMP-abhängigen Proteinkinase A (PRKAR1a) codiert.
+
+
+== Molekulargenetische Diagnostik ==
+PCR und DNA-Sequenzierung
+
+
+== Einzelnachweise ==

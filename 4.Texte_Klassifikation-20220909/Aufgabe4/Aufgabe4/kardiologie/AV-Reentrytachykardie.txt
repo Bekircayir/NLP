@@ -1,0 +1,23 @@
+Die AV-Reentrytachykardie (AVRT) ist eine Form der supraventrikulären Herzrhythmusstörung, die durch eine akzessorische Leitungsbahn zu einer kreisenden Erregung zwischen Vorhof und Kammer führt. Nicht zu verwechseln ist die AV-Reentrytachykadie mit der AV-Knoten-Reentrytachykardie (AVNRT), da diese sowohl durch einen anderen Mechanismus ausgelöst als auch anders therapiert wird.
+
+
+== Ätiologie ==
+Ursache einer AVRT ist eine kreisende Erregung, bei der über eine, im Vergleich zum normalen Herzen, zusätzliche Leitungsbahn zwischen Vorhof und Herzkammer zu einer immer wiederkehrenden Erregung des AV-Knotens oder einer vorzeitigen Erregung der Herzkammer führt (Je nach Fortleitungsrichtung, siehe Präexzitation). Dies führt zu einer vom Sinusknoten unabhängigen, schnellen Kammerfrequenz.
+
+
+== Symptome ==
+Die betroffenen Patienten berichten oft von Herzrasen und Schwächegefühl. Gelegentlich kommt es auch zu einer Luftnot und Synkopen. Normalerweise ist der Verlauf anfallartig, jedoch kann es auch zu einer länger anhaltenden Tachykardie kommen.
+
+
+== Diagnostik ==
+Im EKG zeigt sich normalerweise ein schmaler, gelegentlich aber auch breiter (siehe Präexzitation) QRS-Komplex mit einer Frequenz von 160–200 Schlägen pro Minute. P-Wellen sind nicht zu erkennen. Wenn kein gleichzeitiges Vorhofflimmern besteht sind die Abstände zwischen den Schlägen regelmäßig. Beruht die AVRT auf einem offenen WPW-Syndrom ist in den Phasen zwischen den tachykarden Episoden typischerweise eine Delta-Welle zu sehen.
+
+
+== Therapie ==
+Bei entsprechender Beeinträchtigung kann, nach erfolglosem Vagusreiz, bei einem regelmäßigen Schmalkomplex-Rhythmus eine medikamentöse Kardioversion mit Adenosin erfolgen.
+Ist die Tachykardie unregelmäßig (bei gleichzeitigem Vorhofflimmern) ist die Gabe von AV-blockierenden Medikamenten wie Adenosin, Verapamil, Digitalis und Betablockern absolut kontraindiziert, da sonst ein Kammerflimmern entstehen kann. In einem solchen Fall und bei Therapieresistenz kann die Therapie mit Ajmalin oder ersatzweise Propafenon erfolgen.
+Wenn eine lebensbedrohliche Beeinträchtigung der Herz-Kreislauffunktion besteht, kann auch eine elektrische Kardioversion durchgeführt werden.
+Durch eine Katheterablation im Rahmen einer EPU kann die ursächliche Leitungsbahn verödet und ein Wiederauftreten wirksam verhindert werden.
+
+
+== Einzelnachweise ==

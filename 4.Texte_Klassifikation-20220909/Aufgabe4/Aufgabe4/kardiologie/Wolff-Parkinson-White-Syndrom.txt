@@ -1,0 +1,49 @@
+Das Wolff-Parkinson-White-Syndrom (WPW-Syndrom) ist eine Herzrhythmusstörung, ausgelöst durch eine elektrisch kreisende Erregung (circus movement) zwischen Herzvorhöfen und den Herzkammern. Dieses Kreisen geschieht über eine akzessorische (= zusätzliche) Leitungsbahn, die beim gesunden Herzen nicht vorhanden ist. Es wurde von den drei namensgebenden Kardiologen, dem US-Amerikaner Louis Wolff, dem Engländer John Parkinson und dem US-Amerikaner Paul Dudley White erstmals 1930 beschrieben.
+
+
+== Entstehung ==
+
+Beim gesunden Herzen gibt es nur einen Weg für die elektrische Erregungsausbreitung von den Vorhöfen zu den Herzkammern: den Atrioventrikularknoten. Beim WPW-Syndrom gibt es darüber hinaus einen zweiten, selten auch mehrere, elektrisch leitende Wege zwischen Vorhöfen und Kammern. Durch diesen Weg kann die elektrische Erregung aus der Herzkammer zurück in den Herzvorhof geleitet werden und so nach kurzer Zeit über den AV-Knoten eine erneute Erregung der Herzkammern auslösen. Da diese deutlich verfrüht ist und dann selbst wiederum eine nächste verfrühte Erregung auslöst, kommt es zu einer Tachykardie. Die durch das WPW-Syndrom ausgelösten Tachykardien treten anfallsweise auf.
+Im Oberflächen-EKG findet sich auch in Ruhe als Zeichen der akzessorischen Bahn häufig eine Hebung kurz vor der R-Zacke, die die Q-Zacke überlagert, die sogenannte Deltawelle. Bahnen, welche nur rückwärts, d. h. retrograd, von der Herzkammer auf den Vorhof leiten können, zeigen keine Deltawelle. Solche WPW-Syndrome bezeichnet man auch als verborgenes (concealed) WPW-Syndrom. Es existieren angeborene Herzfehler, die häufiger mit einem WPW-Syndrom einhergehen. Ein Beispiel ist die seltene Ebstein-Anomalie.
+
+
+== Epidemiologie ==
+
+Mehr Männer als Frauen haben das Wolff-Parkinson-White-Syndrom (Androtropie) und ältere Menschen sind seltener davon betroffen als junge. Die Erkrankung kann jedoch prinzipiell in jedem Lebensalter erstmals auftreten. Ersterkrankungen treten statistisch gesehen am häufigsten bei 20- bis 30-jährigen Menschen auf, obwohl die Anlage der Leitungsbahn prinzipiell angeboren ist. Laut Studien sind zwischen 0,1 und 0,3 Prozent der Menschheit betroffen.
+
+
+== Klinik ==
+Beim WPW-Syndrom kann klinisch anfallsweises Herzrasen (paroxysmale Tachykardie) auftreten: Durch Extraschläge aus dem Vorhof oder der Herzkammer kann es zu einer Circus-Movement-Tachykardie (CMT) kommen, die entweder orthodrom (also vorwärts bzw. antegrad über den AV-Knoten und rückwärts bzw. retrograd über die akzessorische Bahn) oder antidrom (also antegrad über die akzessorische Bahn und retrograd über den AV-Knoten) geleitet wird.
+Typisch ist ein Auftreten mit einem plötzlich wie eingeschaltet beginnenden sehr schnellen Puls (Frequenzen von 160 bis 230 Schlägen pro Minute sind häufig), welcher völlig gleichmäßig teils kurz, teils aber auch über Stunden anhält und ebenso plötzlich endet.
+Viele Patienten können ihre Tachykardien selbstständig durch sogenannte Vagusmanöver beenden (z. B. starkes Pressen, Trinken von kaltem Wasser, Luftanhalten, sich auf den Rücken legen und die Beine möglichst hoch strecken, also „eine Kerze machen“). Das typische plötzliche Beginnen und Enden der Rhythmusstörung bezeichnet man als „On-Off“-Phänomen. Bei zusätzlichem Auftreten einer schnell übergeleiteten Vorhof(atrialen)-Tachyarrhythmie (dem Vorhofflimmern/-flattern) kann allerdings auch eine lebensbedrohlich hohe Herzfrequenz erreicht werden.
+
+
+== Diagnostik ==
+Zunächst wird ein Ruhe-EKG geschrieben. Zeigt dieses deutliche Anomalien, so wird ergänzend ein Langzeit-EKG geschrieben.
+Im EKG sieht man dann oft die so genannte Deltawelle, ein Ausdruck für die vorzeitige Erregung eines Teil des Ventrikels im Bereich der Insertion der akzessorischen Bahn. Dadurch kommt es auch zu einem verkürzten PQ-Intervall, einem verbreiterten QRS-Komplex und einer Veränderung der ST-Strecke (Polarität T-Welle gegensinnig zur Deltawelle). Die ST-Strecken-Veränderungen sind hierbei als physiologisch zu bewerten.
+
+
+== Therapie ==
+In manchen Fällen können die Anfälle vom Patienten selbst beendet werden. Dies erfolgt über:
+
+Vagale Manöver
+Medikamentös mit Antiarrhythmika die Tachykardie zu durchbrechen: Ajmalin ist das Mittel der Wahl, nach I-B Evidenz auch Flecainid. Eine weitere Option ist die Gabe von Amiodaron.Gelingt dies nicht oder bei Schock-Zeichen sollte elektrisch mit dem Defibrillator kardiovertiert werden.
+Das Kent-Bündel als Ursache der WPW-Tachykardien kann mittels Katheterablation dauerhaft beseitigt werden. Die Erfolgsraten dieser Behandlung sind abhängig von der Lokalisation des Bündels und liegen um 90 %.
+
+
+== Siehe auch ==
+Lown-Ganong-Levine-Syndrom
+Präexzitationssyndrom
+EKG
+
+
+== Weblinks ==
+Eintrag zu Wolff-Parkinson-White-Syndrom im Flexikon, einem Wiki der Firma DocCheck, abgerufen am 28. Oktober 2020.
+
+
+== Literatur ==
+Louis Wolff, John Parkinson, Paul D. White: Bundle-branch block with short P-R interval in healthy young people prone to paroxysmal tachyardia. In: American Heart Journal. Band 5 (1930), S. 685–704.
+Heiner Greten, Franz Rinninger, Tim Greten: Innere Medizin. 13. Auflage. Thieme, Stuttgart 2010, ISBN 978-3-13-552213-5.
+
+
+== Einzelnachweise ==

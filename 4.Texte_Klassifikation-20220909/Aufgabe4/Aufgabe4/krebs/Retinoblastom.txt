@@ -1,0 +1,131 @@
+Das Retinoblastom ist ein bösartiger Tumor in der Netzhaut des Auges, für dessen Entstehung Mutationen in beiden Allelen des Retinoblastom-Gens (lokalisiert auf Chromosom 13, Bande q14) die Grundvoraussetzung sind.
+Dieser Tumor geht von genetisch veränderten unreifen Netzhautzellen aus und führt unbehandelt zum Tode. Wird die Krankheit frühzeitig erkannt und therapiert, sind die Heilungschancen gut (ca. 95 % der Patienten werden geheilt). Da das Wachstum des Retinoblastom nur von unreifen Netzhautzellen ausgehen kann, tritt dieser Tumor nur sehr selten nach dem 5. Lebensjahr auf. Auf 20.000 Lebendgeburten kommt etwa ein Krankheitsfall, was ca. 60 Fällen pro Jahr in Deutschland entspricht. In den USA rechnet man pro Jahr mit etwa 350 Fällen, weltweit geht man von 5.000–8.000 Neuerkrankungen pro Jahr aus. Zu unterscheiden ist eine erbliche von einer nicht-erblichen Form. Bei Mädchen und Jungen tritt der Tumor mit gleicher Häufigkeit auf. Abgesehen vom Menschen ist bisher keine Tierart bekannt, bei der ein Retinoblastom natürlicherweise auftritt.
+
+
+== Ursache ==
+
+Etwa 45 % der Patienten haben die erbliche Form des Retinoblastoms. Diese Patienten sind heterozygot für eine Mutation im Retinoblastom-Gen (erste Mutation). Diese Mutationen sind meist das Resultat von Neumutationen in der Keimbahn (Samenzelle bzw. Eizelle) eines Elternteils. Es liegt ein autosomal-dominanter Erbgang mit unvollständiger, aber hoher Penetranz vor. Zur Auslösung der Entstehung eines Retinoblastoms müssen beide Allele des Retinoblastomgen (RB1) mutiert sein. Untersuchungen hierzu wurden von Alfred G. Knudson durchgeführt und 1971 veröffentlicht, nach ihm heißt diese Theorie zur Tumorentstehung „Zwei-Mutationen-Theorie nach Knudson“.
+Die meisten Patienten mit erblichem Retinoblastom entwickeln mehrere Tumorherde in beiden Augen (beidseitiges Retinoblastom). Patienten mit erblichem Retinoblastom sind heterozygot für eine krankheitsursächliche Mutation im Retinoblastom-Gen. Sie geben das veränderte Allel des Retinoblastom-Gens mit einem Risiko von 50 % an die Nachkommen weiter. Bei Kindern, die ein verändertes Allel des Retinoblastom-Gens geerbt haben, besteht ein sehr hohes Risiko für die Entwicklung von Retinoblastomen.
+Etwa 55 % der Patienten haben die nicht-erbliche Form des Retinoblastoms. Bei diesen Patienten treten beide für die Tumorentstehung erforderlichen Mutationen in Körperzellen auf (somatische Mutationen). Fast alle Patienten mit nicht-erblichem Retinoblastom haben nur ein betroffenes Auge (einseitiges Retinoblastom).
+Da das Retinoblastom meist bei jungen Kindern unter fünf Jahren auftritt, wird das Retinoblastom auch als Kindlicher Augentumor bezeichnet. Die Erkrankung wird bei Kindern mit beidseitigem Retinoblastom überwiegend früher als bei Kindern mit einseitigem Retinoblastom festgestellt; das durchschnittliche Alter bei Diagnosestellung liegt bei der unilateralen Form bei 23 Monaten, bei der bilateralen Form bei 12 Monaten. Etwa 10 % der Retinoblastome werden bereits kurz nach der Geburt diagnostiziert, innerhalb des ersten Lebensjahres etwa 50 %, und bis zum 3. Lebensjahr ungefähr 90 %.
+
+
+== Sonderformen ==
+
+
+=== Trilaterales Retinoblastom ===
+
+Trilaterales Retinoblastom nennt man ein sehr selten vorkommendes erbliches Retinoblastom, das gemeinsam mit einem Hirntumor auftritt. Dabei handelt es sich um eine selbständige Geschwulst, nicht um eine Metastase. Die Histologie ähnelt der des Retinoblastoms; die Prognose ist für den Patienten relativ ungünstig.
+
+
+=== Retinom (Retinozytom) ===
+Retinom bezeichnet einen gutartigen (benignen) Netzhauttumor, der in ungefähr 2 % der Patienten mit einer Mutation des RB-Gens auftritt. Es handelt sich dabei vermutlich um einen Vorläufer des Retinoblastoms oder um die Reste eines abgeheilten Retinoblastoms nach spontaner Regression. Die Histologie ist ähnlich der des Retinoblastoms.
+
+
+== Symptomatik ==
+
+Nicht selten fällt der Tumor durch sogenannte Leukokorie auf. Dabei wird das in das Auge einfallende (Blitz-)Licht nicht wie beim gesunden Auge von der Netzhaut mit der darunterliegenden Aderhaut reflektiert (dies ergibt das typische „rote Auge“ auf Photographien), sondern vom Retinoblastomgewebe (hierdurch kommt es zu einer weißlich-gelblichen Reflexion des Lichts, siehe Abbildung). Bei Retinoblastompatienten, die später durch andere Symptome klinisch auffällig werden, lässt sich nicht selten auf früheren Photographien bereits das Phänomen der Leukokorie beobachten. Liegt gleichzeitig auf dem Auge auch noch eine tumorbedingte „Blindheit“ (Amaurose) vor, so spricht man auch vom „amaurotischen Katzenauge“.
+Neben der Leukokorie ist eine Schielstellung (Strabismus) der Augen das häufigste Symptom. Seltener findet man eine schmerzhafte Rötung des Auges, ein Glaukom (grüner Star), teilweisen Verlust des Sehvermögens, Entzündungen in der Augenhöhle (orbitale Cellulitis), sehr selten eine einseitige Weitstellung der Pupille (unilaterale Mydriasis), Verfärbungen der Iris (Heterochromie), weiße Irisflecken oder Blut in der vorderen Augenkammer (Hyphäma).
+
+
+== Diagnostik ==
+Gängige Untersuchungsmethoden sind insbesondere die Augenspiegelung (Ophthalmoskopie) und die Sonographie. In bestimmten Fällen wird zudem eine Computertomographie oder Magnetresonanztomographie vorgenommen, bei fortgeschrittenem Stadium der Krankheit auch eine Untersuchung von Liquor und Knochenmark, um eine Metastasierung feststellen zu können.
+Abzugrenzen ist die Retinale Dysplasie.
+
+
+== Reese-Ellsworth-Klassifikation ==
+Dieses für das Retinoblastom am meisten verwendete Klassifikationssystem wurde in den 1960er Jahren am Columbia Presbyterian Medical Center entwickelt. Dabei handelt es sich nicht um ein klassisches Staging-System, bei dem Patienten von Gruppe I aus zu den höheren Gruppen fortschreiten. Es wurde vielmehr entworfen, um die Prognose von Tumoren nach perkutaner Strahlentherapie vorauszusagen: je höher die Klassifikation, desto weiter vorne im Auge sitzt ein Tumor und umso schlechter ist der Behandlungserfolg. Mit dem zunehmenden Trend zu anderen Therapien wird dieses Klassifikationssystem zunehmend in Frage gestellt; andere Systeme konnten sich bisher jedoch noch nicht durchsetzen.
+
+Ia. – Solider Tumor, <4 Diskus-Ø, am oder hinter dem Äquator
+Ib. – Multiple Tumoren ,<4 Diskus-Ø, am oder hinter dem Äquator
+IIa. – Solider Tumor, 4-10 Diskus-Ø, am oder hinter dem Äquator
+IIb. – Multiple Tumoren, 4-10 Diskus-Ø, am oder hinter dem Äquator
+IIIa. – Alle Läsionen vor dem Äquator
+IIIb. – Solider Tumor >10 Diskus-Ø hinter dem Äquator
+IVa. – Multiple Tumoren, >10 Diskus-Ø
+IVb. – Alle Läsionen rostral der Ora serrata
+Va. – Tumor nimmt über die Hälfte der Retina ein
+Vb. – Glaskörperaussaat
+
+
+== Therapie ==
+
+Die Chance auf Heilung sowie auf Erhalt der Sehfähigkeit ist sehr stark von der Ausbreitung des Tumors im und außerhalb des Auges abhängig. Hauptziel ist in jedem Falle die Rettung des Patienten, was auf eine vollständige Entfernung des Tumors hinausläuft. Wenn es möglich ist, versucht man dabei den Augapfel und möglichst viel von der Sehfähigkeit zu erhalten.
+
+
+=== Enukleation ===
+Bei fortgeschrittenem Krankheitsstadium kann der Tumor nur noch durch die Entfernung des betroffenen Auges vollständig beseitigt werden. Bei dieser Enukleation wird das Auge mit einem möglichst großen Teil des Sehnerven (über den eine Ausbreitung von Metastasen ins Gehirn möglich ist) operativ entfernt. Die Augenmuskeln und der übrige Inhalt der Orbita bleiben dabei erhalten. Tumor und Sehnerv werden im Anschluss an die Enukleation histologisch untersucht, um eine eventuelle Metastasierung feststellen zu können.
+Im Anschluss an die Entfernung des Augapfels wird ein Implantat in die Augenhöhle eingesetzt, auf das eine Augenprothese aufgesetzt werden kann.
+
+
+=== Perkutane Strahlentherapie ===
+Das Retinoblastom reagiert äußerst sensibel auf Bestrahlung. Daher war die perkutane Strahlentherapie (Bestrahlung des Tumors durch die Haut unter Aussparung der Linse) über lange Zeit die Standardtherapie. Allerdings weiß man inzwischen, dass sich das Risiko für Sekundärtumoren durch die Bestrahlung (vor allem beim erblichen Retinoblastom und einer Bestrahlung im ersten Lebensjahr) um den Faktor 3-6 erhöht. Heute verwendet man die perkutane Strahlentherapie vor allem bei Glaskörperaussaat, Metastasierung oder wenn sich eine Chemotherapie als unwirksam oder unverträglich erwiesen hat.
+Mögliche Nebenwirkungen sind strahlungsbedingte Schädigungen der Bestandteile des Auges wie der Netzhaut (Strahlenretinopathie), des Sehnerven (Strahlenopticusneuropathie und Opticusatrophie), der Linse (Strahlenkatarakt) oder Tränendrüse sowie Störungen des Knochenwachstums.
+
+
+=== Brachytherapie ===
+Bei der Brachytherapie werden Strahlenträger (Applikatoren) auf die Lederhaut (Sclera) des Auges aufgenäht und nach Erreichen der erforderlichen Strahlendosis wieder entfernt. Die Applikatoren enthalten kleine Stückchen eines radioaktiven Strahlers wie etwa Ruthenium-106 oder Iod-125, dessen Strahlung recht gezielt auf den Tumor ausgerichtet werden kann. Somit eignet sie sich vor allem für mittelgroße Tumoren abseits der Makula und lokalisierte Glaskörperaussaaten.
+Mögliche Nebenwirkungen sind Doppelsehen, Trübungen der Linse, Schädigungen der Netzhaut oder des Sehnerven oder Blutungen.
+
+
+=== Koagulationstechniken ===
+Hierbei handelt es sich um lokale Therapieverfahren, bei denen der Tumor durch Erhitzung mit einem Laser (Laserkoagulation) oder Vereisung (Kryokoagulation) abgetötet wird. Sie werden bei Patienten mit relativ frühen Stadien und kleinen Tumoren angewendet, bei Rezidiven nach Bestrahlung oder nach Chemoreduktion. Die Tumoren müssen hierfür von Sehnerv, Makula, Aderhaut und größeren Gefäßen entfernt sein, damit diese nicht durch die Behandlung geschädigt werden. Als Komplikationen können Myopie, Schrumpfung der Lederhaut und Schäden an der Netzhaut auftreten.
+
+
+=== Chemotherapie ===
+
+Eine adjuvante (unterstützende) Chemotherapie wird in erster Linie nach einer Enukleation durchgeführt, wenn eine Metastasierung vorliegt und Tumorzellen in Vorderkammer, Iris oder Aderhaut oder im entfernten Sehnerv gefunden wurden.
+Bei der Chemoreduktion werden große Tumoren im vorderen Teil des Auges durch eine Chemotherapie verkleinert, bevor sie mit lokalen Therapien (Brachytherapie, Laser- oder Kryokoagulation) weiter behandelt werden.
+Eine Hochdosis-Chemotherapie wird nur bei starker Metastasierung mit schlechter Prognose durchgeführt.
+In zunehmendem Maße wird eine lokale Applikation von Chemotherapeutika direkt in die Augenarterie (A. ophthalmica) angewandt. Dadurch werden systemische Nebenwirkungen vermindert.
+Neben den üblichen Nebenwirkungen einer Chemotherapie ist das Auftreten von Chemotherapie-Resistenz problematisch, durch die der Tumor nach einer Weile das Wachstum wieder aufnimmt.
+
+
+=== Thermochemotherapie ===
+Bei der Thermochemotherapie macht man sich den Effekt zunutze, dass eine lokale Erwärmung des Tumors den Effekt der Behandlung mit einem Chemotherapeutikum (in der Regel Carboplatin) wesentlich verbessert. Sie wird vor allem bei kleineren Tumoren im hinteren Teil des Auges angewendet. Mögliche Komplikationen sind Trübungen des Glaskörpers und Schäden an Netzhaut und Iris.
+
+
+=== Neue Therapieverfahren ===
+Alle aktuellen Therapieverfahren sind mit einer Reihe von Nachteilen verbunden: die Enukleation führt zum Verlust eines Auges, die perkutane Strahlentherapie erhöht das Risiko von Sekundärtumoren, die Chemotherapie ist mit erheblichen Nebenwirkungen verbunden und ist durch das Auftreten von Resistenzen nur begrenzt wirksam, Laserkoagulation und Kryokoagulation führen zum Verlust von Netzhautarealen und damit zu Einschränkungen des Sehvermögens. Trotz einer geringen Mortalität ist das Retinoblastom somit mit einer hohen Morbidität verbunden. Neuartige Therapieverfahren wie die Thermochemotherapie oder Photodynamische Therapie sollen die Morbidität weiter senken.
+
+
+== Geschichte ==
+
+Die erste Beschreibung eines Retinoblastoms wird dem Leidener Anatomen Pieter Pauw, genannt Petrus Parwius zugeschrieben, der 1597 in seinen „Observationes Anatomicae Selectiores“ im Kapitel „Tumor oculorum“ die Obduktion eines dreijährigen Knaben beschreibt, der an einem großen Tumor des linken Auges verstorben war. William Hey beschreibt 1805 in seinen „Practical Observations in Surgery“ eingehend einen „Fungus haematodes“, also Blutschwamm. Die detaillierteste Untersuchung findet man in den “Observations on the Fungus Haematodes or Soft Cancer” von James Wardrop (1809), der 17 Fälle beschreibt und erstmals die Entstehung in der Netzhaut und die Ausbreitung über den Sehnerv (N. opticus) beschreibt. Als erster empfiehlt er die Entfernung des Auges.
+1836 können Langenbech, Robin und Nystin erstmals die Entstehung in der Netzhaut mikroskopisch beweisen. Rudolf Virchow bezeichnet den Tumor 1864 als Glioma retinae. 1868 erkennt Albrecht von Graefe, dass es sich um eine erbliche Krankheit handelt. Simon Flexner (1891) und Hugo Wintersteiner (1897) beschreiben das typische rosettenförmige Wachstum (Flexner-Wintersteiner-Rosetten) und erkennen die Beziehung zu Stäbchen und Zapfen der Netzhaut. Der Begriff „Retinoblastom“ wird von Fredrick Herman Verhoeff 1926 geprägt, der die Herkunft aus noch undifferenzierten Netzhautzellen, den Retinoblasten, erkennt. 1971 dient das Retinoblastom als Modellsystem für die „Two-Hit“-Hypothese von Alfred G. Knudson, und 1987 wird das „Retinoblastoma susceptibility gene“ von Lee sequenziert.
+
+
+== Literatur ==
+P. Pawius: Observatio XXIII. Tumor oculorum. In: Observationes Anatomicae Selectiores. Appended to: T. Bartholinus: Historiarum Anatomicarum Rariorum. Centuria III & IV. Petrus Morsing, Copenhagen, Denmark 1657, S. 38–39. (Nachdruck In: T. Kivelä, M. L. Polkunen: Pieter Pauw's Tumor Oculorum. Reappraisal of the Presumed First Description of Retinoblastoma in 1597.) In: Arch Ophthalmol. 2003; 121, 6: 881-886. PMID 12796262
+W. Hey: Practical Observations in Surgery: Illustrated by Cases. 1814. [1]
+S. Flexner: A peculiar glioma (neuroepithelioma?) of the retina. In: Johns Hopkins Hosp Bull. 1891;2, S. 115–119.
+W. H. Lee, R. Bookstein, F. Hong, L. J. Young, J. Y. Shew, E. Y. Lee: Human retinoblastoma susceptibility gene: cloning, identification, and sequence. In: Science. 1987 Mar 13;235(4794), S. 1394–1399. (PDF). PMID 3823889
+M. Chintagumpala, P. Chevez-Barrios, E. A. Paysse, S. E. Plon, R. Hurwitz: Retinoblastoma: review of current management. In: Oncologist. 2007 Oct;12(10), S. 1237–1246. Review. PMID 17962617
+A. Melamud, R. Palekar, A. Singh. Retinoblastoma. Am Fam Physician. 2006 Mar 15;73(6), S. 1039–1044. Review. PMID 16570739
+A. G. Knudson, Jr: Mutation and cancer: statistical study of retinoblastoma. In: Proc Natl Acad Sci U S A. 1971 Apr;68(4), S. 820–823. PMID 5279523
+Bornfeld u. a.: Perspektiven der Ophthalmoonkologie. In: Dtsch Arztebl. 2004; 101(38), S. A-2526 / B-2130 / C-2049.Erfahrungsbericht eines Betroffenen:
+
+Becky Keep: Augen zu sehen. Christliche Verlagsgesellschaft, Dillenburg 2018, ISBN978-3-86353-486-8.
+
+
+== Einzelnachweise ==
+A. H. Berger, A. G. Knudson, P. P. Pandolfi: A continuum model for tumour suppression. In:  Nature. 2011 Aug 10;476(7359), S. 163–169. doi:10.1038/nature10275. Review. PMID 21833082
+A. L. Manning, N. J. Dyson: pRB, a tumor suppressor with a stabilizing presence. In: Trends Cell Biol. 2011 Aug;21(8), S. 433–441. doi:10.1016/j.tcb.2011.05.003. Epub 2011 Jun 12. Review. PMID 21664133
+S. K. Houston, T. G. Murray, S. Q. Wolfe, C. E. Fernandes: Current update on retinoblastoma. In: Int Ophthalmol Clin. 2011 Winter;51(1), S. 77–91. Review. PMID 21139478
+D. Lohmann: Retinoblastoma. In: Adv Exp Med Biol. 2010; 685, S. 220–227. Review. PMID 20687510
+C. L. Shields, J. A. Shields: Intra-arterial chemotherapy for retinoblastoma: the beginning of a long journey. In: Clin Experiment Ophthalmol. 2010 Aug;38(6), S. 638–643. Epub 2010 Mar 25. Review. PMID 20584015
+C. L. Shields, J. A. Shields: Retinoblastoma management: advances in enucleation, intravenous chemoreduction, and intra-arterial chemotherapy. In: Curr Opin Ophthalmol. 2010 May;21(3), S. 203–212. Review. PMID 20224400
+K. E. Nichols, S. Walther, E. Chao, C. Shields, A. Ganguly: Recent advances in retinoblastoma genetic research. In:  Curr Opin Ophthalmol. 2009 Sep;20(5), S. 351–355. Review. PMID 19587599
+V. Poulaki, S. Mukai: Retinoblastoma: genetics and pathology. In:  Int Ophthalmol Clin. 2009 Winter;49(1), S. 155–164. Review. No abstract available. PMID 19125074
+C. Rodriguez-Galindo, M. W. Wilson, G. Chantada, L. Fu, I. Qaddoumi, C. Antoneli, C. Leal-Leal, T. Sharma, M. Barnoya, S. Epelman, L. Pizzarello, J. R. Kane, R. Barfield, T. E. Merchant, L. L. Robison, A. L. Murphree, P. Chevez-Barrios, M. A. Dyer, J. O'Brien, R. C. Ribeiro, J. Hungerford, E. M. Helveston, B. G. Haik, J. Wilimas: Retinoblastoma: one world, one vision. In: Pediatrics. 2008 Sep;122(3), S. e763–e770. Review. PMID 18762512
+
+
+== Weblinks ==
+Retinoblastom. In: Online Mendelian Inheritance in Man. (englisch)Diagnose und Therapie des Retinoblastoms (PDF) (609 kB)
+Genetik des Retinoblastoms (PDF) (596 kB)
+Kinder-Augen-Krebs-Stiftung. Abgerufen am 19. Juni 2010 (Aktuelle Informationen über Krankheitsbild, Forschung und Vorsorge). 
+Retinoblastom-Seite der Deutschen Krebsgesellschaft e. V.
+Retinoblastom (Kurzinformation vom 19. Juli 2011) auf der Webseite kinderkrebsinfo.de, abgerufen am 24. Februar 2014
+Diagnose
+Therapieformen
+Erstuntersuchung

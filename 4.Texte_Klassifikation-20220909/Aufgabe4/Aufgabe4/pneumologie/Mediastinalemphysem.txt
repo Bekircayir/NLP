@@ -1,0 +1,51 @@
+Das Mediastinalemphysem oder auch Pneumomediastinum ist eine Luftansammlung im Mittelfellraum (Mediastinum), die immer Zeichen einer Erkrankung oder Verletzung ist.
+
+
+== Ursachen ==
+Grundsätzlich kann die Luft durch Perforation aus allen lufthaltigen Organen, das heißt vor allem dem Bronchialsystem oder dem Magen-Darm-Trakt, in das Mediastinum übertreten. Es kann ein spontanes Pneumomediastinum von einem nicht-spontanen Pneumomediastinum unterschieden werden.
+
+
+=== Spontanes Pneumomediastinum ===
+Das spontane Pneumomediastinum entsteht ohne ein vorausgehendes Trauma. Eine zugrunde liegende Lungenerkrankung findet sich definitionsgemäß nicht.Das spontane Pneumomediastinum ist meist Folge einer intrathorakalen Druckerhöhung. Wahrscheinlich kommt es infolgedessen durch eine Ruptur der Lungenbläschen (Alveolen) zu einem Luftübertritt entlang des Bronchialsystems in das Mediastinum.
+Bei einem Großteil der Fälle – in rund 70 % – lassen sich drucksteigernde Faktoren wie Erbrechen oder heftiger Husten, eine physische Anstrengung oder ein Asthma bronchiale eruieren. Wahrscheinlich führt beim Asthma bronchiale die Entzündungsreaktion zu einer Ruptur peripherer Alveolen.
+Weitere Ursachen eines spontanen Pneumomediastinums können das Valsalva-Manöver (z. B. im Rahmen von Gewichtheben oder einer Geburt), eine Verengung der Atemwege bei Bronchitis, die Inhalation von Drogen (z. B. Crack oder Marihuana), Gerätetauchen oder die invasive Beatmung sein.
+
+
+=== Nicht-spontanes Pneumomediastinum ===
+
+Die Ursachen des nicht spontanen Pneumomediastinums sind vielfältig. Häufige und potentiell lebensgefährliche Ursachen sind der Übertritt von Luft nach Perforation eines Hohlorgans (z. B. der Speiseröhre oder des Bronchialsystems) infolge eines Thoraxtraumas, Barotraumas oder eines Tumorleidens. Weitere Ursachen können das Schlucken oder das Einatmen von Fremdkörpern (Fremdkörperingestion- oder Fremdkörperaspiration) sein.
+Auch iatrogen, das heißt durch Komplikationen im Rahmen ärztlicher Maßnahmen wie der Endoskopie kann es zu einer Ruptur von Luftröhre, Bronchien oder der Speiseröhre kommen. Auch durch Perforation des Dickdarms (z. B. Dickdarmkrebs oder Sigma-Divertikulitis) oder durch Perforation eines Duodenalulkus kann es über den Eintritt von Luft in das Retroperitoneum zu einem Pneumomediastinum kommen.
+
+
+== Klinische Erscheinungen ==
+In vielen Fällen tritt das Mediastinalemphysem im Rahmen eines Pneumothorax oder eines Hautemphysem auf, verursacht dabei aber keine eigenen Symptome. Häufig ist bei der Palpation des Jugulums ein Knistern zu tasten.
+Bei ausgeprägtem Mediastinalemphysem klagen die betroffenen Patienten über scharfe, perikardiale Schmerzen. Weiterhin kann bei ausgeprägtem Emphysem eine obere Einflussstauung beobachtet werden.
+
+
+== Untersuchungsmethoden ==
+Grundlage zur Diagnosestellung sind die Anamnese und die körperliche Untersuchung.
+Die Diagnose eines Pneumomediastinums wird mittels Bildgebung, entweder mittels konventioneller Röntgenaufnahme (Röntgen-Thorax) oder mittels Computertomographie des Brustkorbs, gestellt. Die Computertomographie ist sensitiver als das konventionelle Röntgen. Neben dem Nachweis auch kleinster Luftansammlungen im Mediastinum liefert die Computertomographie auch Hinweise auf die mögliche Ursachen (Ätiologie).
+Zusätzlich sollte das Blut untersucht und die Entzündungsparameter (Leukozyten, BSG und CRP) abgenommen werden.
+Differenzialdiagnostisch sollte bei ausgeprägtem Emphysem an andere Ursachen von Thoraxschmerzen gedacht werden. Dazu gehören z. B. eine Perikarditis, ein akutes Koronarsyndrom oder auch eine Lungenembolie.
+Weiterhin sollte eine Mediastinitis durch gasbildende Bakterien ausgeschlossen werden.
+
+
+== Therapie ==
+Grundlegend ist die Behandlung der Grunderkrankung. Dazu gehört z. B. die Naht einer Ruptur des Ösophagus oder der Trachea sowie ein adäquates Beatmungsmanagement. Wenn die Patienten symptomfrei sind, ist in der Regel keine Behandlung erforderlich.Bei ausgeprägten Schmerzen sollte eine Inzision kranial des Sternums durchgeführt und eine Kanüle ins Mediastinum vorgeschoben werden, durch die die Luft entweichen kann.
+
+zügiger Transport in ein Krankenhaus
+Notfallmäßige Entlastung großer Mediastinalemphyseme durch kollare Mediastinotomie
+kausale Therapie der Ursache (Pleurapunktion und Drainageeinlage bei Pneumothorax, Thorakotomie bei Verletzungen der Mediastinalorgane)
+
+
+== Prognose ==
+Die Ursache bestimmt die Prognose. Patienten mit einer Ruptur des Ösophagus oder der Trachea entwickeln häufig eine bakterielle Mediastinitis.
+
+
+== Literatur ==
+Liechti ME, Achermann E: [Pneumomediastinum].  In:  Dtsch. Med. Wochenschr.. 127, Nr. 43,  Oktober 2002, S. 2273–6. doi:10.1055/s-2002-35014. PMID 12397542.
+Takada K, Matsumoto S, Hiramatsu T, et al.: Spontaneous pneumomediastinum: an algorithm for diagnosis and management.  In:  Ther Adv Respir Dis. 3, Nr. 6,  Dezember 2009, S. 301–7. doi:10.1177/1753465809350888. PMID 19934282.
+Caceres M, Ali SZ, Braud R, Weiman D, Garrett HE: Spontaneous pneumomediastinum: a comparative study and review of the literature.  In:  Ann. Thorac. Surg.. 86, Nr. 3,  September 2008, S. 962–6. doi:10.1016/j.athoracsur.2008.04.067. PMID 18721592.
+Zylak CM, Standen JR, Barnes GR, Zylak CJ: Pneumomediastinum revisited.  In:  Radiographics. 20, Nr. 4,  2000, S. 1043–57. PMID 10903694.
+Bejvan SM, Godwin JD: Pneumomediastinum: old signs and new signs.  In:  AJR Am J Roentgenol. 166, Nr. 5,  Mai 1996, S. 1041–8. PMID 8615238.
+Bullaro FM, Bartoletti SC: Spontaneous pneumomediastinum in children: a literature review.  In:  Pediatr Emerg Care. 23, Nr. 1,  Januar 2007, S. 28–30. doi:10.1097/01.pec.0000248686.88809.fd. PMID 17228218.Einzelnachweise

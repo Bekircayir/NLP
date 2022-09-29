@@ -1,0 +1,111 @@
+Die hypertrophe Kardiomyopathie (auch: hypertrophische Kardiomyopathie; HCM; früher: idiopathische hypertrophe subaortale Stenose; IHSS) ist eine monogen erbliche Erkrankung und gehört zur großen Gruppe der Kardiomyopathien (griechisch καρδία kardía, deutsch ‚Herz‘, gr. μυς mys, ‚Muskel‘, gr. πάθος páthos ‚Leiden‘; Erkrankung der Herzmuskulatur). Sie ist charakterisiert durch eine meist asymmetrische Verdickung (Hypertrophie) der Muskulatur der linken Herzkammer über 15 mm ohne adäquate Druckbelastung und durch eine gestörte Anordnung der Myozyten (Disarray). Bei einem Teil der Fälle kommt es zu einer unter Belastung zunehmenden Verengung (Obstruktion) der linksseitigen Ausflussbahn (hypertrophe obstruktive Kardiomyopathie, HOCM) und im Verlauf zu einer Versteifung (mit verminderter Dehnbarkeit) des Herzmuskels (Compliancestörung). Hauptbeschwerden sind Luftnot unter Belastung sowie teilweise gefährliche Herzrhythmusstörungen. Behandelt wird die Erkrankung mit herzkraftsenkenden Medikamenten und, im Falle einer Verlegung des Ausflusstraktes, mit einer herzkathetergeführten oder operativen Muskelentfernung.
+
+
+== Ursache – Ätiologie ==
+Die Erkrankung ist angeboren und tritt familiär gehäuft auf. Sie wird autosomal dominant vererbt. Frauen und Männer sind gleich häufig betroffen. Die Prävalenz liegt bei mindestens 1:500. Damit ist die HCM die häufigste durch einen Erbgutfehler ausgelöste Herzerkrankung.
+
+
+=== Genotyp ===
+Über 1.500 Gendefekte (Mutationen) auf über 27 Genorten, die überwiegend Proteine des kardialen Sarkomers kodieren, sind bekannt. Die wichtigsten Defekte (über 50 %) liegen im Aufbau der beta-myosin heavy chain (ein Myosinfilament, der erste identifizierte Gendefekt), im myosin binding protein C und im Troponin-T. Sedaghat-Hamedani et al. haben in einer großen Meta-Analyse gezeigt, dass die Patienten mit einer MYH7-Mutation eine schlechtere Prognose als HCM-Patienten ohne solche Mutationen haben.
+
+
+=== Phänotyp ===
+Die phänotypische Ausprägung ist meist nicht ausschließlich abhängig von einer einzelnen Mutation, sondern wird durch „Modifier-Gene“ und Umgebungsfaktoren mitbedingt. Das klinische Bild (linksventrikuläre Hypertrophie in der Echokardiographie, EKG-Veränderungen) kann, trotz nachgewiesenem Gendefekt, völlig fehlen. Kinder unter 13 Jahren sind üblicherweise ausschließliche „stille Genträger“.
+
+
+=== Feingewebliche Veränderungen – Pathologie ===
+Das feingewebliche Bild ist nicht spezifisch. Es findet sich eine Verzweigungsstörung der hypertrophierten Herzmuskelzellen mit Fehlen der normalen parallelen Anordnung durch vermehrte seitliche Verzweigungen, die durch Seit-zu-Seit-Verbindungen ersetzt wurden (myozytäres Disarray). Weiter findet sich ein bindegewebiger (fibrotischer) Umbau des Interstitiums. Die mikroskopischen Veränderungen sind nicht auf die makroskopisch hypertrophierten Bereiche beschränkt. Ein ähnliches Bild, nur bei weitem nicht so ausgeprägt, zeigt sich auch bei anderen mit Herzmuskelhypertrophie einhergehenden Erkrankungen.
+
+
+== Krankheitsentstehung – Pathogenese ==
+Bei etwa zwei Dritteln der betroffenen Patienten befindet sich die Herzmuskelverdickung im Ausflusstrakt der linken Herzkammer, wodurch es je nach Schweregrad unter Belastung (körperlich oder medikamentös) oder auch in Ruhe zu einer Einengung (Obstruktion) des Ausflusstraktes kommt. Dadurch entsteht eine funktionelle Aortenstenose mit erhöhter Druckbelastung der linken Kammer. Die HCM wird dementsprechend in eine obstruktive (HOCM) und eine nicht-obstruktive Form (HNCM) unterteilt. Bei nur unter Belastung nachweisbarer Obstruktion wird auch von einer HCM mit dynamischer Obstruktion gesprochen. Etwa 12 % der Patienten mit einer HOCM leiden unter einer atypischen Form, bei der die Obstruktion nicht subaortal, sondern mittventrikulär liegt.Neben der Einengung der Ausflussbahn bei der HOCM führt die Muskelverdickung bei beiden Formen der HCM zu einer Muskelversteifung. Hierdurch kann sich die Herzkammer in ihrer Erschlaffungsphase (Diastole) nur eingeschränkt füllen, wodurch das Blut sich in die Lungenvenen zurückstaut mit nachfolgender Atemnot. Man spricht von einer diastolischen Herzinsuffizienz (diastolische Compliancestörung). Bei der HOCM nimmt die Muskelversteifung durch die vermehrte Arbeit (Pumpleistung gegen die Enge des Ausflusstraktes) noch zusätzlich zu.
+Im Weiteren findet sich bei der HOCM, durch die auftretende Flussbeschleunigung im Bereich der verengten Ausflussbahn, eine Sogwirkung auf die Mitralklappe (Venturi-Effekt), wodurch diese in meist nur mäßiger Ausprägung undicht werden kann (Mitralinsuffizienz).
+Hauptproblem neben der Belastungseinschränkung ist die Neigung zu schwerwiegenden, vor allem unter Belastung auftretenden Rhythmusstörungen. Diese können mit Synkopen (kurze Bewusstlosigkeit) und dem plötzlichen Herztod einhergehen. So sind plötzliche Todesfälle von Menschen unter 35 Jahren beim Sport häufig durch eine HCM verursacht. Das jährliche Todesfallrisiko bei Erwachsenen mit HCM ist individuell zu beurteilen und beträgt etwa 1 %, bei Kindern ist es höher.
+
+
+== Klinische Erscheinungen ==
+Die Patienten sind, besonders bei der nicht-obstruktiven Form (HNCM), häufig asymptomatisch. Wenn Symptome auftreten, sind diese meist nicht wegweisend (Luftnot, Angina Pectoris, Rhythmusstörungen, Schwindel, Synkopen, plötzliche Todesfälle).
+
+
+== Untersuchungsmethoden – Diagnostik ==
+Die HCM muss von einer reaktiven Herzmuskelhypertrophie durch Sport (Athletenherz) oder langjährigen Bluthochdruck (Hypertonieherz) sowie von einer Erkrankung der Aortenklappe (Aortenklappenstenose) abgegrenzt werden.
+
+
+=== Anamnese und körperliche Untersuchung ===
+Neben nur wenig wegweisenden Beschwerdeangaben in der Anamnese (siehe oben) fällt bei der körperlichen Untersuchung im Rahmen der Auskultation ein Systolikum auf, das unter Belastung (z. B. zehn Kniebeugen) oder auch unter einem Pressmanöver (Valsalva-Manöver) zunimmt bzw. durch den Anstieg des Gradienten im linksventrikulären Ausflusstrakt im Rahmen der vermehrten Belastung überhaupt erst wahrnehmbar wird. Dadurch lässt sich die HOCM relativ sicher von der Aortenklappenstenose oder der Mitralklappeninsuffizienz abgrenzen, da deren Geräusche beim Valsalva-Manöver leiser werden.
+
+
+=== Technische Untersuchungsverfahren ===
+Im EKG sind eventuell Zeichen der linksventrikulären Hypertrophie (Sokolow-Lyon-Index), Q-Zacken und Repolarisationsstörungen zu sehen, diese sind allerdings unspezifisch.
+
+Die Echokardiographie ist das diagnostische Mittel der Wahl. Neben der Septumhypertrophie (> 15 mm) kann hier häufig auch ein verlagertes Mitralklappensegel gesehen werden, welches in der Systole eine Bewegung zum Septum macht und den Ausflusstrakt zusätzlich einengt (systolic anterior movement = SAM). Im Weiteren können der Ruhe-Gradient im linksventrikulären Ausflusstrakt (LVOT), d. h. ein Drucksprung zwischen linker Herzkammer und Hauptschlagader, gemessen sowie die Herzmuskelversteifung beurteilt werden.
+In der Belastungs-Echokardiographie kann der Gradient im LVOT vor und nach Belastung bestimmt werden, womit ein objektiver Parameter zur Verlaufs- und Therapiekontrolle zur Verfügung steht.
+Die Kernspintomographie kann auch atypische (Verteilungs-)Formen zuverlässig darstellen und ist deshalb bei klinischem Verdacht und fehlendem Nachweis der HOCM in der Echokardiographie indiziert. Sie kann fleckförmige Narben im hypertrophierten Myokard nachweisen, die als Risikofaktor für Arrhythmien und plötzlichen Herztod gelten. Auch die Flussbeschleunigung im Ausflusstrakt sowie die narbigen Veränderungen nach therapeutischer Septumembolisation sind kernspintomographisch gut darstellbar.Die Herzkatheteruntersuchung bietet die Möglichkeit einer direkten Druckmessung im Herzen zur Bestimmung des Gradienten im LVOT, zur Bestimmung des Ausmaßes der Herzmuskelversteifung sowie zum Ausschluss anderer Erkrankungen. Wird während der Katheteruntersuchung eine ventrikuläre Extrasystole ausgelöst, kommt es zu einer Vervielfachung des Druckgradienten sowie zu einem fehlenden Anstieg des systolischen Blutdrucks beim postextrasystolischen Schlag (sog. Brockenbrough-Phänomen). Dies gilt als pathognomisch für die HOCM.
+Labortechnisch besteht die Möglichkeit zur Gendiagnostik. Diese ist allerdings sehr teuer und wird daher zurzeit nur im Rahmen von Studien durchgeführt.
+Eine weitere sehr einfache Methode zur Verlaufs- und Therapiekontrolle ist der 6-Minuten-Gehtest.
+
+
+=== Angehörigenscreening ===
+Verwandte ersten Grades sollten auf das Vorliegen einer HCM untersucht werden. Kinder erkrankter Eltern haben ein fünfzigprozentiges Risiko, ebenfalls Träger des Gendefektes zu sein. Falls keine Gendiagnostik möglich ist (s. o.), sollten Kinder und Jugendliche zwischen dem 12. und 18. Lebensjahr jährlich und nach dem 18. Lebensjahr alle fünf Jahre echokardiographisch untersucht werden. Vor dem zwölften Lebensjahr wird ein Screening nur bei Kindern empfohlen, die aus einer Hochrisikofamilie stammen oder Leistungssport betreiben.
+
+
+== Therapie ==
+
+
+=== Konservative Maßnahmen ===
+Körperliche Belastung in Abhängigkeit von der Ausprägung der Erkrankung ist erlaubt, jedoch sollten kein Leistungssport und keine Sportarten mit plötzlich einsetzenden Maximalbelastungen (Fußballspiel) betrieben werden. Hierbei besteht eine erhöhte Gefahr bösartiger Herzrhythmusstörungen.
+Bei beiden Formen der HCM werden Medikamente gegeben, welche die Leistung der linken Herzkammer herabsetzen („weniger ist mehr“). Hierzu gehören Betablocker oder Calciumantagonisten vom Verapamil-Typ.
+Bei schwerwiegenden Rhythmusstörungen kommen Antiarrhythmika zum Einsatz.
+Medikamente, die die Kontraktionskraft des Herzmuskels stärken, wie Digitalis oder Katecholamine, verstärken auch die Obstruktion bei der HOCM und dürfen daher nicht verwendet werden. Ebenso führen Vor- oder Nachlast-senkende Medikamente wie Nitroverbindungen, ACE-Hemmer oder AT1-Antagonisten zu einer Zunahme des Gradienten im Ausflusstrakt und sind ebenso kontraindiziert.
+
+
+=== Spezifische medikamentöse Therapie ===
+Das Medikament Mavacamten ist die erste spezifische Therapie der HCM. 2020 wurde eine Phase-3-Studie veröffentlicht, die eine deutliche Verbesserung von objektiven und subjektiven Zeichen der HOCM durch Mavacamten zeigte.
+
+
+=== Interventionelle Maßnahmen ===
+Bei einer HOCM sollte bei Beschwerden die definitive Behandlung der Obstruktion ab einem Ruhegradienten im LVOT > 30 mmHg oder bei einem Gradienten nach Provokation angestrebt werden. Die Ausbildung einer diastolischen Compliancestörung kann hierdurch vermindert werden. Es stehen drei Therapieoptionen zur Verfügung.
+
+
+==== Katheterbehandlung der Septumhypertrophie ====
+Die Transcoronare Ablation der Septumhypertrophie (TASH), alcohol septal ablation (ASA) oder Perkutane transluminale septale Myokard-Ablation (PTSMA) ist das interventionelle Verfahren der Wahl zur Behandlung der Obstruktion einer HOCM. Bei dieser von Sigwart erstmals im Juni 1994 am Royal Brompton Hospital in London durchgeführten Methode wird mittels eines Herzkatheters zunächst der erste Septalast des Ramus interventricularis anterior (RIVA; LAD) aufgesucht und vorübergehend mit einem Ballon verschlossen. Falls es hierauf zu einem Abfall des Gradienten im linksventrikulären Ausflusstrakt kommt, wird reiner Alkohol durch den Ballon in dieses Gefäß gegeben, um so einen umschriebenen Infarkt im Bereich der Obstruktion auszulösen. Dieser Bereich schrumpft und die Obstruktion verringert sich in den folgenden Monaten.
+Die Erfolgsquote liegt bei über 88 %, die Letalität unter 1,2 %. In etwa 10 % der Fälle wird ein permanenter AV-Block III° verursacht, so dass die Notwendigkeit zur Implantation eines Herzschrittmachers besteht. In 15 % der Fälle ist eine zweite Intervention notwendig. Ein sehr seltener, potentiell lebensbedrohlicher Begleiteffekt ist das akute coronare No-Flow-Phänomen (ACNF).
+Eine bisher nicht etablierte Variante der Katheterbehandlung ist die Ablation des Septalastes mit Hilfe eines Cyanoacryls.
+
+
+==== Endokardiale Radiofrequenzablation der Septumhypertrophie ====
+Die herzkathetergeführte Radiofrequenzablation zur Behandlung von Herzrhythmusstörungen gibt es bereits seit geraumer Zeit. Zur Behandlung der HOCM wurde sie erstmals durch Lawrenz 2004 eingesetzt. Bisher wird die Methode nur an einzelnen Zentren durchgeführt. Verwendung findet sie nach erfolgloser Alkoholablation. Hierbei wird die elektrische Energie mittels Herzkatheter im Obstruktionsareal am rechtsventrikulären Septum abgegeben. Wie bei der Alkoholablation wird hierdurch eine Narbe hervorgerufen, um den Gradienten im linksventrikulären Ausflusstrakt zu verringern. Für eine Beurteilung der langfristigen Wirksamkeit liegen noch keine schlüssigen Daten vor.
+Unter dem Begriff der Radiofrequenzkatheterablation wurde die Technik erstmals bei zwei Kindern (5 und 11 Jahre) 2005 erfolgreich angewandt.
+
+
+==== Transaortale subvalvuläre Myektomie ====
+Die Operation ist heute die Alternative der letzten Wahl. In der seit mehreren Jahrzehnten bekannten Herzoperation nach Morrow wird durch die Aortenklappe hindurch überschüssiges Muskelgewebe im Ausflusstrakt der linken Herzkammer entfernt. Erfolgsquote und Risiken sind ähnlich der Alkoholablation, das Verfahren ist allerdings deutlich invasiver.
+
+
+=== Unterstützende Maßnahmen ===
+Zum Schutz vor bösartigen Herzrhythmusstörungen wird in Abhängigkeit von der Familienanamnese (plötzlicher Herztod bei Verwandten ersten Grades) häufig die Implantation eines Defibrillators (ICD) empfohlen. Sind bösartige Herzrhythmusstörungen bereits dokumentiert, sollte in jedem Fall ein ICD implantiert werden.
+Eine alleinige Zwei-Kammer-Schrittmachertherapie mit einer verkürzten Vorhof-Kammer-Überleitungszeit hat sich als nicht ausreichend wirksam herausgestellt. Eine Verminderung des Gradienten im LVOT kann zwar nachgewiesen werden, die subjektive Besserung des Befindens liegt aber im Bereich des Placebo-Effekts. Unterstützend kann die Implantation bei Patienten empfohlen werden, die zusätzlich unter behandlungsbedürftigen tachykarden oder bradykarden Herzrhythmusstörungen leiden oder die einer invasiven Therapie (s. o.) ablehnend gegenüberstehen.
+
+
+== Prognose ==
+Die HCM ist eine bisher nicht heilbare, jedoch bei frühzeitiger Diagnose häufig gut behandelbare Erkrankung. Die meisten Betroffenen haben eine normale Lebenserwartung ohne Einschränkungen oder die Notwendigkeit interventioneller Maßnahmen. Bei einem Teil kommt es jedoch zu einem progredienten Verlauf mit dem Risiko schwerer Komplikationen.Insgesamt ist die HOCM die meist schwerwiegendere Form. Das relative Risiko für einen HCM-bedingten Tod (inkl. plötzlicher Herztod) ist 2,0. Das heißt, das Risiko ist doppelt so hoch bei der HOCM im Vergleich zur HNCM. Das relative Risiko für ernste Symptome entsprechend den Stadien III oder IV der NYHA-Klassifikation, für Tod durch Herzinsuffizienz oder für einen Schlaganfall ist 4,4.
+
+
+== Geschichte ==
+Die Erkrankung wurde 1869 von Liouville und Hallopeau zuerst beschrieben. Seit ihrer Beschreibung im Jahr 1957 durch Sir Russell Brock ist sie allgemein als klinische Entität akzeptiert.
+
+
+== Literatur und Quellen ==
+Christian Mewis, Reimer Rissen, Ioakim Spyridopoulos (Hrsg.): Kardiologie compact. Alles für Station und Facharztprüfung. 2. unveränderte Auflage. Georg Thieme, Stuttgart u. a. 2006, ISBN 3-13-130742-0. 
+Gerd Herold: Innere Medizin. Eine vorlesungsorientierte Darstellung. Unter Berücksichtigung des Gegenstandskataloges für die Ärztliche Prüfung. Mit ICD 10-Schlüssel im Text und Stichwortverzeichnis. Herold, Köln 2016. 
+C. Prinz et al.: Diagnostik und Therapie bei hypertropher Kardiomyopathie. In: Dtsch Arztebl Int. Band 108, Nr. 13, April 2011, S. 209–215, doi:10.3238/arztebl.2011.0209. 
+U. Raute-Kreinsen: Morphologie von Nekrosen und Reparation nach alkoholinduzierter transcoronarer Ablation der Septumhypertrophie bei HOCM. In: Pathology – Research & Practice. Elsevier Verlag, 19. April 2007 (pathologie-bielefeld.de). 
+Shikhar Agarwal, E. Murat Tuzcu, Milind Y. Desai, Nicholas Smedira, Harry M. Lever, Bruce W. Lytle, Samir R. Kapadia: Updated Meta-Analysis of Septal Alcohol Ablation Versus Myectomy for Hypertrophic Cardiomyopathy. In: Journal of the American College of Cardiology. Band 55, Nr. 8, 2010, S. 823–834, doi:10.1016/j.jacc.2009.09.047. 
+
+
+== Weblinks ==
+Cardiomyopathy, familial hypertrophic; CMH. In: Online Mendelian Inheritance in Man. (englisch).
+H. Kuhn: How to perform a safe and effective TASH. 2009, abgerufen am 27. Oktober 2009 (englisch). 
+
+
+== Einzelnachweise ==

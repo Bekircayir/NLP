@@ -1,0 +1,55 @@
+Als Torsade de pointes (TdP), Torsade-de-pointes-Tachykardie, Spitzenumkehrtachykardie, Schraubentachykardie oder kurz Torsade-Tachykardie (z. T. auch als Plural Torsades) wird in der Kardiologie eine Sonderform der ventrikulären Tachykardie bezeichnet, die durch ein wellen- bzw. schraubenförmiges (auch als spindelförmig bezeichnetes) Bild der Kammerkomplexe im Elektrokardiogramm (EKG) gekennzeichnet ist und Herzfrequenzen über 150 bpm aufweist. Da sie in ein Kammerflimmern übergehen kann, handelt es sich um eine potentiell lebensbedrohliche Herzrhythmusstörung.
+
+
+== Geschichte ==
+Die Torsade-Tachykardie wurde erstmals 1932 durch Schwartz beschrieben. Die erste EKG-Aufzeichnung einer durch einen Arzneistoff verursachten Torsade-Tachykardie wurde 1964 durch die US-amerikanischen Kardiologen Arthur Selzer und H. Wesley Wray veröffentlicht.1966 prägte der französische Kardiologe François Dessertenne den heute gebräuchlichen Begriff Torsade de pointes. Der französische Begriff beschreibt die schraubenförmige Windung der EKG-Kurve um die isoelektrische Linie.
+
+
+== Entstehung ==
+
+
+=== Begünstigende Faktoren ===
+verlängerte QT-Zeit durch:
+Medikamente (besonders Klasse 1a-Antiarrhythmika oder Klasse 3-Antiarrhythmika wie Amiodaron und Cisaprid). Die Liste der Arzneimittel, die die QT-Zeit verlängern können, umfasst mehr als 170 Substanzen. Neben vorgenannten Antiarrhythmika sind es viele Antidepressiva, Antibiotika, Malariamittel, Antihistaminika, Neuroleptika und Parkinsonmedikamente.
+Stromunfall
+angeborenes Long-QT-Syndrom
+Bradykardie (physiologisch lange QT-Zeit bei langsamem Herzschlag)
+Elektrolytverschiebungen (Hypomagnesiämie oder Hypokaliämie, also zu wenig Magnesium bzw. Kalium im Blut)
+Herzinsuffizienz
+Herzmuskelhypertrophie (Verdickung der Herzwand)
+Hypoxämie (Sauerstoffmangel)
+weibliches Geschlecht
+
+
+=== Pathomechanismus der die QT-Zeit verlängernden Medikamente ===
+Hauptangriffsort dieser Medikamente ist meist der hERG-Kaliumkanal, der aufgrund seiner Größe und Struktur (große Pore) sehr anfällig für verschiedene Substanzen aber auch für große Moleküle ist. Durch Blockade des Kanals wird die Repolarisation der Herzmuskelzelle verzögert und es kommt zu einer Verlängerung der Plateauphase und somit zu einer Verlängerung des Aktionspotentials. Zudem kommt es zu einer intrazellulären Anhäufung von Calciumionen (durch eine verzögerte Inaktivierung oder Reaktivierung kardialer Calciumkanäle), was frühe Nachdepolarisationen („early after depolarisations“ = EADs) begünstigt. Diese können als pathologische U-Wellen im EKG zutage treten.
+Die verspätete Repolarisation kann neben der Entstehung der o. g. EADs auch eine übermäßige, räumliche Ausbreitung (Dispersion) der Repolarisation begünstigen. Beide Mechanismen tragen so zur Entstehung einer Torsade-Tachykardie bei.Nicht alle Medikamente, die die QT-Zeit verlängern, verursachen auch eine Torsade-Tachykardie. Eine Einrichtung in Arizona pflegt dazu eine ausführliche englischsprachige Datenbank (vgl. Weblinks).
+
+
+=== Auslöser ===
+
+Auslöser der Tachykardie bei vorbestehenden begünstigenden Faktoren ist meist eine in die vulnerable Phase fallende Extrasystole (was bei verlängerter vulnerabler Phase natürlich umso wahrscheinlicher wird).
+
+
+== Klinik ==
+Schwindel
+Synkopen
+Übelkeit
+
+
+== Therapie ==
+Torsade-Tachykardien enden oft nach kurzer Zeit von selbst, können aber wiederkehren. Bei einer anhaltenden Torsade-Tachykardie sollte eine Kardioversion erfolgen. Zur Membranstabilisierung erfolgt die Gabe von Magnesium und Kalium bis auf hochnormale Werte.
+Bei medikamentös bedingter Torsade-Tachykardie sind die Identifikation und das Absetzen des auslösenden Arzneistoffs von entscheidender Bedeutung. In der Akutsituation kann die Erhöhung der Herzfrequenz z. B. durch Orciprenalin oder durch einen passageren Herzschrittmacher erneute Tachykardien verhindern.
+Beim angeborenen Long-QT-Syndrom reduziert im Gegensatz dazu eine Senkung der Herzfrequenz mit Betablockern (ohne ISA) und die orale Gabe von Magnesium die Häufigkeit von Torsade de pointes. Falls das nicht ausreicht, ist die Implantation eines Kardioverter-Defibrillators (ICD) angezeigt.
+
+
+== Literatur ==
+Gerd Herold: Innere Medizin. Eigenverlag, Köln 2007, ISBN 978-3-89019-704-3.
+P. Schweikert-Wehner: Antidepressiva, Vorsicht Arrythmien. In:  Pharmazeutische Zeitung, 159. Jahrgang, 44. Ausgabe, S. 22–24, Eschborn, 2014
+
+
+== Weblinks ==
+QT- und TdP-Datenbank am Arizona Center for Education and Research on Therapeutics (CERT)Auflistung von Medikamenten und Bewertung des Risikos einer QT-Zeit-Verlängerung im Neurologienetz
+
+
+== Einzelnachweise ==

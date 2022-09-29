@@ -1,0 +1,18 @@
+Xilinx, Inc. ist der weltgrößte Entwickler und Hersteller von programmierbaren Logik-ICs, sogenannten Field-Programmable Gate Arrays (FPGAs). Die Firma wurde von Ross Freeman (FPGA-Erfinder), Bernie Vonderschmitt (Fabless-Pionier) und Jim Barnett 1984 gegründet und im Silicon Valley angesiedelt. Bis heute ist der Stammsitz der Firma im kalifornischen San Jose, der europäische Hauptsitz befindet sich in Dublin und der asiatische in Singapur. Xilinx besitzt keine eigene Halbleiterfertigung, sondern ist ein Fabless-IC-Hersteller.
+
+
+== Technologie ==
+
+Xilinx stellt FPGA- und CPLD-Bausteine her, die in zahlreichen Anwendungen, bei der Telekommunikation, Automotive, Consumer, Verteidigung und anderen Bereichen verwendet werden. In der Hauptsache werden vier Bausteinfamilien gefertigt: einfache Logik (Coolrunner), Low-cost-Anwendungen (Spartan), mittlere Bereiche (Kintex) und High-Performance-Anwendungen (Virtex), gemeinsam mit den dazu benötigten Bausteinen wie PROMs.
+Die Virtex-Familie ist von besonderem Interesse für System-on-a-Chip-Entwickler, weil manche Bausteine dieser Familie vollständige PowerPC-Kerne als diskrete Hardwareblöcke direkt im FPGA-Chip enthalten. Damit können auf diesen Chips spezifische Programme oder ganze Betriebssysteme wie µCLinux oder RTOS laufen, während gleichzeitig die Logikgatter im Chip vollständig für Erweiterungen der Funktionalität genutzt werden können. Es können z. B. Peripherie-Bausteine oder Co-Prozessoren implementiert werden. SoC-Systeme können aber auch mittels SoftCores wie dem Xilinx-eigenen MicroBlaze oder anderen synthetisierbaren Prozessorkernen in Xilinx-FPGAs ohne PowerPC-Kern realisiert werden.
+Die FPGA-Serien Virtex-II Pro, Virtex-4, Virtex-5, und Virtex-6 enthalten bis zu zwei eingebettete IBM-PowerPC-Kerne der Serie 405 beziehungsweise 440. FPGAs der aktuellen Zynq-7000-Familie enthalten für SoC-Anwendungen stattdessen einen Mehrkernprozessor mit ARM-Architektur (ARM Cortex-A9 MPCore).
+Mit der Virtex2-Familie war Xilinx Anfang 2006 der erste Hersteller, dessen FPGAs partiell rekonfigurierbar sind. Das heißt, Teile des Chips können während der Laufzeit neu konfiguriert und damit die Funktionen ausgetauscht werden.
+Andere bedeutende FPGA-Hersteller sind Altera, Lattice Semiconductor Corporation, Actel, Quicklogic und Atmel.
+
+
+== Weblinks ==
+
+Website von Xilinx
+
+
+== Einzelnachweise ==

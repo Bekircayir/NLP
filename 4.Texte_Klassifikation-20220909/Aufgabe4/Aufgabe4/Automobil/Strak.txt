@@ -1,0 +1,35 @@
+Das Strak ist eine an die darstellende Geometrie angelehnte zeichnerische Darstellungsart, die im Schiffbau, Automobilbau und Flugzeugbau angewandt wird. Der Name leitet sich aus dem englischen Wort „strake“ ab, das einen durchgehend verlaufenden Plattengang beschreibt.Eine Definition dazu könnte lauten: Das designmäßige Finden einer aerodynamischen Form, z. B. eines Rumpfes oder einer Tragfläche, wenn vom Volumen nur einige ebene, senkrechte, parallele Querschnitte gegeben sind.
+Dabei wird das 3D-Modell in Spanten und Senten unterteilt.
+
+
+== Strak im Automobilbau ==
+
+Das Strak eines Fahrzeuges ist die geometrische Darstellung aller kundensichtbaren Oberflächen im Interieur und Exterieur unter Berücksichtigung aller technischen und formalästhetischen Ansprüche.
+In der Praxis bedeutet dies, dass die Strakabteilung (kurz. Strak) die Brücke zwischen der Design- und Konstruktionsabteilung bildet. Als Designergebnis liefert die Designabteilung ein 1:1 Plastilinmodell (Clay-Modell). Dieses Modell kann optisch mit einem 3D-Scanner oder mechanisch (veraltet) mit einer Koordinatenmessmaschine getastet werden. Der Tast, auch Scan genannt, ist die Vorlage für die Strakabteilung und besteht aus einer Punktwolke im Raum (siehe auch Rapid Prototyping). Zur Visualisierung wird die Punktwolke trianguliert. Man erhält ein Facettenmodell aus einer großen Anzahl von Dreiecken.
+Die Strakabteilung konstruiert nun im CAS-System wie ICEM Surf, Autodesk Alias (siehe auch Alias) oder CATIA XV5 Freiformflächen höchster Güte (Class A). Der Tast dient dazu als Referenz im Raum. Im Strak werden also die Flächen des Plastilinmodells in einer höheren Qualität reproduziert. Beulen und S-Schläge werden „ausgestrakt“. Umgebungslichtreflexionen (Highlights) auf den Flächen werden optimiert.
+Neben den Designintentionen werden auch Forderungen aus der Konstruktion umgesetzt. Die Flächen müssen entformbar sein (kein Hinterschnitt, siehe Formenbau) und genügend Bauraum für Konstruktionselemente und Nachbarbauteile muss vorhanden sein. Werkzeugtrennlinien sollen möglichst nicht auf Sicht- und Basisflächen liegen. Ergebnisse aus den Aerodynamikuntersuchungen fließen ein. Die vom Strak erstellten Flächen werden im nachfolgenden Konstruktionsprozess zu vollständigen Bauteilen modelliert.
+Aufgrund der rasanten Entwicklung im Bereich der computergenerierten Bilderstellung wird das physische Modell in wachsendem Maß durch virtuelle Modelle ersetzt (siehe auch Virtual Prototyping). Ausgangspunkt für den Strak ist somit häufig nicht mehr das Plastilinmodell. Vielmehr laufen Design- und Konstruktionsprozesse parallel, und die Strakerstellung erfolgt im Rahmen der Aufbereitung von Konstruktionsdaten für die Visualisierung mit CGI-Anwendungen wie Autodesk Maya, Autodesk VRED Professional oder RTT DeltaGen.
+
+
+== Strak im Flugzeugbau ==
+
+
+=== Profilstrak ===
+Im Flugzeugbau wird häufig das Wort Strak verwendet, wenn entlang der Spannweite verschiedene Flügelprofile verwendet werden (Profilstrak). So kann normalerweise ein stärker gewölbtes und dickeres Innenprofil über ein oder mehrere Zwischenprofile auf ein symmetrisches Profil an der Flügelspitze „gestrakt“ sein. (siehe auch aerodynamische Schränkung). Die Profile an den Übergangsstellen entsprechen dabei den Originalprofilen (z. B. aus einem Profilkatalog), wohingegen alle Zwischenschnitte sich aus dem Strakverlauf ergeben. Im Flugmodellbau werden heute meistens Computerprogramme verwendet, die diese Zwischenprofile errechnen und ausgeben.
+
+
+=== Abstraken ===
+Zu Zeiten des Holzflugzeugbaues in Holm-Rippenbauweise wurden die Flügelrippen, nachdem sie an den Holm geleimt waren, mit einer sog. Straklatte (Schleiflatte) abgeschliffen, das so genannte „Abstraken“. Man richtet dazu über jeweils zwei Referenzrippen mit originalem Profilverlauf die dazwischenliegenden Rippen aus. Auf diese Weise ist es möglich, kleinere bauliche Ungenauigkeiten der Rippen auszugleichen und Verzerrungen der Zwischenprofile zu vermeiden. Danach wurde das Gerippe mit Sperrholz beplankt oder mit Stoff bespannt. Im Gegensatz zur Straklatte im Schiffsbau ist die Straklatte im Flugzeugbau steif und gerade.
+
+
+=== Eingestrakte Kabinenhaube ===
+
+Eine Kabinenverglasung (Haube), die sich nicht von der Rumpfkontur absetzt, sondern in die Rumpfkontur integriert ist, wird als (in die Rumpfkontur) „eingestrakte Haube“ bezeichnet. Fast alle modernen GFK-Segelflugzeuge sind mit einer eingestrakten Haube ausgerüstet.
+
+
+== Einzelnachweise ==
+
+
+== Siehe auch ==
+Straklatte
+Spline

@@ -1,0 +1,36 @@
+Die Basware Oyj ist ein finnischer Anbieter von Softwarelösungen und Dienstleistungen und mit, laut Hersteller, mehr als 1 Million Anwendern in über 60 Ländern weltweiter Marktführer bei Purchase-to-Pay-Lösungen. Das Basware Open Network für elektronische Rechnungsstellung und Beschaffung verbindet dabei Unternehmen weltweit.
+
+
+== Geschichte ==
+Basware wurde im Jahr 1985 gegründet und es wurde das erste Software- und Dienstleistungskonzept 1985 entwickelt. 1990 erfolgte ein Management Buy-out. Im Jahr 1992 erschien die erste Finanzmanagement-Software und 1997 die erste Invoice Processing Software. 1999 hatte das Unternehmen den ersten Kunden und Partner außerhalb von Finnland.
+Seit dem Jahr 2000 ist die Aktiengesellschaft (finnisch Osakeyhtiö, kurz Oyi) an der Börse Helsinki börsennotiert. Im selben Jahr erschienen erste Purchase Management Software und e-Invoicing Service sowie erste elektronische Invoicing-, Archiving- und Procurement-Software. Außerdem erweiterte sich das Unternehmen durch mehrere Niederlassungen in Europa, dem im Jahr 2002 eine Niederlassung in den USA folgte. 2003 erschien die erste Lösung für IFRS Konsolidierungskreis. Im selben Jahr schloss Basware eine Partnerschaft mit Xerox für eine Distribution in zwölf europäische Länder.
+Im Jahr 2004 wählte der Präsident von Finnland Basware für den Internationalisierungs-Award aus. In den Jahren 2005 und 2006 erfolgten Akquisen von Trivet Software sowie des Softwareunternehmens Analyste.
+2007 ist Basware erster Anbieter einer EPP-Lösung mit voller Unicode-Unterstützung. Im selben Jahr wurde der Basware Mobile Client eingeführt.
+Seit Juli 2009 ist die deutsche Niederlassung Basware GmbH Mitglied beim Verband elektronische Rechnung e. V. (VeR).
+
+
+== Tätigkeit ==
+Die Lösungen von Basware soll den gesamten Prozess von der Beschaffung bis hin zur Rechnungsverarbeitung optimieren und einen voll automatischen Prozess erlauben, beginnend beim Bedarf über Genehmigung, Bestellung, Auftrags- und Lieferbestätigung bis hin zur Rechnungsbearbeitung.
+Basware proklamiert, das Unternehmen mit den Lösungen und Dienstleistungen von Basware ihre Liquidität verbessern, das Betriebskapital optimieren und ihre Finanzprozesse über den gesamten Purchase-to-Pay-Prozess flexibel steuern könnten.
+Die Lösungen werden entweder lokal implementiert oder als Dienstleistung angeboten. Basware vertreibt sie über eigene Niederlassungen in Europa, den USA und Asien-Pazifik, sowie über ein flächendeckendes Netz von Geschäftspartnern.
+
+
+=== International ===
+Basware ist international schnell gewachsen und aktuell in mehr als 60 Ländern auf sechs Kontinenten tätig. Der Zielmarkt von Basware ist Europa, Russland, Nordamerika und Asien/Pazifik. Das Unternehmen hat 12 eigene Niederlassungen sowie ein dichtes Partnernetzwerk. Insgesamt stellt dieses umfassende Netzwerk Unterstützung und Service für über 1 Mio. Endanwender bereit.
+
+
+=== Partner ===
+Basware hat Partnerschaften mit weltweit führenden Technologie-Unternehmen aus unterschiedlichen Branchen.
+Seit 2001 ist Basware SAP-Partner.
+Die Schnittstelle für Basware-Enterprise-Purchase-to-Pay-Lösungen, Basware anyERP Adapter, hat zwei SAP-Zertifizierungen („SAP Certified Interface“ und „Certified for SAP NetWeaver™“).
+Basware ist Microsoft Gold Certified Partner und hat in der höchsten Stufe der Partnerschaft auch die Independent Software Vendor Competence.
+Basware ist Oracle Certified Partner. Diese Zertifizierung garantiert, dass die Basware-Enterprise-Purchase-to-Pay-Lösungen nahtlos in alle Oracle-ERP-Systeme integriert sind, inklusive JD Edwards- und PeopleSoft-ERP-Anwendungen.
+Im Zusammenhang mit der Entwicklung der Mobile App ist Basware Mitglied des Nokia Forum PRO Enterprise Zone, einem speziellen Support-Programm innerhalb Nokias internationalem Entwicklungsprogramm, Forum Nokia.
+
+
+== Weblinks ==
+Offizielle Website
+Firmen vernachlässigen die Lieferkette, Computerwoche
+
+
+== Einzelnachweise ==

@@ -1,0 +1,37 @@
+Der SA-Block (sinuatrialer Block) ist eine durch eine Erregungsleitungsstörung verursachte Herzrhythmusstörung. Er entsteht durch eine Verzögerung oder gar Unterbrechung der Erregungsleitung vom Sinusknoten zur Vorhofmuskulatur (vgl. Herz, dort Räume und Gefäße).
+SA-Blockierungen sind recht häufig und insbesondere bei Herzgesunden meist völlig harmlos. Selten allerdings können sie ernsthafte Symptome wie plötzliche Bewusstlosigkeit (Synkope) oder Leistungsschwäche verursachen und bedürfen dann einer gezielten Therapie.
+
+
+== Ursachen ==
+Ein sinuatrialer Block kann vielfältige Ursachen haben, die entweder am Herzen selbst oder im vegetativen Nervensystem zu finden sind. Auch endokrinologische und psychische Ursachen kommen in Betracht. Die Bandbreite reicht von harmlosen vagotonen Zuständen, wie sie besonders bei jungen Leistungssportlern in Ruhephasen beobachtet werden, bis hin zu Herzstillständen von mehreren Sekunden Dauer bei dann meist vorgeschädigten Herzen. Auch Medikamente wie beispielsweise Betablocker können einen SA-Block auslösen.
+
+
+== Formen und Diagnostik ==
+
+Grundsätzlich wird zwischen drei verschiedenen Arten oder Schweregraden von SA-Block unterschieden (ähnlich der Nomenklatur beim AV-Block), wobei nur der SA-Block zweiten Grades (SA-Block II°) im normalen  Elektrokardiogramm (EKG) mehr oder weniger zuverlässig diagnostiziert werden kann. Die übrigen Arten des SA-Blockes lassen sich nur mittels spezieller aufwändiger Herzkatheteruntersuchungen nachweisen.
+
+
+=== SA-Block I° ===
+Der SA-Block I° ist definiert als Leitungsverzögerung vom Sinusknoten zum Vorhof, wobei aber jeder Impuls des Sinusknotens übergeleitet wird. Er ist im Oberflächen-EKG nicht erkennbar.
+
+
+=== SA-Block II° Typ 1 ===
+Beim SA-Block II° Typ 1 (oder Wenckebach-Typ oder Mobitz-1-Typ) führt die Leitungsstörung zu einer stetigen Verlängerung der Überleitung, bis hin und wieder ein Herzschlag ganz ausfällt. Im EKG ist er oft an einer progredienten Verkürzung der Abstände zwischen den P-Wellen erkennbar und dann einer komplett fehlenden Herzaktion (P-Welle und QRS-Komplex), wobei der Abstand zur nächstfolgenden P-Welle kürzer ist als zwei vorangehende PP-Abstände.
+
+
+=== SA-Block II° Typ 2 ===
+Der SA-Block II° Typ 2 (oder Mobitz-2-Typ) ist dem Typ 1 sehr ähnlich, auch hier fallen einzelne Herzaktionen komplett aus. Allerdings ist im EKG der Abstand zwischen den P-Wellen im Idealfall gleich und bei Ausfall der Herzaktion exakt doppelt so groß (bzw. um ein Mehrfaches größer) wie zwei vorangehende PP-Abstände.
+
+
+=== SA-Block III° ===
+Beim drittgradigen (oder kompletten) sinuatrialen Block wird kein Impuls des Sinusknotens mehr übergeleitet. Beim gesunden Herzen übernimmt der rangnächste physiologische Schrittmacher (AV-Knoten) die Erregungsbildung mit 40 bis 50 Impulsen pro Minute. Auf diese Weise ist im EKG meist nur ein sog. AV-Knoten-Rhythmus erkennbar, der neben vielen anderen Ursachen auch an einen SA-Block denken lässt. Bei vorgeschädigten Herzen kann der Ersatzrhythmus fehlen, was unter Umständen einen längeren Herzstillstand mit sofortiger Bewusstlosigkeit zur Folge haben kann.
+
+
+== Therapie ==
+Nur wenige Patienten mit einem SA-Block bedürfen überhaupt einer Therapie. In aller Regel ist dies nur der Fall, wenn der Block Symptome wie Synkopen oder Herzleistungsschwäche verursacht.
+Im Notfall erfolgt eine intravenöse medikamentöse Therapie mit Atropin und ggf. Adrenalin. In allen anderen Fällen wird zunächst überprüft, ob der SA-Block durch Medikamente oder eine Störung der Elektrolytkonzentration im Blut verursacht ist. Wenn sich eindeutige Symptome des SA-Blocks durch das Absetzen von Medikamenten oder den Ausgleich von Elektrolytstörungen nicht beseitigen lassen, besteht eine Indikation zur Schrittmacherversorgung. Beim reinen SA-Block wird dabei einem ausschließlich im Vorhof stimulierenden 1-Kammer-System der Vorzug gegeben.
+
+
+== Siehe  auch ==
+Sick-Sinus-Syndrom
+Präautomatische Pause

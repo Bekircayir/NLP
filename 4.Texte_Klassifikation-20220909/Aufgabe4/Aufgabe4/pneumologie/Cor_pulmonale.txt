@@ -1,0 +1,53 @@
+Cor pulmonale (lateinisch; „Lungenherz“) bezeichnet in der Medizin ein druckbelastetes rechtes Herz infolge einer Drucksteigerung im Lungenkreislauf (pulmonale Hypertonie oder sekundäre pulmonale Hypertonie), wenn deren Ursache in der Lunge und nicht am Herzen zu finden ist. Diese Drucksteigerung kann verschiedene Ursachen haben, von der Lungenembolie über die chronisch obstruktive Lungenerkrankung (COPD) bis hin zu der weltweit verbreiteten Wurmerkrankung Schistosomiasis. Damit sind auch die Therapiemöglichkeiten des Cor pulmonale so verschieden, dass der Begriff immer seltener benutzt und stattdessen die modernere Nomenklatur der pulmonalen Hypertonie (siehe dort) angewandt wird.
+
+
+== Einteilung ==
+Es wird zwischen einem akuten Cor pulmonale mit einer akuten Rechtsbelastung und einem chronischen Cor pulmonale mit einer hypertrophierten rechten Herzkammer unterschieden. Weitere Einteilungen können nach dem Schweregrad und nach den auslösenden Ursachen erfolgen.
+
+
+== Ursachen ==
+
+Durch einen hohen Blutdruck im kleinen Kreislauf wird das rechte Herz belastet. Dieser pulmonale Hochdruck wird durch eine Lungenembolie oder durch andere Lungenkrankheiten verursacht wie beispielsweise COPD, Pulmonalklappeninsuffizienz, Lungenemphysem, Lungenfibrose, Pleuraschwarten, Kyphoskoliose, Sarkoidose oder Mukoviszidose. Die Folge der Lungenerkrankung ist ein erhöhter Widerstand der Lungenstrombahn. Die Widerstandserhöhung wird durch Engstellung der Lungenarterien oder durch eine Verringerung und Verödung (Rarefizierung) von Lungengefäßen verursacht. Als häufigste Ursache des chronischen Cor pulmonale gilt die chronisch-obstruktive Bronchitis, welche meist mit einem obstruktiven Lungenemphysem einhergeht.
+
+
+== Symptome ==
+Bei leichteren Fällen von chronischem Cor pulmonale können Symptome in Ruhe fehlen. Ansonsten ist das Leitsymptom Atemnot unter Belastung (Belastungsdyspnoe) oder bereits in Ruhe (Ruhedyspnoe). Weitere Symptome können Druck in der Brust, zentrale Zyanose, sekundäre Polyglobulie, Hypertrophe Osteoarthropathie, Tachykardie, Rechtsherzinsuffizienz, respiratorische Azidose und Kalibersprung sein.
+Beim schweren akuten Cor pulmonale z. B. infolge einer Lungenembolie kommt es zur Atemnot, Blässe und Zyanose. Es tritt ein Kreislaufschock auf, der bis zum kompletten Rechtsherzversagen und zum Tode führen kann.
+
+
+== Diagnostik ==
+Zur Diagnostik gehört die Messung der Sauerstoffsättigung, die Anfertigung eines EKG, eine Röntgenaufnahme des Brustkorbs sowie ein Herzultraschall (Echokardiografie)
+Im EKG sind typische Veränderungen ein P pulmonale, eine abnorme Rechtsabweichung des P-Vektors, der SI-QIII-Lagetyp, ein links-verschobener R/S-Übergang, sowie ein Steiltyp bis Rechtstyp sowie eine Rechtsverspätung bei Schenkelblock.
+In der Echokardiografie können unter anderem eine verdickte Wand des rechten Ventrikels im subcostalen Schnitt, eine Vergrößerung des rechten Vorhofes und der rechten Kammer, eine Trikuspidalinsuffizienz, und gestaute Lebervenen  zur Darstellung kommen.
+Zur genaueren Diagnostik, z. B. bei akutem Cor pulmonale, wird zur Frage von Lungenembolien eine Computertomografie des Brustkorbs mit Kontrastmittelgabe durchgeführt. Zudem kann eine Druckmessung mittels Rechtsherzkatheteruntersuchung erforderlich sein. Weitere sinnvolle Untersuchungen sind die Lungenfunktionsprüfung und die Spiroergometrie.
+
+
+== Therapie ==
+Behandlung der Lungengrunderkrankung
+Behandlung der Lungenembolie
+Vorübergehende oder dauerhafte Antikoagulation
+Sauerstoffgabe, auch als Langzeittherapie
+Beatmung
+Drucksenkung im kleinen Kreislauf
+Nitrate
+Molsidomin
+Diuretika
+ACE-Hemmer
+Theophyllin
+
+
+== Literatur ==
+D. Palitzsch (Hrsg.): Jugendmedizin. Urban & Fischer, 1999, ISBN 3-437-41230-2, S. 375.
+The Merck Manual of Diagnosis and Therapy: Cor Pulmonale.
+M. Dietel, J. Dudenhausen, N. Suttorp (Hrsg.): Harrisons Innere Medizin. 15. Auflage. ABW Wissenschaftsverlag, McGraw-Hill 2001, ISBN 3-936072-10-8.
+J. Apitz (Hrsg.): Pädiatrische Kardiologie. Erkrankungen des Herzens bei Neugeborenen, Säuglingen, Kindern und Heranwachsenden. 2. Auflage. Steinkopf, 2002, ISBN 3-7985-1322-8, S. 487.
+Gerd Herold: Innere Medizin. 2016.
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+Pathologisch-anatomische Abbildung mit deutscher Beschreibung
+Abbildung mit englischer Beschreibung
+Medline Plus Cor pulmonale

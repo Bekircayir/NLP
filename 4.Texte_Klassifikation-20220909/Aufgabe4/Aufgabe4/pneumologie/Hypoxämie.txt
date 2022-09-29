@@ -1,0 +1,15 @@
+Hypoxämie (von altgriechisch ὑπό hypó „unter“, ὀξύς oxýs „scharf, spitz, sauer“ – verkürzt für Oxygenium – und αἷμα haima „Blut“) ist definiert als Sauerstoffmangel bzw. erniedrigter Sauerstoffgehalt (CaO2) im arteriellen Blut.Der Normwert ist abhängig von Alter und Geschlecht und liegt in der Regel für Frauen bei 18,6 Volumenprozent, bei Männern bei 20,4 Volumenprozent. Die Berechnung des Sauerstoffgehaltes erfolgt mit Hilfe der Parameter SaO2 (Sauerstoffsättigung des Hämoglobins im arteriellen Blut), der Hämoglobin-Konzentration im arteriellen Blut (angegeben in g/dl) sowie dem Sauerstoffpartialdruck (paO2).
+Eine Unterschreitung des CaO2 unter 12 Volumenprozent gilt als kritisch. Zu den Ursachen gehören unter anderem Anämie, respiratorische Insuffizienz und Kohlenstoffmonoxidvergiftung.
+
+
+== Siehe auch ==
+Hypoxie
+
+
+== Literatur ==
+Herbert Renz-Polster u. a.: Basislehrbuch Innere Medizin. 3. Auflage. Urban & Fischer, München 2004, ISBN 3-437-41052-0.
+Hans Walter Striebel: Anästhesie Intensivmedizin Notfallmedizin.  7. Auflage. Schattauer, Stuttgart 2009, ISBN 978-3-7945-2635-2.
+Reinhard Larsen: Anästhesie. 2. Auflage. Urban & Schwarzenberg, München 1987, ISBN 3-541-11002-3.
+
+
+== Einzelnachweise ==

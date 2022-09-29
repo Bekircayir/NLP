@@ -1,0 +1,55 @@
+Stützlast ist die Kraft, die bei Anhängern ohne ausreichenden Achsabstand (z. B. Pkw-Anhänger mit nur einer Achse oder einem Achsabstand unter 1 Meter;  Sattelauflieger, Zentralachsanhänger) auf die Anhängevorrichtung des Zugfahrzeugs wirkt. Die Hersteller von Anhängern und Zugfahrzeugen schreiben maximal zulässige Stützlasten vor. Der niedrigere der beiden Werte bestimmt die maximale, zulässige Stützlast.
+Zulässige Stützlasten bei Pkw-Gespannen liegen meist im Bereich 50 kg bis 100 kg, während sie bei landwirtschaftlichen Geräten, Baumaschinen und Lkw max. 2 t betragen, sofern sie im Geltungsbereich der StVO/StVZO bewegt werden.
+Der deutsche Gesetzgeber schreibt für gängige Pkw-Gespanne eine Mindeststützlast von 4 % des tatsächlichen Gesamtgewichts des Anhängers vor; sie braucht aber 25 kg nicht zu überschreiten (§ 44 StVZO).
+Die Gesamtlasten müssen bei Anhängern so verteilt sein, dass eine Stützlast im zulässigen Bereich erreicht wird. Maßgeblich dafür ist das Schwerpunkt-Vormaß (Abstand zwischen Schwerpunkt bzw. Lastangriffspunkt des Anhängers und Radaufstandspunkt), welches sich mit
+
+  
+    
+      
+        b
+        =
+        A
+        ⋅
+        
+          
+            I
+            G
+          
+        
+      
+    
+    {\displaystyle b=A\cdot {\frac {I}{G}}}
+  berechnen lässt, wobei 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   (SI-Einheit Meter) das Schwerpunktvormaß, 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   (SI-Einheit Newton) die Stützlast, 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   (SI-Einheit Meter) die Deichsellänge und 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   (SI-Einheit Newton) die Anhängelast bezeichnen. Die tatsächliche Stützlast kann mit einer Stützlastwaage ermittelt werden.
+Um auch bei leeren Anhängern eine ausreichende Stützlast zu erreichen, wird die Achse in der Regel hinter dem Anhängerschwerpunkt angebracht.

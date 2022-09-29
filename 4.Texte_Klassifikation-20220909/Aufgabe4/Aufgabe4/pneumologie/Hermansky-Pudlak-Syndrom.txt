@@ -1,0 +1,44 @@
+Das Hermansky-Pudlak-Syndrom (HPS) ist eine seltene Erbkrankheit, bei der es zur Ablagerung von Ceroid in den Lysosomen, den Melanocyten und den Serotoningranula (δ-Granula) der Thrombozyten kommt. Die Erkrankung ist charakterisiert durch einen Albinismus der Haut und Bindehaut, durch eine erhöhte Blutungsneigung aufgrund einer Störung der Thrombozytenaggregation sowie durch das Auftreten einer Lungenfibrose (interstitielle Lungenerkrankung).
+Die Erkrankung wurde erstmals von den tschechischen Internisten F. Hermansky und P. Pudlak im Jahr 1959 beschrieben und nach diesen Erstautoren benannt.
+
+
+== Epidemiologie ==
+Es handelt sich beim Hermansky-Pudlak-Syndrom um eine sehr seltene Erkrankung. Daher mangelt es insgesamt an epidemiologischen Daten. Die Erkrankung kommt weltweit sporadisch vor. Eine geographische Häufung ungeklärter Ursache gibt es im Nordwesten von Puerto Rico. Hier wurde über etwa 400 Erkrankte (Prävalenz 1:1800) berichtet. Genaue Zahlen für den deutschsprachigen Raum sind nicht bekannt.
+
+
+== Ätiologie und Pathogenese ==
+Es gibt einige mit Lysosomen verwandte membranumhüllte Vesikel, die die anfänglichen Stadien ihrer Entwicklung gemeinsam haben. Zu ihnen zählen folgende Organellen:
+Lysosomen
+Serotoningranula, δ-Granula oder dichte Granula der Thrombozyten
+azurophile Granula in neutrophilen Granulozyten
+cytotoxische Granula in cytotoxischen T-Lymphozyten und NK-Zellen (natürliche Killerzellen)
+"lamellar bodies" in den Alveolarzellen oder Pneumozyten Typ IISowohl die Kernsymptome als auch seltenere Krankheitszeichen, die im Zusammenhang mit dem Hermansky-Pudlak-Syndrom auftreten können, gehen auf Fehlfunktionen dieser mit den Lysosomen verwandten Vesikel zurück. Der Albinismus beruht auf einer nicht funktionierenden Melaninsynthese in den Melanosomen. Die Blutungsneigung entsteht dadurch, dass die Thrombozyten bei Blutungen nicht verklumpen (Thrombozytenaggregation), ein Vorgang, bei dem die Serotoningranula eine Rolle spielen. Die Lungenfibrose geht auf anormale "lamellar bodies" in den Alveolarzellen zurück. Bei einigen Maus-Modellen des Hermansky-Pudlak-Syndroms werden durch die Lysosomen ausgeschieden. Durch defekte cytotoxische Granula wird eine gestörte Aktivität der cytotoxischen T-Lymphozyten hervorgerufen. Eine milde Neuronale Ceroid-Lipofuszinose ist vermutlich auf einen verschlechterten Abbau in den Lysosomen zurückzuführen.
+
+
+=== BLOC ===
+BLOC ist eine Abkürzung für "biogenesis of lysosome-related organelles complex". Wörtlich bedeutet dieser Ausdruck "Komplex zum Aufbau von Organellen, die mit Lysosomen verwandt sind".
+BLOC1 besteht aus dem HPS7-Protein Dysbindin, dem HPS8-Protein, Pallidin, Muted, Cappuccino, Snapin, BLOS1 und BLOS2. Möglicherweise gibt es noch weitere bisher unbekannte Untereinheiten. Mutationen des Dysbindin- und HPS8-Gens sind als Auslöser des Hermansky-Pudlak-Syndroms beim Menschen und bei der Maus bekannt. Mutationen der Gene für Pallidin, Muted und Cappuccino sind nur bei Mäusen als Ursachen des Syndroms nachgewiesen. BLOC1 wird für den Aufbau spezialisierter Organellen gebraucht, die zum endosomal-lysosomalen System gehören.BLOC2 setzt sich aus HPS3, HPS5 und HPS6 zusammen. Es ordnet einen Teil der für die Melanosomen bestimmten Proteine in den frühen Endosomen den richtigen Transportvesikeln zu oder spielt eine Rolle bei der Verschmelzung dieser Transportvesikel mit den reifenden Melanosomen. Wenn BLOC2 nicht funktionstüchtig ist, werden diese Proteine nicht zu den Melanosomen transportiert. Stattdessen bewegen sie sich zwischen Endosomen und Zellmembran hin und her und werden schließlich abgebaut.Zu BLOC3 gehören HPS1 und HPS4. Von BLOC4 und BLOC5 ist nur HPS1 als Bestandteil bekannt. BLOC3, BLOC4 und BLOC5 finden sich im Zellplasma und tragen zu der Bildung von Organellen wie Melanosomen, Lysosomen und den Serotoningranula (δ-Granula) bei.
+
+
+=== Adaptor-Protein-3 (AP3) ===
+Das Adaptor-Protein-3 (AP3) ist im Zellplasma verteilt und transportiert Proteine vom trans-Golgi-Netzwerk und vom endosomalen Netzwerk zu Organellen, die mit Lysosomen verwandt sind.
+
+
+=== Übersicht über die verschiedenen Formen des Hermansky-Pudlak-Syndroms ===
+
+
+== Therapie ==
+Es gibt derzeit keine kausale Therapie. Glukokortikoide haben nach bisheriger Studienlage keinen Einfluss auf den Verlauf der Erkrankung. Das Hermansky-Pudlak-Syndrom kann daher nur symptomatisch behandelt werden. Der Verlauf der Erkrankung, insbesondere das Fortschreiten der Lungenfibrose, kann durch den Einfluss pulmonaler Risikofaktoren, z. B. durch Rauchen, negativ beeinflusst werden. Die Wahrscheinlichkeit von Komplikationen, wie das Auftreten einer Lungenentzündung, kann durch prophylaktische Impfungen verringert werden. Hierzu gehören vor allem die Pneumokokken- und Influenza-Impfung (Grippe-Impfung). Aufgrund der eingeschränkten Thrombozytenfunktion stellen Thrombozytenaggregationshemmer eine relative Kontraindikation dar.
+
+
+== Siehe auch ==
+Okulozerebrales Hypopigmentierungs-Syndrom
+
+
+== Literatur ==
+V. Poletti u. a.: Rare infiltrative lung diseases: a challenge for clinicians. In: Respiration. 2004 Sep-Oct;71(5), S. 431–443 PMID 15467318.
+H. Burkhardt u. a.: Ungewöhnliche Ursache einer Lungenfibrose bei einer 71-jährigen Patientin. In: Medizinische Klinik. 2002;97, S. 165–169 (Nr. 3). doi:10.1007/s00063-002-1141-0
+Harrisons Innere Medizin. 15. Auflage. ABW Wissenschaftsverlag, Berlin 2003, ISBN 3-936072-10-8.
+
+
+=== Einzelnachweise ===

@@ -1,0 +1,47 @@
+Der Kraftstoffcode des Kraftfahrt-Bundesamtes bildet einen Schlüssel für die Energiequelle von Fahrzeugen. Er liefert damit ein Unterscheidungsmerkmal in der Klassifizierung von Fahrzeugen. Er ist auch Teil der Zulassungsbescheinigung Teil 1 (Fahrzeugschein) und dort in Feld 10 Kraftstoffart oder Energiequelle zu finden.
+
+
+== Liste ==
+0000 Unbekannt
+0001 Benzin
+0002 Diesel
+0003 Vielstoff
+0004 reines Elektrofahrzeug
+0005 Flüssiggas (LPG) – Autogas, Gasfahrzeug
+0006 bivalenter Betrieb mit Benzin oder Flüssiggas (LPG) – Autogas, Gasfahrzeug
+0007 bivalenter Betrieb mit Benzin oder komprimiertem Erdgas (CNG) – Gasfahrzeug
+0008 kombinierter Betrieb mit Benzin und Elektromotor – Hybridelektrokraftfahrzeug
+0009 Erdgas (NG)
+0010 kombinierter Betrieb mit Diesel und Elektromotor – Hybridelektrokraftfahrzeug
+0011 Wasserstoff – Wasserstoffantrieb in einem Wasserstoffverbrennungsmotor
+0012 kombinierter Betrieb mit Wasserstoff und Elektromotor
+0013 bivalenter Betrieb mit Wasserstoff oder Benzin
+0014 bivalenter Betrieb mit Wasserstoff oder Benzin kombiniert mit Elektromotor
+0015 Brennstoffzelle mit Primärenergie Wasserstoff – Brennstoffzellenfahrzeug
+0016 Brennstoffzelle mit Primärenergie Benzin
+0017 Brennstoffzelle mit Primärenergie Methanol – Direktmethanolbrennstoffzelle
+0018 Brennstoffzelle mit Primärenergie Ethanol
+0019 kombinierter Betrieb mit Vielstoff- und Elektromotor
+0020 Methan (Biogas), das schließt auch Holzgas ein
+0021 bivalenter Betrieb mit Benzin oder Methan
+0022 kombinierter Betrieb mit Erdgas und Elektromotor
+0023 Benzin/Ethanol (hierunter ist ein Kraftstoffgemisch zu verstehen wie z. B. E85) -- Ethanol-Kraftstoff
+0024 kombinierter Betrieb mit Flüssiggas (LPG) und Elektromotor
+0025 Hybridantrieb mit Benzin und extern aufladbarem elektrischen Speicher (Plug-in-Hybrid)
+0026 Hybridantrieb mit Diesel und extern aufladbarem elektrischen Speicher (Plug-in-Hybrid)
+0027 Hybridantrieb mit Flüssiggas (LPG) und extern aufladbarem elektrischen Speicher (Plug-in-Hybrid)
+0028 Hybridantrieb mit Wasserstoff und extern aufladbarem elektrischen Speicher (Plug-in-Hybrid)
+0029 Hybridantrieb mit Vielstoff und extern aufladbarem elektrischen Speicher (Plug-in-Hybrid)
+0030 Hybridantrieb mit Erdgas (NG) und extern aufladbarem elektrischen Speicher (Plug-in-Hybrid)
+0031 Hybridantrieb mit bivalentem Betrieb mit Wasserstoff oder Benzin und ext. aufladb. elektr. Speicher (Plug-in-Hybrid)
+0032 Wasserstoff/Erdgas (das Kraftstoffgemisch HCNG)
+0033 Hybridantrieb mit Wasserstoff/Erdgas und extern aufladbarem elektrische Speicher (Plug-in-Hybrid)
+0034 Ethanol (hierunter ist auch ein Kraftstoffgemisch zu verstehen, dem neben Ethanol noch andere Kraftstoffe – ausgenommen Benzin (s. Code 0023)-oder Additive (z. B. Zündverbesserer) zugesetzt wurden (z. B. E95))
+0035 Hybridantrieb mit Brennstoffzelle (Elektromotor) und Wasserstoff (Verbrennungsmotor) (Arbeitsverfahren NOVC-FCHV)
+0036 Hybridantrieb mit Brennstoffzelle (Elektromotor) und Wasserstoff (Verbrennungsmotor) sowie extern aufladbarem elektrischen Speicher (Plug-in-Hybrid, Arbeitsverfahren OVC-FCHV)
+0037	Zweistoffbetrieb mit verflüssigtem Erdgas (LNG) und Diesel
+0038	Verflüssigtes Erdgas (LNG)
+9999	Andere
+
+
+== Einzelnachweise ==

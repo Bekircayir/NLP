@@ -1,0 +1,46 @@
+Die AV-Knoten-Reentrytachykardie (Syn.: AV-nodale Reentry-Tachykardie (AVNRT)) ist eine gutartige Herzrhythmusstörung, die gekennzeichnet ist durch plötzlich beginnenden und endenden schnellen und regelmäßigen Herzschlag.
+
+
+== Verbreitung ==
+Die AVNRT ist die häufigste paroxysmale supraventrikuläre Tachykardie bei Erwachsenen und macht 60–70 % aller paroxysmalen Rhythmusstörungen aus.
+
+
+== Grundlagen ==
+In einem Teil des Erregungsleitungssystems des Herzens, dem AV-Knoten, existieren bei diesen Patienten zwei nebeneinander liegende Bereiche, s.g. Bahnen (engl. pathway), über die die Erregung von den Vorhöfen auf die Herzkammern übertragen wird. Diese Bahnen unterscheiden sich in ihrer Fähigkeit, den elektrischen Impuls zu leiten. Man spricht von einer dualen AV-Knoten-Physiologie oder auch doppeltem AV-Knoten.
+Der fast-pathway beginnt am anterioren Eingang des AV-Knotens, leitet schneller und kann in beide Richtungen, d. h. antegrad (vom Vorhof zur Kammer) und retrograd (von der Kammer zum Vorhof) leiten. Der slow-pathway beginnt am posterioren Eingang, leitet langsamer und hat eine kürzere Refraktärzeit.
+
+
+== Krankheitsentstehung ==
+Im typischen Fall (typische slow/fast AVNRT, 95 %) kommt es durch eine früh einfallende Extrasystole im Vorhofbereich zu einem Block im fast-pathway. Die Erregung verläuft nun über den slow-pathway zur Herzkammer, trifft dort auf das kammerseitige Ende des fast-pathway, läuft im Kreis zurück zum Vorhof, um wiederum via slow-pathway Richtung Kammer zu laufen.
+Bei der atypischen fast/slow AVNRT (Syn.: reverse AVNRT) ist auch der slow-pathway dazu in der Lage, die Erregung retrograd zu leiten. Hier führt eine Extrasystole der Kammer zum Block des fast-pathway, die Erregung läuft über den slow-pathway zu den Vorhöfen und im Kreis zurück via fast-pathway zur Kammer.
+
+
+== Klinische Erscheinungen ==
+Die Rhythmusstörung äußert sich in plötzlich einsetzendem, schnellen, regelmäßigen Herzschlag mit einer Frequenz von 140–250 Schlägen pro Minute. Meist wird dies gut toleriert, Synkopen kommen aber vor. Neben kräftigem Harndrang (durch Vorhofdehnung ausgeschüttetes ANP) wird über Luftnot, Schweißausbrüche und Schwindel berichtet. Hinlegen und körperliche Ruhe führen zu einer Linderung der Symptome. Körperliche Belastung, Schreck-Momente und Taktgeräusche können die Tachykardie triggern. Die Rhythmusstörung endet so plötzlich, wie sie begonnen hat.
+
+
+== Untersuchungsmethoden ==
+
+
+=== EKG ===
+Im Ruhe-EKG findet sich gelegentlich beim Sinusrhythmus eine verkürzte PQ-Strecke (< 110 ms) als Zeichen für den fast-pathway. Im Gegensatz zum WPW-Syndrom findet sich allerdings keine Delta-Welle als Ausdruck einer Präexzitation.
+Bei der typischen AVNRT findet sich im Anfalls-EKG eine schmalkomplexe regelmäßige Tachykardie ohne P-Wellen (versteckt im QRS-Komplex). Veränderungen der ST-Strecke können vorkommen. Bei der atypischen Form ist die Frequenz eher langsamer zwischen 120 und 160 Schläge pro Minute. Es findet sich eine negative, da retrograd geleitete, P-Welle in II, III, aVF mit sehr kurzer PQ-Strecke (R-P > P-R).
+Die Induktion der Tachykardie durch eine supraventrikuläre Extrasystole bei der typischen AVNRT und eine ventrikuläre Extrasystole bei der atypischen kann man im Langzeit-EKG sehen.
+Die spontane Beendigung der typischen AVNRT entsteht durch einen Block des fast-pathway. Meist kann man nach dem letzten Kammerkomplex der Tachykardie eine negative P-Welle beobachten. Das spontane Ende der atypischen Form kommt durch einen Block des slow-pathway zustande, hier fehlt nach Beendigung der Tachykardie die retrograde P-Welle.
+
+
+=== Elektrophysiologische Untersuchung ===
+Die Diagnose der AVNRT ist bei Durchführung einer EPU meist durch nicht-invasiv erhobene Parameter gesichert. In 70 % der Fälle kann eine duale AV-Knoten-Physiologie nachgewiesen werden. Allerdings kann bei 50 % der Patienten, bei denen auch im Rahmen anderer Untersuchungen ein doppelter AV-Knoten gefunden wird, keine AVNRT ausgelöst werden.
+
+
+== Behandlung und Heilungsaussicht ==
+Im akuten Anfall ist das Vagusmanöver bzw. Valsalva-Manöver bzw. Valsalva-Versuch die Therapie der Wahl. Erst nach Misserfolg dieser Therapie kommt Adenosin zum Einsatz. Es verursacht einen wenige Sekunden anhaltenden totalen AV-Block und beendet darüber die Rhythmusstörung. Im Weiteren können mögliche andere Rhythmusstörungen (beispielsweise typisches clockwise Vorhofflattern), die ein ähnliches EKG-Bild machen, demaskiert werden. Eine weitere Option ist die Gabe von Amiodaron. Sollte die Rhythmusstörung kurzfristig wieder anlaufen, können Calciumkanalblocker vom Diltiazem- oder Verapamil-Typ gegeben werden.
+Eine medikamentöse Dauertherapie ist prinzipiell mit Betablockern oder Calciumkanalblockern möglich, jedoch mit einer hohen Rückfallrate behaftet.
+Die Therapie der Wahl bei mehrfach aufgetretenen AVNRT-Episoden ist die Katheterablation. Hierbei wird mit viel Erfolg (> 95 %) der slow-pathway abladiert. Die Ablation des fast-pathway ist eine Reservetechnik. Das gefährlichste Risiko, die Verursachung eines AV-Block 3. Grades mit dauerhafter Notwendigkeit eines Herzschrittmachers, liegt bei 0,5–2 %.
+
+
+== Literatur und Quellen ==
+Mewis, Riessen, Spyridopoulos (Hrsg.): Kardiologie compact – Alles für Station und Facharztprüfung. 2. Auflage. Thieme, Stuttgart, New York 2006, ISBN 3-13-130742-0, S. 572–577 (eingeschränkte Vorschau in der Google-Buchsuche). 
+
+
+== Einzelnachweise ==

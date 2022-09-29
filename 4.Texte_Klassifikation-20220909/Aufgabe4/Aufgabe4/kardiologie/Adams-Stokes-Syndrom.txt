@@ -1,0 +1,22 @@
+Als Adams-Stokes-Syndrom (auch: Morgagni-Adams-Stokes-Anfall oder kurz MAS-Anfall) bezeichnet man eine plötzlich auftretende, kurzdauernde Bewusstlosigkeit (Synkope), die durch eine bradykarde Herzrhythmusstörung oder einen kurzen Herzstillstand (Asystolie) z. B. infolge Sinusknotenarrest, SA-Blockierung oder AV-Blockierung hervorgerufen wird und somit eine Form der kardialen Synkope darstellt.
+
+
+== Beschreibung ==
+Der Anfall ist benannt nach den Dubliner Medizinern Robert Adams (1791–1875) und William Stokes (1804–1878). Zuerst beschrieben wurde das Syndrom von Giovanni Battista Morgagni im Jahr 1761, der als Erster beobachtete, dass hierbei den Bewusstseinsstörungen immer ein vollständiger Pulsverlust vorausgeht. Weitere Beschreibungen verfassten T. Spens (1793), Robert Adams (1827), J. R. Gibson (1838) und T. H. Holberton (1841) sowie im Rahmen einer ersten Übersicht über das Krankheitsbild William Stokes (1946).
+
+Die Zustände sind zumeist dadurch gekennzeichnet, dass die Betroffenen aus völligem Wohlbefinden heraus ohne Vorboten (Prodromi) bewusstlos werden und sich dabei sehr oft durch einen Sturz verletzen. Die Patienten können aufgrund der Asystolie und darauf folgenden Hypoxie einen Krampfanfall erleiden. Nach kurzer Zeit, wenn der Rhythmus wieder „anspringt“, wacht die betroffene Person genau so plötzlich wieder auf und hat nur für den Moment der Bewusstlosigkeit eine Erinnerungslücke. Die Diagnose wird im EKG gestellt. Nur ist es manchmal sehr mühsam bis unmöglich, solche Zustände zu erfassen, wenn der Patient nicht gerade im Moment des Anfalles z. B. ein Langzeit-EKG-Speichergerät trägt. Allerdings kann man nach Implantation eines Event-Recorders oder eines Herzschrittmachers (siehe unten) solche Ereignisse später aus dem Speicher auslesen. Schrittmacher und andere moderne Implantate (Implantierbarer Kardioverter-Defibrillator) speichern die abgeleiteten Signale aller Herzschläge dauerhaft und können so im Nachhinein die Diagnose bestätigen; ein Event-Recorder ist im Prinzip ein implantiertes Langzeit-EKG-Gerät.
+Die Ursachen des Anfalls liegen in einer arteriosklerotischen oder entzündlichen Schädigung des Erregungsleitungssystems des Herzens. Denkbar ist auch ein Herzinfarkt. Der Herzmuskel ist so geschädigt, dass die normalen elektrischen Impulse, die den Herzrhythmus regulieren, nicht von den Herzvorhöfen in die Herzkammern weitergeleitet werden. Als Folge setzt das Herz aus, bis die Herzkammern einen eigenen Ersatzrhythmus entwickelt haben.
+Die Therapie von Adams-Stokes-Anfällen ist in aller Regel die Implantation eines permanenten Herzschrittmachers, sofern nicht andere behebbare Ursachen (z. B. Arzneimittel wie Digitalis oder Betablocker) für die Beschwerden verantwortlich sind. Zwischen dem Ereignis und der Implantation muss der Patient intensiv überwacht werden.
+
+
+== Historische Literatur ==
+Giovanni Battista Morgagni: De sedibus, et causis morborum per anatomen indagatis. Venedig 1761. Band 4: Epist. Anatom. Med. LXIV.
+R. Adams: Cases of diseases of the heart accompanied with pathological observations. In: Dublin Hosp Rep. 4, 1827, S. 353.
+W. Stokes: Observations on some cases of permanently slow pulse. Dublin Q J Med Sci. 2, 1846, S. 73.
+
+
+== Weblinks ==
+Adams-Stokes syndrome Details zur Geschichte der Entdeckung des Adams-Stokes-Syndroms (engl.)
+
+
+== Einzelnachweise ==

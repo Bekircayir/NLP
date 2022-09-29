@@ -1,0 +1,128 @@
+Intel Corporation (von englisch Integrated electronics, dt. „integrierte Elektronik“) ist ein US-amerikanischer Halbleiterhersteller mit Hauptsitz in Santa Clara (Silicon Valley), Kalifornien. Er wurde 1968 von Mitarbeitern des Unternehmens Fairchild Semiconductor gegründet. Die Europazentrale befindet sich seit 1974 in München. Intel ist vor allem für PC-Mikroprozessoren bekannt, bei denen das Unternehmen weltweit einen Marktanteil von ungefähr 80 % hält. Außerdem produziert Intel diverse weitere Arten von Mikrochips für Computer, zum Beispiel Chipsätze für Mainboards („Intel ICH“, „Intel GMA“), WLAN und Netzwerkkarten sowie Embedded-CPUs und Flash-Speicher. Vorstandsvorsitzender ist zurzeit Brian Krzanich.
+
+
+== Produkte und geschichtliche Entwicklung ==
+
+
+=== Die Gründung und Produktion von Speicherchips ===
+Intel wurde am 18. Juli 1968 von Gordon E. Moore und Robert Noyce als Moore-Noyce Electronics in Mountain View, Kalifornien gegründet, nachdem sie Fairchild Semiconductor verlassen hatten. Bald darauf wurde auch Andy Grove eingestellt, der das Unternehmen in den 1980ern und 1990ern leitete. Das Ziel der Firma war es, Arbeitsspeicher für Computer auf Halbleiterbasis zu entwickeln und auf den Markt zu bringen. Die Hochintegration (Very Large Scale Integration, VLSI) von Transistoren auf Silizium steckte im Jahr 1968 noch in den Kinderschuhen und Intel entwickelte für die Herstellung von Halbleiterschaltungen den PMOS-Prozess, das heißt, einen Prozess für die Herstellung von elektrischen Schaltungen mit p-Kanal-Metall-Oxid-Halbleiter-Feldeffekttransistoren unter Nutzung einer Gate-Elektrode aus Polysilizium (daher auch Silizium-Gate-Technik genannt).
+Das erste Produkt der Firma war aber ein bipolares 64-bit-Schottky-RAM. Dieses wurde im April 1969 unter der Produktbezeichnung „Intel 3101“ vorgestellt. Im Juli 1969 wurde mit dem Intel 1101 der erste SRAM-Chip, der mit dem PMOS-Prozess hergestellt wurde, auf den Markt gebracht. Erst im Oktober 1975 – nach der Hälfte der ursprünglich veranschlagten Zeit – gelang der erste große Sprung nach vorn: Intel stellte unter der Produktbezeichnung „1103“ den ersten DRAM-Speicherbaustein vor, der auf dem PMOS-Prozess basierte und die Vorzüge der Hochintegration zu bieten hatte. Während Schaltungen in Bipolartechnik nur noch bei Hochgeschwindigkeitsbauteilen den Vorzug genossen, entwickelte sich fortan die MOS-Technologie (von PMOS über NMOS und HMOS zu CMOS) zur bevorzugten Halbleiter-Fertigungstechnik.
+Gordon Moore hatte 1965 einen Trend erkannt, der später als Mooresches Gesetz nicht nur die Geschichte von Intel, sondern die Entwicklung der gesamten Halbleitertechnologie maßgeblich geprägt hat.
+Bis Mitte der 1980er Jahre war DRAM das Hauptgeschäft von Intel. Die wachsende Konkurrenz durch japanische Halbleiterhersteller und der damit verbundene Umsatzrückgang führten aber 1983 zu einer Umorientierung des Geschäftsmodells. Der Erfolg des Personal Computers von IBM veranlasste Intel, sich fortan auf Mikroprozessoren zu konzentrieren und die DRAM-Produktion aufzugeben.
+
+
+=== EPROM und Flash-Speicher ===
+Auf der Solid State Circuits Conference des Jahres 1971 stellte Dov Frohman das erste EPROM (löschbarer (einmal-)beschreibbarer Speicherchip) der Welt vor. Das Intel-EPROM 1702 war ein großer Erfolg und wurde bis Mitte der 1980er Jahre in hohen Stückzahlen verlangt, nicht zuletzt weil Intel viele Jahre der einzige Hersteller war, der EPROMs in hoher Stückzahl produzieren konnte. Bis 2008 war Intel zusammen mit Spansion einer der größten Hersteller von Flash-Speichern. Ende März 2008 gliederte Intel den größten Teil der Flash-Produktion in ein Joint-Venture-Unternehmen mit STMicroelectronics aus. Das neue Unternehmen bekam den Namen Numonyx. Intel stellt darüber hinaus auch die 520er SSD-Reihe vor, eine schnelle Solid State Disk, der Nachfolger des Hard Disk Drives.
+
+
+=== Die ersten Mikroprozessoren ===
+
+Als erster Mikroprozessor der Welt (zumindest nach Intel-Lesart) wurde am 15. November 1971 der 4-Bit-Prozessor Intel 4004 vorgestellt. Diesen soll Intel auf eigene Verantwortung entwickelt haben, als das japanische Unternehmen Nippon Calculating Machine Corporation eigentlich einen spezialisierten Tischrechnerchip beauftragt hatte. Der 1974 eingeführte Intel 8080 wird allgemein als erster vollwertiger Mikroprozessor angesehen. Es handelt sich dabei um einen 8-Bit-Mikroprozessor, der als Nachfolger des Intel 8008 (Markteinführung 1972) entwickelt wurde. Diese ersten Mikroprozessoren legten den Grundstein für viele weitere Produkte auf ähnlicher Basis und verhalfen Intel zu seiner starken Marktmacht. Zu dieser Baureihe gehören neben dem seltener eingesetzten Nachfolgetyp Intel 8085 eine ganze Palette von passenden I/O-Bausteinen, z. B. der Intel 8255 für parallele Ein- und Ausgabe.
+
+
+=== Die Mikrocontroller ===
+Basierend auf den Entwicklungen der Mikroprozessoren der 80er Reihe stellte Intel 1977 den Mikrocontroller 8048 vor, der jedoch bereits 1980 durch den Mikrocontroller 8051 ersetzt wurde. Durch geschickte Lizenzpolitik (u. a. an Siemens und Philips) wurde der Mikrocontroller 8051 Stammvater einer der am weitesten verbreiteten Familien von Mikrocontrollern.
+
+
+=== x86-Prozessoren ===
+Die bekannteste Baureihe von Intel sind die x86er Mikroprozessoren, deren erstes Modell im Jahre 1978 mit dem 8086/8088 erschien und im weit verbreiteten IBM-PC verbaut wurde. Heute baut Intel Chips für Desktop-Computer (Pentium-Dual-Core-Serie, Celeron-Serie, Intel-Core-2-Serie, Intel-Core-i-Serie), für Notebooks (Pentium-Dual-Core, Core Duo, Core 2 Duo und inzwischen auch i3-, i5-, und i7-Modelle) und für Workstations sowie Server (Xeon-Serie). Der große Serverprozessor Itanium 2 kann seine hohe Rechenleistung nur mit seinem nativen Befehlssatz IA-64 ausspielen. x86-Maschinencode (IA-32) führt er über eine integrierte Hardware-Emulation nur langsam aus.
+Der große Erfolg der x86er Reihe führte zu einer marktbeherrschenden Stellung in der PC-Industrie; zeitweise kamen 85 % der PC-CPUs von Intel. So kam es immer wieder zu Untersuchungen der amerikanischen Wettbewerbsbehörde FTC und Klagen von Konkurrenten. Der heutige einzige größere Konkurrent auf diesem Sektor ist AMD; ironischerweise war Robert Noyce mit seinem Gründungskapital auch für die Gründung dieser Firma mitentscheidend. Seit 1976 hat AMD ein Patentaustauschabkommen mit Intel, so dass alle technischen Innovationen wechselseitig genutzt werden können. In den letzten Jahren hat hier mit dem Stromverbrauch bzw. der Abwärme ein weiteres Kriterium Bedeutung erlangt.
+
+
+=== Chipsätze und Grafikchips ===
+Intel ist mit großem Abstand Weltmarktführer bei Grafikchips. So benutzen die meisten Bürorechner und Notebooks auf Centrino-Technologie eine Intel-Plattform mit integrierter Grafik (IGPs). Intel hatte zwar mit dem i740 Ende der 1990er auch einen Grafikchip für Steckkarten im Angebot, stellte diese Aktivitäten aber danach wieder ein. Später arbeitete Intel wieder an einer diskreten GPU unter dem Codenamen Larrabee, deren Entwicklung im Dezember 2009 jedoch eingestellt wurde.
+Auch für das Internet der Dinge will Intel Plattformen anbieten. Ein erster Schritt in die Richtung erfolgte mit der Vorstellung von Intel Edison.
+
+
+=== Auslesbare Seriennummer im Pentium 3 ===
+1999 geriet Intel in öffentliche Kritik, als die gerade vorgestellten ersten Pentium-III-Prozessoren (mit 450 und 500 MHz) mit einer weltweit eindeutigen Nummer („Prozessor-ID“) versehen waren, die per Software ausgelesen werden konnte. Kritiker befürchteten, diese eindeutige Seriennummer könne als Grundlage für das Ausspionieren und die Überwachung von Computeranwendern dienen. Aufgrund des öffentlichen Drucks hat Intel die Prozessor-ID standardmäßig abgeschaltet und in späteren Prozessor-Generationen ganz auf sie verzichtet.
+
+
+=== Apps für Smartphones und Tablet-PCs ===
+Mit seinem AppUp Developer Program (IADP) versucht Intel, auch auf dem hart umkämpften Smartphone-Markt Fuß zu fassen. Laut Björn Taubert, Marketing Manager bei Intel, bietet das IADP „erfahrenen wie ambitionierten App-Entwicklern einen zentralen Kanal, um erstentwickelte oder portierte Windows- und HTML-5-Applikationen für eine Vielzahl von Endgeräten bei bis zu 70 Prozent Umsatzbeteiligung zu vertreiben“.
+
+
+=== Chips für Smartphones ===
+Anfang Januar 2012 stellte Intel auf der Messe CES in Las Vegas das erste Mal ein Smartphone vor, das mit einem eigenen Chipsatz ausgestattet ist. Im April gleichen Jahres erschien in Indien mit dem Modell Lava Xolo X900 das erste Intel-Smartphone. Ende Mai folgte das unter dem Dach von Lenovo produzierte LePhone K800 in China. Mit dem Orange San Diego wurde das insgesamt weltweit dritte Intel-Smartphone am 6. Juni in Großbritannien auf den Markt gebracht.
+
+
+== Tochterunternehmen ==
+Im Jahr 2003 kaufte Intel den High-Performance-Computing-Bereich der Pallas GmbH, der aus der SUPRENUM ausgegründet wurde, um die eigene Clustering-Sparte zu stärken.
+Im Jahr 2007 übernahm Intel das irische Unternehmen Havok, das vor allem wegen seiner Physik-Engine bekannt ist.
+Im Juli 2009 kaufte Intel das Softwareunternehmen Wind River auf.
+Mitte August 2010 kündigte Intel überraschend an, McAfee (einen US-amerikanischen Produzenten von Antivirus- und Computersicherheitssoftware) für 7,68 Milliarden US-Dollar zu übernehmen. Anfang September 2016 kündigte Intel an, 51 % der Anteile seiner Sparte IT-Sicherheit (McAfee), an den Finanzinvestor TPG für 3,1 Milliarden US-Dollar zu verkaufen. 
+Am 31. Januar 2011 wurde der im August 2010 beschlossene Verkauf des bisherigen Infineon Bereichs Wireless Solutions für 1,4 Milliarden US-Dollar an Intel abgeschlossen. Das dabei neu entstandene Unternehmen hat weltweit rund 3.500 Mitarbeiter und firmiert jetzt als Intel Mobile Communications GmbH (IMC).
+
+
+== Konkurrenten ==
+Da Intel auf vielen Geschäftsfeldern aktiv ist, hat das Unternehmen auch entsprechend viele Konkurrenten.
+Bei x86-Prozessoren ist AMD der Hauptkonkurrent, nachdem sich andere Firmen wie Centaur Technology, Cyrix oder Transmeta entweder aus dem Markt zurückgezogen haben oder sich auf Nischenprodukte konzentrieren. Bei Chipsätzen für Mainboards konkurriert man mit AMD (ehemals ATI Technologies), Nvidia und SiS, bei Netzwerkchips mit Freescale, Broadcom, Marvell und AMCC. Im Flash-Bereich gehören Spansion, Samsung, Toshiba und SK Hynix zu den Konkurrenten.
+Im Januar 2006 wurde der erste Apple Macintosh mit einem Intel-Prozessor vorgestellt. Während frühere Macintosh-Modelle mit Prozessoren von Motorola (68000) oder IBM (PowerPC G3, G5) ausgestattet waren, festigte dieser Schritt Intels Marktposition zusätzlich.
+
+
+== Marketing ==
+
+Zum Jahreswechsel 2005/2006 verabschiedete sich Intel vom 37 Jahre alten Firmenlogo sowie der Bestandteilmarke „intel inside“, die bisher auf Produkten von Fremdherstellern angebracht wurde, die eine CPU von Intel enthielten.
+Der neue Schriftzug wird nun, wie schon zuvor bei „intel inside“, durch einen ovalen Wirbel eingerahmt. Das „e“ im Schriftzug ist nicht mehr tiefgestellt. Das Firmenlogo wird situationsabhängig durch den Slogan „leap ahead“ (deutsch: „Einen Sprung voraus“) ergänzt. Die neue Hausschrift ist eine modifizierte Variante der Neo Sans bzw. Neo Tech.
+Mit der Änderung des Firmenlogos geht auch eine Änderung der Marketingstrategie einher.
+
+
+=== Sponsoring ===
+Intel ist Sponsor im Bereich E-Sport und unterstützt z. B. folgende deutsche Clans:
+Team Alternate
+mousesports
+n!faculty
+Des Weiteren wird der Electronic-Sports-League-Cup von Intel getragen.
+Seit Dezember 2013 wirbt Intel auf Trikot-Innenseite des FC Barcelona.
+
+
+=== Wettbewerbsverstöße ===
+Im Jahr 2005 wurde das Unternehmen von der japanischen Wettbewerbsbehörde FTC für schuldig befunden, seine Monopolstellung missbraucht zu haben.
+2007 gab AMD eine Überprüfung auf Monopolstellung seitens Intel in Auftrag. Intel solle laut Ergebnis der ERS Group in den Jahren 1996–2006 60 Milliarden Euro Gewinn dadurch gemacht haben.
+Im Juni 2008 wurde in Südkorea eine Strafe von 21 Millionen US-Dollar verhängt, mit der gleichen Begründung wie jene der EU.
+Die EU-Kommission ermittelt seit 2007 wegen wettbewerbswidrigen Verhaltens gegen Intel. Das Wettbewerbsverfahren begann im Juli 2007. In einem sogenannten „Blauen Brief“ warf sie Intel 2008 vor, PC-Herstellern Rabatte angeboten zu haben, wenn diese nur noch Intel-Bauteile in ihren Rechnern verbauten. Einem Hersteller sei Geld dafür gezahlt worden, dass er eine Rechnerbaureihe mit AMD-Chips erst verspätet auf den Markt brachte. Die europäische Wettbewerbskommission verurteilte Intel im Mai 2009 zu einer Geldstrafe von 1,06 Milliarden Euro, nachdem sich herausstellte, dass das Unternehmen durch diverse preispolitische Maßnahmen gegenüber Zwischenhändlern und Herstellern massiv zum Nachteil der Wettbewerber in den Markt eingegriffen hatte. Intel kündigte eine Klage gegen das Bußgeld an, der jedoch wenig Erfolgschancen zugerechnet werden. Zum ersten Mal seit rund 22 Jahren musste Intel-Chef Paul Otellini im Juli 2009 wegen der Rekordstrafe einen Quartalsverlust für den Chiphersteller melden. (Abgesehen von der Strafe schnitt der Konzern besser ab als gedacht). Seit 1999 bezahlte Intel die Media-Saturn-Holding für einen exklusiven Verkauf von Intel-Produkten. Die betroffenen PC-Hersteller waren unter anderen Acer, Dell, Hewlett-Packard, Lenovo und NEC. Sie erhielten Vergünstigungen, wenn sie fast ausschließlich Intel-Prozessoren verbauten. Wenn sich der Einbau nicht ganz verhindern ließ, hat Intel auch dafür gezahlt, dass Computer mit AMD-Prozessor verspätet eingeführt werden. Im Mai 2009 verhängte die EU-Kommission gegen Intel eine Kartellstrafe in Höhe von 1,06 Milliarden Euro. Die Kommission begründete ihre Entscheidung damit, dass Intel seine dominante Marktstellung bei Prozessoren missbraucht habe, um Konkurrenten vom Markt zu verdrängen, was den Verbrauchern geschadet habe.
+Die Federal Trade Commission der Vereinigten Staaten untersucht zudem seit Ende 2008, inwieweit Intel in den USA gegen geltendes Kartellrecht verstößt.
+
+
+== Patentabkommen ==
+Intel erhält seit 1976 vierteljährlich Patentgebühren für x86-Prozessoren von AMD. Durch ein Cross-Licensing-Abkommen von 2001 darf Intel die patentrechtlich geschützte AMD64-Mikroarchitektur nutzen. Im Gegenzug dazu darf AMD neuere Intel-Technologien nutzen.
+
+
+== Fortbildungsmaßnahmen ==
+Das Fortbildungsprogramm Intel – Lehren für die Zukunft hatte das Ziel, Lehrern Kompetenzen für die Integration von digitalen Medien in ihrem Unterricht zu vermitteln. „Intel Lehren – Grundkurs“ war Teil der weltweiten Aktion, die Intel gemeinsam mit Microsoft und führenden PC-Herstellern zu Beginn des Jahres 2000 für die Fortbildung von Lehrern aller Schulformen gestartet hatte. Der Grundkurs war Ende 2004 ausgelaufen. Die Nachfolgemaßnahme „Intel Lehren – Interaktiv“ steht seit 2010 für die Lehrkräfte aller Bundesländer zur Verfügung.
+
+
+== Leitende Manager ==
+CEO seit Mai 2013 ist Brian Krzanich.
+Die vorigen CEOs waren:
+1968–1975 Robert Noyce
+1975–1987 Gordon E. Moore
+1987–1998 Andrew S. Grove
+1998–2005 Craig R. Barrett
+2005–2013 Paul Otellini
+Chairman of the Board:
+Arthur Rock, bis 1999 im Board, zeitweise (Non Executive) Chairman
+ab 1975 Robert Noyce, ab 1987 war er Vice-Chairman
+1979–1997 Gordon E. Moore
+1997–2005 Andrew S. Grove
+2005–2009 Craig R. Barrett
+2009–2012 Jane E. Shaw
+Präsident:
+ab 1975 Gordon E. Moore
+1979–1997 Andrew S. Grove
+ab 1997 Craig R. Barrett
+
+
+== Siehe auch ==
+Intel Developer Forum, Entwickler-Konferenz von Intel
+andere Prozessorhersteller: AMD, Motorola, VIA, Transmeta, ARM Limited
+
+
+== Weblinks ==
+
+Offizielle Webseite
+Linkkatalog zum Thema Intel bei DMOZ
+Tom Wolfe: The Tinkerings of Robert Noyce – How the Sun Rose on the Silicon Valley. In: Esquire. Nr. 12, 1983.
+
+
+== Einzelnachweise ==

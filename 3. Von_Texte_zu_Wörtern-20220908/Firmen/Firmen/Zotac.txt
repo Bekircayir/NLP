@@ -1,0 +1,16 @@
+ZOTAC International (MCO) Limited ist ein Computer-Hardware-Unternehmen, gegründet in Hong Kong. Die Produktpalette umfasst in erster Linie Grafikkarten auf Basis von Nvidia-Grafikchips, Mainboards und Mini-PCs.
+Das Unternehmen ist Teil der PC Partner Group und beschäftigt weltweit über 6.000 Mitarbeiter, sein Hauptsitz befindet sich in Hongkong. Des Weiteren besitzt es Zweigniederlassungen in der ganzen Welt, davon über vierzig Produktionsanlagen für Surface-mounted devices (SMD) in China.
+
+
+== Produkte ==
+ZOTAC produziert Grafikkarten unter eigenem Namen, bei denen meist Grafikchips von Nvidia zum Einsatz kommen. Zusätzlich werden Hauptplatinen mit Intel- und AMD-Sockeln sowie mit fest verlöteten Intel-Atom-Prozessoren hergestellt.
+In Europa tritt ZOTAC hauptsächlich durch seine Kleinstrechner in Erscheinung, die auf Basis von Intel-Atom-, Intel-Core- (stromsparende T- oder U-Varianten) oder AMD-Fusion-Prozessoren angeboten werden. Derartige Computer werden oft als HTPC-Lösung verwendet und können sowohl als voll funktionsfähiges Modell oder alternativ als Bausatz bestellt werden.
+Zum Übertakten von Zotac-Grafikkarten bietet Zotac das Tool Firestorm an. Ähnlich wie bei Nvidia nTune kann man hiermit die Takte und die Spannung der Grafikkarte verändern.
+
+
+== Weblinks ==
+
+www.zotac.com – Unternehmens-Website (mehrsprachig)
+
+
+== Einzelnachweise ==

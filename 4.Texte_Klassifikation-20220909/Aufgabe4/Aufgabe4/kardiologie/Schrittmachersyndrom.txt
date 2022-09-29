@@ -1,0 +1,8 @@
+Das Schrittmachersyndrom ist eine Bezeichnung für einen – durch einen Herzschrittmacher im VVI-Modus verursachten – unnatürlichen Herzrhythmus, der zu Herzklopfen, Schwindel und Bewusstseinsstörungen bis hin zur Bewusstlosigkeit führen kann.
+Das Schrittmachersyndrom tritt typischerweise bei Patienten mit Sinusknotensyndrom oder AV-Blockierungen auf, welche zumindest zeitweise noch eine funktionierende Vorhofeigenaktion aufweisen. Bei reiner Ventrikelstimulation durch einen VVI-Herzschrittmacher werden diese Vorhofaktionen nicht wahrgenommen (fehlende Vorhofsonde!). Dies kann dazu führen, dass die (natürliche) Vorhofkontraktion nach Beginn der Ventrikelkontraktion (durch den Schrittmacher initiiert) erfolgt. Die AV-Klappen sind in dieser Phase bereits geschlossen und das Blut wird aus den Vorhöfen zurück in die Lungenvenen bzw. die obere und untere Hohlvene gepumpt. Daher fällt der nachfolgende diastolische Einstrom in die Ventrikel geringer aus, wodurch das Herzzeitvolumen deutlich sinken kann. Diesen Effekt bezeichnet man auch als Vorhofpfropfung. Das kann zu den o. g. Symptomen führen.
+Darüber hinaus führt die Kontraktion der Vorhöfe bei geschlossenen AV-Klappen zu einer Überdehnung der Vorhöfe, wodurch das Risiko von Vorhofflimmern ansteigt (mechano-elektrisches Feedback).
+
+
+== Literatur ==
+Hans-Joachim Trappe: Neues aus Kardiologie und Rhythmologie. Implikationen für die Intensiv- und Notfallmedizin. Springer Science & Business Media, 2009, ISBN 978-3-7985-1885-8, S. 64 (Google Books). 
+Erland Erdmann: Klinische Kardiologie. Krankheiten des Herzens, des Kreislaufs und der herznahen Gefäße. Springer-Verlag, 2011, ISBN 978-3-642-16481-1, S. 81 ff. (Google Books).

@@ -1,0 +1,49 @@
+Das Hypopharynxkarzinom (deutsch „Schlund-Rachen-Krebs“) ist eine zu den Kopf-Hals-Tumoren gehörende Krebserkrankung. Es handelt sich fast ausschließlich um Plattenepithelkarzinome.
+
+
+== Anatomie ==
+Der Hypopharynx, auch als Laryngopharynx bezeichnet, ist einer von drei Bereichen des menschlichen Rachens (Pharynx). Er bildet die Schluckstraße auf der Höhe des Kehlkopfskelettes. Es ist der unterste (gr. hypo = „unten“) Teil des Rachens von der Oberkante der Epiglottis bis zum oberen Ösophagusmund, beziehungsweise einer gedachten Linie auf der Höhe des Ringknorpels des Larynx (Kehlkopfes).
+Für den Hypopharynx selbst sind wiederum drei Unterbezirke definiert:
+Der Sinus piriformis, der beidseitig der Aryepiglottischen Falte (Plica aryepiglottica) kaudal bis an den Ösophagusmund reicht. Etwa 60 % aller Hypopharynxkarzinome entstehen im Sinus piriformis.
+Die Postkrikoidregion, die von der äußeren Hinterwand des Kehlkopfes bis zur Unterkante des Ringknorpels führt. In dieser Region entstehen circa 30 % der Hypopharynxkarzinome.
+Die Hypopharynxhinterwand, in der etwa 10 % aller Hypopharynxkarzinome ihren Ursprung haben.In vielen Fällen lässt sich der genaue Ort der Entstehung schon bei der Erstdiagnose wegen des fortgeschrittenen Wachstums nicht mehr genau lokalisieren, da oft schon der Larynx infiltriert ist. Die Ausbreitung des Tumors erfolgt rasch, da morphologische Barrieren fehlen.
+
+
+== Epidemiologie ==
+
+Bösartige Tumoren des unteren Schlundbereichs sind mit 2 bis 8 Prozent Anteil an den Kopf-Hals-Karzinomen eher selten. Männer sind davon deutlich häufiger betroffen als Frauen.Der Altersgipfel liegt zwischen dem fünfzigsten und sechzigsten Lebensjahr. Der Anteil von Männern zu Frauen liegt bei den Erkrankungen im Bereich von 4:1 bis 8:1. Durch den allgemein zu beobachtenden zunehmenden Tabak- und auch Alkoholmissbrauch bei Frauen passt sich das Verhältnis in den letzten Jahren langsam an.
+
+
+== Ätiologie ==
+Rauchen und Alkoholkonsum sind – wie bei vielen bösartigen Tumoren im Kopf-Hals-Bereich – die entscheidenden Ursachen für eine Erkrankung. Gerade die Interaktion von Alkohol und Nikotin ist hierbei entscheidend.
+Weitere Risikofaktoren sind auch die Exposition gegen bestimmte Öle, Metallstäube (beispielsweise Nickel), Kohle und Teerprodukte sowie Asbestzement.Mangelhafte Mundhygiene sowie eine genetische Prädisposition spielen offensichtlich auch eine Rolle bei der Entstehung der Krankheit.
+
+
+== Symptome ==
+Die Symptome sind meist uncharakteristisch. Beispielsweise unklare Schluckbeschwerden, Globussyndrom, übler Mundgeruch oder ein „Kratzen im Hals“. Diese Beschwerden können allerdings auch viele andere Ursachen haben.
+Spätsymptome sind Schluckunfähigkeit, Spucken von Blut, bis in die Ohren ausstrahlende Schmerzen und Halslymphknotenmetastasen.
+
+
+== Diagnose ==
+Hypopharynxkarzinome können in vielen Fällen bereits durch eine Spiegeluntersuchung diagnostiziert werden. In aller Regel erfolgt zusätzlich eine Panendoskopie des gesamten Rachenraums in Intubationsnarkose. Dem Patienten werden dabei per Biopsie kleine Gewebeproben entnommen, die zur Absicherung der Diagnose feingeweblich untersucht werden.
+Für das Tumorstaging und die Therapieplanung werden bildgebende Verfahren, wie die Computertomografie (CT) oder die Magnetresonanztomografie (MRT), eingesetzt. Damit können die Halslymphknoten untersucht und beurteilt werden. Dies kann prinzipiell auch per Sonografie (Ultraschall) erfolgen.Das Stadium eines Hypopharynxkarzinom wird wie folgt klassifiziert:
+T1 Tumor beschränkt auf einen Bezirk (Sinus piriformis, retrokrikoidale Region, Hypopharynxhinterwand)
+T2 Tumorausdehnung auf mehrere Bezirke oder Nachbarbezirk ohne Fixation an die Umgebung
+T3 Tumorausdehnung auf mehrere Bezirke oder Nachbarbezirk mit Fixation an die Umgebung, z. B. Larynx, Ösophaguseingang oder Oropharynx
+T4 Tumorausdehnung überschreitet den Hypopharynx mit massivem Tumoreinbruch in die Umgebung wie Larynx, Halsweichteile und andere Nachbarorgane
+
+
+== Therapie ==
+Kleinere Hypopharynxkarzinome können laserchirurgisch entfernt werden. Unter Umständen müssen dabei auch Bereiche des engbenachbarten Kehlkopfes mit entfernt werden. Es wird zwar in der Regel ein Therapieverfahren gewählt, das nach der Beseitigung des Tumors einen Erhalt der Sprechfunktion erlaubt, allerdings muss bei fortgeschritteneren Tumoren häufig der gesamte Kehlkopf mit entfernt werden. Die Stimmrehabilitation erfolgt dann wie beim Kehlkopfkrebs. Müssen größere Teile des Pharynxschlauches entfernt werden, so werden lokale oder gestielte Lappenplastiken eingesetzt, um den Speiseweg wiederherzustellen. Da häufig Lymphknotenmetastasen auftreten, wird meist auch eine funktionelle Neck-Dissection durchgeführt.In vielen Fällen wird zusätzlich eine Strahlentherapie, häufig in Kombination mit einer Chemotherapie, nach der Operation durchgeführt.
+
+
+== Prognose ==
+Im Vergleich zu anderen Karzinomen der oberen Luft- und Speisewege ist die Prognose für ein Hypopharynxkarzinom ausgesprochen schlecht. Dies liegt ursächlich in der hohen Inzidenz von regionären und fernen Metastasen und der häufigen Entstehung von Zweitkarzinomen. Auch das meist sehr späte Erkennen der Anfangssymptome verschlechtert die Prognose erheblich.
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+S. Bürger: Das Hypopharynxkarzinom – Onkologische und funktionelle Ergebnisse nach laserchirurgischer und klassischer Behandlung. Dissertation. Universität Hamburg, 2000.
+M. Bremke: Wertigkeit der geplanten Neck dissection nach primärer Radio-chemotherapie oro- und hypopharyngealer Karzinome im Stadium IV. Dissertation. Philipps-Universität Marburg, 2007. (PDF; 1,09 MB)

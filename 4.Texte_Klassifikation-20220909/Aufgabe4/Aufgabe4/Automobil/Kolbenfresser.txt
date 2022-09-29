@@ -1,0 +1,59 @@
+Als Kolbenfresser (in Österreich auch Kolbenreiber, Kolbenanreiber oder Kolbenverreiber) werden in Hubkolbenmotoren und -verdichtern Schäden an den bewegten Kolben im Bereich der Berührungsfläche zum Zylinder bezeichnet.
+
+
+== Ursachen ==
+Durch mangelhafte Schmierung der Laufflächen von Kolben und Zylinder entsteht trockene Reibung, wodurch sich die Temperatur von Kolben und Zylinder stark erhöht. Dadurch wird eine Reibschweißung eingeleitet. Kolben und Lauffläche des Zylinders (Zylinderlaufbuchse) verbinden sich fest miteinander und die Maschine wird schlagartig zum Stillstand gebracht. Die Ursachen dafür erstrecken sich von aus unterschiedlichen Gründen erhöhten Temperaturen über mangelnde oder falsche Schmierung bis hin zu Montage- oder gar Konstruktionsfehlern. Die meisten Kolbenfresser treten bei Verbrennungsmotoren auf.
+Beim Fressen erhöht sich durch Änderung des tribologischen Systems die Temperatur des Kolbens. Da sich der Kolben schneller erwärmt als der umgebende gekühlte Zylinder, dehnt er sich stärker aus und beginnt zu blockieren, wenn das Spiel gegen Null läuft. Das führt innerhalb kürzester Zeit zum „Festfressen“ (völlige Blockade des Kolbens im Zylinder) durch Verschweißen des Kolbenmaterials mit der Zylinderwand im oberen oder unteren Totpunkt, wenn die Relativgeschwindigkeit von Kolben zu Zylinder gegen Null geht. Verstärkt wird die Neigung zum Kolbenfressen auch durch die meist verwendete Materialpaarung Aluminium (Kolben) und Grauguss (Zylinder), da Aluminium einen größeren Wärme-Ausdehnungskoeffizienten aufweist.
+
+
+=== Schmiermittel ===
+Schmiermittelverlust durch zu hohe Drehzahlen, zu hohe Motorlast, Kraftstoffüberschuss (der den Ölfilm auflöst), Schlammbildung im Öl, verstopfte Öl-Spritzdüsen, Ölmangel oder auch zu viel Öl (da die Kurbelwelle ins Öl schlagen kann, somit sich Luftbläschen im Öl bilden und die Schmierfähigkeit des Öls stark beeinträchtigt wird) verursacht örtlich einen Kühlungs- oder Schmierungsmangel am Kolben.
+Der auf- und abbewegte Kolben eines Hubkolbenmotors muss im Allgemeinen mit Öl geschmiert und gekühlt werden. Die Reibungswärme soll abgeführt und der Reibkoeffizient (siehe Reibung) soll minimiert werden. Beim Zweitaktmotor wird das für die Schmierung benötigte Öl meist dem Benzin zugemischt (Zweitaktgemisch). Da im Schiebebetrieb (bei Bergabfahrt) der Motor nur mit dem Gemisch für Standgas versorgt wird (Drosselklappe geschlossen), kann unter Umständen Schmierungsmangel auftreten. Dies tritt nicht auf, wenn das Standgas vorher so niedrig wie möglich eingestellt wird. So kann das im Kraftstoff-/Luftgemisch enthaltene Öl die Schmierung des Motors aufrechterhalten. Wenn die Menge an Luft für das im Schiebebetrieb angesaugte Gemisch zu gering für eine Verbrennung ist, bleibt die Temperatur niedrig und die Schmierung ist gewährleistet. In den allermeisten Viertaktmotoren erfolgt die Schmierung mittels einer Ölpumpe, die das Öl an die Schmierstellen fördert.
+
+
+=== Kühlung ===
+Ausfall der Kühlung durch Kühlmittelverlust oder Verstopfung der Wärmetauscher sind bekannte Probleme. Die Temperaturerhöhung kann zum Abreißen des Ölfilms führen. In der Folge entsteht zu hohe Reibung und Überhitzung des Kolbens. Daraus resultiert aufgrund der Wärmeausdehnung ein zu großes Durchmesserwachstum des Kolbens in der Zylinderbohrung.
+
+
+=== Fremdkörper ===
+
+Fremdkörper führen zu abrasivem Verschleiß im Kolben (z. B. durch starke Verschmutzung der Ansaugluft) wegen erhöhter Reibung, was die Neigung zum Fressen der Bauteile begünstigt. Ein defekter, gebrochener Kolbenring kann zu erhöhter Reibung und letztlich zum Kolbenfresser führen. Schlechte Verbrennung oder Fremdstoffe im Kraftstoff können zu Ablagerungen an Kolben und Zylinderlauffläche führen, die den Ölfilm abreißen lassen und somit den Kolbenfresser auslösen. Deformation des Kolbens durch große Fremdkörper beim Motorschaden (Ventilschaden) oder Durchbrennen können auch zum Kolbenfresser führen.
+
+
+== Abgrenzung ähnlicher Schäden ==
+Vorstufen des Kolbenfressers haben die gleichen Ursachen. Der Unterschied ist, dass der Motor sich noch drehen lässt.
+
+
+=== Kolbenklemmer ===
+
+Eine Vorstufe des Kolbenfressers ist der Kolbenklemmer: Hier frisst sich der Kolben nicht gänzlich fest, wenn die Motorlast genügend schnell reduziert wird und der Motor abkühlen kann.
+Verhaltensregel zur Vorbeugung gegen den Kolbenfresser: Selbst wenn der Motor nach einem Kolbenklemmer wieder anspringen sollte, sollte er auf keinen Fall weiter betrieben, sondern schnellstmöglich wieder ausgeschaltet werden. Sonst kann bereits nach nur kurzem Betrieb der Kolbenfresser folgen, was den Motor endgültig zerstören würde.
+
+
+== Hinweise und Folgen ==
+Plötzlich nachlassende Leistung des Motors im Betrieb, häufig mit abnormalen Geräuschen kombiniert, kann ein Hinweis auf einen kommenden Schaden sein. Gleichfalls kann vor dem Schaden die Leistung eines alten Motors ohne ersichtlichen Grund besser werden – auch das ist ein Alarmsignal.
+Beim Blockieren eines Kolbens werden alle sich in Bewegung befindlichen Teile des Motors schlagartig abgebremst. Deren Bewegungsenergie wirkt auf den blockierten Kolben, wobei aufgrund der geringen Elastizität und des geringen Bremsweges sehr hohe Kräfte entstehen.
+Der Pleuelquerschnitt versagt aufgrund zu großer Zug- oder Druckkräfte und das Pleuel reißt ab. Außerdem kann es zu Verformungen der Kurbelwelle und der Wellenlager kommen. Nahezu immer ist der entstehende Schaden irreparabel. Auch können das abgerissene Pleuel oder Teile davon das Kurbelgehäuse durchschlagen.
+
+
+== Instandsetzung ==
+Ein Kolbenklemmer oder Kolbenfresser muss in einer Fachwerkstatt für Motoreninstandsetzung behoben werden. Dazu wird der Zylinder in der Regel zunächst aufgebohrt und danach gehont. Die Zylinderlauffläche wird dadurch feinst bearbeitet und geglättet. Der defekte Kolben muss in der Regel ersetzt werden. Wird bei der Instandsetzung des Zylinders der Durchmesser erweitert, muss ein Übermaß-Kolben verwendet werden. Diese haben praktisch alle Motorenhersteller im Programm. Mit dem neuen Kolben werden auch neue Kolbenringe verwendet. Eine Ausnahme bilden hier neuere Aluminiummotorblöcke, die an der Zylinderlauffläche mit hochabriebfesten Werkstoffen beschichtet sind. Da das im Plasma- oder Laserbeschichtungsverfahren aufgebrachte Material nur wenige 1/100 mm stark ist, können sie nicht nachbearbeitet werden. Aus diesem Grund gibt es auch keine Übermaßkolben. Hier werden zumeist Zylinderlaufbuchsen aus Stahl oder Grauguss eingeschrumpft und die Originalkolben beibehalten. Auffällig waren hier beispielsweise die erste Generation Fünfzylindermotoren mit Pumpe-Düse-Einspritzung des VW-Konzerns mit dem Motorkennbuchstaben AXE. Bei diesen löste sich vermehrt die Plasmabeschichtung vom Motorblock ab. Eine Instandsetzung war zum damaligen Zeitpunkt unmöglich und der komplette Motorblock musste erneuert werden.
+
+
+=== Kolbenfresser beim Motorrad ===
+Bei einem Kolbenfresser blockiert die Antriebsachse, beim Motorrad also auch das Hinterrad; dabei besteht eine große Gefahr zu Stürzen. Wenn man die Kupplung schnell zieht, wird die Verbindung des Rades zum blockierten Kolben unterbrochen, und ein Sturz kann eventuell vermieden werden.
+
+
+== Verwandte Themen ==
+Ein ähnlicher Effekt wie beim Kolbenfresser wird beim Reibschweißen zur absichtlichen Verbindung zweier Metallteile verwendet.
+Weitere Schäden siehe: Motorschaden
+
+
+== Literatur ==
+Max Bohner, Richard Fischer, Rolf Gscheidle: Fachkunde Kraftfahrzeugtechnik. 27. Auflage. Verlag Europa-Lehrmittel, Haan-Gruiten 2001, ISBN 3-8085-2067-1.
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==

@@ -1,0 +1,623 @@
+AdBlue ist eine Marke für Produkte und Dienstleistungen in Bezug auf Abgasnachbehandlung bei Dieselmotoren mittels selektiver katalytischer Reduktion (SCR). Diese Abgasnachbehandlung ermöglicht eine Reduktion der ausgestoßenen Stickoxide (NOx) um bis zu 90 Prozent. 2020 wurde an einem Fahrzeug mit beheizbarem SCR-Katalysator eine Umwandlungsrate von 97 Prozent demonstriert. Die hierfür u. a. notwendige wässrige Harnstofflösung ist in ISO 22241 als AUS 32 genormt.
+Die Marke gehört dem deutschen Verband der Automobilindustrie (VDA) und kann von Unternehmen zur Herstellung entsprechender Produkte lizenziert werden.
+Zur technischen Wirkungsweise der Abgasnachbehandlung siehe SCR für den Einsatz in Fahrzeugen und Schiffen
+
+
+== Lizenzbedingungen ==
+Der Markeninhaber beschreibt seine Vergaberichtlinien wie folgt:
+
+Die aktuellen Lizenzbedingungen können beim Inhaber angefragt werden. Zur Einführung 2009 wurden die Lizenz- und Zertifizierungskosten exemplarisch für einen Hersteller der Harnstofflösung genannt.Die der Marke zugrunde liegende ISO-Norm standardisiert und benennt die wässrige Lösung dabei international mit AUS 32 für aqueous urea solution. Die Norm beschreibt weiterhin notwendige Test- und Qualitätssicherungsverfahren, sowie Lager- und Logistikanforderungen. Der Verband lizenziert die Marke nur in Verbindung mit umfangreichen Auditierungsmaßnahmen, die vom jeweiligen Lizenznehmer zu tragen sind.
+
+
+== Lizenznehmer ==
+Die Marke wird weltweit von Industriebetrieben lizenziert, die sie für Benennung und Qualifizierung der Harnstofflösung nutzen. Die Anzahl an Lizenznehmern wuchs von 124 im Oktober 2014 auf 177 im Mai 2018.
+
+
+== Spezifikationen ==
+AdBlue besteht aus einem Gemisch von demineralisiertem Wasser und ca. 32 % Harnstoff. Die Flüssigkeit besitzt folgende physikalische Eigenschaften:
+
+Das Mischverhältnis ist nahe am eutektischen Punkt. Dies ermöglicht den niedrigsten möglichen Schmelzpunkt und die Konzentration in flüssiger oder fester Phase ändert sich nicht nennenswert, wenn Teile der Lösung einfrieren.
+
+
+== Herstellungsprozess ==
+
+Harnstoff (CH4N2O) wird in der chemischen Industrie großtechnisch aus Ammoniak (NH3) und Kohlendioxid (CO2) hergestellt. Ammoniak wird dazu mittels elektrischer Energie (85 bis 160 kWh pro t) aus Stickstoff (N2) und Wasserstoff (H2) hergestellt (Haber-Bosch-Verfahren). Der benötigte Wasserstoff wird wiederum fast ausschließlich aus – überwiegend fossilem – Methan (CH4)  hergestellt.Durch hohe Gaspreise stieg der Preis des Additivs von vormals 13 €/100 l auf 76 €/100 l im ersten Quartal 2022.
+
+
+== Verbrauch ==
+Abhängig von der NOx-Konzentration und dem Motorzustand wird Adblue zur Reduktion zu Stickstoff, Kohlenstoffdioxid und Wasser eingebracht. Der Verbrauch weicht unter den verschiedenen Pkw deutlich ab. Im Jahr 2018 hat Bosch für einen prototypisch veränderten VW Golf, der den Euro-6-Grenzwert von 80 mg NOx/km im Realbetrieb deutlich unterschritten hat, je nach Fahrweise einen AdBlue-Verbrauch von 0,5 bis 1,8 l/1000 km angegeben. Andere Quellen geben einen Verbrauch an AdBlue von etwa 4 % bis 6 % des Kraftstoffverbrauchs oder bei Pkw bis zu 8,5 Liter pro 1000 Kilometer an. Bei Wohnmobilen der Abgasnorm Euro 6d-TEMP machen Hersteller teils gar keine Angaben, oder geben eine sehr große Spanne an, wie z. B. 1 bis 5 Prozent des Kraftstoffverbrauchs bei Ford.Befindet sich 
+  
+    
+      
+        
+          N
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {NO_{2}} }
+   im Abgas, dann wird zunächst das gesamte 
+  
+    
+      
+        
+          N
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {NO_{2}} }
+   zusammen mit der entsprechenden Menge 
+  
+    
+      
+        
+          N
+          O
+        
+      
+    
+    {\displaystyle \mathrm {NO} }
+   durch schnelle Selektive katalytische Reduktion (Fast SCR) verbraucht. Erst danach findet Standard SCR statt. Liegt das Mischungsverhältnis aus 
+  
+    
+      
+        
+          N
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {NO_{2}} }
+   und 
+  
+    
+      
+        
+          N
+          O
+        
+      
+    
+    {\displaystyle \mathrm {NO} }
+   bei 1:1 oder knapp darunter, dann liegt der Verbrauch bei 1 Liter pro 450 g NOx:
+
+  
+    
+      
+        
+          (
+          N
+          
+            H
+            
+              2
+            
+          
+          
+            )
+            
+              2
+            
+          
+          C
+          O
+          ⟶
+          N
+          
+            H
+            
+              3
+            
+          
+          +
+          H
+          N
+          C
+          O
+        
+      
+    
+    {\displaystyle \mathrm {(NH_{2})_{2}CO\longrightarrow NH_{3}+HNCO} }
+  
+
+  
+    
+      
+        
+          H
+          N
+          C
+          O
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+          ⟶
+          N
+          
+            H
+            
+              3
+            
+          
+          +
+          C
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {HNCO+H_{2}O\longrightarrow NH_{3}+CO_{2}} }
+  
+
+  
+    
+      
+        
+          N
+          O
+          +
+          2
+          N
+          
+            H
+            
+              3
+            
+          
+          +
+          N
+          
+            O
+            
+              2
+            
+          
+          ⟶
+          2
+          
+            N
+            
+              2
+            
+          
+          +
+          3
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {NO+2NH_{3}+NO_{2}\longrightarrow 2N_{2}+3H_{2}O} }
+  Setzt man die Atommassen N=14u, H=1u, C=12u und O=16u ein, ergeben sich Molekülmassen von 60u für 
+  
+    
+      
+        
+          (
+          N
+          
+            H
+            
+              2
+            
+          
+          
+            )
+            
+              2
+            
+          
+          C
+          O
+        
+      
+    
+    {\displaystyle \mathrm {(NH_{2})_{2}CO} }
+   und 18u für 
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {H_{2}O} }
+  . Um das Massenverhältnis von 32,5 % zu 67,5 % zu erhalten, muss das molekulare Verhältnis bei ca. 1:6,92 liegen. Bei der Reaktion wird jeweils 1 Molekül 
+  
+    
+      
+        
+          (
+          N
+          
+            H
+            
+              2
+            
+          
+          
+            )
+            
+              2
+            
+          
+          C
+          O
+        
+      
+    
+    {\displaystyle \mathrm {(NH_{2})_{2}CO} }
+   und 
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {H_{2}O} }
+   verbraucht, der verbleibende Wasseranteil nimmt an keiner Reaktion zur Reduktion von Stickoxiden teil.
+Aus 60u 
+  
+    
+      
+        
+          (
+          N
+          
+            H
+            
+              2
+            
+          
+          
+            )
+            
+              2
+            
+          
+          C
+          O
+        
+      
+    
+    {\displaystyle \mathrm {(NH_{2})_{2}CO} }
+   und 6,92*18 = 124,6u 
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \mathrm {H_{2}O} }
+  , in der Summe also 184,6u, erhält man folglich ausreichend Ammoniak für die Reduktion eines 
+  
+    
+      
+        
+          N
+          O
+        
+      
+    
+    {\displaystyle \mathrm {NO} }
+  - und eines 
+  
+    
+      
+        
+          N
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {NO_{2}} }
+  -Moleküls mit 30u und 46u. Da mit 184,6u AdBlue 76u 
+  
+    
+      
+        
+          N
+          O
+        
+      
+    
+    {\displaystyle \mathrm {NO} }
+   und 
+  
+    
+      
+        
+          N
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {NO_{2}} }
+   reduziert werden, reduziert 1 kg AdBlue ca. 412 g Stickoxide. Mit einer Dichte von 1,09 kg/l ergibt sich gerundet, dass 1 Liter AdBlue etwa 450 g Stickoxide reduziert. Der oben angegebene Spitzenwert von 8,5 l/1000 km bezieht sich folglich auf eine Fahrsituation, in der ohne Stickoxid-Nachbehandlung ca. 3800 mg NOx/km ausgestoßen werden.
+Diese Berechnung bezieht sich auf die tatsächliche Masse der 
+  
+    
+      
+        
+          N
+          O
+        
+      
+    
+    {\displaystyle \mathrm {NO} }
+  - und 
+  
+    
+      
+        
+          N
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {NO_{2}} }
+  -Moleküle. Die Verordnung 692/2008 sieht jedoch vor, dass die 
+  
+    
+      
+        
+          N
+          
+            O
+            
+              x
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {NO_{x}} }
+  -Emissionen in (
+  
+    
+      
+        
+          N
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {NO_{2}} }
+  )-Äquivalent ausgedrückt werden, d. h. für 
+  
+    
+      
+        
+          N
+          O
+        
+      
+    
+    {\displaystyle \mathrm {NO} }
+  -Emissionen wird nicht die tatsächliche Masse angegeben, sondern es wird angegeben, welche Masse an 
+  
+    
+      
+        
+          N
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {NO_{2}} }
+   daraus durch Oxidation entstehen kann. In diesem Fall müsste man in der obigen Berechnung auch 
+  
+    
+      
+        
+          N
+          O
+        
+      
+    
+    {\displaystyle \mathrm {NO} }
+  -Moleküle mit 46u statt 30u ansetzen. Dann reduziert man mittels der 2 
+  
+    
+      
+        
+          N
+          
+            H
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {NH_{3}} }
+  -Moleküle, die aus 184,6u AdBlue gewonnen werden, 92u (
+  
+    
+      
+        
+          N
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {NO_{2}} }
+  )-Äquivalent, d. h. 1 kg AdBlue reduziert 498 g (
+  
+    
+      
+        
+          N
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {NO_{2}} }
+  )-Äquivalent, 1 Liter AdBlue also 543 g (
+  
+    
+      
+        
+          N
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {NO_{2}} }
+  )-Äquivalent. Bei dieser Betrachtungsweise spielt es auch keine Rolle mehr, ob Fast SCR oder Standard SCR stattfindet, da in beiden Fällen 1 Mol Stickoxide mittels 1 Mol Ammoniak reduziert wird.
+Zum Vergleich: Das Umweltbundesamt gibt für Diesel-PKW der Abgasnorm Euro 5 einen Flottendurchschnitt von 950 mg NOx/km an. Eine Veröffentlichung des ADAC bestätigt, dass bei Euro-5-Fahrzeugen ohne Stickoxid-Nachbehandlung das Mischungsverhältnis zwischen 
+  
+    
+      
+        
+          N
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {NO_{2}} }
+   und 
+  
+    
+      
+        
+          N
+          O
+        
+      
+    
+    {\displaystyle \mathrm {NO} }
+   ausreichend nah an 1:1 liegt, um die obigen Betrachtungen auch dann anzuwenden, wenn nicht mit dem (
+  
+    
+      
+        
+          N
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {NO_{2}} }
+  )-Äquivalent gearbeitet wird. Die Darstellung, der AdBlue-Verbrauch bei PKW müsste bei 4–6 % des Kraftstoffverbrauchs liegen, ist daher nicht nur unvereinbar mit den Ergebnissen von Bosch an einem Fahrzeug, das den Euro-6-Grenzwert im Realbetrieb einhält, sondern ist auch rechnerisch unvereinbar mit den bekannten Werten für die Produktion von Stickoxiden in Euro-5-Motoren ohne Stickoxid-Nachbehandlung. Zudem bezieht sich der Wert von 950 mg NOx/km auf die tatsächliche Fahrzeugflotte, inklusive der Abschalteinrichtungen in der Abgasrückführung. Eine wirksamere Abgasrückführung würde zu weniger Stickoxid-Produktion führen, und damit rechnerisch zu einem geringeren AdBlue-Verbrauch.
+Es gibt Quellen, die solche Werte aus Erfahrungswerten von LKW hergeleitet haben, allerdings ohne die Übertragbarkeit dieser Erfahrungswerte zu hinterfragen. Bereits 2014 hatte Scania einen Wert von 6 % für seine Euro VI-Motoren ohne Abgasrückführung, und 3 % für seine Euro VI-Motoren mit Abgasrückführung veröffentlicht. Bereits damals war also klar, dass der AdBlue-Verbrauch, je nach genauer Konstruktion und Funktionsweise des Motors, stark schwankt.
+
+
+== Kartellvorwürfe ==
+In einem Kartell hatten sich Volkswagen, Daimler und BMW über die Größe der Tanks für die Harnstofflösung verständigt. Daimler und VW hatten sich selbst angezeigt und hofften auf die Kronzeugenregelung.In diesem Zusammenhang wurde behauptet, dass damit die Abgasreinigung nur kompromittiert möglich war. Allerdings hat das Volumen des AdBlue-Tanks an sich keinen direkten Einfluss auf die Funktion der Abgasreinigung. Die Darstellung, dass die Abgasreinigung durch kleinere Tanks beeinträchtigt werde, ist nur haltbar, wenn man annimmt, dass es Fahrern nicht möglich ist, AdBlue bei Bedarf nachzufüllen, obwohl der Einfüllstutzen, wie im Bild oben, direkt neben den Diesel-Einfüllstützen konstruiert werden kann und obwohl AdBlue ausreichend verfügbar ist.
+Die Europäische Kommission meint in einer Pressemitteilung vom 8. Juli 2021, dass die Geldbußen in Höhe von 875 Mio. EUR gegen Daimler, BMW, Volkswagen, Audi und Porsche (Daimler genoss jedoch die Kronzeugenregelung) dadurch gerechtfertigt seien, dass die Unternehmen im Rahmen mehrerer Fachkonferenzen unter anderem beschlossen hätten, nicht untereinander einen Wettbewerb darum auszutragen, die gesetzlichen Forderungen nach NOx-Reduzierung im Abgas überzuerfüllen, obwohl sie die Technologie dazu besaßen. In den Treffen über fünf Jahre (2009 bis 2014) sei es darum gegangen, Verbrauchsrichtlinien und Nachfüll-Reichweiten zu vereinbaren.
+
+
+== Zapfsäulen ==
+
+Es gibt verschiedene Zapfsäulen für PKW und LKW. Ende 2020 verfügten in Deutschland 932 von ca. 14 000 öffentlichen Tankstellen über AdBlue-Zapfsäulen für Pkw. Einige PKW werden heute so konstruiert, dass eine Betankung mit AdBlue auch an LKW-Zapfsäulen technisch möglich ist.
+
+
+== Weblinks ==
+Fachempfehlung des Deutschen Feuerwehrverbandes zum Umgang mit AdBlue vom 4. Juli 2019
+
+
+== Einzelnachweise ==

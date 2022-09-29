@@ -1,0 +1,21 @@
+Herzstillstand ist ein Begriff aus der Medizin für das nicht mehr oder nicht mehr ausreichend schlagende Herz. Zu unterscheiden sind dabei zwei Formen:
+
+Der spontane Herzstillstand (mit plötzlichem Zusammenbrechen der betroffenen Person) wird ausgelöst durch Kammerflimmern, Asystolie oder elektromechanische Entkoppelung (zum Beispiel durch einen Herzinfarkt oder Stromunfall), was einen Kreislaufstillstand bewirkt und zum Tode führt, wenn keine Herz-Lungen-Wiederbelebung (Reanimation, insbesondere die Herzdruckmassage) durchgeführt wird.
+Der künstlich herbeigeführte (induzierter oder pharmakologischer) Herzstillstand (Kardioplegie) wird im Rahmen einer Operation durch die Injektion von kardioplegischer Lösung (oder auch kardiopleger Lösung) in die Herzkranzgefäße ausgelöst. Er senkt den Sauerstoffbedarf des Herzmuskels von ca. 10 auf ca. 0,05 Milliliter pro 100 Gramm Herzgewebe pro Minute und erlaubt Operationen mit großer Präzision am nicht mehr schlagenden Herzen (z. B. Bypass-Operation). Kardioplegische Lösungen sind pharmakologisch unterschiedlich zusammengesetzt, enthalten in der Regel viel Kalium und Magnesium und werden eiskalt (ca. 4 °C) angewendet. Die Funktion des Kreislaufs wird während des künstlichen Herzstillstandes von einer Herz-Lungen-Maschine aufrechterhalten.
+
+
+== Siehe auch ==
+Plötzlicher Herztod
+
+
+== ICD-10-GM ==
+Bei einem Herzstillstand innerhalb von 24 Stunden vor der stationären Aufnahme in ein Krankenhaus wird ein Zusatzcode angegeben:
+U69.13!  Herz-Kreislauf-Stillstand vor Aufnahme in das Krankenhaus
+
+
+== Literatur ==
+Renate Huch, Klaus D. Jürgens (Hrsg.): Mensch – Körper – Krankheit. 6. Auflage. Elsevier / Urban & Fischer, München 2011, ISBN 978-3-437-26792-5. 
+Stefan Latz: Kristalline Kardioplegie nach Bretschneider versus Blutkardioplegie nach Calafiore in der Koronarchirurgie. 2012, urn:nbn:de:hbz:5n-28199. 
+
+
+== Einzelnachweise ==

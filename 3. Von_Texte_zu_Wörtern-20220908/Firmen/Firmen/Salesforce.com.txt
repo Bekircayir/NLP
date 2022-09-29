@@ -1,0 +1,95 @@
+Salesforce.com ist ein internationaler Anbieter von Cloud-Computing-Lösungen für Unternehmen. Das Unternehmen mit Hauptsitz in San Francisco (USA) stellt Geschäftsanwendungen für Unternehmen zur Miete über das Internet zur Verfügung. Salesforce.com versteht sich als Anbieter von Software as a Service und Platform as a Service und ist vor allem auf Kundenbeziehungsmanagement (CRM) für Unternehmen jeder Größe spezialisiert. Die Produkte und Dienstleistungen von salesforce.com sind mandantenfähig. Die Produkte von salesforce.com sollen Unternehmen außerdem helfen, Mitarbeiter, Kunden und Produkte zu vernetzen.
+
+
+== Unternehmensgeschichte ==
+Salesforce.com wurde 1999 von dem ehemaligen Oracle-Manager Marc Benioff, dem heutigen CEO, gegründet. Er setzte das Konzept um, Unternehmensanwendungen über das Internet bereitzustellen. Heute wird dies als Cloud Computing oder Software as a Service bezeichnet. Marc Benioff selbst nennt es „Das Ende der Software“. Mit einem Umsatz von rund sechs Milliarden US-$ und über 150.000 Kunden ist salesforce.com eines der am schnellsten wachsenden Unternehmen weltweit.
+Neben dem Hauptsitz in San Francisco unterhält salesforce.com Regional-Büros in Morges (für EMEA), Singapur (Asien-Pazifik). Die deutsche Niederlassung befindet sich in München. Das Unternehmen bietet seine Dienstleistungen in 16 verschiedenen Sprachen an.
+
+
+== Akquisitionen ==
+Folgende Firmen wurden von Salesforce.com übernommen:
+Krux (Oktober 2016) – Anbieter für Marketing Automatisierung
+Gravitytank (September 2016) - Beratungsunternehmen
+Quip (August 2016) – Word Processing Software Anbieter
+BeyondCore (August 2016) - Business Intelligence und Analytics Anbieter
+Demandware (Juli 2016) – eCommerce System
+EdgeSpring (Juni 2013) – Business Intelligence und Analytics Software Anbieter
+ExactTarget (Juni 2013) – Customer Relationship Management (CRM) Software
+Rypple (Dezember 2011) – Human Capital Management (HCM) Software
+Model Metrics (November 2011) – Beratung für mobile und social Cloud Anwendungen
+Assistly (September 2011) – Anbieter von Kundenservice Helpdesk Anwendungen
+Radian6 (März 2011) – Anbieter von Social Media Monitoring
+Manymoon (Februar 2011) – Entwickler für Apps
+Dimdim (Januar 2011) – Webkonferenzplattform
+Heroku (Dezember 2010) – Programmierplattform für Ruby-on-Rails
+InStranet (August 2008) – Technik für Salesforce Knowledge
+
+
+== Produkte und Dienstleistungen ==
+Salesforce.com bietet Unternehmen webbasierte Geschäftsanwendungen als Dienstleistung über das Internet an, was Vorteile hinsichtlich Zeit, Kosten und Sicherheit gegenüber installierter Software mit sich bringen soll. Diese Unternehmenslösungen verfügen über Mandantenfähigkeit.
+
+
+=== Sales Cloud für Kundenbeziehungsmanagement ===
+Salesforce.com bietet für das Kundenbeziehungsmanagement die webbasierte Lösung „Sales Cloud“. Nutzer können über ihren PC oder mobile Endgeräte wie z. B. Smartphones Kundendaten und -aufträge abrufen und bearbeiten.
+
+
+=== Service Cloud für Kundenservice ===
+Die Service Cloud für Kundenservice ist ein Produkt, das neben klassischen Varianten wie Telefon, E-Mail oder auch Brief auch Online-Foren und soziale Netzwerke in den Service einbezieht. Diese Netzwerke werden in die Service Cloud integriert und ermöglichen Unternehmen an Kundendiskussionen über soziale Netzwerke teilzunehmen.
+
+
+=== Salesforce Chatter für Zusammenarbeit in Unternehmen ===
+Salesforce Chatter orientiert sich am Prinzip von Facebook. Unternehmensinterne Kommunikation kann unabhängig vom Standort über mobile Endgeräte wie Blackberrys, Apple iPhones oder andere Smartphones erfolgen. Salesforce Chatter verfügt über ähnliche Funktionen wie Facebook: Mitarbeiter können Nutzerprofile anlegen, Gruppen beitreten und Personen, Projekten oder Dokumenten, an denen sie gerade arbeiten, „folgen“. Sie werden über Echtzeit-Feeds über Statusupdates informiert.
+
+
+=== Force.com ===
+Force.com ist eine Software-Entwickler- und Betriebsplattform von salesforce.com. Entwickler können damit Geschäftslösungen entwickeln und betreiben, wobei die Infrastruktur von salesforce.com verwendet wird. In Force.com sind unter anderem folgende Werkzeuge integriert: die Java-ähnliche Programmiersprache Apex, verschiedene Entwicklertools wie zum Beispiel VisualForce für die Entwicklung eines GUIs und Methoden wie etwa Benutzerverwaltung, Datenmanagement, Workflows und Reporting. Für Anpassungen und Integration von salesforce.com-Lösungen in bestehende IT-Umgebungen bzw. an andere Systeme stehen weitere Entwicklerwerkzeuge zur Verfügung, unter anderem:
+WebServices APIs
+VisualForce
+Force.com Toolkit for Google Data APIs
+Force.com IDE Plugin for Eclipse
+
+
+=== AppExchange ===
+Über die AppExchange-Plattform, dem Marktplatz für Unternehmens-Anwendungen können zusätzliche Online-Anwendungen von salesforce.com oder Partnern getestet und genutzt werden. Auf der AppExchange wurden bisher 1120 (Stand: Januar 2011) Applikationen programmiert, die zum Teil kostenlos, zum Teil kostenpflichtig zur Verfügung stehen.
+Beispiele für On-Demand-Lösungen anderer Anbieter, die auf AppExchange erhältlich sind:
+Salesforce Integration für SAP, Pervasive Software (ERP-Software), in Deutschland von mindsquare angeboten
+Salesforce Integration mit anderen Anwendungen wie SAP, Oracle, Legacy Anwendungen & Co. mit Magic xpi von Magic Software
+Informatica Integration Pack für Salesforce, Informatica (ERP-Software)
+CODA Integrator für Salesforce CRM, CODA (Finanzverwaltung)
+NetExam 1.02, MediaDefined (Partner-Training)
+Ribbit für Salesforce, Ribbit (Mobile-Device-Lösung)
+Jobscience TalentCentral, Jobscience (Mitarbeiter-Rekrutierung)
+STARFACE Telefonie Connector (Integriert Telefonie in salesforce)
+SKYVVA Integration Suite zur Integration von Salesforce mit SAP, Infor, Abacus, u.a. (native Force.com Applikation)
+
+
+=== Database.com – webbasierte Datenbank ===
+Database.com ist eine für Cloud Computing konzipierte Datenbank für Unternehmen. Database.com unterstützt sämtliche Programmiersprachen, Plattformen und Endgeräte. Sie kombiniert Eigenschaften von Datenbanken für Geschäftsanwendungen (z. B. User Management, Sicherheit bis auf Feldebene, Trigger, gespeicherte Prozeduren, Authentifizierung und leistungsfähige APIs) mit Cloud Computing-Anwendungen. Database.com ist in Echtzeit skalierbar.
+
+
+=== Heroku – Ruby Platform-as-a-Service ===
+Heroku ist eine Ruby Anwendungs-Entwicklungsplattform für social und mobile Cloud Anwendungen und stellt Bibliotheken für die Programmiersprache zur Verfügung. Heroku wurde 2007 von Anwendungsentwicklern gegründet und ermöglicht die Programmierung von social Anwendungen für u.a. Facebook, die Zugriff in Echtzeit erlauben.
+
+
+=== Radian6 – Social Media Monitoring Plattform ===
+Radian6 ist eine Social Media Monitoring oder Listening Plattforms, die im Jahre 2006 gegründet wurde. Die Produkte von Radian6 beinhalten eine Monitoring Plattform, mit der Unternehmen ihr Engagement in sozialen Netzwerken nachverfolgen und analysieren können, sowie eine Plattform, über die sie sich mit Personen und Communitys online verbinden.
+
+
+=== Do.com – Social Collaboration Plattform ===
+Do.com ist eine Internet-basierte Social Collaboration Anwendung, die modernes Aufgaben- oder Task Management mit Social Features verbindet. Sie wurde für den Gebrauch Einzelner und in Gruppen konzipiert. Die App unterstützt HTML5, ist in Ruby on Rails programmiert und bietet ein offenes API für Entwickler. Do.com wurde zum 31. Januar 2014 eingestellt.
+
+
+== Stiftung ==
+Salesforce.com unterstützt insbesondere Jugendförderprogramme über die Salesforce-Stiftung. Die Salesforce-Stiftung beruht auf dem sogenannten 1/1/1 Modell. Das bedeutet, dass Unternehmen 1 % ihrer Ressourcen für gemeinnützige Projekte bereitstellen. 1 % der Zeit entspricht sieben der bezahlten freien Tage der Mitarbeiter für die Unterstützung gemeinnütziger Projekte. 1 % der Produkte stellt Salesforce.com Non-Profit-Organisationen kostenfrei zur Verfügung. Und 1 % des Eigenkapitals fließt beispielsweise an Gemeinden, um ihnen finanzielle Mittel an die Hand zu geben. Viele Unternehmen, wie Google, haben dieses 1/1/1 Modell in ihre Unternehmenskultur übernommen.
+
+
+== Wettbewerb ==
+Salesforce befindet sich im direkten Wettbewerb zu SAP. Der Gründer und CEO von Salesforce, Marc Benioff, hat 2014 angekündigt, dass er SAP beim Umsatz überholen will. Salesforce ist im Bereich Cloud Computing führend, SAP bei Unternehmenssoftware. Während der Umsatz bei Salesforce im Jahr 2013 um 33,3 % auf knapp vier Milliarden US-Dollar (entsprach etwa drei Milliarden Euro) gewachsen war, war der Umsatz von SAP 2013 währungsbereinigt um 8 % auf 16,9 Milliarden Euro gewachsen.
+
+
+== Weblinks ==
+
+Deutsche Website von salesforce.com
+
+
+== Einzelnachweise ==

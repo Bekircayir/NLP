@@ -1,0 +1,55 @@
+Das Unternehmen Red Hat ist ein US-amerikanischer Softwarehersteller mit Sitz in Raleigh, North Carolina, der unter anderem die weit verbreitete Linux-Distribution Red Hat Enterprise Linux (RHEL) vertreibt und am Fedora-Projekt beteiligt ist. Früher wurde auch Red Hat Linux (RHL) von Red Hat vertrieben. Die Aktien der Red Hat Inc. werden an der US-Börse NYSE gehandelt.
+
+
+== Unternehmensgeschichte ==
+Das Unternehmen Red Hat wurde 1993 von Marc Ewing gegründet und schloss sich 1995 mit dem Unternehmen ACC des Kanadiers Bob Young zusammen. Young übernahm im Unternehmen das Amt des CEO, das 1999 auf Matthew J. Szulik überging, der bis Ende 2007 dem Unternehmen vorstand.
+Im Juli 1999 wurde das in Stuttgart ansässige Unternehmen Delix übernommen, Hersteller der Deutschen Linux-Distribution (DLD), aus der dann die Red Hat GmbH hervorging. Am 11. August 1999 ging Red Hat mit einem Initial Public Offering von sechs Millionen Aktien zum Preis von 14 $ pro Aktie an die Börse NASDAQ. Am 15. November 1999 gab Red Hat bekannt, dass sie den Open-Source-Entwickler Cygnus Solutions übernehmen würden. Red Hat ist seitdem auch für Cygwin verantwortlich. Andere Übernahmen folgten, darunter unter anderem ArsDigita, Sistina und die des Netscape-Directory-Servers.
+2003 beschloss Red Hat, sich zukünftig nur noch auf Unternehmenskunden, die den größten Teil des Red-Hat-Umsatzes generieren, zu konzentrieren. Aus diesem Grund wurde die Weiterentwicklung von Red Hat Linux (RHL) formell an das Community-Projekt Fedora abgegeben. Dabei besteht das Kernteam von Fedora weiterhin aus von Red Hat bezahlten Entwicklern, die Möglichkeit der Beteiligung durch Freiwillige ist aber wesentlich größer und umfangreicher als früher. Auf der Fedora-Codebase basiert seitdem Red Hats Premium-Produkt für Unternehmenskunden, Red Hat Enterprise Linux. (RHEL) Am 19. Oktober 2005 verließ der Unternehmensmitbegründer Bob Young das Unternehmen, um sich privaten Projekten zu widmen.
+Heute ist Red Hat Marktführer im Bereich der Linux-Distributionen für Server. Red Hat hat weltweit näherungsweise 8300 Mitarbeiter und 70 Büros. Der Stammsitz liegt in Raleigh (North Carolina) in den USA.
+Das Unternehmen ist aktiv auf den Gebieten Entwicklung, Einführung und Management von Linux- und Open-Source-Lösungen für Netzwerk-Infrastrukturen. Das Produktangebot reicht dabei von eingebetteten Systemen bis zu Webservern und umfasst zusätzliche Support-, Trainings- und Managementangebote.
+Red Hat hat im Juni 2006 die Akquisition von JBoss abgeschlossen. Durch den Erwerb von JBoss, dem weltweit führenden Anbieter von Open Source Middleware, kann Red Hat die Entwicklung hin zu Serviceorientierten Architekturen (SOA) beschleunigen. Das Unternehmen ermöglicht so auch den Betrieb webfähiger Anwendungen auf einer Open-Source-Plattform.
+Nach dem Rücktritt von Szulik trat Jim Whitehurst zum Jahr 2008 dessen Nachfolge als CEO und Präsident an.
+2010 war Red Hat zum wiederholten Male in der Top-10-Liste der Unternehmen, die die meisten Commits zum Linux-Kernel machten. 12,4 Prozent der Arbeiten am Kernel stammten von Programmierern, die von Red Hat bezahlt werden. Damit sind sie auf Platz zwei, nach der Gruppe der unbezahlten Beitragenden.
+
+
+== Produkte ==
+Die Produkte werden als kommerzielle Software entwickelt und vertrieben, die meist eng mit dem Fedora-Projekt zusammenhängen.
+Zu den angebotenen Produkten gehört zum einen ein Linux-Betriebssystem. Die Entwicklung erfolgt im Rahmen des Fedora-Projektes (früher Fedora Core). Die vermarktete Variante mit Anpassungen und besser erprobten Versionen von Softwarepaketen trägt die Bezeichnung Red Hat Enterprise Linux.
+Mit der JBoss Enterprise Middleware Suite (JEMS) bietet Red Hat Lösungen in den Bereichen Java-EE-Applikationsserver (JBoss EAP auf Basis des WildFly Application Server), Objekt-/relationale Persistenz (Hibernate), Portal-Plattform (JBoss Portal), Workflow / Business Process Management / BPEL (JBoss jBPM), Business Rules (JBoss Rules), Objekt-Daten-Cache (JBoss Cache), Verteiltes Transaktions-Management (JBoss Transactions), Enterprise Messaging (JBoss Messaging) sowie Entwicklungstools (JBoss Eclipse IDE) an.
+Der von Netscape erworbene LDAP-kompatible Verzeichnisdienst wird im Rahmen des Fedora Directory Server-Projektes entwickelt und lautet kommerziell Red Hat Directory Server. Das ebenfalls erworbene Zertifizierungssystem (Red Hat Certificate System) betreut das Projekt Dogtag Certificate System.
+Momentan wird auch an einer umfassenden, zentralisierten Verwaltungsplattform für verschiedene Betriebssysteme und Plattformen gearbeitet: FreeIPA. Sie vereint Techniken wie Kerberos, LDAP, DNS und NTP und beinhaltet die Bereiche „Identitätskontrolle“ (Identity), „Richtlinien“ (Policy) und „Überwachung“ (Audit) einer heterogenen Client/Server-Computerlandschaft.
+Erwähnenswert sind auch das Global File System (GFS) und die Cluster Suite.
+Des Weiteren unterstützt Red Hat viele andere Opensource-Projekte wie den Linux-Kernel, Samba und OpenJDK in Form von IcedTea. Red Hat ist Gründungsmitglied der Open Source Business Alliance, früher Lisog.
+
+
+=== Vermarktung ===
+Allen Produkten ist gemeinsam, dass sie für Geschäftskunden ausgelegt und nur mit Support-Verträgen zu erwerben sind. Eine Kernkomponente der Kunden-Unterstützung stellt dabei das Red Hat Network dar. Produkte für Endnutzer stellt Red Hat zurzeit nicht zur Verfügung. Das Unternehmen finanziert sich außerdem durch Beratungen, Schulungen sowie Management bestehender Lösungen und Zertifizierungen.
+Beispiel: Um Enterprise-Kunden, Systemintegratoren und Softwarehersteller bei der Maximierung des Return on Investments durch den Einsatz der JBoss-Enterprise-Middleware-Suite-Produkte optimal zu unterstützen, bietet Red Hat in Form des Tochterunternehmens JBoss ein umfassendes Leistungs-Portfolio aus technischem Support (JBoss Subscription), Consulting sowie Training und Zertifizierung an.
+In China ist Red Hat eine Partnerschaft mit der Distribution Red Flag Linux eingegangen.
+
+
+=== Red-Hat-Zertifikate ===
+Red Hat bietet sechs Zertifizierungen für ihre Distribution an:
+Red Hat Certified System Administrator (RHCSA)
+Red Hat Certified Engineer (RHCE)
+Red Hat Certified Virtualisation Administrator (RHCVA)
+Red Hat Certified Data Center Specialist (RHCDS, nur bis und mit Version RHEL6.)
+Red Hat Certified Security Specialist (RHCSS, nur bis und mit Version RHEL6.)
+Red Hat Certified Architect (RHCA)
+Diese Zertifikate sind keine Ergänzungen zum LPI, sondern eigenständige Zertifizierungen.
+Weitere Zertifizierungen werden für den JBoss Application Server angeboten.
+
+
+=== Fedora ===
+
+Red Hat sponsert das Fedora-Projekt, eine von der Community getragene Linux-Distribution, deren Fokus auf dem Einsatz aktueller und freier Software liegt. Einige Führungspositionen innerhalb des Fedora-Projekts sind mit Red-Hat-Mitarbeitern besetzt. So ist es möglich, neue Techniken in Fedora einzusetzen und von der Community testen zu lassen, ehe sie in Red Hat Enterprise Linux, welches auf Fedora basiert, zum Einsatz kommen.
+
+
+== Weblinks ==
+
+redhat.de – Website von Red Hat
+Geschichte von Red Hat Linux (englisch)
+Übersicht über Red-Hat-Produkte und -Lösungen (englisch)
+
+
+== Einzelnachweise ==

@@ -1,0 +1,84 @@
+Als Gastroenteritis, wörtlich Magen-Darm-Entzündung – umgangssprachlich Magen-Darm-Grippe, Brechdurchfall oder Bauch-Grippe – wird eine entzündliche Erkrankung des Magen-Darm-Traktes bezeichnet. Eine Magen-Darm-Grippe geht in der Regel mit Erbrechen und Durchfall einher, hat aber mit der „echten Grippe“ (Influenza) nichts zu tun. Eine Gastroenteritis kann verschiedene Ursachen haben. Ist der Magen dabei nicht betroffen spricht man von Enteritis (veraltet auch Darmkatarrh genannt).
+
+
+== Epidemiologie ==
+Gastroenteritiden oder Magen-Darm-Entzündungen unterschiedlicher Ursache sind der häufigste Anlass für Durchfall und Übelkeit bei Kindern und Erwachsenen. Noch 1980 waren Durchfallerkrankungen mit geschätzten 4,6 Millionen Todesfällen im Jahr weltweit die führende Ursache für die Kindersterblichkeit. Seitdem 1979 die sogenannte orale Rehydratationstherapie als standardisierte Behandlung bekannt gemacht wurde, konnte diese Zahl auf etwa 1,5 Millionen im Jahr 2000 gesenkt werden.
+
+
+== Ursachen ==
+Die Magen-Darm-Grippe-Ursachen sind vielfältig. Sie reichen von Infektionen über Vergiftungen bis hin zu physikalischen Ursachen. In den meisten Fällen sind Bakterien oder Viren verantwortlich für eine Magen-Darm-Grippe. Sie schädigen die Schleimhäute des Verdauungssystems entweder direkt oder indirekt durch Bakteriengifte. Die Übertragung der Magen-Darm-Grippe erfolgt über den oralen Weg (z. T. fäkal-orale Schmierinfektion). Die Schleimhäute können auch durch ionisierende Strahlung, wie Röntgenstrahlung oder Strahlung aus radioaktivem Material, geschädigt werden.
+
+
+=== Infektionen ===
+Die häufigste Ursache einer akuten Entzündung des Magen-Darm-Traktes sind lokale Infektionskrankheiten durch Viren (wie Rota-, Adeno-, Humane Noroviren, Sapoviren und Astroviren), Bakterien (wie Salmonellen, Campylobacter, Shigellen, Yersinien, Clostridium difficile, Bacillus cereus, Escherichia und Vibrio cholerae) oder Protozoen (wie Amöben, Giardien). Der Mechanismus, wie etwa durch kontaminierte Lebensmittel bei Enteritis verursachte Infektion zu den Symptomen führt, kann sich unterscheiden. Überwiegend führen die Erreger zu einer Zerstörung der Schleimhaut unterschiedlichen Ausmaßes. Dadurch können Magen und Darm aufgenommene Nahrung nicht mehr verdauen. Die unverdaute Nahrung bindet Wasser und macht den Stuhlgang dünnflüssig. Bei einigen bakteriellen Magen-Darm-Infektionen (bakterielle Gastroenteritis bzw. bakterielle Enteritis) führt die Produktion von Bakteriengiften (Toxinen) durch die Erreger zu einem vermehrten Salz- und Wasserverlust durch die Schleimhautzellen des Darmes. Dies ist zum Beispiel bei einer speziellen Sorte von Escherichia-coli-Bakterien, einem Erreger der typischen Reisediarrhoe, der Fall.
+
+Typische Erreger einer infektiösen Gastroenteritis
+		
+		
+		
+
+
+=== Toxine ===
+Reichert sich nur das Bakteriengift in einem verdorbenen Nahrungsmittel an, kann auch dieses Toxin im Anschluss an den Konsum der entsprechenden Speise zur Entzündung der Schleimhaut führen. Es resultiert das Bild einer klassischen Lebensmittelvergiftung. Beispielhaft dafür kann das Toxin bestimmter Staphylokokken gelten. Auch Medikamente und andere Giftstoffe können zu einer toxischen Gastroenteritis führen.
+
+
+=== Ionisierende Strahlen ===
+Auch durch ionisierende Strahlen (Röntgenstrahlen, Radioaktivität), zum Beispiel
+bei einem Reaktorunfall oder im Rahmen einer Krebsbehandlung, wird die Schleimhaut des Magen-Darm-Traktes, die sich mit hoher Geschwindigkeit immer wieder selbst erneuert, stark geschädigt, so dass sie ebenfalls ihre Verdauungsfunktion nicht mehr vollständig wahrnehmen kann (Strahlenkolitis).
+
+
+== Übertragung ==
+Bei den meisten infektiösen Gastroenteritiden erfolgt die Übertragung durch sogenannte fäkal-orale Schmierinfektion. Infektiöser Stuhl gelangt beispielsweise über nicht ausreichend gereinigte Hände in die Nahrung und mit dieser über den Mund wieder in den Magen-Darm-Trakt des nächsten Patienten. Bei Salmonellen muss in der Regel auch noch eine Anreicherung stattfinden. Damit ist gemeint, dass die Erreger sich durch längere Lagerung der Speise noch vermehren müssen, damit die minimale Infektionsdosis erreicht wird. Auch bei den toxischen Gastroenteritiden durch bakterielle Exotoxine erfolgt die „Übertragung“ der Toxine letztlich über die Nahrung. Lediglich Noro-Viren sind derart infektiös, dass beim schwallartigen Erbrechen der Patienten feinste erregerhaltige Tröpfchen in der Luft schweben können, die von Angehörigen oder dem Pflegepersonal aufgenommen werden und bereits so zu einer Infektion führen können (Tröpfcheninfektion).
+
+
+== Inkubationszeit ==
+Die Inkubationszeit (Zeitspanne zwischen der Aufnahme der Erreger und den ersten Symptomen) kann sich über einen Zeitraum von 4 bis 48 Stunden erstrecken.
+
+
+== Symptome ==
+Insbesondere bei einer infektiösen Gastroenteritis wandert der Erreger in der Regel von oben nach unten durch den Magen-Darm-Trakt. Daher beginnt die Erkrankung meist mit Appetitlosigkeit, Übelkeit und/oder Erbrechen. Durchfall kommt meist nach einigen Stunden dazu, während die Magensymptome dann bereits nachlassen können. Der Durchfall kann je nach Ausmaß der Schleimhautschädigung auch blutig sein. Die Darmbewegungen sind während des Durchfalls gesteigert, was zu krampfartigen Bauchschmerzen führen kann. Auch Fieber als Allgemeinsymptom einer Infektion sowie Schwindelgefühle und Erschöpfung kommen in dieser Phase vor. Bei anhaltendem Erbrechen und Durchfall können durch den Verlust an Flüssigkeit und die gestörte Flüssigkeitsaufnahme die Symptome der Austrocknung (Exsikkose) zusätzlich auftreten.
+
+
+== Diagnostik ==
+Die Diagnose lässt sich für den Arzt durch die typische Anamnese stellen. Eine Stuhlinspektion kann die Diagnose untermauern. Der Nachweis von verursachenden Erregern durch eine mikrobiologische Untersuchung ist von epidemiologischem Interesse. Eine Stuhluntersuchung wird empfohlen, wenn die folgenden Bedingungen vorliegen:
+Relevante Komorbiditäten
+Patienten mit Immunsuppression
+Blutige Diarrhö
+Schweres Krankheitsbild (z. B. Fieber, Dehydrierung, Sepsis)
+Krankenhauseinweisung aufgrund der Gastroenteritis
+Patienten, die in Gemeinschaftseinrichtungen oder mit Lebensmitteln arbeiten
+Personen mit Antibiose innerhalb der letzten drei Monate
+Vor Einleitung einer antibiotischen Therapie
+Bei Verdacht auf eine Häufung, die einen epidemiologischen Zusammenhang vermuten lässtDabei sollte im ambulanten Bereich auf Campylobacter, Salmonellen, Shigellen und Noroviren getestet werden. Wenn Risikofaktoren für eine Clostridium-difficile-Infektion vorliegen, sollte auch auf diesen Erreger getestet werden. Bei Reiserückkehrern sollte ebenfalls nur bei den oben genannten Bedingungen eine Stuhluntersuchung durchgeführt werden. Abweichend zur Untersuchung von Personen, die sich vermutlich in Deutschland angesteckt haben, ist bei Reiserückkehrern in einer ersten Untersuchung auf Campylobacter, Shigellen, Salmonellen, Lamblien und auf Amöben zu testen und in einer zweiten Untersuchung auf Yersinien, Mykobakterien, Kryptosporidien, Isospora belli und Helminthen.Eine Blutuntersuchung kann helfen, das Ausmaß des Wasser- und Salzverlustes abzuschätzen. Im Verlauf sind hierzu aber Gewichtskontrollen am aussagekräftigsten.
+
+
+== Komplikationen ==
+Insbesondere bei Kindern kann es durch den Verlust von Flüssigkeit und Mineralien (Elektrolyten) zu einer zunehmenden Austrocknung des Körpers mit entsprechendem Gewichtsverlust kommen. Unbehandelt können in der Folge Kreislaufprobleme (Schock), Nierenversagen oder Krampfanfälle auftreten. Ebenfalls vorwiegend bei Kindern kann durch die gesteigerte Beweglichkeit des Darmes auch eine Einstülpung des Darms in sich selbst (Intussuszeption) entstehen.
+
+
+== Prophylaxe ==
+In erster Linie gehören hygienische Maßnahmen insbesondere bei der Zubereitung von Nahrung zur Prophylaxe der Gastroenteritis. Die Tatsache, dass viele infektiöse Gastroenteritiden in den entwickelten Ländern kaum noch eine Rolle spielen, zeigt die Wichtigkeit der Hygiene zur Vorbeugung dieser Erkrankungen. Für einzelne Erreger existieren auch Impfungen, solche für Cholera oder Typhus. Für humane Rotaviren sind mehrere Impfstoffe für kleine Kinder zugelassen. Seit August 2013 ist in Deutschland die Schluckimpfung gegen Rotaviren für Säuglinge ab einem Alter von sechs Wochen allgemein empfohlen.
+
+
+== Therapie ==
+Da eine Behandlung in Form der Beseitigung der Ursache zumeist nicht möglich ist, beschränkt sich die Therapie in der Regel auf symptomatische Maßnahmen. Diese bestehen in erster Linie in dem Ersatz der Flüssigkeits- und Salzverluste, die durch das Erbrechen und den Durchfall entstehen. Idealerweise bietet man den Patienten hierzu standardisierte Lösungen mit einem Traubenzucker-Salz-Gemisch (WHO-Rehydratationslösung) an. Gelingt diese Form des Wiederauffüllens des Flüssigkeitshaushaltes („Rehydratation“) nicht, muss insbesondere bei Kindern, die besonders von einer Austrocknung bedroht sind, gegebenenfalls auch eine Infusion erfolgen. Ein vorsichtiger Kostaufbau von Anfang an kann die Erholung der zerstörten Darmschleimhaut fördern und sollte in Form von leicht verdaulichen Kohlenhydraten (Zwieback, Salzstangen, Weißbrot, Bananen) von Beginn an versucht werden. Die früher empfohlene initiale Nahrungspause führt statistisch zu Verlängerung der Durchfalldauer, was sich dadurch erklären lässt, dass zum einen der Darm sich die Bausteine zum Wiederaufbau direkt aus dem Nahrungsangebot holt, andererseits ein stillgelegtes Organ (Nahrungskarenz) keinen Anreiz hat, seine Funktion wieder aufzunehmen. Eine Metastudie kam zu dem Ergebnis, dass möglicherweise sogenannte Probiotika die Durchfalldauer um acht Stunden bis zu einem Tag verkürzen können. Dabei handelt es sich um Bakterienstämme (beispielsweise Bifidobacterium und Lactobacillus), die natürliche Darmbesiedler sind und in gefriergetrockneter Form (Pulver, Tablette) oder als Zusatz in einer fertigen Rehydratationslösung verabreicht werden können. Als unterstützende symptomatische Maßnahmen können Medikamente, die das Erbrechen hemmen (Antiemetika), die Darmtätigkeit verändern (Opiate, wie Loperamid) oder lähmen (Parasympatholytika, wie Butylscopolamin), eingesetzt werden. Hierbei müssen allerdings die möglichen Nebenwirkungen beachtet und das Risiko sorgfältig gegen den möglichen Nutzen abgewogen werden. Eine antibiotische Behandlung ist wegen des oft selbstlimitierenden Verlaufs einer bakteriellen Enteritis auch bei Nachweis von Bakterien als verursachendem Erreger nur in Ausnahmefällen mit septischem Verlauf in Erwägung zu ziehen, da insbesondere bei Salmonelleninfektionen hierdurch die Rate der Dauerausscheider signifikant erhöht wird.
+
+
+== Ökonomische Auswirkungen ==
+Gastroenteritis und andere Durchfallerkrankungen können einen beträchtlichen finanziellen Schaden anrichten und tragen zur Verschärfung von Armut bei. Dies ist besonders der Fall in den weniger entwickelten Ländern südlich des Äquators. Der finanzielle Verlust wird beeinflusst besonders durch die Kosten für eine medizinische Behandlung, für Medikamente, für den Transport zum Arzt, für spezielle Nahrung sowie durch den Ausfall von Arbeit und Verdienst. In nicht wenigen Fällen müssen betroffene Familien ihr ganzes Land verkaufen, um eine Krankenhausrechnung zu bezahlen. Im Durchschnitt bezahlt eine betroffene Familie ungefähr 10 % ihres monatlichen Einkommens pro Infektion und Person.
+
+
+== Meldepflicht ==
+Nach dem Infektionsschutzgesetz besteht in Deutschland eine Meldepflicht schon bei Verdacht auf Cholera, Typhus und Paratyphus, erst recht bei tatsächlicher Erkrankung daran oder Tod. Bei allen anderen Fällen von mikrobieller Lebensmittelvergiftung oder infektiöser Gastroenteritis ist der Verdachtsfall meldepflichtig, wenn entweder eine Person betroffen ist, die Lebensmittel verarbeitet oder in einer Küche, Gaststätte oder anderen Einrichtung zur Gemeinschaftsverpflegung beschäftigt ist, oder wenn zwei oder mehr gleichartige Erkrankungen auftreten, bei denen ein epidemischer Zusammenhang vermutet wird. Daneben ist der Nachweis verschiedener Erreger einer Gastroenteritis (Campylobacter, darmpathogene Escherichia coli, Giardia lamblia, humane Noroviren, Rotaviren, alle Salmonellentypen, Shigellen, Vibrio cholerae, Yersinien) meldepflichtig.
+Zudem besteht eine Meldepflicht für Kinder, die das 6. Lebensjahr noch nicht vollendet haben und eine Gemeinschaftseinrichtung (Kindertagesstätte etc.) besuchen. (§ 34 Abs. 6 IfSG)
+
+
+== Veterinärmedizin ==
+Neben den bereits angeführten Erregern können akute Gastroenteritiden bei Haustieren Ausdruck schwerer Infektionskrankheiten wie Parvovirose und Staupe (Hund), Panleukopenie (Katze), Aleutenkrankheit (Frettchen) oder Wet-tail disease (Hamster) sein, die intensiver medizinischer Versorgung bedürfen und nicht selten dennoch mit dem Tod des Tieres enden.
+
+
+== Literatur ==
+Marianne Abele-Horn: Antimikrobielle Therapie. Entscheidungshilfen zur Behandlung und Prophylaxe von Infektionskrankheiten. Unter Mitarbeit von Werner Heinz, Hartwig Klinker, Johann Schurz und August Stich, 2., überarbeitete und erweiterte Auflage. Peter Wiehl, Marburg 2009, ISBN 978-3-927219-14-4, S. 179–182 (Infektionen des Magen- und Darmtraktes).
+
+
+== Einzelnachweise ==

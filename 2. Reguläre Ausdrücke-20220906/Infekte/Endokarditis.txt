@@ -1,0 +1,143 @@
+Die Endokarditis (Plural: Endokarditiden) ist eine Entzündung der Herzinnenhaut (Endokard), die die Herzhöhlen und den herznahen Anteil der Arterien und Venen auskleidet und auch die Struktur der Herzklappensegel bildet. Unbehandelt ist der Krankheitsverlauf meist tödlich. In Westeuropa ist die Endokarditis bei herzgesunden Menschen selten geworden und seit der  Einführung von Antibiotika auch behandelbar. Seit einigen Jahren steigt die Zahl der Todesfälle durch Endokarditis infolge der Ausbreitung von nosokomialen Infektionen mit  multiresistenten Erregern allerdings wieder an. Eine erhöhte Gefahr, an einer Endokarditis zu erkranken, besteht ferner bei Vorliegen von angeborenen oder erworbenen Herzfehlern (insbesondere nach Herzklappenersatz).
+
+
+== Morphologische Einteilung ==
+verruköse Endokarditis
+ulceröse Endokarditis
+Endocarditis polyposa/ulceropolyposa
+Endocarditis fibroplastica
+
+
+== Klinische Einteilung ==
+Abakterielle Endokarditis
+
+Endocarditis verrucosa rheumatica (Komplikation des rheumatischen Fiebers)
+Endocarditis thrombotica: Begleiterkrankung bei Tumorerkrankungen oder auch bei Marasmus (dann Endocarditis marantica genannt)
+Endocarditis thrombotica Libman-Sacks (Komplikation des Systemischen Lupus Erythematodes)
+Endokarditis bei Karzinoid
+Endocarditis parietalis fibroplastica LöfflerInfektiöse Endokarditis
+
+Bakterielle Endokarditis- hochakut verlaufende bakterielle Endokarditis   (Erreger: Staphylococcus aureus, Streptococcus, Enterococcus)
+- subakut verlaufende bakterielle Endokarditis = Endocarditis lenta   (Erreger: Viridans-Streptokokken, wie Streptococcus sanguinis (früher als S. sanguis bezeichnet), S. equinus (früher als S. bovis bezeichnet), S. mutans, S. mitis)
+
+Virale Endokarditis
+Mykotische Endokarditis
+
+
+== Ursachen ==
+
+
+=== Die Endokarditis bei angeborenen Herzfehlern ===
+Bei allen Herzfehlern, bei denen der Blutstrom im Herzen nicht „normal“ ist, kann es durch Verwirbelungen des Blutstromes an immer wieder den gleichen Stellen zu kleinsten Verletzungen der Herzinnenhaut kommen. Diese Stellen sind dann anfällig für eine Entzündung, wenn (meistens) Bakterien ins Blut kommen und von dort aus eine Infektion beginnt, die auf weitere Anteile der Herzinnenhaut und eine oder mehrere Herzklappen übergreift.
+
+
+=== Weitere Infektionsmöglichkeiten ===
+Durch Wunden (darunter auch invasive ärztliche Maßnahmen), Verletzungen innerhalb der Mundhöhle, fieberhafte Erkrankungen (z. B. Bronchitis, Lungenentzündung, Mandelentzündung und Harnwegsinfekte) können Bakterien ins Blut gelangen und, insbesondere nach Herzklappenersatz, die Basis für eine Endokarditis bilden, die bei herzgesunden Menschen durch das lymphoretikuläre System (Leber, Milz, Lymphknoten, Fresszellen) rechtzeitig verhindert wird.
+Häufig treten auch Endokarditiden bei i.v.-Drogenabhängigen auf, bei denen dann meist eine hochakute bakterielle Endokarditis zu finden ist.
+Eine verminderte Immunabwehr, etwa durch HIV-Infektion, begünstigt das Auftreten einer Endokarditis.
+Zu Beginn des 21. Jahrhunderts wurde die Infektion mit nosokomialen Keimen auch in Bezug auf Endokarditis ein zunehmend ernstes Problem. In Deutschland ist für fast jede zweite Endokarditis S. aureus verantwortlich, wobei die Keime etwa 50 % nosokomial erworben wurden und verschiedene Multiresistenzen aufwiesen. Infolge dieser Entwicklung stieg die Letalität bei Endokarditis wieder deutlich an, in Deutschland von 1105 (1990) auf 1790 Todesfälle im Jahre 2013.
+
+
+=== Auslösende Keime (Erregerspektrum) ===
+Die auslösenden Keime einer Endokarditis sind Bakterien (Brucella melitensis, Streptokokken, Staphylokokken, Enterokokken, Enterobakterien, Gonokokken, Bakterien der sog. HACEK-Gruppe u. a.) und gelegentlich Hefepilze. Hinweise auf die Möglichkeit einer viralen Endokarditis gibt es außerhalb weniger tierexperimenteller Studien nicht.
+
+
+== Endokarditis-Risiko ==
+Das Risiko für eine infektiöse Endokarditis wird wie folgt angegeben:
+
+
+=== Hohes Risiko ===
+Künstliche Herzklappen
+Implantation von künstlichen Gefäßverbindungen (auch Transplantate aus menschlichem Gewebe)
+Aorto-pulmonale Shunts
+Bereits durchgemachte Endokarditis
+zyanotische Herzfehler
+
+
+=== Mittleres Risiko ===
+Alle angeborenen Herzfehler mit Fehlbildungen großer Gefäße (außer s. u.)
+„Mitralklappenprolaps“ mit Undichtigkeit der Klappe
+Operationen unter Verwendung von Fremdmaterial
+Hypertrophe obstruktive Kardiomyopathien
+
+
+=== Geringes Risiko ===
+ASD II (Vorhofseptumdefekt vom Sekundumtyp)
+Herzschrittmacherträger
+Operationen ohne Verwendung von Fremdmaterial (Nahtverschluss eines ASD, VSD oder Unterbindung eines PDA sechs bis zwölf Monate nach der Operation)
+Mitralklappenprolaps ohne Mitralklappeninsuffizienz (Undichtigkeit der Klappe)Patienten mit mittlerem und hohem Endokarditisrisiko haben in aller Regel von ihrem Kardiologen einen Endokarditispass bekommen, den sie z. B. bei Zahnarztbehandlungen vorlegen.
+
+
+== Diagnose ==
+Klinische Zeichen:
+ungeklärtes Fieber (intermittierendes Fieber in 90 % der Fälle), als unspezifisches Symptom auch subfebrile Temperaturen
+Allgemeine Symptome: Schwäche bzw. Abgeschlagenheit, Appetitlosigkeit, Gewichtsverlust, Gelenkschmerzen (Arthralgien) und Muskelschmerzen (Myalgien), Kopfschmerzen, Nachtschweiß
+Kardiale Symptome: Herzgeräusche (neu oder geändert/verstärkt), Herzinsuffizienzzeichen (Wassereinlagerungen, Lebervergrößerung), EKG: Unspezifisch, Blockbilder: AV-Block, Linksschenkelblock (bei Myokardabszess), T-Negativierung
+Kutane Symptome: Petechien (in 30 % der Fälle), Osler-Knötchen = linsengroße schmerzhafte rötliche Knötchen, besonders an Finger und/oder Zehen (= immunkomplexbedingte Vaskulitis), Janeway-Läsion: Hämorrhagische Läsion im Bereich der Handfläche/Fußsohle (nicht schmerzhaft)
+Milzvergrößerung (CAVE: septische Milzruptur!)
+Nierenbeteiligung: Hämaturie, Proteinurie, fast regelmäßig glomeruläre Herdnephritis (Löhlein), Mikrohämaturie (= Spuren von Blut im Urin)
+Augen: Roth’s Spots = Roth-Flecken: Retinablutung
+Labor:
+Entzündungszeichen BSG und CRP erhöht
+Anämie (Blutarmut) in 80 % der Fälle
+Nachweis von Bakterien in Blutkulturen (wobei auch bei negativer Kultur bakterielle Erreger die Endokarditis verursacht haben können)
+Sonografie:
+Evtl. sind Vegetationen (= „Wucherungen und Auflagerungen“, die der Körper an der entzündeten Stelle im Herzen als „Reparaturvorgang“ bildet) sichtbar.
+
+
+== Komplikationen ==
+Zerstörung von Herzklappen
+Vegetationen (s. o.) werden durch das pumpende Herz losgerissen und verstopfen bei ihrem Fluss durch den Blutkreislauf Blutgefäße in den Organen. Die gefürchteten Komplikationen daraus können sein: ein Schlaganfall, eine Nierenembolie oder eine Lungenembolie, wobei vor allem der Schlaganfall gefürchtet ist, da bei ihm ein großes Risiko von Entzündungen des Gehirns oder der Hirnhäute besteht.
+Verschleppung von Keimen in andere Organe, wo sich dann Abszesse bilden können.Im Zuge der Blutvergiftung (Sepsis) und dem septischen bzw. toxischen Schock bei giftbildenden Bakterien kann es zu einem akuten Organausfall kommen (Nierenversagen, sog. Schockniere und/oder Lungenversagen, sog. Schocklunge).
+
+
+== Zeichen klinischer Komplikationen ==
+zunehmende Belastungsdyspnoe/Orthopnoe
+Zeichen von zentraler Embolisierung von Vegetationsmaterial
+Bewusstseinsstörung, umschriebene neurologische Ausfälle
+Zeichen von peripheren Embolien
+immunologische Phänomene (z. B. Osler-Knötchen)
+
+
+== Diagnostik der infektiösen Endokarditis ==
+Einen zentralen Stellenwert in der Diagnostik der Endokarditis nehmen die (modifizierten) Duke-Kriterien ein. Für die Diagnostik einer Endokarditis stehen die Echokardiografie, Blutkulturen zur bakteriologischen Untersuchung, feingewebliche Untersuchungen und die klinische Untersuchung zur Verfügung, zum Teil mit weiteren bildgebenden Methoden. Der Nachweis von Herzklappenveränderungen oder neu aufgetretenen Vegetationen im Herzen oder der Nachweis von Keimen in der Blutkultur sind sichere Zeichen. Beide Nachweise sind aber manchmal schwer zu erbringen, weil sich trotz vorliegender Endokarditis noch keine Klappenveränderungen/Vegetationen gebildet haben oder der Nachweis von Keimen in der Blutkultur nicht gelingt, weil der Patient vorher schon Antibiotika bekommen hat.
+
+
+== Therapie der infektiösen Endokarditis ==
+Gelingt der Nachweis von Bakterien in der Blutkultur nicht (5 bis 10 % der Fälle) oder ist er noch nicht bekannt, dann muss bei der akuten Infektion und beim Vorliegen der klinischen Zeichen kalkuliert („blind“) behandelt werden. Hierbei wird bei der Auswahl der Antibiotika das unterschiedliche Erregerspektrum bei Vorliegen von natürlicher Herzklappen (Nativklappen) und Klappenprothesen berücksichtigt. Man führt klinisch unter anfänglich strenger Bettruhe eine breit wirksame intravenöse antibiotische Therapie über eine Zeit von vier bis sechs Wochen durch, wobei mindestens die ersten zwei Therapiewochen unter stationärer Kontrolle erfolgen. Danach folgt eine ein- bis zweiwöchige kritische Beobachtung. Bei einem subakuten Verlauf kann das Vorliegen mikrobiologischer Untersuchungsergebnisse gegebenenfalls abgewartet werden und dann gezielt antibiotisch behandelt werden.
+Eine einmal durchgemachte Endokarditis bewirkt ein erhöhtes Risiko für eine weitere Erkrankung. Deshalb ist die Prophylaxe (s. o.) von besonderer Wichtigkeit.
+Bei aktiver Endokarditis kommt auch eine chirurgische Therapie in Betracht, zum Beispiel bei lebensbedrohlichen Herzklappeninsuffizienzen, Abszessen oder größeren bzw. sich ausbreitenden Vegetationen im Bereich von Herzklappen, schwer therapierbaren Erregern oder trotz Therapie weiterbestehendem Fieber bzw. weiterbestehener Keimzahl im Blut, Sepsis und septischem Schock, akuter Embolie im Gehirn und bei Endokarditis durch Infektion einer Gelenkprothese.
+
+
+== Prophylaxe ==
+
+
+=== Endokarditis-Prophylaxe ===
+Bei planbaren Eingriffen (Zahnmedizin, Endoskopie, Operation s. o.) ist bei Patienten mit erhöhtem Endokarditisrisiko an eine Prophylaxe zu denken, die beispielsweise aus der Gabe eines  Antibiotikums ca. eine Stunde vor der Behandlung und ggf. einer zweiten Gabe einige Stunden danach besteht. Eine gute Mundhygiene ist grundsätzlich vorteilhaft; sie reduziert die Keimzahl ständig und nicht nur bei Zahnarztbesuchen.
+Neue Richtlinien zur Prophylaxe einer bakteriellen Endokarditis einschließlich einer umfassenden Diskussion über deren Entstehungsmöglichkeiten wurden 2007 von der American Heart Association (AHA) veröffentlicht. Die AHA bewertete das Risiko einer Endokarditisinfektion deutlich zurückhaltender als bisher und hielt die bisher geübte Prophylaxe in einem Großteil der Fälle für verzichtbar. Auch die Europäische Gesellschaft für Kardiologie beschränkte in ihren Leitlinien 2009 die prophylaktische Gabe von Antibiotika auf Hochrisikopatienten.Eine Endokarditisprophylaxe ist bei folgenden Patienten mit hohem Endokarditis-Risiko derzeit notwendig:
+Patienten mit Herzklappenersatz
+Patienten mit Herztransplantaten und sich entwickelnder Herzklappenerkrankung
+Patienten mit bestimmten angeborenen Herzfehlern
+Patienten, die eine Endokarditis bereits durchgemacht haben
+Patienten mit rekonstruierten Herzklappen aus Fremdmaterial (max. sechs Monate nach OP)Die Durchführung einer Endokarditis-Prophylaxe erfolgt mit Antibiotika wie Amoxicillin (oder Ampicillin), bei Penicillinallergie mit Clindamycin (alternativ Cefalexin oder Clarithromycin), Cefazolin oder Ceftriaxon.
+
+
+=== Behandlung von fieberhaften Erkrankungen ===
+Bei allen Erkrankungen, die durch eine bakterielle Infektion (s. o.) ausgelöst wurden, ist eine Behandlung mit einem Antibiotikum über ausreichend lange Zeit erforderlich, um die Entstehung einer Endokarditis zusätzlich oder als Folge der Grunderkrankung zu verhindern. Auch bei einem primär viralen Infekt (gegen die ein Antibiotikum nicht wirkt) kann eine Antibiotikagabe zur Vermeidung einer bakteriellen Superinfektion sinnvoll sein.
+
+
+== Literatur ==
+Marianne Abele-Horn: Antimikrobielle Therapie. Entscheidungshilfen zur Behandlung und Prophylaxe von Infektionskrankheiten. Unter Mitarbeit von Werner Heinz, Hartwig Klinker, Johann Schurz und August Stich, 2., überarbeitete und erweiterte Auflage. Peter Wiehl, Marburg 2009, ISBN 978-3-927219-14-4, S. 13–35 und 309–311.
+European Society of Cardiology (ESC): Guidelines on prevention, diagnosis and treatment of infective endocarditis. In: European Heart Journal. Band 30, 2009. S. 2369–2413.
+Infectious Diseases Society of America (IDSA): Infective endocarditis: diagnosis, antimicrobial therapy, and management of complications. In: Circulation. Band 111, 2005, S. e394–e433.
+Christoph K. Naber: S2-Leitlinie zur Diagnostik und Therapie der infektiösen Endokarditis. In: Zeitschrift für Kardiologie. Band 93, 2004, S. 1004–1021.
+N. Westphal, B. Pflicht, Christoph Naber: Endokarditis-Prophylaxe, Diagnostik und Therapie. In: Deutsches Ärzteblatt. Band 106, 2009, S. 481–490. Online: Abstract
+
+
+== Weblinks ==
+
+Positionspapier zur Prophylaxe bakterieller Endokarditiden der Deutschen Gesellschaft für Kardiologie, November 2007 (PDF-Datei; 578 kB)
+Prevention of Infective Endocarditis. Guidelines From the American Heart Association, 2007 (revised 20070419)
+
+
+== Einzelnachweise ==

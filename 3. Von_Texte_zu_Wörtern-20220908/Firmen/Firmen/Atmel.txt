@@ -1,0 +1,26 @@
+Atmel Corporation (Akronym für "advanced technology for memory and logic") ist ein US-amerikanischer Hersteller von integrierten Schaltungen mit Sitz in San José im Bundesstaat Kalifornien und gilt als einer der weltweit führenden Hersteller auf seinem Gebiet.
+
+
+== Geschichte ==
+Atmel entwickelt und produziert seit seiner Gründung im Jahre 1984 Mikrocontroller (z. B. die AVR-Familie sowie weiterentwickelte 8051-Controller mit Flash-Speicher), programmierbare logische Schaltungen, nicht-flüchtige Halbleiterspeicher, sowie Mixed-Signal- und Funk-Komponenten. Die Produkte werden als Standardprodukte (Commodities), Applikationsspezifische Standardprodukte (ASSP) oder anwendungsspezifische integrierte Schaltungen (ASIC) vermarktet.
+Atmel wird momentan von Steven Laub (CEO) geführt, nachdem der ehemalige Präsident, CEO und Firmengründer George Perlegos wegen des Vorwurfs des Reisegeldmissbrauchs entlassen wurde.
+Eine im September 2015 vereinbarte Übernahme durch das deutsch-britische Unternehmen Dialog Semiconductor für 4,6 Milliarden US-Dollar wurde im Januar 2016 abgebrochen. Der als zu hoch kritisierte Kaufpreis war von Microchip Technology überboten worden. Für das Nicht-Zustandekommen der Übernahme zahlte Atmel eine Vertragsstrafe von 137 Millionen Euro an Dialog. Schließlich übernahm Microchip Atmel 2016 für 3,6 Milliarden US-Dollar. Die Übernahme wurde im April 2016 abgeschlossen.
+
+
+== Fabriken ==
+Atmel besitzt eine Halbleiterproduktionsstätte:
+Fab5 in Colorado Springs (USA)
+Fünf weitere Produktionsstätten wurden bis Mitte 2010 verkauft:
+Die Produktionsstätte in Grenoble (Frankreich) wurde im Juli 2006 an e2v Technologies (UK) verkauft.
+Die Wafer-Fertigung in Irving (USA) wurde im Mai 2007 verkauft.
+Fab9 in North Tyneside (England) wurde im Mai 2008 an TSMC, Ltd. verkauft.
+Fab6 in Heilbronn (Deutschland) wurde im Dezember 2008 an Tejas Silicon Holdings (UK) Ltd. verkauft.
+Fab7 in Rousset (Frankreich) wurde im Juli 2010 an die LFoundry GmbH verkauft.
+
+
+== Weblinks ==
+
+Atmel Corporation
+
+
+== Einzelnachweise ==

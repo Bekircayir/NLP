@@ -1,0 +1,72 @@
+Eine Enzephalitis  (neuzeitliche Bildung aus altgriechisch ἐγκέφαλος (enképhalos) „Gehirn“, aus ἐν „in“ und κεφαλή (kephalē) „Kopf“, und der medizinischen Endung -itis für „Entzündung“) ist eine Entzündung des Gehirns. Sie ist meist infektiös bedingt, hervorgerufen durch Viren oder – seltener – durch Bakterien, Protozoen oder durch medizinisch relevante Pilze (wie Cryptococcus neoformans). Sie kann auch als Autoimmunerkrankung auftreten (Multiple Sklerose). Eine infektiöse Enzephalitis ist vor allem durch neurologische Funktionsstörungen gekennzeichnet. Sind auch die Hirnhäute mit betroffen, spricht man von einer Meningoenzephalitis. Bei Beteiligung des Rückenmarks spricht man von einer Enzephalomyelitis.
+
+
+== Epidemiologie ==
+In den USA werden jährlich 7 von 100.000 Personen wegen einer Enzephalitis stationär aufgenommen. In der Hälfte der Fälle ist die Ursache der Enzephalitis unbekannt. Von den bekannten Ursachen sind 20–50 % Viren. Das Herpes simplex Virus (HSV) ist mit 50–75 % am häufigsten, gefolgt vom Varizella-Zoster-Virus, Entero-Viren und verschiedenen Arboviren.
+
+
+== Formen ==
+Je nach Verlauf, Ursache und genauem Hirnanteil lassen sich verschiedene Enzephalitiden unterscheiden. Nach dem Verlauf unterscheidet man akute, chronische und latente (ohne klinische Erscheinungen) Gehirnentzündungen.
+Nach dem betroffenen Hirngewebe unterscheidet man:
+
+Panenzephalitis (das gesamte Gehirngewebe)
+Polioenzephalitis (die Nervenzellenleiber der Grauen Substanz)
+Leukenzephalitis (die Nervenfaserverbindungen der Weißen Substanz)
+
+
+== Symptome ==
+Folgende Symptome sind typisch für eine Enzephalitis:
+
+Wesensveränderung, veränderter cerebraler Zustand
+Entzündungszeichen: Fieber, Abgeschlagenheit, Kopfschmerzen usw.
+Krämpfe
+neurologische Veränderungen, z. B. Sehstörungen, Sprachstörungen
+Liquorveränderungen: Pleozytose
+Bildgebung: MRT-Zeichen
+EEG-VeränderungenJe nach Schwere und Lokalisation der Erkrankung reichen die Beschwerden von Fieber, Kopfschmerzen und Abgeschlagenheit bis zu Lähmungen, Sehstörungen mit Doppelbildsehen, Krämpfen, Bewusstlosigkeit und Wahrnehmungs- und Orientierungsstörungen. Im weiteren Verlauf treten auch Einschränkungen der Sprachfähigkeit und der Geruchsempfindung auf.
+
+
+== Ursachen ==
+Fast immer ist eine Gehirnentzündung die Folge von Virusinfektionen, wie etwa Tollwut, Japanische Enzephalitis, Grippe, Masern, Röteln, Mumps und die durch Zecken übertragenen Enzephalitiden („Tick-borne encephalitis“) wie die Frühsommer-Meningoenzephalitis. Auch verschiedene Herpesviren wie Herpes-simplex-Viren oder das Varizella-Zoster-Virus können eine Enzephalitis verursachen (Herpes-simplex-Enzephalitis).
+Eine Entdeckung jüngeren Datums stellt die Erregergruppe der Prionen dar, die für die übertragbaren spongiformen Enzephalopathien verantwortlich ist.
+Als bakterielle Erreger kommen beispielsweise die der Listeriose, des Typhus, der Syphilis oder der Borreliose in Betracht. Parasitär bedingte Enzephalitiden werden durch Protozoen oder Würmer (etwa bei einer Zystizerkose) verursacht. Einige wenige Pilze können eine mykotische Enzephalitis auslösen, z. B. im Rahmen einer Kryptokokkose.
+Schließlich können Autoimmunerkrankungen und paraneoplastische Erkrankungen zu Gehirnentzündungen führen, beispielsweise bei der Bickerstaff-Enzephalitis.
+Säuglinge und sehr alte Menschen sind stärker gefährdet, eine Enzephalitis zu bekommen.
+
+
+== Diagnostik ==
+Da einem Verdacht auf eine Enzephalitis häufig eine unspezifische Symptomatik zugrunde liegt, die differenzialdiagnostisch abgeklärt werden muss (zum Beispiel Ausschluss von Hirntumoren, Vergiftungen oder Tuberkulose), werden insbesondere folgende Diagnoseverfahren angewandt: Erregernachweis durch Lumbalpunktion (Liquordiagnostik, gegebenenfalls mit anschließender Bestimmung des Erregers durch Polymerasekettenreaktion) mit zusätzlicher Auswertung von Auffälligkeiten während einer Elektroenzephalographie und einer Kernspintomographie.
+
+
+== Behandlung ==
+Gehirnentzündungen müssen im Krankenhaus stationär beobachtet und behandelt werden, um hinzukommende Probleme, wie etwa Bewusstlosigkeit, Krämpfe oder ein Organisches Psychosyndrom, rechtzeitig zu erkennen und fachgerecht handeln zu können. Eine durch Bakterien verursachte Gehirnentzündung wird mit Antibiotika behandelt. Bei einer Infektion mit Herpes-simplex-Viren wird bereits beim Verdacht die spezifische Therapie mit einer intravenösen Gabe von Aciclovir begonnen und für mindestens drei Wochen fortgesetzt. Bestimmte Formen lassen sich durch Impfungen verhindern (FSME).
+
+
+== Komplikationen ==
+Eine leichte Gehirnentzündung im Rahmen einer Grippe wird häufig nicht bemerkt und klingt mit der Grippe wieder ab. Viren wie z. B. Herpes-simplex-Viren können zu einer schweren Erkrankung mit bleibenden Schäden führen. Es kann für längere Zeit zu Lähmungen und Sprachstörungen kommen. In schlimmen Fällen sind geistige Behinderung und Autismus-ähnliche Verhaltensstörungen möglich.
+Bei bakteriellen Enzephalitiden beträgt die Sterblichkeit bis zu 50 Prozent.
+In manchen Fällen kann sich aus einer Gehirnentzündung die Parkinson-Krankheit als Spätfolge entwickeln.
+
+
+== Siehe auch ==
+Anti-NMDA-Rezeptor-Enzephalitis
+Limbische Enzephalitis
+Myelitis
+Poliomyelitis
+Meningitis
+Europäische Schlafkrankheit
+HHV-6-Enzephalitis nach Stammzelltransplantation
+
+
+== Literatur ==
+Marianne Abele-Horn: Antimikrobielle Therapie. Entscheidungshilfen zur Behandlung und Prophylaxe von Infektionskrankheiten. Unter Mitarbeit von Werner Heinz, Hartwig Klinker, Johann Schurz und August Stich, 2., überarbeitete und erweiterte Auflage. Peter Wiehl, Marburg 2009, ISBN 978-3-927219-14-4, S. 74–76 (Infektiöse Enzephalitis).
+Heinz-Walter Delank: Neurologie. 5., neu bearbeitete und ergänzte Auflage. Enke, Stuttgart 1988, ISBN 3-432-89915-7, S. 148 f. (Seröse Meningoenzaphalitiden, hervorgerufen durch Pilze, Protozoen und Parasiten).
+H. W. Pfister et al.: Bakterielle (eitrige) Meningoenzephalitis. Leitlinine der Deutschen Gesellschaft für Neurologie. Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften, 2008.
+
+
+== Weblinks ==
+
+Informationen der tk
+
+
+== Einzelnachweise ==

@@ -1,0 +1,123 @@
+Als Schilddrüsenkrebs (Schilddrüsenkarzinom, lateinisch Struma maligna) wird eine bösartige Neubildung der Schilddrüse bezeichnet. Der Schilddrüsenkrebs wird in verschiedene Typen unterteilt, von denen der häufigste Typ oft im jungen Erwachsenenalter auftritt. Störende Schilddrüsenknoten sind meistens das erste Symptom. Zur Untersuchung wird neben Ultraschall auch die Szintigraphie angewandt. Die Behandlung besteht in den meisten Fällen aus Operation (Thyreoidektomie) und der Radiojodtherapie.
+
+
+== Häufigkeit ==
+Bei Schilddrüsenkrebs handelt es sich um den häufigsten Tumor der endokrinen Organe. In Deutschland erkrankten (2012) pro Jahr 1820 Männer und 4390 Frauen, es verstarben 330 Männer bzw. 490 Frauen. In Österreich erkrankten im Jahresdurchschnitt (2008/2010) insgesamt 952 (261 Männer, 691 Frauen), für die USA wird die jährliche Neuerkrankungsrate (Inzidenz) mit 34.000 angegeben.Das Schilddrüsenkarzinom steht in Deutschland bei Frauen an der 14. Stelle der Häufigkeiten bösartiger Tumoren, bei Männern an der 15. Stelle. Der Altersgipfel liegt im Durchschnitt bei Frauen um 52 Jahre, bei Männern um 55 Jahre. Allerdings variiert der Altersgipfel in Abhängigkeit vom Krebstyp:
+
+papillärer Typ: zwischen dem 35. und 60. Lebensjahr
+follikulärer Typ: zwischen dem 40. und 50. Lebensjahr
+anaplastischer Typ: ca. 60. Lebensjahr
+medullärer Typ: ca. 40.–50. LebensjahrIn den letzten Jahrzehnten ist die Inzidenz des Schilddrüsenkarzinoms weltweit angestiegen. Dabei bestehen deutliche Unterschiede je nach Region und ethnischer Zuordnung. Der Anstieg ist vor allem auf kleine (< 2 cm) papilläre Karzinome und jüngere Patienten zurückzuführen, wodurch sich eine Verschiebung zu Patientengruppen mit günstigerer Prognose ergibt.Aufgrund von Obduktionen und Operationen geht man davon aus, dass je nach betrachteter Größe 2 bis 36 % der Bevölkerung verborgene Mikrokarzinome unter 10 mm Durchmesser in der Schilddrüse haben. Davon werden maximal 0,5 % klinisch relevant.
+
+
+== Ursachen ==
+Die Ursachen sind im Einzelnen nicht vollständig geklärt. Es besteht ein ursächlicher Zusammenhang mit Jodmangel (etwa 2,3-fach erhöhtes Risiko). Auch Strahlung (vor allem im Kindes- und Jugendlichenalter) spielt – wie bei vielen Krebserkrankungen – eine wesentliche Rolle: Nach den Atombombenabwürfen auf Hiroshima und Nagasaki stieg in den betroffenen Gebieten das Risiko für ein Schilddrüsenkarzinom um ein Vielfaches an. Ähnliches gilt für die Gebiete, die nach der Katastrophe von Tschernobyl von einem massiven radioaktiven Niederschlag (Fallout) betroffen waren.
+In Deutschland halten die Behörden große Mengen von Tabletten mit Kaliumjodid bereit, die im Falle eines Reaktorunfalles an Personen unter 45 Jahre ausgeteilt werden sollen, um eine Jodblockade der Schilddrüse zu erreichen.
+
+
+== Symptome ==
+Typischerweise wird eine Knotenbildung im Bereich der Schilddrüse bemerkt. Dabei kann die Schilddrüse insgesamt vergrößert sein (Struma) oder normalgroß bleiben. Vergrößerte Halslymphknoten können auch schon vor einem tastbaren Schilddrüsenknoten auftreten. Schluckstörungen, Heiserkeit als Ausdruck einer Stimmbandnervenlähmung, mangelnde Schluckverschieblichkeit der Schilddrüse, derbe Konsistenz, sowie verwachsene Lymphknoten sind Spätsymptome bei weit fortgeschrittenem Krebs.
+
+
+== Untersuchungen ==
+
+Beim Abtasten der Schilddrüse sind derbe und nicht-schluckverschiebliche Knoten sowie eine begleitende Schwellung von Halslymphknoten verdächtig auf eine bösartige Veränderung.
+Im Ultraschall erscheinen Schilddrüsenkarzinome meist echoarm, selten echoreich. Auch Entzündungen oder Verkalkungen können echoarm sein, Zysten sind in der Regel echofrei. Das medulläre Schilddrüsenkarzinom zeigt in der Sonographie häufig kleine Verkalkungen.
+In der Schilddrüsenszintigraphie sind kalte Knoten in 3 % der Fälle ein Karzinom (einzelner kalter Knoten: 15 %), sonst Entzündungen, Fibrosen, Verkalkungen, Zysten, Blutungen oder Adenome.
+Bei kalten Knoten ist unter Umständen eine Feinnadelpunktion mit Punktionszytologie indiziert (Beurteilung der entnommenen Zellen unter dem Mikroskop).
+Blutuntersuchungen:
+Die Schilddrüsenhormonwerte (TSH, fT3, fT4) geben keine Informationen über ein eventuell vorhandenes Schilddrüsenkarzinom.
+Der Tumormarker Thyreoglobulin dient zur Verlaufsbeurteilung nach Operation bei den differenzierten, nicht-medullären Schilddrüsenkarzinomen. Erhöhte Werte kommen ebenfalls bei Schilddrüsenentzündung oder Struma vor und sind erst nach einer zumindest annähernd vollständigen Entfernung der Schilddrüse diagnostisch von Bedeutung.
+Der Tumormarker Calcitonin weist dagegen auch schon vor einer eventuellen Schilddrüsenoperation auf ein medulläres Schilddrüsenkarzinom oder eine C-Zellhyperplasie hin.
+Eine Kehlkopfspiegelung (Laryngoskopie) erfolgt üblicherweise vor und nach einer Schilddrüsen-OP zur Frage einer möglichen Schädigung der Stimmband-Nerven (Nervus recurrens).
+Der Ausschluss der Diagnose Schilddrüsen-Karzinom ist mit letzter Sicherheit nur durch eine operative Entfernung der verdächtigen Anteile der Schilddrüse mit anschließender Beurteilung des Zellgewebes (Histologie) möglich.
+
+
+== Typen des Schilddrüsenkrebs ==
+Abhängig vom Ausgangsgewebe unterscheidet man folgende Typen:
+
+
+=== Differenzierte Karzinome ===
+
+Papilläres Schilddrüsenkarzinom (PTC) 60–80 %Diese Karzinome gehen von den Thyreozyten aus und bilden fingerförmig verästelte (papilläre) Strukturen. Sie sind mit 50–80 % aller Schilddrüsenkarzinome die häufigsten bösartigen Neubildungen der Schilddrüse. Sie metastasieren vorwiegend über die Lymphgefäße (lymphogene Metastasierung) in die Lymphknoten des Halses. Diese können dadurch an Größe zunehmen und getastet werden. Die papillären Karzinome betreffen häufig Frauen im 3.–4. Lebensjahrzehnt. Als begünstigende Faktoren für ihre Entstehung gelten eine Strahlenbelastung (beispielsweise im Rahmen einer therapeutischen Bestrahlung der Kopf-Hals-Region oder der Reaktorkatastrophe von Tschernobyl), eine Hashimoto-Thyreoiditis sowie verschiedene genetische Syndrome (FAP-Syndrom und Cowden-Syndrom). Pathohistologisch können hier eosinophile Kalziumansammlungen (Psammomkörper) nachgewiesen werden.
+In den USA hat die Inzidenz der Schilddrüsenkarzinome zugenommen. Eine SEER-Analyse (Surveillance, Epidemiology and End Results) mehrerer amerikanischer Bundesstaaten zeigte 1975 eine Inzidenz von 4,9 pro 100.000 Einwohner im Jahr, 2009 dagegen 14,3. Die Zunahme beruht fast ausschließlich auf einer größeren Häufigkeit papillärer Karzinome. Deren jährliche Inzidenz hat von 3,4 auf 12,5 pro 100.000 Einwohner zugenommen. Auch besteht ein Geschlechterunterschied: Frauen von 6,5 auf 21,4; Männer von 3,1 auf 6,9. Da gleichzeitig die Sterblichkeit an Schilddrüsenkarzinomen mit 0,5 pro 100.000 konstant geblieben ist, wird vermutet, dass die Zunahme auf einer besseren Diagnose kleiner papillärer Schilddrüsenkarzinome beruht.
+Follikuläres Schilddrüsenkarzinom (FTC) 10–30 %Bei diesem Karzinom ähnelt der Gewebeaufbau weitgehend der Struktur einer ausgereiften oder sich entwickelnden Schilddrüse. Die Krebszellen gehen von den Thyreozyten aus und bilden vorwiegend über die Blutbahn Absiedlungen (hämatogene Metastasierung) in Lunge, Skelett und Gehirn. Auf das follikuläre Karzinom entfallen 20–50 % aller Schilddrüsenkarzinome. In den USA ergab eine SEER-Analyse der Jahre 1988–2003 einen Anteil von 9,4 % aller bösartigen Schilddrüsenkarzinome. Es betrifft häufig Frauen im 4. und 5. Lebensjahrzehnt. Für follikuläre Karzinome der Schilddrüse ist eine immunhistochemisch nachweisbare Expression von Thyreoglobulin typisch. Mit einer tumorspezifischen 5-jahres-Sterblichkeit von 2,6 % ist die Prognose gut.
+
+
+=== Undifferenzierte oder anaplastische Karzinome ===
+Dieses Karzinom (etwa 5 % aller Fälle) zeigt in seiner Feinstruktur keine Ähnlichkeiten mehr mit dem ursprünglichen Schilddrüsengewebe und wird deshalb auch als undifferenziertes Karzinom bezeichnet. Es wächst aggressiv in das umliegende Gewebe ein und metastasiert sowohl lymphogen als auch hämatogen. Etwa 5–10 % der Schilddrüsenkarzinome entfallen auf diesen Typ. Selten entsteht es vor dem 60. Lebensjahr; eine Geschlechtspräferenz zeigt es nicht. Da bei diesem Tumortyp die undifferenzierten Karzinomzellen nicht mehr am Jodstoffwechsel teilnehmen, ist eine Radiojodtherapie nicht sinnvoll.
+
+
+=== Medulläres Karzinom ===
+
+Das medulläre Schilddrüsenkarzinom (auch „C-Zell-Karzinom“) geht nicht von den Thyreozyten (den Jod-speichernden Schilddrüsenzellen) aus, sondern von den parafollikulären, Calcitonin-produzierenden Zellen (sogenannte C-Zellen), die aufgrund entwicklungsgeschichtlicher Zusammenhänge in der Schilddrüse liegen, aber in keinem Zusammenhang mit der eigentlichen Schilddrüsenfunktion (Thyreozyten) stehen. Etwa 5–10 % aller Schilddrüsenkarzinome zählen zu diesem Typ.
+Erstmals 1959 als eigene Entität neben den differenzierten und undifferenzierten Schilddrüsenkarzinomen beschrieben, tritt das medulläre Karzinom familiär (ca. 15 %) oder sporadisch (ca. 85 % der medullären Schilddrüsenkarzinome; Altersgipfel zw. 50.–60. Lebensjahr) auf. Bei dem familiären Typ unterscheidet man das familiäre Auftreten allein des medullären Schilddrüsenkarzinoms (FMTC) vom Syndrom der multiplen endokrinen Neoplasie Typ 2A und 2B. Ursache der familiären (d. h. erblichen) Form sind Mutationen im RET-Gen. Bei der Diagnose eines medullären Schilddrüsenkarzinoms sollte (nach vorheriger Aufklärung des Patienten und mit dessen Zustimmung) immer auch eine genetische Analyse erfolgen, da auch andere Familienangehörige den Gendefekt geerbt haben können. Falls weitere Familienangehörige ebenfalls die entsprechende RET-Mutation tragen, wird diesen im Abhängigkeit vom Typ der Mutation ggf. eine prophylaktische Schilddrüsenoperation (Thyreoidektomie) empfohlen.Der sensitivste Tumormarker des medullären Karzinomes ist das von den C-Zellen produzierte Calcitonin. Bei erhöhtem Calcitonin-Spiegel wurde früher zur weiteren Differenzierung zwischen einer gutartigen Hyperplasie der C-Zellen und einem bösartigen Geschehen ein Pentagastrin-Test durchgeführt. Da der Pentagastrin-Test nicht mehr verfügbar ist, wird heute mit Calcium stimuliert oder es werden basale geschlechtsspezifische Grenzwerte benutzt, die zu gleichen Ergebnissen führen.In der Tumornachsorge dienen erhöhte Calcitonin-Werte im Blut als Indikator für ein Rezidiv. Da die C-Zellen nicht am Jodstoffwechsel teilnehmen, ist auch beim medullären Schilddrüsenkarzinom eine Radiojodtherapie nicht sinnvoll.
+
+
+== Behandlung des lokalisierten Schilddrüsenkarzinoms ==
+Im Folgenden werden die Prinzipien der Behandlung des auf die Schilddrüse lokalisierten oder in die regionären Lymphknoten metastasierten Schilddrüsenkarzinoms beschrieben.
+
+
+=== Operative Schilddrüsenentfernung ===
+Grundsätzlich muss bei Schilddrüsenkrebs die Schilddrüse vollständig entfernt werden (Thyreoidektomie). Dies gilt auch für ektopes Schilddrüsengewebe (siehe Schilddrüse#Störungen der Organanlage).
+Ausnahme ist das sogenannte Mikrokarzinom. Als Mikrokarzinom wird das papilläre Schilddrüsenkarzinom mit der Stadieneinteilung pT1a N0 M0 bezeichnet. pT1a bezeichnet hierbei einen einzelnen Tumor mit einem in der Pathologie gemessenen Tumordurchmesser von < 1 cm, N0 den fehlenden Nachweis eines Tumorbefalls der lokalen Lymphknoten und M0 das Fehlen von Fernmetastasen. Zusätzlich sollte der Tumor nicht im Randbereich des Schilddrüsengewebes gefunden werden und die Kapsel der Schilddrüse nicht überschreiten. In diesem Fall wird das Therapievorgehen der geringen Risikoeinschätzung angepasst: Es wird ausschließlich der befallene Schilddrüsenlappen operativ entfernt und von einer anschließenden Radiojodtherapie (Ablation) abgesehen.
+Neben der Schilddrüsenentfernung werden gelegentlich auch die Lymphknoten des Schilddrüsengebietes entfernt (sog. Lymphadenektomie, auch Neck-Dissection genannt), da die Lymphknoten vom Krebs befallen sein können. Diese wird zumindest beim papillären und follikulären Schilddrüsenkarzinom jedoch nur bei klinischem Nachweis bzw. Verdacht auf regionäre Lymphknotenmetastasierung empfohlen, also nicht prophylaktisch. Beim medullären Schilddrüsenkarzinom wird in den entsprechenden Leitlinien die einseitige oder sogar beidseitige zervikale Lymphadenektomie empfohlen.
+
+
+=== Radiojodtherapie ===
+Nach der Schilddrüsenoperation wird bei jodspeichernden Karzinomen in bestimmten Fällen eine Radiojodtherapie zur Entfernung des postoperativ verbliebenen Schilddrüsengewebes durchgeführt (Ablation). Dabei wird radioaktives Jod-131 verabreicht, das sich ausschließlich im Schilddrüsengewebe anreichert. Aufgrund der physikalischen Eigenschaften des Jod-131 (überwiegender β-Strahler) werden benachbarte Strukturen nur gering von der Strahlung betroffen. Bestimmte andere Organe (Speicheldrüsen, Schweißdrüsen, Magenschleimhaut, Nieren, Blase) sind lediglich an der Ausscheidung des Jods beteiligt und erhalten ebenfalls eine geringe Strahlendosis.
+Eine wirksame Ablation kann nur durchgeführt werden, wenn zuvor TSH ausreichend stimuliert wurde. Dies wird entweder durch einen Schilddrüsenhormonentzug oder durch Gabe von rhTSH erreicht. Bei einem Schilddrüsenhormonentzug werden nach der Operation die fehlenden Hormone zunächst nicht ersetzt, was zu einer deutlichen Hypothyreose mit z. T. erheblichen körperlichen und psychischen Belastungen für die Patienten führt. Alternativ kann seit 2005 in Europa auch der TSH-Wert mit der Gabe von gentechnisch-hergestelltem TSH (rhTSH, rekombinantes humanes TSH) auf die gewünschte Höhe für die Ablation (Radiojodtherapie) gebracht werden. Ab 2007 gibt es in Deutschland spezielle DRGs (Diagnosis Related Groups) für den Einsatz des sehr teuren rhTSH, so dass auch Patienten der gesetzlichen Krankenkassen zunehmend mit rhTSH für die Radiojodtherapie vorbehandelt werden. Das rhTSH wird dabei an zwei aufeinander folgenden Tagen intramuskulär (i. m.) injiziert. In den folgenden Tagen steigt der TSH-Wert für eine kurze Zeit an und fällt schnell wieder ab. Für eine optimale Aufnahme des radioaktiven Jods ist es von entscheidender Bedeutung, dass der TSH-Wert möglichst hoch ist. Daher ist bei der Gabe von rhTSH ein exaktes Zeitmanagement unerlässlich. Bestimmte Konstellationen, wie die Einnahme von gerinnungshemmenden Substanzen (z. B. Marcumar) als Kontraindikation für eine i. m.-Gabe oder eine fehlende Sicherheit, ob und wann die Ablation durchgeführt werden soll, können gegen die Anwendung des rhTSH und für eine Therapie in Hypothyreose sprechen.
+
+
+=== Anschließende Schilddrüsenhormon-Therapie ===
+Im Anschluss an die Operation wird begonnen, die Schilddrüsenfunktion durch künstliche Schilddrüsenhormone zu ersetzen. Hierfür wird in der Regel L-Thyroxin (freies T4) gegeben. Zur Erstdosierung mit L-Thyroxin gilt die Faustregel, dass ein Mensch 2 Mikrogramm L-Thyroxin pro Kilogramm Körpergewicht benötigt, wenn keine Schilddrüse mehr vorhanden ist. Zur Kontrolle der richtigen Dosierung wird der TSH-Wert verwendet. Zu diesem Zeitpunkt der Behandlung liegt der Zielwert des TSH bei 0,05–0,1 mU/l (die früher propagierte noch weitergehende Suppression des TSH wird aufgrund der Belastung des Herz-Kreislauf-Systems als Risikofaktor für Herzinfarkt und Schlaganfall heute nicht mehr empfohlen). Zur Minderung von Schilddrüsenüberfunktions-Symptomen kann auch L-Carnitin eingesetzt werden. Es gibt allerdings noch keine Erfahrungen mit einer Langzeiteinnahme von L-Carnitin.
+
+
+=== Kontrolluntersuchungen ===
+Nach sechs bis zwölf Monaten (frühestens nach drei Monaten) sollte in bestimmten Fällen das Ergebnis der Radiojodtherapie mit einer sogenannten Radiojoddiagnostik dokumentiert werden. Im Hormonentzug (vier Wochen vor der Untersuchung keine Einnahme des L-Thyroxins) wird eine geringe Menge Jod-131 verabreicht und die Verteilung im Körper nach 48 Stunden mit einer Szintigraphie ermittelt. Auch für diese Radiojoddiagnostik ist – hier bereits seit 2001 – ein Hormonentzug nicht mehr notwendig (s. o.). Bei dem Einsatz von rhTSH zur Vorbereitung einer Radiojoddiagnostik muss allerdings bedacht werden, dass für eine eventuell notwendige erneute Radiojodtherapie auch das rhTSH erneut verabreicht werden muss.
+Als weiterer Parameter wird der Tg-Wert (Thyreoglobulin) im Blut als Maß für die Anzahl von Schilddrüsenzellen im Organismus bestimmt. Sind noch Schilddrüsenreste im Halsbereich oder jodspeichernde Metastasen (Streuherde) vorhanden, wird eine weitere Radiojodtherapie angeschlossen. In diesem Fall wird eine erneute Radiojoddiagnostik nach drei Monaten durchgeführt. Sind beide Untersuchungsergebnisse negativ (niedriges bis nicht mehr nachweisbares Tg und keine auffällige Jodspeicherung im Körper) gilt die Radiojoddiagnostik als unauffällig. Dann wird eine weitere Radiojoddiagnostik zur Bestätigung der Ergebnisse in weiteren neun Monaten vorgenommen. Danach werden üblicherweise regelmäßige Kontrollen des Tumormarkers Thyreoglobulin lebenslang, beispielsweise einmal pro Jahr, durchgeführt. Je nach Risikoeinschätzung des individuellen Tumors (low, intermediate oder high risk) und Ansprechen der Therapie (Exzellentes, unbestimmbares, biochemisch unvollständiges oder strukturell unvollständiges Ansprechen) gelten lebenslang unterschiedliche Zielbereiche für den TSH-Wert (von 0,05–0,1 mU/l bis < 2,0 mU/l) bei der Dosierung der Schilddrüsenhormone.Für die Kontrolle und Nachsorge gibt es inzwischen neuere Leitlinien, in denen die Ultraschall-Untersuchung des Halses und die Bestimmung des Tumormarkers Thyreoglobulin unter Stimulation (rhTSH) eine größere Bedeutung haben, während die Radiojoddiagnostik eine wesentlich geringere Rolle spielt als in dem oben geschilderten Vorgehen.
+
+
+== Behandlung des fortgeschrittenen Schilddrüsenkarzinoms ==
+Als fortgeschrittenes Karzinom wird im Folgenden ein Schilddrüsenkarzinom mit Fernmetastasen (z. B. Lungenmetastasen) oder ein nicht operables Schilddrüsenkarzinom verstanden. Hier ist in der Regel keine komplette Heilung mehr möglich. Ziel der Therapie ist eine Lebensverlängerung bei möglichst hoher Lebensqualität und eine Minderung von tumorbedingten Beschwerden. Selbst bei Vorliegen von Fernmetastasen kann die Prognose aber trotzdem relativ günstig sein. Manche Patienten mit medullärem Schilddrüsenkarzinom und Fernmetastasen leben damit über Jahrzehnte.Die Therapie sollte interdisziplinär besprochen werden, d. h. im Zusammenwirken von Endokrinologen, Nuklearmedizinern, Onkologen, Chirurgen und Strahlentherapeuten. Seit dem Jahr 2015 gibt es auch eine Studiengruppe, die ein bundesweites Register seltener Tumore der Schilddrüse führt.
+Seit einigen Jahren sind mehrere Tyrosinkinase-Inhibitoren (TKI) für das fortgeschrittene Schilddrüsenkarzinom zugelassen: für das metastasierte differenzierte Schilddrüsenkarzinom, das nicht mehr auf eine Radiojodtherapie anspricht, Lenvatinib und Sorafenib; für das fortgeschrittene medulläre Schilddrüsenkarzinom Cabozantinib und Vandetanib. Der erste Einsatz von Tyrosinkinase-Inhibitoren sollte durch ein Tumorboard erfolgen, welches aus Ärzten besteht, die Erfahrung mit dem fortgeschrittenen Schilddrüsenkarzinom haben, da diese Schilddrüsenkarzinome vielfach bei guter Lebensqualität über mehrere Jahre nur beobachtet werden können.
+Für das anaplastische Schilddrüsenkarzinom gibt es noch keine Zulassung von einem Tyrosinkinase-Inhibitor. Es wird hier als erste Therapie eine Kombination aus Operation, perkutaner Bestrahlung und Chemotherapie sowie die Aufnahme in Studien empfohlen.
+
+
+== Prognose ==
+Differenzierte Karzinome
+Die Heilungschancen bei differenzierten Schilddrüsenkarzinomen sind im Allgemeinen sehr gut. Meist werden durchschnittliche 10-Jahres-Überlebensraten von über 90 % bei der papillären und ca. 80 % bei der follikulären Variante angegeben (bei Behandlung). Als Prognosefaktoren gelten Patientenalter sowie Größe, Ausbreitung und histologische Differenzierung des Tumors; Lymphknotenmetastasen scheinen die Prognose nicht wesentlich zu beeinflussen. Wegen des erhöhten Rezidivrisikos ist eine konsequente Nachsorge äußerst wichtig.
+Medulläres und anaplastisches Karzinom
+Folgende 5-Jahres-Überlebensraten gelten durchschnittlich (bei Behandlung):
+
+Medulläres Karzinom: 60–70 %
+Anaplastisches Karzinom: ca 5 %
+
+
+== Ähnliche Erkrankungen ==
+Folgende Erkrankungen können ähnliche Symptome wie der Schilddrüsenkrebs verursachen:
+
+Zyste
+Struma nodosa (kalter Knoten / heißer Knoten)
+Adenom
+Metastasen (bspw. von einem Mammakarzinom)
+
+
+== Selbsthilfe ==
+Auf Grund der Seltenheit von Schilddrüsenkrebs ist es für Patienten überaus schwer, Betroffene für den Erfahrungsaustausch zu finden, es gibt daher nur wenige lokale Selbsthilfegruppen. Auf deutscher Bundesebene gibt es drei Selbsthilfe-Organisationen (die Schilddrüsen-Liga Deutschland, den Verein Bundesverband Schilddrüsenkrebs und die Selbsthilfegruppe C-Zell-Karzinom), die sich für die Interessen von Schilddrüsenkrebspatienten einsetzen, praktische Informationen geben (zum Beispiel richtige Einnahme von Schilddrüsenhormonen, je nach Tumortyp eventuell jodarme Ernährung vor Radiojodtherapie) und über neue Studien und aktuelle Leitlinien kritisch informieren.
+
+
+== Literatur ==
+S2k-Leitlinie Operative Therapie maligner Schilddrüsenerkrankungen der Deutsche Gesellschaft für Allgemein- und Viszeralchirurgie e. V. (DGAV). In: AWMF online (Stand 2012)
+Bryan R. Haugen et al.: 2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer. In: Thyroid, Volume 26, Number 1, 2016
+Christian Hubold, Hendrik Lehnert: Klassifikation und klinische Diagnostik des Schilddrüsenkarzinoms – Benigner Knoten oder therapierelevantes Karzinom? In: Der Klinikarzt, 41, 2012, S. 458–463, doi:10.1055/s-0032-1330946.
+Oliver Gimm: Medulläres Schilddrüsenkarzinom – Besonderheiten, Diagnostik, Therapie und Nachsorge. In: Der Klinikarzt, 41, 2012, S. 476–480, doi:10.1055/s-0032-1330949.
+Alexander Iwen, Hendrik Lehnert, Georg Brabant: Nicht-medulläre Schilddrüsenkarzinome – Neue Strategien und aktuelle medikamentöse Therapiekonzepte. In: Der Klinikarzt, 41, 2012, S. 482–285, doi:10.1055/s-0032-1330950.
+
+
+== Weblinks ==
+AWMF Leitlinie Schilddrüsenkarzinome
+E-Learning-Kurs zum Thema Schilddrüsenkarzinom (Charité Berlin)
+
+
+== Einzelnachweise ==

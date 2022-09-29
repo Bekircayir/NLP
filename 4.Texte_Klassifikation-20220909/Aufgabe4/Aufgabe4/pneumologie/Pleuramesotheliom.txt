@@ -1,0 +1,56 @@
+Das (maligne) Pleuramesotheliom ist ein von den Mesothelzellen (Mesotheliom) (Zölomepithel) ausgehender bösartiger Tumor der Pleura (Brustfell). Erstbeschrieben wurde die Krankheitsauslösung durch den eingeatmeten Asbeststaub 1960 in Südafrika.
+
+
+== Ursachen ==
+In etwa der Hälfte der Fälle ist Asbest als Ursache anzunehmen (bei Männern >80 %, bei Frauen <40 %). Bei Exposition mit Asbest wird dieser Tumor als Berufskrankheit (Nr. 4105) anerkannt. Die Exposition nachzuweisen, ist jedoch oft schwierig, da ein Mesotheliom eine Latenzzeit von 20 bis 40 Jahren hat. Auch Radioaktivität und Viren werden mit dem Pleuramesotheliom in Verbindung gebracht.
+In Assoziation mit kalzifizierenden Pleuraplaques kann jedoch von einer Asbest-Exposition ausgegangen werden.
+
+
+== Symptome ==
+Hustenreiz, Atemnot, Gewichtsabnahme, Kraftlosigkeit und Schmerzen des Brustkorbs sind mögliche Leitsymptome des Pleuramesothelioms.
+
+
+== Pathologie ==
+epithelioides Mesotheliom (50–60 %)
+biphasisches Mesotheliom (Mischtyp aus epithelioidem und sarcomadoidem Mesotheliom) (20–30 %)
+sarcomadoides Mesotheliom (10–20 %) (mit schlechterer Prognose)Der maligne Tumor wächst der Pleura folgend um die ganze Lunge, dringt in die oberflächlichen Anteile des Lungengewebes sowie der umliegenden Gewebe (Herzbeutel, Zwerchfell) ein.
+Häufig wird das Mesotheliom von einem blutigen (hämorrhagischen) Pleuraerguss begleitet.
+Eine Metastasierung in regionale Lymphknoten ist häufig.
+
+
+== Immunhistologie ==
+BerEp4
+Calretinin
+Thrombomodulin
+Vimentin (neuroektodermal)
+Zytokeratin 5
+D2-40
+Wilms-Tumor-Protein (WT1)
+
+
+== Differenzialdiagnose ==
+Adenokarzinom der Lunge
+Chronische Pleuritis
+
+
+== Diagnose ==
+
+Die Diagnose wird meist erst in einem fortgeschrittenen Stadium gestellt. Zur Diagnosesicherung wird ein Röntgen, CT oder MRT der Lunge und eine Bronchoskopie zur differenzialdiagnostischen Abgrenzung eines Bronchialkarzinoms durchgeführt. Bei der Pleurapunktion können in 30–50 % der Fälle Tumorzellen nachgewiesen werden; zu beachten ist hierbei das etwa 20%ige Risiko der Bildung von Metastasen im Stichkanal durch die direkte Verschleppung von Tumorzellen (= Impfmetastasen). Eine Pleurapunktion alleine ohne Nachweis von Tumorzellen schließt ein Pleuramesotheliom nicht aus. Die höchste Aussagekraft besitzt die Thorakoskopie mit Biopsie, welche in Zweifelsfällen durchgeführt werden muss.
+
+
+== Therapie ==
+Bei einseitigem Auftreten wird oft die Lungenhälfte samt Pleura entfernt (Pleurapneumonektomie). Sowohl Chemotherapie als auch Strahlentherapie finden bei diesem Tumor Anwendung. Seit 2003 wird Pemetrexed, meist in Kombination mit einer Platin-haltigen Substanz (Cis- oder Carboplatin) erfolgreich in der Chemotherapie eingesetzt, seit Ende 2004 findet eine Kostenübernahme durch die Krankenkassen statt. Eine 2015 veröffentlichte Studie berichtet über einen zusätzlichen Benefit durch die gleichzeitige Gabe des Angiogenesehemmers Bevacizumab. Es kann eine Verlängerung der Lebenszeit von ca. drei Monaten angenommen werden, welche durch eine Verbesserung des Allgemeinzustands in der Mitte der Therapie (ca. sechs Sitzungen in monatlichem Abstand) eintritt. Ein Stillstand oder Rückgang des Tumors kann aber nicht angenommen werden, danach treten in der Regel Progredienz, also weiteres Wachstum des Tumors, Beteiligung der Lymphknoten sowie Metastasen auf.
+
+
+== Prognose ==
+Es handelt sich um einen sehr aggressiven Tumor, der meist recht spät diagnostiziert wird. Daher liegt die mittlere Überlebenszeit bei 7 bis 16 Monaten nach Diagnosestellung. Prognostische günstige Faktoren sind weibliches Geschlecht, epitheloider histologischer Subtyp, Alter bei Diagnosestellung unter 75 Jahre. Allgemeine Faktoren, die für eine schlechtere Prognose sprechen sind hoher Tumorstatus (TNM), Gewichtsabnahme, Allgemeinzustandsverschlechterung (z. B. ermittelt durch Karnofsky-Index). Öfter werden auch ein niedriger Hämoglobin-Wert, Leukozytose und Thrombozytose, sowie hohe LDH-Werte als prognostische schlechte Faktoren angegeben.
+
+
+== Einzelnachweise ==
+
+
+== Weblinks ==
+
+Lehrstuhl für Bildverarbeitung der RWTH Aachen – betreibt Forschung auf diesem Gebiet
+Deutsches Mesotheliomregister in Bochum
+Übersichtsartikel aus dem Deutschen Ärzteblatt

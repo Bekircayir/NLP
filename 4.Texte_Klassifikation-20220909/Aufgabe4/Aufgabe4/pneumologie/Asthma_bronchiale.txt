@@ -1,0 +1,171 @@
+Das Asthma bronchiale (von altgriechisch ἆσθμα āsthma, deutsch ‚Atemnot; schweres, kurzes Atemholen, Beklemmung‘), oder Bronchialasthma, oft auch nur Asthma genannt, ist eine chronische, entzündliche Erkrankung der Atemwege mit dauerhaft bestehender Überempfindlichkeit. Bei entsprechend veranlagten Personen (mit überempfindlichem Bronchialsystem) führt die Entzündung zu anfallsweiser Atemnot infolge einer akuten Verengung der Atemwege – einer sogenannten Bronchialobstruktion (Definition des International consensus report on diagnosis and treatment of asthma). Diese Atemwegsverengung wird durch vermehrte Sekretion von Schleim, Verkrampfung der Bronchialmuskulatur und Bildung von Ödemen der Bronchialschleimhaut verursacht, sie ist durch Behandlung rückbildungsfähig (reversibel). Eine Vielzahl von Reizen verursacht die Zunahme der Empfindlichkeit der Atemwege (bronchiale Hyperreaktivität oder auch bronchiale Hyperreagibilität) und die damit verbundene Entzündung. 5 % der Erwachsenen und 7 bis 10 % der Kinder leiden an Asthma bronchiale.
+
+
+== Wortherkunft ==
+Asthma ist eine seit dem 16. Jahrhundert im Deutschen nachweisbare Entlehnung aus altgriechisch ἆσθμα āsthma, welches wiederum selbst morphologisch unklar von einem indogermanischen Wortstamm *hma mit der Bedeutung „atmen“ abgeleitet zu sein scheint.
+
+
+== Geschichte ==
+Zum ersten Mal wurde der Begriff Asthma im Corpus Hippocraticum verwendet. In der Antike war es die Bezeichnung für das komplette Krankheitsspektrum, „die durch den im Hirn kondensierenden und von dort die Lunge herabfließenden Katarrh, der die Atemwege verstopfte, sie allmählich eitrig werden und verfaulen ließ, verursacht wurden.“ Behandelt wurden die Patienten mit Aderlass, Schröpfen, Abführ-, Brech-, Nies-, harn- und schweißtreibenden Mitteln. Auch bei Aulus Cornelius Celsus ist das Asthma um 50 v. Chr. erwähnt. Der Pneumatiker Aretaios von Kappadokien war der Erste, der die Symptome beschrieb und das Sputum als feucht und klebrig bezeichnete. Auch sagte er, dass Asthmatiker nur in aufrechter Körperhaltung gut atmen können. Er empfahl diesen Personen besonders diätetische Maßnahmen. Galen ging die Therapie hingegen mit säfteverdünnenden Nahrungsmitteln, vegetarischer Diät und zerteilend wirkenden Arzneimitteln wie Meerzwiebelessig, Meerzwiebelsauerhonig und Meerrettich als Emetika an. Die in der Antike verwendeten Therapeutika konnten einen Asthmaanfall nicht verhindern, sondern nur eine expektorierende Wirkung auslösen.In der arabischen Medizin arbeitete lediglich Moses Maimonides am Asthma bronchiale und zwar verfasste er für den Emir von Damaskus Ali al-Malik al-Afdal Nur in Kairo die Schrift Tractatus contra passionem asthmatis, in der er den Asthmaanfall genau beschrieb und Medikamente zur Behandlung vorschlug. Am meisten Wert legte er auf die Prophylaxe, in Form von diätetisch-hygienischen Maßnahmen.Paracelsus schrieb in Von der Bergsucht und anderen Bergkrankheiten, dass die Krankheit durch Kälte, Hitze, Nebel, Säure oder Süße ausgelöst wird und ein chemischer Prozess ist, bei dem sich Weinstein, der sonst durch die Lunge ausgeschieden wird, auf der Innenwand der Lunge absetzt, einen klebrigen Schleim bildet und somit die Luftwege verstopft. Er behandelte die Bergsucht mit einer Mischung aus Weinstein, Eisen-III-oxid und Opium. Gerolamo Cardano zog die Asthmatherapie in Form einer Allergenkarenz vor. So behandelte er 1522 auch John Hamilton mit Cassiasirup, Hysoppulver, Trochisci aus Veilchen, Kardamomen, Coloquintenfrüchten und, aus seiner Sicht noch viel wichtiger, mit dem Ersatz seines Federbettes und -kissens durch ein strohgefülltes Leinenkissen und einen Überwurf aus ungesponnener Seide. Die Zurückführung des Asthmas auf Allergene erkannten auch Santorio Santorio, Thomas Bartholin und Georg Agricola.1648 erschien in Amsterdam Johann Baptist van Helmonts Ortus medicinae, in dem er erstmals den krampfartigen Asthmaanfall beschrieb. Daraufhin erkannte Thomas Willis, dass der Lungenspasmus auf das Nervensystem zurückzuführen ist. John Floyer (1649–1734) veröffentlichte 1698 das Werk A treatise of the Asthma und beschrieb hier die Symptomatik des Asthmaanfalls. Später berichteten Samuel Auguste Tissot (1728–1797) und William Cullen vom Einfluss des Nervensystems auf einen Asthmaanfall. 1700 beschrieb Bernardino Ramazzini die durch Allergene entstandenen Berufskrankheiten in De morbis artificum diatriba. Als Arzneimittel kamen zu dieser Zeit jedoch nur Tabak, Sassafras, Radix Chinae (von Smilax chinae), Antimon und Ether hinzu.Aufgrund der Annahme, dass Kaffee, bzw. später dann Coffein, das Phlegma im Körper austrocknet, nahm die Therapie mit Kaffee im Laufe der Zeit zu. Jakob Pahl entdeckte schließlich die atemanaleptische und bronchodilatorische Wirkung des Coffeins.
+Zu Beginn des 19. Jahrhunderts behandelte Thomas Beddoes Asthma und andere Erkrankungen der Atemwege mit Inhalation bestimmter Gase.Johann Leopold Edlem von Auenbrugger entwickelte 1761 das Perkussionsverfahren und René Théophile Hyacinthe Laennec das Auskultationsverfahren. So konnten zu Beginn des 19. Jahrhunderts die verschiedenen Bronchialerkrankungen voneinander unterschieden werden. Auch konnte Laennec die These von Thomas Willis, dass es sich bei einem Asthmaanfall um ein krampfartiges Ereignis handelt, bestätigen. Josef Berson (1812–1902) traf dann die Unterscheidung von bronchialem zu kardialem Asthma und definierte das Bronchialasthma als eigenständige Krankheit.
+1860 zeigte Henry Hyde Salter ausführlich auf, dass verschiedene Allergene, wie die von Katzen, Kaninchen und Heu ausgehenden, einen Asthmaanfall auslösen können.
+Anton von Störck untersuchte die Drogen Datura stramonium (Stechapfel), Hyoscyamus niger (Bilsenkraut) und Atropa Belladonna (Tollkirsche) und befand alle drei nützlich für die Asthmatherapie. So wurden sie einzeln oder als Mischungen verwendet. Auch Georg August Richter (1778–1832) und Josef Frank (1771–1842) verwendeten Solanaceen zur Behandlung des Asthmas. Meist wurden die Stängel getrocknet und zerkleinert und dann in der Pfeife angezündet. Die sogenannten Asthmazigaretten wurden mit der Zeit obsolet und von den Dosieraerosolen abgelöst. Zuerst brachte 1974 Boehringer Ingelheim eines auf den Markt, das Ipratropiumbromid enthielt und den Namen Atrovent trug. 2002 entwickelte Boehringer Ingelheim das langwirksame Tiotropium.Samuel Samson (1769–1843) nutzte zur Therapie die Lobelie, wofür er 1813 das erste Patent erhielt, 1808 die Wurzel der Lobelia Syphylitica, die in die Pharmacopoeia of Massachussett's Medical Society aufgenommen wurde, und 1820 die Tinktur der Blätter, die in die US-Pharmakopöe einging. Während sich diese Therapie besonders in den USA großer Beliebtheit erfreute, probierte man die Therapie mit Morphin, Emetin, Codein, Chinin, Coffein, Atropin und Cocain. Sigmund Freud behandelte in seiner Schrift Ueber Coca die Anwendung von Cocain bei Asthma und auch der Laryngologe Oskar Herrmann Bischörner (1843–1904) und der Internist Karl Friedrich Mosler (1831–1911) behandelten Asthma mit der subkutanen Injektion von Cocainum salicylicum. Dies hielt bis 1920 an, als das Cocain unter das Betäubungsmittelgesetz fiel.
+Auch indischer Hanf wurde als Wirkstoff in Asthmatherapie eingesetzt. Die Pariser Firma Grimault & Co. vertrieb ihre "Indischen Zigaretten" ab 1867 weltweit. Auch im Deutschen Markt, wo sie ab 1872 angeboten wurden, etablierten sie sich rasch als Marktführer. Hauptwirkstoff war neben Cannabis allerdings Belladonna. Grimaults Wettbewerber kamen ebenfalls vorrangig aus Frankreich. Deren Marken Clery, Espic, Zematose oder Guilt verwandten jedoch durchweg Mischungen von Stechapfel und Tollkirschen. Hanf wurde weiter verwandt, etwa von der seit 1900 in Berlin produzierenden Bronchiol-Gesellschaft oder der Laibacher Apothekerfamilie Trnkoczy. Die höheren Kosten des Cannabis und dessen vielfach nicht kalkulierbaren Wirkungen erlaubten jedoch keine dauerhafte Etablierung. Synthetisch produzierte Pharmazeutika traten an die Stelle der auf Naturprodukten basierenden Asthmazigaretten und Asthmapulvern.Ephedrin wurde zwar schon früh von August Eberhard (1887–1960) und Ernst Schmidt (1845–1921) synthetisiert, jedoch machten erst 1924 Ko Kuei Chen (geb.1898) und Carl Frederic Schmidt auf die sympathomimetischen Eigenschaften aufmerksam, sodass Ephedrin dann durch die Arbeit von Friedrich Otto Hess (1882–1952) zu einem der wichtigsten Antiasthmatika des 20. Jahrhunderts wurde.Albrecht Kossel hat 1888 die Substanz Theophyllin aus den Blättern der Camellia sinensis isoliert, die 1902 unter dem Namen Theocin von Byk Gulden auf den Markt gebracht wurde. 1908 hatte Reinhold Grüter (geb.1882) dann das leichtlösliche Theophyllin-Ethyldiamin synthetisiert, welches als Euphyllin auf den Markt kam. David Israel Macht (1882–1961) und Giu-Ching Ting konnten Theophyllin zur Therapie weiterhin empfehlen und 1922 brachte Samson Raphael Hirsch (1890–1960) eine Mischung aus 1,3-Dimethylxanthin und Theobrominnatrium, genannt Spasmopurin, auf den Markt. 1936 wurde von Grüter die Verwendung von Theophyllin-Phenylethylbarbitursäure-Ethylendiamin bei akuten Asthmaanfällen beschrieben.In Indien werden Schlangenkopffische auch zu einer zweifelhaften Therapie gegen Asthma eingesetzt und dabei mit einer Kräuterpaste gegessen. Die indische Regierung unterstützt die jährliche Zeremonie der Familie Bathini Goud in Hyderabad, an der rund 5000 Menschen teilnehmen, mit Sonderzügen.
+
+
+== Epidemiologie ==
+Prävalenzdaten zu ärztlich diagnostiziertem Asthma sind häufig inhomogen. Die Auswertung ein und derselben Datenquelle, des World Health Survey 2003 der Weltgesundheitsorganisation (WHO), führte in einem Fall zu einer Lebenszeitprävalenz bei Erwachsenen von 4,3 %, in einem anderen Fall zu einem Wert von 6,0 %. Noch stärker schwanken die Werte bezogen auf einzelne Regionen und Länder. Die Arbeitsgruppe von Teresa To ermittelte Prävalenzen von 1,0 % in Vietnam bis 21,5 % in Australien. Während die Asthma-Prävalenz in den vergangenen Jahrzehnten in vielen Ländern zugenommen hat, scheint die Progression in westlichen Ländern zum Stillstand gekommen zu sein. Die Länder mit der höchsten Asthma-Prävalenz sind Australien (21,5 %), Schweden (20,2 %), Vereinigtes Königreich (18,2 %), Niederlande (15,3 %) und Brasilien (13,0 %). Laut KiGGS-Studie litten 2014 in Deutschland bis zu 10 % der Kinder und Jugendlichen an Asthma bronchiale. Beim deutschen Bundes-Gesundheitssurvey wurden auch die Serumspiegel von Theophyllin bei Asthmatikern gemessen und die dringende Empfehlung eines Drug Monitorings ausgesprochen. Bei den Erwachsenen waren ca. 7,5 % der Bevölkerung in Deutschland betroffen.
+
+
+== Ursachen ==
+
+
+=== Ursachen der verschiedenen Formen ===
+
+Man unterscheidet das allergische (extrinsische) Asthma vom nicht-allergischen (intrinsischen) Asthma. In Reinform kommen diese jedoch nur bei etwa zehn Prozent der Patienten vor, bei der Mehrheit werden Mischformen beobachtet. Während bei Kindern das allergische Asthma häufiger ist, tritt im Alter gehäuft die nicht-allergische Form auf. Zigarettenrauch in der elterlichen Wohnung begünstigt Asthma. Es gibt auch Hinweise, dass kulturelle und zivilisatorische Umstände wie auch bestimmte Medikamentenanwendungen in früher Kindheit Asthma fördern.
+
+
+==== Allergisches Asthma ====
+Das allergische exogene Asthma wird bei entsprechender genetischer Veranlagung zur Atopie durch äußere Reize (Allergie auslösende Stoffe in der Umwelt, sogenannte Allergene) ausgelöst. Dabei werden Immunglobuline vom Typ E (IgE) gebildet, die in Wechselwirkung mit spezifischen Allergenen die Ausschüttung von allergieauslösenden Botenstoffen wie Histamin, Leukotrienen und Bradykininen aus Mastzellen bewirken. Diese Stoffe lösen dann die Atemwegsverengung aus. Neben dieser Sofortreaktion vom Typ I nach Einatmen des Allergens kann es nach 6 bis 12 Stunden zu einer Spätreaktion kommen; diese wird über Immunglobuline vom Typ G (IgG) ausgelöst. Oft treten beide Reaktionen auf (englisch dual reaction).
+Für eine polygen vererbte Anlage spricht die Beobachtung, dass Kinder von Eltern, die beide an allergischem Asthma leiden, ein Erkrankungsrisiko von 60–80 % haben. Auf der Insel Tristan da Cunha leidet die Hälfte der Einwohner an Asthma infolge familiärer Vererbung. Heuschnupfen (saisonale allergische Rhinitis), der wie das Asthma eine allergisch bedingte entzündliche Erkrankung der Schleimhaut des Nasen-Rachen-Raums ist, kann auf die unteren Atemwege übergreifen und dort zu Asthma führen („Etagenwechsel“). Fast ein Viertel dieser Patienten entwickelt dadurch nach mehr als 10 Jahren ein Pollenasthma. Zudem steht am Anfang meist ein bestimmtes Allergen im Mittelpunkt; über die Jahre kommt es jedoch oft zur Ausweitung des Auslöserspektrums, so dass die Allergenvermeidung für den Patienten immer schwieriger oder sogar unmöglich wird.
+Es gibt Hinweise, dass Landleben ungeborene Kinder vor Asthma schützt: Kinder von Frauen, die während der Schwangerschaft Kontakt zu Tieren, Getreide oder Heu hatten, bekommen im späteren Leben seltener allergische Atemwegs- und Hauterkrankungen. Für einen gewissen Schutz vor diesen Beschwerden ist aber ein anhaltender Kontakt zu Nutztieren oder Getreide nötig.
+
+
+==== Nicht-allergisches Asthma ====
+Das nicht-allergische endogene Asthma kann hingegen durch andere Reize verursacht werden: Infektionen, meist der Atemwege, Medikamentenunverträglichkeiten – sog. Analgetika-Asthma (eine pseudoallergische Reaktion auf Schmerzmittel, meist nichtsteroidale Antiphlogistika wie Acetylsalicylsäure), Arzneimittelnebenwirkungen (z. B. von Betarezeptorenblockern und Cholinesterasehemmern), Einwirkung von giftigen (toxischen) oder irritierenden Stoffen (Lösungsmittel, kalte Luft, Zusatzstoffe und anderem), besondere körperliche Anstrengung (Belastungsasthma) sowie die Refluxerkrankung (Rückfluss von Magensäure) sind mögliche Ursachen dieser Form. Manche Zusammenhänge und weitere Ursachen sind derzeit noch nicht geklärt.
+Nach einer Studie können Raumsprays und Reinigungsmittel zum Sprühen das Risiko von Atemwegsbeschwerden und von Asthma stark erhöhen.Tierversuche liefern Hinweise darauf, dass Tabakkonsum auch über Generationen hinweg zu Asthma führen kann. In einer 2014 durchgeführten Studie mit dem Ziel, Indizien hierfür auch bei Menschen zu finden, konnte dieses nicht belegt werden.
+
+
+=== Pathogenese ===
+Für die Krankheitsentstehung (Pathogenese) sind drei pathophysiologische Abläufe charakteristisch:
+
+
+==== Entzündung der Bronchien ====
+Allergene oder andere Reize lösen eine Entzündungsreaktion der Bronchialschleimhaut aus. Diese hat zentrale Bedeutung beim Asthma. Neben Mastzellen und deren ausgeschütteten Botenstoffen (Entzündungsmediatoren, siehe oben) spielen eosinophile Granulozyten und T-Lymphozyten dabei eine wichtige Rolle.
+
+
+==== Bronchiale Hyperreaktivität ====
+Bei den meisten Asthmatikern lässt sich eine unspezifische bronchiale Hyperreaktivität (allgemeine Atemwegsüberempfindlichkeit gegen Reize) nachweisen. Die Hyperreaktivität (auch Hyperreagibilität) lässt sich oft objektivieren durch Inhalation von Reizsubstanzen, z. B. beim Methacholintest, Histamintest oder bei Belastungen wie dem Renntest (Überanstrengung der Bronchien beim Rennen, vor allem bei Kindern) oder durch Kaltluftprovokation. An der Pathogenese der bronchialen Hyperreaktivität soll das im Respirationstrakt nachgewiesene Neuropeptid Substanz P beteiligt sein.
+
+
+==== Mangelnde bronchiale Reinigung (Clearance) ====
+Die Obstruktion ist die Verengung des Lumens der Atemwege (Verkleinerung des verfügbaren Querschnitts) infolge von Schleimhautödemen (Flüssigkeitseinlagerung in die Schleimhaut), von vermehrter bzw. gestörter Schleimsekretion (Hyperkrinie bzw. Dyskrinie) und von Bronchospasmen (Verkrampfung der glatten Muskulatur der Bronchien). Dadurch wird die Selbstreinigung der Lunge reduziert: Das Sekret kann nicht abfließen und verstärkt seinerseits die Schädigung bis hin zur vollständigen Verlegung, den sogenannten Bronchialausgüssen.
+
+
+== Symptome ==
+Bei einem Asthmaanfall kommt es zu akut auftretender Luftnot (Dyspnoe). Vor allem die Ausatmung ist erschwert und diese ist oft von pfeifenden Atemgeräuschen begleitet (exspiratorischer Stridor). Teilweise tritt Husten auf, auch in Form von Hustenanfällen. Bei Kindern ist Husten in der Regel das führende Symptom, daher wird hier die Diagnose „Asthma“ oft erst spät gestellt. Das erschwerte Atmen und die Luftnot können zu Angstgefühlen mit Unruhe, Sprechschwierigkeiten und auch zu Übelkeit führen. Charakteristisch für Asthma ist das Fehlen von Symptomen im beschwerdefreien Intervall.
+
+
+== Diagnose ==
+
+Die Diagnose ist durch Anamnese und bei typischen Hauptsymptomen oft leicht zu stellen.
+Bei der Diagnose hilft eine Lungenfunktionsprüfung (Spirometrie) weiter, bei der unter anderem
+
+das Gesamtvolumen der ein- und ausgeatmeten Luft (Vitalkapazität, VC) und
+das in einer Sekunde bei forcierter Ausatmung ausgeatmete Volumen (Einsekundenkapazität, FEV1) bestimmt werden.Das Verhältnis von Einsekundenkapazität zur forcierten Vitalkapazität (FEV1 /FVC) wird als relative Einsekundenkapazität, relative Sekundenkapazität oder Tiffeneau-Index bezeichnet und als Maß für die Einengung der Atemwege herangezogen.
+Mit Hilfe von Ganzkörperplethysmographie (Bodyplethysmographie) und Spirometrie kann der Atemwegswiderstand und das Ausmaß der Lungenüberblähung bestimmt werden.
+
+Zur Diagnose und Therapieüberwachung dient auch der PEF-Wert (peak expiratory flow). Dies ist der Maximalwert des Luftflussvolumens (Durchfluss) beim Ausatmen. Er dient als Indikator für den freien Querschnitt in der Luftröhre beim Ausatmen. Dieser Wert sinkt meist schon vor einem Asthmaanfall. Er wird mit einem „Peak-Flow-Meter“ gemessen, welches in verschiedenen altersangepassten Bauformen erhältlich ist.
+Typische Röntgenbefunde für Asthma können in einer akuten Situation auftreten, wie eine vermehrte Strahlentransparenz der Lunge, schmale Herzsilhouette, tiefstehende Zwerchfelle.
+Veränderungen des EKGs beim akuten Asthmaanfall können vielfältig sein: P-pulmonale, Drehung der Herzachse in Richtung rechts (vom Indifferenztyp zum Steiltyp), SIQIII-Typ als Zeichen einer Rechtsherzbelastung, Sinustachykardie.
+Wichtig bei der Diagnose des Asthma bronchiale ist die Prüfung, ob eine allergische Empfindlichkeit gegen ein Allergen oder verschiedene Allergene der Umgebung als Auslöser verantwortlich sind. Hierzu bedient man sich verschiedener Allergietests. Auch Provokationsversuche, beispielsweise gegen Arbeitsstoffe, können nötig werden. Bei allergisch bedingtem Asthma können sich bei der Blutuntersuchung eine Erhöhung der allergietypischen spezifischen IgE (Immunglobuline) und/oder eine Eosinophilie finden.
+Ergänzende Untersuchungsmethoden wie die sogenannte FeNO-Messung (fraktioniertes exhaliertes Stickstoffmonoxid) können eingesetzt werden, um das Ausmaß der Atemwegsentzündung beim allergisch bedingten Asthma zu bestimmen. Stickstoffmonoxid (NO) ist ein wichtiger Botenstoff im Organismus, der natürlicherweise an unterschiedlichen Stellen im Körper entsteht. So wird NO beispielsweise vermehrt in den unteren Atemwegen von den die Bronchien auskleidenden Schleimhautzellen (Epithelzellen) gebildet. Die höchsten NO-Konzentrationen treten in den Nasennebenhöhlen auf, in den Bronchien ist die Konzentration geringer.
+Um eine Probe des in den Bronchien gebildeten NO gewinnen zu können, muss die ausgeatmete Luft fraktioniert werden. Die Messung des sogenannten fraktionierten exhalierten NO (FeNO) wurde für die klinische Anwendung standardisiert, und kann mithilfe spezieller Messgeräte bestimmt werden. Die Konzentration des ausgeatmeten NO wird in der Einheit ppb („parts per billion“) gemessen. Das heißt, eine Konzentration von 10 ppb entspricht 10 Stickstoffmonoxidmolekülen pro einer Milliarde Luftteilchen.Studien belegen den Stellenwert der FeNO-Messung zur Diagnosesicherung und Prognose des Ansprechens auf inhalierbare Steroide.,, Durch eine regelmäßige FeNO-Messung kann der Verlauf der Atemwegsentzündung besser überwacht werden, dies unterstützt das Therapiemanagement und kann helfen, die Häufigkeit von Asthmaanfällen zu reduzieren., Steigende FeNO-Werte zeigen noch vor dem Lungenfunktionstest eine Verschlechterung des Krankheitsverlaufs an und ermöglichen so ein frühzeitiges therapeutisches Gegensteuern.Eine australische Studiengruppe konnte zeigen, dass bei regelmäßigem FeNO-Monitoring bei schwangeren Asthmatikerinnen das Risiko der Kinder, später ein frühkindliches Asthma zu entwickeln, reduziert war.
+
+
+== Einteilung in Schweregrade ==
+Asthma wird in folgende Schweregrade eingeteilt:
+
+Weiterhin unterscheidet man vom schweren Asthma das schwierige Asthma:
+Das schwierige Asthma ist gekennzeichnet durch den Krankheitsverlauf erschwerende Faktoren wie schlechte Compliance, psychosoziale Probleme, wiederholte Exposition gegen Schadstoffe und Allergene oder auch unbehandelte andere Erkrankungen.
+
+
+== Differenzialdiagnosen (Auswahl) ==
+Chronisch obstruktive Lungenerkrankung (COPD)
+Herzinsuffizienz („Asthma cardiale“)
+Rezidivierende Lungenembolien
+Verlegung der Luftwege (z. B. Entzündung der Luftröhre, Pseudokrupp)
+Vocal cord dysfunction (VCD)
+Hyperventilationssyndrom
+Erkrankungen aus dem rheumatischen Formenkreis mit Lungenbeteiligung (z. B. eosinophile Granulomatose mit Polyangiitis (Churg-Strauss-Syndrom), Granulomatose mit Polyangiitis)
+
+
+== Therapie ==
+Die Behandlung des Asthmas erfolgt überwiegend mit inhalierbaren Medikamenten, die als Dosieraerosole oder Pulver mithilfe von Inhalatoren resp. Pulverinhalatoren verabreicht werden, seltener als Inhalationslösungen, die mit elektrisch betriebenen Inhalatoren vernebelt werden. Es werden eigene Patientenschulungen angeboten.
+
+
+=== Therapiemöglichkeiten außerhalb einer Krise ===
+
+Bei einer nachgewiesenen Allergie muss zunächst der auslösende Stoff gemieden werden (Beispiele: Berufswechsel beim Bäckerasthma, Abschaffung von Haustieren, die ein Fell haben). Beim Asthma, das durch Milben oder Pollen ausgelöst wird, kommt manchmal eine Hyposensibilisierung, auch „spezifische Immuntherapie“ (SIT) genannt, in Frage. Bei manchen Allergenen kann eine Atemschutzmaske Linderung bringen.
+Die Deutsche Atemwegsliga empfahl 2013 folgendes, auch als Asthma-Stufentherapie bekanntes (inzwischen nicht mehr aktuelles) Behandlungskonzept:
+Dauermedikation („Controller“)
+
+Stufe 1 (Intermittierendes Asthma):Eine Dauermedikation ist nicht erforderlich.
+Stufe 2 (Leichtgradiges Asthma): Inhalation von niedrigdosierten, lokal wirksamen Glukokortikoiden (Budesonid, Beclometason, Fluticason, Mometason, Ciclesonid), eventuell oral ein Leukotrienrezeptor-Antagonist (Montelukast); die Alternative Mastzellstabilisatoren (Cromoglicinsäure) ist nur in besonderen Fällen in der Therapie von Kindern und Jugendlichen in Betracht zu ziehen.
+Stufe 3 (Mittelgradiges Asthma):Entweder Inhalation von lokal wirksamen Glukokortikoiden in mittlerer Dosierung oder Inhalation von lokal wirksamen Glukokortikoiden in niedriger Dosierung zusammen mit lang wirksamen β2-Sympathomimetika inhalativ (Salmeterol oder Formoterol). Alternativ kann zu einem inhalativ wirksamen Glukokortikoid in niedriger Dosierung zusätzlich Montelukast oder Theophyllin oral gegeben werden
+Stufe 4 (Schweres Asthma):Ein hoch dosiertes inhalatives Glukokortikoid zusammen mit einem lang wirksamen inhalierten β2-Sympathomimetikum. In begründeten Fällen kann das inhalierte β2-Sympathomimetikum durch Montelukast und/oder Theophyllin ersetzt werden.
+Stufe 5 (Sehr schweres Asthma):Zusätzlich zu Stufe 4 sind hier oral gegebene Glukokortikoide (z. B. Prednisolon) oder bei allergischem Asthma Omalizumab (Xolair), ein anti-IgE-Antikörper, für die Behandlung von Erwachsenen und Kindern ab 12 Jahren mit schwerem persistierendem Asthma indiziert. Bei Patienten mit schwerem Asthma mit erhöhter Anzahl der eosinophilen Granulozyten im Blut stehen derzeit die Antikörper Mepolizumab (Nucala), Reslizumab (Cinqaero) und Benralizumab (Fasenra) zur Verfügung, welche gegen Interleukin-5 gerichtet sind und hierdurch die eosinophile Entzündung hemmen. Eine weitere Therapieoption bei schwerem und sehr schwerem Asthma bronchiale stellt die bronchiale Thermoplastie dar, ein endoskopisches Verfahren, bei dem mittels hochfrequentem Strom die verdickte Bronchialmuskulatur direkt reduziert wird.Bei allen Schweregraden können bei Bedarf kurzwirksame β2-Sympathomimetika inhaliert werden („Reliever“).
+Beim allergischen Asthma wird bei Kindern zum Teil manchmal noch auf Cromoglicinsäure, Nedocromil oder Montelukast zurückgegriffen. Eine wirksamere Therapie ist ein inhalatives Corticosteroid. Alle genannten Medikamente werden hauptsächlich zur Vorbeugung gegen Asthmaanfälle eingesetzt („Controller“), sie müssen also, um eine ausreichende entzündungshemmende Wirkung zu erzielen, langfristig, wenn nicht dauerhaft eingesetzt werden.
+Eine Asthmatherapie sollte ursachenorientiert vorgehen. Da gelegentlich eine psychosomatische Komponente vorliegt, können Psychotherapien teilweise auch eine Besserung der Beschwerden bewirken. Wichtig ist auch, dass rauchende Asthmapatienten sich das Rauchen abgewöhnen. Mediziner um Neil Thomson von der Universität Glasgow haben herausgefunden, dass sich die Lungenfunktion bereits sechs Wochen nach der letzten Zigarette um 15 Prozent verbessert. Demnach können rauchende Asthmatiker Entzündungen ihrer Atemwege durch das Beenden des Rauchens lindern.
+Ein möglicher Therapieansatz bei übergewichtigen Patienten könnte Intermittierendes Fasten bieten. Bei einer Studie mit Asthmatikern verbesserten sich die Symptome der Patienten durch diese Maßnahme signifikant. Der Peak Flow verbesserte sich innerhalb von drei Wochen nach dem Beginn des Fastens von durchschnittlich 335 l/min auf 382 l/min und blieb im Verlauf der Studie auf diesem Niveau. Der ASUI (Asthma Symptom Utility Index) der Patienten stieg parallel dazu ebenfalls an. Eine Reihe von Biomarkern für Entzündungen, wie beispielsweise TNF-α und BNDF, und oxidativem Stress, wie Nitrotyrosin, 8-Isoprostan und Carbonylproteinen (CP), waren im Blutserum der intermittierend fastenden Patienten deutlich reduziert. Weitere Studien mit mehr Patienten sind zu einer abschließenden Beurteilung dieses Ansatzes noch notwendig.
+Ein völlig neuer Ansatz, die Stimulation einer durch TH1-Lymphozyten vermittelten Immunantwort, konnte erfolgreich in einer Studie mit 63 Patienten getestet werden. Dabei wurden Betroffenen intravenöse Injektionen mit einem TLR9-Agonisten verabreicht.Bei allergischem Asthma kann auch eine ballaststoffreiche Kost helfen, die Symptome zu lindern. Die durch Ballaststoffe veränderte Darmflora hat Auswirkungen auf Knochenmark und Atemwege, wodurch allergische Reaktionen abgeschwächt werden. Ausgangspunkt der Studien in diesem Bereich war die Beobachtung, dass die Anzahl von Allergien in der Gesellschaft mit zunehmendem Ersatz von Ballaststoffen mit Kohlenhydraten und Fetten ansteigt.
+
+
+=== Therapie beim Asthmaanfall ===
+Der (akute) Asthmaanfall kann dramatisch verlaufen. Die Maximalvariante, der sogenannte Status asthmaticus, stellt eine unmittelbare Lebensbedrohung dar. Es wird folgendes Vorgehen empfohlen:
+
+Sauerstoffzufuhr über eine Sonde oder Maske, um eine Sauerstoffsättigung von mehr als 90 %, bei Schwangeren und Patienten mit Herzkrankheiten mehr als 95 %, zu erhalten.
+Bronchodilatation: kurzwirksame β2-Agonisten (z. B. Salbutamol, Fenoterol oder Terbutalin) inhalativ, bei Bedarf auch subkutan oder intravenös. Zusätzlich kann Ipratropiumbromid (ein Anticholinergikum) oder Adrenalin inhalativ (mit Vernebler oder Inhalierhilfe) gegeben helfen. Die Gabe von Adrenalin oder Terbulatin ist auch intramuskulär möglich.
+Entzündungshemmung: Kortikosteroide (Methyl-Prednisolon oder Prednisolon) intravenös oder (Prednison) rektal.
+Eine weitere Bronchodilatation kann durch die intravenöse Verabreichung von Magnesiumsulfat erreicht werden.
+Bei ungenügendem Ansprechen auf obige Medikamente sollten zusätzlich Xanthine gegeben werden, wie z. B. Theophyllin intravenös oder eventuell das Narkotikum Ketamin.Ab den frühen 1970er Jahren kam in der Allgemeinmedizin in der Bundesrepublik Deutschland das Medikament Perphyllon intravenös und/oder in Tablettenform (Wirkstoffe Atropin, Etofyllin und Theophyllin; Injektionslösung zusätzlich Papaverin) zur akuten Behandlung zum Einsatz.
+
+
+=== Asthma und Sport ===
+Asthma und Sport schließen sich nicht aus, im Gegenteil ist Sport sogar der Genesung förderlich.
+
+
+== Medikamente mit potentiell asthmaverstärkender Wirkung ==
+Zu den Medikamenten, die bei Patienten mit Asthma zu schweren, mitunter lebensbedrohlichen Anfällen (Exazerbationen) führen können, gehören folgende Schmerzmittel: Acetylsalicylsäure (Aspirin), Paracetamol (extrem selten) und nichtsteroidale Antiphlogistika. Speziell der Einsatz von Betablockern ist bei Patienten mit Asthma manchmal kontraindiziert, da eine dadurch ausgelöste Bronchialverengung möglich ist. Dies gilt selbst für β1-selektive Rezeptorblocker und für die lokale Anwendung (etwa bei Augentropfen gegen ein Glaukom). Es stehen Alternativen aus anderen Medikamentenklassen zur Verfügung.
+
+
+== Siehe auch ==
+Asthma der Katzen
+
+
+== Literatur ==
+
+
+=== Leitlinien ===
+S3-Leitlinie Nationale Versorgungsleitlinie Asthma der 2020. In: AWMF online
+S2k-Leitlinie Rehabilitation von Patienten mit Asthma der Deutschen Gesellschaft für Pneumologie und Beatmungsmedizin (DGP). In: AWMF online (Stand 2010)
+S2-Leitlinie Stationäre Rehabilitation bei Asthma bronchiale der Deutschen Gesellschaft für Kinder- und Jugendmedizin e. V. (DGKJ). In: AWMF online (Stand 2007)
+S2k-Leitlinie Sozialmedizinische Beurteilung der Leistungsfähigkeit bei chronischer obststruktiver Lungenkrankheit (COPD) und Asthma bronchiale der Deutschen Gesellschaft für Sozialmedizin und Prävention (DGSMP). In: AWMF online (Stand 2011)
+
+
+=== Allgemein ===
+Dieter Ukena, Liat Fishman, Wilhelm-Bernhard Niebling: Asthma bronchiale – Diagnostik und Therapie im Erwachsenenalter. In: Deutsches Ärzteblatt. Band 105, Nr. 21. Deutscher Ärzte-Verlag, 23. Mai 2008, S. 385–394, doi:10.3238/arztebl.2008.0385 (aerzteblatt.de). 
+S. Papiris, A. Kotanidou u. a.: Clinical review: severe asthma. In: Critical care. Band 6, Nummer 1, Februar 2002, ISSN 1364-8535, S. 30–44, PMID 11940264, PMC 137395 (freier Volltext) (Review).
+Claus Bachert, Bernd Lange, Johann Christian Virchow: Asthma und allergische Rhinitis. Georg Thieme Verlag, 2005, ISBN 3-13-133991-8 (eingeschränkte Vorschau in der Google-Buchsuche)
+Franz Petermann: Asthma bronchiale. Hogrefe, 1999, ISBN 3-8017-1121-8.
+Harald Morr (Hrsg.): Erkrankung der Atmungsorgane. Urban und Schwarzenberg, München/ Wien/ Baltimore 1986, ISBN 3-541-11171-2.
+Hilmar Burchardi: Ätiologie und Pathophysiologie der akuten respiratorischen Insuffizienz (ARI). In: J. Kilian, H. Benzer, F. W. Ahnefeld (Hrsg.): Grundzüge der Beatmung. Springer, Berlin u. a. 1991, ISBN 3-540-53078-9, 2., unveränderte Aufl. ebenda 1994, ISBN 3-540-57904-4, S. 47–91; hier: S. 81–84.
+
+
+=== Geschichtliches und ältere Literatur ===
+Evert Dirk Baumann: De asthmate antiquo. In: Janus. Band 38, 1934, S. 139–162.
+Geschichtliches. In: Asthma bronchiale. Eine Darstellung therapeutischer Möglichkeiten. Hrsg. von der Pharmazeutischen Abteilung der Rhein-Chemie GmbH, Heidelberg 1959, S. 9–24.
+E. Stolkind: History of bronchial asthma. In: Janus. Band 37, 1933, S. 300–319.
+Joachim Frey: Asthma bronchiale (seu nervosum). In: Ludwig Heilmeyer (Hrsg.): Lehrbuch der Inneren Medizin. Springer-Verlag, Berlin/Göttingen/Heidelberg 1955; 2. Auflage ebenda 1961, S. 646–657.
+
+
+== Weblinks ==
+
+asthmanetresearch.org (Partner des National Heart, Lung, and Blood Institute https://www.nhlbi.nih.gov/)
+Asthma – Informationen bei Gesundheitsinformation.de (Online-Angebot des Instituts für Qualität und Wirtschaftlichkeit im Gesundheitswesen)
+spiegel.de, 24. Oktober 2018: Luftverschmutzung verursacht jährlich Millionen Asthma-Notfälle, doi:10.1289/EHP3766
+Studie zu Luftverschmutzung: Bis zu 33 Prozent weniger Asthmafälle bei hoher Luftreinheit. In: aerztezeitung.de. 12. August 2019, abgerufen am 18. August 2019. 
+Arzneimittelkommission der deutschen Ärzteschaft, versorgungsleitlinien.de: Patientenleitlinie "Asthma bronchiale"
+
+
+== Einzelnachweise ==

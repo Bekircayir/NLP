@@ -1,0 +1,90 @@
+Die Protothekose ist eine Infektionskrankheit, welche bei Menschen, Rindern, Hunden und anderen Spezies auftreten kann und durch Grünalgen aus der Gattung Prototheca ausgelöst wird. Diese Algen und ihre Verwandten aus der Gattung Helicosporidium sind innerhalb der Algen dahingehend besonders, da sie auch in Organismen Infektionen auslösen können, die keine Störung des Immunsystems aufweisen. Die beiden häufigsten Arten sind Prototheca wickerhamii und Prototheca zopfii. Beim Menschen wird die 1964 erstmals beschriebene Erkrankung meistens durch P. wickerhamii ausgelöst. Für Hunde sind beide Arten krankheitserregend. Die Algen kommen weltweit im Abwasser und in Böden vor; Infektionen sind aber trotz des relativ hohen Infektionsdrucks selten und können mit Defekten im Immunsystem zusammenhängen. Die Therapie ist nicht standardisiert, in der Literatur sind verschiedene Verfahrensweisen mit Antimykotika, chirurgischem Ausschneiden und Desinfektion beschrieben.
+
+
+== Prototheken ==
+
+Als Prototheken im Jahr 1894 erstmals isoliert wurden, wurden sie noch als Pilze betrachtet. Nachdem ihr taxonomischer Status lange umstritten war, betrachtet man Prototheken heute als im Laufe der Evolution durch Mutationen aus den einzelligen Grünalgen der Gattung Chlorella entstandene Gattung. Allerdings enthält die Zellwand von Chlorella Galaktose und Galaktosamin, während diese Substanzen bei Prototheca nicht vorkommen. Chlorellen enthalten Chlorophyll und betreiben damit Photosynthese, während Prototheken kein Chlorophyll enthalten und sich saprotroph, also von verfaulendem organischem Material ernähren.
+
+
+== Protothekose beim Menschen ==
+
+
+=== Pathogenese ===
+Über die Krankheitsentstehung der Protothekose ist nur wenig bekannt. Prototheken weisen im Allgemeinen nur eine geringe Virulenz auf, und Infektionen bleiben im Normalfall lokal begrenzt. Die Infektion erfolgt einerseits durch oberflächlichen Kontakt mit kontaminierten Substanzen; häufiger scheint jedoch eine Kontamination von Hautverletzungen mit Prototheken zu sein.
+Schwerere Formen einer Protothekose treten normalerweise nur bei Störungen des Immunsystems auf. Besonders die zelluläre Immunität scheint dabei eine wichtige Rolle zu spielen: Prototheken werden im gesunden Organismus durch Neutrophile Granulozyten (PMNs) phagozytiert und so unschädlich gemacht, wobei das Vorhandensein von IgG und hitzestabilem Opsonin für eine optimale Bekämpfung wichtig ist. Allerdings führen weder eine Neutropenie infolge von Krebs noch die meisten Fälle von AIDS normalerweise zu einem erhöhten Risiko für Protothekose. Man geht darum davon aus, dass schwerere Verlaufsformen der Protothekose mit qualitativen und quantitativen Mängeln in der Funktion der PMNs einhergehen.
+
+
+=== Epidemiologie ===
+Die Protothekose ist beim Menschen eine seltene Infektion und normalerweise nicht von Mensch zu Mensch übertragbar; eine Ansteckung erfolgt vielmehr durch in der Umwelt vorhandene Prototheken. Kommensalisch auf der Körperoberfläche lebende Prototheken können beim Vorliegen von prädisponierenden Faktoren eine opportunistische Infektion auslösen: Auch bei gesunden Menschen konnten Prototheken auf Haut und Fingernägeln sowie im Atem- und Verdauungstrakt nachgewiesen werden. Bei mehr als der Hälfte aller klinischen Fälle von Protothekose kann eine lokale oder systemische Immunschwäche als begünstigender Umstand nachgewiesen werden.Risikofaktoren für Protothekose sind ein geschwächtes Immunsystem im Zusammenhang mit der Anwendung von Kortikosteroiden oder Krebserkrankungen des blutbildenden Systems, Organtransplantationen und chirurgische Eingriffe im Allgemeinen, Diabetes mellitus und Alkoholabhängigkeit. Auch Krankheiten, die mit immunsuppressiven Medikamenten behandelt werden, erhöhen das Risiko einer Protothekose. Die Mehrheit der Patienten ist älter als 30 Jahre; Fälle bei Neugeborenen und Kindern kommen aber ebenfalls vor.Geographisch kommt Protothekose auf allen Kontinenten außer der Antarktis vor. Überdurchschnittlich häufig ist sie im Südwesten der USA und in ländlichen Regionen Taiwans. Arbeiter in Reisfeldern, Fischer, Bauern, Aquariumsangestellte und Personen, die Umgang mit rohen Meeresfrüchten haben, sind besonders exponiert.
+
+
+=== Klinik ===
+Protothekose wird in drei klinische Formen eingeteilt: Hautläsionen (Kutane Protothekose), Bursitis olecrani (Schleimbeutelentzündung am Ellenbogen) und körperweit gestreute oder systemische Infektionen. Unübliche Verlaufsformen sind daneben ebenfalls beschrieben, so etwa als Harnwegsinfektion, Kolpitis (Entzündung der weiblichen Geschlechtsorgane), Lungenentzündung und Hirnhautentzündung. Hautinfekte und Bursitis olecrani verlaufen normalerweise chronisch; akute systemische Verlaufsformen sind selten und treten nur in Patienten mit stark geschwächtem Immunsystem auf.
+
+
+==== Kutane Protothekose ====
+Die kutane Protothekose (Hautform) ist die häufigste beim Menschen vorkommende Form der Erkrankung und macht etwas mehr als die Hälfte aller Fälle aus. Sie kann im Zusammenhang mit Verletzungen der Haut und/oder Schleimhaut auftreten, kommt jedoch auch unabhängig von Verletzungen vor. Die Symptome entwickeln sich langsam und heilen normalerweise nicht spontan. Die Läsionen sind normalerweise ulzeriert (geschwürartig), eitrig und bilden Krusten, können aber auch in anderen Formen auftreten. Tritt eine Protothekose als Komplikation nach einem chirurgischen Eingriff auf, kann es zu Knötchenbildung, Synovitis (Gelenkentzündung) und chronisch nässenden Wunden kommen.Man geht von einer mehrere Wochen dauernden Inkubationszeit aus. Die Läsionen bleiben normalerweise örtlich begrenzt und breiten sich nur bei immungeschwächten Patienten weiter aus. Sie befinden sich vor allem an exponierten Orten, also an den Extremitäten und im Gesicht.
+
+
+==== Bursitis olecrani ====
+Die durch Prototheken hervorgerufene Bursitis olecrani ist eine Entzündung des hinten am Ellbogengelenk gelegenen Schleimbeutels, der Bursa subcutanea olecrani. Die Infektion ist normalerweise eine Folge von perforierenden (die Haut durchdringenden) Verletzungen, durch welche die Prototheken in den Schleimbeutel gelangen können. Die Symptome erscheinen mehrere Wochen nach der Verletzung und äußern sich durch einen geschwollenen, leicht verhärteten und schmerzhaften Schleimbeutel. Es sind auch Infektionen durch Kontamination einer bereits bestehenden Wunde und Infektionen ohne vorangegangene perforierende Verletzungen beschrieben.
+
+
+==== Systemische Protothekose ====
+Die systemische oder disseminierte Protothekose tritt vor allem bei immungeschwächten Patienten auf. Weltweit sind 23 Fälle beschrieben; bei 21 davon handelte es sich beim Erreger um P. wickerhamii. Am häufigsten betroffene Strukturen sind Haut und Unterhaut, Darm, Bauchfell, Blut und Milz. Die systemische Protothekose tritt am häufigsten als Komplikation von Krebs, Organtransplantationen oder AIDS auf. In drei der beschriebenen Fälle war die Prototheka-Peritonitis die Folge einer Katheterisation. Prototheka-Sepsis als Komplikation eines zentralen Venenkatheters ist ebenfalls beschrieben. Häufig finden sich in betroffenen Patienten aufgrund ihrer Immunschwäche neben der Protothekose auch andere Infektionen mit opportunistischen Erregern.
+
+
+=== Diagnose ===
+Protothekose wird normalerweise eher spät erkannt, da sie als Differentialdiagnose von Infektionen keine hohe Priorität genießt. Typischerweise kommt ein Verdacht auf Protothekose erst auf, wenn Patienten über längere Zeit erfolglos gegen andere Erreger behandelt wurden. Die Diagnose basiert meist auf der morphologischen Identifikation der Prototheken unter dem Mikroskop, wobei verschiedene Färbungen zum Einsatz kommen können. Die Untersuchung kann direkt mit Wundsekret und/oder Gewebeproben durchgeführt werden; zusätzlich ist auch eine mikrobiologische Kultur empfehlenswert. Daneben sind molekularbiologische Methoden zur Diagnostik beschrieben worden. Serologische Untersuchungen scheinen zur Diagnose beim Menschen hingegen nicht geeignet zu sein.
+
+
+==== Mikroskopie ====
+Prototheken sind kugelförmig bis ellipsoid, besitzen eine stark ausgeprägte Zellwand und enthalten mehrere dickwandige Autosporen. Der Durchmesser variiert zwischen 8,1 × 24 μm und 10,8 × 26,9 μm; die kugelförmigen Autosporen haben einen Durchmesser von 9 bis 11 μm. Im Gegensatz zu Hefen bilden Prototheken keine Knospen. Sie lassen sich mit der HE-Färbung nur schlecht färben, sind aber mit Gridley-Färbung, Grocott-Gömöri-Färbung oder PAS-Reaktion einfach anfärbbar. Die Prototheken können morphologisch mit mehreren Pilzen verwechselt werden, unter anderem mit Blastomyces dermatitidis, Cryptococcus neoformans und Pneumocystis jirovecii.
+
+		
+		
+In Gewebeschnitten können neben großen Mengen von Prototheken auch eine Reihe von pathologischen Reaktionen beobachtet werden. Mögliche Reaktionen reichen von einer granulomatösen Entzündung mit ausgeprägter Gewebenekrose bis hin zu völliger Abwesenheit entzündlicher Reaktionen trotz Nachweis von Prototheken. Bei kutaner Protothekose befinden sich die Organismen normalerweise in der mittleren und papillären Lederhaut. Disseminierte Protothekosen führen zu ausgeprägten eosinophilen Infiltraten und Fibrose der befallenen Organe.
+
+
+==== Mikrobiologie ====
+Die mikrobiologische Identifikation von Prototheken beruht auf dem Aussehen der Kolonien, mikroskopischer Identifikation sowie mehreren charakteristischen Stoffwechseleigenschaften in der Kultur. Prototheken sind relativ anspruchslos und lassen sich auf diversen routinemäßig verfügbaren Nährmedien ohne weiteres züchten. Allerdings sind viele der in der Pilzkultur verbreiteten selektiven Nährmedien nicht zur Zucht geeignet, weil das in diesen enthaltene Cycloheximid auch die Vermehrung der Prototheken hemmt. Zur Zucht von Prototheken geeignete Medien sind Sabouraud-Dextrose-Agar, Blutagar, Rinderbouillon und Hirn-Herz-Agar. Da Proben neben Prototheken häufig auch andere Mikroorganismen enthalten, werden zur Selektion 5-Fluorcytosin und Kaliumhydrogenphthalat beigegeben, die das Wachstum der meisten Bakterien und Pilze hemmen. Von Hefen können Prototheken durch die Beigabe von Ribostamycin unterschieden werden, welches das Wachstum der Prototheken, nicht aber von Hefen hemmt.Die Inkubation erfolgt bei 30 °C für 72 Stunden. Für langsam wachsende Prototheken kann eine Inkubation während sieben Tagen bei 25 °C notwendig sein. Das Temperaturoptimum liegt zwischen 25 und 37 °C, und Kolonien sind normalerweise bereits nach 48 Stunden sichtbar. Makroskopisch erscheinen sie weich, feucht, hefeartig, weiß oder leicht gelblich. Die Organismen wachsen entweder aerob oder mikroaerophil.P. wickerhamii und P. zopfii, die beiden wichtigsten Erreger der Protothekose, können aufgrund mehrerer Eigenschaften unterschieden werden, die in der folgenden Tabelle beschrieben sind:
+
+
+==== Molekularbiologie ====
+Zur Diagnose einer Protothekose sind mikroskopische und mikrobiologische Untersuchungen normalerweise ausreichend. Zusätzlich können aber auch molekularbiologische Methoden verwendet werden: Die Identifikation von P. wickerhamii ist durch Fluoreszenz-in-situ-Hybridisierung (FISH) anhand von rRNA durch entsprechende DNA-Sonden möglich, da die Zellwände der Prototheken durch eine Vorbehandlung mit CTAB für diese Sonden durchlässig gemacht werden können. Ebenfalls ist eine Identifikation von P. zopfii mittels PCR der rDNA möglich.
+
+
+=== Therapie ===
+
+
+==== Resistenzlage in vitro ====
+Prototheken weisen in vitro einige natürliche Resistenzen gegen Antibiotika und Antimykotika auf und können im Laufe der Therapie auch neue Resistenzen erwerben. Die natürliche Resistenzlage ist in der folgenden Tabelle dargestellt. Für P. zopfii wurde zusätzlich das Vorhandensein einer β-Lactamase nachgewiesen.
+*Tetracyclin und Amphotericin B zeigen eine synergistische Wirkung gegen Prototheken.
+Die Empfindlichkeit der Prototheken auf Polyene und Azole wird dadurch erklärt, dass in ihren Zellmembranen Ergosterin enthalten ist. Ein MHK-Test der Prototheken auf Resistenzen ist in der Praxis normalerweise nicht notwendig, weil die dadurch erhaltenen Resultate nur bedingt mit dem klinischen Therapieerfolg korrelieren. Resistenztests sind daher nur bei erfolglosen Therapieversuchen empfehlenswert.
+
+
+==== Therapieprotokolle ====
+Es existieren weder standardisierte Therapieempfehlungen noch konsistente klinische Therapieresultate für Protothekose. Auch klinische Studien, die verschiedene Therapien miteinander vergleichen, sind nicht vorhanden. In der Praxis werden chirurgische mit medikamentösen Therapieformen kombiniert. Protothekose heilt nicht spontan aus, und ein Therapieversagen ist nicht selten.Bei kutaner Protothekose umfassen die beschriebenen erfolgreichen Therapien ein vollständiges chirurgisches Ausschneiden der befallenen Hautstelle, die örtliche Anwendung von Amphotericin B und verschiedenen Azolen, die örtliche Anwendung von Amphotericin B in Kombination mit systemischer Gabe von Tetracyclinen, die systemische Gabe von Amphotericin B mit und ohne Ausschneiden und die systemische Gabe von Tetracyclinen. Therapieversager sind für Tetracyclin, Itroconazol, Fluconazol, Fluorcytosin und Ketoconazol beschrieben; inkonsistente Therapieerfolge für die systemische Gabe von Penicillin, Griseofulvin und Emetin sowie für örtliche Anwendungen von Desinfektionsmitteln wie Wasserstoffperoxid, Chlorhexidin, Kaliumpermanganat, Kupfersulfat, Pikrinsäure, Ammoniumverbindungen und Kaliumiodid. Die Therapiedauer variiert zwischen wenigen Tagen und mehreren Wochen.Bei der durch Prototheken verursachten Bursitis olecrani besteht die Therapie im chirurgischen Entfernen des infizierten Schleimbeutels. Alternativ kann eine Drainage in Kombination mit der Instillation von Amphotericin B in den Schleimbeutel in Betracht gezogen werden. Eine systemische Behandlung mit Itraconazol über zwei Monate wird ebenfalls empfohlen.Für disseminierte Protothekosen sind systemische Behandlungen mit Amphotericin B, einer Kombination aus Amphotericin B und Doxycyclin sowie Fluconazol beschrieben. Bauchfellentzündung durch Prototheken wurde durch Gaben von Amphotericin B direkt intraperitoneal behandelt. Das Ausschneiden der ursprünglichen Infektionsstelle, bzw. das Entfernen von Fremdkörpern in Kombination mit systemischer Medikamentengabe wird als vorsichtigste Therapiemethode empfohlen. Die Therapie mit Azolen wird kritisch gesehen, da die meisten Therapieversager mit dieser Medikamentengruppe auftraten; die Anwendung von Amphotericin B scheint daher sinnvoller zu sein. Die beschriebene Therapiedauer variiert sehr stark und reicht von fünf Tagen bis zu acht Monaten; als Extremfall ist eine Therapie einer durch Prototheken verursachten Hirnhautentzündung mit Amphotericin B und Azolen über sechs Jahre beschrieben, die aber die Erreger nicht eliminieren konnte.
+
+
+== Protothekosen in der Tiermedizin ==
+
+
+=== Hausrind ===
+Beim Hausrind führen Infektionen mit Prototheken zu Darm- und Euterentzündungen (Mastitis). Die Prototheken-Mastitis tritt weltweit auf; die meisten Fälle von infizierten Herden werden aus Deutschland, den USA und Brasilien gemeldet. Die Prototheken-Mastitis ist eine schwer verlaufende Euterentzündung, die medikamentell nicht behandelbar ist. Die Infektion wird offenbar über subklinisch erkrankte Ausscheider in einem Bestand aufrechterhalten. Eine Bestandsanierung kann über die Identifizierung und Keulung befallener Tiere erfolgen. Zur Diagnose sind serologische Untersuchungen auf Antikörper gegen Prototheken hilfreich; der Nachweis von P. zopfii kann auch durch PCR erbracht werden. Prototheken werden durch Pasteurisation der Milch nicht sicher abgetötet und stellen darum ein potentielles Zoonoserisiko dar.
+
+
+=== Haushund ===
+
+Bei Haushunden wurden einige Einzelfälle mit kutaner, systemischer und disseminierter Protothekose beschrieben. Die Erstbeschreibung erfolgte 1969. Es besteht eine Prädisposition für Collies und weibliche Tiere. Infektionen mit Prototheken führen entweder zu einer Hautinfektion oder häufiger zu einer disseminierten Protothekose. Bei dieser dringen die Algen durch Maul oder Nase in den Körper ein und führen zu einer Darminfektion. Von dort streuen sie in Augen, Gehirn und Nieren. Die Symptome der Erkrankung sind Durchfall, Gewichtsverlust, Schwäche, Augenentzündung, Netzhautablösung, Koordinationsstörungen und Krampfanfälle.Hunde mit akuter Blindheit und Durchfall, die eine exsudative Netzhautablösung entwickeln, sollten auf Protothekose untersucht werden. Die Diagnose erfolgt durch Kultur oder direkt durch den mikroskopischen Nachweis der Algen in einer Biopsie oder auch im Liquor cerebrospinalis, Glaskörper oder Urin. Die Behandlung der disseminierten Protothekose gestaltet sich schwierig, aber Antimykotika haben sich in einigen Fällen als wirksam erwiesen. Die Prognose der kutanen Protothekose ist mäßig und hängt von der Möglichkeit zur chirurgischen Entfernung der befallenen Haut ab. Die Prognose der disseminierten Form ist schlecht, was möglicherweise auch damit zusammenhängt, dass die Krankheit meist erst spät erkannt und behandelt wird.
+
+
+=== Weitere Tierarten ===
+Protothekose kommt sehr selten bei der Hauskatze vor. Der erste Fall wurde 1976 beschrieben; die betroffene Katze wies eine fluktuierende Masse am Hinterbein auf. Bei den wenigen anderen beschriebenen Fällen handelte es sich um Hautinfektionen.Bei Atlantischen Lachsen ist in einer Fischzuchtanlage eine Infektion von Jungfischen durch Prototheca salmonis beschrieben, die sich klinisch in einer Niereninfektion äußert und bei der histologisch eine systemische Infektion nachgewiesen werden konnte.
+
+
+== Weblinks ==
+Bilder einer Protothekose beim Hund
+
+
+== Einzelnachweise ==

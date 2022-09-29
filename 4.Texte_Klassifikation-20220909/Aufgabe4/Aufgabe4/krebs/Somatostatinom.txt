@@ -1,0 +1,46 @@
+Ein Somatostatinom ist ein bösartiger, das Hormon Somatostatin produzierender Tumor der endokrinen Bauchspeicheldrüse (Pankreas) oder des Zwölffingerdarms (Duodenum). Das Somatostatinom gehört zu den Pankreastumoren mit endokrinem Aufbau (Inselzellturmoren), die wiederum zu den gastro-entero-pankreatischen neuroendokrinen Tumoren gerechnet werden.
+
+
+== Beschreibung ==
+Als funktionell aktiver Tumor schüttet ein Somatostatinom unkontrolliert das Hormon Somatostatin aus. Diese Ausschüttung bewirkt eine Inhibierung der Produktion anderer endogener Hormone, wie beispielsweise Insulin, Glucagon, Wachstumshormone, Gastrin, Sekretin, Cholecystokinin (CCK) und vasoaktives intestinales Peptid (VIP). Die betroffenen Patienten leiden daher zu 95 % an Diabetes mellitus. Der Diabetes kann dabei die Bandbreite von einer milden Form der Glukose-Intoleranz bis zu einer ernsten Ketoazidose haben.Das Somatostatinom betrifft in der Häufigkeit die Bauchspeicheldrüse und den Zwölffingerdarm etwa gleich oft.
+In den meisten Fällen haben sich bei der ersten Diagnose des Tumors bereits Metastasen gebildet.
+
+
+== Prävalenz und Inzidenz ==
+Ein Somatostatinom ist eine sehr seltene Krebserkrankung. Die Prävalenz liegt weit unter 1:100.000. In den USA beträgt die Inzidenz 1:40 Millionen.In 93 % der beschriebenen Fälle traten die Somatostatinome als einzelne Ereignisse sporadisch auf. In 7 % der Fälle besteht eine Assoziation zu einer Multiplen endokrinen Neoplasie Typ 1 (MEN 1).Männer und Frauen sind gleich häufig betroffen. Die Krankheit tritt meist im vierten bis sechsten Lebensjahrzehnt auf.
+
+
+== Diagnose ==
+Patienten mit einem Somatostatinom haben erheblich erhöhte Somatostatin-Werte im Blut. Der normale Wert bei gesunden Menschen liegt bei unter 100 pg/ml, während er bei Patienten mit einem Somatostatinom im Bereich oberhalb von 1 ng/ml liegt. Da die Erkrankung ausgesprochen selten ist, kann der entsprechende Nachweis nur in wenigen Kliniken erfolgen.
+Mit bildgebenden Verfahren wie Computertomographie (CT), Magnetresonanztomographie (MRT) und endoskopischer Sonographie (Ultraschall-Untersuchung) kann ein Somatostatinom gut diagnostiziert werden.
+Speziell zur Lokalisierung von Metastasen hat sich die Somatostatin-Rezeptor-Szintigraphie bewährt.
+
+
+== Therapie ==
+Die chirurgische Entfernung des Tumors ist das Mittel der Wahl und bietet die Chance auf eine vollständige Heilung. An Chemotherapeutika haben sich 5-FU und Streptozocin bewährt. Daneben erfolgt meist eine adjuvante Diabetestherapie.
+
+
+== Prognose ==
+Die Prognose bei einem Somatostatinom ist relativ günstig. Die Fünf-Jahres-Überlebensrate liegt bei Patienten mit Metastasen bei 30 bis 60 %. Bei Patienten ohne Metastasen liegt sie bei nahezu 100 %.
+
+
+== Erstbeschreibung ==
+Ganda und Larsson beschrieben 1977 unabhängig voneinander die beiden ersten Fälle eines Somatostatinoms. Gandas Patientin war 46 Jahre alt und litt seit acht Jahren an Diabetes mellitus. Nach der operativen Entfernung des Tumors stellte sich bei ihr wieder ein normaler Blutzuckerspiegel (Euglykämie) ein.Zwei Jahre später beschrieb Krejs das Somatostatinom umfassend in Morphologie und Biochemie.
+
+
+== Einzelnachweise ==
+
+
+== Literatur ==
+U. Plöckinger, B. Wiedenmann: Neuroendokrine Tumoren des Gastrointestinaltrakts. In: Z Gastroenterol. 42/2004, S. 517–526.
+W. Varikatt u. a.: Somatostatinoma: collision with neurofibroma and ultrastructural features. In: Histology and histopathology. 21/2006, S. 1171–1180. PMID 16874660
+G. Guercioni u. a.: Incidental small ampullary somatostatinoma treated with ampullectomy 2 years after diagnosis. In: Digestive diseases and sciences. 51/2006, S. 1767–1772. PMID 16967313
+K. U. Juergens u. a.: Duodenal somatostatinoma and gastrointestinal stromal tumor associated with neurofibromatosis type 1: diagnosis with PET/CT. In: American journal of roentgenology. 187/2006, S. 233–234. PMID 16861519
+G. Galli u. a.: Characterization of the functional and growth properties of long-term cell cultures established from a human somatostatinoma. In: Endocrine-Related Cancer 13/2006, S. 79–93. PMID 16601281
+
+
+== Weblinks ==
+SOMATOSTATINOM GEP-Tumorzentrum Universität Düsseldorf
+National Library of Medicine – Medical Subject Headings (engl.)
+Diseases Database (engl.)
+Neuroendokrine Tumoren (NET)

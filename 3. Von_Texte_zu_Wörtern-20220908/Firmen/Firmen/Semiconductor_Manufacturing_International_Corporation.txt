@@ -1,0 +1,9 @@
+SMIC (Semiconductor Manufacturing International Corporation) ist ein chinesischer Halbleiterhersteller und wurde im Jahr 2000 mit Unterstützung der chinesischen Regierung gegründet, um die Möglichkeit zur Produktion von modernen Halbleitern im eigenen Land zu schaffen.
+Seit 2004 notiert SMIC an der Börse New York (Kürzel SMI), und der Börse Hong Kong (Nr. 0981); angeblich besitzt der chinesische Staat weiterhin entscheidenden Einfluss.
+Das Unternehmen produziert als Foundry ICs mit Strukturbreiten von 0,35 Mikrometern bis 45 Nanometern (Letzteres in Lizenz von IBM) für andere Unternehmen ohne eigene Fertigungskapazitäten (fabless). SMIC ist der fünftgrößte Waferzulieferer mit einem Umsatz von 2, 229 Mrd. $ und einem Marktanteil von 4,6 % (Stand: 2015).
+Kunden für DDR-SDRAM sind z. B. Elpida Memory und früher Qimonda. Daneben gehören auch Solarzellen zum Produktangebot.
+Der Hauptsitz und drei Fabriken, die 200 mm- Wafer verarbeiten können, befinden sich in Shanghai, eine weitere in Tianjin. Die modernste Fabrik für 300 mm- Wafer steht in Peking, eine weitere in Wuhan fertigt seit 2008 Flash-Speicher für Spansion. Marketing- und Kundendienstniederlassungen finden sich in den Vereinigten Staaten von Amerika, Japan und Italien.
+Im Juni 2016 wurde die Übernahme eines 70 %-Anteils von Specialty Foundry LFoundry S.r.l. in Avezzano, einer Tochter von LFoundry, angekündigt.
+
+
+== Einzelnachweise ==

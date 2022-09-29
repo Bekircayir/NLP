@@ -1,0 +1,31 @@
+Ein Bronchodilatator (oder Broncholytikum, Bronchospasmolytikum) ist ein Wirkstoff, der den Tonus der Bronchialmuskulatur senkt und damit eine Weitung der Bronchien bewirkt. Bronchodilatatoren werden typischerweise als Arzneimittel zur Behandlung des Asthma bronchiale und der chronisch obstruktiven Lungenerkrankung (COPD) eingesetzt.
+
+
+== Bronchodilatation ==
+Bronchodilatation bezeichnet die Erweiterung von verengten Bronchien (Erschlaffung der bronchialen Muskulatur).
+Eine Aktivierung des Sympathikus steigert Adrenalin- und Katecholaminspiegel im Blut und dies führt an der Lunge zu einer Erweiterung der Luftwege. Zu einer medikamentösen Bronchodilatation kann es auf verschiedenen Wegen kommen. In der Medizin werden Betasympathikomimetika, Parasympathikolytika und Theophylline zur Erweiterung der Bronchien eingesetzt. Auch können Stimulantien (Doping) wie Amphetamine, Ephedrin oder Koffein in die gleiche Richtung wirken. Ein indirekter Bronchodilatator ist Cortisonspray. Es führt zur Reduktion der entzündlichen Schwellung der Bronchien und hilft damit bei der Bronchodilatation. Die Medikamente, die eine Bronchodilatation bewirken, haben in höherer Dosis Nebenwirkungen, wie beispielsweise auf das Herzkreislaufsystem.
+
+
+== Wirkmechanismus ==
+β2-Rezeptor → Heterotrimeres Gs-Protein → Adenylatcyclase → cAMP↑ → Proteinkinase A → Phosphorylierung von (Ca2+) 4 -Calmodulin → Hemmung (verminderte Bindung und Aktivierung) der Myosin-Leichtketten-Kinase.
+Die Bronchodilatation führt zu einer verbesserten Sauerstoffaufnahme und erleichterten Schleimentfernung.
+
+
+== Wirkstoffgruppen ==
+Pharmakologisch werden drei Wirkstoffgruppen von Bronchodilatatoren unterschieden:
+
+
+=== β-Adrenozeptoragonisten ===
+Die Stimulation des β2-Adrenozeptors durch β2-Sympathomimetika führt zur Entspannung der Bronchialmuskulatur und löst einen Bronchospasmus. Vertreter dieser Substanzgruppe sind beispielsweise Salbutamol, Salmeterol, Terbutalin, Fenoterol, Reproterol, Clenbuterol oder Formoterol.
+
+
+=== Theophyllin ===
+Theophyllin ist ein Xanthinderivat, dessen Wirkmechanismus noch nicht vollständig geklärt ist. Zum einen hemmt es in hohen Dosen das Enzym Phosphodiesterase, wodurch die Konzentration des second Messenger cAMP in der bronchialen Muskelzelle erhöht wird. Zum anderen blockiert Theophyllin die Adenosinrezeptoren, die sonst eine Verengung der Bronchien und die Ausschüttung von Histamin bewirken.
+
+
+=== Muskarinrezeptorantagonisten ===
+Parasympatholytika (Anticholinergika) verhindern die Bindung des Neurotransmitters Acetylcholin an den Muskarinischen Acetylcholinrezeptor. Kurz wirksam ist Ipratropiumbromid, lang wirksam sind Tiotropiumbromid, Glycopyrroniumbromid, Aclidiniumbromid und Umeclidiniumbromid.
+
+
+== Literatur ==
+Ernst Mutschler u. a.: Arzneimittelwirkungen. 8. Auflage. Wissenschaftliche Verlagsgesellschaft. Stuttgart 2001. ISBN 3-8047-1763-2

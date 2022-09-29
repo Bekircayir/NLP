@@ -1,0 +1,105 @@
+Als akutes Lungenversagen, auch englisch Acute Respiratory Distress Syndrome (ARDS) genannt, oder akutes Atemnotsyndrom wird die massive Reaktion der Lunge auf verschiedene schädigende Faktoren bezeichnet; unabhängig davon, ob die daraus resultierenden pulmonalen Entzündungsmechanismen primär pulmonal oder systemisch ausgelöst werden. Dem ARDS muss eine identifizierbare, nichtkardiale Ursache zugrunde liegen.Synonyme Bezeichnungen sind Atemnotsyndrom des Erwachsenen (inzwischen veraltet; englisch adult respiratory distress syndrome), akutes progressives Lungenversagen und Schocklunge.
+
+
+== Definition ==
+
+
+=== AECC-Definition (1994) ===
+
+1994 wurde die seit 1967 gebräuchliche Definition des ARDS auf der amerikanisch-europäischen Konsensuskonferenz präzisiert (AECC-Definition). Maßgeblich waren dabei folgende Kriterien:
+
+akuter Beginn
+beidseitige Infiltrate in posterior-anteriorer Röntgen-Thoraxaufnahme
+Lungenkapillarverschlussdruck (PCWP, Wedge-Druck) < 18 mmHg oder fehlender klinischer Anhalt auf einen erhöhten Druck im linken Vorhof bzw. echokardiografischer Ausschluss eines Linksherzversagens
+PaO2 (Sauerstoffpartialdruck im arteriellen Blut) / FiO2 (Sauerstoffanteil der Atemluft) ≤ 200 mmHg (Horovitz-Quotient)Bei einem Index von 200 bis 300 mmHg sprach man hingegen von einer ALI (Acute Lung Injury); ein PaO2 von 90 mmHg an 30 Prozent O2 (d. h. FiO2 = 0,3) entspricht beispielsweise einem Index von 300 mmHg.
+
+
+=== Berlin-Definition (2011) ===
+Da es seit Jahren einige Kritik an dieser Definition gegeben hatte, haben die European Society of Intensive Care Medicine, die American Thoracic Society und die Society of Critical Care Medicine in einem Konsensusverfahren eine neue Definition für das ARDS im Herbst 2011 in Berlin verabschiedet. Nach diesen Kriterien von 2011 wird nicht mehr zwischen ALI (Acute Lung Injury) und ARDS unterschieden. Die sogenannte Berlin-Definition des ARDS (benannt nach dem Ort des Zusammentreffens der Expertengruppe) legt fest:
+
+Timing: Auftreten innerhalb von einer Woche,
+Radiologie: Beidseitige Infiltrate im Röntgenbild der Lunge oder in der Computertomographie ohne andere sinnvolle Erklärung,
+Ursache: Respiratorisches Versagen ist nicht erklärt durch Herzversagen oder Hypervolämie,
+Oxygenierung: bei einem positiven endexspiratorischen Druck von > 5 cmH2O:
+mildes ARDS, wenn Horovitz-Quotient (siehe oben) von 201 bis 300 mmHg;
+moderates ARDS, wenn Horovitz-Quotient < 200 mmHg;
+schweres ARDS, wenn Horovitz-Quotient < 100 mmHg.Die aktuelle S3-Leitlinie Invasive Beatmung und Einsatz extrakorporaler Verfahren bei akuter respiratorischer Insuffizienz vom Dezember 2017 verwendet diese Definition.
+
+
+== Ursachen und Risikofaktoren ==
+
+
+=== Direkte Lungenschädigung ===
+Inhalation toxischer Gase wie beispielsweise Rauchgas (Inhalationstrauma, toxisches Lungenödem),
+Infektion der Lunge (Lungenentzündung), Aspiration von Mageninhalt, Lungenkontusion, Aspiration von Salz- oder Süßwasser (Beinahe-Ertrinken), Fettembolie, Fruchtwasserembolie, Inhalation von hyperbarem Sauerstoff.
+
+
+=== Indirekte Lungenschädigung ===
+Ursachen können unter anderem sein Sepsis, Bakteriämie, Endotoxinämie, schweres Trauma (insbesondere Polytrauma) mit Schock („Schocklunge“), Verbrennungen, (akute nekrotisierende) Pankreatitis, schwerer Verlauf der Malaria tropica, Medikamente und Immunsuppression (zum Beispiel nach Transplantation oder Bestrahlung). Weitere sekundäre Faktoren wie chronischer Alkoholmissbrauch, chronische Lungenkrankheiten und ein niedriger pH-Wert des Serums erhöhen die Gefahr einer ARDS-Entwicklung.
+Eine transfusionsassoziierte akute Lungeninsuffizienz (TRALI) ist vom ARDS klinisch nicht zu unterscheiden, wird jedoch vom ARDS abgegrenzt, da die Prognose bei der TRALI deutlich besser ist.Die angegebene Inzidenz des ARDS variiert je nach Studie zwischen zwei und 28 Fällen pro 100.000 Einwohnern und Jahr. Die Letalität ist zwar auf Grund von Fortschritten der unterstützenden Therapie in den letzten Jahrzehnten gesunken, sie beträgt jedoch immer noch etwa 40 Prozent.
+
+
+== Pathophysiologie ==
+
+Diese akute respiratorische Insuffizienz wird beim akuten Lungenversagen durch eine schwere diffuse Schädigung des Lungenparenchyms verursacht. Weitere Komponenten sind Perfusionsstörungen, Gerinnungsstörungen, Permeabilitätsstörungen der Alveolarwände, Lungenödem, Abbau von Surfactant und bindegewebiger Umbau von Lungengewebe.
+Funktionell ist das ARDS gekennzeichnet durch:
+
+eine arterielle Hypoxämie unterschiedlichen Schweregrades
+diffuse röntgenologische Infiltration
+verminderte Dehnbarkeit (Compliance) der Lunge und
+eine erniedrigte funktionelle Residualkapazität, d. h., nach dem „normalen“ Ausatmen bleibt weniger Luft in der Lunge zurück als gewöhnlich.Das ARDS verläuft für gewöhnlich in drei Phasen: der exsudativen Phase, der frühen und der späten proliferativen Phase.
+
+
+== Behandlung ==
+Patienten mit ARDS müssen oft im Rahmen der intensivmedizinischen Behandlung intubiert und kontrolliert beatmet werden, wobei differenzierte Beatmungsmuster mit PEEP eingesetzt werden. Die Beatmungsparameter werden situativ an den Zustand des Patienten angepasst. Da die maschinelle Beatmung selbst lungenschädigend wirkt, müssen die Grundsätze einer lungenprotektiven Beatmung berücksichtigt werden: kleine Atemzugvolumina, Vermeidung hoher Beatmungsdrücke und höhere Atemfrequenzen. Es sollte ein Verfahren gewählt werden, das auch Spontanatmung zulässt, beispielsweise BIPAP-Beatmung.
+Die Gabe von Kortikoiden kann nützlich sein. Hämodynamische Störungen und Veränderungen werden nach den Grundsätzen der Intensivbehandlung kontrolliert therapiert. Der wichtigste Teil des Behandlungskonzeptes ist jedoch, sofern möglich, die Ausschaltung der auslösenden Ursache (kausale Therapie, z. B. der Infektion).
+In schweren Fällen des ARDS wird die Behandlung mit der kinetischen Therapie unterstützt (Rotorest-Therapie oder eine Bauchlagerung des Patienten). Diese Lagerungstherapie sorgt dafür, dass das Atemgas (meist unter einer protektiven, kontrollierten Beatmung und der oben erwähnten „hohen“ Analgosedierung) sich in der Lunge homogen verteilt. Die Bauchlagerung kann in 135° und 180° Körperlage durchgeführt werden. So werden dorsobasale Atelektasen geöffnet und die Oxygenierung verbessert sich.
+
+
+=== Maschinelle Beatmung ===
+Um zusätzliche Lungenschäden durch künstliche Beatmung zu verringern, werden schonende Beatmungsformen empfohlen.
+
+
+==== Geringe Atemzugvolumina ====
+So sollte das Beatmungsgerät auf ein Atemzugvolumen von maximal 6 ml/kg ideales Körpergewicht eingestellt werden. Durch diese geringen Atemzugvolumina werden das regelmäßige Überdehnen und das anschließende Zusammenfallen der Lungenbläschen verringert. Das ideale Körpergewicht wird dabei mit folgenden Formeln berechnet:
+
+Eine 165 cm große Frau hat damit zum Beispiel ein ideales Körpergewicht von 57 kg und sollte mit einem Atemzugvolumen von maximal 342 ml beatmet werden. Bei einem 180 cm großen Mann wären das ideale Körpergewicht 75,1 kg und das maximale Atemzugvolumen 451 ml.
+Für diese Empfehlung besteht auf Grund wissenschaftlicher Studien eine hochwertige Beweislage. So konnte allein durch Reduzierung der Atemzugvolumina von 12 ml/kg auf 6 ml/kg die Sterblichkeit der Patienten in einer Studie mit 861 Patienten von 39,8 % auf 31 % gesenkt werden. In einer anderen Studie mit 485 Patienten konnte gezeigt werden, dass selbst ein leicht erhöhtes Atemzugvolumen von 8,5 ml/kg zu einer deutlichen Erhöhung der Sterblichkeit führte. Damit wird die strenge Empfehlung auf ein maximales Atemzugvolumen von 6 ml/kg weiter unterstützt, die sich so auch in den aktuellen Leitlinien (von 2017) für den deutschsprachigen Raum finden.
+
+
+==== PEEP ====
+Um das Zusammenfallen der Lungenbläschen in der druckarmen Ausatmungsphase zu verringern, sollte während der Beatmung ein PEEP eingestellt werden. Dabei muss die richtige PEEP-Höhe gewählt werden, da ein zu hoher PEEP zu Kreislaufproblemen durch Venenstau führen kann und auch die Lungenbläschen überbläht. Ein zu niedriger PEEP kann das Zusammenfallen der Lungenbläschen nicht ausreichend verhindern. Die ideale Höhe des PEEP kann durch Messmethoden eingegrenzt werden, indem man eine statische Druck-Volumen-Kurve bei der Beatmung des Patienten misst, oder durch langwieriges Ausprobieren verschiedener PEEP-Höhen und deren Wirkung auf die Blutgase. Als praktikabel und gleichwertig hat sich in einer Studie an 549 Patienten die Abschätzung des PEEP anhand der idealen Sauerstoffkonzentration der Einatemluft (FiO2) erwiesen. Die Höhe der Sauerstoffkonzentration in der Ausatemluft, welche eine ausreichende Sauerstoffversorgung des Körpers erlaubt, ist ein Faktor zur Abschätzung der Schwere des ARDS. Je höher diese Konzentration eingestellt worden ist, desto schwerer ist das ARDS. Daran kann auch die PEEP-Höhe abgeschätzt werden.
+
+
+==== HFOV ====
+Um die Belüftung der Lunge bei akutem Lungenversagen zu verbessern, wurde die High Frequency Oscillation Ventilation (HFOV), zu deutsch Hochfrequenzbeatmung entwickelt. Dabei wird ein zum Offenhalten der Alveolen ausreichend hoher Druck (oberhalb des PEEP) in den Atemwegen aufrechterhalten. Im Gegensatz zu anderen Beatmungsverfahren erfolgt die Beatmung bei der Hochfrequenzbeatmung nicht über Atemhübe, wobei Luft in die Lunge gepresst wird. Stattdessen herrscht im Beatmungssystem ein hoher Gasdurchfluss, der in Schwingungen (Oszillationen) versetzt wird. Dadurch strömt Luft durch die Lunge, ohne dass es durch Volumenänderungen zu Druckänderungen kommt. Der erhoffte Nutzen dieses Systems liegt in der Verminderung der Beatmungsassoziierten Lungenschäden durch die Vermeidung der Spitzendrücke, wie sie bei herkömmlicher Beatmung auftreten. In klinischen Studien und Meta-Analysen zeigte sich jedoch, dass die Hochfrequenzbeatmung in Bezug auf die Sterblichkeit nicht nur durchgängig nicht besser, sondern in manchen Studien sogar schlechter als die herkömmliche Lungenprotektive Beatmung war. Zudem zeigte sich in einigen Studien eine Verlängerung der Beatmungsdauer und des Intensiv-Aufenthaltes. Aus diesen Gründen raten die österreichischen, schweizerischen und deutschen Fachgesellschaften in ihrer 2017er-Leitlinie zur Behandlung des akuten Lungenversagens vom Einsatz der Hochfrequenzbeatmung ab.
+
+
+=== Bauchlagerung ===
+Bei Patienten, die in Rückenlage künstlich beatmet werden, werden die unten liegenden Lungenabschnitte durch das Gewicht zusammengequetscht und nehmen mit der Zeit zunehmend weniger am Gasaustausch teil, weil sie keine Luft erreicht. Dagegen bekommen die oben liegenden freien Lungenareale verhältnismäßig zu viel Luft und werden überdehnt. Die Bauchlagerung ist bei schwerem ARDS das Mittel der ersten Wahl, um die Lunge gleichmäßiger zu belüften und den Gasaustausch (Sauerstoffaufnahme und CO2-Abgabe) zu verbessern. Sie sollte früh durchgeführt werden, da sie die Überlebenschancen verbessern kann. Der Patient sollte 16 Stunden in Bauchlage verbleiben, ehe er erneut auf den Rücken gedreht wird. Die Maßnahme ist erfolgreicher und komplikationsärmer, wenn zusätzlich der Oberkörper hochgelagert wird. Nur wenn die Bauchlagerung zum Beispiel wegen Instabilität der Wirbelsäule oder Verletzungen von Bauch oder Gehirn nicht gefahrlos möglich ist, kann als weniger wirksame Alternative die kontinuierliche laterale Rotationstherapie durchgeführt werden. Dabei handelt es sich um spezielle Betten, die den Patienten automatisch von rechts nach links und wieder zurück schaukeln mit einer Kippung von bis zu 60°. Damit die Therapie effektiv ist, sollte die Rotation mit nur kurzen Unterbrechungen für mindestens 18–20 h am Tag erfolgen.
+
+
+=== Extrakorporale Membranoxygenierung ===
+
+Bei kritisch kranken Patienten wird häufig eine sogenannte Extrakorporale Membranoxygenierung (ECMO) als Rettungsmaßnahme durchgeführt. Dabei wird das Blut aus dem Körper ausgeleitet, der Gasaustausch findet an einer Maschine statt, und das jetzt sauerstoffreiche Blut wird zurück in den Blutkreislauf des Patienten geleitet. Wegen der Risiken des Verfahrens soll es nur bei schweren Verläufen eingesetzt werden, in denen trotz optimierter Beatmung und Lagerungsmaßnahmen keine ausreichende Sauerstoffsättigung im Blut erzielt werden kann (Horovitz-Quotient <80mmHg) und andere Faktoren (wie Flüssigkeitsüberladung, Pneumothorax) ausgeschlossen sind. Da der Gasaustausch der Lunge unterstützt werden soll, wird eine sogenannte veno-venöse ECMO empfohlen, das heißt, das Blut wird einer großen Vene entnommen und auch über eine Vene wieder eingeleitet. Eine veno-arterielle ECMO ist bei Herz-Kreislauf-Versagen sinnvoll.
+
+
+=== Medikamentöse Therapie ===
+Es gibt keine etablierte medikamentöse Therapie für das akute Lungenversagen. In der Praxis werden oft Kortikosteroide mit Wirkung wie das körpereigene Cortison (Z.B. Methylprednisolon) eingesetzt, um die Gewebeschädigung durch entzündliche Prozesse zu verringern. Eine schlüssige Datenlage gibt es dazu jedoch nicht. Andere Therapien, wie zum Beispiel die Verwendung von Beta-2-Sympathomimetika zur Erweiterung der Atemwege oder Surfactant, wurden erprobt, aber wegen negativer Effekte verworfen.
+
+
+== Siehe auch ==
+Atemnotsyndrom des Neugeborenen
+
+
+== Historische Literatur ==
+J. E. Rinaldo, R. M. Rogers: Adult respiratory distress syndrome. In: The New England Journal of Medicine. Band 306, 1982, S. 900 ff.
+R. Balk, R. C. Bone: The adult respiratory distress syndrome. In: Med. Clin. N. Americ. Band 67, 1983, S. 685 ff.
+P. G. M. Wallace, A. M. Spencer: Adult respiratory distress syndrome. In: British Journal of Medicine. Band 286, 1983, S. 1167 ff.
+
+
+== Weblinks ==
+ARDS Netzwerk Deutschland
+
+
+== Einzelnachweise ==

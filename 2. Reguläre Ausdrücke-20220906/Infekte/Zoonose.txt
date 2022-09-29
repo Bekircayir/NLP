@@ -1,0 +1,202 @@
+Zoonosen (von altgriechisch ζῶον zōon „Tier“ und νόσος nósos „Krankheit“) sind von Tier zu Mensch und von Mensch zu Tier übertragbare Infektionskrankheiten, die bei Wirbeltieren natürlicherweise vorkommen. Die Definition der Weltgesundheitsorganisation (WHO) von 1959 besagt einschränkend, dass Zoonosen Infektionskrankheiten sind, die auf natürliche Weise zwischen Mensch und anderen Wirbeltieren übertragen werden können.
+Ursprünglich verstand man unter Zoonosen lediglich Tierkrankheiten. Während des vorletzten Jahrhunderts fand ein Wandel in der Bedeutung der Bezeichnung statt. Neben den eigentlichen Tiererkrankungen verstand man Mitte des 19. Jahrhunderts unter Zoonosen nun auch Erkrankungen, die vom Tier auf den Menschen übertragen werden konnten. Beim heutigen Gebrauch der Bezeichnung Zoonose wird keine Unterscheidung hinsichtlich des Übertragungsweges gemacht. Zoonosen können also vom Menschen auf ein Tier (Anthropozoonose) oder vom Tier auf den Menschen (Zooanthroponose) übertragen werden.
+Es sind gegenwärtig etwa 200 Krankheiten bekannt, die sowohl bei einem Tier wie auch beim Menschen vorkommen und in beide Richtungen übertragen werden können. Die eigentlichen Erreger können dabei Prionen, Viren, Bakterien, Pilze, Protozoen, Helminthen oder Arthropoden sein.
+
+
+== Begriffsgeschichte ==
+Das Wort Zoonose wurde zum ersten Mal 1876 von Ernst Wagner in seinem Handbuch der allgemeinen Pathologie verwendet.
+
+
+== Einteilung der Zoonosen ==
+
+
+=== Nach Infektionsrichtung ===
+Man kann die verschiedenen Zoonosen aufgrund des Reservoirs in verschiedene Gruppen einteilen.
+
+Zooanthroponosen: Die Infektion wird ausschließlich vom Tier auf den Menschen übertragen. Ein Beispiel ist die Infektion mit Toxocara canis.
+Anthropozoonosen: Die Infektion wird beinahe ausschließlich vom Menschen auf Tiere übertragen. Ein Beispiel ist die Infektion mit Entamoeba histolytica.
+Amphixenosen: Die Infektion kommt sowohl beim Menschen als auch beim Tier vor und wird in beide Richtungen übertragen. Ein Beispiel ist die Infektion mit Taenia saginata.
+
+
+=== Lebenszyklus ===
+Eine Einteilung aufgrund des Lebenszyklus ist ebenfalls möglich.
+
+Direkte (ortho) Zoonose: Die Zoonose wird durch direkten Kontakt oder einen mechanischen Vektor von einem Wirbeltier auf ein anderes übertragen. Ein Beispiel ist die Krätze.
+Zyklozoonose: Bei der Zyklozoonose muss der Erreger zwischen verschiedenen Wirten wechseln. Sowohl Zwischen- als auch Endwirt sind Wirbeltiere. Diese Form der Zoonose wird ausschließlich bei parasitären Erregern beobachtet, die einen heteroxenen Zyklus haben.
+Metazoonose: Bei einer Metazoonose muss der Erreger zwischen verschiedenen Wirten wechseln. Der Zwischenwirt ist ein Wirbelloser.
+Saprozoonose: Saprozoonosen haben ein Reservoir außerhalb des Tierreichs. Als Beispiele für Reservoirs zählen Pflanzen, Erde und Wasser. Beispiele für Erreger die unter diese Klasse fallen sind Giardia intestinalis, Ancylostoma und Toxocara canis.
+Latente Zoonose: Übertragung der Zoonose durch zum Beispiel Fleisch. Der Erreger verursacht beim Zwischenwirt keine Symptome.
+
+
+== Zoonosen und Erreger von Zoonosen ==
+
+
+=== Virale Zoonosen bzw. deren Erreger ===
+Affenpocken
+Alkhurmavirus
+Barmah-Forest-Virus
+Büffelpocken
+California-Encephalitis-Virus
+Chikungunyafieber
+Colorado-Zeckenfieber
+Östliche Pferdeenzephalomyelitis
+Ebolafieber
+Encephalomyocarditis-Virus
+European Brown Hare Syndrom
+Gelbfiebervirus
+Hanta-Virose
+Herpes B
+Hendravirus
+Hepatitis-E-Virus
+Humane Rotaviren
+Japanische-Encephalitis-Virus
+Krim-Kongo-Hämorrhagisches-Fieber-Virus
+Kuhpocken
+Kyasanur-Forest virus
+La-Crosse-Virus
+Lassa-Virus
+Louping-Ill-Virus
+Lymphozytäre Choriomeningitis
+Marburgvirus
+Maul-und-Klauenseuche-Virus
+Menangle-Virus
+Murray-Valley-Encephalitis
+Newcastle-Disease-Virus
+Noroviren
+Orf-Virus
+Pseudokuhpocken
+Rifttalfieber-Virus
+Ross-River-Virus
+SARS
+Schweinegrippe
+Sindbisvirus
+St.-Louis-Enzephalitis-Virus
+Tahyna-Virus
+Tanapox-Virus
+Tick-borne encephalitis-Virus
+Tollwut
+Venezuelan-Equine-Encephalitis-Virus
+Vesicular stomatitis virus
+Vogelgrippe
+Wesselsbron-Virus
+West-Nil-Virus
+Western-Equine-Encephalomyelitis-VirusUnter den Hantavirosen sind Viren mit pulmonaler Symptomatik wie das Sin-Nombre-Virus, das Black-Creek-Canal-Virus, das Muleshoe-Virus, das Bayouvirus, das Andesvirus, das Bermejovirus, das Choclovirus, das Araraquaravirus, das Juquitibavirus, das Macielvirus und das Castelo-dos-Sonhos-Virus sowie Hantaviren mit renaler Symptomatik wie das Hantaan-Virus, das Dobrava-Virus, das Puumala-Virus und das Seoul-Virus.
+
+
+=== Prion-induzierte Zoonosen ===
+Transmissible spongiforme Enzephalopathie (TSE) einschließlich BSE der Rinder und Scrapie der Schafe
+
+
+=== Bakterielle Zoonosen ===
+Campylobacter-Enteritis
+Bartonellosen
+Borreliose
+Brucellose
+Leptospirose
+Listeriose
+Milzbrand
+Ornithose
+Pest
+Psittakose (Ornithose)
+Rotlauf
+Salmonellose
+Tuberkulose
+Tularämie
+Q-Fieber (Balkan-Grippe)
+
+
+=== Zoonotische Mykosen ===
+Trichophytie
+Microsporie
+
+
+=== Parasitäre Zoonosen ===
+
+
+==== Einzeller ====
+Babesiose
+Chagas-Krankheit
+Kryptosporidiose
+Encephalitozoonose
+Giardiasis
+Leishmaniose
+Malaria
+Sarcocystiose
+Toxoplasmose
+
+
+==== Würmer ====
+Anisakiasis
+Ancylostomiasis
+Askariasis
+Bethriozephalose
+Dirofilariose
+Dipylidiasis
+Echinokokkose
+Fasziolose
+Schistosomiasis
+Taeniasis
+Toxocariasis
+Trichinellose
+Zystizerkose
+
+
+==== Arthropoden ====
+Milben (Acari)
+Sarcoptes, Chorioptes, Cheyletiella und Psoroptes
+
+
+== Vorkommen ==
+Die Inzidenz und Prävalenz der meisten Zoonosen ist schwer einzuschätzen. Einerseits bleiben viele Zoonosen undiagnostiziert, andererseits besteht für die meisten Zoonosen keine Anzeigepflicht.
+Allgemein gültig ist jedoch, dass je frequenter (häufiger) und je direkter ein Kontakt mit Tieren besteht, desto größer auch die Gefahr sich mit einer Zoonose zu infizieren.
+Essgewohnheiten können einen Einfluss auf die Verbreitung von Zoonosen haben. So ist die Prävalenz von Toxoplasmose in England niedriger als in Frankreich, weil Engländer weniger rohes oder angebratenes Fleisch essen. Zystizerkose, ein Befall des Menschen mit Larven des Schweinebandwurms, kommt in jüdischen oder islamischen Bevölkerungsgruppen nicht vor, da diese kein Schweinefleisch essen.
+
+
+== Gefahren ==
+Die Salmonellose wird vor allem über Lebensmittel (Eier, Milchprodukte, Geflügelfleisch) übertragen. Sie ist die am häufigsten gemeldete Zoonose. Hohe Temperaturen erhöhen die Gefahr, dass sich Salmonellen in Lebensmitteln vermehren.
+In Deutschland kam es 2005 zu mehreren Todesfällen durch Tollwut. Eine Patientin infizierte sich in Indien mit der Tollwut. Die Symptome der Krankheit wurden damals dem Drogenkonsum der Patientin zugeschrieben und so kam es nach dem Tod der Patientin zu Infektionen bei mehreren Organtransplantierten, die Organe von der Patientin erhielten.
+Immuninkompetente Menschen (Menschen mit einem durch eine andere Erkrankung schon stark geschwächten oder gar vollständig funktionsunfähigen Immunsystem), wie zum Beispiel Aids-Patienten im fortgeschrittenen Stadium oder Menschen die sich einer Chemotherapie unterziehen, immunschwache Menschen, wie zum Beispiel alte Menschen oder Kinder, sind zusätzlich der Gefahr ausgesetzt, sich mit Erregern zu infizieren, die normalerweise bei Menschen nicht zu patenten Infektionen führen (die Phase einer Parasiteninfektion eines Organismus ab dem Zeitpunkt der abgeschlossenen Entwicklung der Eindringlinge zu erwachsenen, eierlegenden Parasiten und dem ersten Auftreten ihrer Fortpflanzungsprodukte in den Körperausscheidungen des Wirtes).
+Eine spezielle Gefahr besteht für Schwangere. Manche Zoonosen können eine Schädigung des Fötus verursachen. Auch Neugeborene haben noch ein relativ schwaches Immunsystem und können durch sonst harmlose Infektionen stark gefährdet werden. Noch stärker gefährdet sind besonders Kinder, die nicht gestillt werden, da gerade durch die Muttermilch auch die mütterlichen Abwehrkräfte auf den Säugling mit übertragen werden.
+Bestimmte Berufsgruppen, wie zum Beispiel Tierärzte oder Landwirte, haben ein erhöhtes Infektionsrisiko, da sie oft mit Vektoren zusammentreffen.
+
+
+== Prävention ==
+Jeder Mensch, der mit Tieren oder ihren Produkten in Berührung kommt, kann einer Infektion ausgesetzt werden. Dabei ist es unerheblich, ob der Mensch Tiere bejagt oder als Nutz- oder Haustiere domestiziert. Infektionen von Tieren auf Menschen werden durch die gleichen Maßnahmen vermieden wie zwischenmenschliche Infektionen. Bei der Tierhaltung gilt Hygiene (saubere Ställe und Gehege, Reinigen der Hände, Desinfektion, etwa durch Kochen und Bügeln von Textilien) als wichtigste Vorbeugungsmaßnahme. Auch zu inniger Kontakt zwischen Tier und Mensch kann eine Infektionsübertragung provozieren.
+Die Ausrottung gefährlicher Zoonosen, wie zum Beispiel der Tuberkulose, beziehungsweise die Bekämpfung von Erregern durch regelmäßige Behandlungen, wie zum Beispiel Impfungen oder Entwurmung, trägt dazu bei, das allgemeine Infektionsrisiko zu verringern.
+Auch gesund erscheinende Tiere können eine Quelle für Infektionen sein, die tödlich enden können. Ein Beispiel hierfür ist die Übertragung von Herpesviren durch Affen auf Menschen.
+
+
+== Seuchengefahr ==
+Die Gefahr von seuchenartigem Auftreten ist auch bei einigen Zoonosen gegeben. Ein Beispiel für eine solche Seuche ist die Pest. Viele andere Zoonosen sind in ihrem Seuchenpotential eher begrenzt, da sie den Kontakt zwischen Wirt oder Vektor und Mensch voraussetzen.
+Eine besondere Gefahr, die allerdings nicht mehr zu den Zoonosen zu zählen ist, ist ein Wirtswechsel. Findet ein Wirtswechsel statt, zum Beispiel vom Vogel oder der Katze auf den Menschen, können dadurch Pandemien ausgelöst werden. In jüngster Vergangenheit fand ein solcher Wechsel zwischen Katzen und Menschen in Asien statt. Ein für die Lungenkrankheit SARS verantwortliches Coronavirus, das SARS-assoziierte Coronavirus, mutierte und konnte von seinem natürlichen Wirt (einer Katzenart) plötzlich auf den Menschen übertragen werden und schlimmer noch, sich dort vermehren und durch den Menschen weiter übertragen werden.
+Ein Fall zu Beginn der Influenza-Pandemie 2009 in Kanada zeigte, dass sich Influenzaviren des Subtyps H1N1 potentiell auf natürliche Weise von Mensch zu Tier übertragen können. Die Canadian Food Inspection Agency stufte im Mai 2009 die Übertragung der Viren vom Mensch zum Schwein als höchstwahrscheinlich ein. In solchen Fällen einer Zoonose besteht die Gefahr, dass sich Viren im Erregerreservoir neu kombinieren und beispielsweise für Menschen gefährlichere Erreger bilden.
+
+
+=== Überwachung und Forschungsanstrengungen ===
+Die AIDS-Seuche, SARS aber auch die dadurch hervorgerufenen Erinnerungen an die Spanische Grippe haben das Interesse an der Erforschung von Zoonosen verstärkt. So regte die Europäische Union ein europaweites Netzwerk namens Med-Vet-Net von 300 Forschern an, das sich der Prävention und Kontrolle von Zoonosen widmet. Ein Schwerpunkt des Netzwerkes sind die Campylobacteriosen, Infektionen des Verdauungstraktes z. B. von Campylobacter jejuni, von denen bisher 100 Bakterienstämme identifiziert sind. Der Europäische Rat und das Europäische Parlament haben 2003 eine Liste A von acht Zoonosen definiert, die kontinuierlich überwacht werden. Dazu gehören Krankheiten die durch Bakterienstämme der Familien Campylobacter, Listeria, Salmonella, bestimmte Arten Escherichia coli, Mycobacterium bovis sowie die von Parasiten hervorgerufenen Trichinellose und Echinokokkose. In einer Liste B wurden Zoonosen definiert, bei der die Überwachung beginnt sowie ein Fall identifiziert ist. Dazu gehören Tollwut, West-Nil-Fieber und Vogelgrippe.
+
+
+== Literatur ==
+Pedro N. Acha, Boris Szyfres: Zoonoses and Communicable Diseases Common to Man and Animals. Volume 1: Bacterioses and Mycoses. 3rd ed., 2nd print.  PAHO Pan American Health Organization, Washington DC 2003, ISBN 92-75-11580-X
+Pedro N. Acha, Boris Szyfres: Zoonoses and Communicable Diseases Common to Man and Animals. Volume 2: Chlamydioses, Rickettsioses, and Viroses. 3rd ed. PAHO Pan American Health Organization, Washington DC 2003, ISBN 92-75-11992-9
+Pedro N. Acha, Boris Szyfres: Zoonoses and Communicable Diseases Common to Man and Animals. Volume 3: Parasitoses. 3rd ed. PAHO Pan American Health Organization, Washington DC 2003, ISBN 92-75-11993-7
+P. Kimmig, T. Schwarz, H. G. Schiefer, W. Slenczka, H. Zahner: Zoonosen. Von Tier zu Mensch übertragbare Infektionskrankheiten. Mit CD-ROM. Hrsg.: Rolf Bauerfeind. 4. Auflage. Deutscher Ärzte-Verlag, Köln 2013, ISBN 978-3-7691-1293-1. 
+Carolin Anna Maria Bumann: Nachweis lebensmittelhygienisch relevanter bakterieller Zoonoseerreger bei kleinen Wiederkäuern aus der Schweiz. LMU, München 2010, DNB 1007628111 (202 S., Volltext [PDF; 1000 kB] Dissertation, Universität München, 2010). 
+Michael R. Conover & Rosanna M. Vail: Human Diseases from Wildlife. CRC Press, 2015. ISBN 978-1-4665-6214-1 (Print), ISBN 978-1-4665-6215-8 (eBook)
+Józef Parnas: Menschliche Infektionskrankheiten tierischer Herkunft für Ärzte und Tierärzte. 3 Bände, Kopenhagen 1975.
+Manfred Vasold: Zoonosen. In: Werner E. Gerabek, Bernhard D. Haage, Gundolf Keil, Wolfgang Wegner (Hrsg.): Enzyklopädie Medizingeschichte. De Gruyter, Berlin /  New York 2005, ISBN 3-11-015714-4, S. 1532–1534.
+
+
+== Weblinks ==
+
+Nationale Forschungsplattform für Zoonosen (vom Bundesministerium für Bildung und Forschung (BMBF) gefördertes Informations- und Servicenetzwerk für alle in Deutschland aktiven Arbeitsgruppen im Bereich der Zoonosenforschung)
+FBI-Zoo (Food-Borne Zoonotic Infections of Humans) Forschungsverbund, der sich mit lebensmittelbedingten Zoonosen beschäftigt
+Zoonosen – zunehmende Bedrohung des Menschen auf der Website von Hans Gerd Schiefer
+Nina Weber: Gefahr durch Zoonosen: Der Killer, der aus dem Stall kommt. Spiegel online, 5. Juli 2012
+Zoonosenberichterstattung durch das Bundesinstitut für Risikobewertung (BfR) Zoonosenberichterstattung durch das Bundesinstitut für Risikobewertung (BfR)
+Med-Vet-Net – Ein Forschungs- und Überwachungsnetzwerk der Europäischen Union für Zoonosen
+Publikationsliste der CDC zum Thema Zoonosen (englisch)
+Mapping of poverty and likely zoonoses hotspots.  International Livestock Research Institute (ILRI), Zoonoses Project 4. Report to Department for International Development, UK (englisch). cgspace.cgiar.org (PDF; 4,3 MB)
+
+
+== Einzelnachweise ==

@@ -1,0 +1,93 @@
+Die Mastitis (syn. Mastadenitis) oder Brustdrüsenentzündung ist eine meist bakterielle Entzündung der weiblichen, selten der männlichen Brustdrüse bzw. Milchdrüse (griech. Mastos). Eine Brustentzündung findet sich meist bei stillenden Müttern (Mastitis puerperalis), häufig etwa in der zweiten Woche nach der Geburt. Eine Mastitis außerhalb des Wochenbettes ist selten (sog. Mastitis non puerperalis). Bei einer Mastitis ist umgehend ärztliche Hilfe erforderlich, damit die Ursache der Entzündung festgestellt und ggf. eine Fortentwicklung zum reifen Abszess vermieden werden kann. Bei einer Mastitis außerhalb des Wochenbettes ist zudem der Ausschluss eines Malignoms wichtig.
+
+
+== Symptome ==
+
+Fieber
+Schmerzen, in der Regel einseitig (70 %) im Bereich der Brustwarze
+Überwärmung einer Brust
+Rötung einer Brust
+bei Abszess-Bildung fluktuierende und tastbare Schwellung (Brustdrüsenschwellung)
+Schwellung der Achsel-Lymphknoten
+verändertes Milchsekret
+Zellzahlerhöhung in der Milch
+
+
+== Pathologie ==
+Bei der bakteriellen Mastitis findet sich histologisch eine phlegmonöse oder abszedierte Entzündung mit diffusen granulozytären Infiltraten des Brustdrüsengewebes. Bei längeren chronischen Entzündungen überwiegt ein lymphoplasmazelluläres Infiltrat.
+Die Ausbreitung der Entzündung erfolgt in der Regel über Lymphgefäße (interstitielle Mastitis), seltener über die Milchgänge (intrakanalikulär, sog. parenchymatöse Mastitis).
+Eine tuberkulöse Mastitis zeigt typische verkäsende Granulome.
+
+
+== Mastitis puerperalis ==
+Ausschließlich in der Laktationszeit (Stillperiode).
+
+
+=== Ätiologie ===
+Die Eintrittspforten von Erregern bei der Mastitis von stillenden Müttern sind in der Regel kleine Hautverletzungen (sog. Rhagaden) der Brustwarze mit Sekundärinfektion dieser Verletzungen durch typische Hautkeime. Außerdem wird ein Sekretstau (durch einen verstopften Milchkanal (Ductus lactifer)) für die Infektion mitverantwortlich gemacht.
+
+
+=== Erreger ===
+In der Regel finden sich beim Menschen typische Haut- bzw. Mundkeime:
+
+Staphylococcus aureus (90 %)
+Streptokokken
+Pseudomonas u. a.
+
+
+=== Therapie ===
+Ein Abstillen, unterstützt von Prolaktin-Hemmern (Dopaminagonisten, z. B. Bromocriptin), ist nach aktueller Studienlage nur noch in Ausnahmefällen erforderlich und bewirkt in der Regel sogar eher eine Verschleppung des Krankheitsverlaufs. Eine konservative Therapie mit Antibiotika ist indiziert (z. B. Oxacillin). Eine Infektionsgefahr für das gestillte Kind ist hierbei nicht anzunehmen. Nach derzeitigem Forschungsstand klingen die Symptome unter Antibiotika-Gabe effektiver ab als unter reiner Bettruhe.Reife Abszesse müssen in der Regel chirurgisch inzisiert und drainiert oder punktiert und mit antibiotischer Lösung gespült werden. Zumeist wird eine chirurgische Abszessspaltung mit Inzision und Gegeninzision durchgeführt. In manchen Fällen kann alternativ eine ultraschall-gesteuerte minimalinvasive Mammaabszessdrainage durchgeführt werden.
+
+
+== Mastitis non puerperalis ==
+
+
+=== Ätiologie ===
+Ursächlich wird bei dieser Mastitis ein Sekretstau angenommen mit Sekundärinfektion durch Keime.
+
+
+=== Differentialdiagnose und weitere Diagnostik ===
+Wichtig ist, dass bei einer Mastitis non puerperalis ein Malignom nach Abheilung der Entzündung ausgeschlossen wird (Mammakarzinom, Paget-Karzinom, inflammatorisches Mammakarzinom).
+
+
+=== Prädisponierende Faktoren ===
+Hyperprolaktinämie
+Tranquilizer-Einnahme
+Ovulationshemmer-Einnahme
+Mastopathie
+Schilddrüsenstörungen
+Nikotinabusus
+
+
+=== Erreger ===
+Folgende Erreger finden sich bei der bakteriellen Mastitis:
+
+Staphylokokken
+Streptokokken
+Pseudomonas
+Proteus
+E. coli
+andere, eher seltene Erreger (Tuberkulose-Erreger, Anaerobier u. a.)
+
+
+=== Therapie ===
+Die Therapie ist im Prinzip dieselbe wie bei der Mastitis puerperalis. Sofern sich bereits ein Abszess gebildet hat, wird dieser chirurgisch behandelt, andernfalls wird die erforderliche medikamentöse Therapie durchgeführt.
+Für die medikamentöse Therapie der nonpuerperalen Mastitis kommen Prolaktinhemmer (etwa Bromocriptin), Antibiotika und Entzündungshemmer infrage.Neben der medikamentösen Behandlung der Mastitis ist für eine Kühlung der Brust zu sorgen und ein gut sitzender Büstenhalter zu tragen.Eine nonpupererale Mastitis kann chronisch werden.
+
+
+== Periduktale Mastitis ==
+
+
+=== Ätiologie ===
+Die periduktale Mastitis, auch plasmazelluläre bzw. granulomatöse Mastitis genannt, ist eine abakterielle und chronische Mastitis, die durch einen Sekretverhalt ausgelöst wird. Durch den Sekretverhalt kommt es zur Ektasie der Milchgänge mit übertreten des Sekretes in das umgebende Gewebe mit daraus resultierender Entzündungsreaktion. Betroffen sind vor allem Frauen mittleren Alters. Wichtig ist der Ausschluss eines Malignoms.
+
+
+=== Symptome ===
+Es findet sich in der Regel eine schmerzhafte Verhärtung im Bereich der Brustwarze mit Ausfluss.
+
+
+=== Pathologie ===
+In der Histologie finden sich lymphoplasmazelluläre Infiltrate und Gangektasien der Milchgänge. Außerdem finden sich Granulome, Fett-speichernde Makrophagen (sog. Lipophagen), Epitheloid- und Riesenzellen.
+
+
+== Einzelnachweise ==

@@ -1,0 +1,60 @@
+Borland ist ein Softwareunternehmen (NASDAQ NM: BORL) mit Hauptsitz in Austin, Texas, USA. Seit 2009 ist es ein Tochterunternehmen von Micro Focus.
+
+
+== Geschichte ==
+Borland wurde 1983 von dem in die USA eingewanderten französischen Mathematiklehrer Philippe Kahn gegründet. Auf der Suche nach einem amerikanisch klingenden Namen für sein Unternehmen ließ er sich vom Namen eines US-Astronauten, Frank Borman, inspirieren. Unter Kahns Leitung schuf das Unternehmen eine Reihe von Werkzeugen zur Softwareentwicklung. Borland wurde in den 1980er Jahren durch eine integrierte Entwicklungsumgebung für die Programmiersprache Pascal, die unter dem Namen Turbo Pascal unter den Betriebssystemen CP/M und MS-DOS herausgebracht wurde, bekannt. Die letzte für DOS verfügbare Version 7.0 trug den Namen Borland Pascal. Unter Windows wurde dieses Produkt zu Borland Delphi weiterentwickelt. Borland war ferner mit SideKick erfolgreich, einem der ersten Personal Information Manager, und entwickelte weitere „Turbo“-IDEs, u.a. für die Programmiersprachen BASIC und Prolog. Auf lange Sicht konnten sich aber nur Delphi und Borlands C++-Implementierung durchsetzen, die Anfang der 1990er Jahre gegenüber Microsofts Entwicklungstools als überlegen galten.
+Mit seiner selbst entwickelten Datenbank Paradox stand Borland Anfang der 1990er Jahre in direkter Konkurrenz zu Microsofts Access, das damals gerade neu auf den Markt kam. Um seine Stellung im Datenbankmarkt zu stärken, kaufte Borland im September 1991 das wesentlich größere Unternehmen Ashton-Tate, Hersteller des seinerzeit marktführenden PC-Datenbanksystems dBASE und des Programms Framework, und forcierte die Modernisierung von dBase. Auch das erst kürzlich durch Ashton-Tate erworbene Datenbanksystem InterBase wurde weiterentwickelt.
+Seit Mitte der 1990er Jahre verlor Borland mehr und mehr seine dominante Stellung am Markt für Softwaretools. Einige meinen, daran sei die Konkurrenz zu Microsoft schuld gewesen, andere glauben, dass Philippe Kahn die Ressourcen seines Unternehmens in zu vielen Projekten verzettelte, als er versuchte, an vielen Fronten gleichzeitig gegen Microsoft anzukämpfen.
+1998 benannte sich Borland in Inprise Corporation um und konzentrierte sich – weg von Entwicklertools – stärker auf den Markt zur Entwicklung von Businessapplikationen bzw. Middleware-Werkzeugen und stieg in den Markt internetorientierter Tools wie JBuilder ein. Über mehrere Jahre wurden Verluste eingefahren, das Image verschlechterte sich. Durch die Namensänderung kam sogar der Eindruck auf, das Unternehmen existiere gar nicht mehr. 1999 wurden die Rechte an dBASE an die dataBased Intelligence Inc. verkauft und später folgte die Veräußerung von InterBase an das Unternehmen Embarcadero Technologies.
+Später, wieder unter dem traditionsreichen Namen Borland und unter Führung von CEO Scott Arnold, wurde die Firma zwar kleiner, aber dafür wieder profitabel. Borland entwickelte zunächst weiterhin die Entwicklungsumgebungen Delphi und C++Builder. Ein Vorstoß in Bereiche jenseits der Entwicklung auf Microsoft-Betriebssystemen war Kylix, das Borlands Erfahrung im Bereich der Integrierten Entwicklungsumgebungen zum ersten Mal auch „nativ“ für Linux verfügbar machte. Dieses Produkt blieb aber erfolglos. Außerdem wurde der C# Builder vorgestellt, eine Entwicklungsumgebung für die von Microsoft entwickelte .NET-Programmiersprache C#. Die Unterstützung von Web Services und .NET (seit Delphi 8) hat das Ansehen von Borland in der Industrie wieder gestärkt.
+Mit den 2005er-Ausgaben ihrer Werkzeuge brach Borland erstmals mit der einfachen Durchnummerierung der Versionen: JBuilder 11 (der Nachfolger von JBuilder 10) hieß nun JBuilder 2005, Delphi 9 hieß offiziell Delphi 2005. In der Delphi-2005-IDE waren erstmals die Programmiersprachen Delphi und C# zusammengefasst (auf Druck der Entwicklergemeinde konnten Programme in Delphi sowohl für Win32 als auch für .NET erstellt werden). Demnach wurde der C# Builder offiziell eingestellt und war fortan in Delphi enthalten. Als Teil des Borland Developer Studios (BDS) enthielt Delphi 2006 auch die Unterstützung für die Programmiersprache C++.
+Die erfolgreiche Integration der Unternehmen Togethersoft (Together Control Center) und Starbase (Konfigurations- und Changemanagenmentlösungen, Anforderungsmanagementlösungen) innerhalb von drei Jahren war für Borland ein wichtiger Schritt.
+Im Jahre 2005 kam das CMMI- und Prozessberatungshaus TeraQuest hinzu, welches als eines der erfolgreichsten global agierenden CMMI-Beratungshäuser galt. Bill Curtis, Mitbegründer von CMM, wurde bei Borland in führender Position tätig. 2006 wurde schließlich Segue Software akquiriert, um das Portfolio durch Software zum automatisierten und manuellen Testen zu ergänzen.
+Mittlerweile bietet Borland ein hoch integriertes ALM-Lösungsportfolio (Application Lifecycle Management) an, das den gesamten Zyklus der Softwareentwicklung von der Aufnahme und dem Management der Anforderungen, über die Modellierung der Anwendung und der Ausprogrammierung über das automatische Testen bis hin zur Entwicklung der Applikation „aus einem Guss“ ermöglicht.
+Borland konzentriert sich durchgängig auf eine prozessorientierte, CMMI- und ITIL-Elemente umfassende SDO-Strategie (Software Delivery Optimization), welche Wertschöpfungsaspekte und Geschäftsprozesse der Softwareentwicklung im Vordergrund jeglichen IT-Schaffens sieht.
+Im Februar 2006 kündigte Borland an, die Produktlinie der Entwicklungsumgebungen (Delphi, JBuilder etc.) zu verkaufen und sich fortan ausschließlich auf den Bereich des ALM zu konzentrieren. Die IDE-Sparte wurde zwar in ein eigenes Unternehmen namens CodeGear ausgegliedert, verblieb jedoch zunächst im Besitz von Borland.
+Am 5. September 2006 hat Borland die „Turbo“-Reihe wieder auferstehen lassen – „Turbo Delphi Win32“, „Turbo Delphi. net“, „Turbo C#“ und „Turbo C++“ sollen mit den kostenlos erhältlichen „Explorer“-Versionen wieder mehr Programmierer für die IDE-Produkte von Borland werben.
+Am 7. Mai 2008 wurde bekanntgegeben, dass die Tochterfirma CodeGear an Embarcadero Technologies verkauft wurde.
+Am 6. Mai 2009 wurde bekanntgegeben, dass das Unternehmen von Micro Focus International PLC für 75 Millionen US-Dollar übernommen wird.
+
+
+== Produkte ==
+Die aktuelle Produktpalette von Borland umfasst unter anderem:
+CaliberRDM
+CaliberRM
+Together
+Gauntlet (Software)
+Silk Central (früher SilkCentral Test Manager)
+SilkTest
+Silk4J und Silk4Net
+SilkPerformer
+StarTeam
+Borland AppServer
+VisiBroker
+Ehemalige Entwicklungen von Borland sind:
+dBASE (übernommen von Ashton-Tate)
+InterBase (übernommen von Ashton-Tate)
+JBuilder (verkauft an Embarcadero Technologies)
+Borland Database Engine – Datenbankschnittstelle
+Borland Paradox – Relationales Datenbank-Management-System (verkauft an Corel)
+Quattro Pro – Tabellenkalkulation (verkauft an Corel)
+Reflex
+SideKick
+Turbo Basic (verkauft an PowerBASIC Inc.)
+Turbo C, Borland C++, C++ Builder (verkauft an Embarcadero Technologies)
+Turbo Modula-2
+Turbo Pascal, Borland Pascal, Delphi (verkauft an Embarcadero Technologies)
+Turbo Prolog
+Turbo Assembler, kurz TASM, inkl. Turbo Linker
+Turbo Debugger (später im Paket mit dem TASM)
+WordPerfect (übernommen von Novell, verkauft an Corel)
+ObjectVision
+Kylix
+Eureka (Programm zur Lösung mathematischer Probleme)
+
+
+== Weblinks ==
+Website von Borland
+
+
+== Einzelnachweise ==

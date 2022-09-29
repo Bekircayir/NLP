@@ -1,0 +1,45 @@
+Der Plötzliche Herztod beim Sport (Syn.: Plötzlicher Sporttod, Plötzlicher Herztod bei Sportlern) ist ein durch Sport ausgelöster plötzlicher Herztod (PHT). Er stellt kein eigenes Krankheitsbild dar. Den Sport als auslösenden Faktor nimmt man bei einem PHT bis eine Stunde nach der körperlichen Belastung an.
+
+
+== Verbreitung ==
+Die Inzidenz für einen PHT beim Sport wird mit 0,5 bis 2 pro 100.000 Sportler angegeben, Männer sind deutlich häufiger betroffen als Frauen. In Frankreich beispielsweise erliegen jährlich zwischen ein- und zweitausend Sportler dieser Todesursache. In Deutschland sterben etwa 900 Sportler jährlich an einem Herztod; ein deutschlandweites Register für die genauere Erfassung des plötzlichen Herztodes beim Sport wurde 2012 initiiert. Sportarten mit den häufigsten Herztodesfällen sind Triathlon (1,5/100.000), Basketball, American Football (USA), Fußball und Laufen (0,8/100.000). Das Risiko, einen plötzlichen Herztod zu erleiden, liegt bei jungen Sportlern 2,5-mal höher als bei Nichtsportlern.
+
+
+== Mögliche Ursachen ==
+Wie auch allgemein beim plötzlichen Herztod müssen drei Komponenten aus struktureller Herzerkrankung, Arrhythmie-Mechanismus und vorübergehendem Auslöser zusammenkommen. Der Auslöser beim plötzlichen Sporttod ist die körperliche Belastung. Die Herzerkrankungen unterscheiden sich nur in ihrer Verteilung. Am häufigsten bei Wettkampfsportlern ist die Hypertrophe Kardiomyopathie (46 % inkl. Verdachtsfälle), gefolgt von den eigentlich seltenen angeborenen Koronaranomalien (17 %) sowie der Myokarditis (7 %) und der Arrhythmogenen Rechtsventrikulären Kardiomyopathie (ARVCM) mit (4 %). Je älter die Patienten werden, desto häufiger ist die Koronare Herzkrankheit die zugrundeliegende Erkrankung. In manchen Regionen Italiens ist die ARVCM, wahrscheinlich aufgrund einer genetischen Häufung, die häufigste Ursache bei jungen Sportlern.
+
+
+=== Doping ===
+Seit Jahrzehnten wird ein Zusammenhang zwischen plötzlichen Herztoden und Doping vermutet. Praktisch alle bekannten Dopingmittel können das Herz schädigen. Insbesondere Anabolika und künstlich zugefügte Wachstumshormone können zu krankhaften Veränderungen des Herzens führen. Der Nachweis dafür, dass Doping für einen Fall plötzlichen Herztodes verantwortlich ist, ist in der Regel schwierig. Zum einen sind möglicherweise verwendete Mittel im Blut des Sportlers zum Todeszeitpunkt oft nicht (mehr) nachweisbar, beispielsweise, wenn die Mittel in einer Trainingsphase ohne Dopingkontrollen eingenommen wurden. Zum anderen werden teilweise gar keine Autopsien vorgenommen, oder es wird kein Spezialist hinzugezogen, der doping-typische Herzmuskel- und -zellveränderungen feststellen könnte. Zuverlässige Statistiken oder Langzeitstudien zu dem Thema gibt es bisher nicht.
+
+
+== Prävention ==
+In einer Stellungnahme empfiehlt die Schweizerische Gesellschaft für Sportmedizin allen wettkampfaktiven Sportlerinnen und Sportlern eine Basisuntersuchung mit Ruhe-EKG sowie jährlich sportmedizinische Untersuchungen. Hierzu zählen:
+Kardiovaskuläre Anamnese
+
+Typische oder atypische Thoraxbeschwerden, Herzrhythmusstörungen, Präsynkopen oder Synkopen, inadäquate Atemnot während Belastung
+Anamnestischer Nachweis eines Herzgeräusches oder eines erhöhten Blutdruckes
+Familiäre Prädisposition für plötzlichen Herztod oder angeborene Herzkrankheiten (Kardiomyopathie, Marfan-Syndrom, Long-QT-Syndrom, Neigung zu Arrhythmien)
+Risikofaktoren für eine koronare Herzerkrankung (arteriell Hypertonie, Hypercholesterinämie, Nikotin, Diabetes mellitus, familiäre Veranlagung)
+Drogenmissbrauch, insbesondere KokainKlinische Untersuchung
+
+Gründlicher kardiovaskulärer Status (Auskultation/Palpation/Blutdruck-Messung)
+Suche nach Hinweisen auf Bindegewebsstörung (Marfansyndrom)Sonstiges
+
+Ruhe-Elektrokardiogramm (bei Aufnahme einer Wettkampftätigkeit)
+Serumcholesterin (über 35-Jährige)Bei positiver Anamnese, pathologischen Herz- oder Gefäßgeräuschen, Hinweisen auf Rhythmusstörungen oder pathologischem Ruhe-EKG wird die Zuweisung zur weiteren fachärztlichen Abklärung empfohlen. Eine routinemäßige Durchführung von Belastungs-EKGs oder dopplerechokardiographischen Untersuchungen ist nicht gerechtfertigt.
+Die Schweizerische Gesellschaft für Sportmedizin empfiehlt im Weiteren eine langsame Steigerung der Belastung, da plötzliche ungewohnte Belastungen das Risiko für einen PHT steigern. Außerdem wird empfohlen, sportliche Betätigung bei bestehendem fieberhaftem Infekt zu unterlassen. Unter Belastung auftretende, ungewohnte Symptome (z. B. unklare Brustschmerzen, Schwindel, Bewusstseinsstörungen) oder Unwohlsein sollten als Warnsignal(e) angesehen werden.
+Im November 2010 hat die französische Stiftung Cœur et Artères („Herz und Arterien“) einen Fonds zur Finanzierung von Forschungen auf diesem Gebiet eingerichtet und ihn nach Marc-Vivien Foé benannt.
+
+
+== Verwandte Phänomene ==
+Ein erhöhtes Risiko für (meist nicht tödliche) Herzinfarkte und Herzrhythmusstörungen besteht nach einer Meinung auch für Zuschauer, die eine spannende Fußballübertragung (z. B. Elfmeterschießen) im Stadion oder vor dem Fernsehgerät verfolgen. Andere Arbeiten konnten jedoch keinen Zusammenhang von kardialen Ereignissen bei Zuschauern von Fußballspielen in Deutschland und Italien zeigen.
+
+
+== Literatur ==
+Wilfried Kindermann, Axel Urhausen: Plötzlicher Herztod beim Sport. Bundesinstitut für Sportwissenschaft, Köln 2000, ISBN 3-89001-131-4, S. 1–55 (online [PDF] Broschüre für Aktive und Betreuer). 
+B. Marti: Plötzlicher Herztod beim Sport: sinnvolle Vorsorgeuntersuchungen. In: Schweizerische Zeitschrift für Sportmedizin. Band 46, Nr. 2, 1998, S. 83–85 (sgsm.ch [PDF] mit Anhang: Checklisten für nicht medizinisch geschulte Sportleiter und Adaptierte Fragebogen nach Ades als Leitfaden für die Anamnese). 
+Sportmedizin: Register zum plötzlichen Herztod. In: Deutsches Ärzteblatt. Jg. 109, Heft 18, 4. Mai 2012.
+
+
+== Einzelnachweise ==

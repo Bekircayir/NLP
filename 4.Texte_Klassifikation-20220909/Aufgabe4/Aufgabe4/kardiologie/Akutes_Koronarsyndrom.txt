@@ -1,0 +1,68 @@
+Mit dem Begriff des akuten Koronarsyndroms (englisch acute coronary syndrome, ACS) wird in der Medizin ein Spektrum von Herz-Kreislauf-Erkrankungen umschrieben, die durch den Verschluss oder die hochgradige Verengung eines Herzkranzgefäßes verursacht werden. Es reicht von der instabilen Angina pectoris (UA) bis zu den beiden Hauptformen des Herzinfarkts, dem Nicht-ST-Hebungsinfarkt (NSTEMI) und dem ST-Hebungsinfarkt (STEMI) (vgl. EKG-Nomenklatur).
+Ursache des akuten Ereignisses ist eine kritische Reduktion des Blutflusses meistens infolge der Ausbildung eines lokalen Thrombus auf dem Boden einer Plaqueruptur oder Plaqueerosion. Während das Blutgerinnsel beim STEMI das Gefäß in der Regel vollständig verschließt, bleibt bei der instabilen Angina pectoris und beim NSTEMI der Blutfluss erhalten.In der Notfallmedizin dient der Begriff akutes Koronarsyndrom in erster Linie als primäre Arbeitsdiagnose bei einer noch unklaren, akuten und länger anhaltenden (> 20 Minuten) Herz-Symptomatik. Diese Arbeitsdiagnose geht dabei grundsätzlich von einer lebensbedrohlichen Situation des betroffenen Patienten aus. Bei fast einem Drittel der rund 2 Millionen jährlichen Notfälle in Deutschland mit der Arbeitsdiagnose akutes Koronarsyndrom bestätigt sich der Anfangsverdacht: Bei 15 Prozent wird eine instabile Angina pectoris diagnostiziert, bei weiteren 15 Prozent ein NSTEMI oder STEMI und in circa 2 % der Fälle liegt eine Stress-Kardiomyopathie zugrunde.Mögliche Differentialdiagnosen zum akuten Koronarsyndrom können vielfältiger Natur sein: Sie reichen von weiteren kardiovaskulären Erkrankungen (z. B. Herzrhythmusstörungen, Myokarditis) über pulmonale Erkrankungen (z. B. Lungenembolie), Skeletterkrankungen (z. B. Rippenfrakturen), Erkrankungen des Magen-Darm-Trakts (z. B. akute Pankreatitis, perforiertes Magengeschwür) bis zu Tumorerkrankungen des Skeletts und der Thoraxwand.
+
+
+== Einteilung ==
+Zur Risikostratifizierung und zielgerechten therapeutischen Behandlung der betroffenen Patienten wird das akute Koronarsyndrom in drei klar definierte Kategorien unterteilt:
+
+ST-Hebungsinfarkt (STEMI)
+Nicht-ST-Hebungsinfarkt (NSTEMI)
+instabile Angina pectoris (UA)Eine genaue Diagnose erfolgt über die Messung biochemischer Marker (insbesondere kardiales Troponin T und I) und die Elektrokardiographie (EKG). Die für Deutschland geltenden Leitlinien der Deutschen Gesellschaft für Kardiologie bewerten STEMI und NSTEMI als endgültige Diagnosen. Die gemeinsamen Leitlinien des American College of Cardiology (ACC) und der American Heart Association (AHA) bevorzugen dagegen die finalen Diagnosen Q-wave myocardial infarction (Qw MI) oder Non-Q-wave myocardial infarction (NQMI). Diese Unterscheidung zwischen transmuralen (die gesamte Dicke der Wandschicht des Herzens betreffend) und nicht-transmuralen Myokardinfarkten ist auch in den deutschsprachigen Ländern gebräuchlich. Sie wird anhand von Veränderungen des QRS-Komplexes im EKG getroffen, die in der Regel frühestens nach 12 Stunden nachweisbar sind.
+
+
+=== ST-Hebungsinfarkt ===
+Von einem ST-Hebungsinfarkt ist auszugehen, wenn einer der folgenden EKG-Befunde vorliegt:
+
+ST-Hebung am J-Punkt in 2 zusammenhängende Ableitungen, die folgende Grenzen überschreiten:
+in V2 und V3 2,5 mm bei Männern unter 40 Jahren,
+in V2 und V3 2 mm bei Männern über 40 Jahren,
+in V2 und V3 1,5 mm bei Frauen,
+1 mm in allen anderen Ableitungen oder
+Linksschenkelblock mit infarkttypischer SymptomatikIn der Regel kommt es beim STEMI darüber hinaus zum Anstieg kardialer Marker. Bei Patienten mit einem STEMI steigt der Troponinwert erstmals nach etwa 3 Stunden und bleibt bis zu 2 Wochen erhöht. Lässt sich ein solcher Anstieg nicht nachweisen, muss die Diagnose STEMI in Frage gestellt werden.
+
+
+=== Nicht-ST-Hebungsinfarkt und instabile Angina pectoris ===
+Weist das EKG keine ST-Hebungen auf, so ist von einem Nicht-ST-Hebungsinfarkt oder einer instabilen Angina pectoris auszugehen. Eine genaue Diagnose lässt sich frühestens nach 3 Stunden über den Troponinwert stellen. Während beim NSTEMI geringfügig erhöhte Werte für bis zu 72 Stunden nachweisbar sind, weisen die kardialen Marker bei der instabilen Angina pectoris keine erhöhten Werte auf.
+
+
+== Risikofaktoren ==
+Der Erstmanifestation des akuten Koronarsyndroms geht in der Regel eine langjährige Entwicklung voraus. Die Atherosklerose ist dabei die Erkrankung, die fast allen kardiovaskulären Ereignissen zugrunde liegt. Verschiedene Risikofaktoren fördern Entstehung und Fortschreiten der Atherosklerose:
+Nicht-beeinflussbare Risikofaktoren:
+Alter
+männliches Geschlecht
+positive Familienanamnese für Herz-Kreislauf-ErkrankungenBeeinflussbare Risikofaktoren:
+Rauchen
+ungesunde Ernährung
+Bewegungsmangel
+Stress
+Übergewicht
+Diabetes mellitus
+hohe Blutzuckerwerte (HbA1c)
+hohe LDL-C-Werte ("schlechtes Cholesterin")
+niedrige HDL-C-Werte ("gutes Cholesterin")
+erhöhte Triglyceride
+Bluthochdruck
+
+
+== Prognose und Folgerisiko ==
+Während die Krankenhausmortalität beim akuten Koronarsyndrom in den vergangenen Jahren reduziert werden konnte, bleibt die prähospitale Mortalitätsrate weiterhin überaus hoch: 37 Prozent der Patienten mit einem Myokardinfarkt versterben noch vor dem Erreichen des Krankenhauses.Innerhalb der initialen Hospitalisierung versterben rund 3 Prozent der Patienten an den Folgen eines akuten Koronarsyndroms. Mit 6 Prozent ist die Mortalität beim ST-Hebungsinfarkt dabei erheblich höher als beim Nicht-ST-Hebungsinfarkt (3 Prozent) und der instabilen Angina pectoris (1 Prozent).Über das akute Ereignis hinaus besteht nach einem akuten Koronarsyndrom ein erhebliches Risiko, ein weiteres kardiovaskuläres Ereignis zu erleiden (residuales Risiko). Analysen der 5-Jahres-Mortalität von Patienten mit einem akuten Koronarsyndrom belegen, dass sich ein großer Anteil der ACS-Todesfälle erst im ambulanten Umfeld, das heißt nach der initialen Hospitalisierung ereignet (STEMI: 68 Prozent; NSTEMI: 86 Prozent; UA: 97 Prozent). Insgesamt liegt die 5-Jahres-Mortalität beim akuten Koronarsyndrom bei ca. 20 Prozent. Das langfristige Mortalitätsrisiko ist dabei weitgehend unabhängig von der Art der Erstmanifestation des akuten Koronarsyndroms: Die 5-Jahres-Mortalität beim STEMI (19 Prozent), NSTEMI (22 Prozent) und der instabilen Angina pectoris (17 Prozent) unterscheiden sich nur geringfügig. Des Weiteren zeigte ein schwedisches Register mit 108 000 Patienten, dass nach einem ersten Myokardinfarkt ein 18,3-%-Risiko für ein weiteres kardiovaskuläres Ereignis (erneuter Myokardinfarkt, Schlaganfall oder CV Tod) innerhalb des ersten Jahres besteht.
+
+
+== Sekundärprävention ==
+Primäres Ziel der Sekundärprävention nach einem akuten Koronarsyndrom ist, das Fortschreiten der Atherosklerose zu hemmen und das hohe residuale Risiko zu reduzieren, das heißt ein erneutes kardiovaskuläres Ereignis zu verhindern. Mit Hilfe von Änderungen des Lebensstils, z. B. dem Verzicht auf das Rauchen, regelmäßiger körperlicher Aktivität und einer Ernährungsumstellung, lässt sich das Risiko eines Folgeereignisses reduzieren. Insgesamt ist der Effekt von Änderungen des Lebensstils jedoch begrenzt, so dass in der Regel zusätzlich medikamentöse Therapien zum Einsatz kommen.
+
+
+=== Aggregationshemmende Therapie ===
+Es werden sogenannte Plättchenhemmer (z. B. Acetylsalicylsäure, Prasugrel, Ticagrelor, Clopidogrel) verwendet, die der erneuten Ausbildung von Thromben vorbeugen sollen.
+
+
+=== Cholesterin-senkende Therapie ===
+Die Behandlung mit Lipidsenkern, in erster Linie Statinen (z. B. Simvastatin), ist Standard in der Sekundärprävention nach einem akuten Koronarsyndrom. Die Statin-Therapie zielt dabei in erster Linie auf eine Senkung des LDL-Cholesterins auf die empfohlenen Zielwerte von unter 80 mg/dl (European Society of Cardiology) bzw. 70 mg/dl (Deutsche Gesellschaft für Kardiologie).
+Der Einfluss hoher LDL-Cholesterin-Spiegel auf das kardiovaskuläre Risiko ist eindeutig belegt. Verschiedene Studien belegen zudem, dass der Einsatz von Statinen die Häufigkeit kardiovaskulärer Ereignisse um bis zu 38 Prozent reduziert. Das weiterhin überaus hohe residuale Risiko von über 60 Prozent lässt sich unter anderem dadurch erklären, dass ein Großteil der Patienten die empfohlenen Zielwerte für verschiedene Parameter wie Blutdruck oder Blutfette nicht erreicht: Trotz Statin-Therapie sind lediglich ein Viertel der Patienten beim LDL-Cholesterin und HDL-Cholesterin im angestrebten Bereich.Die medikamentöse Erhöhung des HDL-Cholesterins ("gutes Cholesterin") gilt als ein möglicher therapeutischer Ansatz zur zusätzlichen Reduktion des residualen Risikos kardiovaskulärer Ereignisse. Epidemiologische Daten belegen, dass hohe HDL-C-Spiegel mit einem niedrigen Risiko für kardiovaskuläre Ereignisse korrelieren. Einfluss auf das HDL-Cholesterin nehmen beispielsweise Nikotinsäurederivate und Fibrate. Beide Präparate haben jedoch multiple Effekte auf den Lipidstoffwechsel. Spezifischer lässt sich das HDL-Cholesterin über eine Inhibition des Cholesterinester-Transferproteins (CETP) erhöhen. Mit dem CETP-Inhibitor Anacetrapib befindet sich aktuell noch einer (von insgesamt bisher drei) Substanzen in klinischer Untersuchung, die eine Erhöhung des HDL-Cholesterins über eine komplette bzw. selektive CETP-Hemmung bewirken. Die Phase-III-Studie zu Dalcetrapib mit 15.000 Probanden wurde Anfang Mai 2012 aufgrund mangelnder klinischer Wirksamkeit von Roche beendet.
+
+
+== Siehe auch ==
+Infarktnetzwerk
+
+
+== Einzelnachweise ==

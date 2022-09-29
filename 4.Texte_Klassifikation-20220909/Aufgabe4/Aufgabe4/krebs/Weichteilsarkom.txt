@@ -1,0 +1,75 @@
+Weichteilsarkome sind bösartige (maligne) Tumoren (Sarkome), die dem Weichteilgewebe des Körpers entspringen. Sie sind eine relativ seltene Krebsform, bei Kindern und Jugendlichen ist ihr Anteil jedoch relativ groß. Die Therapie hängt von der Art und Klassifizierung des jeweiligen Tumors ab und reicht von operativer Entfernung bis zu Bestrahlung und Chemotherapie.
+
+
+== Epidemiologie ==
+Weichteilsarkome sind relativ seltene Neoplasien. Sie sind mesenchymalen Ursprungs. In den USA stellen sie 0,7 % aller Krebsneuerkrankungen dar. Man findet sie quer durch alle Altersgruppen mit einer überproportionalen Inzidenz im Kindesalter. In der Kindheit stellen sie 5–7 % aller Krebserkrankungen dar. Etwa jedes siebte Sarkom wird bei Kindern unter 15 Jahren diagnostiziert. Weichteilsarkome sind neben den ZNS-Malignomen die zweite große Gruppe von soliden Tumoren in der Pädiatrie und gehören dort zu den fünfthäufigsten Krebstodesursachen.
+40 % aller Krebsneuerkrankungen ereignen sich jenseits des 55. Lebensjahrs. Die Inzidenz liegt zurzeit bei etwa 2–3/100.000 pro Jahr.
+
+
+== Lokalisation ==
+Ursprungsgewebe der Weichteilsarkome sind Muskeln, Sehnen, Fettgewebe, Bindegewebe, Synovialgewebe der Gelenkkapsel, Gefäßmuskulatur und Nerven.
+Typische Lokalisation eines Weichteilsarkoms sind die unteren Extremitäten. Etwa 60 % aller Tumoren finden sich an Armen oder Beinen. Ein Drittel der Sarkome entstehen am Rumpf, mit Gewichtung im Retroperitoneum. Vereinzelt finden sie sich auch im Hals- und Gesichtsbereich.
+
+
+== Ätiologie ==
+Die meisten Weichteilsarkome entstehen primär als maligne Neoplasien. Eine maligne Transformation eines gutartigen Weichteiltumors in ein Sarkom ist eine ausgesprochene Rarität. Die Ausnahme stellt das Fibrosarkom im Rahmen des Morbus Recklinghausen dar, welches sich typischerweise aus einem Neurofibrom entwickelt. Auch beim Enchondrom werden gelegentlich Entartungen zum Chondrosarkom beobachtet.
+Zahlreiche Risikofaktoren für die Entstehung eines Weichteilsarkoms wurden beschrieben, sie erklären jedoch nur einen Bruchteil der Sarkome. Chemische Kanzerogene können bei der Entstehung eine Rolle spielen, so wurde bei der Exposition einzelner (Phenoxy-)Herbizide, von Dioxin und Chlorphenolen ein erhöhtes Risiko beobachtet. Weichteilsarkome finden sich oft auch im Rahmen von genetischen Erkrankungen, wie dem Li-Fraumeni-Syndrom oder der Neurofibromatose Typ 1 (NF-1, Morbus Recklinghausen). Auch eine familiäre Disposition scheint gegeben zu sein, wenn auch nur in geringem Ausmaß.
+Für die Entstehung des Kaposi-Sarkoms wird das Humane Herpesvirus 8 verantwortlich gemacht. Dieses entfaltet seine Wirkung ausschließlich in einem T-zellulär immundefizienten Organismus (beispielsweise Patienten mit HIV-1). Das Kaposi-Sarkom ist das einzige Sarkom, bei dem ein Virus bei der Genese nachgewiesen werden konnte.
+Beobachtbar ist ein überzufällig häufiges Entstehen an Körperstellen mit einer vorausgegangenen Verletzung der Gewebsintegrität. Man findet Sarkome gehäuft in der Nähe von Operations- oder Verbrennungsnarben (Keloide) und an Stellen vorausgegangener Gewebstransplantationen.
+Daneben besteht eine deutliche Assoziation mit einer Strahlenexposition, z. B. nach Strahlentherapie oder radioaktiver Exposition. In einer Kohortenstudie über mehr als vierzig Jahre an über 80.000 Überlebenden der Atombombenabwürfe in Hiroshima und Nagasaki zeigte sich ein linear zunehmendes Risiko für die Entwicklung von Weichteilsarkomen mit einem relativen Risiko von 1,01 pro Gray Bestrahlung und einem absoluten Risiko von 4,3 Weichteilsarkomen pro Gray und pro 100.000 Personenjahre. Dies konnte unabhängig vom Geschlecht und Alter beobachtet werden. Die Aufteilung der Weichteilsarkome in histologische Typen unterschied sich nicht von anderen Studien, am häufigsten waren Leiomyosarkome und maligne fibröse Histiozytome. Allerdings war die Prognose wie generell bei strahleninduzierten Weichteilsarkomen deutlich schlechter mit einer Fünfjahres-Überlebensrate von 39 % (im Vergleich zu 71 % bei nicht-strahleninduzierten Sarkomen).
+
+
+== Klassifikation ==
+Zurzeit werden etwa 20 verschiedene Gruppen von Sarkomen unterschieden:
+
+Rhabdomyosarkome entstehen aus unreifen mesenchymalen Zellen. Histologisch findet man Komponenten quergestreifter Muskulatur. Bei Kindern und Jugendlichen entstehen sie meist im Bereich des Kopfes, des Halses oder des Genitaltrakts. Bei Erwachsenen ist die Harnblase oft das Ausgangsorgan. Das „Rhabdo“ ist ein relativ häufiger Tumor im Jugendalter.
+Leiomyosarkome haben histologisch Komponenten von glatter Muskulatur. Eine typische Ursprungsstruktur ist die Gebärmutter.
+Das Liposarkom ist ein maligner Fettgewebstumor. Es kommt meist in tiefen Weichteilen und im Retroperitoneum vor.
+Fibrosarkom
+Malignes Fibröses Histiozytom
+Synovialsarkom
+maligne vaskuläre Tumoren (Angiosarkom, malignes Hämangioperizytom u. a.)
+seltene Formen (alveoläres Weichteilsarkom; Cystosarcoma phylloides der Brust)
+
+
+== Symptomatik ==
+Initial findet sich meist eine asymptomatische Masse, die im Laufe des oftmals beträchtlichen Wachstums mechanische Symptome auf die Umgebung ausübt. Dies beinhaltet ein lokales Druck- oder Zuggefühl. Aber auch neurologische Beschwerden durch das Einklemmen von Nerven, bzw. Durchblutungsstörungen durch Gefäßkompressionen kommen vor.
+Grundsätzlich sollte von jeder neuentstandenen Gewebsmasse, sofern sie nicht eindeutig als gutartig eingestuft werden kann, eine Biopsie durchgeführt werden, was bei kleineren Tumoren auch als Exzisionsbiopsie erfolgen kann.
+Weitere Beschwerden können sich durch die Metastasierungen ergeben. Die Metastasierung erfolgt hauptsächlich über den Blutkreislauf (hämatogene Dissemination). Der typische Absiedelungsort für die meisten Weichteilsarkome ist die Lunge. Seltener finden sich Lymphknotenmetastasen. Manche Sarkome haben sehr spezifische Metastasierungswege. Sarkome des Magen-Darm-Trakts metastasieren oftmals in die Leber, das myxoide Liposarkom ist eine der seltenen Krebsarten, welche Metastasen im Fettgewebe bilden. Das Klarzell-Sarkom hingegen tendiert zur Infiltration der Knochen.
+
+
+== Diagnose ==
+Zur Diagnose bedient man sich nebst Biopsie der radiologischen Bildgebung. Methoden der Wahl sind Computertomographie (CT) und Magnetresonanztomographie (MRT), wobei letztere im Speziellen bei peripheren Tumoren zu bevorzugen ist. Zentrale Tumoren werden mit der Computertomographie oftmals besser erkannt.
+Die wichtigsten prognostischen Faktoren sind neben dem Grad der histologischen Differenzierung, die Größe des Primärtumors und das Ausmaß der Faszienbeteiligung. Sarkome im nichtmetastasierten Stadium haben eine gute Aussicht auf nachhaltige Heilung. Vereinzelt ist eine Kuration aber auch im bereits metastasierten Stadium möglich. Die Prognose hängt im Wesentlichen vom Staging (Tumorausbreitung) ab.
+AJCC (American joint Commission on Cancer) Stagingsystem für Sarkome
+
+
+== Therapie ==
+Der therapeutische Zugang hängt vom Krankheitsstadium ab. Patienten, die sich nach AJCC-Staging-System in Stadium I befinden, können in der Regel mit alleiniger Operation behandelt werden. Stadium-II-Patienten werden typischerweise einer begleitenden Strahlentherapie zugeführt. Ab Stadium III wird die Therapie um eine Chemotherapie ergänzt. Stadium-IV-Patienten werden primär palliativ chemotherapiert.
+
+
+=== Operation ===
+Weichteilsarkome tendieren zum Wachstum entlang der sie umgebenden Faszien. Durch die Kompression, die das Sarkom auf das umliegende Gewebe ausübt und die dadurch ausgelöste Druckatrophie der umgebenden Strukturen, entsteht eine Pseudokapsel. Dies suggeriert eine gute Abgrenzung des Sarkoms. Da das maligne Gewebe sich jedoch in der Regel über diese Pseudokapsel via Satellitenherde fortpflanzt, wird der Chirurg tunlich danach trachten, einen entsprechend großzügigen Exzisionsrand zu wählen, um die Entstehung eines lokalen Rezidivs, welches ansonsten mit einer Wahrscheinlichkeit von 50 bis 90 % auftritt, möglichst zu unterbinden. Eine weiträumige Exzision mit tumorfreien Gewebsrändern unter Einbezug der Biopsiestelle ist somit die Standardprozedur bei lokaler Erkrankung. In weiter fortgeschrittenen Stadien kann eine adjuvante Radio- oder Chemotherapie oftmals Amputationen verhindern.
+
+
+=== Radiotherapie ===
+Die Strahlentherapie wird oftmals adjuvant zur strukturerhaltenden Operation durchgeführt. Operationen mit nachfolgender Bestrahlung haben bei Extremitätensarkomen vergleichbare Prognosen wie eine Amputation. Auch die neoadjuvante Radiotherapie kommt zum Einsatz. Die präoperative Strahlentherapie hat den Vorteil, dass sowohl Dosis als auch Bestrahlungsfeld kleiner gewählt werden können als bei der postoperativen Bestrahlung. Eine weitere etablierte Therapiemethode ist die Brachytherapie.
+
+
+=== Chemotherapie ===
+Speziell das Rhabdomyosarkom und der PNET (primitiv neuroektodermaler Tumor) reagieren sehr sensibel auf Chemotherapien. Diese sind meist anthrazyklinbasiert. Bevorzugte Chemotherapeutika sind Doxorubicin und Alkylanzien wie Ifosfamid. Eine besondere Art der Chemotherapie ist die isolierte hypertherme Extremitätenperfusion (ILP), bei lokal fortgeschrittenem Sarkom. Hierzu wird die Blutversorgung chirurgisch vom Körperkreislauf durch Freilegung von Arterien und Venen getrennt. Anschließend wird über Katheter ein extrakorporaler Kreislauf mit einer Herz-Lungen-Maschine hergestellt und Medikamente intraarteriell gegeben.Mit Larotrectinib wurde 2019 die erste spezifische Therapie zugelassen, die tumorunabhägig bei den seltenen TRK-Fusionstumoren eingesetzt werden kann und ein hohes und lang anhaltendes Ansprechen zeigt.
+
+
+=== Fortgeschrittene Krankheit ===
+Ein metastasiertes Weichteilsarkom ist im Allgemeinen nicht heilbar. Jedoch gibt es auch unter Stage-IV-Patienten Langzeitüberlebende. Die 5-Jahres-Überlebensrate im Stadium IV beträgt immerhin 20 %. Der therapeutische Zugang in der Palliation liegt im Versuch, eine möglichst weitgehende Remission des Tumors zu erzielen. Sowohl Chemotherapie als auch wiederholte Operationen (inklusive der Entfernung von Metastasen) verbessern die Prognose deutlich.
+
+
+== Literatur ==
+Patienteninformation des Universitätsklinikums Heidelberg zu Weichteilsarkomen, abgerufen am 11. März 2019
+Harrison’s Principles of Internal Medicine 16th Edition, Part V Hematology and Oncology
+Weichteilsarkome: Diagnose
+Weichteilsarkome: Therapie und Prognose
+Scheidt S. et al.: Weichteilsarkome – eine Übersicht aktueller evidenzbasierter Behandlungskonzepte. In: Zeitschrift Für Orthopädie Und Unfallchirurgie, Thieme Verlag, Ausgabe 01/2019, doi:10.1055/a-0820-6366
+
+
+== Einzelnachweise ==

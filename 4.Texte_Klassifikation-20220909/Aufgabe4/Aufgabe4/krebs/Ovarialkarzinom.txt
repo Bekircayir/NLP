@@ -1,0 +1,97 @@
+Das Ovarialkarzinom oder Eierstockkrebs ist eine bösartige Erkrankung der Eierstöcke. Es ist in der westlichen Welt nach dem Endometrium- und dem Zervixkarzinom das dritthäufigste Genitalmalignom der Frau und hat eine schlechtere Prognose als jene.
+
+
+== Epidemiologie ==
+Das mittlere Erkrankungsalter beträgt in Deutschland 69 Jahre, wobei auch wesentlich jüngere Frauen, dann häufig in Zusammenhang mit genetischer Prädisposition, erkranken können.
+Frauen in Deutschland haben ein Lebenszeitrisiko von 1,5 %, an Eierstockkrebs zu erkranken.
+Die Inzidenz des Ovarialkarzinoms ist in den letzten 20 Jahren deutlich gesunken, wohingegen die Mortalitätsraten sich auf einem etwa konstanten Niveau bewegen. Von 2005 bis 2009 fielen die alters- und bevölkerungskorrigierten Inzidenzraten bundesweit von 13,5 auf 11,5 Neuerkrankungen pro 100.000 weiblichen Einwohnern und Jahr. Die geschätzten Inzidenzraten für das Jahr 2012 lassen 7.200 Neuerkrankungsfälle erwarten, was einer alters- und bevölkerungskorrigierten Inzidenzrate von 11,0 neuen Fällen pro 100.000 weiblichen Einwohnern entspricht.
+
+
+== Ursachen ==
+Als Auslöser für diese Tumorart sind bislang zahlreiche über das gesamte Genom verteilte und verschiedenartige Mutationen wie Vervielfältigungen und Verluste von Chromosomenabschnitten in den beteiligten Zellen festgestellt.
+Die Erkrankung tritt familiär gehäuft auf. Die beiden Gene BRCA1 und BRCA2 spielen (wie beim Brustkrebs) eine Rolle. Kinderlose und Spätgebärende haben gegenüber der Normalbevölkerung ein 2,5-fach erhöhtes Risiko, daran zu erkranken. Hormonelle Kontrazeptiva, häufige Schwangerschaften und langes Stillen sind dagegen protektive Faktoren, da die Eierstöcke durch sie „ruhiggestellt“ werden.
+
+
+== Symptome ==
+Die Symptome sind oft unspezifisch, wie z. B. gastrointestinale Beschwerden, Leistungsminderung oder Blutungsstörungen, sodass die Tumoren häufig erst in fortgeschrittenem Stadium erkannt werden. In 25 % der Fälle wird über genitale Blutungen berichtet.
+
+
+== Früherkennung ==
+Es existieren keine wirksamen Methoden zur Früherkennung. Für den Nutzen eines jährlichen Screening mittels transvaginalem Ultraschall und CA-125-Bestimmung gibt es auch in der Hochrisikosituation keine Evidenz.Der Ultraschall der Eierstöcke zur Krebsfrüherkennung ist nach einer bevölkerungsrepräsentativ quotierten Onlinebefragung von 2020 im Auftrag des MDS die häufigste Individuelle Gesundheitsleistung (IGeL) bei Frauen und die zweithäufigste IGeL insgesamt. Der IGeL-Monitor des MDS bewertet diese Untersuchung mit „negativ“, da mehrere Studien zeigten, dass mit Ultraschalluntersuchung gleich viele Frauen an Eierstockkrebs sterben wie ohne Untersuchung. Dagegen würden Frauen durch Fehlalarme häufig unnötig beunruhigt und sogar eigentlich gesunde Eierstöcke entfernt. Auch ärztliche Fachgesellschaften raten von der Früherkennungs-Untersuchung ab. So heißt es in der „S3-Leitlinie Diagnostik, Therapie und Nachsorge maligner Ovarialtumoren“: Der Ultraschall soll nicht generell durchgeführt werden. Ein Angebot ist für Frauen über 50 Jahre, bei Auftreten von bestimmten uncharakteristischen Symptomen, sinnvoll.
+
+
+== Diagnostik ==
+Wegweisend sind beim Ovarialkarzinom der transvaginale Ultraschall, bei dem ein vergrößertes Ovar festgestellt werden kann und die Bestimmung von CA-125 und CA 19-9.
+Im Anschluss kann vertiefend eine Computertomographie oder ein MRT hilfreich sein (auch zur OP-Planung).
+
+
+== Pathologie ==
+
+Ovarialkarzinome gehen vom Epithelgewebe der Eierstöcke aus:
+
+Seröses-papilläres Zystadenokarzinom (40 % der Ovarialmalignome)
+endometroides Karzinom (20 %)
+Muzinöses Zystadenokarzinom (10 %)
+Klarzellkarzinom (5 %)
+Solides Ovarialkarzinom (selten)
+		
+		
+Daneben gibt es gutartige Tumoren des Epithels, welche nicht zu den Karzinomen zählen, jedoch Vorstufen zu bösartigen Neubildungen darstellen können. Die Wahrscheinlichkeit einer malignen Entartung ist individuell sehr unterschiedlich.
+
+Seröses Zystadenom (30 %)
+Muzinöses Zystadenom (15 %)
+Endometrioide Tumoren (5 %)
+Brenner-Tumor (2 %)
+Adenomatoidtumor (sehr selten)
+ZystadenofibromDie Liste enthält nur solche Tumoren, die histologisch dem Epithel entstammen. Daneben finden sich in den Eierstöcken jedoch auch gut- und bösartige Neubildungen anderer Herkunft. Hierzu gehören Tumoren des sexuell differenzierten und nichtdifferenzierten Gonadenmesenchyms sowie Keimzelltumoren (Teratom und Gonadoblastom).
+
+
+=== Muzinöses Ovarialkarzinom ===
+Das muzinöse Ovarialkarzinom (MOC) ist wesentlich seltener als das seröse. Es unterscheidet sich in vielen Punkten gravierend von den übrigen Ovarialkarzinomen. Trotz seiner Größe wird es in 80 % der Fälle im Stadium FIGO I diagnostiziert und hat deshalb eine wesentlich bessere Prognose als das seröse Ovarialkarzinom. Auch das Genexpressionsprofil unterscheidet sich deutlich. Insbesondere Galectin-4 (LGALS4) wird stark und spezifisch in muzinösen Ovarialkarzinomen exprimiert. Die Expression ist geringer in gutartigen muzinösen Zysten und Borderlinetumoren. Dieses unterstützt das Tumorprogressionsmodell einer Entwicklung von gutartigen muzinösen Zysten über atypische Proliferation zum invasiven Karzinom. LGALS4 sollte als früher Marker für muzinösen Ovarialkarzinomen verwendbar sein. Häufige Tumormarker sind CEA oder CA19-9, während bei serösen Ovarialkarzinomen CA125 vorherrscht. Auch der Altersdurchschnitt der Patienten ist deutlich geringer. Eine SEER-Analyse (Surveillance, Epidemiology and End Results) fand in 26 % der muzinösen Ovarialkarzinome ein Alter unter 44 Jahre. Das mittlere Alter betrug 53 Jahre beim muzinösen und 61 Jahre beim serösen Ovarialkarzinom. Ein weiterer Unterschied besteht in der Empfindlichkeit gegenüber einer platinhaltigen Chemotherapie. Während über 70 % der serösen Ovarialkarzinome auf diese Chemotherapie ansprechen, sind es beim muzinösen Ovarialkarzinomen nur 20 % bis 60 %. Die Entwicklung des muzinösen Ovarialkarzinomen zeigt Parallelen zur Entwicklung von kolorektalen Karzinomen. In 40 % bis 75 % besteht eine KRAS-Mutation. Auch HER2-Amplifikation oder TP53-Mutation kommen früh in der Entwicklung von muzinösen Karzinomen vor.Der Eierstock kann auch Metastasierungsziel anderer Tumoren sein. So sind 10 % aller Ovarialtumoren metastatische Tumoren. Am häufigsten finden sich darunter Tumoren des Verdauungstrakts (30 % bis 70 %) wie der Krukenberg-Tumor (Metastase eines Magenkarzinoms), Tumoren der Brust (10 % bis 30 %) und des Uterus (ebenfalls 10 % bis 30 %). Der Tumormarker CA-125 gehört v. a. zum serösen, CA 19-9 zum muzinösen Ovarialkarzinom. Ein weiterer relevanter Tumormarker ist CA 72-4.
+
+
+== Stadien ==
+Die Stadien der FIGO-Klassifikation entsprechen beim Ovarialkarzinom praktisch dem 'T'-Wert der TNM-Klassifikation.
+Stadien nach TNM-Klassifikation und FIGO (Fédération Internationale de Gynécologie et d’Obstétrique):
+Nach neuen genetischen Untersuchungen lässt sich das Ovarialkarzinom im fortgeschrittenen Stadium aufgrund des abweichenden Musters von Genaktivitäten der Tumorzellen in vier unterschiedliche Subtypen aufteilen. Ein nunmehr für diese Tumorart vorliegender „Krebs-Genom-Atlas“ soll künftig auf den jeweiligen Subtyp zugeschnittene, individualisierte Therapien ermöglichen.
+
+
+== Therapie ==
+Die Behandlung besteht in der Regel aus einer an das Erkrankungsstadium angepassten Kombination aus Operation und adjuvanter Chemotherapie. Für Patientinnen im fortgeschrittenen Krankheitsstadium steht seit Dezember 2011 zudem eine Antikörpertherapie zur Verfügung.
+
+
+=== Operation ===
+Die Operation dient einerseits der Sicherung der Diagnose und genauen Stadienbestimmung. Über einen mediane Laparotomie wird der gesamte Unterleib systematisch auf Krebsbefall untersucht. Zusätzlich werden Gewebeproben zur histologischen Beurteilung entnommen. Andererseits verfolgt die Operation das Ziel einer möglichst vollständigen Entfernung aller sichtbaren Krebsgeschwüre. Dabei bestimmt die Radikalität der Tumorreduktion (als einziger beeinflussbarer Prognosefaktor) maßgeblich die Heilungsaussichten.
+Damit möglichst keine Krebszellen im Körper verbleiben, umfasst die Standard-Operation die Entfernung der Eierstöcke und Eileiter, der Gebärmutter, des großen Netzes sowie der Lymphknoten. Abhängig vom Krankheitsstadium kann die Entnahme weiterer Organteile, wie zum Beispiel Teilen des Darms, notwendig sein. Nur bei einem gesicherten Frühstadium (FIGO-Stadium IA) ist eine fertilitätserhaltende Operation möglich. Hierbei werden die Gebärmutter und der nicht befallene Eierstock bei bestehendem Kinderwunsch erhalten. Um nicht sichtbare Peritonealmetastasen während einer Operation zu behandeln, gibt es die Möglichkeit einer hyperthermen intraperitonealen Chemoperfusion (HIPEC). Eine erwärmte Lösung, welche mit einem Chemotherapeutikum (zum Beispiel Cisplatin oder Mitomycin C) versehen ist, wird über etwas eine Stunde im Bauchraum verteilt. Dadurch gelangt das Medikament auch zu schlecht durchbluteten Metastasen und durch die Erwärmung lässt sich eine Wirkungssteigerung erreichen.
+
+
+=== Chemotherapie ===
+Postoperativ wird standardmäßig eine platinhaltige Chemotherapie durchgeführt. Im Frühstadium FIGO IA, Grad 1 kann hierauf verzichtet werden. Bis zum Stadium FIGO IIA wird z. B. mit Carboplatin behandelt. Im fortgeschrittenen Stadium wird mit einem Taxan, z. B. Paclitaxel, kombiniert. Im April 2019 hat das CHMP der Europäischen Arzneimittel-Agentur (EMA) eine positive Zulassungsempfehlung für den PARP-Inhibitor Olaparib (Handelsname: Lynparza, Hersteller: AstraZeneca) zur 1st-line-Therapie abgegeben. In der Regel kommt es dann auch zu einer entsprechenden Zulassung durch die Europäische Kommission.
+
+
+=== Antikörpertherapie ===
+Ergänzend zur Chemotherapie ist seit Dezember 2011 der monoklonale Antikörper Bevacizumab für die Behandlung von Patientinnen mit einem fortgeschrittenen Ovarialkarzinom (FIGO-Stadium IIIB-IV) zugelassen. Der Angiogenesehemmer bindet an Wachstumsfaktoren des Tumors und verhindert somit die Neubildung von Blutgefäßen, die für die Versorgung des Tumors mit Sauerstoff und Nährstoffen zuständig sind. Es konnte eine Verlängerung des mittleren progressionsfreien Überlebens auf 14,1 Monate gegenüber 10,3 Monaten in der Kontrollgruppe nachgewiesen werden.
+
+
+=== Rezidivtherapie ===
+Bei einem Wiederauftreten eines Ovarialkarzinoms kann insbesondere dann operativ therapiert werden, wenn die Primär-OP vollständig war, der Allgemeinzustand gut ist und weniger als 500 ml Aszites vorliegt (positiver AGO-Score). Nachfolgend können platin-sensible Tumoren (Rezidiv nach mehr als 6 Monaten) mit Cisplatin in Kombination mit pegyliertem liposomalen Doxorubicin, Paclitaxel und Gemcitabin kombiniert werden. Als Alternative steht Doxorubicin mit Trabectedin zur Verfügung. Bei Frührezidiven unter 6 Monaten (Platin-Resistenz) „sollte die Erhaltung der Lebensqualität gegenüber anderen Therapiezielen im Vordergrund stehen“. Eine Kombinationstherapie bietet hier keinen Vorteil. Es wird eine Monotherapie mit pegyliertem liposomalen Doxorubicin, Topotecan, Gemcitabin oder Paclitaxel empfohlen.Beim rezidivierten Platin-sensiblen high grade serösen Ovarialkarzinom kann eine Therapie mit Olaparib das Progressions-freie Überleben (PFS) erhöhen. Voraussetzung für die Therapie ist u. a. der Nachweis einer BRCA-Mutation im Tumor oder in der Keimbahn, was auf etwa 20 % der Patientinnen zutrifft. Im März 2017 hat die US-Arzneimittelbehörde FDA mit Niraparib (Handelsname: Zejula, Hersteller: Tesaro) einen weiteren PARP-Inhibitor zur Behandlung des Ovarialkarzinoms und verwandter Malignome zugelassen. Die Europäische Kommission (EC) hat im November 2017 die Zulassung für Zejula (Niraparib) in der Europäischen Union EU erteilt. Zejula ist der erste in Europa zugelassene orale, einmal täglich einzunehmende PARP-Inhibitor, für den keine Testung des BRCA-Mutationsstatus oder eine andere Biomarkertestung erforderlich sind.
+
+
+== Prognose ==
+Entscheidend für die Prognose sind das Tumorstadium bei Stellung der Diagnose, der histologische Befund und vor allem die Größe des nach der Operation verbliebenen Tumorrestes.
+Die Prognose des Ovarialkarzinoms ist sehr uneinheitlich und schwankt in Abhängigkeit von dem Tumorstadium bei Diagnosestellung, aber auch in Abhängigkeit vom histologischen Befund und von der Menge des bei der ersten Operation zurückgelassenen Tumorrestes. Die 5-Jahres-Überlebensrate (über alle Erkrankten gemittelt) liegt bei 30–40 %. Grund hierfür ist vor allem die meist späte Diagnosestellung und das hohe Rezidivrisiko.
+
+
+== Literatur ==
+S3-Leitlinie Diagnostik, Therapie und Nachsorge maligner Ovarialtumoren (Living Guideline) der Deutschen Gesellschaft für Gynäkologie und Geburtshilfe. In: AWMF online (Stand 03/2020)
+Alexander Burges, Barbara Schmalfeldt: Ovarialkarzinom: Diagnostik und Therapie. In: Dtsch Arztebl Int. Nr. 108 (38), 2011, S. 635–641 (Übersichtsarbeit). 
+Krebs in Deutschland 2013/2014. 11. Ausgabe. Robert Koch-Institut und die Gesellschaft der epidemiologischen Krebsregister in Deutschland e. V., Berlin 2017, ISBN 978-3-89606-214-7;
+Marius Wunderle: Familiärer Brust- und Eierstockkrebs. W. Zuckschwerdt Verlag, München 2019, ISBN 978-3-86371-244-0 (Reihe: Facharzt-Sprechstunde)
+
+
+== Weblinks ==
+Amtliche Todesursachenstatistik. Statistisches Bundesamt
+Information zum Ovarialkarzinom. krebsdaten.de, Zentrum für Krebsregisterdaten im Robert Koch-Institut
+
+
+== Einzelnachweise ==

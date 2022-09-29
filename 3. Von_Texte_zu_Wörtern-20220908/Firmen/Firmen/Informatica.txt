@@ -1,0 +1,11 @@
+Informatica Corporation bietet Datenintegrationssoftware für verschiedene Geschäftsbereiche an. Die Produkte der Firma unterstützen firmenweite Datenintegration und Datenqualitätslösungen, die unter anderem Data Warehousing, Datenmigration, Datenkonsolidierung, Datensynchronisation und Datensteuerung beinhalten.
+
+
+== Geschichte ==
+Informatica (NASDAQ: INFA) wurde 1993 im Silicon Valley von den indischen Unternehmern Gaurav Dhillon und Diaz Nezamoney gegründet. Es entstand aus der Idee, dass Datawarehouses nicht mehr in Handarbeit eingelesen werden sollten, sondern mit grafischen Werkzeugen erstellt werden können. Im Oktober 2012 übernahm Informatica den Stuttgarter Datenmanagement-Spezialist Heiler Software.
+Anfang April 2015 stimmte der Aufsichtsrat (Board of Directors) der Übernahme des Unternehmens durch die Finanzinvestoren Permira und CPPIB (Canadian Pension Plan Investment Board) zu.
+
+
+== Weblinks ==
+Informatica Webseite (englisch)
+Informatica Webseite (deutsch)

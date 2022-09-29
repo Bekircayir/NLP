@@ -1,0 +1,101 @@
+Eine Mobilitätsgarantie gehört zu den Kundenrechten gegenüber einem Mobilitätsdienstleister, z. B. einem Fahrzeughersteller bzw. -händler oder einem öffentlichen Verkehrsunternehmen. Sie gewährleistet dem Nutzer (Autokäufer oder Fahrgast) aufgrund eines Vertrags oder Gesetzes bei Ausfall seines Verkehrsmittels beispielsweise, ein alternatives Verkehrsmittel zu nutzen.
+
+
+== Mobilitätsgarantie für Autofahrer ==
+
+
+=== Rechtsnatur ===
+Eine Mobilitätsgarantie ist trotz der gelegentlichen Bezeichnung als „Versicherungsleistung“ weder eine Versicherung im Sinne des Versicherungsvertragsgesetzes noch eine Verlängerung der gesetzlichen Gewährleistung. Erweckt der Garantiegeber allerdings den Eindruck, eine Versicherung oder die Verlängerung der Gewährleistung zu versprechen, kann der Anspruch des Garantienehmers über die eigentlich versprochenen Garantieleistungen hinausgehen, weil der Garantienehmer sich die verbraucherschützenden Vorschriften des Versicherungs- oder Gewährleistungsrechts entgegen halten lassen muss.Die Mobilitätsgarantie ist nur bedingt vergleichbar mit den Leistungen eines Schutzbriefs für Mitglieder eines Automobilclubs bzw. einer Versicherung mit eingeschlossenem Schutzbrief. Sowohl der Schutzbrief- als auch der Garantiefall gehen grundsätzlich von einer Panne als Ausgangspunkt für die Erbringung versprochener Leistungen aus. Wenn die Garantie beim Kauf eines Fahrzeuges mit vereinbart wird, ist sie rechtssystematisch eine Nebenleistung. Dagegen werden Schutzbriefleistungen üblicherweise als eigenständige Leistungen versprochen, die rechtlich nicht mit dem Kauf eines Fahrzeuges zusammenhängen.
+
+
+=== Bedingungen ===
+Die Mobilitätsgarantie kann bereits beim Kauf eines Neuwagens beinhaltet sein oder durch andere Möglichkeiten (nach Ablauf der Garantie), wie das stete Aufsuchen einer Vertragswerkstatt, erworben werden. Bei Einhaltung der Wartungsintervalle wird dem Kunden zugesichert, dass ihm im Pannenfall täglich rund um die Uhr geholfen wird. Die Erreichbarkeit des Pannendienstes gehört zu den vertraglichen Nebenpflichten des Mobilitätsgarantiegebers. Allerdings müssen dafür Fahrzeugreparaturen und Inspektionen stets in einer Fachwerkstatt bzw. Vertragswerkstatt durchgeführt worden sein. Die genauen Bedingungen hängen von der jeweiligen gewährten Mobilitätsgarantie ab. Ist eine Pannenhotline über längere Zeit nicht erreichbar oder weigert sich die Vertragswerkstatt des Garantiegebers als dessen Erfüllungsgehilfe die Reparatur als Garantieleistung anzuerkennen und ein Ersatzfahrzeug zur Verfügung zu stellen, kann dies Schadensersatzansprüche des Garantienehmers gegen den Garantiegeber auslösen. Der Garantienehmer könnte Ersatzleistungen in Anspruch nehmen, die er anschließend dem Garantiegeber in Rechnung stellen kann.
+
+
+=== Darlegungs- und Beweislast ===
+Die Darlegungs- und Beweislast für einen Mobilitätsgarantiefall liegt grundsätzlich beim Garantienehmer. Wie bei der Gewährleistung gilt aber in den ersten sechs Monaten seit dem Gefahrübergang eine Beweislastumkehr gem. § 476 BGB. Soweit es bei dem Mobilitätsgarantiefall um einen Unterfall einer Haltbarkeitsgarantie geht, kann gem. § 443 Abs. 2 BGB sogar für die gesamte Garantiezeit vermutet werden, dass ein Sachmangel die Rechte aus der Garantie nach sich zieht. Liegt also ein herstellungsbedingter Defekt des Fahrzeuges ohne Einwirkung von außen vor, muss der Garantiegeber für die gesamte Garantiezeit beweisen, dass ein Garantieausschluss vorliegt, um sich von seiner Leistungspflicht befreien zu können.
+
+
+=== Umfang ===
+Die Pannenhilfe selbst ist kostenlos. Für Unfälle, Diebstahl, die Reparatur von Unfallschäden oder bei eigenem Verschulden kommt die Mobilitätsgarantie nicht auf. Anfallende Kosten durch Mobilitätsgarantie werden zwischen Vertragswerkstatt bzw. Pannendienst und Fahrzeughersteller bzw. -händler intern verrechnet.
+Inhalte der Mobilitätsgarantie sind üblicherweise:
+
+Pannenhilfe vor Ort
+Abschleppen in die nächste Vertragswerkstatt
+Ersatzwagen für die Dauer der Reparatur
+Hotelkosten bei Panne auf einer Urlaubsreise für die Dauer der Reparatur
+
+
+=== Vorteile für Autohersteller = Nachteile für Neukunden ===
+Die Mobilitätsgarantie verschafft dem Autohersteller unter anderem folgende Vorteile: Neugewinnen und Bewahren von Kunden durch ein sogenanntes "Sorglospaket" sowie zusätzliche finanzielle Gewinne, falls die Mobilitätsgarantie gegen Entgelt angeboten wird, und durch die Pflicht, eine Vertragswerkstatt aufzusuchen. Weiterhin erscheinen die Fahrzeuge, für die eine Mobilitätsgarantie abgeschlossen wird, im Pannenfall nicht in den jährlichen Pannenstatistiken der Automobilclubs, und das obwohl die Inhalte der Mobilitätsgarantie dem klassischen Pannen-Schutzbrief einer Kfz-Versicherung oder eines Automobilclubs entsprechen und sogar die ausführenden Pannenhelfer vor Ort die gleichen sind. Gerade hier ist es in Deutschland 2006 gelungen, durch juristische Manipulation der Gesetze der mathematischen Statistik ein Imageproblem von im Vergleich zur Konkurrenz technisch unzuverlässigen und trotzdem teuren Automarken zu beseitigen. Damit werden aber potentielle Kunden über die tatsächliche Zuverlässigkeit eines zu erwerbenden Modells getäuscht. Gleichzeitig entschieden sich deutsche Automobilbauer ein weiteres typisches Imageproblem ihrer Fahrzeuge, deren schlechte Umweltverträglichkeit, durch betrügerische Manipulation der Abgaswerte zu kaschieren.Über Jahrzehnte hinweg hatten deutsche Automarken in der jährlichen Pannenstatistik gegenüber japanischen Fahrzeugbauern schlechter abgeschnitten. Wie die WELT berichtete, befanden sich laut ADAC-Pannenstatistik 2005 unter den Top Ten sogar neun japanische Marken.
+Sofort nach Einführung der Mobilitätsgarantie jedoch konnte dieser Nachteil "statistisch" beseitigt werden. Ein wesentlicher Teil der Pannen deutscher Neufahrzeuge wurde nunmehr mit juristischer Deckung aus der Statistik herausgenommen. Weil aber die Pannenstatistik nur für neuere Fahrzeuge bis zu sechs Jahren Alter geführt wurde, standen seit 2006 Marken wie VW, Mercedes, BMW in der Rangfolge weit besser da als zuvor.
+Und schon nach dem zweiten Jahr der so geschönten Pannenstatistik konnte die WELT in ihrer online-Ausgabe am 14. Januar 2008 vermelden: 
+"Die Autos aus Deutschland haben die Konkurrenz aus Japan in Sachen Zuverlässigkeit klar abgehängt. Nachdem die japanischen Hersteller jahrelang besser abschnitten, hätten deutsche Autos den Rückstand mehr als aufgeholt, teilte der ADAC mit. Ausschlaggebend für den klaren Erfolg der deutschen Hersteller ist das verbesserte Abschneiden der deutschen Fahrzeuge bei der letzten ADAC-Pannenstatistik."Die Negativwerbung auf Kosten japanischer Fahrzeuge hatte sich schon 2007 auf die Statistik der Neuzulassungen in Deutschland ausgewirkt. Damit wurde der ungebrochene, seit 1970 andauernde Aufwärtstrend der Neuzulassungen japanischer Pkw in Deutschland gestoppt.
+
+
+== Mobilitätsgarantie im öffentlichen Personenverkehr ==
+
+
+=== Verbraucherpolitik der Europäischen Union ===
+Zu den Sektormaßnahmen im Rahmen der europäischen Verbraucherschutzes gehört auch die Durchsetzung von Verbraucherrechten durch Verbraucherschutzbehörden und in außergerichtlichen Verfahren.Mit den Rechtsvorschriften der Europäischen Union über Fahr- und Fluggastrechte soll ein einheitliches Mindestniveau für den Schutz der Interessen der Fahr- bzw. Fluggäste aller Verkehrsträger sichergestellt werden, um die Mobilität und die Nutzung öffentlicher Verkehrsmittel zu fördern.Aufbauend auf den Rechten, die zunächst den Fluggästen eingeräumt worden waren, hat die Europäische Kommission entsprechende Regelungen in anderen Bereichen des Personenverkehrs wie dem Schienenverkehr erarbeitet, die sich insbesondere an Personen mit eingeschränkter Mobilität richten.Hinzugekommen ist im Jahr 2010 die Regelung der Fahrgastrechte im See- und Binnenschiffsverkehr.
+
+
+=== Eisenbahnunternehmen ===
+
+
+==== Fahrgastrechte ====
+In Kapitel IV der Verordnung (EG) Nr. 1371/2007 ist seit dem 3. Dezember 2009 für alle Mitgliedstaaten der Europäischen Union verbindlich die Haftung der Eisenbahnunternehmen gegenüber den Fahrgästen bei Verspätungen, verpassten Anschlüssen und Zugausfällen im innerstaatlichen und im grenzüberschreitenden Verkehr geregelt.
+„Verspätung“ bedeutet die Zeitdifferenz zwischen der planmäßigen Ankunftszeit des Fahrgasts gemäß dem veröffentlichten Fahrplan und dem Zeitpunkt seiner tatsächlichen oder erwarteten Ankunft (Art. 3 Nr. 13 VO (EG) Nr. 1371/2007).
+Die Fahrgäste können bei einer nach dem Kauf der Fahrkarte eintretenden Verspätung der Abfahrt oder Ankunft von mehr als 60 Minuten insbesondere eine Fahrpreiserstattung oder Weiterreise mit geänderter Streckenführung beanspruchen, außerdem kostenlose Hilfeleistungen wie die Unterrichtung über die geschätzte Abfahrts- und Ankunftszeit, Mahlzeiten und Erfrischungen während der Wartezeit, notfalls die Unterbringung in einem Hotel sowie eine alternative Beförderung.
+Anhang I Titel IV Kapitel II der VO (EG) Nr. 1371/2007 regelt, ob überhaupt und wenn ja, inwieweit der Beförderer haftet. Der Beförderer ist insbesondere von der Haftung frei, wenn er den Ausfall, die Verspätung oder das Anschlussversäumnis nicht zu vertreten hat. Ein Haftungsausschluss bei höherer Gewalt ist nach der Rechtsprechung des Europäischen Gerichtshofs im Bahnverkehr jedoch unzulässig.
+
+
+==== Beförderung von Menschen mit Behinderung ====
+Kapitel V (Art. 19–25 der VO (EG) Nr. 1371/2007) betrifft den Beförderungsanspruch von Personen mit Behinderung und von Personen mit eingeschränkter Mobilität. Geregelt sind der barrierefreie Zugang zur Beförderung durch Anspruch auf eine Fahrkarte ohne Aufpreis, die kostenlose Hilfeleistung an Bahnhöfen bei Abfahrt, Umsteigen oder Ankunft sowie im Zug während des Ein- und Aussteigens.
+
+
+=== Regelungen auf Bundesebene ===
+Nach § 17 der Eisenbahn-Verkehrsordnung (EVO) von 1938 begründeten Verspätung oder Ausfall eines Zuges keinen Anspruch auf Entschädigung. Die Eisenbahn hatte bei Ausfall oder verhinderter Weiterfahrt eines Zuges lediglich für die Weiterbeförderung der Reisenden zu sorgen. Mit Art. 1 des Gesetz zur Anpassung eisenbahnrechtlicher Vorschriften an die Verordnung (EG) Nr. 1371/2007 (Fahrgastrechteverordnung-Anwendungsgesetz) wurde diese Regelung für den innerstaatlichen Eisenbahnverkehr bereits mit Wirkung zum 29. Juli 2009  an die Vorgaben der VO (EG) Nr. 1371/2007 angepasst.Die Bestimmungen der VO (EG) Nr. 1371/2007 hat außerdem die Deutsche Bahn AG in ihre Beförderungsbedingungen übernommen (A.9 Fahrgastrechte). Im Jahr 2018 musste die Deutsche Bahn ihren Kunden im Nah- und Fernverkehr insgesamt 53,6 Millionen Euro Entschädigung zahlen; 2017 waren es nur 34,6 Millionen.§ 2 Abs. 3 Eisenbahn-Bau- und Betriebsordnung (EBO) sieht die Erstellung von Programmen der Eisenbahnen zur Ermöglichung einer erschwernisfreien Benutzung der Bahnanlagen und Fahrzeuge durch behinderte Menschen vor. Gemäß § 8 Abs. 2 Behindertengleichstellungsgesetz (BGG) soll der Bund bei Baumaßnahmen die Barrierefreiheit in den Bereichen Bau und Verkehr herstellen. Diese Vorgaben wurden bereits im Juni 2005 mit dem 1. Barrierefreiheitsprogramm der Deutschen Bahn AG umgesetzt.Erfolglose Entschädigungsanträge an die Bahn sowie Beschwerden zur Wahrung der Rechte von Menschen mit Behinderungen und Mobilitätseinschränkungen bearbeiten die Schlichtungsstelle für den öffentlichen Personenverkehr und das Eisenbahnbundesamt (§ 5a Abs. 8, 8a Allgemeines Eisenbahngesetz AEG).
+
+
+=== Regionale Verkehrsverbünde ===
+
+
+==== Nordrhein-Westfalen ====
+In Nordrhein-Westfalen gibt es die „Mobilitätsgarantie NRW“, bei der die Verkehrsunternehmen tagsüber (5 bis 20 Uhr) maximal 30 Euro bzw. nachts (20 bis 5 Uhr) maximal 60 Euro pro Person für eine Taxifahrt bezahlt. Bei Fernverkehrszügen werden die Kosten ohne Grenzen übernommen. Wenn sich mehrere Fahrgäste ein Taxi teilen steht dementsprechend mehr Geld für eine Taxifahrt zur Verfügung. Der Fahrgast muss die Kosten vorstrecken und eine Erstattung der Kosten bei dem verursachenden Verkehrsunternehmen (sofern dieses nicht bekannt ist bei der WB Westfalen Bus GmbH oder der BRS Busverkehr Ruhr-Sieg GmbH) innerhalb von 14 Tagen nach dem Vorfall beantragen.Voraussetzung für die Mobilitätsgarantie ist, dass die Abfahrtszeit des Verkehrsmittels mindestens 20 Minuten später ist, als im Fahrplan angegeben. Von der Mobilitätsgarantie ausgenommen sind Streik, Unwetter, Naturgewalten und Bombendrohungen. Auch Verspätungen, die während der Fahrt auftreten, sowie das Verpassen eines anschließenden Verkehrsmittels sind ausgeschlossen.
+Einzelne Verkehrsunternehmen aus dem Nahverkehrsverbund Paderborn-Höxter sind von der Mobilitätsgarantie ausgenommen.
+
+
+===== Verkehrsverbund Rhein-Ruhr =====
+Im Verkehrsverbund Rhein-Ruhr (VRR) erhalten Besitzer eines Bärentickets oder Ticket2000 rund um die Uhr maximal 50 Euro pro Person. Dies ist eine Ergänzung zu der Mobilitätsgarantie NRW, es gelten die gleichen Voraussetzungen, Ausnahmen und Fristen.
+
+
+===== Verkehrsverbund Rhein-Sieg =====
+Auch der Verkehrsverbund Rhein-Sieg (VRS) ergänzt die Mobilitätsgarantie NRW: Besitzer eines Aktiv60Tickets bzw. Monats- oder Formel9Tickets im Abo, einem JobTicket oder einem GroßkundenTicket erhalten pro Person tagsüber (5 bis 20 Uhr) maximal 35 Euro, nachts (20 bis 5 Uhr) maximal 60 Euro. Auch hier gelten die gleichen Voraussetzungen, Ausnahmen und Fristen wie bei der Mobilitätsgarantie NRW.
+
+
+==== Baden-Württemberg ====
+In Baden-Württemberg führten alle 22 Verkehrsverbünde im Jahr 2010 auf Wunsch des Verkehrsministeriums eine Mobilitätsgarantie ein. Nach dieser werden bei einer zu erwartenden Verbindungsankunftsverspätung von mehr als 30 Minuten Taxikosten bis je nach Verkehrsverbund zwischen 35 und 50 Euro erstattet, jedoch nicht für Fahrgäste mit Schüler- und Auszubildendenfahrkarten. Davon abweichend war dies im Landkreis Göppingen bis 2011 nicht anwendbar, da es dort zuvor keinen Verkehrsverbund gab.
+
+
+===== Karlsruhe =====
+Im Karlsruher Verkehrsverbund (KVV) wurde bereits zum 29. Juli 2009 eine Mobilitätsgarantie eingeführt. In der Wabe 100 (Stadtgebiet Karlsruhe) werden jedoch maximal 25 Euro erstattet.Bereits zuvor boten die Verkehrsbetriebe Karlsruhe (VBK) seit 1. Januar 2009 eine Mobilitätsgarantie an. Dieser – auch weiterhin geltenden – Regelung nach können Fahrgäste bei einer tatsächlichen Verbindungsankunftsverspätung von mehr als 20 Minuten eine Entschädigung in Höhe von 5 Euro erhalten. Bei Anschlussverlust zur letzten Fahrt des Betriebstages werden Taxikosten bis 25 Euro erstattet. Auch diese Regelungen können weder mit Schüler- und Auszubildendenfahrkarten, noch bei höherer Gewalt – wie beispielsweise einem durch Falschparker blockierten Fahrweg – angewendet werden.Seit 1. Mai 2017 werden im KVV bei Zeitkarten bei einer Verbindungsankunftsverspätung von mindestens 30 Minuten 1,5 € erstattet, gesamt jedoch maximal die Hälfte des Fahrkartenpreises. Wenn eine solche Verspätung zu erwarten war können bis zu 80 € der Kosten eines stattdessen verwendeten Mietfahrzeugs mit Stundentarif oder Taxis erstattet werden. Letztere Regelung ist bei der letzten planmäßigen Verbindung des Betriebstages auch bei Einzel- und Tagsfahrkarten nutzbar.
+
+
+===== Freiburg =====
+Im Regio-Verkehrsverbund Freiburg (RVF) gilt die landesweite Regelung nur für Inhaber einer RegioKarte für Erwachsene und für schwerbehinderte Menschen mit Schwerbehindertenausweis inklusive Freifahrtberechtigung, also beispielsweise nicht für Kinder und Fahrgäste mit Einzelfahrkarten.Die Freiburger Verkehrs AG (VAG) hat eine eigene Regelung, deswegen sind Fahrten ausschließlich mit dieser von der RVF-Mobilitätsgarantie ausgenommen. Die VAG erstattet bei allen Anschlussverlusten, bei solchen vor 20 Uhr bei einer Wartezeit von mindestens 20 Minuten, Taxikosten bis 10 Euro.Bei der VAG werden außerdem Taxikosten bis zu 10 Euro erstattet, wenn der Fahrgast an einer Endhaltestelle den Anschluss verpasst und die nächste Fahrmöglichkeit laut Fahrplan erst in 20 Minuten besteht. Nach 20 Uhr entfällt diese Zeitbeschränkung. Voraussetzung ist, dass die Verspätung durch die VAG verursacht wurde. Die Ansprüche müssen bereits fünf Tage nach dem Vorfall dem Verkehrsunternehmen gemeldet worden sein.
+
+
+===== Verkehrsverbund Rhein-Neckar =====
+Im Verkehrsverbund Rhein-Neckar (VRN) war die landesweite Regelung anfangs erst ab einer Verspätung von einer Stunde anwendbar. Seit 1. August 2019 ist die Mobilitätsgarantie im VRN auch mit Zeitkarten des Ausbildungsverkehrs nutzbar.
+
+
+==== PaderSprinter-Pünktlichkeitsgarantie ====
+Das Busunternehmen PaderSprinter übernimmt im Rahmen seiner „PaderSprinter Pünktlichkeitsgarantie“ die Kosten einer Taxifahrt bis zu 20 Euro. Voraussetzung dafür ist, dass der Fahrgast die letzte Fahrt an einem Betriebstag nehmen wollte und diese ausgefallen ist. PaderSprinter gehört zu den Verkehrsunternehmen, die von der Mobilitätsgarantie NRW ausgenommen sind. In allen übrigen Fällen, in denen der Bus mindestens 20 Minuten Verspätung hat, bekommt der Fahrgast ein kostenloses Tagesticket, jedoch keinerlei Erstattungen für alternative Verkehrsmittel. Die Ansprüche müssen innerhalb von acht Tagen eingereicht werden.
+
+
+==== Rhein-Main-Verkehrsverbund ====
+Die 10-Minuten-Garantie des Rhein-Main-Verkehrsverbundes gilt bei nach Personenbeförderungsgesetz durchgeführten Fahrten mit Fahrziel in den vollständig südlich des Mains liegenden A-Tarifgebieten außer dem Odenwaldkreis oder in Frankfurt, wobei die Linien N1, N2, N5, K47, K48 und 827, sowie die die AST-Verkehre in Offenbach und Rüsselsheim, und die städtischen Buslinien in Rüsselsheim ausgenommen sind. Bei einer tatsächlichen Verbindungsankunftsverspätung über 10 Minuten wird der volle Fahrpreis – maximal jedoch Preisstufe 4, bei Zeitfahrkarten ein entsprechender Anteil – erstattet. Bei einer planmäßigen Abfahrtszeit nach 21 Uhr können stattdessen Taxikosten bis 15 Euro erstattet werden.
+
+
+== Einzelnachweise ==

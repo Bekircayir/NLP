@@ -1,0 +1,53 @@
+Samsung Electronics Co., Ltd. ist einer der größten Elektronikkonzerne weltweit und gehört zur südkoreanischen Samsung Group (Hauptsitz in Seoul).
+Samsung Electronics ist mit 197 Niederlassungen in 84 Ländern tätig und beschäftigt rund 307.000 Mitarbeiter. Samsung Electronics wurde 1969 gegründet, der Sitz des Unternehmens befindet sich noch immer in Suwon. Vorsitzender von Samsung Electronics ist Lee Kun-hee und CEO ist Kwon Oh-hyun. Das Unternehmen ist im KOSPI an der Korea Exchange gelistet.
+Samsung ist weltweiter Marktführer bei Fernsehgeräten, Handys, Smartphones, Kühlschränken, Speicherprodukten (DRAM, NAND, SSD) und Wearable Devices.
+
+
+== Geschichte ==
+
+
+=== Jüngere Geschichte ===
+Samsung Electronics erwirtschaftete 2011 einen operativen Gewinn von 10,84 Milliarden Euro. Der Umsatz betrug 111,82 Milliarden Euro. Das Investitionsbudget von Samsung Electronics wurde 2010 auf 12,7 Milliarden Euro erhöht. Damit investiert Samsung Electronics mehr als seine Konkurrenten Intel, IBM und Sony zusammen. Im April 2011 verkaufte Samsung seine Festplattensparte an Seagate Technology. Im Jahr 2011 konnte Samsung Electronics weltweit 6,99 Millionen Laserdrucker, 47,69 Millionen Fernsehgeräte und 13,17 Millionen Mobile PCs absetzen.
+
+Im Februar 2012 wurde durch Medienberichte bekannt, dass Samsung sein defizitäres Geschäft mit Flüssigkristall-Bildschirmen abspaltet. Das Defizit wurde unter anderem durch wachsende Konkurrenz aus China und die Rückgänge im Handel mit Fernsehgeräten erzeugt. Aufgrund eines Überangebots im Markt musste in vier Quartalen hintereinander ein operativer Verlust verbucht werden. Durch die Abtrennung der LCD-Sparte will man die Ressourcen effektiver einsetzen und auf die Bedürfnisse der Kunden reagieren. Im 4. Quartal 2014 erwirtschaftete Samsung Electronics einen Umsatz in Höhe von 42,81 Milliarden Euro und einen konsolidierten operativen Gewinn von 4,29 Milliarden Euro.
+Seit 2014 hat das Unternehmen neun Unternehmen erworben: z.B. SELBY, SmartThings, Simpress, LoopPay und Joyent. Samsung Electronics will sich mit den Zukäufen von Startups seine Vormachtstellung in der Branche nach der Smartphone-Ära sichern. Das Unternehmen hat bereits mehrmals betont im IoT-Bereich zu wachsen. 2016 erwarb Samsung Electronics das kanadische Onlinewerbeunternehmen AdGear. Das südkoreanische Unternehmen will im Softwaresektor eigenständiger werden und von der Abhängigkeit von Googles Android lösen.
+Im Fernsehsegment will das Unternehmen sich von der OLED-Technik verabschieden und zukünftig auf die Quantum-Dot-Technik (QLED) setzen. Unlösbare Probleme wie die beschränkte Lebensdauer, der Einbrenneffekt sowie die hohen Herstellungskosten sind die Gründe für diese Entscheidung. Der Konkurrent LG Electronics setzt indes auf die OLED-Technik. Das Unternehmen gab Mitte 2016 bekannt, dass seine OLED-Fernsehgeräte wegen der aufwendigen Qualitätskontrollen 100.000h halten würden. Die Lebensdauer der OLED-Displays lag zu Beginn der Entwicklung im Jahre 2013 bei 36.000 Stunden.
+2015 waren die USA für Samsung Electronics mit einem Umsatzanteil von 34 % der wichtigste Absatzmarkt. Europa machte nur 19 % Umsatzanteil aus (tendenziell fallend), gefolgt von China mit 15 %. Vor allem in China verliert das südkoreanische Unternehmen stark an Marktanteil wegen der starken heimischen Konkurrenten. 
+Im September 2016 verkaufte Samsung Electronics seine Druckersparte an HP Inc. für zirka eine Mrd. US-Dollar.
+
+
+==== Galaxy Note 7 Verkaufsstopp ====
+Kurz nach dem Verkaufsstart des neuen Smartphones Galaxy Note 7 Anfang September 2016 wurden Fälle bekannt, in denen sich der fest verbaute Akku überhitzte und Geräte teilweise in Flammen aufgingen. Samsung Electronics ließ ab dem 19. September mehrere Million ausgelieferte Galaxy Note 7 zurückrufen und gleichzeitig den Verkauf stoppen. Kunden wurden aufgefordert, die Geräte nicht weiter zu nutzen und umzutauschen. Die Akkus wurden vom Tochterunternehmen Samsung SDI produziert. Nachdem die ersten Note 7-Austauschgeräte ausgeliefert wurden, bestätigten sich erneut Fälle von überhitzten Akkus. Einige größere Mobilfunk-Provider in den USA boten den Käufern die Rückgabe des Note 7 und den Tausch gegen ein anderes Gerät an. Am 11. Oktober 2016 gab Samsung bekannt, dass alle ausgelieferten Geräte erneut zurückgerufen werden und die Produktion des Note 7 endgültig eingestellt wird. Die zurückgerufenen Note 7-Geräte sollen vollständig vernichtet werden. Die entstandenden Verluste für Samsung durch das Galaxy Note 7 werden auf etwa 17 Milliarden US-Dollar geschätzt.
+
+
+== Geschäftsfelder ==
+
+Samsung Electronics ist in drei Divisionen unterteilt. Jede Division ist für zwei bis vier Geschäftsfelder zuständig.
+
+
+=== IT und Mobile Kommunikation ===
+Mobile Kommunikation
+Netzwerk
+
+
+=== Elektronik für Verbraucher ===
+Visual Display
+Digitale Geräte
+Druckerlösungen
+Gesundheit und medizinische Ausstattungen
+
+
+=== Hardwarelösungen ===
+Speicher
+System LSI
+LED
+
+
+== Weblinks ==
+
+Samsung Deutschland
+Samsung weltweit
+Samsung LED
+
+
+== Einzelnachweise ==

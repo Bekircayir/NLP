@@ -1,0 +1,38 @@
+Level 3, gegründet 1985, ist ein internationaler Anbieter von Kommunikationsdienstleistungen mit Sitz in Broomfield, Colorado. Der Sitz der deutschen Tochtergesellschaft ist Frankfurt am Main. Level 3 betreibt ein großes IP-Glasfasernetzwerk (Weitverkehrsnetz), mit einer Gesamtlänge von zirka 120.000 km (Stand 2007), welches von anderen Telekommunikationsunternehmen gemietet werden kann.
+Das Unternehmen ist ein sogenannter Tier-1-Carrier und betreibt mehrere Backbones und vier transatlantische Verbindungen von Europa nach Nordamerika. Das Unternehmen besitzt ein weltweit homogenes Netzwerk, verwendet also an jedem Standort identische Ausrüstung.
+
+
+== Geschichte ==
+
+
+=== 1985 bis 2010 ===
+1985 gründete das Bauunternehmen Peter Kiewit Sons’ Inc die Tochterfirma Kiewit Diversified Group für die Verwaltung der Unternehmensbereiche, die nicht mit dem Bau zusammenhingen. Diese Abteilung wurde im Jahr 1998 ausgegliedert und in Level 3 Communications umbenannt, um den verstärkten Fokus auf die Telekommunikationsdienstleistungen zu unterstreichen. Im gleichen Jahr wurde der Börsengang an der New Yorker Börse NASDAQ beendet.
+Im Jahr 2003 wurde Genuity übernommen und zwischen 2005 und 2007 wurden weitere Unternehmen gekauft, unter anderem die vorherigen Konkurrenzunternehmen WilTel Communications, Broadwing Corporation, Looking Glass Networks, Progress Telecom und Telcove.
+2004 übernahm Level 3 das Wholesale Dial-Up Geschäft von ICG Communications für 35 Millionen US-Dollar. 2006 übernahm Level 3 dann den Rest von ICG Communications für 163 Millionen US-Dollar inklusive des Glasfasernetzwerks von ICG und den US-amerikanischen landesweiten Points of Presence.
+
+
+=== 2010 bis heute ===
+Am 11. April 2011 kündigte das Unternehmen sein Angebot für die Übernahme vom Tier 1 Provider Global Crossing in einer Gesamtübernahme der Aktien an. Am 5. August 2011 stimmten die Aktionäre beider Unternehmen der Übernahme zu. Am 4. Oktober wurde die Übernahme abgeschlossen. Am 20. Oktober 2011 beendete Level 3 Communications die Aktienzusammenlegung und transferierte seine Notierung von der NASDAQ zum New York Stock Exchange.
+Nach einem Bericht der Süddeutschen Zeitung ist das Unternehmen in internen Dokumenten des britischen Geheimdienstes aus dem Jahr 2009 als eine jener Telekomfirmen aufgeführt, die „den geheimen Diensten beim Ausspähen helfen oder helfen müssen“. Vorwürfen, wonach Level 3 innerhalb Deutschlands Daten zur Weitergabe an die amerikanische NSA abgegriffen habe, trat das Unternehmen im August 2013 mit der Aussage entgegen, Level 3 gewähre keiner nichtdeutschen Regierung Zugang zu ihrem Telekommunikationsnetz oder ihren Einrichtungen in Deutschland und habe solchen auch in der Vergangenheit nicht gewährt.
+
+
+== Unternehmen ==
+Zu den Kunden gehören 19 der 20 größten Telekommunikationsunternehmen. Neben Telekommunikationsleistungen bietet Level 3 auch Colocation an. Das Unternehmen betreibt derzeit in Deutschland fünf Großrechenzentren und Metro-Netze, d. h. innerstädtische Glasfasernetze, an den Standorten
+Berlin
+Düsseldorf
+Hamburg
+Frankfurt am Main
+München
+Weltweit betreibt das Unternehmen 125 Stadtnetze.
+
+
+=== Netzwerk ===
+Level 3 betreibt ein großes Internet-Netzwerk in den USA, Südafrika, Westeuropa und in ausgewählten Städten in Asien. Das Unternehmen verwendet transatlantische Seekabel.
+Das Unternehmen betreibt ein Content Delivery Network, welches im Jahr 2006 von Savvis übernommen wurde. Level 3 stellt Netflix Video und Apple Inc Musikinhalte über das Internet zur Verfügung.
+
+
+=== Verkaufsorganisation ===
+Das Unternehmen vertreibt und verkauft seine Dienstleistungen in Deutschland über die zwei direkten Vertriebskanäle Enterprise (Großkunden) und Wholesale (z. B. andere Telekommunikationsunternehmen, Content Provider, Internet Service Provider) sowie einen indirekten Vertriebskanal (über Partner und Wiederverkäufer).
+
+
+== Einzelnachweise ==

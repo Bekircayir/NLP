@@ -1,0 +1,65 @@
+Die erworbene Aortenklappenstenose, eine durch Entzündung (Endokarditis) oder Verkalkung (Kalzifikation) verursachte Verengung der Aortenklappe, ist heute der häufigste Herzklappenfehler beim Menschen. Die Prävalenz bei über 75-Jährigen beträgt mehr als 3 %. Die angeborene Aortenstenose wird in einem eigenen Artikel beschrieben, da Ursachen und Behandlung sehr unterschiedlich sind.
+
+
+== Formen und Ursachen ==
+Die häufigste Form einer erworbenen Aortenklappenstenose ist die primär-degenerative, kalzifizierte Aortenklappenstenose, die hauptsächlich bei älteren Menschen auftritt. Sie entsteht durch eine fortschreitende Sklerose (umgangssprachlich “Verkalkung”) der Aortenklappe, die zu einer Degeneration und Kalzifizierung der Klappentaschen und allmählich zu einer Stenose führen. Die Aortenklappensklerose selbst ist die Folge einer Entzündungsreaktion, deren Ablauf dem der Arteriosklerose (“Arterienverkalkung”) sehr ähnlich ist. Risikofaktoren dieser Form sind Niereninsuffizienz und eine Hyperkalzämie, das heißt eine zu hohe Kalziumkonzentration im Blut. Darüber hinaus gibt es einige umstrittene Risikofaktoren wie Rauchen, Bluthochdruck und die Zuckerkrankheit (Diabetes mellitus). Wahrscheinlich spielen bei der Entstehung der Aortenklappensklerose auch genetische Faktoren eine Rolle. Bestimmte Allele, bspw. das B-Allel des Vitamin-D-Rezeptors, scheinen das Risiko der Sklerosierung zu erhöhen.
+Die zweithäufigste Ursache ist eine Fehlanlage der Aortenklappe. Normalerweise besteht die Aortenklappe aus drei halbmondförmigen Taschen. Bei einer sogenannten bikuspiden Aortenklappe, die nur aus 2 halbmondförmigen Taschen besteht, kommt es durch eine hämodynamische Fehlbelastung sekundär zur Aortenklappensklerose mit Kalzifizierung und schließlich zur Aortenklappenstenose.
+Eine weitere Ursache ist eine erworbene Aortenklappenstenose als Spätfolge des rheumatischen Fiebers.
+
+
+== Pathophysiologie ==
+Die linke Herzkammer (Ventrikel, vgl. Herz) pumpt mit jedem Herzschlag Blut durch die Aortenklappe in die Brustschlagader (Aorta). Die Öffnungsfläche einer gesunden Aortenklappe beim Erwachsenen beträgt etwa 3–4 cm². Eine Verengung der Aortenklappe führt dazu, dass zunehmend höherer Druck erzeugt werden muss, um die gleiche Menge an Blut zu fördern. Eine Verengung auf etwa 25 % der normalen Öffnungsfläche führt zu einer bedeutsamen Druckbelastung des linken Ventrikels. Eine schwere Aortenklappenstenose, von der Symptome erwartet werden können, hat in der Regel eine Öffnungsfläche von weniger als 0,75–1 cm². Während der Klappenöffnung besteht dann meist schon ein mittlerer Druckunterschied zwischen linkem Ventrikel und Aorta von mehr als 50 mmHg.
+
+
+== Natürlicher Verlauf und Symptome ==
+Da die Klappenverengung meist nur langsam zunimmt oder gar unverändert bleibt, kann sich das Herz an die erhöhte Druckbelastung des linken Ventrikels durch eine Verdickung des Herzmuskels (Hypertrophie) anpassen. So bleibt der Klappenfehler oft über Jahre und Jahrzehnte asymptomatisch.
+Das Auftreten der typischen Symptome allerdings gilt als ernster Warnhinweis:
+
+Atemnot bei Belastung oder gar unter Ruhebedingungen (Dyspnoe) tritt aufgrund der linksventrikulären Hypertrophie auf, was bedeutet, dass der linke Herzmuskel so stark gewachsen ist, dass durch die dadurch verminderte Elastizität der linken Herzkammer sich der Druck in den Lungenvenen erhöht. Folglich wird der Lungenkreislauf nicht mehr so frequent durchlaufen und es kommt zur bezeichneten Dyspnoe.
+Ein Gefühl der Brustenge (Angina Pectoris), zunächst meist bei körperlicher Belastung, deutet auf eine Mangelversorgung des druckbelasteten hypertrophierten Herzmuskels hin. Die mittlere Lebenserwartung beträgt dann noch ca. 5 Jahre.
+Plötzliche Bewusstlosigkeit (Synkope), ebenfalls meist bei Belastung auftretend, lässt erkennen, dass der linke Ventrikel den erhöhten Blutbedarf nicht mehr durch die stenosierte Aortenklappe fördern kann. Die mittlere Überlebenszeit ist auf ca. 3 Jahre verkürzt.
+Eine akute Herzinsuffizienz mit Lungenstauung oder gar Lungenödem weist auf den Beginn einer kritischen Phase mit nicht mehr ausreichenden Reserven des Herzmuskels hin. Die mittlere Lebenserwartung ist mit ca. 2 Jahren dann deutlich eingeschränkt.Das häufig zusammenhängende Auftreten der Dyspnoe, Angina Pectoris und der Synkope bezeichnet man als Symptomtrias der Aortenklappenstenose. Bei gleichzeitigem Auftreten von Dickdarmblutungen infolge von Angiodysplasien spricht man vom Heyde-Syndrom.
+Die Prognose einer asymptomatischen, meist zufällig entdeckten Aortenklappenstenose ist zunächst nur unsicher vorherzusagen. Im Durchschnitt nimmt die Klappenöffnungsfläche jährlich um etwa 0,12 cm² ab, allerdings zeigt sich bei mehr als der Hälfte der Patienten über Jahre keine oder nur eine sehr geringe Verschlechterung. Anhaltspunkte für eine Vorhersage können das Ausmaß der Klappenverkalkungen und insbesondere der Verlauf in den ersten Jahren liefern.
+
+
+== Diagnostik ==
+
+Die einfachste Untersuchung beim Verdacht auf eine Aortenstenose ist die das Abhorchen mit dem Stethoskop (Auskultation). Typischer Geräuschbefund der Aortenstenose ist wie bei der angeborenen Aortenstenose ein (in der Phonokardiographie spindelförmiges) systolisches Herzgeräusch (Systolikum), das über dem Aortenareal (unmittelbar rechts des oberen Brustbeindrittels, 2. ICR rechts) am lautesten ist und in die Halsschlagadern fortgeleitet wird. Dieses Geräusch wird häufig als rau oder fauchend beschrieben.  Oftmals ist ein 4. Herzton zu hören. Bei höhergradigen Stenosen sind 1. und 2. Herzton fast immer nur sehr leise oder gar nicht zu hören. Bei mittel- bis höhergradigen Stenose ist meist der Tastbefund an der Halsschlagader (Carotispuls) charakteristisch verändert: Beim sogenannten Pulsus parvus et tardus fühlt sich die Pulswelle durch den veränderten Blutfluss weicher an. Ein fühlbares Schwirren an der Brustwand links neben dem Brustbein zeigt fast immer eine hochgradige Stenose an.
+Bei einem verdächtigen Geräuschbefund wird eine Ultraschalluntersuchung des Herzens (Echokardiografie) durchgeführt, mit deren Hilfe die Aortenklappe in der Regel zuverlässig beurteilt werden kann. Bei ausreichend guten Schallbedingungen kann die Aortenstenose bereits zuverlässig quantifiziert werden, indem mittels Dopplertechnik die Druckgradienten und die Klappenöffnungsfläche (KÖF) berechnet werden.
+Bei operationsbedürftigen Patienten wird fast immer eine Herzkatheteruntersuchung inkl. Koronarangiografie erfolgen, um vor der Herzoperation eine begleitende koronare Herzkrankheit auszuschließen, die ansonsten eine gleichzeitige Bypassoperation erfordern würde. Bei unklaren Echokardiografiebefunden kann auch das exakte Ausmaß der Aortenstenose während der Herzkatheteruntersuchung bestimmt werden.
+
+
+== Komplikationen ==
+Bei Fehldiagnosen, zu späten Diagnosen, stark akutem Auftreten einer vorher asymptomatisch verlaufenden Aortenklappenstenose oder nicht adäquat schnellem Handeln können kleine Blutgerinnsel aufgrund der turbulenten Strömungen an der verkalkten Aortenklappe entstehen, die zum Beispiel die feinen Kapillaren des Gehirns verstopfen können und zu einem Schlaganfall führen.
+Auch kann es zu Herzrhythmusstörungen kommen einhergehend mit plötzlichem Herztod.
+
+
+== Therapie ==
+Eine asymptomatische Aortenklappenstenose bedarf in der Regel keiner besonderen Therapie, sollte aber regelmäßig kardiologisch kontrolliert werden. Wenn aufgrund der Verlaufsbeobachtung zu vermuten ist, dass eine schwere Aortenstenose in Kürze symptomatisch wird, kann bereits zu diesem Zeitpunkt zur Operation geraten werden.
+
+
+=== Operation ===
+Symptomatische erworbene Aortenklappenstenosen müssen in der Regel operativ behandelt werden. Dabei wird die erkrankte Klappe entfernt und durch eine biologische oder künstliche Klappenprothese ersetzt. Diese Operation wird auch bei sehr alten Menschen (bis über das 90. Lebensjahr hinaus) durchgeführt, weil auch bei ihnen die Prognose durch eine Operation verbessert werden kann. In den 1990er Jahren waren große Hoffnungen in die technisch durchführbare Ballondilatation der Aortenklappe über einen Herzkatheter gesetzt worden, die den Patienten die aufwändige Herzoperation ersparen könnte. Heute allerdings ist diese Methode auf Patienten mit einem sehr hohen Operationsrisiko beschränkt, da sich nach erfolgreicher Dilatation meist sehr schnell wieder eine Verengung einstellt, und wird zunehmend durch Verfahren des minimalinvasiven Klappenersatzes verdrängt.
+In den letzten Jahren ist es auch möglich geworden, in eine verengte Aortenklappe durch ein interventionelles Katheterverfahren (über einen Zugang über die Leistengefäße bzw. über einen kleinen Brustkorbschnitt) eine Ersatzklappe zu implantieren (transfemoraler Aortenklappenersatz, transcatheter aortic-valve implantation (TAVI) bzw. transapikaler Klappenersatz). Dabei wird die implantierbare Klappe in die verkalkte Klappe mittels Ballon gepresst (Ballon-dilatierte Klappe) oder aber entfaltet sich selbst (Selbstexpandierende Klappe). Dieses Verfahren wird derzeit nur bei Patienten eingesetzt, bei denen eine offene Aortenklappenoperation zu risikoreich erscheint. In einer Studie mit ausgewählten, besonders stark  erkrankten (und somit konventionell nicht operablen) Patienten konnte die Ein-Jahres-Sterblichkeit von 50,7 % (ohne OP) auf 30,7 % (Katheterverfahren) gesenkt werden.
+
+
+=== Medikamente ===
+Eine gesicherte Indikation für eine medikamentöse Behandlung besteht nicht. Patienten mit einer Herzinsuffizienz, bei denen eine Operation nicht infrage kommt, erhalten in der Regel Diuretika und falls indiziert auch Digitalisglykoside. Der Einsatz von Diuretika hat sehr vorsichtig zu erfolgen, da bei der Aortenstenose das Herzzeitvolumen über das erhöhte intravasale Volumen (Vorlast) aufrechterhalten wird. Der Einsatz von kreislaufwirksamen Medikamenten erfolgt sehr vorsichtig in betont niedrigen Anfangsdosierungen. ACE-Hemmer sind bei Aortenstenose ebenso wie Calciumantagonisten und Nitrate kontraindiziert. Grund hierfür ist eine verminderte Perfusion der Koronarien durch die Senkung der Nachlast im Kreislauf bei gleichzeitig erhöhter Vorlast und hierdurch vermehrter Wandspannung. Bei Vorhofflimmern wird eine Antikoagulation zur Prophylaxe von Embolien durchgeführt.
+Der Versuch, die fortschreitende Verengung kalzifizierter Aortenstenosen durch Statine aufzuhalten, kann aufgrund widersprüchlicher Studienergebnisse noch nicht abschließend bewertet werden.
+
+
+=== Allgemeine Maßnahmen ===
+Asymptomatische Patienten mit einer leichten Aortenstenose können sich normal belasten, bei einer mittelschweren Stenose sollen Wettkampfsportarten vermieden werden. Bei schwerer Stenose wird von hohen und plötzlichen körperlichen Belastungen abgeraten, Ausdauersport hingegen kann bei einem normalen Befund des Belastungs-EKG erlaubt sein.
+
+
+== Weblinks ==
+Lehrvideo zur Evaluation eines Patienten mit Low-Flow Aortenstenose
+
+
+== Literatur und Quellen ==
+H. Renz-Polster u. a.: Basislehrbuch Innere Medizin. 4. Auflage. Urban & Fischer-Verlag, München 2008, ISBN 978-3-437-41053-6.
+Thomas Christen u. a.: Die Aortenklappenstenose beim Erwachsenen. In: Schweiz Med Forum. 6, 2006, S. 626–632. Teil 1 (PDF; 470 kB) und Teil 2 (PDF; 204 kB)
+Wolfgang Scheider: Aortenklappenstenose. In: Ärztliche Praxis. 2007.
+
+
+== Einzelnachweise ==

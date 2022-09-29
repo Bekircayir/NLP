@@ -1,0 +1,8 @@
+Das Akute Coronare No-Flow-Phänomen (engl.: acute coronary no-flow, auch: abrupt coronary no-flow; Abk.: ACNF) ist ein sehr seltenes Phänomen (< 1 %) des fehlenden Blutflusses in einem oder bis zu allen Herzkranzgefäßen im Rahmen einer Transkoronaren Ablation der Septumhypertrophie (TASH). Es handelt sich hierbei um eine lebensbedrohliche Komplikation.
+Ursache ist ein Spasmus der Gefäßmuskulatur. Die Genese ist unklar, eine Assoziation mit starkem psychischem Stress des Patienten vor dem Eingriff ist jedoch beobachtet worden. Abzugrenzen ist das ACNF von einer fehlerhaften Injektion des Alkohols, welche zu isoliertem Flussabbruch im Ramus interventricularis anterior (RIVA, LAD) oder einem seiner Seitenäste führt.
+Therapeutisch wird hochdosiertes Urapidil intracoronar gegeben, der hierdurch verursachte Blutdruckabfall wird mit Norepinephrin intravenös kompensiert.
+
+
+== Quellen ==
+H. Kuhn, F. Gietzen, C. Leuner: The abrupt no-flow: a no-reflow like phenomenon in hypertrophic cardiomyopathy. In: Eur Heart J. 2002; 23, S. 91–93; PMID 11741371
+How to perform a safe and effective TASH; engl.; Webseite der Erstbeschreiber (Kuhn H et al.); Städt. Kliniken Bielefeld-Mitte

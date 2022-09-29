@@ -1,0 +1,85 @@
+Motorola Inc [moʊtəˈɹoʊlə] mit Sitz in Schaumburg in Illinois ist das Vorgängerunternehmen der durch seine Aufspaltung im Januar 2011 entstandenen Unternehmen Motorola Solutions und Motorola Mobility. Motorola war ein international tätiger Hersteller elektronischer Systeme und Bauelemente mit den Schwerpunkten Mobile Kommunikation, Netzwerke und eingebettete Systeme.
+In Deutschland wurde das Unternehmen lange Zeit durch die Motorola GmbH in Idstein vertreten (früher in Neuhof). Im Jahre 2004 erzielte Motorola Deutschland mit circa 2500 Mitarbeitern (2002 noch 3500) einen Umsatz von rund 4,3 (2,6) Milliarden Euro. Seit dem 2. Mai 2011 wird Motorola in Deutschland durch die Motorola Solutions Germany GmbH (Bündelfunk und TK-Lösungen) und die Motorola Mobility Germany GmbH (Mobiltelefone) repräsentiert.
+
+
+== Geschichte ==
+
+Die Galvin Manufacturing Corporation (GMC) wurde 1928 von den Brüdern Paul V. Galvin und Joseph E. Galvin gegründet und 1947 in Motorola umbenannt.
+GMC baute 1930 das erste kommerziell erfolgreiche Autoradio der Welt. Das Modell 5T71 kostete 110–130 US-Dollar (entspräche inflationsbereinigt heute etwa 1.600–1.800 US-Dollar). Das Radio bekam wegen seiner schweren und voluminösen Ausführung die Bezeichnung „Motorola“, eine Wortschöpfung aus Motor (motorcar, motion) und ola (Schall, Welle, la ola) (nach anderen Quellen (brand eins): „Eine Kombination aus Automobil und Victrola, dem legendären Grammofon“). Der Erfolg war so groß, dass es in den USA bald zum Synonym für den Hersteller und für ein Autoradio überhaupt wurde.
+Erfolgreich wurde die Firma durch Geräte der Unterhaltungselektronik und Funkgeräte für den Einsatz bei Polizei und Militär. Bei der Entwicklung von mobilen Telefonen nahm Motorola eine führende Stellung ein.
+Viele Missionen der frühen US-amerikanischen Raumfahrt hatten Funkeinrichtungen an Bord, die von Motorola entwickelt wurden. Motorola war auch Initiator des Iridium-Satellitentelephonsystems.
+Breite Verwendung fanden und finden die Mikroprozessoren der Serie Motorola 68000, der PowerPC-Serie und die Digitalen Signalprozessoren (DSP) der Motorola-56000-Reihe.
+Der Semiconductor Products Sector (SPS), der Halbleiterbereich von Motorola, wurde mit zwei Börsengängen ausgegliedert: Aus dem Teilbereich Semiconductor Components Group (SCG), der hauptsächlich diskrete Bauelemente und Standardprodukte herstellte, entstand im April 2000 die ON Semiconductor Corp. mit Sitz in Phoenix, Arizona. Der Rest der SPS, der die komplexeren Produkte wie Prozessoren produzierte, bildete Mitte Juli 2004 die heute zu NXP Semiconductors gehörende Freescale Semiconductor Inc. mit Sitz in Austin, Texas.
+Der Computerhersteller Apple, der viele Jahre Chips von Motorola beziehungsweise Freescale verbaute, verabschiedete sich zunächst schrittweise vom PowerPC und stattet inzwischen alle seine Personal Computer mit Intel-Prozessoren aus, die Mobilgeräte mit ARM-Prozessoren.
+Im Juli 2010 kündigten Nokia Siemens Networks und Motorola den Abschluss einer Vereinbarung darüber an, dass Nokia Siemens Networks die Mehrheit der Vermögenswerte im Geschäftssegment Mobilfunknetzinfrastruktur von Motorola übernehmen werde. Wegen eines Rechtsstreits konnte dieser Schritt erst im April 2011 vollzogen werden, zu einem Kaufpreis von 975 Millionen, statt ursprünglich geplanter 1,2 Milliarden US-Dollar. Durch den Kauf bekommt Nokia Siemens Networks rund 50 Mobilfunkbetreiber als neue Kunden. Es wird erwartet, dass bei Abschluss der Transaktion etwa 7500 Mitarbeiter aus dem Mobilfunknetzinfrastruktur-Geschäft von Motorola zu Nokia Siemens Networks wechseln werden. Im August 2010 wurde für 20 Millionen US$ die Firma 280 North gekauft.
+
+
+== Aufspaltung ==
+Im Januar 2011 schloss Motorola seine 2008 nach Verlust von Marktanteilen angekündigte Aufspaltung in zwei eigenständige Unternehmen ab. Motorola tritt seitdem unter den Namen Motorola Mobility und Motorola Solutions auf, wobei Motorola Mobility das Mobiltelefongeschäft und Motorola Solutions die Geschäftskundensparte beinhaltet. Motorola Mobility wurde im Mai 2012 nach einer mehrere Monate langen Prüfung der Regulierungsbehörde von Google für rund 12,5 Milliarden US-Dollar übernommen, seitdem ist nur noch Motorola Solutions an der Börse notiert. Anfang 2014 verkaufte Google das Unternehmen Motorola Mobility für 2,91 Milliarden US-Dollar an Lenovo, welche nun, mithilfe dieser Marke, verstärkt in das Smartphone-Geschäft einsteigen möchten. Die meisten Patente verbleiben jedoch bei Google.
+
+
+== Hauptprozessoren ==
+
+
+=== Grundlagen und historische Entwicklung ===
+In der frühen Entwicklungsphase von Prozessoren war Motorola, damals noch deutlich vor Intel, die wesentliche Kraft für Neuentwicklungen von CPUs. Durch die Dynamik dieser beiden Firmen entstanden weitere Hersteller von CPUs, die aber meist nur über eine schmale, wenn zum Teil auch durchaus erfolgreiche Produktpalette verfügten. Verbreitete Beispiele aus dem „Motorola-Lager“ sind MOS Technology und Rockwell International, die unter anderem den MOS Technology 6502 (Commodore PET, Apple II) oder 6510 (Commodore C64) produzierten. Erst die Verwendung von Intel-Prozessoren in den von IBM Anfang der 1980er Jahre erfolgreich auf dem Markt gebrachten PCs verdrängte Motorola von der Führungsposition.
+Architektonisch hoben sich Motorola-CPUs und deren Verwandte deutlich von denen aus dem Intel-Lager ab. Auffällig ist zum Beispiel der lineare Adressbereich, der ohne eine Segment-Offset-Adressierung auskommt und somit leichter in Assemblercode zu programmieren ist und der bei der Busanbindung weniger Aufwand macht. Während Intel lange Zeit einen multiplexten Adress- bzw. Datenbus verwendete, bei dem nacheinander Adressbus und Datenbus auf den gleichen Leitungen der CPU angelegt wurden, trennte Motorola den externen Adress- und Datenbus vollständig.
+Bis heute durchgängig ist die unterschiedliche Art, in der Daten, die länger als 8 Bit (1 Byte) sind, gespeichert und übertragen werden. Motorola-Prozessoren sind Big Endian.
+
+
+=== Motorola-CPUs ===
+
+Motorola 6800 8-Bit-Prozessor, der sich wenig verbreitete. Nachfolge-CPUs waren der Motorola 6802 und der sehr erfolgreiche Motorola 6809, der erstmals indizierte Adressierung bot.
+Motorola 68000 CPU mit 32-Bit-Datenregistern, 24-Bit-Adress- und 16-Bit-Datenbus. Wurde unter anderem in den ersten Apple Macintosh, in den Atari ST und in den ersten Commodore-Amiga verwendet. Diese CPU trennte als eine der ersten zwischen Supervisor- und User-Mode, das in Unix-Systemen erste große Verbreitung fand.
+Motorola 68000er-Familie Derivate aus dem 68000-Core wurden immer leistungsfähiger und behaupteten sich lange im Wettkampf mit den x86-Prozessoren von Intel und AMD und wurden in den weiteren Modellen der Macintosh- und Amiga-Computer verwendet. Siehe auch Motorola Dragonball.
+Motorola 88000 RISC-Prozessor, der als Nachfolger der 68000-Familie geplant war, aber zugunsten des PowerPC aufgegeben wurde.
+Der PowerPC-Prozessor löste die sehr erfolgreiche 68000-Familie in Apples Macintosh-Computern ab. Wesentliches Merkmal gegenüber aktuellen Intel-CPUs ist die traditionell geringe Leistungsaufnahme, weshalb der Power-PC auch in eingebetteten Anwendungen immer häufiger eingesetzt wird, in denen die geringe Erwärmung der CPU meist von großer Bedeutung ist.
+
+
+== Grafikprozessoren ==
+Weitgehend vergessen sind heute die Grafikprozessoren von Motorola aus den 1980er Jahren, obwohl sie weit verbreitet waren. Der Motorola 6845 war Herzstück der Standard-IBM-Grafikkarten MDA und CGA, sowie der HGC von Hercules. Auch im Schneider/Amstrad-Homecomputer CPC sowie der Commodore-8000er-Serie tat er seinen Dienst. Sein Befehlssatz ist heute noch als Untermenge in aktuellen Grafikprozessoren auch anderer Hersteller enthalten.
+
+
+== Mobiltelefone ==
+
+Motorola baute ab 1983 mit dem DynaTAC das erste Mobiltelefon. 1989 stellte Motorola mit dem MicroTAC das damals kleinste und leichteste Mobiltelefon vor. Im Jahre 1992 folgte mit dem International 3200 das erste GSM-Mobiltelefon. In den USA war Motorola zeitweise Marktführer in dieser Sparte. Motorola produzierte mit dem StarTAC das erste Klapphandy und mit dem MicroTAC 8900 das erste Dual-Band-Gerät sowie mit der Timeport-Serie im Jahr 2000 die ersten Triband-Geräte. Motorola stellte auch als erstes Unternehmen serienreife UMTS-Mobiltelefone her. Auf der Motorola-Plattform basierten auch die ersten UMTS-Handys von Siemens. Motorola war unter anderem mit dem V980, dem E1000 und der A-Serie (A920, A925, A1000) am europäischen UMTS-Markt vertreten.
+Nach den ersten Mobiltelefonen Anfang der 1990er Jahre führte Motorola in Europa lange eher ein Schattendasein. Das besonders flache Klapphandy Motorola RAZR hatte ab 2004 hohe Verkaufszahlen.
+2008 sanken die Umsätze um 39 Prozent. Bei den weltweiten Verkaufszahlen fiel Motorola auf den dritten Platz hinter Samsung, nachdem man für viele Jahre auf dem zweiten Platz hinter Nokia war. Motorola erwog zeitweise einen Verkauf der Handysparte, die im ersten Quartal 2008 einen Verlust von 418 Millionen USD schrieb und einen Anteil am Gesamtumsatz von 44,3 Prozent hatte. 2009 brachte Motorola das Motorola Milestone auf den Markt; ein Smartphone mit dem Betriebssystem Android 2.0 (ein Konkurrent zum Apple iPhone 3GS).
+Am 15. August 2011 gab Google bekannt, dass es die Mobilfunksparte von Motorola, Motorola Mobility, für 12,5 Milliarden US-Dollar übernehmen will. Auf einer eigens angesetzten Aktionärsversammlung am 17. November 2011 stimmten die Motorola-Aktionäre dem vorgeschlagenen Firmen-Merge mehrheitlich zu. Im Februar 2012 genehmigten die amerikanischen und europäischen Kartellbehörden die Übernahme. Gleichzeitig betonten die Wettbewerbshüter jedoch, insbesondere Googles strategische Nutzung von Patenten weiterhin scharf beobachten zu wollen. Google sichert sich durch die Übernahme von Motorola Mobility insgesamt 17.000 Patente und 6800 Patentanträge, von denen 18 eine entscheidende Bedeutung für das Google-Betriebssystem Android haben, das laut Angaben des Suchmaschinenkonzerns mit dem Erwerb des Mobilfunkanbieters gestärkt werden soll. Im Mai 2012 erklärten auch die chinesischen Behörden ihre Zustimmung zur Übernahme, allerdings unter der Bedingung, dass Android noch mindestens fünf Jahre kostenlos zur Verfügung stehen soll.
+Überwiegend wurden die Mobiltelefone von dem taiwanischen Hersteller Compal hergestellt.
+
+
+== Mobilfunkbasisstationen ==
+Motorola war einer der größten Lieferanten von Mobilfunkbasisstationen. Dieser Geschäftsbereich wurde 2010 von Nokia Siemens Networks (NSN) aufgekauft.
+
+
+== Professioneller Mobilfunk ==
+
+Als Hersteller der GP- und GM-Serie professioneller Funkgeräte versorgt Motorola einen Großteil der Anwender von Betriebsfunk und Bündelfunk in Deutschland. Varianten dieser Geräte besitzen eine Zulassung nach der Technischen Richtlinie für Behörden und Organisationen mit Sicherheitsaufgaben (BOS) und sind damit bei Polizei, Feuerwehr und Rettungsdiensten im Einsatz. Weitere BOS-Funkgeräte stammen aus der MX-Serie (Saber-Series). Zudem hat Motorola die Funksystemsparte von Bosch Telecom übernommen und damit ein Beinahe-Monopol bei der Neubeschaffung von Fahrzeugfunkgeräten für Behörden und Organisationen mit Sicherheitsaufgaben eingenommen.
+
+
+== Paging ==
+Bevor die Entwicklung reif für Mobiltelefone war, gehörte Motorola zu den Marktführern von Paging-Technologien. Dies beinhaltete eine Vielzahl von Endgeräten sowie der dazugehörigen Netz-Infrastruktur. So entwickelte Motorola eigene Übertragungsverfahren, um sich auf dem Markt behaupten zu können. Es gab bzw. gibt zwei Zielgruppen: zum einen die kommerziellen Nutzer und auf der anderen Seite die Behörden und Organisationen mit Sicherheitsaufgaben mit dem Ziel, ihr Personal zu alarmieren.
+
+
+== Funkchips (RFID) ==
+Im September 2006 übernahm Motorola für 3,16 Milliarden Euro den Funkchiphersteller Symbol Technologies mit Sitz in Holtsville, New York (USA). Das 1975 gegründete Unternehmen produzierte Scanner für Barcodes und Funkchips (RFID) und stellte RFID-Lesegeräte auf Basis des Betriebssystems Windows CE her. Symbol Technologies hielt zudem über 900 Patente im Bereich der Mobiltechnologie, darunter für WLAN und RFID. Diese Sparte wurde 2014 von Motorola Sultions an Zebra (ZIH Corp) veräußert.
+
+
+== Umweltschutz ==
+Greenpeace stellt Motorola in puncto Umweltschutz auf Platz 6 von 18 Elektroherstellern (Stand Oktober 2010; Platz 1 ist am umweltfreundlichsten). Dabei geht es um gefährliche chemische Substanzen in der Produktionskette sowie Entsorgung und Recycling.
+
+
+== Siehe auch ==
+andere Prozessorhersteller: AMD, Intel, VIA, Transmeta
+Liste von Motorola-Mobiltelefonen
+Team Motorola; ehemaliges Radsportteam (1991–1996), dessen Hauptsponsor Motorola war
+
+
+== Weblinks ==
+
+Motorola Mobility
+Motorola Solutions
+
+
+== Einzelnachweise ==
